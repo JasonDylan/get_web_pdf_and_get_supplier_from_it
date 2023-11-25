@@ -1,0 +1,4 @@
+"tesla",
+"apple",
+"spacex",
+"alibaba",
