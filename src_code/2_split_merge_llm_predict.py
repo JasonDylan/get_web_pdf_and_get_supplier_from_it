@@ -30,7 +30,6 @@ def chat_gpt_turbo(message_our,COMPLETION_MODEL,n=1,max_tokens=3000):
 
 
 def entity_extraction_func(text):
-    from openai import OpenAI
     client = OpenAI(api_key=API_KEY)
 
     system_prompt = """

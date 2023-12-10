@@ -27,7 +27,7 @@ except LookupError:
 # chunk_size is how many tokens we will take in each block of text
 # overlap_size is how much overlap. So 200, 100 gives you chunks of between the 1st and 200th word, the 100th and 300th, the 200 and 400th...
 # I have in no way optimized these
-chunk_size = 400
+chunk_size = 2000
 overlap_size = 100
 
 # load user settings and api key

@@ -1,11 +1,11 @@
 import pdfplumber
 import os
 import time
-import timeout_decorator
+# import timeout_decorator
 import logging
 import re
 import subprocess
-
+# 本文件与ChopDocuments.py 功能重复了
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # @timeout_decorator.timeout(100)
@@ -20,7 +20,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 #             with pdfplumber.open(pdf_path) as pdf:
 #                 # 逐页处理PDF
 #                 for page in pdf.pages:
-#                     text = page.extract_text() + '\n'
+#                     text = page.extract_text() + '\\n'
 #                     f.write(text)  # 将每页的文本写入文件
 
 #         logging.info(f"Text saved to {output_path}")
@@ -48,7 +48,7 @@ def html_to_txt(html_file_path, output_folder):
             html_content = file.read()
 
         soup = BeautifulSoup(html_content, 'html.parser')
-        text = soup.get_text(separator='\n', strip=True)
+        text = soup.get_text(separator='\\n', strip=True)
 
         base_name = os.path.basename(html_file_path)
         file_name, _ = os.path.splitext(base_name)
@@ -76,7 +76,7 @@ def convert_files_in_batches(folder_path, output_folder, batch_size=10):
         time.sleep(1)  # 防止过快处理导致的内存问题
 
 # 使用示例
-folder_path = 'D:\Users\sjc\get_web_pdf_and_get_supplier_from_it\data\report_pdf'  # 替换为您的PDF和HTML文件所在的文件夹路径
+folder_path = 'data\\report_pdf\\PDF'  # 替换为您的PDF和HTML文件所在的文件夹路径
 output_folder = folder_path + "_Convert_Txts"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
