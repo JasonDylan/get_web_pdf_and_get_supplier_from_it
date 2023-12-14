@@ -1,0 +1,645 @@
+Enabling Environmental and Social Responsibility
+Sustainability Report 2020
+2  | Sustainability Report 2020Commitment to Sustainability
+Letter from the CEO
+The challenges presented by the global COVID-19 pandemic 
+made 2020 a year like no other for Skyworks and for all of our 
+stakeholders. Yet our resilient workforce endured the disruptions 
+and headwinds with incredible tenacity, demonstrating our 
+leadership in critical connectivity technologies that have only 
+increased in importance. As a team, we have forged on with our 
+mission of Connecting Everyone and Everything, All the Time , in 
+service of our employees, customers and partners, communities, 
+consumers and the planet as a whole. 
+Last March, in the face of considerable uncertainty, we took 
+swift actions to protect the health and safety of our employees, 
+establishing a COVID-19 playbook with detailed safety protocols for 
+each of our facilities worldwide. Through careful implementation 
+of preventative measures, our sites were able to effectively 
+maintain business operations to ensure continued supply of 
+critical products to our customers. 
+The events of the past year have caused many essential daily 
+interactions to move online—including remote work, virtual 
+education and touchless commerce—fueling extraordinary 
+demand for the greater speed, reliability, capacity, and security 
+that our next-generation technologies uniquely provide. 
+Technology-enabled collaboration has been instrumental not only 
+to our individual activities but also to humanity’s collective efforts 
+to confront and overcome the pandemic. 
+This 2020 Sustainability Report marks the twelfth consecutive 
+year in which Skyworks has voluntarily published a report on the 
+company’s sustainability and corporate responsibility initiatives. 
+Consistent with our long-maintained sustainability policy, 
+Skyworks continues to operate in accordance with sustainable 
+business practices that meet today’s needs without compromising 
+the ability of future generations to meet their own. Though not 
+featured in this report, our connectivity solutions have also been 
+front and center in the sustainability efforts of businesses and 
+governments worldwide, which increasingly rely on constant 
+measurement, analysis and optimization.These pages contain disclosure beyond what has been provided 
+in prior years, in several cases in response to requests from our 
+stockholders. In accordance with our commitment in last year’s 
+report, we have aligned our disclosure with the standards set forth 
+by the Sustainability Accounting Standards Board (SASB) for the 
+semiconductor industry. We remain committed to continuous 
+improvement and increased transparency and accountability to 
+stakeholders, and in future reports we expect to provide additional 
+detail about Skyworks’ commitment to confront climate change.
+At a time when global supply chains remain under enormous 
+pressure, Skyworks’ operation of its own critical manufacturing 
+facilities remains a strategic competitive advantage. As a result 
+of years of continuous investment in capital, technology and 
+efficiency improvements, as well as our extraordinary discipline 
+during 2020, we exited the calendar year with a healthy balance 
+sheet,  record quarterly revenue, and a path to continued 
+sustainable growth.
+Looking to the future, we are committed to creating value for all 
+of our stakeholders while satisfying the insatiable demand for 
+wireless connectivity in today’s transformed world.
+Liam K. Griffin  
+President and Chief Executive Officer  
+Skyworks Solutions, Inc.
+Sustainability Report 2020  |  3We are also in the process of assessing climate-related risks, and we expect to align fu -
+ture sustainability disclosure with the guidelines from the Task Force on Climate-related 
+Financial Disclosures (TCFD). As part of that internal assessment, we are evaluating the 
+feasibility of setting a target date for net-zero emissions, and we intend to disclose these 
+efforts in the future.
+Skyworks is empowering wireless networking, connecting 
+people, places and things around the world. As wireless 
+connectivity continues to explode on a global basis, our high-
+performance analog semiconductors enable breakthrough 
+communication platforms from industry leaders—dramatically 
+altering the world. Our solutions create a market for diverse and 
+transformative applications, changing how individuals live, work, 
+play and learn. In 2020, we faced unprecedented challenges with 
+the global COVID-19 pandemic. Nevertheless, our company´s 
+vision - to Connect Everyone and Everything, All the Time  - has 
+never been more important.
+Skyworks is a global company with engineering, marketing, 
+operations, sales and support facilities located throughout 
+Asia, Europe and North America and is a member of the S&P 
+500® and Nasdaq-100® market indices (Nasdaq: SWKS). 
+Responsiveness to stockholders is a critical part of our commitment to good corporate 
+governance, responsibility and accountability. We regularly conduct outreach to our 
+stockholders to understand their perspectives on environmental, social and governance 
+issues. On a regular basis, as part of its oversight of risk management activities, our 
+Nominating and Corporate Governance Committee reviews matters of corporate respon -
+sibility and sustainability, including the opinions expressed by our stockholders during 
+our engagement efforts. 
+In response to feedback from our stockholders, we have further aligned our disclosure in 
+this report with the external reporting framework promulgated by the SASB. The SASB 
+reporting framework is a voluntary, industry-specific disclosure standard intended to 
+facilitate the disclosure of information considered useful to investors. The Appendix 
+to this report sets forth a detailed description of how this report aligns with the SASB 
+reporting framework, noting omissions and variations where applicable. In general, the 
+disclosure in this report refers to all Skyworks business operations. However, where the 
+disclosure refers to a subset of our operations (such as factory locations only), we have 
+noted this within the report. The data in this report involves reasonable assumptions, 
+subject in many cases to a high degree of uncertainty and based on our best estimates at 
+the time, and we have no expectation that the data will be up  dated or revised as a result 
+of new information.Our Company
+Major Manufacturing Locations
+Woburn, MA
+GaAs HBT, pHEMT, GaN FabNewbury Park, CA  
+GaAs HBT Fab
+Kadoma, Japan  
+SAW Filter FabSingapore  
+SAW / BAW Filter WL -CSP FabOsaka, Japan  
+SAW / BAW Filter Fab
+Mexicali, Mexico
+Back End Assembly and Test
+Stockholder Engagement and Reporting Framework4  | Sustainability Report 2020
+Sustainability Policy
+Skyworks is committed to operating under sustainable business practices that meet 
+today’s needs without compromising the ability of future generations to meet their own. 
+We employ a management system approach to: 
+• Comply with applicable laws, regulations and requirements 
+• Prevent pollution, conserve resources and minimize waste 
+• Cultivate safe, healthy and productive work environments 
+• Operate with integrity, honesty and accountability 
+• Foster continuous improvement 
+• Promote sustainability throughout our supply chain 
+Our sustainability policy is regularly communicated to all employees. Each year, our 
+employees are required to complete a sustainability general awareness training course 
+in which they are provided key information on our sustainability objectives and systems 
+in place to drive continuous improvement. In addition, employees are provided with 
+policy badges (in their local language) to carry with their identification badges. These 
+policy badges act as a regular reminder of the importance of sustainability at Skyworks 
+and that each employee has a contributing role. Enabling a Connected World Through Sustainable Business Practices
+2020 Highlights 
+Through our Sustainability Management Systems, we leveraged existing programs and developed new initiatives to drive continuous improvement. 
+>30,000,000 Kilowatt Hours
+Renewable energy credits sourcedSASB Alignment
+Disclosure according to the Sustainability Accounting 
+Standards Board (SASB) Semiconductors standard 
+10 Percent
+Growth in global workforce395,000 Pounds  
+Hazardous waste generation averted
+ISO 14001 Certification 
+Maintained at all manufacturing locations worldwide
+9 Years 
+Active membership in the Responsible Business Alliance (RBA)6 Years 
+Consecutive reporting DRC Conflict-Free
+Sustainability Report 2020  |  5
+Baseline water stress measures the ratio of total water withdrawals to available 
+renewable surface and groundwater supplies. Water stress levels by region were taken 
+from the World Resources Institute (WRI) Aqueduct Water Risk Atlas found at wri.org/
+aqueduct . 
+Factory* Water Use by Stress Level  
+(WRI Aqueduct Water Risk Atlas Tool)
+50%19%
+21%
+20%
+Extremely High 
+>80%Medium-High  
+20-40%Low-Medium  
+10-20%Low  
+<10%Environment
+In accordance with the ISO 14001 standard to which all our manufacturing locations are certified, Skyworks 
+identifies the aspects of our activities, products and services that we can control and those that we can 
+influence, along with their associated impacts. We identify environmental improvement objectives for 
+those impacts deemed most significant and where there is opportunity for further improvement. We use 
+standardized metrics and methods to track our progress.  
+As an essential services provider, Skyworks maintained operations in 2020 with strict COVID-19 safety 
+protocols in place. While overall operations were successfully maintained, some production inefficiencies 
+were created, which had an adverse impact on some of our environmental metrics.  Keeping employee 
+health and safety as our top priority, our factories worked to minimize those adverse impacts, even realizing 
+gains in some areas.  
+Water Management
+Across Skyworks’ major manufacturing facilities, water withdrawals (100% from 
+municipal water utilities suppliers) totaled 493,385,675 gallons (1,867,667 cubic meters). 
+Following our water-use efficiency low of 62 gallons per 1k production units achieved in 
+2019, usage efficiency increased in 2020 to 71 gallons per 1k production units. 
+Factory* Water Use and Efficiency
+402
+2017 2018 2019 202086
+6971
+62
+431 438493
+Gallons / 1k  
+Production UnitsGallons  
+(in Millions)
+ 
+*All major manufacturing locations, including N ewbury Park – CA, Woburn – MA, Mexicali - Mexico, Singapore, Osaka – Japan and Kadoma – Japan.6  | Sustainability Report 2020Energy Management 
+Semiconductor manufacturing is an energy-intensive activity by its very nature. 
+Energy, as presented here, includes electricity usage (as supplied by the energy grid) and 
+natural gas usage, which is consumed in large part by critical infrastructure systems 
+such as boilers and thermal oxidizers, among other things. In 2020, the total energy 
+consumed at our factory* locations was 374,066,000 kWh (1,346,636 gigajoules). Our 
+gross energy use increased year-over-year due to the continued expansion of our 
+production capacity. In 2019, we saw our lowest (best) energy efficiency rate of 52 kWh 
+per 1k production units. In 2020, primarily due to factory inefficiencies resulting from 
+COVID-19, we saw a slight increase to 54 kWh per 1k production units.
+Factory* Energy Use and Efficiency
+306
+2017 2018 2019 2020
+66
+5454 52
+337368 374
+kWh / 1k  
+Production UnitskWh  
+(in Millions)
+Clean Energy
+In 2020, Skyworks continued its clean energy sourcing efforts. Through the purchase of 
+>30,000,000 kWh of renewable energy credits (RECs), Skyworks offset an additional 9% of 
+its total electricity usage above and beyond applicable regulatory requirements.Waste Management 
+In 2020, Skyworks realized year-over-year decreases (improvement) in both gross 
+hazardous waste generation and the hazardous waste generation rate. Improvement to 
+the generation rate averted approximately 395,000 lb. of waste for the year. Total gross 
+hazardous waste generated globally was 4,725,000 lb. (2,143 metric tons). The waste 
+generation rate of 0.68 lb. per 1k production units marks our lowest (best) annual rate. 
+Hazardous waste generation was slightly less impacted by inefficiencies caused by 
+COVID-19 as compared to  the other environmental measurements, because the waste 
+generation, and the chemical usage that precedes it, has a more direct correlation to 
+production activity.  
+Factory* Hazardous Waste Generation and Efficiency
+3.7
+2017 2018 2019 2020
+0.80
+0.72
+0.680.734.55.2
+4.7
+Pounds / 1k  
+Production UnitsPounds  
+(in Millions)
+In addition to hazardous waste, Skyworks also tracks, and works to minimize, the 
+generation of non-hazardous municipal waste and to improve the overall percentage 
+recycled (includes waste for energy recovery). While there was a year-over-year decrease 
+from 66% to 64%, the gross quantity of waste generation was decreased by nearly 
+230,000 lb.EnvironmentSustainability Report 2020  |  7Waste Management (continued)
+Factory* Municipal Waste Generation and Percent (%) Recycled
+5.7
+2017 2018 2019 2020
+63%64% 64% 66%
+6.66.96.7
+% of Municipal  
+Waste RecycledPounds  
+(in Millions)
+Greenhouse Gas Emissions Management
+Gross Scope 11 CO2e emissions remained relatively flat year-over-year at 32,844 tons. 
+71% of Scope 1 emissions were attributed to process gas usage (gases with established 
+global warming potential values). The remaining 29% was the result of natural gas usage 
+in factory infrastructure systems such as boilers and thermal oxidizers. The gross Scope 
+22 emissions decreased year-over-year to 95,354 tons primarily due to an update in local 
+emissions factors from the energy providers reflecting an increased percentage of 
+renewable energy supplied to the grid. The total Scope 1 and 2 emissions for the year was 
+128,189 tons CO2e, down by nearly 22,900 tons. The emissions rate (intensity) also improved 
+year-over-year to 0.018 tons CO2e per 1k production units. Environment
+Factory* Scope 1 CO2e Emissions By Source
+29%
+71%
+Natural Gas Process Gases
+ 
+Factory* Scope 1 and 2 CO2e Emissions
+140
+2017 2018 2019 20200.030
+0.024
+0.0180.021149 151
+128
+Scope 1+2  
+Metric Tons / 1k  
+Production UnitsScope 1  Scope 2  
+1. Scope 1 emissions include all process-related HFCs and PFCs as well as natural gas.
+2.  Scope 2 emissions include off-site emissions resulting from our electricity consumption.Metric Tons (In Thousands)
+*All major manufacturing locations, including N ewbury Park – CA, Woburn – MA, Mexicali - Mexico, Singapore, Osaka – Japan and Kadoma – Japan.8  | Sustainability Report 2020Product Lifecycle Management
+As a supply chain manufacturer of semiconductor devices used in a multitude of end 
+products, Skyworks can impact product life cycle management as it pertains to the 
+management of hazardous materials contained within them. We maintain a robust 
+process of supplier qualification and certification of materials conformance to the 
+industry-recognized International Electrotechnical Commission (IEC) 62474 Declarable 
+Substance List (DSL). As stated by the IEC, “The electrical and electronics industry and 
+its supply chain use material declarations to track and declare specific information 
+about the material composition of its products. To harmonize requirements across the 
+supply chain and to improve economic efficiencies, IEC 62474 provides an International 
+Standard for the exchange of material composition data and provide requirements for 
+material declarations. This International Standard benefits the electrotechnical industry 
+by establishing requirements for reporting of substances and materials, standardizing 
+protocols, and facilitating transfer and processing of data.” 
+Skyworks makes available on its website certificates of conformance identifying the 
+conformance status to applicable regulatory requirements including RoHS, REACH,  and 
+IEC 62474 DSL. 
+Upon request, all customers may receive a full materials declaration identifying all 
+substances contained in a finished good, along with their concentrations. Skyworks 
+products are free of IEC 62474 substances above referenced thresholds for their 
+referenced uses.
+Supply Chain Environment
+Supplier Responsibility
+Skyworks’ supply chain is a key factor in our ability to innovate and grow, as well 
+as to meet the needs of our customers for high-quality, low-cost products. Our 
+supplier partnerships are vital to our ongoing efforts towards our sustainability 
+policy commitment to “meet today’s needs without compromising the ability of future 
+generations to meet their own.” We promote sustainability throughout our worldwide 
+supply chain by holding our suppliers accountable to the same standards to which we 
+hold ourselves. Our tier-one supply chain spans 17 countries, with 20 subcontracted 
+product assembly facilities and 138 finished goods materials suppliers.
+Sustainability Report 2020  |  9
+Supply Chain
+1. Communication 
+Sustainability requirements are communicated to our suppliers via the 
+Supplier Sustainability Specification. Here, suppliers are informed of the 
+obligations that all qualified supply chain partners must meet.
+2. Qualification 
+Suppliers are closely evaluated and qualified based on a strict set of 
+criteria associated with product quality, performance, price, sustainability 
+programs and more.
+3. Identification
+Major suppliers are identified. These suppliers represent 80% of our 
+expenditures and include subcontractor assembly facilities and labor 
+agencies (i.e. recruiting companies).
+4. Risk Assessment 
+All major suppliers complete an industry standardized Self-Assessment 
+Questionnaire (SAQ) developed and implemented by the RBA. Risk rankings 
+are identified based on the SAQ scores.
+5. Audit  
+Supplier facilities that are ranked as high risk, in addition to any others 
+specifically requested by Skyworks, must complete an onsite industry 
+standard RBA Validated Audit Process (VAP). VAP is a third-party, risk-
+based audit process where suppliers are objectively evaluated and their 
+sustainability performance is scored.
+6. Continuous Improvement 
+Suppliers initiate corrective action plans (CAPs) for any issues identified in 
+the VAP. Skyworks collaborates with its suppliers in tracking the CAPs to 
+closure and provides further assistance at our supplier locations as needed.Supplier Responsibility
+Skyworks publishes, and holds its suppliers accountable to, the standards contained 
+in the Supplier Sustainability Specification ( https://www.skyworksinc.com/-/media/
+Skyworks/Documents/SupplierDocs/SQ030337.pdf ). Just as with our internal factory 
+standards, the Supplier Sustainability Specification is based on the RBA Code of 
+Conduct.
+Skyworks’ key suppliers must undergo an onboarding process and periodic evaluation 
+during which their conformance to the Supplier Sustainability Specification is verified.
+Responsible Minerals Sourcing
+Materials considered critical to Skyworks' business operations include Tantalum 
+(Ta), Tin (Sn), Tungsten (W) and Gold (Au), which are collectively referred to as 3TG. 
+Use of these four materials is common throughout the semiconductor industry, 
+and the minerals are regulated under the U.S. SEC Conflict Minerals regulation. 
+In conformance with this rule, Skyworks has developed a Responsible Minerals 
+Sourcing program. The program is aimed at reducing risks associated with the use 
+of 3TG through a robust evaluation of supply chain sourcing practices to identify 
+and eliminate risks to human rights abuses in the minerals supply chain. As a long-
+standing member of the Responsible Minerals Initiative (RMI) which helps companies 
+make informed decisions on their supply chains, Skyworks remained an active  
+participant throughout 2020. Skyworks utilizes the RMI’s flagship Responsible 
+Minerals Assurance Process (RMAP) (which provides independent, third-party smelter 
+/ refiner audits) and works with our supply chain partners to drive towards a 100% 
+audited and conformant supply chain. 2020 marks the sixth consecutive year in 
+which Skyworks has declared “DRC Conflict-Free” (in accordance with the SEC rule), a 
+testament to the strength of our supply chain outreach and due diligence efforts.
+Identified Smelters % Conformant
+Tantalum 37 100%
+Tin 48 100%
+Tungsten 41 100%
+Gold 106 100%
+Total 232 100%
+10  | Sustainability Report 2020Supply Chain
+Responsible Minerals Sourcing (continued)
+Five-Step Framework for Risk-Based Due Diligence in the Mineral Supply Chain
+Our Policy
+Skyworks is committed to the responsible sourcing of minerals. We have established 
+programs aligned with the internationally recognized OECD due diligence framework3 to 
+regularly evaluate our supply chain and require our suppliers to do the same. Suppliers 
+are prohibited from supplying Skyworks with materials known to be derived from the 
+Democratic Republic of the Congo (DRC) or adjoining countries that have not been 
+confirmed as “DRC Conflict-Free” via a recognized and credible third-party process such 
+as RMAP, the London Bullion Market Association (LBMA) Good Delivery List, and/or the 
+Chain of Custody (CoC) program from the Responsible Jewellery Council (RJC).
+Our sustainability policy along with current and past Conflict Minerals Reports are 
+available to the public on the Company’s website at:  
+ www.skyworksinc.com/en/Sustainability .
+3.  “OECD due diligence framework” refers to the Organization for Economic Co-Operation and Development’s guidance titled “OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict- Affected and 
+High-Risk Areas.”
+4. All Skyworks locations.
+Establish strong company management systems
+Identify and assess risk in the supply chain
+Design and implement a strategy to respond to identified 
+risks
+Carry out independent third-party audit of supply chain due  
+diligence at identified points in the supply chain
+Report on supply chain due diligenceSkyworks is Committed to Cultivating a Safe, Healthy 
+and Productive Work Environment
+Skyworks has prioritized, and always will prioritize, the health and safety of our 
+employees in compliance with applicable rules and regulations worldwide. Our approach 
+to health and safety is integrated into our business principles and management systems, 
+further promoting our commitment to the wellbeing of our employees.
+As part of our management systems, Skyworks regularly performs risk assessments 
+throughout the organization. We establish objectives and targets for the reduction of 
+employee exposure to human health hazards. In addition, industrial hygiene plans are in 
+place with surveys performed to measure and monitor employee exposures to chemicals 
+used within the workplace. Further, Skyworks is fully committed to robust training, giving 
+our employees the tools and knowledge to perform their jobs and work safely. As part 
+of our ongoing commitment to health and safety, we conduct internal audits focused 
+on compliance and management systems at all our manufacturing locations. Skyworks 
+will continue to foster a culture of health and safety across the organization to drive 
+improvements.Health and Safety
+0.9
+201720170.8
+201820180.7
+201920190.4
+202020200.4
+201720170.3
+201820180.3
+201920190.2
+20202020
+Total Cases per  
+200,000 Hours Worked4Lost Time Days per  
+200,000 Hours Worked4Lost Time Incident Rate 
+(LTIR)Total Recordable Incident Rate  
+(TRIR)Sustainability Report 2020  |  11Health and Safety Compliance
+Skyworks is subject to, and regularly undergoes, health and safety inspections in accordance with federal, regional and local 
+government laws and regulations. We work closely with regulators and take appropriate actions where  necessary and to help us 
+improve. In 2020, there were no (zero) monetary losses incurred as a result of legal proceedings associated with employee health and 
+safety violations.
+COVID-19
+In 2020, the vast majority of the countries and other jurisdictions in which Skyworks operates recognized the essential nature 
+of our business. In order to safely continue performing our essential work around the world, Skyworks implemented safety 
+protocols to help protect our workers and by extension, their families and our communities. This effort included the development 
+of a comprehensive COVID-19 Playbook to establish company-wide safety standards concerning employee communication and 
+education, modifications to the work environment, cleaning protocols, entry screening procedures for employees and visitors, 
+travel restrictions, mask usage, social distancing, investigating and otherwise responding to potential COVID-19 cases, return-to-
+work criteria and training. 
+Skyworks provided varying amounts of paid time off, depending on circumstance and location, to employees who were awaiting 
+test results, had close contact with suspected or confirmed cases, contracted COVID-19 themselves, or were otherwise unable to 
+work by virtue of a COVID-19-related government order.Health and Safety
+6’
+Thank you for practicing social distancing
+www.skyworksinc.com/COVID-19
+6’
+Thank you for practicing social distancing
+Social Distancing Best Practices
+• Please keep 6 feet apart
+• Minimize close contact
+• No handshakes
+• Wash hands frequently6 Feet
+6’
+Thank you for practicing social distancing
+Temperature Screening
+• All persons including employees, contractors, and visitors, 
+  must go through the temperature screening process in order 
+  to enter a Skyworks facility .
+• Anyone with a temperature < 100.4°F will be able enter the facility. 
+• Should a person register at or above the CDC threshold of 100.4°F, 
+  they will be politely instructed to return home, as they will not be 
+  granted access into the facility. Employees will be instructed to 
+  call their supervisor/manager from home.   
+6’
+Thank you for practicing social distancing
+Protective Face Coverings
+• Wear a face covering at all times while in the Skyworks facility, 
+   except when eating or when in an individual work space (o/f_f_i.ligace or cube) 
+   at least six feet away from others. 
+• Ensure it covers your nose and mouth. 
+• Please wash your hands for 20 seconds before putting on and 
+   after removing your face covering. 
+• Do not to touch your face or the face covering while wearing it. 
+• Routinely clean cloth face coverings in a washing machine. 
+6’
+Thank you for practicing social distancing
+Conference Room Safety
+• Small conference rooms are limited to single person use only.
+• In large conference rooms, capacity is reduced by half.
+• Do not sit in any chairs that are taped with an ‘x’. 
+• Ensure you are seated at arms length apart.
+• Consider using MS Teams or the AT&T conference lines
+   in lieu of in-person meetings in the conference rooms. Temperature Screenings at Facilities Enhanced Cleaning Measures12  | Sustainability Report 2020At Skyworks, we strive for perfect quality while abiding by our principles of sustainable business practices. Our management systems are certified to internationally recognized 
+standards for quality and environmental management, including ISO 9001 and 14001. Furthermore, our systems are designed and operated in accordance with the RBA Code of Conduct. 
+To learn more, the following resources are available online: Sustainability Systems Manual , ISO Certifications , and the RBA Code of Conduct .
+In 2020, Skyworks continued its active membership in the RBA, which is a nonprofit coalition of electronics manufacturers and 
+other affiliated companies committed to supporting the rights and well-being of workers and communities worldwide who are 
+affected by the global electronics supply chain. RBA members commit and are held accountable to a common Code of Conduct 
+and utilize a range of RBA training and assessment tools to support continuous improvement in the social, environmental, and 
+ethical conditions of their supply chains. Skyworks has been an active member of the RBA since 2011. A full list of members can be 
+referenced by visiting: www.responsiblebusiness.org/about/members .
+In 2020, Skyworks also maintained its “full member” status within the RBA. "Full" members demonstrate the highest level of commitment and accountability to the RBA Code of 
+Conduct.
+Skyworks is dedicated to conducting business in compliance with both the letter 
+and the spirit of applicable laws, rules and regulations and consistent with the 
+highest standards of business ethics. Our sound business principles and practices 
+foster our strong commitment to ethical behavior, accountability and transparency.
+We aim to lead by example—guided by good corporate governance and principles 
+as defined in our Code of Business Conduct and Ethics (the "Code"). The Code 
+outlines broad principles of ethical business conduct embraced by Skyworks. 
+In order to establish an effective ethics and compliance program and to develop 
+trust, employees must be able to raise concerns without fear of retaliation. Our 
+employees have a duty to report any known or suspected violation of the Code, or of 
+any rules or regulations applicable to the Company. Employees are trained annually 
+on the contents of the Code.
+Skyworks maintains an anonymous whistleblower hotline with local language 
+support for employees worldwide to report any concerns or ask any questions 
+about the company's business practices. In addition, Skyworks maintains a written 
+policy prohibiting any form of retaliation against an employee who reports a 
+concern in good faith.
+The Code, along with other corporate governance information, is available on our 
+website: investors.skyworksinc.com/corporate-governance .Management Systems
+Ethics
+Sustainability Report 2020  |  13
+Culture and Diversity
+Our workforce consists of approximately 10,000 employees located around the world. 
+As of October 2, 2020:
+• Our workforce was distributed geographically approximately as follows: 61% in 
+Mexico, 21% in the United States, 17% in Asia, 1% in Canada and less than 1% in Europe.
+• Our workforce was distributed by function approximately as follows: 51% in individual 
+contributor manufacturing roles, 29% in engineering or technician roles, 10% in 
+managerial roles and 10% in professional or other administrative roles.
+• Approximately 36% of our employees worldwide, and approximately 22% of our 
+employees in the United States, were female. In addition, among our employees in the 
+United States with managerial responsibility, approximately 13% were female.
+• In the United States,* our employees identified with race and ethnicity categories as 
+follows: 42% Asian, 40% White, 13% Hispanic or Latino, 3% Black or African American 
+and 2% Other (including Native Hawaiian or Pacific Islander, Native American or Alaska 
+Native, or Two or More Races). In addition, among our employees in the United States 
+with managerial responsibility, approximately 48% identified with one (or more) race 
+and ethnicity categories other than White.
+We work to create an inclusive and equitable environment where individuals of all 
+backgrounds can collaborate in a positive and productive environment. Consistent 
+with our commitment to attracting a skilled workforce that reflects a diverse global 
+marketplace for talent, our internal and external recruiters have been trained to expand 
+candidate pools, wherever possible, to include individuals from underrepresented 
+demographic groups. We enjoy robust collaborative relationships with several leading 
+universities around the world, and we leverage these relationships to introduce 
+candidates from underrepresented demographic groups to the semiconductor industry 
+through our internship and co-op programs, as well as to facilitate the education and 
+development of the next generation of skilled engineers necessary for our future 
+innovation.
+In managing our business, we focus on attracting and retaining employees by providing 
+compensation and benefits packages that are competitive within the applicable market, 
+taking into account the job position’s location and responsibilities. Nearly all full-time 
+employees across the globe are eligible to participate in one of the Company’s incentive Recruiting and Managing a Global and Skilled Workforce
+Skyworks is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual 
+orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.plans, under which payments are tied to pre-established performance goals, as well as 
+to purchase shares of the Company’s common stock at a discount from the market price 
+of the common stock at the time of purchase, pursuant to the Company’s employee stock 
+purchase plans.
+In addition, we believe that developing our employees’ skillsets and decision-making 
+abilities—through challenging project assignments, formal training, mentorship and 
+recognition—is key not only to our employees’ job satisfaction and our retention efforts, 
+but also to maintaining a strong leadership pipeline. We attempt to maximize the rate at 
+which open positions are filled by internal candidates.
+The percentage of foreign nationals employed at our various locations worldwide in 2020 
+was approximately 6%. The COVID-19 pandemic, along with the resulting restrictions 
+on travel and visa issuance by countries in which we have employees, has presented 
+challenges to the ability of our foreign national employees to maintain applicable work 
+authorization status in their host countries. We attempt to mitigate these challenges 
+by requesting expedited processing of immigration paperwork where possible due to 
+Skyworks’ status as an essential business. Furthermore, we work to develop local talent 
+pools and from time to time pursue strategic acquisitions as a method of expanding our 
+highly skilled labor workforce in key geographies.
+*The majority of our workforce is employed in countries in which Skyworks does not collect or report its employees’ race and ethnicity data. Employees in Skyworks’ international facilities, including ~6,100 employees in Mexico, ~1,000 employees 
+in Singapore and ~450 employees in Japan, are predominantly nationals of the countries in which they are employed.14  | Sustainability Report 2020Appendix
+Sustainability Disclosure Topics and Accounting Metrics
+Topic Code Accounting Metric Our Response / Comments Reference in Report
+Greenhouse Gas Emissions TC-SC-110a.1 (1) Gross global Scope 1 emissions and (2) amount of 
+total emissions from perfluorinated compounds(1) 32,844 metric tons CO2e 
+(2) 23,319 metric tons CO2e from process gases 
+including perfluorinated compoundsGreenhouse Gas Emissions 
+Management ( Page 7 )
+TC-SC-110a.2 Discussion of long-term and short-term strategy 
+or plan to manage Scope 1 emissions, emissions 
+reduction targets and an analysis of performance 
+against those targetsWe have not yet made a public commitment 
+regarding long-term or short-term Scope 
+1 emissions reduction targets. As a result 
+of efficiency improvements, our Scope 1 
+emissions remained relatively flat year-
+over-year even as our manufacturing volume 
+expanded significantlyGreenhouse Gas Emissions 
+Management ( Page 7 )
+Energy Management in 
+ManufacturingTC-SC-130a.1 (1) Total energy consumed, (2) percentage grid 
+electricity, (3) percentage renewable(1) 1,346,636 gigajoules  
+(2) 100% grid electricity  
+(3) 9% of electricity consumed is sourced from 
+renewable sources (via Renewable Energy 
+Credits)Energy Management and Clean 
+Energy ( Page 6 )
+Water Management TC-SC-140a.1 (1) Total water withdrawn, (2) total water consumed, 
+percentage of each in regions with High or Extremely 
+High Baseline Water Stress(1) 1,867,667 m3  
+(2) See Page 5 of reportWater Management ( Page 5 )
+Waste Management TC-SC-150a.1 Amount of hazardous waste from manufacturing, 
+percentage recycled2,143 metric tons; we have omitted disclosure 
+of the percentage recycled due to data 
+collection processes that are still being 
+finalizedWaste Management ( Page 6 )
+Employee Health & Safety TC-SC-320a.2 Description of efforts to assess, monitor and reduce 
+exposure of employees to human health hazardsSee Page 10 of report Health and Safety (Page 10 )
+TC-SC-320a.2 Total amount of monetary losses as a result of legal 
+proceedings associated with employee health and 
+safety violations$0 monetary losses incurred in 2020 Health and Safety Compliance 
+(Page 11 )
+Recruiting & Managing a Global & 
+Skilled WorkforceTC-SC-330a.1 Percentage of employees that are (1) foreign nationals 
+and (2) located offshore(1) 6% foreign nationals  
+(2) 79% located offshore (outside the United 
+States)Culture and Diversity ( Page 13 )Sustainability Report 2020  |  15Appendix (continued)
+Safe Harbor StatementSustainability Disclosure Topics and Accounting Metrics
+Topic Code Accounting Metric Our Response / Comments Reference in Report
+Product Lifecycle Management TC-SC-410a.1 Percentage of products by revenue that contain IEC 
+62474 declarable substances0% of products by revenue Product Life Cycle Management 
+(Page 8 )
+TC-SC-410a.2 Processor energy efficiency at a system-level for: (1) 
+servers, (2) desktops and (3) laptopsBecause the products we manufacture 
+are constantly being updated and can be 
+incorporated by our customers into multiple 
+end uses, including the listed product 
+categories, we do not track or disclose 
+percentages pursuant to this metric.N/A
+Materials Sourcing TC-SC-440a.1 Description of the management of risks associated 
+with the use of critical materialsSee Page 9 of report Responsible Minerals Sourcing 
+(Page 9 )
+Intellectual Property Protection 
+& Competitive BehaviorTC-SC-520a.1 Total amount of monetary losses as a result of legal 
+proceedings associated with anti-competitive 
+behavior regulationsInformation on legal proceedings is disclosed 
+in our Annual Report on Form 10-K and in our 
+Quarterly Reports on Form 10-Q, available on 
+the Investor Relations portion of our website.N/A
+Any forward-looking statements contained in this report are intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 
+1995. Forward-looking statements include without limitation information relating to future events, results and expectations of Skyworks. Forward-looking statements can often 
+be identified by words such as “anticipates,” “expects,” “forecasts,” “intends,” “believes,” “plans,” “may,” “will” or “continue,” and similar expressions and variations (or negatives) of 
+these words. Actual events and/or results may differ materially and adversely from such forward-looking statements as a result of certain risks and uncertainties including, but not 
+limited to, the effects of the global COVID-19 pandemic and the measures taken to limit COVID-19’s spread on our business operations, including actions that may be taken by us, our 
+suppliers and partners, or governmental authorities in the jurisdictions in which we operate in an effort to contain the COVID-19 pandemic; the risks of doing business internationally, 
+including economic, social, military, and geo-political conditions in the countries in which we, our customers, or our suppliers operate; changes in laws, regulations and/or policies 
+that could adversely affect our operations and financial results, the economy and our customers’ demand for our products, or the financial markets and our ability to raise capital; 
+our ability to retain, recruit and hire key executives, technical personnel and other employees in the positions and numbers, with the experience and capabilities in our desired 
+geographic locations and at the compensation levels needed to implement our business and product plans; and other risks and uncertainties identified in the “Risk Factors” section 
+of Skyworks’ most recent Annual Report on Form 10-K (and/or Quarterly Report on Form 10-Q) as filed with the Securities and Exchange Commission (“SEC”). Copies of Skyworks’ 
+SEC filings can be obtained, free of charge, on Skyworks’ website ( www.skyworksinc.com ) or at the SEC’s website ( www.sec.gov ). Any forward-looking statements contained in this 
+report are made only as of the date the report is issued, and we undertake no obligation to update or revise the forward-looking statements, whether as a result of new information, 
+future events or otherwise.
+Note: Skyworks and the Skyworks symbol are trademarks or registered trademarks of Skyworks Solutions, Inc., or its subsidiaries in the United States and other countries. Third-party 
+brands and names are for identification purposes only and are the property of their respective owners.USA: 949-231-3000 • Asia: 886-2-2735 0399 • Europe: 33 (0)1 43548540 • BRO398-20A   
+Skyworks Solutions, Inc. • Nasdaq: SWKS  • www.skyworksinc.com  • sales@skyworksinc.comSkyworks Worldwide Locations
+SingaporeIpohShenzhen
+Hong KongTaipei
+ChupeiShanghaiBeijingSeoul Gyeonggi-do  
+Tokyo
+OsakaGreensboroBishop’s StortfordHelsinki
+Paris Cedar 
+RapidsOttawa
+Andover
+Woburn
+MexicaliIrvine
+Newbury ParkSan JoseHillsboroMilpitas
+Sales Offices
+Design Centers
+ManufacturingAdamstownCork

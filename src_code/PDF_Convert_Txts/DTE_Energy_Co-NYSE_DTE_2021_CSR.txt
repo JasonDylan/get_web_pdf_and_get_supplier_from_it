@@ -1,0 +1,854 @@
+Serving With Our Energy
+Driving toward a clean, sustainable future
+In accordance with Global Reporting Initiative standards2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2
+PAGE 2
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2Table of Contents
+GRI 100: Universal Standards  ................. 3
+GRI 102 General disclosures ................................... 4
+GRI 103 Management approach ............................. 10
+GRI 200: Economic  ................................... 11
+GRI 201 Economic performance ............................. 12
+GRI 203 Indirect economic impacts ...................... 12
+GRI 204 Procurement practices ............................ 13
+GRI 207 Tax ........................................................... 13
+GRI 300: Environmental .......................... 14
+GRI 301 Materials .................................................. 15
+GRI 302 Energy ..................................................... 15
+GRI 303 Water and effluents ................................ 16
+GRI 304 Biodiversity ............................................. 16
+GRI 305 Emissions ................................................. 17
+GRI 306 Waste ....................................................... 19
+GRI 307 Environmental compliance ..................... 23
+GRI 308 Supplier environmental assessment ....... 23GRI 400: Social ......................................... .22
+GRI 401 Employment ............................................ 23
+GRI 402 Labor/management relations .................. 23
+GRI 403 Occupational health and safety ............. 23
+GRI 404 Training And Education .......................... 24
+GRI 405 Diversity And Equal Opportunity ........... 25
+GRI 406 Non-Discrimination ................................. 25
+GRI 407 Freedom Of Association And Collective  
+Bargaining ............................................................ 25
+GRI 413 Local Communities .................................. 25
+GRI 414 Supplier Social Assessment .................... 25
+GRI 415 Public Policy ........................................... 26
+GRI 416 Customer Health Safety .......................... 26
+GRI 418 Customer Privacy .................................... 26
+Sector Specific ............................................ 27
+Supplemental Materials ........................... 31PAGE 3 2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2GRI 100: Universal Standards 
+> GRI 100: UNIVERSAL STANDARDS
+> GRI 200: ECONOMIC  
+> GRI 300: ENVIRONMENTAL
+> GRI 400: SOCIAL
+> SECTOR SPECIFIC: ELECTRIC UTILITIES SECTOR SUPPLEMENT
+> SUPPLEMENTAL MATERIALS
+GRI 100: Universal Standards PAGE 4
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 100 UNIVERSAL STANDARDS
+GRI 102 GENERAL DISCLOSURES
+GRI 102-1 Name of the organization DTE Energy Company
+GRI 102-2 Activities, brands, products and services Please see DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020, pages 7-8.
+GRI 102-3 Location of headquarters Detroit, Michigan, United States  
+GRI 102-4 Location of operations United States and Ontario, Canada
+GRI 102-5 Ownership and legal form Please see DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020, pages 7-8.
+GRI 102-6 Markets served For a description of DTE Electric operations, please see DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020, page 8 and for DTE Gas operations, 10-K for 
+the fiscal year ending Dec. 31, 2020 page 11. For more information on the DTE Gas Storage and Pipelines segment, please see DTE Energy’s 10-K for the fiscal 
+year ending Dec. 31, 2020 page 13.
+Note: Subsequent to the filing of DTE Energy’s 2020 10-K, the Gas Storage and Pipelines segment was separated from DTE Energy in conjunction with the spin-off 
+of DT Midstream, Inc. on July 1, 2021.
+In addition to utility operations in Michigan, the DTE Energy portfolio includes non-utility energy businesses focused on power and industrial projects, natural 
+gas pipelines, gathering and storage, and energy marketing and trading in 24 states.
+Power and Industrial 
+Gas Storage and Pipelines (Note: as of July 1, 2021, DT Midstream is no longer part of DTE Energy) 
+Energy Trading 
+Citizens Gas Fuel 
+DTE Biomass Energy 
+MERC
+GRI 102-7 Scale of the organization For information on DTE Energy’s operations, please see DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020, pages 7-8 and Human Capital Management, 
+page 18.
+For additional financial detail, please see the following Consolidated Statement of Operations in DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020 
+page 62 and Total Capitalization (debt & equity breakdown), page 65.GRI 100: Universal Standards (cont.) PAGE 5
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 102-8 Information on employees and other 
+workersDTE Energy’s workforce in 2020 totaled approximately 10,600 full time employees, with unions representing 49% of this workforce. All DTE Energy 
+employees work in the United States - primarily in Michigan.
+Permanent and temporary Female Male
+Regular 2,824 7,806
+Temporary 160 169
+Full-time and part-time employees by gender Female Male
+Full-time regular 2,971 7,970
+Part-time regular 13 5
+GRI 102-9 Supply chain For an overview, please see the brief on DTE’s Supply Chain Management.
+For additional information on DTE’s fuel supply management, please see DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020: Fuel Supply and 
+Purchased Power, page 8 and Natural Gas Supply, page 11.
+GRI 102-10 Significant changes to the organization 
+and its supply chainPlease see DTE Energy’s 10-K for the Year Ending Dec. 31, 2020, Note 4- Acquisitions and Dispositions, pages 89-91.
+GRI 102-11 Precautionary principle or approach For additional information on risks associated with DTE Energy’s sustainability and climate change plans, see DTE Energy’s annual Environmental, Social and 
+Governance Sustainability Report, EEI/AGA ESG Template.  
+See the DTE Energy Company 10-K for the Year Ending Dec. 31, 2020, Item 1A., Risk Factors, pages 21-27 .
+GRI 102-12 External initiatives DTE Energy follows or subscribes to numerous voluntary environmental, social and governance charters, guidelines and standards including:
+• ISO 14001 Environmental Management System
+• CEO Climate Dialogue
+• Environmental Protection Agency Natural Gas Star and Methane Challenge Programs 
+• Edison Electric Institute and American Gas Association ESG Template
+• Wildlife Habitat Council Certification
+• Environmental Protection Agency WasteWise
+• Michigan Department of Environment, Great Lakes, and Energy - Clean Corporate Citizen Michigan
+• Michigan Business Pollution Prevention Partnership (MBP3)
+• Electric Utility Industry Sustainable Supply Chain AllianceGRI 100: Universal Standards (cont.) PAGE 6
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 102-12 (con't) • Michigan Economic Development Corporation Pure Michigan Business Connect 
+• CDP (formerly the Carbon Disclosure Project)
+• Sustainability Accounting Standards Board (SASB)
+• Task Force on Climate-related Financial Disclosures (TCFD)
+GRI 102-13 Membership of associations DTE Energy has representation in various associations, councils and organizations involving and representing stakeholders of industry and professional 
+importance. The list of organizations to which DTE Energy belongs represents affiliations with leading utility-relevant industry and professional groups. DTE 
+Energy representatives are board members in some of these organizations and those relationships are used to communicate DTE Energy operational plans, 
+benchmark best practices for organizational management, and understand and influence legislative and policy agendas. 
+See Industry Associations and National Advocacy Organizations table. 
+GRI 102-14 Statement from senior decision maker Refer to the letter from Jerry Norcia, CEO in the 2020 Sustainability Summary, page 2.
+GRI 102-15 Key impacts, risks, and opportunities See DTE Energy’s 10-K for Year Ending Dec. 31, 2020. For risk-specific information, see: Item 1., Risk Factors, pages 21-27 . Also see DTE Energy’s annual 
+Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template.
+A description of DTE Energy’s material sustainability issues is included in this GRI Report, under Standard 102-47 .
+GRI 102-16 Values, principles, standards, and norms 
+of behaviorLearn more about DTE Energy’s Aspiration and Priorities in the 2021 Proxy Statement, page 1.
+Learn more about DTE Energy’s purpose, values and Code of Conduct in the DTE Energy Way Code of Conduct and on the corporate governance page, Code of 
+Ethics, Board of Directors Codes and Policies.
+GRI 102-17 Mechanisms for advice and concerns 
+about ethicsDTE Energy promotes an ethical culture among employees firmly grounded in company values. This emphasis on ethics and values starts with DTE Energy’s 
+board of directors, its executive leadership and extends throughout the company. The DTE Energy Way Code of Conduct is available on DTE Energy’s public 
+website, along with the Board of Directors Mission and Guidelines, Board Codes and Policies, and Categorical Standards for Director Independence. An Officer 
+Code of Business Conduct also exists for executive officers leading the company.
+Led by an independent Chief Ethics and Compliance Officer, DTE Energy’s Ethics and Compliance Office promotes a culture of integrity, respect and compliance 
+with laws and regulations. In addition to training and communicating with all employees to provide guidance and reinforcement of DTE’s policies, ethics 
+ambassadors are embedded within business groups companywide. These ambassadors are an in-department resource for employees seeking guidance. 
+DTE Energy employees can also access information and guidance on ethical concerns through extensive web-based resources on the company’s intranet. 
+Resources include a downloadable DTE Energy Ethics in Action pamphlet, which details ways to learn about ethical concerns at DTE Energy, offers examples 
+of questionable behavior, and provides reporting options. This pamphlet is provided to all new DTE Energy employees during onboarding as well as at business 
+unit training sessions to reinforce key concepts.GRI 100: Universal Standards (cont.) PAGE 7
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 102-17 (con't) DTE Energy’s Ethics in Action Program, administered by the Ethics and Compliance Office, promotes a “speak-up” culture by providing mechanisms for 
+employees, retirees, vendors, customers, shareholders and the public to (1) ask questions and (2) report suspected non-compliance or work practices 
+inconsistent with DTE Energy standards and values. The independent reporting system provides numerous pathways to report questionable, unethical and 
+illegal behavior, including through the company’s intranet and public website, via a toll-free, 24-hour helpline, and directly informing the business unit leader, 
+Human Resources, or the DTE Energy Ethics and Compliance Office. An independent third party operates DTE Energy’s Ethics in Action Helpline through which 
+individuals can make confidential and, if desired, anonymous reports. Every helpline report is investigated by trained DTE personnel and appropriate action 
+is taken in a timely manner. Furthermore, quarterly reports of investigation and analysis reports are prepared for each business unit vice president to ensure 
+situational awareness of ethical practices across the enterprise.
+In addition to Ethics and Compliance programs, DTE Energy and its unions jointly manage a grievance procedure which is defined by the collective bargaining 
+agreements for represented employees. Additionally, DTE Energy manages a dispute resolution process for non-represented employees.
+GRI 102-18 Governance structure The DTE Energy governance structure consists of a board of directors and committees of the board of directors. The DTE Energy Bylaws describe how the 
+company will operate with regard to shareholders, the board of directors and board committees, officers, stock and other matters. Elected annually by 
+shareholders, the DTE Energy board meets regularly to lead the company in fulfilling its mission and achieving its goals. 
+Information on DTE Energy’s board members, committees, bylaws and other governance resources is on the Corporate Governance page of DTE Energy’s 
+public website and in the 2021 Proxy Statement, beginning on page 5.  
+Also see DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, Governance, page 4.
+GRI 102-19 Delegating authority See DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, Governance, page 4.
+GRI 102-20 Executive-level responsibility for 
+economic, environmental and social 
+topicsSee DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, Governance, page 5.
+GRI 102-21 Consulting stakeholders on economic, 
+environmental, and social topicsLearn more about DTE Energy’s Stakeholder Engagement.
+GRI 102-22 Composition of the highest governance 
+body and its committeesFor information on other significant positions held by DTE Energy board members and their competencies relating to economic, environmental and social 
+topics, visit the 2021 Proxy Statement, page 5.
+GRI 102-23 Chair of the highest governance body Details can be found in DTE Energy’s 2021 Proxy Statement under “Election of the Executive Chairman; Lead independent Director” on page 15.
+GRI 102-24 Nominating and selecting the highest 
+governance bodyDetails can be found in DTE Energy’s 2021 Proxy Statement under “Election of Directors and Vacancies ” on page 13.
+GRI 102-25 Conflicts of interest Details can be found on DTE Energy’s Corporate Governance page.
+GRI 102-26 Role of highest governance body in 
+setting purpose, values, and strategyDetails can be found in DTE Energy’s 2021 Proxy Statement under “Board of Directors Risk Oversight Functions ” on page 20, “Corporate Governance 
+Committee ” on page 18 and “Public Policy and Responsibility Committee ” on page 19.
+GRI 102-27 Collective knowledge of highest 
+governance bodyDetails can be found in DTE Energy’s 2021 Proxy Statement under “Election of Directors ” on page 5 and “Public Policy and Responsibility Committee ” on  
+page 19.GRI 100: Universal Standards (cont.) PAGE 8
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 102-28 Evaluating the highest governance body’s 
+performanceDetails can be found in DTE Energy’s 2021 Proxy Statement under “ Assessment of Board and Committee Performance ” on page 15.
+GRI 102-29 Identifying and managing economic, 
+environmental, and social impactsDetails can be found in DTE Energy’s 2021 Proxy Statement under “Board of Directors Risk Oversight Functions ” on page 20. 
+GRI 102-30 Effectiveness of risk management 
+processDetails can be found in DTE Energy’s 2021 Proxy Statement under “Board of Directors Risk Oversight Functions ” on page 20. 
+GRI 102-31 Review of economic, environmental, and 
+social topicsDetails can be found in DTE Energy’s 2021 Proxy Statement under “Public Policy and Responsibility Committee ” on page 19.
+GRI 102-32 Highest governance body’s role in 
+sustainability reportingDetails can be found in DTE Energy’s 2021 Proxy Statement under “Public Policy and Responsibility Committee ” on page 19.
+GRI 102-33 Communicating critical concerns Details can be found in DTE Energy’s 2021 Proxy Statement under “Communications with the Board” on page 17.
+GRI 102-34 Nature and total number of critical 
+concernsDetails can be found in DTE Energy’s 2021 Proxy Statement under “Communications with the Board” on page 17 and “ Audit Committee ” on page 18.
+GRI 102-35 Remuneration policies Details can be found in DTE Energy’s 2021 Proxy Statement. For Board see “Board of Directors Compensation ” on page 21 and for Executives see “Executive 
+Compensation ” on page 36.
+GRI 102-36 Process for determining remuneration Details can be found in DTE Energy’s 2021 Proxy Statement. For Board see “Board of Directors Compensation ” on page 21 and for Executives see “Executive 
+Compensation ” on page 36.
+GRI 102-37 Stakeholders’ involvement in 
+remunerationDetails can be found in DTE Energy’s 2021 Proxy Statement. For Board see “Board of Directors Compensation ” on page 21 and for Executives see “Executive 
+Compensation ” on page 36 and “Proposal No. 3 - Advisory Proposal - Nonbinding Vote to Approve Executive Compensation ” on page 30.
+GRI 102-38 Annual total compensation ratio Details can be found in DTE Energy’s 2021 Proxy Statement under “CEO Pay Ratio ” on page 63.
+GRI 102-39 Percentage increase in annual total 
+compensation ratioDetails can be found in DTE Energy’s 2021 Proxy Statement under “CEO Pay Ratio ” on page 63.
+GRI 102-40 List of stakeholder groups Learn more about DTE Energy’s Stakeholder Engagement. 
+GRI 102-41 Collective bargaining agreements Learn more about DTE’s Labor Management.
+GRI 102-42 Identifying and selecting stakeholders Learn more about DTE Energy’s Stakeholder Engagement.
+GRI 102-43 Approach to stakeholder engagement DTE Energy engages stakeholders through a variety of mechanisms that provide meaningful dialogue around topics of mutual interest. For additional 
+information about the approach to stakeholder engagement, please see the brief on Stakeholder Engagement and the Industry Associations and National 
+Advocacy Organizations.GRI 100: Universal Standards (cont.) PAGE 9
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 102-44 Key topics and concerns raised DTE Energy communicates key topics and concerns through several channels, including the Sustainability Summary , Empowering Michigan blog posts, the 
+DTE Energy website, the DTE Energy newsroom and through DTE Energy’s social media presence on Facebook, LinkedIn, Twitter , Instagram, Nextdoor and 
+YouTube. DTE Energy employee communication is primarily through OurDTE, the company’s intranet, in addition to email and company-wide live webcasts 
+hosted by DTE President and CEO Jerry Norcia.
+For key topics and concerns, please see the brief on Stakeholder Engagement.
+GRI 102-45 Entities included in consolidated financial 
+statementsAll entities in DTE Energy’s consolidated financial statements or equivalent documents are covered in this GRI report and DTE’s 10-K.
+See DTE Energy Company 10-K for Year Ending Dec. 31, 2020, Consolidated Statements pages 62-76.
+GRI 102-46 Defining report content and topic 
+boundariesThis Corporate Citizenship Report is built around DTE Energy’s material aspects and topics that have a direct or indirect impact on the company’s ability to 
+create, preserve or erode economic, environmental and social value for DTE Energy, its stakeholders and society at large. 
+DTE Energy completed its most recent Sustainability Priority (materiality) Assessment in 2021 to understand the priorities, and changing needs and 
+expectations, of stakeholders and business within 25 sustainability priorities. Stakeholder feedback on priorities was identified through 10 stakeholder 
+interviews and survey responses from 234 stakeholders. Internal feedback from 36 employees informed the business priorities. 
+In determining the content for the 2020 Corporate Citizenship Report, DTE Energy applied the principles laid out in the Global Reporting Initiative (GRI) 
+Standards. Issued by the Global Sustainability Standards Board, the GRI Standards are a voluntary global framework, intended for use by organizations to 
+report about their impacts on the economy, the environment and society. 
+GRI 102-47 List of material topics See priority descriptions in the 2021 Sustainability Priority Assessment.
+GRI 102-48 Restatements of information There are no restatements of information in DTE Energy’s report covering 2019.
+GRI 102-49 Changes in reporting There are changes in reporting in material topics or reporting boundaries compared to last year’s report. Refer to 102-46 for a description of changes in 
+reporting.
+GRI 102-50 Reporting period Calendar year 2020.
+GRI 102-51 Date of most recent report Published in summer 2020, DTE Energy’s previous report covered the 2019 calendar year.
+GRI 102-52 Reporting cycle Annual
+GRI 102-53 Contact point for questions regarding 
+the reportimpact@dteenergy.com
+GRI 102-54 Claims of reporting in accordance with 
+the GRI StandardsIn accordance with GRI Standards Core option.
+GRI 102-55 GRI content index This report lists every GRI Standard disclosure, in numerical order, and includes references to other documents where appropriate. See the table of contents at 
+the front of this report to navigate to specific sections and pages. 
+GRI 102-56 External assurance DTE Energy applied the GRI Standards as the basis for this Corporate Citizenship Report, in accordance with the Core option. This report was reviewed by 
+internal subject matter experts in each GRI disclosure area.GRI 100: Universal Standards (cont.) PAGE 10
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 103 MANAGEMENT APPROACH
+DTE Energy manages its material issues in a thoughtful and responsible way. For each topic, the company has internal policies, goals and targets that drive 
+improvement. DTE monitors progress through management dashboards to track metrics. The code of business conduct and ethics — the DTE Energy Way 
+— is publicly available in the Corporate Governance section of the company’s website. Many other policies — including health and safety, cybersecurity and 
+diversity and inclusion — are distributed internally. The company has a robust training program that covers in detail the policies relevant to each employee’s 
+duties.
+To accompany the 2020 report cycle, DTE has developed a set of narrative briefs that detail priorities important to DTE and its stakeholders, as identified 
+in the Priority Assessment, DTE’s management approach, goals and targets, and performance to date. To see the collection of briefs, visit the Sustainability 
+Performance site. 
+DTE Energy’s commitment to continuous improvement (CI) provides us with a framework for evaluating the effectiveness of the management approach. The 
+company conducts regular reviews of activities and incorporates lessons learned in a “plan, do, check and act” CI cycle that benefits future projects.
+For more information on DTE Energy’s policies and programs addressing key impacts and material issues, see the 10-K filing with the U.S. Securities and 
+Exchange Commission and the annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, which is based on the Edison 
+Electric Institute (EEI) and American Gas Association (AGA) industry sector ESG template, and www.dteimpact.com.
+GRI 103-1 Explanation of the material topic and its 
+BoundaryLearn more in the 2021 Sustainability Priority Assessment.
+GRI 103-2 The management approach and its 
+componentsLearn more in the 2021 Sustainability Priority Assessment.
+GRI 103-3 Evaluation of the management approach Learn more in the 2021 Sustainability Priority Assessment.PAGE 11
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2
+GRI 200: Economic 
+> GRI 100: UNIVERSAL STANDARDS
+> GRI 200: ECONOMIC 
+> GRI 300: ENVIRONMENTAL
+> GRI 400: SOCIAL
+> SECTOR SPECIFIC: ELECTRIC UTILITIES SECTOR SUPPLEMENT
+> SUPPLEMENTAL MATERIALS
+GRI 200: Economic PAGE 12
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 200 ECONOMIC
+GRI 201 ECONOMIC PERFORMANCE
+GRI 201-1 Direct economic value generated and 
+distributedDirect economic value generated (revenues), economic value distributed (operating costs, employee wages and benefits, payments to providers of capital, etc.) 
+and economic value retained (“direct economic value generated” less “economic value distributed”) can be found in the 10-K filing. 
+GRI 201-2 Financial implications and risks and 
+opportunities due to climate changePlease see DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, pages 9-14. 
+Please see DTE Energy’s 2021 CDP Climate Change – Items C2.3a and C2.4a.
+GRI 201-3 Defined benefit plan obligations and 
+other retirement plansRefer to DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020, Note 21 to the Consolidated Financial Statements, “Retirement Benefits and Trusteed 
+Assets” .
+GRI 203 INDIRECT ECONOMIC IMPACTS
+GRI 203-1 Infrastructure investments and services 
+supportedLearn about the infrastructure investments in 2020 Sustainability Summary .
+Additional details on the sustainability stewardship and infrastructure investments can be found in the following documents:
+• DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, pages 9-14.
+• DTE Electric Company's 2021 Distribution Grid Plan Draft Report.
+GRI 203-2 Significant indirect economic impacts DTE Energy is committed to the communities it serves statewide and works to make all of Michigan a better place to live, work and play. DTE Energy’s efforts 
+to foster stronger and more prosperous communities includes:
+• Corporate volunteerism, which provides direct support to local nonprofits and organizational capacity building through skills-based volunteerism. Learn 
+more in the 2020 Sustainability Summary and find year-over-year data in the Key Performance Data Table. 
+• Intentionally supporting and developing Michigan-based and diverse businesses, particularly women and minority-owned businesses. Learn more 
+in the Supply Chain Management brief and in the 2020 Sustainability Summary . 
+• Mobilizing a coalition of more than 60 organizations to create Detroit Means Business, an online resource hub supporting small businesses with access to 
+information on small business loans, financial coaching, and more - learn more at DetroitMeansBusiness.org.  
+• Working directly with communities affected by plant retirements to support them with community and economic development. 
+• Creating workforce development programming, fostering skill-building and career pathways for local communities, that enhances access to good jobs for 
+all - learn more in the Human Capital Management brief . 
+• Working in neighborhoods in and around DTE Energy’s facilities, including Beacon Park, a former industrial site that has resulted in more than $140 
+million in further investment in the area to date, and partnering with neighbors in the historic North End neighborhood of Detroit on community 
+development efforts - learn more at DTEBeaconPark.com.GRI 200: Economic (cont.) PAGE 13
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 203-2 (con't) • Giving through the DTE Foundation, which supports the most vulnerable populations. In 2020, in addition to the standard giving, the Foundation also 
+provided over $20 million in COVID-19 support – learn more about Foundation giving at DTEFoundation.com.
+• Offering programs and assistance for low-income customers, including distributing energy assistance, providing low-income energy efficiency options, and 
+providing support during the COVID-19 pandemic.
+To learn more about what DTE Energy is doing to be a force for growth and prosperity, visit DTEImpact.com.
+GRI 204 PROCUREMENT PRACTICES
+GRI 204-1 Proportion of spending on local suppliers Learn more about DTE’s Supply Chain Management. 
+For more information, please visit DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, page 8. 
+For additional and historical details, refer to the Key Performance Data Table.
+GRI 207 TAX
+GRI 207-1 Approach to tax DTE Energy has a formal tax policy requiring compliance with all federal, state and local tax laws. The policy requires that all tax plans and strategies 
+be approved and implemented only if they are aligned with the overall corporate tax strategy. The Vice President and Chief Tax Officer is responsible for 
+overseeing compliance with this formal tax policy.
+For a description of DTE Energy’s overall tax position, see DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020, Note 11 to the Consolidated Financial 
+Statements, “Income Taxes" .PAGE 14
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2
+GRI 300: Environmental
+> GRI 100: UNIVERSAL STANDARDS
+> GRI 200: ECONOMIC  
+> GRI 300: ENVIRONMENTAL
+> GRI 400: SOCIAL
+> SECTOR SPECIFIC: ELECTRIC UTILITIES SECTOR SUPPLEMENT
+> SUPPLEMENTAL MATERIALS
+GRI 300: Environmental PAGE 15
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 300 ENVIRONMENTAL
+GRI 301 MATERIALS
+GRI 301-1 Materials used by weight or volume Below is a list of the materials/fuel used to produce electricity for DTE Energy in 2020.
+Materials/Fuels Units 2020
+Coal Tons 10,089,096
+Natural gas Mcf 39,178,487
+Blast furnace gas tcf 484,579
+Coke oven gas tcf 1,469,422
+No. 2 oil Gallons 5,267,074
+No. 6 oil Gallons 8,571
+High sulfur oil Gallons 351
+GRI 301-2 Recycled input materials used In 2020, the St. Clair Power Plant fired 8,571 gallons of No. 6 fuel oil (used oil).
+GRI 302 ENERGY
+GRI 302-1 Energy consumption within the 
+organizationRefer to DTE Energy’s 2021 CDP – Climate Change – Item C8. “Energy” .
+GRI 302-2 Energy consumption outside of the 
+organizationRefer to DTE Energy's 2020 Energy Waste Reduction Annual Report.
+GRI 302-4 Reduction of energy consumption DTE Energy has committed to reducing its utilization of energy at company headquarters, administrative offices, and service centers by at least 25% by 
+2022 from the baseline year of 2017. The annual savings from these energy efficiency projects in 2020 was approximately 7,600 MWh which translates to 
+approximately 5,300 metric tons of CO2 savings. This equates to a 14.8% savings for 2020 alone, bringing the total for period 2018-2020 to a 23.6% reduction 
+in overall energy usage.
+DTE Energy utilizes industry standards and methodologies from various organizations such as ASHRAE (The American Society of Heating, Refrigerating and 
+Air-Conditioning Engineers, a global professional association seeking to advance heating, ventilation, air conditioning and refrigeration systems design and 
+construction) and IESNA (Illuminating Engineering Society of North America, a recognized technical and educational authority on illumination) to develop 
+baseline consumption and calculate energy savings. Measurement and verification are also implemented via actual metered consumption. 
+Learn more about DTE’s efforts to reduce vehicle idling.GRI 300: Environmental (cont.) PAGE 16
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 302-5 Reductions in energy requirements of 
+products and servicesRefer to DTE Energy's 2020 Energy Waste Reduction Annual Report.
+Refer to the Key Performance Data Table.
+GRI 303 WATER AND EFFLUENTS
+DTE Energy, strives to eliminate unnecessary use of water in its facilities and to improve the quality of water discharges. Water stewardship starts with 
+operating facilities and equipment in a manner that complies with or exceeds governmental standards and protects employees, customers, and surrounding 
+communities. DTE employs practical land-management and conservation techniques to protect and conserve water resources at facilities and properties.  
+DTE’s goal is to reduce water withdrawal by 40% in 2023, 60% by 2030, and 90% by 2040. 
+Since 2005, DTE has reduced surface water withdrawals for power generation by 33% by retiring coal-fired power plants (e.g., Conners Creek and Harbor 
+Beach Power Plants) that utilize water for cooling, which accomplishes 82% of the 2023 target. DTE projects that surface water withdrawals will continue 
+to decrease in the future as more water efficient systems are installed (e.g., Greenwood’s closed-loop cooling water system) and coal-fired power plants are 
+retired. These water goals are aligned with the company’s goals to reduce carbon emissions from electric generating facilities 32% from a 2005 baseline by 
+2023, 50% by 2030 and 80% by 2040. These numbers represent current projections and are subject to change in the future.
+GRI 303-1 Interactions with water as a shared 
+resourceRefer to DTE Energy’s 2021 CDP - Water Security Report – Item W1.2h. “Total Water Withdrawal” .
+GRI 303-2 Management of water discharge-related 
+impactsRefer to DTE Energy’s 2021 CDP - Water Security Report – Item W1.2i. “Total Water Discharge” and Item W1.2j “Proportion of Total Waste Use Recycled or 
+Reused” .
+GRI 303-3 Water withdrawal Refer to DTE Energy’s 2021 CDP - Water Security Report – Item W1.2h. “Total Water Withdrawal” .
+Refer to the Key Performance Data Table.
+GRI 303-4 Water discharge Refer to DTE Energy’s 2021 CDP - Water Security Report – Item W1.2i. “Total Water Discharge” .
+GRI 303-5 Water consumption Refer to DTE Energy’s 2021 CDP - Water Security Report – Item W1.2b “Total Water Withdrawal, Discharge, and Consumption” .
+Refer to the Key Performance Data Table.
+GRI 304 BIODIVERSITY
+GRI 304-1 Operations sights owned, leased, 
+managed in, or adjacent to, protected 
+areas and areas of high biodiversity value 
+outside protected areasThe Trenton Channel Power Plant, located in Trenton, Mich., and the Enrico Fermi II Nuclear Generating Station, located in Newport, Mich., are both adjacent 
+to the U.S. Fish and Wildlife Service (USFWS) International Wildlife Refuge. DTE Energy is part of a cooperative management agreement with the Refuge for a 
+total of 656 acres. This property is owned by DTE Energy and managed by USFWS. Part of the refuge includes areas of high biodiversity including important 
+coastal wetlands and forested habitat.
+GRI 304-2 Significant impacts of activities, products, 
+and services on biodiversityDTE Energy performs due diligence evaluations on real estate acquisitions or before major construction projects begin on existing properties owned and/or 
+maintained by DTE Energy. These due diligence evaluations include reviews of potential impacts to threatened and endangered species, or other protected 
+natural features. If threatened and endangered species or other regulated features are detected at a site, DTE Energy conducts mitigation activities to avoid 
+and or minimize the impacts in accordance with state or federal law.  GRI 300: Environmental (cont.) PAGE 17
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 304-2 (cont.) Activities that positively impact biodiversity, such as installation of pollinator gardens, native prairie plantings, birdhouses, or bat houses are captured in 
+reports that are submitted to the Wildlife Habitat Council (WHC) for DTE Energy’s 35 WHC-Certified sites. These reports describe site specific biodiversity 
+goals and metrics that are required by WHC to maintain certification. Learn more about wildlife habitat sites at Conservation – DTE Energy . 
+GRI 304-3 Habitats protected or restored DTE Energy takes care of the land, water and living creatures on its properties and beyond. Among the largest landowners in Michigan, DTE Energy 
+voluntarily maintains 8,000 acres of land in its natural state, thereby providing habitat for hundreds of species of birds, mammals, fish and insects. The 
+company also reclaims previously disturbed land to create and manage habitat featuring native Michigan plants, such as gardens that benefit the monarch 
+butterfly and other pollinators. It also manages about 150 acres to support biodiversity required for mitigation. 
+DTE Energy properties are home to hundreds of species of wildlife, some of which are endangered or threatened. DTE Energy facilities are often located on 
+properties with abundant opportunities for wildlife and DTE Energy is helping to attract and increase wildlife populations at these sites. To this end, DTE 
+Energy has 35 sites certified under the Wildlife Habitat Council (WHC), a nonprofit organization that helps companies manage their property for the benefit of 
+wildlife. 
+Please refer to the table in the appendix. 
+GRI 304-4 IUCN Red List species and national 
+conservation list species with habitats in 
+areas affected by operationsThere are currently three federally listed species impacted by DTE Energy’s operations. These species include the Indiana bat (endangered), Northern Long-
+Eared bat (threatened) and Eastern Massasauga bat (threatened). The Eastern Massasauga bat can be found at the Fermi II Nuclear Power Plant. The Fermi 
+site’s operations may actually benefit the species due to large areas of habitat created on site, as well as an information and awareness campaign.
+GRI 305 EMISSIONS
+For more information on the journey to Net Zero, visit DTECleanEnergy.com and DTE Energy’s annual Environmental, Social and Governance Sustainability 
+Report, EEI/AGA ESG Template, pages 9-13.
+GRI 305-1 Direct (Scope 1) GHG emissions Refer to DTE Energy’s 2021 CDP - Climate Change Report – Item C5. “Emissions Methodology” .
+Refer to DTE Energy’s 2021 CDP - Climate Change Report – Item C6.1. “Scope 1 Emissions” .
+Refer to DTE Energy’s 2021 CDP - Climate Change Report – Item C7.1a. “Scope 1 Emissions by Greenhouse Gas Type” .
+Refer to DTE Energy’s 2021 CDP - Climate Change Report – Item C7.3a. “Scope 1 Emissions by Business Division” .
+Read more about DTE’s efforts to reduce vehicle idling. 
+For a breakdown of DTE Electric’s direct GHG emissions which make-up more than 90% of DTE Energy’s direct emissions, refer to DTE Energy’s annual 
+Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template – Section 2: Quantitative Information - Emissions, page 17 .
+GRI 305-2 Energy indirect (Scope 2) GHG emissions Refer to DTE Energy’s 2021 CDP - Climate Change Report – Item C6.3. “Scope 2 Emissions” .
+GRI 305-3 Other indirect (Scope 3) GHG emissions Refer to DTE Energy’s 2021 CDP - Climate Change Report – Item C6.5. “Scope 3 Emissions” .
+GRI 305-4 GHG emissions intensity Refer to DTE Energy’s 2021 CDP - Climate Change Report – Item C6.10. “Combined Scope 1 and 2 Emissions Intensity” .GRI 300: Environmental (cont.) PAGE 18
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 305-5 Reduction of GHG emissions Refer to DTE Energy’s 2021 CDP - Climate Change Report – Item C4.1a. “Emissions Targets and Progress” .
+Refer to DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, page 9.
+Refer to the Key Performance Data Table.
+For more information on the journey to Net Zero, visit DTECleanEnergy.com.
+This report is a look at 2020 data, before the Belle River retirement was adjusted to 2028.
+GRI 305-7 Nitrogen oxides (NOx), sulfur oxides 
+(SOx), and other significant air emissionsDTE Energy has reduced its annual carbon emissions nearly 30% since 2005 and plans to achieve net-zero carbon emissions in its electric utility by 2050. This 
+net-zero goal sets the framework for DTE to go beyond existing commitments to reduce carbon emissions 50% by 2030 and 80% by 2040 as it retires its last 
+coal plant.
+Percent Reduction from 2005: 
+2020 2023 2031 2040
+SO2 88% 87% >99% >99%
+NOx 81% 80% 93% 96%
+Hg 95% 92% >99% >99%
+PM 89% 85% 86% 95%
+Improving air quality in the communities where DTE’s customers live and serve is among the company’s top priorities. By 2017, DTE Energy invested more 
+than $2.4 billion in environmental control technologies to reduce emissions from power plants. These emissions will continue to decrease as DTE retires its 
+coal plants. In addition, the company’s internal environmental audit programs help keep DTE accountable and drive improvement. DTE Energy’s International 
+Organization for Standardization (ISO) 14001 certified facilities undergo annual environmental management system conformance audits as well. 
+Refer to the Key Performance Data Table.
+Refer to DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template – Section 2: Quantitative Information - 
+Emissions, page 18.
+This report is a look at 2020 data, before the Belle River retirement was adjusted to 2028.GRI 300: Environmental (cont.) PAGE 19
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 306 WASTE
+GRI 306-1 Waste generation and significant waste-
+related impactsThe largest of DTE Energy’s waste streams is coal combustion residuals (CCR), which includes fly ash, bottom ash, and flue gas desulfurization (FGD) materials. 
+Fly ash and bottom ash are byproducts of the coal burned in power plants. Synthetic gypsum is a byproduct of the FGD units that reduce sulfur dioxide 
+emissions from coal-fired plants. These CCR materials — ash and synthetic gypsum — are recycled to the greatest extent possible. The portion of the CCR not 
+recyclable is disposed in state and federally regulated landfills and impoundments. DTE Energy’s ash recycling rates dropped starting in 2016 as the company 
+brought sorbent injection and activated carbon emission controls online to meet the Mercury and Air Toxic Standards (MATS) rule. The presence of sorbents 
+and activated carbon in coal ash reduces its acceptability for beneficial reuse.
+GRI 306-2 Management of significant waste-related 
+impactsThrough retirement of DTE Energy’s coal fired assets, the volume of ash generated has significantly reduced since 2013 from over 1,000,000 tons generated 
+annually to approximately 560,000 tons generated in 2020, of which approximately 200,000 tons were recycled. Additional retirements are planned in 2022 
+further reducing the anticipated CCR generation by approximately 150,000 tons annually. 
+Gypsum is used as a component in drywall manufacturing and as a beneficial additive in agriculture. In 2020, DTE Energy recycled 87% of the gypsum 
+produced at its power plants.
+DTE Energy operates three licensed landfills to dispose of unrecycled fly ash and CCR. Each coal plant has on-site facilities for managing CCR before it is 
+recycled or disposed. These landfills operate in compliance with applicable state and federal laws and are routinely inspected by state and local regulatory 
+agencies. DTE Energy assesses the condition of its facilities and equipment on a regular basis and conducts maintenance and repairs as necessary to maintain 
+structural integrity and operational performance.
+DTE Energy’s pollution prevention programs help minimize environmental impacts and conserve resources by reducing the volume of waste that would 
+otherwise go to landfills for disposal. DTE Energy also recovers used oil for energy across its gas and electric utilities. In addition, DTE Energy captured food 
+and paper waste at its Detroit headquarters campus, diverting these waste streams from landfills.
+DTE performs audits of Treatment, Storage, and Disposal Facility (TSDF) vendors to ensure that waste generated by the company is managed in accordance 
+with environmental regulations for disposal of waste. The objective of the vendor audit program is to minimize DTE Energy’s environmental liability related 
+to disposal of wastes. An environmental risk-screening matrix is used to determine the audit frequency for vendors providing waste disposal or significant 
+recycling services. The vendor audit program assesses operational practices, permit status, employee training, housekeeping, and discussions with agency 
+personnel, as appropriate. DTE uses shipping papers (e.g., shipping orders, bills of lading, manifests, etc.) to track the quantity and disposition of waste 
+materials.
+Learn more about DTE Energy’s site remediation in A Clean Start from the Ground Up.
+Refer to the Key Performance Data Table.GRI 300: Environmental (cont.) PAGE 20
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 306-3 Waste generatedHAZARDOUS WASTE TONS NON-HAZARDOUS WASTES (RECYCLED) TONS
+Recycling 0.0 Gypsum 370,217
+Recovery 0.0 Fly and bottom ash 204,736
+Fuel blending 1.5 Copper 483.6
+Incineration 1.2 Lead 459.9
+Landfill 1.2 Aluminum 171.4
+TOTAL 3.9 Steel / ferrous – electric operations 1,997.4
+Steel / ferrous – gas operations 514.5
+OTHER WASTES TONS Non-ferrous / wire bundles 152.3
+Polychlorinated biphenyl (PCB) 96.5 Non-ferrous / (e.g. transformers) 894.3
+Asbestos 50.5 Miscellaneous metals 1,125.8
+Universal waste 109.2 Meters – electric 37.6
+Meters – gas 226.0
+Outage materials (e.g. poles, wires, 
+equipment from storms)993.3
+OTHER WASTE DIVERSIONS Plastic (HDPE) 25.8
+Composting 7 tons Scrap electronics 14.4
+Waste to energy (incineration) 0 tons Transformer oil 240.2 
+(76,333 
+gallons)
+Used Oil 139,403 
+gallonsCardboard 98.8
+Wood (e.g. poles, pallets) 261.9
+Paper 35.1GRI 300: Environmental (cont.) PAGE 21
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 306-4 Waste diverted from disposal Refer to the table above, in GRI 306-3. 
+GRI 306-5 Waste directed to disposal Refer to the table above, in GRI 306-3.
+GRI 307 ENVIRONMENTAL COMPLIANCE
+GRI 307-1 Non-compliance with environmental laws 
+and regulations DTE Electric and DTE Gas Gas Storage and Pipeline DTE Power and Industrial Total
+Total monetary value 
+of fines in 2020$439 $0 $450 $889
+Total number of 
+sanctions in 20204 violation notices 2 violation notices 9 violation notices 15 violation 
+notices
+GRI 308 SUPPLIER ENVIRONMENTAL 
+ASSESSMENT
+GRI 308-1 New suppliers that were screened using 
+environmental criteriaLearn more about DTE’s supply chain management. PAGE 22
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2
+GRI 400: Social
+> GRI 100: UNIVERSAL STANDARDS
+> GRI 200: ECONOMIC  
+> GRI 300: ENVIRONMENTAL
+> GRI 400: SOCIAL
+> SECTOR SPECIFIC: ELECTRIC UTILITIES SECTOR SUPPLEMENT
+> SUPPLEMENTAL MATERIALSGRI 400: Social PAGE 23
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 400 SOCIAL
+GRI 401 EMPLOYMENT Learn more about DTE’s human capital management. 
+GRI 401-1 New employee hires and employee 
+turnoverRefer to the Key Performance Data Table.
+GRI 401-2 Benefits provided to full-time employees 
+that are not provided to temporary or 
+part-time employeesFor information on benefits for full-time employees, please see the brief on DTE’s human capital management.  
+ 
+GRI 401-3 Parental leave For information on parental leave program, please see the brief on DTE’s human capital management.  
+GRI 402 LABOR/MANAGEMENT RELATIONS Learn more about DTE’s labor management. 
+GRI 403 OCCUPATIONAL HEALTH AND SAFETY Learn more about DTE’s safety management.
+GRI 403-1 Occupational health and safety 
+management systemLearn more about DTE’s safety management.
+Refer to the Key Performance Data Table.
+Learn more about how DTE practices safety during a crisis. 
+GRI 403-2 Hazard identification, risk assessment, 
+and incident investigationLearn more about DTE’s safety management.
+GRI 403-3 Occupational health services Learn more about DTE’s safety management.
+GRI 403-4 Worker participation, consultation, and 
+communication on occupational health 
+and safetyLearn more about DTE’s safety management.
+GRI 403-5 Worker training on occupational health 
+and safetyLearn more about DTE’s safety management.
+GRI 403-6 Promotion of worker health Learn more about DTE’s safety management and promotion of worker health in the 2020 Culture of Health & Wellbeing Annual Report.
+GRI 403-7 Prevention and mitigation of 
+occupational health and safety impacts 
+directly linked by business relationshipsLearn more about DTE’s safety management.
+GRI 403-8 Workers covered by an occupational 
+health and safety management systemLearn more about DTE’s safety management.GRI 400: Social (cont.) PAGE 24
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 403-9 Work-related injuries
+2020
+OSHA recordable incident 0.40
+DART 0.23
+Fatalities DTE Energy had no fatalities in 2020
+Injury Type 2020 Incidents 
+Burns 0
+Caught in, crushed, pinched 2
+Cut by object 4
+Exposure - arc flash 1
+Exposure - caustics, noxious, or toxic 1
+Exposure - insects 1
+Eye injury 2
+Fall from elevation 1
+Overexertion 10
+Slip, trip, fall 3
+Struck by/against 7
+GRI 404 TRAINING AND EDUCATION For more information on DTE Energy’s scope of youth and adult talent pipeline programs see DTE’s human capital management.
+GRI 404-1 Average hours of training per year per 
+employee Type of training Number of hours
+Technical and compliance training 408,574
+Average number of hours per employee (including full time employees and contractors)  25
+Average hours are based on 16,579 employees, including contractors, co-ops and those who retired in 2020. GRI 400: Social (cont.) PAGE 25
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 404-2 Programs for upgrading employee skills 
+and transition assistance programsFor more information on developing talent see DTE’s human capital management.
+GRI 404-3 Percentage of employees receiving 
+regular performance reviews and career 
+development reviews100% of non-represented, regular employees have an opportunity to participate in goal setting at the beginning of the year, mid-year evaluations to review 
+progress toward performance and development goals, and year-end reviews that focus on performance and development. Depending upon when an employee 
+is hired into the company, the full, annual review process may be pushed to the next review period. “Regular” employees do not include temporary personnel, 
+contractors, interns, students or seasonal staff.
+GRI 405 DIVERSITY AND EQUAL OPPORTUNITY
+GRI 405-1 Diversity of governance bodies and 
+employeesMale FemaleUnder 30 
+years of age 30-50 
+years of ageOver 50 
+years of age Minority 
+percentage
+DTE Energy board 75% 25% 0% 0% 100% 17%
+Executives and senior leaders 79% 21% 0% 19% 81% 13%
+Managers and supervisors 76% 24% 2% 57% 41% 24%
+Individual contributors/workers 73% 27% 13% 51% 36% 29%
+GRI 405-2 Ratio of basic salary and remuneration of 
+women to menLearn more about DTE’s human capital management.
+GRI 406 NON-DISCRIMINATION
+GRI 406-1 Incidents of discrimination and corrective 
+actions takenDTE Energy takes all reports of discrimination, harassment and retaliation seriously. All reported concerns are fully investigated, and appropriate action is 
+taken in every situation where inappropriate behavior is substantiated.
+Refer to 102-17 for DTE’s policy on ethics and compliance.
+GRI 407 FREEDOM OF ASSOCIATION AND 
+COLLECTIVE BARGAININGLearn more about the company's commitment to employees in the labor management brief . 
+GRI 413 LOCAL COMMUNITIES
+GRI 413-1 Operations with local community 
+engagement, impact assessment, and 
+development programs100% of DTE Gas and DTE Electric operations perform local community engagement, impact assessment, and/or development programs. Additional information 
+can be found in DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template and on DTEimpact.
+GRI 414 SUPPLIER SOCIAL ASSESSMENT
+GRI 414-1 New suppliers that were screened using 
+social criteriaLearn more about supplier safety in the Supply Chain Management brief and Safety Management brief . GRI 400: Social (cont.) PAGE 26
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI 415 PUBLIC POLICY
+GRI 415-1 Political contributions Learn more about DTE’s political contribution in the Political Participation brief and on the Political Participation page on DTE’s Corporate Governance Website. 
+GRI 416 CUSTOMER HEALTH SAFETY
+GRI 416-1 Assessment of the health and safety 
+impacts of product and service categories100% of DTE’s gas and electric operations are continuously being monitored for health and safety improvements.
+Learn more about DTE’s safety management.
+GRI 418 CUSTOMER PRIVACY
+GRI 418-1 Substantiated complaints concerning 
+breaches of customer privacy and losses 
+of customer dataDTE Energy’s Information Technology (IT) and Ethics personnel hold an annual meeting with members of the Michigan Public Service Commission (MPSC) staff 
+to provide a verbal report that addresses the company’s cybersecurity and IT risk planning. In addition to this initiative, DTE Energy also communicates any 
+exposures of customers’ personally identifiable information, or PII, to MPSC staff, and any cyber-attacks to both MPSC staff and the Michigan Fusion Center, 
+which is a collaboration between the Michigan State Police, FBI, Michigan Department of Health and Human Services, and other organizations. The timing of 
+these communications, per the order, are to occur as soon as reasonable, practicable and prior to any public notification. In practice, DTE Energy has these 
+communications with MPSC staff once DTE Energy is reasonably certain of the following:
+• How the incident happened.
+• How the incident was discovered.
+• What specific information was exposed or accessed.
+• How many customers were affected.
+• How many customers were at risk of being affected.
+• What is being done to remedy the situation for customers.
+• How DTE Energy will ensure that it doesn’t occur again.PAGE 27
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2
+Sector Specific
+> GRI 100: UNIVERSAL STANDARDS
+> GRI 200: ECONOMIC  
+> GRI 300: ENVIRONMENTAL
+> GRI 400: SOCIAL
+> SECTOR SPECIFIC: ELECTRIC UTILITIES SECTOR SUPPLEMENT
+> SUPPLEMENTAL MATERIALSSECTOR SPECIFIC: Electric Utilities Sector SupplementPAGE 28
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+SECTOR 
+SPECIFICELECTRIC UTILITIES SECTOR 
+SUPPLEMENT
+GRI EU1 Installed capacity Refer to DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020, Properties- page 9.
+GRI EU2 Net energy output Refer to DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template – Section 2: Quantitative Information - 
+Portfolio, page 16.
+GRI EU3 Number of residential, industrial, 
+institutional and commercial customer 
+accountsFor electric customers, refer to DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template – Section 2: 
+Quantitative Information - Portfolio, page 16.
+For gas customers, refer to DTE Energy’s annual Environmental, Social and Governance Sustainability Report, EEI/AGA ESG Template, Quantitative Information 
+– Natural Gas Distribution, page 20.
+GRI EU4 Length of above and underground 
+transmission and distribution linesRefer to DTE Energy’s 10-K for the fiscal year ending Dec. 31, 2020, Properties- page 9.
+GRI EU5 Allocation of CO2e emissions allowances DTE Electric operates entirely within the state of Michigan and is not covered by a CO2e emissions trading program.
+GRI EU10 Planned capacity against projected 
+electricity demand over the long term, 
+broken down by energy source and 
+regulatory regimeDTE Electric Company’s planned capacity and projected electricity demand is discussed in the regulatory proceedings related to the company’s Integrated 
+Resource Plan (IRP) that was submitted to the Michigan Public Service Commission (MPSC) in March 2019 and approved by the MPSC in April 2020. The 
+docket for this case (U-20471) is located here: Case: U-20471 (force.com).
+A graphical summary of the pathways to meet future generation needs that were proposed in the 2019 IRP is provided on pages 8 and 9 of the IRP Summary 
+document located here: 2019 Integrated Resource Plan Summary (netdna-ssl.com). This summary describes planned generation additions, energy efficiency 
+and demand response to meet projected load demand in the short-term (2019-2024), medium-term (2025-2030), long-term (2031-2040). DTE Electric 
+continues to refine the company’s generation planning strategy and is required to submit its next IRP in 2023. SECTOR SPECIFIC: Electric Utilities Sector SupplementPAGE 29
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI EU11 Average generation efficiency of 
+thermal plants by energy source and by 
+regulatory regimeHeat rate is one measure of the efficiency of a generator or power plant that converts a fuel into heat and into electricity. The heat rate is the amount of 
+energy used by an electrical generator or power plant to generate one kilowatt hour (kWh) of electricity. The lower the heat rate of a unit, the more efficient is 
+the unit. 
+Generator or Power Plant 2020 Actual Net Heat Rate (BTU/kWh)
+Belle River 1 10,795
+Belle River 2 10,852
+Dearborn 7,513
+Monroe 1 10,309
+Monroe 2 10,281
+Monroe 3 10,244
+Monroe 4 10,520
+River Rouge Plant* 16,019
+St. Clair 2 13,162
+St. Clair 3 13,291
+St. Clair 6 11,806
+St. Clair 7 11,424
+Trenton Channel Plant 14,054
+Fermi 2 10,534
+*River Rouge Plant was decommissioned in 2021
+GRI EU12 Distribution line losses A loss factor of 7.23% was approved by the Michigan Public Service Commission, on May 8th, 2020 (see U-20561 Order , page 181).
+GRI EU13 Biodiversity of offset habitats compared 
+to the biodiversity of the affected areasDTE Energy has been required by the Michigan Department of Environment, Great Lakes, and Energy, to offset impacts to habitats, specifically wetland 
+impacts, due to construction activities. Mitigation has included creation of wetland habitats as well as placing large DTE owned parcels in conservation 
+easements. The mitigation wetlands require at least 5 years of monitoring and need to meet specific biodiversity targets (e.g. number of native wetland 
+species). The largest of the mitigation wetland projects include the creation of more than a combined total of 30 acres of wetland habitat and 40 acres of 
+forested wetland (0.3 km2) in conservation easements. Where temporary impacts are part of construction projects, DTE includes a diverse native seed mix to 
+be used in order to restore habitat to its original state and in most instances exceeds the original habitat quality.SECTOR SPECIFIC: Electric Utilities Sector SupplementPAGE 30
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2STANDARD # STANDARD DESCRIPTION DTE RESPONSE TO STANDARD
+GRI EU15 Percentage of employees eligible to retire 
+in the next 5-10 yearsUsing Social Security requirements (which identify retirement age as between 65-67), about 27% will be at or above retirement age within 10 years; 11% within 
+5 years. (This does NOT take into consideration DTE specific retirement benefits/policy)
+GRI EU28 Power outage frequency The System Average Interruption Frequency Index (SAIFI) measures the average number of power outages that a customer experienced in a year.
+• All-weather SAIFI: 1.286
+• Excluding major event days: 1.014
+GRI EU29 Average power outage duration The System Average Interruption Duration Index (SAIDI) measures the average number of minutes a customer was without power in a year. 
+SAIDI: 352 minutes
+The Customer Average Interruption Duration Index (CAIDI) measures the average number of minutes a customer experiences interruption. 
+CAIDI (Including major events): 274 minutesPAGE 31
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2
+Supplemental Materials
+> GRI 100: UNIVERSAL STANDARDS
+> GRI 200: ECONOMIC  
+> GRI 300: ENVIRONMENTAL
+> GRI 400: SOCIAL
+> SECTOR SPECIFIC: ELECTRIC UTILITIES SECTOR SUPPLEMENT
+> SUPPLEMENTAL MATERIALSSupplemental MaterialsPAGE 32
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2Not identified as a priority (material) issue for DTE Energy
+DTE Energy is not reporting on the following topics as they are not identified as priority (material) sustainability issues for DTE.
+GRI 201-4 Financial assistance received from government 
+GRI 202-1 Ratios of standard entry level wage by gender compared to local minimum wage 
+GRI 202-2 Proportion of senior management hired from the local community 
+GRI 205-1 Operations assessed for risks related to corruption 
+GRI 205-2 Communication and training about anti-corruption policies and procedures 
+GRI 205-3 Confirmed incidents of corruption and action taken 
+GRI 206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices 
+GRI 207-2 Tax governance, control, and risk management
+GRI 207-3 Stakeholder engagement and management of concerns related to tax
+GRI 207-4 Country-by-country reporting
+GRI 301-3 Reclaimed products and their packaging materials 
+GRI 302-3 Energy intensity 
+GRI 305-6 Emissions of ozone-depleting substances (ODS) 
+GRI 308-2 Negative environmental impacts in the supply chain and actions taken  
+GRI 402-1 Minimum notice periods regarding operational changes 
+GRI 403-10 Work-related ill health
+GRI 407-1 Operations and suppliers in which the right to freedom of association and collective 
+bargaining may be at risk 
+GRI 408-1 Operations and suppliers at significant risk for incidents of child labor 
+GRI 409-1 Operations and suppliers at significant risk for incidents of forced or compulsory labor 
+GRI 410-1 Security personnel trained in human rights polices or procedures 
+GRI 411-1 Incidents of violations involving rights of indigenous peoples GRI 412-1 Operations that have been subject to human rights reviews or impact assessments  
+444
+GRI 412-2 Employee training on human rights policies or procedures 
+GRI 412-3 Significant investment agreements and contracts that include human right clauses or 
+that underwent human rights screening 
+GRI 414-2 Negative social impacts in the supply chain and actions taken 
+GRI 417-1 Requirements for product and service information and labeling 
+GRI 417-2 Incidents of non-compliance concerning product and service information and labeling 
+GRI 417-3 Incidents of non-compliance concerning marketing communications 
+GRI 419-1 Non-compliance with laws and regulations in the social and economic area
+DTE Energy does not report this information at this time
+GRI 413-2 Operations with significant actual and potential negative impacts on local communities 
+GRI 416-2 Incidents of non-compliance concerning the health and safety impacts of products and 
+servicesSupplemental Materials (cont.)PAGE 33
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2Wildlife Habitat 
+Council SiteLocationInitial 
+CertificationCertified 
+ThroughCertification 
+Status
+Allen Road Service Center 
+ComplexMelvindale 2008 2021 Certified
+Alpena Service Center Alpena 2009 2021 Certified
+Ashley Mews Ann Arbor 2007 2021 Silver
+Belle River Mills 
+Compressor StationEast China 
+Twp.2008 2021 Certified
+Belle River Power Plant East China 
+Twp.1996 2021 Silver
+Big Rapids Service Station Big Rapids 2010 2021 Certified
+Cadillac Service Center Cadillac 2010 2021 Certified
+Citizen’s Gas Adrian 2016 2022 Certified
+Detroit Headquarters 
+ComplexDetroit 2000 2022 Silver
+Escanaba Service Center Escanaba 2015 2021 Certified
+Fermi 2 Nuclear Power 
+PlantNewport 2000 2021 Certified
+Gaylord Transmission 
+& Storage Operations 
+Service StationGaylord 2012 2021 Silver
+Greenwood Energy 
+CenterKenockee 2004 2021 Gold
+Huron Renewable Energy 
+CenterBad Axe 2018 2022 Certified
+Kalkaska T&SO Kalkaska 2009 2022 Silver
+Kingsford Service Center Kingsford 2015 2022 Certified
+Ludington Service Center Ludington 2009 2021 Silver
+Lynch Road Service 
+Center Detroit 2019 2021 SilverWildlife Habitat 
+Council SiteLocationInitial 
+CertificationCertified 
+ThroughCertification 
+Status
+Michigan Avenue Service 
+CenterYpsilanti 2008 2022 Certified
+Milford Compressor 
+StationMilford 2009 2021 Silver
+Monroe Power Plant Monroe 1999 2021 Gold
+Mt. Pleasant Service 
+CenterMt. 
+Pleasant2008 2021 Silver
+Muskegon Service Center Muskegon 2009 2023 Silver
+Newport Service Center Monroe 2016 2022 Certified
+Petoskey Service Center Petoskey 2015 2021 Certified
+River Rouge Power Plant River 
+Rouge2004 2021 Gold
+Sault Ste. Marie Service 
+CenterSault Ste. 
+Marie2015 2021 Certified
+St. Clair Power Plant East China 
+Twp.2001 2021 Certified
+Tawas Service Center Tawas 2009 2021 Certified
+Traverse City Gas 
+OperationsTraverse 
+City2009 2021 Certified
+Trenton Channel Power 
+Plant and Sibley QuarryTrenton 2002 2022 Certified
+W.C. Taggart Compressor 
+StationSix Lakes 2003 2022 Certified
+Washington-10 
+Compressor StationRomeo 2008 2021 Silver
+Western Wayne Service 
+CenterBelleville 2005 2023 SilverWildlife Habitat Council Certified Sites  
+GRI Standard 304-3Supplemental Materials (cont.)PAGE 34
+2021 ENVIRONMENTAL, SOCIAL, GOVERNANCE AND SUSTAINABILITY REPORT, VOLUME 2Industry Associations and National Advocacy Organizations 
+DTE is involved with the following industry associations and advocacy organizations. The majority of these organizations are approached on a regular cadence to gain understanding of the organization's agenda and, if appropriate, communicating 
+legislative and policy agendas to them.
+Name of Organization Stakeholder Group
+American Gas Association Industry Association
+American Iron and Steel Institute Industry Association
+Ann Arbor Spark Business Partner
+Biomass Power Association Industry Association
+Business Leaders for Michigan Business Partner
+Center on Executive Compensation Business Partner
+Chamber of Commerce of the US Chamber of Commerce
+Citizens Research Council Business Partner
+Coalition to Keep Michigan Warm Nonprofit
+Detroit Regional Chamber Chamber of Commerce
+Edison Electric Institute Industry Association
+Electric Reliability Coordinating Council Industry Association
+Energy Storage Association Industry Association
+Human Resources Policy Association Business Partner
+Interstate Natural Gas Association of America Industry Association
+Local Chambers - Over 65 across the state Chamber of Commerce
+Marcellus Shale Coalition Industry Association
+Metro Detroit Visitors & Convention Bureau Business Partner
+Metropolitan Affairs Coalition NonprofitName of Organization Stakeholder Group
+Michigan Association of Counties Government
+Michigan Association of Planning Government
+Michigan Chamber of Commerce Chamber of Commerce
+Michigan Economic Development Corporate Econ Development
+Michigan Electric and Gas Association Industry Association
+Michigan Manufacturers Association Business Partner
+Michigan Municipal Electric Association Industry Association
+Michigan Municipal League Government
+Michigan Retailers Association Business Partner
+Michigan Township Association Government
+National Association of Manufacturers Business Partner
+National Energy and Affordability Coalition Nonprofit
+Northern Michigan Chamber Alliance Chamber of Commerce
+Nuclear Energy Institute Industry Association
+Nuclear Waste Strategy Coalition Industry Association
+Public Affairs Council Business Partner
+Small Business Association of Michigan Business Partner
+The Right Place Nonprofit
+West Michigan Policy Forum Business Partner

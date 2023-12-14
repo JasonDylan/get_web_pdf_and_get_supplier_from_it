@@ -1,0 +1,1289 @@
+Cybercom in words 
+COMPANY PRESENTATION AND 
+ SUSTAINABILITY REPORT 2013
+About the report  
+This report is Cybercom’s combined annual report and sustainability report 
+for 2013. It is presented in two parts, with the presentation of the company 
+and the sustainability report to be found in “Cybercom in words”, and the 
+directors’ report, financial statements and corporate governance report to 
+be found in “Cybercom in numbers”.
+The consolidated financial statements have been prepared in accordance 
+with International Financial Reporting Standards (IFRS), and the corporate governance report complies with Chapter 6, Section 6 of the Annual 
+ Accounts Act and Point 10 of the Swedish Code of Corporate Governance. 
+Cybercom’s sustainability report is presented in accordance with GRI inter -
+national guidelines for sustainability, Level C, Version G3.1. The reporting of key performance indicators for Cybercom, the GRI index, 
+can be found on Pages 32–35 or at www.cybercom.com.
+In 2012, Cybercom signed the UN Global Compact and 
+complies with its ten principles for responsible business.
+This report is Cybercom’s annual communication about 
+how we live up to and work with these principles.Contents
+12013 in brief
+2Cybercom in 3 minutes
+4CEO comment
+7Where we are
+8The market in brief
+10Strategy
+12Targets and outcomes
+14Offering
+16Clients
+19Employees and social 
+ responsibility 
+24Environmental responsibility
+26Sustainability in brief
+27Stakeholder dialogue
+28Overview of sustainability efforts
+30Code of conduct in brief
+31UN Global Compact
+32GRI index
+36Definitions
+Cybercom is an IT consulting company that assists 
+leading companies and organisations to benefit 
+from the opportunities of the connected world. 
+The company’s areas of expertise span the entire ecosystem of communications services. Cybercom’s 
+home market is the Nordic region, and in addi -
+tion the company offers global delivery capacity 
+for  local and international business. Cybercom 
+was founded in 1995 and has been listed on the  NASDAQ OMX Stockholm exchange since 1999.
+www.cybercom.comCompany presentation and sustainability report 201312013 in brief
+Key figures
+MSEK 2011 2012 2013
+Sales 1,481.0 1,339.2 1,195.1
+Operating profit, EBIT -125.4 -11.4 60.2
+EBIT margin, % -8.5 -0.9 5.0
+Profit/loss for the period -144.2 -53.1 41.5
+Earnings per share, SEK -4.0 -0.67 0.23
+No. of employees 1,564 1,335 1,267
+Created and distributed direct economic value
+kSEK 2011 2012 2013
+Revenue 1,481,075 1,399,202 1,195,135
+Employee benefits -950,222 -892,081 -793,840
+Other external expenses -464,840 -476,539 -314,732
+Depreciation, amortisation and impairment -190,817 -29,857 -26,199
+Capital losses - -11,792 -
+Net financial income/expense -19,058 -16,354 -6,904
+Tax 224 -25,314 -11,811
+Charitable donations -575 -352 -142
+Dividends to shareholders 0 0 0
+Total -144,213 -53,087 41,507Key events 
+• In 2013, Cybercom turned all parts of the operations to profit.
+• Cybercom made progress in efforts to strategically broaden the company’s client base and 
+further integrate all parts of the organisation.
+• Cybercom expanded its focus on business in IT security and launched Compliance Portal, which supports innovative processes within regulatory compliance through interactive requirement management and indicates the security status of operations in real time. SL (Stockholm Public Transport) is one major client.
+• The Finnish National Board of Education chose Cybercom for assignments relating to its web services for learning. The contract runs for four years.
+• Cybercom was awarded a contract by the EIdentification Board for federation services for  Swedish e-identification to assure the security of Swedes’ digital identification.
+• Smart Axiata, Cambodia’s second-largest provider of mobile services, chose Cybercom for 
+important mobile network optimisation.
+• Cybercom opened a project office in Kista, Sweden, for several scrum teams in agile  development together with Ericsson.
+• Cybercom signed a new framework agreement with the Swedish Tax Agency located in Gothen -
+burg, Solna and Östersund. The contract runs for one year with an option for a further year.
+• Defence and security company Saab and Cybercom signed a framework agreement for 
+c onsulting services in product development.
+• Cybercom won business with Wireless Maingate for M2M and is developing a solution to 
+ enhance users’ ability to measure and optimise their energy consumption.
+• The 2013 AllBright Report named Cybercom the IT sector’s top company in terms of women in 
+management.
+• Cybercom was awarded best IT workplace in 2013 in Poland. 
+Distributed value 2013
+Employee bene/f_its, 66.42%
+Other external expenses, 26.33%Depreciation, amortisation and impairment, 2.19%Capital losses, 0.00%
+Net /f_inancial income/expense, 0.58%
+Tax, 0.99%Charitable donations, 0.01%Dividends to shareholders, 0.00%   
+ 5%
+EBIT marginIn 2013, Cybercom 
+turned all parts of the operations to profit.
+62%
+Cybercom’s share performance 
+in 2013Company presentation and sustainability report 20132Cybercom in 3 minutes
+43%
+of our sales come from our 10 largest 
+clients98%
+of Cybercom’s clients would recommend usOur clients’ 
+foremost business 
+partner
+Sales by sector
+Telecom, 36%
+Public sector, 25%Industry, 22%Media, 5%Banking & /f_inance, 2%
+Retail, 4%
+Other, 6%
+ We provide Connectivity
+We see great potential in the development 
+of the communications of the future. Where the interaction between people is increasing; where services and systems are meeting new needs; and where mobility is a given. We contribute to our clients’ businesses with passion and we seek to be an integral and reliable partner. Technology, content and people are now interdependent. This involves everything from cars, planes, smart homes, alarms and mobile payment systems to complex 
+telecom networks. All this is  Connectivity, 
+and is fundamentally about making 
+ services in our everyday life simpler and 
+more effective.Cybercom is an innovative 
+IT consulting firm that was 
+founded in Sweden in 1995. Today, we assist companies 
+and organisations to benefit 
+from the opportunities of the connected world and enhance 
+their competitiveness.Our clients
+Cybercom works with a vision to be our cli -
+ents’ most trusted business partner in the 
+connected world. Our clients are  mainly 
+in the telecom sector, the industrial and automotive sectors, the public sector, retail and media. These are leading platform developers, content providers, operators, application developers and manufacturers who need systems, applications, products and services to communicate with each other quickly, efficiently and securely – and in the right way. Alma Media Group, Er -
+icsson, MTV Oy, Millicom, Outotec, SAAB AB, Sony Mobile, Telia  Sonera, the Swedish 
+Transport Administration and AB Volvo 
+are our largest clients, accounting for 43 percent of our sales.3 Company presentation and sustainability report 2013Offering
+Cybercom offers services in:
+• Connectivity Management• Connected Engineering• Digital Solutions• Secure Connectivity
+Our assignments may be to develop 
+ services to meter and optimise  energy 
+consumption, to develop mobile 
+ applications or digital services that 
+strengthen the links between businesses and their customers, to control lifts more efficiently, to develop methodology and process support for information and IT security, or simply to build a new mobile network.Market
+Cybercom’s most significant market is the Nordic region, where we have operations in Sweden, Finland and Denmark. With additional presence in Poland, Dubai and Singapore, and a joint venture in India, we are present in a total of seven countries. Sustainability
+Cybercom strives to be the sustainable IT consulting company. Sustainability issues are important to our clients, our shareholders and our employees. We take responsibility in our assignments as IT consultants towards our clients, society and the environment at large. We  evaluate our business to ensure that 
+we act ethically and in line with the UN Global Compact and its guidelines for sustainability and social responsibility. Ethics and morals should characterise our business. Business ethics are a standing item on the executive team’s agenda.
+Sales by segment
+Sweden, 73% 
+Finland, 18% International, 9%4 Company presentation and sustainability report 2013Company presentation and sustainability report 20135CEO comment
+Stronger on 
+all levels
+Backed by a new strategy, 
+ Cybercom has developed in 
+the right direction in 2013. Our 
+focus has been on profitability, and we are financially stronger 
+than a year ago. With a five 
+percent operating margin, we are  halfway towards our long-
+term financial target. We have more goals* than this, and we  continue to transform the 
+ company to generate greater 
+value for our clients, employees and shareholders.Strategic priorities for generating 
+trusted businessWe are following our strategy from 2012 – a foundation for Cybercom’s long-term develop -
+ment. Cybercom has an established position in Connectivity and uses IT to benefit from the opportunities of the connected world. The market for Connectivity has a fantastic outlook and the sector is talking about more than 50  billion connected devices by 2020.
+We operate in a global market with global 
+competition. The key to our future lies in 
+creating trusted business, in which we are our clients’ business partner in Connectivity. We have therefore worked during the year to select a number of client accounts for which we can offer strategic importance to the client going forward and where we can grow our business to span our entire offering, all of our four business domains. 
+We are focusing on deeper cooperation 
+with selected clients and we are working more closely with these clients. This creates better business knowledge and closer relationships from which we can benefit, not least in a capricious economy. Our strategic priorities include increasing the proportion of turnkey assignments and the proportion of blended delivery, where we benefit from the power of working together with our colleagues in Poland and India for supply in the Nordic countries. There are great opportunities here for Cybercom. Opportunities that during the year we did not manage to realise at the pace we wanted. 
+We have intentionally repositioned our -
+selves to better balance our client portfolio, mainly towards three areas, and we are now beginning to see a better balance between the public sector, industry and telecoms. This provides us with more stable development, and we are becoming less dependent on the economy in any single sector.
+Our world
+Our home market is the Nordic region, where we generate over 90 percent of our sales. This is our locomotive, and we have an established brand and good opportunities to grow our business. We also see good potential in the Polish market, where during the year we invest -
+ed in establishing a growing local business. On top of this is our international Connectivity Management business, which is our exper -
+tise with operator clients in the Middle East, Asia and Africa. This is an important spice in  Connectivity, a small ingredient that provides 
+additional flavour, since our experience from this area is valuable in the ecosystem surround -
+ing the connected world. This is often new and ground-breaking business, new markets, and unexpected services in unexpected places. 
+A sustainable and integrated business
+During the year we improved our profitability and returned to profit in all of the group’s business activities. We still have improvements to make, but we are now working in a more integrated manner, which has led to efficiency gains. This is how we will continue. Examples of this are improved HR procedures and clearer career paths, which are becoming increasingly important as our industry generally has higher staff turnover than previously. Employee  mobility provides energy and new influences, 
+but can also be costly.
+* Read more about Cybercom’s goals and outcomes 
+on Pages 12–13.Company presentation and sustainability report 20136The key to our future 
+lies in creating a trusted 
+business in which we are our clients’ business partner in  Connectivity.Cybercom needs more young employees. We 
+are well aware of the challenge facing the industry in terms of future skills supply. It is worrying that interest in technical education has declined among young people. We want to change this. Cybercom contributes in vari -
+ous contexts to increasing the interest of the younger generation in technology, and one example of this is our partnership with Swe -
+den’s national science centre in  Gothenburg, 
+Universeum.
+Diversity is becoming increasingly 
+ important for our clients and for us. Diversity 
+is positive since it creates dynamism. I am pleased that our management team is  composed of 40 percent women and has 
+members from three countries, since I regard the management as a role model in our  efforts to increase diversity.
+During the year, our sustainability efforts 
+have been noted many times by our clients. 
+This is a crucial part of our way forward. We distinguish ourselves among our competi -
+tors through our transparency and our GRI reporting, introduced in 2010. We have also signed the UN Global Compact. Its principles are self-evident for us and I am confident that it strengthens both our business and our employer brand.
+Connectivity in itself is an amazing ingre -
+dient in sustainability. Connectivity allows us to improve efficiency, save energy, and to make services and support available to more people, regardless of where and when. It opens up democracy and makes everyday tasks easier and more content-rich for our clients and their clients. As an example, we develop services such as Cybercom Green  Connectivity, which helps operators to save 
+energy, and Cybercom Cloud, where we  optimise the resource of server space and cli -CEO comment
+ents can scale up and down their  virtual  server 
+capacity as needed. We develop systems to 
+assure integrity and identification, and we help organisations and government agencies to increase their availability to users.
+The potential of innovation 
+As we look forward, the future offers both opportunities and challenges. We are pre -
+pared. We have a strong organisation and a clear objective to increase our rate of change, 
+to further improve our profitability, and to 
+generate growth.
+Market developments in the Nordic region 
+in 2013 offered mixed signals in the short 
+term, but the long-term trends that we outlined when we presented our strategy and chose to focus on Connectivity are now a reality for both businesses and the commu -
+nity, our clients. The Nordic market for the “internet of things” is expected to grow much faster than the global market in general. This holds promising potential for Cybercom, both geographically and technologically.
+Finally, I would like to acknowledge the 
+commitment we receive from our share -
+holders, the trust we receive from our clients and the passion I encounter among my colleagues, who are driven and attracted by the innovation at Cybercom. This holds good potential for the future.
+Niklas Flyborg
+President and CEOCybercom Group7 Company presentation and sustainability report 2013Nordic 
+focusWhere we are
+Cybercom’s operations extend across 
+several geographical markets. Our home 
+market is the Nordic region. Poland, India, 
+Dubai and Singapore are international centres of expertise that partly support 
+the Nordic business and partly represent 
+their own specialised businesses.l Finland
+Offices:  Tampere, 
+Turku, Helsinki
+Clients mainly 
+in:  public sector, 
+ industry, media
+l Poland
+Offices:  Warsaw, Lodz
+Clients mainly in: 
+telecoms, retail, 
+industry
+l Singapore
+Clients mainly in: telecomsl Sweden
+Offices:  Sundsvall, 
+Östersund, 
+Stockholm, 
+Linköping, 
+Huskvarna, 
+Gothenburg, Malmö, 
+Karlskrona
+Clients mainly in:  telecoms, public 
+ sector, industry, retaill Denmark
+Office:  Copenhagen
+Clients mainly in: 
+ telecoms, public 
+sector, banking and 
+finance
+l Dubai
+Clients mainly in: 
+telecomsl India
+Office:  Mumbai
+Clients mainly in: 
+telecoms, industry
+1,  267
+Total number of employees in 20138 Company presentation and sustainability report 2013Within two years the IT and telecom 
+sector is expected to account for 5% 
+of global GDP.In 2020, the market for the internet of things is expected 
+to have expanded by USD 1.9 trillion.USD 1,900,000,000,000
+16.5%
+Emissions of greenhouse gases have the potential to decrease 
+by 16.5% annually as a result 
+of innovative solutions in the 
+internet of things.5%
+The Nordic market for machine-
+to-machine is expected to 
+grow twice as fast as in the rest 
+of the world.
+2010
+12.5  billion  
+connected  devices2015
+25 billion  
+connected devices2020
+50 billion  
+connected devicesx2
+Sources: The Internet of Everything, Cisco IoE Value Index Study, 2013. Radargroup. Arthur D Little: http://www.telecompaper.com/news/nordic-m2m-market-set-to-
+grow-30-by-2017—998287. http://share.cisco.com/internet-of-things.html. GeSI SMARTer 2020: The Role of ICT in Driving a Sustainable Future.Company presentation and sustainability report 20139The market in brief
+We live in a more connected 
+society. This is obvious to 
+most people these days. And 
+things are changing rapidly. The situation suggests that 
+there will be over 50 billion 
+connected devices by 2020. As more devices are connected, 
+there are growing numbers of 
+sectors and companies that need reliable help to benefit from 
+this connected ecosystem. This 
+strengthens competitiveness, and saves money and resources.Our strategy is 
+shaped by the future 
+Market trends that create 
+more business:
+•  Internet of things – new places and 
+things are becoming connected, digitally represented, and can be verified/controlled regardless of location. 
+• Increased need for network capacity – mobile and data network operators need to maximise utility, and expand and upgrade their networks to meet increasing demand.
+•  Corporate delivery models –  companies 
+are investing in online solutions and  e-commerce services to reach their 
+ customers.
+•  Security – in the wake of the NSA debate, the focus has been on protecting  customer 
+data. Security and privacy are high on the agenda for operators and established  handset manufacturers.
+•  Productisation of IT – IT is increasingly  becoming an industrialised service, more 
+and more cloud based. 
+• Increased proportion of offshore –  
+companies outsource IT to low cost countries.It is becoming increasingly clear that  senior 
+managers need to think in new ways about their IT strategies and need to include  connected machines and smart devices. 
+ Simultaneously, corporate IT budgets are 
+increasingly being migrated to operating man -
+agers since IT is a natural and important part of their operations, business and service. It is in these opportunities in the global Connectivity market that Cybercom’s strategy takes its root.
+This is a world that is changing rapidly, and 
+those who want to succeed better than others need to understand how to take advantage of the opportunities that are arising right now, and simultaneously be at the forefront in  understanding what the challenges of 
+ tomorrow will look like.
+This is also a world that nourishes ideas. As 
+more and more devices communicate with 
+each other, new and creative ways are born to capitalise on the opportunities created. 
+As more devices become connected 
+the need increases for secure and reliable  communication between the connected world 
+and the physical world. It is on this crucial cornerstone that Cybercom’s strategy rests. It is here that we are at our strongest and where the greatest potential exists. We summarise this using one word – Connectivity.Company presentation and sustainability report 201310Cybercom is in a process of 
+change and a new 3-year 
+strategy was set out in 2012. Our 
+vision is to be our clients’ most trusted business partner in 
+the connected world.Strategy
+We are changing 
+the playing field
+Nordic region in focus
+Cybercom’s operations extend across several 
+geographical markets. Our focus is on our home market, the Nordic region. Poland, India, Dubai and Singapore are international centres of expertise that partly support the Nordic business and partly represent their own specialised businesses. We also follow many clients in global assignments from our home market. In 2013, we had assignments in more than twenty countries.
+Integrated environment – 
+integrated organisation
+A central part of Cybercom’s way of looking 
+at the world is that it works best when all its components are interconnected and can communicate effectively with each other. The same goes for Cybercom’s internal organi -
+sation. Therefore, efforts are underway to further tie together all parts of Cybercom as an integrated organisation, with a common sales organisation, common support functions and global delivery capabilities. This will best enable Cybercom’s clients to benefit from our offering. Larger assignments and 
+balanced client portfolio
+Cybercom has historically had many assign -
+ments in the telecommunications sector. 
+Today Cybercom acts as a catalyst in new contexts where clients want to take advantage of mobility and connectivity. In recent years there has been a deliberate broadening of the client base, and in 2013 Cybercom has created a balanced portfolio of clients, primarily in the public sector, manufacturing industry, and telecoms.
+In the past, Cybercom has often had a 
+relatively small part of each client’s business, but the aim is now to increase this proportion among strategic clients by selling Cybercom’s complete offering and by delivering more turnkey solutions. 
+More focused work on key account 
+ management has been introduced during 
+the year, with positive results. Our vision is to become our clients’ most trusted partner, and to succeed with this Cybercom is therefore focusing on fewer clients than before, but the amount of business with each client should be larger, more efficient and more profitable. This will benefit both us and our clients.11 Company presentation and sustainability report 2013Strategy
+Strategic shift by 2015
+More 
+ integrated
+More 
+ focused
+Better 
+balanced
+Larger 
+contract 
+volume
+ per client
+More 
+turnkey 
+assignmentsOrganisation
+Offering
+Client portfolio
+Client relationship
+AssignmentsCompany presentation and sustainability report 201312Targets and outcomes
+Financial targets
+In 2011, the board established long-term financial targets for Cybercom.
+The priorities in 2013 have been profitability and the debt policy.
+Area Description of target Outcome 2013
+Profitability Cybercom shall be one of the more profitable companies among its closest comparable competitors and achieve an EBIT margin of 10 percentEBIT margin was 5.0%  (-0.9).
+Growth Cybercom shall strive to achieve growth of 10 percent annually over the business cycle.Sales decreased by 11.0%  (9.6).
+Acquisition policy Organic growth and profitability are the key objectives for  Cybercom, but selective acquisitions that create value and 
+ contribute to growth will be assessed against this strategy.There were no acquisitions during the year.
+Debt policy Cybercom shall have net debt that does not exceed 30 percent of 
+equity over time.Net debt amounted to 10%  (19).
+Dividend policy Cybercom shall pay a dividend to its shareholders of at least 30 percent of net profit, provided that no special considerations exist with regard to the company’s financial position or plans.0%. Considering the company’s ongoing work 
+towards change, the board proposes to the AGM of May 7, 2014 that no dividend be paid for the financial year 2013.10%5%On the right track
+Cybercom should be regarded as the most well-known and respected brand in 
+Connectivity among clients and employees, on the labour market, and among 
+our shareholders. Over the next two years we will become a leading provider 
+of Connectivity services in the Nordic market, combined with a valuable global delivery capability.
+ Target met                 Positive development                  Not applicable/no data                  Target not met and/or negative developmentCompany presentation and sustainability report 201313Operating targets
+Area Description of target Outcome 2013
+Client portfolio Within the next two years we will have a balanced client portfolio 
+with 30 percent of sales from telecom, 30 percent from the public sector and 30 percent from manufacturing industry. l Telecom 36%  (40)
+l Public sector 25%  (24)
+l Industry 22%  (18)
+l Other 17% (18)
+Client base Within the next two years we will broaden the client base so that our ten largest clients account for no more than 35 percent of sales and so that no single client accounts for more than 15 percent of sales. The ten largest clients accounted for 43% (48) and 
+the largest client accounted for 14%  (10) of sales. 
+Assignment types We wish to achieve an even distribution of sales between consul -
+ting services and turnkey projects/solutions in our assignments. Turnkey assignments and projects 38% (39) 
+ Consulting services 62% (61).
+Our role as an  employerWe wish to enhance the commitment of our employees by provi -
+ding them with an attractive working environment, good terms and conditions, and opportunities for professional development. We are actively working to increase our diversity and to create a dynamic and innovative working environment. We measure this through a group-wide employee survey, called Cybercom People Voice, in which our long-term goal is 700 out of a possible 1,000 on the employee motivation index.Our employee motivation index totalled 583 .
+Sustainable  businessWe wish to increase the amount of sustainable business with our clients. We measure this by looking at what business contributes to sustainable development and responsible use of resources through, for example, cost savings, efficiency and reduced use of resources that have a negative environmental impact.At Cybercom’s ten largest clients, approximately 20%  of assignments have contributed to improved 
+sustainability through efficiency, cost savings or a reduced degree of exploitation of the earth’s resources.
+Business ethics We want high ethics to be a part of our DNA and to permeate all our activities and all our business. Business ethics is a standing item on the executive team’s agenda. In 2014, we will offer all employees the opportunity to gain certification in anti-corruption and Cybercom’s code of conduct. We will measure and monitor the number of certifications in the group. We monitor the number of possible incidents in the group and the number of suppliers that have signed Cybercom’s supplier code of conduct.No data is currently is available for 2013 but will be collected during 2014.
+Environmental impactWe wish to reduce our CO
+2 emissions as a result of travel per 
+ revenue krona by 5 percent between 2011 and 2015.Since 2011, CO 2 emissions as a result of travel per 
+revenue krona have decreased by approximately  
+13%.583
+We want high ethics to be 
+a part of our DNA and to 
+permeate all our activities and all our business.  Target met                 Positive development                  Not applicable/no data                  Target not met and/or negative developmentTargets and outcomes14 Company presentation and sustainability report 2013Offering
+Connectivity – our 
+core expertise
+Cybercom provides businesses and organisations 
+with assistance to benefit from the opportunities 
+of the connected world, but precisely what these 
+opportunities are and how this is achieved is  always unique to each organisation and project.
+We provide consulting services, strategy and 
+advice, testing and quality assurance, security 
+s olu tions, system development, system integra -
+tion, system management and hosting. 
+Within these areas there are also a range of 
+services specifically focused on helping clients 
+to reduce their environmental footprint and to 
+use their resources more efficiently and sustaina -
+bly. Regardless of the offering, delivery can take 
+place using both local resources and using global 
+ delivery capabilities.Company presentation and sustainability report 201315
+Connected devices – new business
+Cybercom assists its clients to develop new products and services, and 
+to build intelligence into products and systems. By getting to know the client’s business and operations, Cybercom develops communication solutions that have clear potential to streamline processes and improve user experiences by allowing different devices to communicate with each other.
+ASSIGNMENT CASE : Outotec is a company that helps organisations to utilise the 
+earth’s natural resources in a sustainable manner. Most of Outotec’s customers 
+are in the heavy manufacturing and energy sectors, and when Outotec needed help to find a solution to cool copper smelting furnaces more efficiently, it turned 
+to Cybercom. Cybercom delivered a software solution that collects and analyses 
+information about the cooling process and displays everything that happens in real time in a 3D model. Thanks to this insight, the people controlling the furnace can cool it with a more efficient use of resources and can also detect problems in the cooling process much more quickly. 
+Safe and secure accessibility
+Demands intensify for IT security as businesses, governmental 
+ authorities and organisations become digital and mobile, with ever more 
+vital information in, for example, cloud services. Who should have access to the data, and what about privacy and confidentiality? How should we prioritise IT security versus availability? Cybercom helps its clients at an early stage to identify and minimise IT risk. Our experts  analyse the risk 
+of a cyber-attack, draw up security policies and compliance services, or give advice on how sensitive data can be protected.
+ASSIGNMENT CASE: One organisation that demands a high level of both IT 
+ security and physical security is SL (Stockholm Public Transport), which is respon -
+sible for bus, light rail and subway traffic in Stockholm. Every day an enormous 
+volume of data flows through its systems, and it is important that sensitive infor -
+mation is protected while information on departure times and delays needs to be accessible and constantly updated. To keep IT security at the high level required, without affecting the availability of public information, Cybercom helped SL to implement a decentralised security process.   Connected 
+Engineering
+Secure ConnectivityMore services – to more people – around the clock
+Cybercom’s offering in digital solutions is quite simply about helping 
+companies to benefit from digital opportunities in order to deepen rela -
+tionships with their customers, enhance growth, reduce costs, improve productivity and become more profitable. Cybercom develops systems, online strategies, digital services and cloud-based solutions. 
+ASSIGNMENT CASE: SF Bio wanted to attract more people to go to the cinema 
+by creating a digital and mobile link between movie theatres and moviegoers. Cybercom developed a mobile application that customers can use to book and purchase tickets, and to select seating in the cinema. The application, with a 
+focus on good user experience, is also full of information about all the films being 
+shown, and SF Bio can use the app to contact its customers with various offers. The app quickly became one of Sweden’s most popular, and three times as many bookings are now made using the new app.Digital 
+ Solutions
+Smoothing paths in the connected world 
+As people and devices increasingly communicate via networks, and data 
+traffic is increasing in the world, Cybercom offers consulting, industrial analysis and security analysis in the context of utility maximisation, expansion and upgrading of networks or when developing new mobile networks.  
+ASSIGNMENT CASE:  A central component of Cybercom’s services in 
+ Connectivity Management is about customer experience management, which 
+means helping operators to understand how their customers actually experience their services and how they can improve those services by using that insight. 
+Cybercom collects feedback from operators’ customers on how they feel about, 
+for example, call quality and data traffic, and combines this with objective data from operators’ networks about things such as local base stations and capacity in the network. Cybercom can then conduct reliable analysis and provide operators with advice on how they can optimise their networks for the user. Cybercom is currently helping mobile operator Tigo in Rwanda with this.Connectivity 
+ Management45%
+Percentage of group 
+sales 42%
+Percentage of group sales 
+8% 5%
+Percentage of group sales Percentage of group sales Offering16 Company presentation and sustainability report 2013Clients
+Clients first
+Our clients are important to us. This means that we 
+conduct regular measurements of client satisfaction 
+in relation to client orders. Every year we also conduct 
+a group-wide client survey that forms the basis of our ongoing improvement. In 2013, 129 telephone inter -
+views were conducted and 64 online questionnaires were answered.
+The results show great loyalty, with 98 percent saying they would 
+recommend Cybercom to others, and clients perceive Cybercom as a safe and fast-moving company. Our employees are very highly rated, and most agreed with the following statements:à We are easy to deal with
+à We keep our promises
+à We are passionate
+Clients include:  Alma Media, Ericsson, the Finnish National Board 
+of Education, Millicom, MTV Media, SAAB, Sony Mobile, Outotec, the Swedish Traffic Administration, TeliaSonera, AB Volvo and Volvo Cars. We are easy to
+deal with
+We keep our 
+promises
+We are passionateCompany presentation and sustainability report 201317
+Photo: Verisure
+The internet 
+of things requires a completely new business modelVerisure’s investment in the 
+smart home has been a success. 
+A Verisure system is installed 
+somewhere in the world every thirty seconds. Verisure selected 
+Cybercom as a strategic partner 
+with both the right skills and adequate testing resources to 
+address its new market.
+Verisure (formerly Securitas Direct) has supp -
+lied security services and alarm products to 
+Swedish households for over 25 years. When the smart home, or the ”internet of things” as it’s also called, stepped into the picture, not only their entire product portfolio changed, but also their business model. 
+“What makes us unique is that since 2005 
+we have developed our own ecosystem that makes it possible to fully integrate other companies’ services and products with our offering, and with all the functions controlled via our app. Our classic services of intruder alarms, fire alarms and SOS are there, but we have understood that we need to have a comprehensive offering to be a strong player in the future,” says Michael Peterson, Head of Corporate Communications and Media Relations at Verisure Innovation.
+“The smart home” is usually something that 
+sounds good in theory, but that seldom lives up to the epithet. But Verisure has something big going on. 
+”We are already present in hundreds of 
+thousands of European homes, and these are already connected. And now we are also bringing in the services of our partners, who can start communicating via the platform. We already have a partnership with Assa Abloy, whose digital locks are fully integrated with our alarms. And we have Anticimex, with Verisure’s sensors reading temperature and humidity so that customers are contacted by Anticimex if there is a problem with the indoor climate,” explains Michael Peterson.
+More collaborations are on the way. The 
+ Internet of things is not tomorrow’s techno -
+logy. The phenomenon is already here and it 
+requires entirely new techniques. Cybercom proved to be the rock that Verisure could rely on when it started to look around for someone who could ensure that everything worked as it should. Cybercom’s specialty field of Connected Engineering offered both the expertise and the equipment needed for this initiative.
+“Product testing is cyclical and requires 
+specialist knowledge. You have to know how to work systematically, and we cannot provide this type of skill and capability in-house. We decided on Cybercom for several reasons. Partly, it was that we were impressed by its Testcenter, and partly it was that they had several cases where they could demonstrate experience from areas such as the automo -
+tive and mobile phone industries,” says Dan Hovang, Chief Technology Officer at Verisure. 
+Cost-effective testing
+“Another good thing about outsourcing this type of testing is that an external provider takes approaches that we have not thought of. Cybercom is extremely thorough when it veri -
+fies designs. It makes sure that the logic of the product is 100 percent bulletproof,” says Dan.Clients 18 Company presentation and sustainability report 2013Would you like to know more about Cybercom and how we help our clients?
+Go to www.cybercom.com and find out about some of our exciting assignments!Clients
+Telenor – 400% better
+ Connected Engineering
+SF Bio – popular app
+ Digital Solutions, Connected Engineering
+Outotec – virtual training
+ Connected Engineering
+MTV MEDIA – TV campaign 
+calculator
+ Digital SolutionsOman – quality control of telecom services
+ Connectivity Management
+Real – PCI DSS – Security audit
+ Secure  Connectivity
+Sveaskog – Inatur.se
+ Digital Solutions
+Mobile network in Rwanda    
+ Connectivity ManagementSL – Compliance Portal 
+ Secure Connectivity
+KONE – monitoring system – E-Link
+TM
+ Connected Engineering
+SAS – vulnerability scanning
+ Secure Connectivity
+Kommunal – social intranet
+ Digital SolutionsCompany presentation and sustainability report 201319Employees and social responsibility
+Each employee 
+is our success
+Our ability to develop and retain 
+key employees and to attract 
+new qualified colleagues is an 
+essential and highly strategic issue for Cybercom. It’s about 
+the company’s development and 
+competitiveness.Thanks to the expertise of its employees, 
+Cybercom is well equipped to meet challenges both today and in the future. Through our em -
+ployees’ great engagement, experience and desire to always do the best for the client, we have created an innovative environment that is based on community and passionate curiosity about what the future has to offer.
+Based on our business goals and common 
+values, we are creating an organisation in which continuous skills development, reward systems and feedback ensure a high level of motivation and understanding of the work we have ahead of us.
+A workplace in which to thrive 
+and developIn our leadership and management of the business we focus on increasing motivation and engagement, on creating conditions conducive to work, and on ensuring that every employee, manager and team will develop in the right direction. Employees should thrive at Cybercom, have interesting assignments, be proud of their work, have confidence in their managers and feel positive community spirit with their colleagues.
+Cybercom conducts long-term and dedica -
+ted HR activities at all levels of the company.
+Through collaboration, we create an 
+exchange of experiences and knowledge between consultants, assignments and the various parts of Cybercom. Training hours vary over the years and largely depend on the employee’s needs and priorities. Employee skills training is continually monitored and summarised in annual performance and deve -
+lopment plans.
+In 2013, 81 (84) percent of employees 
+ attended performance reviews. The 243 who 
+started their employment in 2013 have their first performance review in 2014.
+We do not stand still
+Cybercom began a journey of change in 2012 as the company’s growth and profitability were not satisfactory. In 2013 we have deve -
+loped according to the established plan, with positive results thanks to the company’s em -
+ployees, who all contributed to strengthening 
+Cybercom’s three core values: 
+      Innovation
+1 We are innovative in the way we work and embrace new technology. We are results-oriented and always 
+add value to the business. We are always in the forefront, we question, challenge, move boundaries and change industry standards.      Passion
+2 We are driven by a genuine passion and are proud of what we achieve. We are the gurus of our niches and 
+always willing to go the extra mile to improve performance and enhance our clients’ businesses. We deliver assured quality, on time and within budget.      Trust
+3We generate trust and confidence among our colleagues and clients by using common sense, clear thinking 
+and doing what we say – always with respect for each other. Company presentation and sustainability report 201320Employees and social responsibility
+the profitability. One of our most important 
+goals is to improve employees’ perception of Cybercom throughout the group. The regular employee survey, called  Cybercom People 
+Voice, is an important tool for measuring how employees view the change process, their work, their employer and their work situa -
+tion. The 2013 survey shows good progress in improved results. Employee pride in Cyber -
+com has increased by 14 percent, willingness to recommend Cybercom has increased by 
+5 percent, and employee engagement has 
+increased by 5 percent compared with the pre -
+vious survey conducted in 2011. In comparable categories we can clearly note that our em -
+ployees see clearer career paths than before. This is important for us, but we can do even better. Our employee motivation index totalled 583 of a possible 1,000, which is some way below our long-term target of 700. However, we are confident that our ongoing work will improve this performance further in 2014.
+Cybercom Poland – a successful concept
+In September, Cybercom was named best IT workplace in Poland by IDG’s Computer World AudIT Survey 2013. The study is based on employees anonymously providing feedback through a survey. Computer World’s survey showed that our employees in Poland are the most satisfied with their working conditions, atmosphere and development opportunities, and that Cybercom is considered to be an innovative and dynamic organisation that offers services of the highest quality. Creating such a workplace is a team effort. 
+Diversity – a workplace for all
+We wish to provide current and potential employees with a stimulating and engaging working environment, with equal career opp -
+ortunities regardless of gender, ethnicity, age, sexual orientation or religion. Our ambition is that both genders are represented at every level of the organisation, and we therefore 
+seek to achieve a gender balance in manage -
+ment ranks and more female consultants, as 
+well as broader diversity in general. We want to offer a modern, healthy workplace where our employees feel pride and appreciation for the work done, and where we have fun along the way.
+At the end of the year the number of 
+employees in the group was 1,267 (1,335), of whom 16 (17) percent were female. One of the recruitment targets for 2014 is to increase the proportion of women at Cybercom. The percentage of female managers was 26 (27). The company’s executive management has 4 women and 7 men.
+Cybercom has a positive approach to paren -
+ting and works actively to make it possible to combine a career with parenthood, through measures such as both men and women being given the same opportunity to take paren -
+tal leave and care for children. In Sweden, employees are given the economic capacity to take parental leave through the parental 
+The average time spent on training has decreased by 
+nearly 7 percent between 2012 and 2013. 2010  2011  2012  2013Hours of training per employee, 2010–2013
+Number of hours
+1927 2729
+Our employer branding is 
+producing results
+In Sweden, Cybercom has been named a Career Company 
+2014 and we are considered one of Sweden’s most exciting companies in which to pursue a career for young professio -
+nals. 300 companies were nominated and surveyed, and 100 received an award.  
+“With a broad spectrum and variety of challenges, the 
+Cybercom Group is an excellent springboard for both Young Professionals early in their careers and for more experienced employees. With continuous monitoring of employees’ well-being and an extensive offering, Cybercom Group assures a long and exciting career which makes them a Career Company 2014.”
+Source: Dagens industri/Din karriär
+Company presentation and sustainability report 201321Employees and social responsibility
+Number of employees by country 2013
+Country Sweden Denmark India Poland Finland Dubai Singapore Total
+Men 645 (690) 21(29) 39(51) 117 (79) 217 (229) 6 (2) 21(32) 1,060 (1,110)
+Women 149 (167) 3 (3) 9 (7) 17 (13) 27 (32) - (-) 2(3) 207 (225)
+Total number of 
+employees 794 (857) 24(32)  48 (58) 134 (92) 244 (261) 6 (2) 23(35) 1,267 (1,335)
+Number of male managers 36 (37) 1 (1) 2 (6)  3 (3) 29 (33) 2 (1) 3 75 (84)
+Number of female managers 18 (21) - (-) - (-) 3 (1) 3 (4) - (-) - (-) 24 (26)
+Total number of managers 54 (58) 1 (1) 2 (6) 6 (4) 32 (37) 2 (1) 3 (3) 99 (110)supplement, which means that the employer 
+reimburses up to 80 percent of monthly salary. During the year, 62 (89) employees were on parental leave in Sweden, of whom 49 men and 13 women, and of these, 45 men and 10 women received the parental supplement. In Finland there is a similar parental supplement, which 4 women and 16 men have received during 2013.
+Healthy and fair
+Cybercom prioritises active efforts for equal 
+rights for everyone in the community in 
+terms of jobs, opportunities for professional development, employment and other working conditions. This applies to all employees, regardless of where in the world they work. Cybercom demands that the organisation be imbued with high ethical standards. From 2014 we are monitoring this by measuring the number of employees who annually take part in online courses on anti-corruption issues and Cybercom’s code of conduct. The code, based on the UN Global Compact, is a tool to clarify and drive the work forward. It also includes anti-corruption and ethics issues. The code of conduct also states that all employees, regardless of where they are located, should have access to a healthy and safe working environment. 
+Challenges outside the Nordic countries
+In addition to the Nordic countries, Cybercom operates in Dubai, Singapore, Poland and India.
+The operations in Poland, Singapore 
+and Dubai are conducted by wholly owned subsidiaries, while activities in India are a joint 
+venture, 50 percent owned by Cybercom, and 
+where we are represented on the board.
+According to the Human Rights Watch 
+World Report 2013, which describes the risk of human rights violations in different countries, there is a risk of human rights violations in the United Arab Emirates (Dubai), notably restrictions on free expression and association. The risks in India and Singapore are related to discrimination based on gender, cast (India) or sexual orientation.
+Anti-Corruption Portal – The Business Anti-
+Corruption Portal provides information about the risks in different countries of encountering bribery and corruption. According to the 
+Gender distribution by age group
+Total: 30014% 86%< 30 
+years
+Women Men
+30-50 
+years
+Women Men
+16% 84%
+Total: 813 > 50 
+years
+Women Men
+21% 79%
+Total: 154We wish to provide current 
+and potential employees 
+with a stimulating and engaging working environment, with equal career opportunities regardless of gender, ethnicity, age, sexual orientation or religion.22 Company presentation and sustainability report 2013Employees and social responsibility
+Employee key figures 2013 2012 2011
+Number of employees at December 31 1,267 1,335 1,564
+Average number of employees during the year 1,180 1,368 1,577
+Gender distribution, male/female, % 84/16 83/17 82/18
+Billable consultants, % 86 85 86
+Average age, years 37 37 37
+Average length of employment, years 5 5 4
+Average sector experience of consultants, years 11 11 11
+Sales per fulltime employee, SEKk 1,013 979 939
+Staff turnover, % 19.2 20.4 19.9
+Percentage of employees covered by collective 
+bargaining, % 81 81 73
+People voice index 583 – –
+Sick leave, % 2 2 2
+Training hours per employee 27 29 27
+Cost of external training 4,920 7,862 7,286portal, bribery and corruption are widespread 
+in India, even though efforts are being made to reduce corruption. Poland is a country in the former Eastern Europe, where the most progress is being made in the fight against corruption.
+Cybercom’s code of conduct was adapted 
+in 2012 to also apply to suppliers. The code of conduct is based on the principles of the UN Global Compact on human rights, labour, the environment and anti-corruption. In 2013, 
+we have structured our work of ensuring that 
+all partners and suppliers sign our code of 
+conduct, and the next step is ensuring compli -
+ance. This work will begin and be monitored in 2014. See the code in brief on Page 30.
+Compensation and salary policy
+Cybercom acts in accordance with the conventions and recommendations of the International Labour Organisation (ILO), and our remuneration exceeds minimum wage. The company’s remuneration must be com -
+petitive and on market terms, as this is a very important factor in attracting and retaining skills. Cybercom supports the right to freedom of organisation and association. 81 percent of the employees are covered by collective bargaining agreements. In Sweden, around half of the employees are union  members. For 
+the entire number of employees it is a smaller proportion.
+CSR ambassadors
+One of Cybercom’s goals is to increase the awa -
+reness of, and commitment to, our sustainability work. To achieve this we have appointed CSR ambassadors since 2010. These ambassadors are employees who, in addition to their regular duties, are tasked with becoming involved in Cybercom’s sustainability efforts, and with  developing these together with management 
+and sustainability manager, and communicating about the work internally and externally. 
+Partnership with SOS Children’s Villages
+Cybercom is a knowledge-based company 
+that conducts assignments in, for example, 
+Rwanda, where we assist an operator with its 
+mobile networks. Mobility in the third world enables enterprise among poor people, and internet access helps to spread knowledge. By supporting SOS Children’s Villages in Rwanda, we can contribute to children’s education in a country where we have ongoing projects. 
+The partnership has been ongoing since 
+2010, and Cybercom annually contributes approximately SEK 250,000–500,000. Payment of SEK 500,000 was made at the start of 2014. The money goes specifically to a school in Gikongoro, and is mainly used for a computer lab.  
+Partnership with the Swedish Childhood Cancer Foundation  
+Cybercom also works with the Swedish Childhood Cancer Foundation. Through an agreement with Eurocard, Cybercom donates SEK 135 for each credit card that Cybercom’s employees use each year. In 2013, the total donation was SEK 85,000. 
+37 years
+Average age of our employee
+Average length of employment 
+with Cybercom5 years
+11 years
+Average sector experience of our employees
+89 %
+Percentage of employees with a university degree23 Company presentation and s ustainability report 2013Karin Oling, CSR 
+ ambassador, legal  counsel and an 
+ employee for two 
+years at CybercomEmployees and social responsibility
+Our common future
+We wish to integrate sustainabi -
+lity issues even further into our offering to our clients – it is here that we can make the biggest 
+difference. We already conduct a lot of work that may enhance the sustainability of our clients, and we can be better at making this vi -
+sible, both externally and internally. Obviously employee issues are also important, not least when it comes to skills development, diversity and equality. Through further focus on these issues we can help increase diversity and equa -
+lity in the IT industry for the benefit of oursel -
+ves, our clients and the community at large. High business ethics are important of course, and one activity during 2014 is to introduce web-based training on anti-corruption.
+As a CSR ambassador, I meet many 
+ colleagues across the organisation and it is 
+clear that these issues generate a great deal of engagement and interest – it’s all about our common future. Within my CSR assign -
+ment, I provide information about Cybercom’s sustainability initiatives and the principles of the UN Global Compact at different levels in the company. Together with management and other CSR ambassadors, I drive the dialogue about what is important to Cybercom from a sustainability perspective, how we can use our power of innovation, and where Cybercom as a company can make a difference.Company presentation and sustainability report 201324Environmental responsibility 
+Green light for 
+more business
+Cybercom’s biggest contribu -
+tion to a better environment is 
+about offering innovative and 
+climate-friendly solutions to clients.Our services in Green IT include everything 
+from helping mobile network owners to reduce their energy consumption by opti -
+mising their networks to creating the right conditions for telecommuting and paperless document management in workplaces, thus reducing companies’ environmental impact by reducing paper use and reducing trips to and from the workplace. The whole of the public sector digital venture, with the shift towards e-services and from paper to e-forms has a significant impact on the environment and efficiency.  Cybercom provides its expertise in 
+this field. Another important aspect is that a uniform national e-identity is being introdu -
+ced for all citizens in Sweden, an assignment in which  Cybercom is playing an important 
+role. Another key part of Cybercom’s offering in Green IT is to manage other companies’ servers via cloud solutions. We can conduct this work more energy efficiently than if each company were to operate its own servers. In 2013 we increased our quantity of sustaina -ble business compared to 2012, which is an acknowledgment that we are well positioned in a world where clients are placing increasing demands on sustainable solutions.
+In 2013 we launched Cybercom Cloud in 
+Finland, and we have already won contracts from several clients. Cybercom Cloud offers the “Platform as a Service”, which means that ordering of capacity is automated and thus provides a level of flexibility that appeals to clients. Associated services such as support and development generate additional business to Cybercom. Another important benefit that clients see is that data and content are stored in the Nordic countries.
+Cybercom’s internal 
+environmental effortsAir travel accounts for the largest share of Cybercom’s carbon dioxide emissions and we therefore wish to reduce emissions from air travel per revenue krona by at least five percent between 2011 and 2015. In 2012 the 
+As a consultant at Cybercom, I have the privilege of working with three things that interest me very much, 
+namely IT, sustainability and great colleagues. I love the feeling I get when we have resolved a client’s problem and at the same time con -
+tributed to better management of the Earth’s resources. As far as I can, I try to always build more sustainability thinking into our offering and to get clients to seek more sustainable solutions. 
+Tarmo Pajunen, 
+consultant and 
+CSR ambassador 
+at Cybercom FinlandWe make a difference through our clients
+A good example is our 
+partnership with Alma Media in Finland, which publishes the magazine Kauppalehti. Cybercom provides Kauppalehti with a flexible cloud solution that enables it to both scale up and scale down its virtual server capacity as needed, saving both money and resources because it never con -
+sumes more capacity than actually needed. Company presentation and sustainability report 201325company introduced an IT-based communica -
+tion tool. This investment provided immediate 
+results in the first year, and although emissions increased in 2013, they are lower than in 2011 and therefore in line with our target. The reason that the number of flights increased in 2013 is that our international operations increased their sales and won more business over several continents. 
+In addition to the IT-based communication 
+tool, Cybercom conducts systematic efforts to reduce the group’s impact on the environ -
+ment. Some examples of actions are:
+• Handling of old IT equipment which, when 
+possible, is sold for reuse or otherwise goes 
+to partners for recycling.
+• Lights switched off by timer after business 
+hours.
+• Handling of discarded electronics products 
+that are recycled where possible.
+• All printers are set by default to duplex prin -
+ting, and employees are encouraged to avoid using hard copies as far as possible.
+• Recycling of paper and other waste.• Procurement of products, consumables and 
+services must, if possible, meet high environ -
+mental standards.
+• Purchase of renewable electricity. • Cybercom places requirements on suppliers 
+of office materials and computers. These suppliers must meet the environmental  requirements of TCO 95 and TCO 99, and 
+the materials must be recyclable.
+Environmental certificationCybercom is working with environmental certification of the company’s activities in accordance with ISO14001. Cybercom is striving for all our businesses to eventually be certified, and work has begun. The focus in Carbon dioxide emissions, 2013 
+Air travel, 92% 
+Electric power, 8% 
+13%
+Reduction of Cybercom’s CO 2 
+ emissions from air travel per 
+sales krona 2011–2013Carbon dioxide emissions from air travel in relation to the company’s sales
+2013 2012 2011 Change over two years
+Carbon dioxide* 0.53 kg 0.34 kg 0.61 kg -13%
+* Data excludes Cybercom’s joint venture in India.Environmental responsibility
+Energy use by energy source, 2013
+Total energy use 2,437 MWh
+Water, 66.8%
+Coal, 16.7%Nuclear, 9.1%Wind, 6.8%Natural gas, 0.5%
+Oil, 0.1%
+2013 at the certified offices has been to train 
+personnel through a web-based course from Eco Educate. We conducted an environmental survey during the first quarter to produce environmental mapping that formed the basis of the company’s environmental efforts during the year. In conjunction with the survey we conducted a test called the Climate Account. The Climate Account is intended to raise people’s awareness of their own individual climate impact in their daily lives, and how they can reduce it. Information about the development of internal environmental efforts is available to employees on the company in -
+tranet. Cybercom’s ambition in the long-term is to achieve environmental certification for all operations.26 Company presentation and sustainability report 2013Sustainability in brief
+Cybercom – a 
+sustainable IT company 
+We wish to grow with good profitability and also 
+to take responsibility for how people, the environ -
+ment and society are affected by our activities. 
+We use stakeholder dialogue to ensure that we act  responsibly 
+and in line with the expectations of stakeholders and the  targets 
+we have set ourselves. Learn more about our stakeholder 
+ dialogue on Page 27.
+Responsibility is defined in our commitment to the UN Global 
+Compact, our code of conduct and in our sustainability goals. 
+Efforts to achieve the goals are a part of our business plan and help to achieve our vision. We have selected priorities in order to be able to make efforts in areas where we need to improve. Our focus areas for sustainability work are committed employees, a greater share of sustainable contracts with our clients, and high ethical standards in all our activities and in all our  businesses. 
+Read more about our goals and outcomes for 2013 on Pages 12–13.
+Governance of initiatives
+Cybercom’s operations are led by management and governed by the company’s code of conduct. Learn more about the company’s governance in the corporate governance report, which can be found under ”Cybercom in numbers”. Sustainability initiatives are coordinated by the Head of Communications with the help of a team of annually selected CSR ambassadors, and are run  operationally in the business areas.Company presentation and sustainability report 201327Stakeholder dialogue
+Stakeholders and materiality analysis 
+for sustainability issuesWe have already identified our employees, clients, shareholders and trade unions as our key stakeholders, based on how much they influence, or are influenced by, Cybercom.
+During 2013 and early 2014, we  conducted 
+a number of interviews and surveys with employees in Sweden and Finland, with clients from various industries, with representatives of different shareholders, and with union  representatives. The aim was to identify 
+the main issues for Cybercom based on the sustainability issues that most affect, and are affected by, our business, and where we can make the greatest difference.
+In addition to interviews and surveys, there 
+are other forums and formats for dialogue with stakeholders. Shareholders have the opportunity to present comments to manage -
+ment and the board at shareholder meetings. Cybercom’s employees can offer comments and ask questions of management through the employee survey and through contact with the CSR ambassadors. Employees can also discuss and find out about health and safety issues or business-related issues through the 
+Dialogue and exchange with 
+our stakeholders is valuable 
+to us. We use stakeholder and 
+materiality analysis to identify key stakeholders and trust 
+ issues to focus on.
+Stakeholder group Issues Dialogue Outcome
+Clients Offering, quality,  delivery, 
+ security management, 
+integrity, business ethics, 
+working conditions, climate 
+performance, procurement 
+proceduresClient surveys, inter -
+viewsSales training, operational  systems in the Swedish busi -
+ness for quality, environmental 
+and data security to be inte -
+grated throughout the group. System based on established 
+standards ISO 9001 (quality) 
+and ISO 14001 (environment) and to some extent ISO 27001 
+(information security)
+Employees Skills development, working 
+environment, corporate 
+ culture, diversity and equalityEmployee survey, 
+interviewsTraining, manager conferences, employee events/meetings on 
+vision, values
+Investors/share -
+holdersProfitability, corporate  responsibility, business ethicsAnnual general 
+meeting, board work, 
+interviews, investor meetingsCode of business ethics and 
+conduct, sustainability report, 
+corporate governance report
+Suppliers Suppliers’ environmental effortsSupplier code of conduct, procurement, negotiationCompliance with code,  sustainability focus
+Trade unions Labour rights, employment conditions, skills develop -
+ment, working environment, 
+co-determination, board 
+issuesWorkplace meetings, board meetings,  interviews/surveysSupport in wage bargaining and negotiations on layoffshealth and safety committees or their line 
+manager. See other forums and formats for dialogue in the table below. 
+Results of materiality analysis
+Based on the results of stakeholder dialogue, Cybercom’s steering group on  sustainability 
+issues, which includes individuals from the  executive management, has prioritised the 
+most  important sustainability issues.
+Employees feel that training and clear career 
+paths are important. It is also important to practice what you preach. The managers think that the question of how Cybercom increases engagement among employees is important, including how Cybercom’s goals, visions and work in sustainability are integrated into the business offering.
+Clients are setting clearer requirements 
+through their codes of conduct for suppliers, with requirements such as working conditions, environmental issues and ethical issues.
+From an investor perspective, it is important 
+for Cybercom to be clear when it comes to business ethics and client privacy, and that the company focuses more on developing  sustainable business for our clients.Focus 
+moving forward
+ExpectationsCompany presentation and sustainability report 201328Overview of sustainability efforts
+Governance and management
+GOAL OUTCOME 2013 DEVELOPMENT
+Raising awareness of, and commitment to, our 
+sustainability work: In order to increase internal 
+awareness and commitment for our sustainability 
+work, Cybercom has since 2010 appointed CSR 
+ ambassadors at the company. Our CSR ambassa-
+dors lead CSR issues both internally and externally, 
+together with the company management.CSR ambassadors and CSR managers give lectures and disseminate information internally across the 
+organisation. Cybercom has been invited to give 
+lectures externally such as in schools. This in turn has 
+raised awareness of Cybercom’s work externally, and has  improved commitment to sustainability issues 
+internally. Cybercom has for the fourth consecutive year 
+ appointed CSR ambassadors who work with CSR 
+issues. The purpose of this is that the ambassadors 
+will help develop Cybercom’s sustainability efforts and 
+help to increase awareness of the company’s sustaina-bility efforts by writing blog posts and news items.
+Establishing the code of conduct: Cybercom’s values, norms and principles are set out in the code 
+of conduct introduced in 2004 and revised in 2010 
+and 2013. In 2012, Cybercom also introduced a code 
+of conduct for its suppliers and partners, called the 
+“Suppliers Code of Conduct”.The code is continually used in induction meetings  internally, and is appended to Cybercom’s subcont-
+ractor contracts. The company has established a 
+procedure for new suppliers to sign the code. During the year the process to ensure that the code is signed has been verfied. The next step is to monitor 
+that suppliers live up to the code through a web-
+based survey. This was not completed in 2013, but we 
+are now working to complete it in 2014.
+Establishing frameworks for employees and 
+managers: To further establish Cybercom’s vision and 
+values, Cybercom has developed employee standards 
+and leadership profiles, frameworks that reflect Cybercom’s vision and values as the sustainable IT 
+company.The frameworks were established in the operations. 
+In 2014, Cybercom will further clarify and communi-
+cate its strategy work, its goals and the expectations 
+the company has of its employees.
+Using a business management system (BMS) as 
+an integrated management system for quality, 
+environment and information security: The system 
+is based on the established standards ISO 9001  (quality) and ISO 14001 (environment) and to some 
+extent ISO 27001 (information security).ISO audit conducted with improved results. In 2014, work will start to introduce BMS throughout 
+the group and will eventually bring together the 
+ various national certifications into one single group-
+wide certification. 
+Environment
+GOAL OUTCOME 2013 DEVELOPMENT
+Reducing travel emissions in relation to turnover: In the long run, to reduce travel emissions through 
+the introduction of an IT-based conference and 
+ communication system.CO
+2 emissions per revenue krona increased between 
+2012 and 2013, but have still decreased by 13% com-
+pared to 2011 when we set the target for a reduction 
+of at least 5% by 2015.Cybercom will remain at a stable and low level in terms of CO
+2 emissions.
+Increasing Cybercom’s positive environmental 
+impact for clients: Identify services that can improve 
+Cybercom’s positive environmental impact among 
+clients. In 2013, Cybercom launched a cloud solution for the operation and management of platforms for 
+companies and organisations, called Platform as a 
+Service. The service is scalable and resource-efficient. 
+Cybercom has more offerings with a particular 
+sustainability perspective, such as Green Connectivity, 
+whereby Cybercom helps network owners to become more energy efficient while reducing their energy 
+costs. Another service is business effectiveness which 
+is all about saving time and money. Cybercom’s goal for 2013 was to increase the amount of sustainable business. But the company does not 
+yet have a well-developed system for measuring the 
+amount of sustainable business across the group. The 
+ambition is to develop this in 2014. We estimate that 
+20% of total sales with the ten largest clients could be 
+defined as sustainable through efficiency gains, cost 
+savings and resource reduction. Company presentation and sustainability report 201329Employees and the workplace
+GOAL OUTCOME 2013 DEVELOPMENT
+Improving employee motivation throughout the 
+group: Conduct a group-wide employee  satisfaction 
+survey to capture how employees feel, develop and perceive Cybercom as a workplace in all countries 
+where we operate.In 2013, Cybercom conducted a group-wide employee 
+survey in which the outcomes in 7 of 8 comparable 
+questions have improved from 2011.Based on the survey, management has identified 
+the key areas for improvement and will introduce 
+clear measures and monitor and communicate the 
+outcomes. To improve the way we work, Cybercom’s 
+Stockholm operations will among other things move to activity-based offices. If this is successful, it will be 
+used as a model for other offices.
+Clients and suppliers
+GOAL OUTCOME 2013 DEVELOPMENT
+Improving client satisfaction: Conduct a group- wide client satisfaction survey annually to find 
+out what clients think of Cybercom and what the 
+ company can improve in relation to them.A comprehensive survey was conducted with a clear 
+improvement in results for comparable questions 
+ compared to the client survey in 2011. 98% of 
+Cybercom’s clients would be willing to work with 
+Cybercom again and/or would recommend Cybercom to their business contacts.In 2014, Cybercom intends to conduct a new group-
+wide client satisfaction survey with the aim of further 
+improving the outcome compared with the 2013 
+survey.
+Expanding Cybercom’s social responsibility in the 
+supply chain: To better secure good business ethics, 
+integrity and data security throughout the chain, 
+Cybercom adopted a code of conduct in 2012 for 
+suppliers and partners. Cybercom has urged new and existing suppliers and 
+partners to sign. In 2013, the company did not yet 
+have a well-developed system to measure or track 
+how many have signed the code. In 2014, Cybercom will establish a process to measure how many have signed and will monitor that suppliers 
+are complying with the code. Overview of sustainability efforts30 Company presentation and sustainability report 2013Cybercom’s Code of Conduct is based on the UN 
+Global Compact and its principles on human rights, 
+labour, the environment and anti-corruption. The 
+code was introduced in 2004 and has over the years been adapted to the world we live in. Cybercom’s 
+board reviews the code annually. In 2012, a code 
+was also drawn up for Cybercom’s suppliers to sign.
+1 Comply with laws, rules and regulations
+All Cybercom employees are responsible for acting in compliance with laws and regulations applicable to Cybercom’s operations and 
+deliveries. In the event of an individual issue demanding it, they will seek legal advice. Cybercom applies the Swedish Code of Corporate Gover -
+nance. Cybercom’s share is admitted to trading on the NASDAQ OMX Stockholm exchange, and Cybercom follows the Rule Book for Issuers, NASDAQ OMX Stockholm. It is for Cybercom to ensure that all employ -
+ees have the knowledge relevant for their work. Cybercom presents and reports financial and corporate information in compliance with applica -
+ble laws and regulations, including the International  Financial Reporting 
+Standards (IFRS).
+2 Human rightsCybercom respects human rights as laid down in UN conventions. Everybody in the organisation must show respect for the integrity 
+and dignity of all people. Cybercom will not in any way contribute to the violation of human rights.
+3 Labour law and working conditionsCybercom supports freedom of association and the right to collec -
+tive bargaining. Cybercom does not permit child labour. Cybercom 
+applies the principle that a child is a person younger than 15 years of age unless national legislation states an older age, in which case the older age applies. Cybercom applies the definition of child labour as laid down by the International Labour Organisation (ILO). 
+Cybercom does not tolerate any forms of discrimination. All employees 
+have equal rights and must never be subjected to unjust treatment due to gender, sexual orientation, ethnic origin or disability. All employ -
+ees must show respect for each other and for Cybercom’s business partners and will take responsibility for combating discrimination. Cybercom works unabatedly to combat discrimination. This permeates the company’s policies and processes during, for example, recruitment,  setting of wage rates, and skills enhancement.
+Cybercom offers salaries that comply with the minimum wage, as 
+laid down in national legislation, with correctly prepared employment 
+ contracts. Cybercom also ensures that working hours are compliant with 
+local legislation. Cybercom seeks to give all employees time for rest. 
+Cybercom shall not in any way utilise forced labour and will 
+ always  ensure that the working relationship between employee and 
+ organisation is at the employee’s own free will.
+4 Health and safety
+Cybercom shall provide a healthy and safe workplace in complian -
+ce with internationally acknowledged standards. Cybercom works 
+proactively to prevent accidents and work-related illnesses. All employees are offered health and safety training when and if required.Code of conduct in brief
+5 EnvironmentOur aim is to minimise the company’s negative environmental  impact. Cybercom respects the precautionary principle and seeks 
+to actively contribute to reducing negative environmental impact 
+ through responsible measures and technological advancement. 
+ Cybercom is therefore in the process of environmentally certifying its 
+ offices. Cybercom always acts in compliance with laws and internatio -
+nally recognised directives.
+6 Prohibited business practices
+Cybercom complies with the Swedish Anti-Corruption Institute’s Code of Gifts, Rewards and other Benefits in Business, 1 Sep -
+tember 2012, and works actively to combat corruption and unethical practices. Employees must not give or receive gifts, benefits or bribes that constitute a breach of this code. Cybercom is politically indepen -
+dent and does not sponsor political organisations. Cybercom is opposed to any form of money laundering and has taken the relevant measures to prevent financial transactions that are of criminal intent. 
+7 Promote accurate disclosure in financial reports and other public communicationsCybercom shall be transparent and provide relevant information 
+when so required. This means that the company shall always provide fair and correct information. Cybercom’s goal is for all communication to contribute to a stronger brand.
+8 Properly use company assets and confidential informationAll business decisions shall be made with the good of the compa -
+ny in mind. All consultants will be professional in their relationship 
+with Cybercom and will not pursue competitive activities.
+Client trust is of vital importance to Cybercom. All employees will 
+treat client information in complete confidentiality. Information about Cybercom’s clients may only be used in the implementation of the project in question. This confidentiality remains in force even after the project has been completed. Cybercom has clear guidelines for the handling of confidential information.
+9 Protect our clients’ and partners’ confidential and patented informationCybercom requires all employees to sign a confidentiality 
+ agreement in accordance with Cybercom’s security policy. There are 
+clear rules for the handling of, and access to, material belonging to Cybercom. 
+10 Take a professional pride in the consultancy roleFreedom with accountability and focus on the individual are important contributory factors in Cybercom being able to 
+attract highly skilled staff. Cybercom seeks to offer all employees the opportunity for personal and professional development. A workplace that is open, creative and flexible sets the course for being able to offer clients professional and attractive products and services.
+To sum up, Cybercom shall always conduct itself ethically in its dealings 
+with all its stakeholders. Cybercom shall be characterised by professio -
+nalism and integrity. Cybercom’s code of conduct is available in full at www.cybercom.com.Company presentation and sustainability report 201331
+UN Global Compact
+Human rights 
+Principle 1
+Businesses should support and respect the protection of internationally proclaimed human rights; and
+Principle 2
+make sure that they are not complicit in  human rights abuses.
+Labour 
+Principle 3
+Businesses should uphold the freedom of a ssociation and the effective recognition of 
+the right to collective bargaining;
+Principle 4
+the elimination of all forms of forced and compulsory labour;
+Principle 5
+the effective abolition of child labour; and
+Principle 6
+the elimination of discrimination in respect of employment and occupation.At the World Economic Forum in Davos in 1999, the UN’s secretary-
+general, Kofi Annan, challenged the business community to take 
+global responsibility. The secretary-general’s initiative led to the 
+formation of the Global Compact, which includes principles of human rights, labour rights, environmental issues and corruption in 
+business. The principles are based on the UN Declaration of Human 
+Rights, the ILO core conventions on human rights in the workplace, the Rio Declaration and the UN Convention against Corruption.
+Sustainability is about 
+thinking for the long 
+term
+Cybercom has a unique 
+opportunity to contribute to a world in which sustainability, 
+long-term thinking and responsible use of resources are at the heart of the com -
+panies and organisations that operate in it. Through Connectivity, we can help our clients and our world to save both money and resources and to reduce their environmental impact, and we can ensure that working conditions at our suppliers meet the demands we make. Sustainability is about being aware of, and taking long-term responsibility for, how we affect our world.
+Our own business does not have a 
+particularly direct impact on the environ -
+ment, but we still try to implement inno -
+vations and improvements in the areas that we can actually influence. I also believe that by focusing on increasing awareness and actively taking a stance we can eventually make a difference our -
+selves, and in addition make a positive effect on our world. We also work with SOS Children’s Villages and support their activities to ensure that children have a safe and secure childhood. Contributing to knowledge development in a country where we have ongoing Connectivity Management projects feels important. Education is the foundation of a child’s intellectual and social development and, not least, provides opportunities to escape poverty. Hampus  Ericsson, 
+Chairman of 
+ Cybercom
+Environment
+Principle 7
+Businesses should support a precautionary approach to environmental challenges;
+Principle 8
+undertake initiatives to promote greater  environmental responsibility; and
+Principle 9
+encourage the development and diffusion of environmentally friendly technologies.
+Anti-corruption 
+Principle 10Businesses should work against corruption in all its forms, including extortion and bribery.Company presentation and sustainability report 201332GRI index
+This is Cybercom’s fourth Sustainability 
+ Report and covers key events during the 
+2013 financial year. About Cybercom’s Sustainability Report 2013
+Cybercom has chosen to apply the Global Reporting Initiative (GRI) voluntary guidelines for reporting sustainability information, G3.1, at application level C. In drawing up the report Cybercom has taken into consideration GRI’s ten reporting principles. The information contained in the Sustainability Report has not been audited by a third party, but Cybercom regards all the information in the 2013 Annual and Sustaina -
+bility Reports, along with that on the company website, as being suf -
+ficient to meet GRI’s information requirements at application level C.
+The information provided refers to the entire group unless otherwise 
+specified. Certain limitations of the performance indicators have been 
+necessary based on relevance and access to reliable information. 
+Indicator Reference Description and or Table/DiagramReporting 
+scopeRelationship with 
+UN Global Compact’s 
+Principles 1-10 Comments
+1. Vision and strategy
+1.1 CEO’s comments CIW 5-6,
+CIW 31Interview with CEO Niklas Flyborg that starts on 
+5 and statement from the chairman of the board, 
+Hampus Ericsson, on 31 in CIW.lAccount of continued 
+support for Global 
+Compact.
+2. Organisation profile
+2.1 Name of the organisation CIN 1 Cybercom Group AB.l
+2.2 Primary brands, products and 
+servicesCIW 2-3, 
+CIW 14-15Summary 2-3 in CIW. The company’s most 
+important products are detailed in CIW 14-15. l
+2.3 Operational structure CIN 1
+CIN 29Description can be found in CIN 1 and 29, Note 
+13. l
+2.4 Location of headquarters CIN 48 Box 7574, 103 93 Stockholm, Sweden Visiting address: Lindhagensgatan 126, 
+112 51 Stockholm, Sweden.l
+2.5 Countries in which the 
+ organisation operatesCIW 7 Cybercom operates in Sweden, Finland, India, Denmark, Singapore, Dubai and Poland. l
+2.6 Nature of ownership and legal formCIN 1,
+CIN 7Cybercom Group AB is a market-listed  company 
+traded on the NASDAQ OMX Stockholm 
+ exchange. l
+2.7 Markets CIW 10 Cybercom’s home market is the Nordic countries, 
+but the company provides its services interna-
+tionally. (More details in CIW 8-10.) Information 
+about different sectors/clients 3, 7, 9-10 in CIW. l
+2.8 Scale of the organisation CIW 1 CIW 1 contains a description of the company’s scope (sales SEK 1,195 m and 1,267 employees). l
+2.9 Significant changes during the reporting periodCIW 1 CIW 1 summarises the company’s events during the year. lNo significant changes during the 
+reporting period.
+2.10 Awards received in reporting 
+periodCIW 20 “Best IT workplace” Cybercom Poland. 
+l
+3. Report parameters
+Report profile
+3.1 Reporting period Financial year 2013. l
+3.2 Date of most recent report Reporting for 2012 published April 2013. l
+3.3 Reporting cycle  Annual. lKey to symbols of reporting scope
+l Complete  ◗ Partial  l Not reported
+CIW = Cybercom in words CIN = Cybercom in numbers  W = WebsiteCompany presentation and sustainability report 201333Indicator Reference Description and or Table/DiagramReporting 
+scopeRelationship with 
+UN Global Compact’s 
+Principles 1-10 Comments
+3.4 Contact point for questions 
+regarding the report or its contentsCIN 49 Kristina Cato, kristina.cato@cybercom.com.l
+Report scope and boundary
+3.5 Process for defining report content CIW cover, 
+CIW 26-27Information found on inside cover in CIW and CIW 26-27. l
+3.6 Boundary of the report CIW 32l
+3.7 Limitations on the scope or boundary of the reportCIW cover Information found on inside cover in CIW. 
+l
+3.8 Basis for reporting on joint ventures, subsidiaries, etc. CIW 32 CIN 18 
+Note 1 CIW 32 under ”About Cybercom’s Sustaina-
+bility Report 2013”. Note 1, CIN 18 describes 
+reporting principles in detail.   l
+3.10 Comparability with previous 
+reports lNo significant chan-ges and therefore no 
+corrections.
+3.11 Significant changes from previous 
+reporting periods in the scope, boundary, or measurement methods 
+applied in the reportlThe 2012 and 
+2013 report also 
+includes air transport 
+for employees in Singapore.
+GRI table
+3.12 Table identifying the location of 
+the Standard Disclosures in the report CIW 32-35
+l
+4. Governance, commitments and engagement
+Governance
+4.1 Governance structure CIN 39-47 The company’s board and management struc-ture are detailed in the Corporate Governance Report 39-47 in CIN. lActivities and decisions taken for 
+implementation of 
+principles 1-10.
+4.2 The chairman of the board’s role in the organisationCIN  39-47 Chairman Hampus Ericsson is described on 42. He is not included in Cybercom’s executive 
+team. lActivities and 
+decisions taken for 
+implementation of 
+principles 1-10.
+4.3 Independent and/or non-executive board membersCIN Corporate 
+Governance 
+Report 39-48Information can be found on 39-46 in CIN.
+lActivities and decisions taken for 
+implementation of 
+principles 1-10.
+4.4 Mechanisms for shareholders and 
+employees to provide recommen-
+dations or direction to the highest governance bodyCIN 48 Contact information and information about 
+the AGM is presented in CIN, Corporate 
+Governance Report 39-48. lActivities and decisions taken for 
+implementation of 
+principles 1-10.
+4.12 Externally developed economic, environmental, and social charters, 
+principles, or other initiatives to 
+which the organisation subscribes or endorsesCIW 26,
+CIW 30Information in CIW 26 and CIW 30. 
+lActivities and 
+decisions taken for 
+implementation of 
+principles 1-10.UN Global Compact principles and 
+guidelines.
+Stakeholder engagement
+4.14 Stakeholder groups engaged by 
+the organisationCIW 27
+l
+4.15 Basis for identification and 
+selection of stakeholders with whom 
+to engageCIW 27l
+4.16 Approaches to stakeholder 
+engagementCIW 27l
+4.17 Key topics and concerns that have been raised through stakeholder 
+engagementCIW 27
+lGRI indexCompany presentation and sustainability report 201334GRI index
+Indicator Reference Description and or Table/DiagramReporting 
+scopeRelationship with 
+UN Global Compact’s 
+Principles 1-10 Comments
+5. Economic performance indicators
+Economic performance
+EC1. Direct economic value generated 
+and distributed, including revenues, operating costs, employee compensa-
+tion, donations and other community 
+investments, retained earnings, and payments to capital providers and 
+governmentsCIW 1 Table: Created and distributed direct economic 
+value. l
+EC2. Financial implications and other risks and opportunities for the 
+organisation’s activities due to climate 
+changeCIW 24 CIW 24 describes how Cybercom’s products and services create opportunities for companies that 
+need to reduce their emissions of greenhouse 
+gases. ◗Principle 7
+EC3. Coverage of the organisation’s defined benefit plan obligationsCIN 25-26  Note 3Employee benefits are presented under Note 3, CIN 25-26.
+l
+EC4. Significant financial assistance received from government lCybercom has not re-ceived any significant 
+financial assistance 
+from government in 2013.
+6. Environmental performance indicators
+Energy
+EN4. Indirect energy consumption by 
+primary sourceCIW 24-25lPrinciple 8
+EN6. Initiatives to provide energy-
+efficient or renewable energy based 
+products and services, and reductions 
+in energy requirements as a result of these initiativesCIW 24 CIW 24 describes how Cybercom assists its clients to reduce their environmental impact. ◗Principles 8 & 9
+EN7. Initiatives to reduce indirect 
+energy consumption and reductions 
+achievedCIW 24-25 A list of some of Cybercom’s methods for 
+reducing energy use and environmental impact 
+CIW 24-25.◗
+Emissions, effluents and waste
+EN17. Other relevant indirect 
+greenhouse emissions by weightCIW 24-25 Table and graph: Cybercom Group’s air travel, Table: Cybercom Group’s total greenhouse gas 
+emissions and carbon dioxide equivalents by energy source.lPrinciple 8
+EN18. Initiatives to reduce green-house gas emissions and reductions 
+achievedCIW 24-25 A list of some of Cybercom’s methods for 
+reducing energy use and environmental impact 
+CIW 24-25.◗Principles 7, 8 & 9
+7. Social performance indicators
+Employment and working conditions
+Employment
+LA1. Total workforce by employment 
+type, employment contract, and regionCIW 21 Total staff by region can be found in CIW 21 Table: Workforce by country. ◗
+LA2 CIW 22 Table: Employee key figures 2013. ◗Company presentation and sustainability report 201335GRI index
+Indicator Reference Description and or Table/DiagramReporting 
+scopeRelationship with 
+UN Global Compact’s 
+Principles 1-10 Comments
+Employee/management relations
+LA4. Percentage of employees 
+covered by collective bargaining agreementsCIW 22
+lPrinciples 1 & 3
+Work environment (Health and safety)
+LA7. Rates of injury, occupational 
+diseases, lost days, and absenteeism, 
+and total number of work-related fatalities by regionCIW 22 Table: Employee key figures 2013. 
+◗Principle 1 Cybercom measures only absence due to 
+illness, since other 
+parameters required for the indicator are not relevant to our 
+activities.
+Training and education
+LA10. Average hours of training 
+per year per employee by employee 
+categoryCIW 20 Heading: Training hours per employee, 
+2010-2013.
+◗No data divided by sex is 
+available. All Cybercom’s 
+employees are given the 
+same access to training.
+LA12. Percentage of employees receiving regular performance and 
+career development reviewsCIW 19
+◗No data divided by sex is 
+available. All Cybercom’s 
+employees are given 
+the same access to performance and career development reviews.
+Diversity and equal opportunity
+LA13. Composition of governance 
+bodies and breakdown of employees per category according to gender, age 
+group, minority group membership, 
+and other indicators of diversity.CIN 25-26,
+CIN 42-45,CIW 21-22CIN contains tables showing board and 
+management on 25-26 and detailed information on 42-45. Employee information 
+is in CIW 21-22, table: Gender distribution by 
+age group. lPrinciples 1 & 6 Categorisation of employees by mino-
+rity group and other 
+indicators of diversity is not permitted under Swedish law.
+Human rights performance indicators
+Non-discrimination
+HR4. Total number of incidents of 
+discrimination and actions taken 
+lPrinciples 1, 2 & 6 No cases of discrimina-
+tion were reported in 
+2013.
+Society performance indicators
+Anti-corruption
+SO3. Percentage of employees trained 
+in organisation’s anti-corruption 
+policies and proceduresCIW 22◗Principle 10
+SO4. Actions taken in response to incidents of corruption. lPrinciple 10 No incidents of corrup-tion or anti-competitive 
+actions have arisen in 
+2013.
+Product responsibility performance indicators
+PR5. Practices related to customer   
+ satisfaction, including results of surveys 
+measuring customer satisfactionCIW 16
+◗
+Customer integrity
+PR8. Total number of substantiated 
+complaints regarding breaches 
+of customer privacy and losses of 
+customer datalPrinciple 1 No such incidents in 2013.Company presentation and sustainability report 201336Definitions
+CSR (Corporate Social Responsibility)
+The concept of corporate social responsibility includes the responsibility a company takes for its activities, products and services, environmental, social and economic impact on society and stakeholders. 
+Swedish Childhood Cancer Foundation
+The Swedish Childhood Cancer Foundation finances approximately 90 percent of all research projects related to childhood cancer in Sweden – entirely without subsidy from government or local authorities. This can only be achieved thanks to generous contributions from private individuals, companies and organisations.
+Blended delivery
+Delivery to clients is achieved through the collaboration of Cybercom’s employees in several countries, for example from Sweden and India.
+UN Global Compact
+The Global Compact is the UN’s strategic policy initiative to promote corporate social responsibility in the areas of human rights, labour rights, environment and anti-corruption. (www.unglobalcompact.org).
+Sustainable development
+The Brundtland Commission coined the term sustainable development in 1987 and it had an impact during the Rio Conference 1992. The parameter is “development that meets the needs of the present without compromising the ability of future generations to meet their own needs”. The three dimensions of sustainable development – economic, social and environmental - should be coherent and mutually reinforce each other. 
+Global Reporting Initiative (GRI)
+GRI is an international organisation that has developed global guidelines for how companies should report on their sustainability efforts. The framework includes indicators for the organisation, stakeholders and the economic, environmental and social aspects. ILOInternational Labour Organisation (ILO) is the UN specialised agency for employment and workplace issues. ILO seeks to promote social justice and internationally recognised human and labour rights.
+Stakeholders
+Stakeholders mean stakeholders who have mutual influence from and on activities of the company, its services and its processes, both directly and indirectly. For example, employees, shareholders, clients,  consumers, suppliers and partners.
+ISO 14001
+An internationally recognised standard for certifying environmental 
+management systems. ISO 14001 is the name of the standards dealing with environmental management. These standards in turn create an environmental management system that can be easily integrated into existing operations. 
+Carbon offsetting
+A measure that provides a reduction of greenhouse gases equal to the emissions of greenhouse gases that the business would like to  compensate for.
+Carbon dioxide (CO
+2)
+Carbon dioxide occurs naturally in the atmosphere and is involved in 
+photosynthesis and is also an effect of combustion.
+SOS Children’s Villages
+SOS Children’s Villages Sweden is a member association and part of the international umbrella organisation SOS-Kinderdorf International, which has its headquarters in Innsbruck, Austria. SOS Children’s Villages is an independent, non-governmental organisation. The organisation takes care of orphaned and abandoned children and provides them a home, family and education. Company presentation and sustainability report 201337Design and production Narva      Photography Jann Lipka, Håkan Flank (p.3)   Translation Albion Konsult Limited   Printing Elanders, 2014Cybercom Group AB (publ)
+Box 7574, 103 93 Stockholm, SwedenTel. +46 8 578 646 00www.cybercom.comBoosting your performance

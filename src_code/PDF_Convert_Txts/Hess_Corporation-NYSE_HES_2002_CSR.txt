@@ -1,0 +1,225 @@
+ENVIRONMENT, HEALTH, SAFETY 
+AND SOCIAL RESPONSIBILITY
+2002 REPORTSCOPE OF REPORT
+This report covers the principal facilities and assets operated by Amerada Hess Corporation and its subsidiaries. It also inclu des
+information from HOVENSA L.L.C., our 50% owned refining joint venture in St. Croix with Petroleos de Venezuela, S.A. (PDVSA). 
+This report does not include data on oil and gas fields or marketing sites in which we have an equity interest but which are op er-
+ated by other companies. Data from new assets are included in this report but may be reported separately from Company totals.
+Data on emissions and other environmental aspects refer to gross figures from operated facilities. Company baselines are not
+adjusted to reflect material changes from acquisitions or divestitures. 
+In September 2002, the Company completed the divestiture of its U.S. flag tanker operations (marine operations). The divesti-
+ture included six vessels, their management and employees, and ancillary assets. Information regarding environmental and safety performance related to the former marine operations is presented in this report through the completion of the divestitur e.
+The format of this report follows the framework of the Global Reporting Initiative (GRI). However, gaps may exist where GRI
+reporting requirements are not applicable or are not reported for Amerada Hess operations. Environmental and safety datareferred to in this report are available in tabular format in our web-based report at www.hess.com. The reporting format has be en
+modified from previous year reports to reflect changes in our internal data reporting structure.
+2002 OPERATING STATISTICS
+Exploration & Production Net Crude Oil and NGL Production 325,000 bbls/day
+Gross Crude Oil and NGL Production from operated fields 379,500 bbls/day (a)
+Net Natural Gas Production 754,000 Mcf/day
+Gross Natural Gas Production from operated fields 1,540,000 Mcf/day (a)
+Total Net Barrels of Oil Equivalent Production 451,000 boed
+Refining & Marketing Port Reading facility production rate 53,000 bbls/day
+Gross HOVENSA refinery production rate 362,000 bbls/day (a)
+Retail Outlets Year-end 2002 1,187
+Net Refined Products Sold 383,000 bbls/day
+(a)Gross operated production and throughput figures are used for data normalization for consistency with reported emissions.
+In 2002, our average number of employees was approximately 11,600. Additional operating and financial data are available in
+our 2002 Annual Report at www.hess.com.
+CONTENTS
+1Management Letter   2Management of Environment, Health and Safety at Amerada Hess   6Social Responsibility   
+10Environmental, Health and Safety Performance  16Stewardship   18Verification Statement  
+GLOSSARY A glossary of terms used in this report is available in our web-based report at www.hess.com.1JOHN B. HESS
+Chairman of the Board andChief Executive Officer
+J. BARCLAY COLLINS
+Executive Vice President andGeneral CounselGERALD I. BRESNICK, Ph.D.
+Vice President, Environment, Health and SafetyAs a leading global independent energy company we know
+that commercial success is not the sole measure for busi-ness today. Companies are judged as much by how theyoperate as they are on their results. Fortunately, we have along established set of values, both written and unwritten,which guide us to respect the environment and benefit thecommunities where we do business, while delivering theincreased energy demands of a growing world. These valueswill continue to shape our actions as we grow our Company.
+Our goal is to help provide the world with affordable energy
+in an environmentally and socially responsible manner. Sincethe first publication of this report six years ago we havedeveloped challenging performance goals, accelerated ourengagement with local and global organizations andreached a greater understanding of the interrelationshipbetween our Company, energy consumption, the environ-ment and social needs.
+Considerable progress was made towards our environmen-
+tal objectives in 2002. Compared to 2001, on a normalizedbasis, we reduced the amount of SOx, NOx, VOC andGreenhouse Gas emissions. Our total volume of liquid spills
+and releases was reduced by 84% from 2001. Compared to2000 this is a 92% reduction in spill volume. By the end of2002, nearly a quarter of total oil production and throughputwas from ISO-14001 certified operations.
+Although we did not achieve the 2002 safety objectives we
+had set for ourselves, we did reduce our recordable injuryrate by 2%. We are not satisfied with this level of perform-ance and have developed new targets and strategies to significantly improve our safety performance. A moredetailed documentation of our performance is available onour web site at www.hess.com.
+We hope that in reviewing this report, in addition to our 
+general annual report, you will gain a better understanding of the efforts we are taking to meet the world’s energy challenge while remaining a responsible corporate citizen.
+MANAGEMENT LETTERMANAGEMENT OF
+ENVIRONMENT,HEALTH AND SAFETYAT AMERADA HESS
+2Joint Development Area • Malaysia/ThailandGOVERNANCE
+In early 2002, the Hess Leadership Team, consisting of the
+top five executive officers of Amerada Hess, was formed toprovide strategic business direction and key operational deci-sions for the Company. Some of the objectives establishedby the Leadership Team are focused on promotion of Environ-mental, Health, Safety (EH&S) and Social Responsibility (SR) policies and management systems that protect theCompany’s workforce, customers and local communities.  
+We took several steps to support these objectives. We
+developed a new Environment, Health and Safety Policythat reaffirms our commitment to environment, health andsafety protection and provides management direction andsupport in regards to our expectations and objectives. Wealso established a new Corporate Social ResponsibilityPolicy to provide increased alignment throughout ourorganization in regards to integrity and business conduct,stakeholder engagement, assessment of social impacts,and making a positive contribution to the communitieswhere we do business. Copies of these policies are available at www.hess.com.IMPLEMENTING A MANAGEMENT FRAMEWORK
+In addition to providing overall direction and support for theCompany’s EH&S and SR policies and programs, the HessLeadership Team is engaged in establishing performanceexpectations and holding business units accountable for theirperformance. Likewise, our performance in these areas is reviewed routinely with the Audit Committee of our Board of Directors. Our business units and line managementare ultimately responsible for incorporating EH&S and SR expectations into their business activities and providing adequate resources and mechanisms to meet performance objectives. 
+We have made some organizational changes to underscore
+the importance of line management responsibility and provideguidance to business units, and are working on commonprocesses across the Company to approach EH&S and SR ina consistent and coordinated manner. Some of our efforts are discussed on the following pages.The success of our company reflects the strong performance and 
+high ethical standards of each Amerada Hess employee.
+34ORGANIZATION
+The Company has corporate and business unit EH&S staff in
+place to provide technical support and functional guidance toour business units. We continued our corporate EH&S auditprogram in 2002 to ensure that our operations and subsidiariesadhere to company policies and objectives, comply with regulatory requirements and, as appropriate, implement bestin class industry standards. Our EH&S organization is presented in our web-based report at www.hess.com. 
+We have established task force groups to help guide the
+Company on issues such as corporate social responsibilityand greenhouse gas emissions. Since much can be learnedfrom our industry peers, other companies, and external groups,we also participate in various organizations such as theInternational Petroleum Industry Environmental ConservationAssociation and the National Safety Council.PROCESSES
+Our Business Units have incorporated EnvironmentalManagement Systems based on the ISO-14001 internationalstandard. In 2002, Amerada Hess ApS, our Danish subsidiary,received ISO-14001 certification. By year-end 2002, nearly a quarter of total oil production and throughput was from ISO-14001 certified operations.
+The Company has in place an “Implementation Plan for
+Achieving and Maintaining Safety Excellence” to guide ourCompany-wide efforts towards improved safety performance.We are also in the process of establishing a Company-widemanagement system for EH&S and SR. Although the man-agement system will not replace our existing systems, it willbe used to provide an overall structure for managing EH&Sand SR across the Corporation using a common language.
+IMPROVING EH&S AND SR PERFORMANCE
+In order to better align our performance with our EH&S and SR
+strategy, we revised our previous targets and developed newtargets to help drive continual improvement and guide ustowards our leadership goal. Some of these targets are “end-of-process” targets, such as improved safety performanceor reduced air emissions, focusing on the results of our EH&Sand SR actions. Other targets are “in-process” targets, focusing on how well we are performing the actions 
+themselves. Our new targets are included in our web-basedreport at www.hess.com.
+PROTECTING AND GROWING OUR REPUTATION
+While compliance with EH&S regulations is still a core part ofour operational expectations, we understand that our effortsmust also be focused on providing a meaningful contributionto the well-being of the communities in which we operate. 
+In addition, given the demands for increased transparency, webelieve that it is important to have in place a robust processfor stakeholder engagement.  
+EH&S AND SR STRATEGY IMPLEMENTATION
+We will stage our EH&S and SR strategy implementation overthe next few years. Our particular focus in 2003 is on establishing and achieving our new performance targets, significantly improving our safety performance, and putting inplace mechanisms to underscore line management responsibility for EH&S and SR performance. We have turned
+our strategy into a plan of action and are beginning to measure results.
+5In 2002, we participated in “Innovest’s” integrated oil and gas sector study. The study evaluated the relative performance
+of 17 companies within the global integrated oil and gas industry and focused on over 60 different aspects of 
+environmental risk, business opportunity and management strategy. Amerada Hess Corporation was ranked 6 out of 17,
+an improvement from our 2000 ranking of 14 out of 15.
+SOCIAL 
+RESPONSIBILITY
+6Bomé School • Equatorial Guinea7In 2002, we put in place a formal Corporate Social
+Responsibility Policy and pledged our support to the UnitedNations Global Compact, which challenges businesses toendorse and support nine principles in the areas of humanrights, labor and the environment. We engaged in discussionswith both internal and external stakeholders to better under-stand their positions and perspectives on our operations.Based on these discussions and led by our values, we areimproving our existing programs and are developing newprograms to address gaps.
+Amerada Hess has a long history of socially responsible 
+community involvement and charitable contributions. In our2001 Environment, Health, Safety and Social Responsibilityreport we presented several studies detailing Amerada Hess’sponsored social efforts, many of which are highlighted on ourwebsite at www.hess.com. We continued many of these community activities in 2002, such as participation in theMarch of Dimes, disaster relief efforts, and various charities
+and sponsorships. While these initiatives serve as a cornerstone of our efforts, we believe that corporate socialresponsibility is founded on sound economic developmentperformed in a manner that upholds ethical standards andcontributes positively to members of the community. 
+Some of the social responsibility challenges we face, and our
+response to them, are provided below:
+Transparency – We support transparency initiatives within
+our own operations and within the oil and gas industry. TheCompany published its first Environment, Health and SafetyAnnual Report in 1997. Since then, we have added a discussionof our social responsibility efforts to our annual report, andhave engaged independent report verifiers to help improveour reporting processes and provide assurances to our readers in regards to our report content.As we expand globally , social responsibility becomes 
+increasingly important to us, ethically and competitively .
+78Stakeholder Engagement – We believe that it is essential 
+to engage and build cooperative relationships with our stakeholders. Examples of some of our stakeholder engage-ment efforts include discussions with non-governmentalorganizations (NGOs), either directly or through industryorganizations; discussions with multi-national intergovern-mental organizations such as the United Nations (UN)Environment Programme, UN Development Programme, andthe World Bank, discussions with community advisory panels,meetings with neighborhood groups and associations, andsupport of and participation in local community events. 
+In an effort to support engagement and transparency within
+the investment community, we participated in various“socially r esponsible” investment surveys focused on 
+environmental, social, and economic performance. 
+Business Practices – We have revised our existing Business
+Practice Guide to provide our employees guidance andexpectations in regards to business ethics, corporate citizen-ship, contracting and labor practices, regulatory compliance,employee safety, and protection of the environment. All
+employees must review and sign the Business Practice Guidewhen hired, and employees are required to report violations. 
+Employees – We strive to attract, motivate and reward highly
+talented people. In regards to employment practices, theCompany has a Corporate Employment Practices Policywhich addresses issues such as diversity, equal employmentopportunity discrimination, sexual harassment, consensualrelationships, and employee training. The policy applies to allof our operations, and audits are performed in regards to thepolicy requirements.
+Human Rights – In our Corporate Social Responsibility
+Policy, we committed to accept and uphold the principles contained in the UN Universal Declaration of Human Rights, meaning that we strive to provide safe and healthy working conditions to our employees; supportfreedom of association; oppose discrimination and forced or child labor; support responsible use of security forces; and promote economic livelihood and public debate. 
+CASE STUDY • FAROE ISLANDS
+In preparation for the first licensing round and subsequent drilling operations in the Faroes, Amerada Hess and its part-ners undertook a program to address economic development, cultural preservation and environment and safety issues.We invite you to read more about these efforts at www.hess.com.
+To ´rshavn • Faroe Islands9In response to human rights issues, we apply our policies in
+all countries where we operate and have conducted assess-ments against our Corporate Social Responsibility Policy toevaluate contractor and service provider performance.
+Community Projects – As part of our efforts to provide value
+to our stakeholders, we strive to improve the educational,health, cultural, and socio-economic conditions of communi-ty members wherever we operate. 
+In 2002, we initiated a social investment pilot project for one
+of our operations in West Africa focused on stakeholderengagement, partnering and capacity building, and sustainableimplementation. We intend to employ our learnings from thispilot project to other community well-being projects.
+Environment, Health and Safety – In addition to focusing on
+improved environmental performance, we are identifyingareas where we can enhance and protect biodiversity. We arealso implementing employee medical, travel, security, and fitness programs aimed at safeguarding the health and well-being of employees, and are committed to implementing
+new safety and wellness programs to help us attain our safety improvement goals.
+Security – Our corporate security program is based on best
+industry practices and meets the security principles contained in the UN Universal Declaration of Human Rights.The program objective is to provide the Company with the tools and expertise necessary to protect our personnel, facilities and assets on a global basis. 
+We recognize that both our EH&S and SR performance is of
+interest to an increasingly broad spectrum of stakeholders,including our employees, our shareholders, host govern-ments, local communities, NGOs and others. We are mindful that, in the modern era, a larger role is expected ofcompanies by all segments of society and that in the finalanalysis, our success depends on our performance.
+ENVIRONMENTAL,
+HEALTH, AND SAFETYPERFORMANCE
+10Hess Fuel Oil Delivery Truck • New York CityHEALTH AND SAFETY
+We believe that any occupational injury or illness is 
+unacceptable and are committed to continuous improve-ment of our health and safety performance. One of ourhighest priorities is to provide a safe and healthy workplace.We also expect our employees to take individual responsi-bility for their own health and safety and to exhibit andencourage safe work behaviors. 
+We have made progress in our safety performance. Since
+1989, we have reduced our Occupational Safety and HealthAdministration (OSHA) recordable workplace injury rates and lost work time incident rates by 45%. These rates are an
+annualized measure of the number of recordable incidents per
+100 employees. In 2002, our OSHA recordable rate was 2.80,and our lost work time incident rate was 2.07. These rates correspond to a 2% reduction and 7% increase in our 2001OSHA and lost work time incident rates. 
+We have established aggressive improvement targets for our
+business units in support of achieving our 2005 OSHA andlost work time incident rate goals. We have not yet achievedthe degree of improvement and performance levels that we
+seek. Despite this, we are happy to report some areas of significant improvement. Led by our Terminal Operations,which recorded a 24% reduction in OSHA recordable ratesand a 35% reduction in lost work time incident rates, and our Retail Operations, which reduced its OSHA rate by8%, our Refining and Marketing Division reduced its overallOSHA recordable rate by 7% compared to 2001. In addition, many of our Exploration and Production (E&P) operations completed 2002 with zero recordable incidents, a notable accomplishment. 
+Our HOVENSA joint venture refinery in St. Croix was unable
+to sustain the excellent safety performance in 2002 that itachieved in 2001. The facility’s OSHA recordable ratesincreased by 28% and lost work time incident ratesincreased by 6% due to an increase of 6 OSHA incidents and1 lost time incident in 2002.
+In addition to tracking the safety performance of our own
+employees, we also monitor our contractors as a furthermeasure of workplace safety and to ensure that our contractors have acceptable safety records. 
+11AHC Lost Time & Restricted Duty Rate12We note with regret that two fatalities occurred in 2002. The
+first occurred as a result of an apparent robbery at a convenience and fuel service store in Charleston, SouthCarolina. The second fatality occurred as a result of a vehiclecollision involving a HOVENSA employee. 
+Although we have made progress, we are not satisfied with
+our current safety performance. As we progress towards our2005 safety goals, we continue to stress and prioritize healthand safety in our work culture. Highlights of activities that weare undertaking are presented in our web-based report atwww.hess.com.
+ENVIRONMENTAL PERFORMANCE
+Amerada Hess recognizes that its operations will impact the environment. We manage impacts according to their significance within our business as identified by both ourenvironmental management systems and by our key stakeholders. GLOBAL CLIMATE CHANGE 
+Greenhouse gases have been linked to global climate change,which can affect ecosystems, agriculture, forestry and humanhealth. Within our operations, sources of greenhouse gas
+emissions include combustion of hydrocarbon fuels for powergeneration and flaring of associated gas. 
+On a normalized basis, our company-wide greenhouse gas
+emissions were approximately 13.2 tons per 1000 barrels in2002 based on overall production and throughput. Thisequates to a 1% decrease compared to 2001. 
+We have established a 2005 target of reducing our company
+wide greenhouse gas emissions by 5% on a normalized basisin comparison to our 2001 asset base. As we expand ouroperations, we acknowledge that our total atmospheric emis-sions may increase and we are evaluating options to sustainor reduce our overall emissions.  
+Since partnering with the U.S. EPA Star Program in 1997 we have reduced methane emissions by 623,000 Mcf – equivalent 
+to removing 55,500 cars from the road.13Since Amerada Hess only commenced operations in
+Equatorial Guinea in August 2001 following the acquisition ofTriton Energy Limited, emissions from these operations havenot been integrated into our current targets. However, we arecurrently collecting and evaluating emissions data from theseoperations in order to set appropriate targets. The emissionsfrom the operations in Equatorial Guinea are included in ouremission summary tables presented in our web-based reportat www.hess.com.
+ACIDIFICATION AND SMOG
+Acidification occurs when certain gases, mainly oxides of sulfur (SOx) and oxides of nitrogen (NOx), are emitted to theatmosphere and react to enhance the natural acidity (pH) of precipitation. Smog, or ground level ozone, is formed bycomplex chemical reactions between volatile organic com-pounds (VOC) and NOx in sunlight. 
+As with greenhouse gases, the predominant source of SOx
+and NOx from our operations are power generation and flaring. Major sources of VOC emissions are flaring and hydrocarbon loading operations.We made progress in reducing our NOx, SOx, and VOC 
+emissions in 2002 compared to our 2001 performance.  On anormalized basis, we decreased our company-wide NOxemissions by 13%, SOx emissions by 24%, and VOC emissions by approximately 5%. Significant SOx reductionswere achieved at our U.S. Gas Plants through processimprovements and better coordination with field production.We note that our absolute NOx and VOC emissions increasedconsiderably between 1999 and 2001, mainly due to theaddition of new assets such as our Algeria operations. Ourcurrent emission accounting procedures do not make anyadjustments for material changes resulting from acquisitionsand divestitures.
+The HOVENSA facility saw an average 6% decrease in total
+criteria pollutant emissions (NOx, SOx, VOC) compared to2001, largely as a result of a shift from fuel oil to fuel gas,lower fuel consumption, and a temporary outage of itsFluidized Catalytic Cracking Unit. * Major Algerian acquisition in 2000. Charts exclude HOVENSA and Equatorial Guinea emissions.14AQUEOUS IMPACTS
+Our operations have the potential to impact water resources.
+Offshore, we undertake a number of activities that can affectthe marine environment, such as the discharge of oil andchemicals in produced water or the use of seawater for re-injection. Similarly, onshore operations may result in discharges to rivers and also have the potential to impactground water supplies. We are cognizant of these impactsand have established controls to minimize impacts and metrics to help us monitor and improve our performance.
+OIL SPILLS
+Spills and releases to the environment can occur accidentally.Therefore, the avoidance of any oil and chemical spills fromour operations is an important concern. Our overall goal is toachieve zero spills. 
+Our total company spill volume in 2002 was the lowest since
+1998. In 2002, we had 183 spills which totaled 426 barrels ofoil. On a normalized basis, this equates to less than 1 barrelof spilled oil per million barrels total oil production andthroughput (including Retail Operations). In 2002, the number
+of spills was reduced by 9% and the overall volume of spills
+was reduced by 84% compared to 2001.CONTROLLED DISCHARGES 
+At the Port Reading facility and HOVENSA joint venture refinery, we continued our excellent discharge performance,with actual concentrations of discharged materials substantially below permitted levels.
+The volume of oil discharged in produced water at offshore
+facilities decreased from 3,209 barrels in 2001 to 2,551 barrels in 2002. Concentration data shows that performance is improving with time; average overall concentrations were 14 parts per million (ppm) in 2002 compared to 20 ppm in 2001 and 25 ppm in 1999.
+We decreased our overall drilling mud and cuttings 
+discharged worldwide due, in part, to reduced drilling activities and to an increase in cuttings shipped to shore fortreatment, reuse and disposal. The amount of oil dischargedwith the cuttings also declined.15RESOURCE USE
+Our operations and design decisions ultimately have an effect
+on the use of raw materials and natural resources. Materialselection, re-use, recycling or the use of alternatives is a con-sideration when making these decisions.
+Although the waste we produce is a function of our overall
+level of activity, it is an indirect measure of resource usage. Inaddition to reducing the amount of materials used in ouroperations, we are initiating the collection of water use andenergy data in order to better assess our overall resourceusage performance and to facilitate target setting.
+WASTE
+Our total waste in 2002 was approximately 109,000 tons, anincrease of 58% compared to 2001. The overall increase is inlarge part due to the introduction of waste reporting by ourU.S. E&P operations in 2002. Excluding U.S. E&P in our 2002total, our absolute waste production decreased by 10% 
+compared to 2001. Wastes that were beneficially reused orrecycled increased in 2002. 
+EXCEEDANCES AND ENFORCEMENT ACTIONS
+Company policy has long stressed our fundamental commit-ment to comply with applicable environment, health andsafety laws and regulations. Although 100% compliance is anoperational goal, exceedances of permitted levels can occur,as do citations from regulatory authorities.
+In 2002, Amerada Hess had a total of 1,617 major regulatory
+inspections and received 67 violations. The amount of finespaid in 2002 decreased approximately 50% compared to 2001.
+Our Terminal and Retail Operations and our Port Reading facility each increased the amounts of reused or recycled wastes by
+over 20%.STEWARDSHIP
+16Hess Express • Miami, FloridaFUEL QUALITY
+Emissions from the consumption of gasoline and other fuels
+can impact air quality. Compared to U.S. national averages,our gasoline contains less sulfur and benzene content, andour reformulated gasoline is significantly cleaner thanrequired by federal standards.
+Gasoline and diesel fuels sold in the United States will be
+required to have reduced sulfur content by 2004 and 2006.Amerada Hess is preparing for these reductions and will be incompliance with sulfur reduction regulations.
+ALTERNATIVE ENERGY
+Amerada Hess supports Nuvera Fuel Cells – a leading companyin the commercial development of fuel cell technology rangingfrom power modules that support distributed generation and commercial hydrogen industries, to fuel cell stacks andon-board fuel processors for the automotive industry.ENERGY EFFICIENCY
+Because improvements in energy efficiency will need to playa greater role in meeting the world’s rising demand for energy,we are supporting the development of energy efficient technologies through our Hess Microgen subsidiary. HessMicrogen cogeneration units generate both electrical and thermal power from the same energy source. The cogeneration units are more efficient than central power stations and subject to lower transmission losses resulting ina greater percentage of fuel conversion into usable energy.
+BIODIVERSITY
+The Company’s operations are managed to avoid or minimize impacts on biodiversity. This includes undertakingenvironmental baseline surveys, impact assessments, use ofoperational controls and ongoing monitoring, and siterestoration activities. If spills or releases occur, we havestrategic response plans in place.
+17ENERGY CONSERVATION PROGRAM • ST. CROIX, US VIRGIN ISLANDS
+HOVENSA L.L.C., our refining joint venture, began an Energy Conservation Program in 2000. By the end of 2002, HOVENSA reduced fuel usage by 1,645 barrels of fuel oil equivalent per day, or approximately 25.2 million gallons of fuelin a year. This has resulted in a 5.3% reduction in overall fuel consumption, and reduced air emissions and waste production.We are committed to reducing the environmental 
+footprint of our worldwide operations . VERIFICATION STATEMENT 
+FROM ERM CVS 
+18VERIFICATION OBJECTIVES AND SCOPE
+ERM Certification & Verification Services (ERM CVS) was commissionedby Amerada Hess Corporation (AHC) to undertake verification of its 2002Environment, Health, Safety and Social Responsibility Report (theReport). The objective of the verification was to establish that the infor-mation presented is a complete, accurate, and reliable representation ofperformance and programs for the year 2002.
+The verification scope included both data and representations made
+by Amerada Hess Corporation in the 2002 Report and relevant linkedinformation provided by the company at their web site www.hess.com.The Board of Directors of AHC are responsible for the information contained within the Report.
+VERIFICATION APPROACH
+ERM CVS verification procedures and methodologies have been devel-oped with due regard to the requirements of international standards governing environmental management systems, and general principles ofauditing. Our verification approach is customised for each client andinvolves detailed challenge of the contents of the report, selected document review, random chain of custody audits for data, selectedinterrogation of source data and consolidated data, and interviews withboth corporate and operational staff at all levels of the organisation. 
+The verification was conducted through a series of meetings at AHC
+Offices with corporate staff responsible for policy direction, the design,management and internal assurance of data collection systems, thecompilation of overall data and material production for inclusion in thisreport. Substantiation of a sample of statements and claims made in theReport has been undertaken and evidence sought where deemed appro-priate. Additionally a review was conducted of the supplemental reportproduced for UK operations, primarily with respect to evaluating consis-tency with the Corporate Report. Our activities included source datainterrogation and ERM CVS verifiers visited 7 sites globally, interviewingsite personnel to assess whether environment, safety and health datahad been collected and reported completely and accurately. The sitesvisited by ERM CVS were:  the First Reserve Terminal, New Jersey, thePennsauken Terminal, New Jersey, the Seminole Gas Plant in Texas, thePort Reading Refinery in New Jersey, two retail gasoline stations in NewYork (Staten Island and Manhattan), and the South Arne platform in theNorth Sea off the coast of Denmark. OPINION & RECOMMENDATIONS
+In the opinion of ERM CVS, and based on the sample of data reviewed,the 2002 environment, safety and health data provides reliable informa-tion for understanding group-wide performance. The assertions, claimsand statements made by AHC are supported by evidence obtained dur-ing the verification process. 
+AHC has developed indicative safety and health indicators and 
+a robust set of environmental performance indicators, upon which performance associated with the activities of AHC can be evaluated.ERM CVS believes that the information gathering processes and the stated corporate performance targets provide a sound basis againstwhich progress can be reviewed by the management team and externalstakeholders. With respect to AHC’s emerging social strategies, leader-ship teams are currently tasked with developing practicable performancegoals and measures. A fair and comprehensive representation of the current position with respect to social strategies and specific local initiatives in this regard has been presented. 
+There remain opportunities to improve and strengthen the 
+relevance and alignment of corporate goals with the issues associatedwith the varied activities of operating units. It is recommended that continuing and increased emphasis be placed on improving internal con-sistency with respect to current and developing indicators. Furthermore,a review of the completeness and materiality parameters of new andexisting indicators would be of benefit, taking into account both internaland external stakeholder views on the relevance and importance of infor-mation presented. 
+As this is the second year AHC has included social issues in 
+its report, an initial set of social indicators to measure performance related to goals and, comprehensive programs for engaging externalstakeholder involvement in the reporting process should be a centralfocus for the coming year. As these polices and strategies develop AHCwill need to consider how it will ensure and engender consistentapproaches across its varied operations while maintaining the flexibilityrequired to meet local needs. 
+Brian Kraus , Chief Operating Officer
+ERM Certification and Verification Services
+FOR MORE INFORMATION
+For copies of our Environment, Health and Safety Policy 
+and our Corporate Social Responsibility Policy, or for moreinformation regarding our operations, please visit our website at www.hess.com . 
+We invite your questions, comments and suggestions
+regarding this report. To send us your questions or comments, or request more information or additionalcopies of this report, please contact:
+Assistant Corporate Secretary
+Amerada Hess Corporation1185 Avenue of the AmericasNew York, NY 10036
+You can also send us an e-mail at ehs@hess.com.
+The Fox River Coronado recycled paper used in this
+report contains 50 percent recycled fiber, including 30percent post consumer waste and meets or exceeds federal EPA guidelines for recycled paper. This product is manufactured to be consistent with the principles ofsustainable forestry.
+Design: Inc Design, www.incdesign.com1185 AVENUE OF THE AMERICAS
+NEW YORK, NY 10036
+WWW.HESS.COM

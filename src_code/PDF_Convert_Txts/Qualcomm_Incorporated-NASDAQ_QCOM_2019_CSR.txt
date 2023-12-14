@@ -1,0 +1,1187 @@
+2019 
+Corporate 
+Responsibility 
+Report T able of ContentsMessage from Our CEO
+About QualcommOur Corporate Responsibility PrioritiesKey Accomplishments 
+Purposeful Innovation
+STEM EducationResponsible BusinessOur People
+Performance Summary
+Global Reporting Initiative Content IndexAppendix
+Our Support of the  
+UN Sustainable Development Goals
+About This Report
+2019 Corporate Responsibility Report 2Throughout our history as the world’s leading wireless technology innovator, 
+we’ve made the “impossible” possible, and 2019 was no exception — it was, after all, the year of 5G. 
+A great leap forward in connectivity, 5G is the confluence of decades of 
+research and development that will have a profound impact on the planet, from a more sustainable future to improved productivity and economic growth. Our ultra-reliable, low-power solutions enable cities to monitor air quality in real time, farmers to optimize watering efficiency, people in remote areas to access telehealth services, self-driving cars to reduce emissions and factories to improve safety — indeed, enabling life-changing innovation and accelerating the pace of progress in a new era of invention.
+We believe 5G to be the most important technological development of the 21st century. And we aren’t the only ones. Fortune ranked us number one on their 2019 Change 
+the World list, as our inventions drive the future of communications, transportation, manufacturing, agriculture, public safety and health care — indeed,  
+the future of everything.
+Continuing on our path to achieving our 2030 Vision, we updated our corporate responsibility priorities in 2019 to four key areas where we believe we can be most impactful — Purposeful Innovation, Our People, Responsible Business and STEM (Science, T echnology, Engineering and Mathematics) education. This report features our activities in these four areas, and I’d like to share a few highlights:
+In 2019, we celebrated National Robotics Week by teaming up with Bosch USA 
+to fully fund all 120 FIRST
+® projects on the Donor’s Choose fundraising 
+platform, allowing teachers to raise money to integrate innovative STEM opportunities at their schools. Our Qualcomm
+® Thinkabit Lab™ program, which 
+shows that students from all cultural and socioeconomic backgrounds can be part of inventing the wireless world of the future, rolled out a new “T ech for Good” social innovation project for students. The project incorporates Bluetooth communication technology and our Qualcomm
+® Wireless Reach™ impact sectors to showcase the power our foundational technologies have in transforming communities and enriching societies.
+We remain dedicated to driving long-term growth and value for all our 
+stakeholders. As such, I signed onto the Business Roundtable Statement on the Purpose of a Corporation. Becoming a signatory further demonstrates our commitment to good corporate citizenship and responsible innovation wherever we do business. 
+Moreover, our commitment to operating with the highest ethical standards, transparency and integrity in key environmental, social and governance matters earned us an honored position on the 2019 Dow Jones Sustainability North 
+America Index — a benchmark of companies leading the way to a sustainable world. We also continued to make progress on our 2025 greenhouse gas reduction goal, achieving a reduction of approximately 18 percent to date. 
+These successes and those to come showcase the inventiveness, tenacity and 
+passion of our workforce. And fostering a supportive and inclusive culture that inspires innovation continued to be a priority in 2019. We launched a Diversity T ask Force of senior vice presidents to advise on how to best drive diversity through collective data analysis and expanded our Global Inclusion and Diversity team, resources and program to be more effective in our efforts. 
+As we look to 2020 and beyond, the opportunities for 5G expansion, and our 
+Company, are boundless. Qualcomm innovation is the driving force for breakthroughs that enrich lives, transform industries and enable our customers to create technologies yet to be imagined. Message from Our CEO
+Steve Mollenkopf  
+Chief Executive Officer, Qualcomm Incorporated
+3
+2019 Corporate Responsibility Report      |      Message from Our CEOQualcomm is the world’s leading wireless technology innovator and the driving 
+force behind the development, launch and expansion of 5G. We invent foundational technologies that transform how the world connects, computes and communicates.
+When we connected the phone to the internet, the mobile revolution was born. T oday, our 
+inventions are the foundation for life-changing products, experiences and industries. As we lead the world to experience 5G, we’re ushering in a new era of intelligent, connected devices that’s transforming entire industries and enriching lives on a global scale — from smartphones to smart homes, mobile PCs to automotive, gaming to XR/VR/AR and audio to factories of the future.
+Throughout our history, we’ve made the “impossible” possible. The expansion of 5G is just 
+one example, inspiring new inventions that help enable our customers and partners to create technologies we’ve yet to imagine. When we break through, the ecosystem leaps forward and the world benefits by the competitive options that emerge.
+References in this report to “Qualcomm” may mean Qualcomm Incorporated, 
+Qualcomm T echnologies, Inc. and/or other subsidiaries or business units within the Qualcomm corporate structure, as applicable.About 
+Qualcomm
+4
+2019 Corporate Responsibility Report      |      About Qualcomm4 2019 Corporate Responsibility Report      |      About Qualcomm 1The following is certain information that was originally filed with the Securities and Exchange Commission (SEC) on November 6, 2019 as part of our Annual Report on Form 10-K for our fiscal year ended September 29, 2019. We identified an immaterial error related to the recognition of 
+certain royalty revenues of our QTL segment fiscal 2018 and fiscal 2017. We have corrected this error for all impacted prior periods presented herein. See Notes to Consolidated Financial Statements, “Note 1. Significant Accounting Policies” and “Note 12. Revision of Prior Period Financial 
+Statements” included in our Annual Report on Form 10-K for the fiscal year ended September 29, 2019 filed with the SEC. Accordingly, you are encouraged to review such financial information together with any subsequent information we have filed with the SEC and other publicly available information.Our products are revolutionizing industries, including 
+automotive, computing and the Internet of Things (Io T).  
+They’re enabling connections between millions of devices in ways never imagined. Our inventions are helping create a renewed livelihood for many people and allowing us the honor of enriching lives.
+Our QCT Supply Chain
+Qualcomm CDMA T echnologies (QCT) primarily utilizes a fabless production model in the manufacturing of our integrated circuits, which means that we do not own or operate foundries for the production of silicon wafers from which our integrated circuits are made. Therefore, we primarily rely on independent third-party suppliers to perform the manufacturing and assembly, and most of the testing, of our integrated circuits based primarily on our proprietary design and test programs. Our direct suppliers and, in turn, their suppliers, are also responsible for the procurement of most of the raw materials used in the production of our integrated circuits. We also use internal fabrication facilities to manufacture RFFE modules and RF filter acoustic products, and our manufacturing operations consist of front-end and back-end processes. These manufacturing operations procure raw materials from our direct suppliers. Most of our foundry, semiconductor assembly and test suppliers are located in the Asia-Pacific region. Revenues in 20191
+$14.6b
+QCT  Qualcomm CDMA T echnologies  
+QCT is a leading developer and supplier of integrated 
+circuits and system software based on CDMA, OFDMA and other technologies for use in wireless voice and data communications, networking, application processing, multimedia and global positioning system products. 
+$4.6b
+QTL  Qualcomm T echnology Licensing  
+QTL grants licenses and provides rights to use portions of our intellectual property portfolio.$4.9b
+OTHER    
+Other revenues included $4.7B in licensing revenues resulting from the settlement agreements with Apple and its contract manufacturers to dismiss all outstanding litigation between the parties and $0.2B from other businesses which includes Qualcomm Government T echnologies or QGOV, as well as other wireless technology and service initiatives.$152m
+QSI  Qualcomm Strategic Initiatives  
+QSI makes strategic investments primarily through our Qualcomm Ventures arm that are focused on expanding  
+or opening new opportunities for our technologies and supporting the design and introduction of new products and services (or enhancing existing products or services).
+We have invested over $60 billion in cumulative research and development resulting in over 140,000 
+patents and patent applications, and more than 30 years of innovation in chipsets, software, services and integrated platform solutions.
+2019 Corporate Responsibility Report      |      
+5
+About QualcommQualcomm for Good is our commitment to being a responsible 
+corporate citizen. It’s about integrating sustainability into every aspect of our business and using our breakthrough technology to make the world a better place.Our 
+Corporate 
+Responsibility Priorities
+6 2019 Corporate Responsibility Report      |      Our Corporate Responsibility PrioritiesPurposeful
+InnovationSTEM
+Education
+ResponsibleBusiness
+Our PeopleWe invent breakthrough technologies 
+and experiences.We inspire the next generation of 
+inventors to develop the workforce in STEM-related careers.
+We uphold the highest level of integrity, respect human rights, pr otect privacy 
+and sustain the environment.We make Qualcomm an inspiring and inclusive workplace to advance the development of leading-edge technologies.Qualcomm
+for Good
+The success of our business is fundamentally connected to  
+the well-being of our people, the planet and the world.  
+As we push what’s possible and relentlessly ask, "What if?"  
+we work to ensure that our innovations are helping shape  
+a better future while also positioning our Company for 
+sustained success.
+The world is becoming increasingly connected. We have a 
+tremendous opportunity to build on our legacy of sustainable innovation and use our breakthrough technology to tackle global challenges, inspire tomorrow’s workforce and make a positive difference for decades to come. 
+In FY19, we worked with consultants from Business for Social 
+Responsibility (BSR), a global nonprofit business network and consultancy dedicated to sustainability, to conduct our third materiality assessment. We conducted our first in 2013 and our second in 2015. 
+Our materiality assessment included both internal and 
+external research and interviews and helped us prioritize the corporate responsibility issues that are most important to our business and to our key stakeholders. By identifying our top corporate responsibility priorities, we can focus our resources, programs and reporting on these core topics.
+Our corporate responsibility priorities include four areas  
+where we believe we can make the greatest impact — 
+Purposeful Innovation, STEM Education, Responsible Business and Our People.
+2019 Corporate Responsibility Report      |      
+7
+Our Corporate Responsibility PrioritiesWhat follows is a summary of the progress we made 
+during fiscal 2019 on our corporate responsibility priorities as well as our key accomplishments toward achieving our 2030 sustainability vision and 2020 sustainability goals.Key  
+Accomplishments
+8
+2019 Corporate Responsibility Report      |      Key AccomplishmentsWe’re building on our legacy of technology leadership with 5G, 
+which will serve as the technological foundation for connected cars, the industrial Io T, smart homes and cities, networking and mobility. Our Wireless Reach program broadens our impact by bringing advanced wireless technology to underserved communities around the world, enriching people's lives while creating new markets for our business.
+Wireless Reach
+Wireless Reach brings advanced wireless technologies to people and communities who need it most.  
+Wireless Reach projects demonstrate pioneering uses of our Company’s mobile innovations to help drive human and economic progress in underserved areas globally.
+We’re improving lives with sustainable projects that enhance  
+the delivery of health care, enrich teaching and learning, foster 
+entrepreneurship, aid in public safety and improve the state of  
+our environment. Our projects have benefitted more than  
+20 million people in 47 countries on five continents since we started this initiative in 2006.Purposeful  
+Innovation 
+We invent breakthrough technologies 
+that enable life-changing products and experiences. 
+More than 20 million people in 47 countries on five continents have 
+benefitted since we started this initiative in 2006.Our success is the result of strong collaborations with more 
+than 650 partners, including non-governmental organizations, universities, government institutions, nonprofits, development agencies and other private sector companies. 
+9
+2019 Corporate Responsibility Report      |      Key Accomplishments: Purposeful InnovationIndia: Wireless Solutions for Artisanal  
+Marine Fishermen 
+For generations, artisanal, or small-scale, marine fishermen in 
+India’s coastal communities earned their livelihoods by relying on their traditional knowledge of the sea and fishing grounds. All that changed with the 2004 Indian Ocean tsunami. 
+The disaster altered the sea’s conditions, rendering the 
+fisherfolk’s traditional knowledge obsolete. Fishers had difficulty judging when it was safe to venture out to sea.  
+They sometimes had trouble finding the best places to fish. And, because the International Border Line between the state of T amil Nadu and the country of Sri Lanka is not marked, it was possible for fishers to accidentally cross the line and face penalties under Sri Lankan law.
+With help from Wireless Reach, in collaboration with the  
+Indian National Centre for Ocean Information Services and  
+MS Swaminathan Research Foundation, a new generation of 
+fishers are using wireless technology to earn their livelihoods  
+in a safer and more profitable manner. 
+The Fisher Friend mobile application provides critical 
+information about weather and ocean conditions up to  
+100 kilometers (about 62 miles) from shore. The app also provides disaster alerts and Potential Fishing Zones (PFZ) Advisories, enabling the fisherman to determine when it's  
+safe to sail, the best places to fish and which type of fishing gear to take with them. The app leverages the smartphone’s GPS feature to map the coordinates of PFZ Advisories, enabling the fishermen to chart  
+the shortest course to the PFZ and back to their harbors,  
+thereby saving fuel and time. If fishermen are stranded at sea, they can use the GPS feature to communicate their location  
+to the Coast Guard and friends who can navigate to the location to rescue them.
+The app alerts the fishermen of T amil Nadu when they’re 
+approaching the international border of Sri Lanka, enabling    them to change course and avoid crossing the border. 
+Fisher Friend has made an impact:•
+ Mor
+e than 50,000 fishermen across the east and west 
+coasts in 10 states of India have used the Fisher Friend 
+mobile app.
+•
+ In 2019
+, the Fisher Friend app communicated alerts about  
+the dangerous Okhi cyclone, helping save the lives of over  
+400 fishers in Kanyakumari village of T amil Nadu state. 
+•
+ The Fisheries departmen
+ts of India, the Indian Coast Guard 
+and the Indian National Centre for Ocean Information Services have recognized the benefits of this app and are actively collaborating with the program to enhance its impact and reach.
+•
+ Man
+y fishermen avoided harm to themselves and damage  
+to their boats and fishing gear by avoiding dangerous sea conditions communicated to them via the app. 
+10
+2019 Corporate Responsibility Report      |      Key Accomplishments: Purposeful InnovationChina: Empowering the Blind or Visually 
+Impaired Community
+Imagine being blind or visually impaired (BVI) and being 
+unable to access information that would help you navigate to a bus stop or read the expiration date on a milk carton.  
+This would affect your ability to live independently and complete everyday tasks.
+An estimated 12 million people in China are BVI. While 
+information technology products exist to help BVI people overcome navigation and information recognition challenges, these products do not meet the unique needs of China’s BVI community. Many information recognition solutions are not accurate, easy to use or accessible. Additionally, BVI have limited options for accessing new information regarding social, cultural or professional development.
+Wireless Reach, in collaboration with BSR, Beijing Baoyi 
+Interaction Scientific and T echnological Company and China Academy of Information and Communication T echnology, developed the See4me program to address the most pressing needs of China’s BVI population — information recognition and navigation. 
+The heart of this program is a free mobile application 
+combined with remote, manual assistance from volunteers to help BVI people overcome challenges. For example, the See4me app’s audio-visual and picture/text message support functions enable BVI users to communicate with volunteers remotely and get voice-guided assistance with difficult-to-see information, such as instructions on a medicine bottle or a CAPTCHA online verification code. 
+T o enhance mobility, volunteers can vocally provide step-by-
+step navigation in public spaces. BVI users who must navigate in a complicated external environment, such as going to the  
+hospital or catching a train, can pre-arrange for a volunteer to accompany them. 
+The heart of this program is a free mobile application combined 
+with remote, manual assistance from volunteers to help BVI people overcome challenges. 
+• Fishermen who heeded the PFZ Advisories provided  
+through the app reported an improvement in their incomes,  
+on average, by more than US $2,000. PFZ Advisories have 
+also motivated fishermen to switch from environmentally degrading bottom trawl fishing to fishing in the open ocean, away from the sea floor.
+11
+2019 Corporate Responsibility Report      |      Key Accomplishments: Purposeful InnovationSee4me has made an impact: 
+•
+ Mor
+e than 14,000 BVI and volunteer users registered to use  
+the See4me mobile app.
+•
+ V
+olunteers responded to approximately 1,800 audio/visual 
+support requests.
+•
+ V
+olunteers responded to nearly 3,000 picture/text  
+support requests.
+Mexico: Smart Water for Public Health
+The only source of drinking water in the Yucatán Peninsula is 
+an aquifer system that’s highly vulnerable to contamination from human activities. Unfortunately, the public’s understanding of water quality in the region and what they can do to prevent water contamination has been limited. Water authorities have been relying on water quality measurements that are labor-intensive and prone to human error, and they haven’t made the results readily available to the public, potentially putting the public’s health at risk. 
+Wireless Reach, in collaboration with s::can; the Junta de 
+Agua Potable y Alcantarillado de Yucatán (JAPAY), Yucatán’s public water authority; the Social Intelligence Unit; Grupo LAN; and Colectividad Razonatura launched the Smart Water initiative to improve drinking water quality in Mérida, the largest city in Yucatán state, and by extension, public health. 
+Smart Water uses a 4G wireless network, smart sensors 
+powered by our Company’s wireless technology and the Dime H
+2O mobile application developed to continuously monitor the 
+city’s water quality and provide water administrators with instant access to accurate, real-time data. The Io T based system sends alerts to JAPAY when water quality parameters are out of range, enabling immediate corrective action. 
+The initiative also features an education campaign. Members 
+of 100 households in the Dolores Otero neighborhood were provided smartphones enabled by our technologies and the Dime H
+2O app to access engaging multimedia content about 
+how to prevent water contamination caused by human activities. The citizens also learn how to report problems such as water leaks and how to improve water stewardship. They can also use the app to access the Water Quality Index for the aquifer system serving their community.
+Early results of Smart Water included operational efficiencies, 
+more effective management of water pollutants and increased public knowledge of water quality:
+•
+ 2,
+000 more measurements were collected by JAPAY 
+personnel in 80 percent less time during a three-day 
+collection period.
+•
+ 88 per
+cent of Water Quality Index measurements were 
+within Mexican water quality standards.
+•
+ Nearl
+y 100 percent of household representatives  
+reported an increase in confidence in their water quality knowledge after participating in the water education campaign activities.
+12
+2019 Corporate Responsibility Report      |      Key Accomplishments: Purposeful InnovationTransformative T echnology
+We invent breakthrough technologies that transform how  
+the world connects, computes and communicates. Many of  
+our breakthroughs reside “under the hood” of technology 
+familiar to us today. 
+Our inventions helped propel mobile to the forefront of the 
+technology world and brought wireless innovations into new industries. We’ve created new opportunities for the wireless device makers, operators, developers and content creators of the world. More recently, our inventions and breakthroughs have inspired fresh, new ideas from those companies — large and small.
+We dream big. We invent bigger. And we often do what many 
+thought was impossible.
+Leading the Way to 5G
+The technology commonly known as 5G represents a giant leap forward in the development of mobile wireless communications. 5G will usher in the next era of enhanced mobile broadband and immersive experiences with not only faster data rates, but also more uniform high data rates everywhere at lower latency. This paradigm shift in mobile platforms will enable wholly new industries, applications and professions to emerge, driving an entirely new mobile economy.
+Our Company has been at the forefront of wireless research 
+and development for decades. Our technology has been critical to every generation of mobile communications.  
+In 2019, we continued to lead the development of the foundational 5G wireless technology and the means of  
+using 5G to power the Io T, the proliferation of Artificial Intelligence (AI) and much more.
+The future uses of 5G technology generally fall into four  
+major categories:•
+ Enhanc
+ed Mobile Broadband (EMBB). EMBB technology can 
+extend wireless coverage into a broader range of structures 
+of different sizes, such as homes and office buildings, parks and shopping malls, or much larger areas like city neighborhoods or entire municipalities. It can also handle  
+a significantly greater number of devices using high volumes of data, especially in localized areas.
+•
+ Massiv
+e IoT. Io T applications enable machine to machine 
+communications by connecting different types of small communications devices with each other. 
+•
+ Mission Critical S
+ervices (MCS). MCS applications require very 
+high reliability, ultra-low latency (response time) and strong security, including for remote automation — such as connected factories or agricultural sites, smart grids and smart homes — or autonomous or connected vehicles. 
+•
+ Ar
+tificial Intelligence (AI). AI requires large data sets  
+(e.g., Big Data) to “train” its image or audio recognition for example. While Big Data is already being uploaded from cell phones, Io T devices and wireless networks, 5G networks and devices will enable massive data aggregation, with increased opportunities for AI in health, automotive, agriculture, manufacturing, smart cities and new fields. 
+13
+2019 Corporate Responsibility Report      |      Key Accomplishments: Purposeful InnovationThe 5G value chain alone — including technology innovators, 
+network providers, device manufacturers, infrastructure manufacturers and content developers — is predicted to produce nearly $3.6 trillion in global GDP and directly support 22.3 million jobs worldwide. 
+Qualcomm® Smart Cities Accelerator Program2
+The world’s urban population is expected to nearly double by 2050, making urbanization one of the 21st century’s most transformative trends. Cities all over the world are launching smart initiatives that utilize new technologies to improve quality of life for their citizens, economic competitiveness for their businesses and sustainability for the planet. Cities launching these initiatives are looking for experts who can help bring their visions to fruition.
+We created the Qualcomm Smart Cities Accelerator Program 
+— think of it as online dating for smart cities — to fast-track the transformation of smart cities. We’re connecting the public sector with a variety of carefully vetted partners and providers who can help deliver greater efficiencies, cost savings, safety and sustainability through unique solutions that are targeted to each city’s specific needs — solutions built on our breakthrough technologies.
+Our program’s members have proven expertise in commercially 
+deployed solutions. They include hardware and software providers, cloud solution providers, system integrators, design and manufacturing companies and businesses offering end-to-end smart city solutions. T ogether, we’re accelerating the transformation of city infrastructure and services to help enrich people’s lives.
+We’re particularly excited about the use cases for rural 5G.  
+Rural and remote areas in the United States lag far  
+behind urban and suburban areas in terms of access to  
+high-speed data connections. Broad deployment of 5G networks will help expand the reach of the Internet for these underserved communities.
+The use cases that 5G, AI and Io T support can have significant 
+impact on industries, such as agriculture, that are located in these areas. For example, low power Io T devices for soil moisture and nutrient sensing combined with real-time weather predictions can generate accurate and custom fertilizing of fields by drones. Such precision agriculture will increase efficiency of water and resource usage for better farm profits and increase field yields. In manufacturing, 5G and industrial Io T devices can help create safer, better optimized factories that create jobs in the United States.
+We’re also excited about the substantial economic benefits  
+that 5G will bring to the United States and global 
+marketplaces. This entirely new mobile system will dramatically accelerate economic output and job growth. The development, manufacturing, installation and day-to-day operation of 5G networks and the associated innovations will create millions of jobs and form one of the fundamental economic drivers of the next 20 years and beyond.
+Economic output from the deployment of 5G will accelerate 
+economic output and job creation for the wireless industry.  
+A recent study by the market analytics company IHS Markit found that across all industry sectors in the global economy, global economic activity from 5G-enabled communications will reach $13.2 trillion by 2035. For comparison, this figure is nearly equal to all United States consumer spending in 2018.
+2Qualcomm Smart Cities Accelerator Program is a program of Qualcomm T echnologies, Inc. and/or its subsidiaries. 
+14
+2019 Corporate Responsibility Report      |      Key Accomplishments: Purposeful InnovationT o build on this program, we held our first Qualcomm 
+Accelerate 2019 Smart Cities Conference in San Diego this past September to bring the ecosystem together, educate  
+and raise awareness around existing solutions and facilitate connections between municipalities and solutions providers. Our Chief T echnology Officer kicked off the event, which included presentations from system integrators and more than 50 live demonstrations by solution providers utilizing our technologies. 
+Based on the event’s success we’ve been organizing similar 
+meetings in other locations where governments are driving smart city initiatives. We held a Smart City Week in Jakarta, Indonesia, and two Smart Cities Accelerate events in Gurugram and Bengaluru, India.
+Though less than a year old, our efforts in this space are being 
+quickly recognized. We’re very proud to have been honored with a 2019 CompassIntel Io T Innovator Award in the Industry Accelerator category for our Smart Cities Accelerator Program.  
+We created the Qualcomm Innovation Fellowship (QIF) to  
+enable PhD students to pursue their futuristic innovative ideas.Qualcomm Innovation Fellowship
+We believe that research and development are the key to harnessing the power of imagination and to discovering new possibilities. We created the Qualcomm Innovation Fellowship (QIF) to enable PhD students to pursue their futuristic innovative ideas. Partnering with these students allows us to cultivate new and forward-thinking ideas and continue to further our research and development. 
+QIF recognizes and rewards innovative PhD students across a 
+broad range of technical research areas, based on our Company’s core values of innovation, execution and teamwork. Graduate students from a variety of top universities inside and outside the United States are invited to submit research proposals. We receive more than 100 proposals each year. Winning students earn a one-year fellowship and are mentored by our engineers to facilitate the success of their proposed research. 
+We’ve awarded more than $5 million since the program  
+started in 2009 at our Company’s Research Center in  
+Silicon Valley, California.
+15
+2019 Corporate Responsibility Report      |      Key Accomplishments: Purposeful InnovationSTEM  
+Education 
+We’re inspiring the next generation 
+of inventors. 
+Science, technology, engineering and mathematics (STEM)  
+is the foundation for everything we do. STEM education 
+supports the brainpower behind the inventions we bring to  
+life. Having STEM skills is crucial for success in technology-related careers and to helping people around the globe address future challenges. 
+As a technology leader and a company of inventors, we’re 
+committed to nurturing the next generation of innovators and technologists. We’re contributing to a diverse and inclusive workforce of the future by collaborating with community stakeholders on sustainable STEM programs that reach and inspire students at all levels and from all backgrounds.Our STEM initiatives focus on
+•
+ bridging 
+the STEM skills gap among students globally;
+•
+ engaging w
+omen and underrepresented minorities in  
+STEM fields;
+•
+ building S
+TEM capacity among teachers and educators; and 
+•
+ l
+everaging our employees as STEM ambassadors in  
+our communities.Thinkabit Lab Reaches  
+New Audiences
+Our Thinkabit Lab program shows students from all cultural 
+and socioeconomic backgrounds that they can be part of inventing the wireless world of the future. Learners of all ages explore careers available at Qualcomm and other technology companies. They also engage in fun and unique engineering projects culminating in the design of an Io T themed invention to solve a real-world problem. These activities help students understand where they might fit in the future workforce and how they could use technology to help make the world a better place.
+16
+2019 Corporate Responsibility Report      |      Key Accomplishments: STEM EducationWe launched our program for middle school students in 2014.  
+The original program was housed in a dedicated Thinkabit Lab 
+space at our Company’s headquarters in San Diego, California. We’ve evolved and expanded the program yearly  
+to broaden our reach and make a greater impact. T o date, our program has inspired 65,000 students to become the next generation of inventors. 
+Through collaborations with public, private and nonprofit 
+organizations we now have a celebrated network of 16  
+Thinkabit Lab sites and 27 instructors at schools, universities and libraries nationwide. We provide an online Learning Center with a variety of free resources for teachers and  
+adults, which can be downloaded for use in their classroom, home or organization. 
+In 2019, we•
+ opened 
+two Thinkabit Lab sites;
+•
+ hos
+ted instructors at Qualcomm to provide training; and
+•
+ cr
+eated new program content to engage students beyond 
+middle school.
+We collaborated with Dow Chemical Company to create a 
+Thinkabit Lab at Cohn Elementary School in Port Allen, Louisiana, establishing our first program in the south. This achievement also marked our first collaboration with a business in the private sector.
+We built on our relationship with Virginia T ech and opened a 
+Thinkabit Lab at the Virginia T ech Roanoke Center to serve The Thinkabit Lab opens the 
+door for students to become tomorrow's makers, innovators and problem solvers. The students get excited about STEM and start thinking about future careers in STEM. ”
+— Hollie Williams, Thinkabit Lab Instructor,  
+Cohn Elementary School, Baton Rouge, LAstudents and teachers in Roanoke, a rural area in Virginia.  
+The Roanoke site marks our second collaboration with Virginia 
+T ech on a Thinkabit Lab. T ogether, we opened the Virginia T ech Thinkabit Lab at the university’s campus in the National Capital Region in 2016.
+This summer, we implemented our first Instructor Summit for 
+teachers from the different Thinkabit Lab sites to ensure that all 16 sites provide a common experience to students. Instructors toured Qualcomm facilities, learned about 5G, and heard firsthand from employees about their career paths. This allowed instructors from different sites to meet each other and share best practices.   
+17
+2019 Corporate Responsibility Report      |      Key Accomplishments: STEM EducationFollowing the Instructor Summit, 100 percent of instructors 
+reported they could speak to topics such as Io T and 5G in  
+their communities. 
+Our expansion also encompassed additional content beyond 
+the traditional Thinkabit Lab experience. We piloted a new project, Ag T ech Io T for high school students at our Thinkabit Lab in Porterville, an agricultural community in Central California. Students learned to develop an app that could be used to prevent overwatering of crops and wasting water.  
+The project used Bluetooth technology to communicate wirelessly between the app and hardware, including a sensor, motors and light emitting diodes. With the support of Porterville’s agricultural business community, we also added seven Ag T ech career cards to our signature Qualcomm World of Work experience. Student surveys displayed a statistically significant increase in their interest in science and greater confidence in inventing new things.
+We also rolled out a new project, entitled T ech for Good during  
+the Instructor Summit. This project incorporates Bluetooth 
+communication technology and the Wireless Reach impact sectors — health care, education, public safety, entrepreneurship and the environment — to showcase the power of our technology to transform communities and impact society for the better. This project will enable our network of sites to implement summer STEM camps in the near future. We have continued with our commitment to offering summer Thinkabit Lab camps and have engaged more than 500 student participants since 2014. A highlight of our commitment to gender equity in STEM is our ongoing collaboration with the American Association of University Women (AAUW). In 2019, we hosted our sixth cohort of the AAUW T ech T rek in San Diego, where middle school girls used their newly gained engineering and coding skills to create a "tech for good" invention.
+We expanded our Thinkabit Lab Ambassador Program beyond  
+our Company’s offices in San Diego and Cambridge,  
+United Kingdom, to now also include employees at our 
+Boulder, Colorado and Cork, Ireland locations. In the last two years, our employees have enabled us to reach more than 6,600 students across the four offices, including more than 1,000 students in the United Kingdom and Ireland. 
+We have also added Qualcomm
+® World of Work career cards 
+with country specific labor market information that are used to 
+engage learners at conferences, school events and tours of Qualcomm offices. Our career cards are available in Spanish and our program has been trademarked in Mexico, European Union, United Kingdom and China.
+18
+2019 Corporate Responsibility Report      |      Key Accomplishments: STEM EducationFIRST the First Step in Expanding 
+STEM for Students Around the Globe
+Our ongoing collaboration with FIRST (For Inspiration and 
+Recognition of Science and T echnology) is another important way that we’re increasing access to STEM education and giving today’s students the foundation they need to invent  
+the future.
+FIRST is the world's leading youth-serving not for profit 
+organization advancing STEM education. FIRST engages students in grades K-12 in mentor-based robotics programs that help them become science and technology leaders as well as well-rounded contributors to society.
+We’ve been collaborating with FIRST since 2006.  
+Our involvement as a FIRST Strategic Partner has focused on•
+ supporting s
+tudents in all four FIRST programs, including: 
+- FIRST Lego League Jr. for students in grades K-4;  
+- FIRST Lego League for students in grades 4-8;  
+- FIRST T ech Challenge for students in grades 7-12; and  
+- 
+ FIRS
+T Robotics Competition for students in grades 9-12.
+•
+ pr
+oviding cutting-edge technology and expertise for  
+the FIRST T ech Challenge control system; and
+•
+ helping t
+o grow FIRST programs in global communities 
+where access to STEM programs are either limited or  
+don’t exist.
+Annually, we make a significant contribution of volunteers to 
+FIRST. In 2019, we achieved a dramatic rise in the number of our employees volunteering with FIRST and in the number of students being introduced to our technology. 
+For the 2018-2019 FIRST season:
+•
+ 259 Qual
+comm employees in nine countries volunteered  
+12,361 hours to support FIRST participants as mentors, 
+volunteers and judges.
+•
+ 68,
+180 students used the FIRST T ech Challenge control 
+system which features the Qualcomm® Snapdragon™ 3 
+mobile technology platform. All told, we’ve introduced our technology to nearly 228,000 students in 27 countries since the 2015-2016 season when we first integrated our technology into the controller.
+STEM Community Partnerships in Action
+T o celebrate National Robotics Week and to support students  
+and teachers across the United States, we teamed up with  
+Bosch USA, a FIRST Strategic Partner and a Qualcomm  
+customer, on a campaign to fund every FIRST project on the Donor’s Choose platform. 
+T ogether, we fully funded 120 projects supported by 90 teachers  
+at 88 schools in 25 states. 
+3Qualcomm Snapdragon is a product of Qualcomm T echnologies, Inc. and/or its subsidiaries. 
+19
+2019 Corporate Responsibility Report      |      Key Accomplishments: STEM EducationT ogether, we fully funded 120 projects supported by 90 
+teachers at 88 schools in 25 states. Sixty-six percent of schools that received the funding have a majority of students from low-income households.
+Donor’s Choose is a fundraising platform that allows teachers  
+to raise money for their classrooms. Funding needs range from 
+basic supplies to art equipment to STEM projects. Our funding helped in a variety of ways, such as:
+•
+ pr
+oviding tools and supplies for schools to start a FIRST  
+Lego League Club;
+•
+ helping t
+eachers gain access to FIRST robotics materials 
+that will allow their students to gain knowledge in 
+engineering and inspire them in that direction; and•
+ pr
+oviding materials and supplies to teach STEM through 
+robotics to underserved students.
+In China, we collaborated with the Xiaomi Corporation on a social responsibility program that supported people with disabilities. This program, in partnership with the Shanghai Y ouren Foundation, provided job training in data tagging to people with disabilities for one of Xiaomi’s Artificial Intelligence Programs. As a result, these program participants now have new and relevant technical job skills that will empower them for years to come. 
+Shanghai Adream Charitable Foundation is a China grassroots 
+NGO that helps children grow up with confidence, poise and dignity. With Qualcomm’s support, a 16-lesson STEM curriculum was developed and deployed online for primary and junior high schools to use. Through this STEM curriculum, students learn basic programming and strengthen their collaboration and creativity skills. So far, 5,200+ students from 130 schools in underprivileged areas and communities have participated in this STEM curriculum.
+The goal of the Tijuana Robotics Showcase in Tijuana, Mexico, 
+is to engage students in this vulnerable community and get them excited about STEM through FIRST. 2019 marked our second consecutive year supporting the Showcase, ensuring that students from the region have access to the FIRST  
+program and the skills and opportunity that it brings. The event featured more than a dozen robotics workshops that inspired students from kindergarten to university to pursue STEM and envision a future in which they could achieve anything they set their minds to.Our support of the Showcase contributed to an  
+unprecedented level of interest and accessibility to STEM in the region. The Showcase drew more than 1,000 attendees. Its impact spread across hundreds of young and curious minds, aspiring scientists and engineers and socioeconomic leaders and companies.
+In San Diego, our Company sponsored the San Diego STEAM 
+Maker Festival. The annual STEM + Arts event unites more than 6,000 attendees, including sponsors, foundations, schools, parents, students and community partners — all from diverse socioeconomic backgrounds — for a culminating hands-‐on STEAM festival. All proceeds and funds raised through sponsorship go directly to allowing STEAM Maker to provide free STEAM events, programs and activities to San Diego County schools throughout the school year.
+One of the challenges that students can participate in at the 
+festival is the “Qualcomm Social Innovation Challenge. ” Each school team had a month and a half to come up with an idea as to how they would spend $500 to help their community. The students had many great ideas, such as: 
+•
+ cr
+eating awareness around the negative impacts of 
+bullying by hiring a speaker to come to their school and talk 
+to students about this issue;
+•
+ designing and selling 
+T-shirts as a fundraiser so that the 
+students could use their profits to buy warm sweaters for homeless people; and
+•
+ cons
+truction of a “Book Hut” outside a children’s shelter to 
+provide those children with access to free books.
+20
+2019 Corporate Responsibility Report      |      Key Accomplishments: STEM EducationOur employees helped judge the competition. The winning 
+idea came from an all-girls team that wanted to help the environment and reduce waste in their school by purchasing four recycling bins to supplement the trash-only cans in their school’s lunch area.
+Qualcomm® Aqriti™ Program
+Qualcomm India, in association with United Way of Hyderabad and Swami Vivekananda Youth Movement, recently launched a flagship project — Aqriti — promoting STEM education among underprivileged girls. The initiative aims to provide increased access to STEM education and to address community perceptions on gender equality through various outreach programs. Through this collaboration, Qualcomm is helping to build facilities that enable a quality education for girls in schools.
+Engagement pillars of the Aqriti program include:•
+ pr
+oviding STEM labs and learning tools to help students 
+strengthen concepts in science and mathematics;
+•
+ pr
+oviding technical mentorship and allied activities such as 
+special coaching, soft skills training and exposure visits;
+The program operates in 250+ schools across India, reaching out to 
+over 40,000 school children.• community engagemen t to create awareness on girl  
+child education; and
+•
+ pr
+oviding scholarships for top-performing girls pursuing 
+STEM streams in higher education.
+After its initial year, Aqriti reached out to 25,000+ children (our 
+estimate is that approximately 40 percent of these are girls), 130+ schools across Hyderabad and Bangalore; 500+ teachers trained; 2,000+ numeracy and science kits distributed.
+Now in its second year, the program is expanding to new areas 
+across India, including:
+•
+ Mumbai: L
+aunched program in 15 schools, reaching out to 
+2,500 students;
+•
+ Chennai: L
+aunched program in 10 schools, reaching out to 
+3,000 students;
+•
+ Hy
+derabad: Expanded to 44 new schools in FY19; and
+•
+ K
+arnataka Expansion in partnership with SVYM: T otal 
+coverage to increase to 55 schools.
+The program operates in 250+ schools across India, reaching 
+out to over 40,000 school children.
+21
+2019 Corporate Responsibility Report      |      Key Accomplishments: STEM EducationWe push the boundaries of what’s possible in mobile 
+technology. We never push the boundaries on ethics.  
+We’re committed to creating products in ways that do not harm the environment, while upholding human rights in our operations, supply chain and communities. We work to protect privacy and secure data, which are critical for success in the wireless industry.
+Privacy and Security
+A strong foundation of privacy and security is crucial to building user trust, the adoption of new and exciting  
+mobile technology and the success of the wireless industry.  
+In our Company, in our products and in the mobile industry, we’re working to process personal data responsibly and to make data more secure.
+The Io T has enormous beneficial opportunities for our 
+customers and consumers. As widespread adoption of connected devices on our bodies, in our homes, workplaces and public spaces increases, so does the pressure on our customers to create devices that are highly secure.
+Our Company is unique in our ability to protect data privacy in 
+a wide variety of Io T devices. We’ve been working on mobile security for as long as we’ve been building chips. We apply our expertise in embedded hardware-based security to our Io T solutions. Our portfolio of chips and software spans everything from very high-end application processors to the simplest Bluetooth low-energy solutions. We scale our security solution appropriately across our portfolio to help device manufacturers across the Io T ecosystem address their end-device security needs as robustly as possible. 
+We collaborate with silicon providers, device manufacturers, 
+third-party software providers, cloud service providers and  
+mobile network operators to ensure a comprehensive security solution from device to cloud. T ogether, we’re creating a secure  
+Io T ecosystem, from smart power grids to electronic  
+payment systems.
+We’re a member of the Io T Cybersecurity Alliance. We support 
+best practices for securing the growing Io T ecosystem. We also support and welcome smart, comprehensive federal policy legislation in the United States. Such legislation would promote a harmonized approach to privacy and help create a legal framework for operation nationwide.Responsible 
+Business 
+We uphold the highest level of integrity, 
+respect human rights, protect privacy  and sustain the environment.
+22
+2019 Corporate Responsibility Report      |      Key Accomplishments: Responsible Businessmake our products as sustainable as economically and 
+technically possible.
+Responsibility and sustainability are integral to our innovation 
+process. We’re a Full Member of the Responsible Business Alliance (RBA) and require all our semiconductor manufacturing suppliers to adopt either the RBA Code of Conduct or a similar code. The RBA Code of Conduct, which serves as our Supplier Code of Conduct and The Qualcomm Way: Code of Business Conduct, have been cornerstones of our commitment to RBA and responsible supply chain management for many years.
+Suppliers representing more than 90 percent of our total 
+product-related spend complete the RBA Self-Assessment Questionnaire annually. More than 85 percent of these suppliers have completed Validated Audit Process audits within the past two years.
+We work closely with our suppliers to ensure a responsible 
+supply chain and to avoid disruption to the supply chain. For example, in 2019, we provided one-on-one tutorials to 10 Korean smelters in our supply chain to help them understand, build their knowledge and conform to the revised Responsible Minerals Assurance Process assessment standards. These standards focus on systems and processes associated with responsible sourcing of minerals. We also conducted environment, health and safety assessments at four suppliers’ sites and found all the sites to be compliant with local and national regulations.
+We’re also working to be a positive force in protecting the 
+environment by continually looking for ways to conserve We’re continuing to build a culture of security across our Company. Our efforts to safeguard our intellectual property and protect our employee data emphasize educating and training all employees about their critical role in keeping our Company’s business information safe. 
+In 2019, we conducted mandatory cybersecurity training for all 
+our employees worldwide and participated in a third-party assessment of our cybersecurity program. The assessment found that the measures we put in place to secure our intellectual property exceeds industry standards. We also performed cybersecurity and privacy assessments for several hundred of our vendors and key suppliers.
+T o learn more, visit our privacy and security website.
+Sustainable Product Design
+We’re focused on creating products that have a positive 
+impact on individuals, communities and the environment.  
+As part of this effort, we’re committed to integrating principles of sustainability and responsibility into our products and supply chain. 
+Minimizing our environmental impact across our business, 
+products and supply chain is very important to us. We address the sustainability of our products through our Environmental Management System and various hazardous-substance elimination programs. As a fabless semiconductor company, we work particularly closely with the semiconductor foundry and assembly suppliers that manufacture our products. We monitor their processes and materials and continually work to 
+23
+2019 Corporate Responsibility Report      |      Key Accomplishments: Responsible Businesswater, minimize energy consumption, lower emissions and 
+reduce waste. As we design, build and operate our facilities, we keep environmental performance top of mind. We look for opportunities to incorporate the highest levels of energy and water efficiency into all our new construction and tenant improvement projects. We’ve earned Leadership in Energy and Environmental Design (LEED) Gold Certifications for New Construction on our facilities in San Diego and India. All of our current and future interior design projects include the use of recyclable and recycled materials, no VOC products and strive to follow LEED guidelines even if we don’t plan to certify the project with the local Green Building Council entities.
+We continually look for ways to reduce our global greenhouse 
+gas (GHG) emissions. Our 2025 GHG reduction goal is to reduce absolute Scope 1 (mainly natural gas) and Scope 2 (electricity) GHG emissions from our global operations by 30 percent, compared to a 2014 baseline. In 2019, we remained on track to meet this goal. T o date, we've reduced our GHG emissions by 17.9 percent, of which 5.8 percent is attributed to the purchase of renewable energy certificates (RECs) and carbon offsets. We reduced our GHG emissions in India alone by approximately 10,600 tons of carbon dioxide equivalent (tCO
+2e) through the purchase of solar energy for our Bangalore 
+offices. This represents the first year of output from our 10-year power purchase agreement signed in 2018 to increase our renewable energy consumption. We also own and operate several on-site solar generating systems in San Diego and Bangalore, which are helping us achieve our GHG goal.  
+We promote the use of electric vehicles (EVs). We installed 
+dozens of new EV charging stations at our campuses in San Diego and Santa Clara, California, effectively doubling the number of vehicles that can charge at one time. And, we give employees discounted electric rates at our owned Level 2 EV charging stations and free charging at Level 1 outlets in our garages. Over one year of operating these stations, we avoided 300 tCO
+2e of GHG emissions that would have been 
+released by the use of gas-powered vehicles.
+Additionally, we have been proactive in reducing packing 
+material waste through reuse and recycle, as well as through more streamlined processes. In 2019, we embarked on new recycling initiatives at our Singapore Distribution Center (DC) and San Diego Global T est Center (GTC) to address our four main waste streams: integrated circuit (IC) scraps, excess and obsolete lab electronics hardware, plastics and cardboard.  
+We’ve been reporting our Company’s Scope 1 and Scope 2 
+GHG emissions since 2002 to The Climate Registry (TCR), which provides a global database for emissions reports. We achieved TCR’s Climate Registered™ Gold status by successfully measuring our worldwide Scope 1 and Scope 2 GHG emissions according to TCR’s best-in-class program, 
+having the data third-party verified to the highest TCR standards of reasonable assurance and then reporting the data on TCR’s website. 
+As our Company continues to grow, most of our workforce 
+expansion is happening overseas. We’re trying to be as eco-friendly as possible as we build new offices to accommodate our growth. For example, 51 percent of our employees worldwide work in Qualcomm locations outside the United States, and most of these people work at our campus in Bangalore, India. The campus is located in a “Water Scarcity” area, meaning water must be trucked into the area from other locations. As a responsible Company and good corporate citizen, we’ve been working with the local community to mitigate our impact. For example, with Qualcomm’s support, United Way Bengaluru, in association with Whitefield Rising, a citizen-based action group, is installing a sewage treatment plant at nearby Kundalahalli Lake.
+In San Diego, which has a semi-arid climate and gets 12 inches 
+of rain, on average, per year, we reached an agreement with the City of San Diego to expand purple pipe and bring reclaimed water to more of our buildings for industrial (cooling towers) and irrigation use. This will decrease our use of potable water by more than 80 million gallons annually and result in cost savings. In 2019, we completed our reclaimed water connections for landscape irrigation and five out of six cooling towers. The remaining conversion is projected to be complete in 2020. 
+Our recycling campaigns and food composting program have 
+inspired employees to help reduce our waste to landfill. We diverted more than 1,300 tons from the landfill last year alone, 
+24
+2019 Corporate Responsibility Report      |      Key Accomplishments: Responsible BusinessIn our Think Safe, Act Safe, Be Safe initiative, we encourage 
+our employees to report incidents, no matter how seemingly insignificant, through our centralized incident reporting system. We are able to respond efficiently to collect information and analyze the root cause of the incident. Once we understand why an incident occurred, we can implement practical and proactive solutions. In this way, we look at safety not as a reactive event but as part of our process in how we manage day-to-day operations.
+Ethics and Governance
+We believe that ethical governance is a core requirement of doing business, a competitive advantage and the right thing to do. Our ethical leadership inspires confidence in our Company’s future and creates a safe, supportive work environment for our employees. Our Code of Business Conduct guides how we responsibly conduct ourselves every day.
+Our collaborative and resilient ethical Company culture 
+encourages us to speak up when we see something that doesn't seem right. T ransparency around incidents of misconduct and our Company's response to those incidents creates an environment where employees feel comfortable raising concerns. Our employees trust that if they voice a concern, their concern will be fully investigated and appropriately remediated. 
+In 2019, we joined the Society of Corporate Compliance and 
+Ethics and organizations worldwide in the celebration of Corporate Compliance & Ethics Week. “I 
+‐ Compliance:  
+E
+thics & Compliance Awareness Week 2019” marked our event including 7 tons to biofuel, recycling 65 percent of our hazardous waste and recycling nearly 20 tons of e-waste each month. We’re very proud to have been selected once again by the City of San Diego’s Environmental Services Department as a Recycler of the Year for our outstanding recycling and waste reduction efforts.
+We recognize the occupational and process risks inherent in 
+our business. We’re confident that our dedicated and committed approach to safety will continue delivering sustainable improvements. Our total recordable incident rate has decreased for the past four fiscal years by 46 percent. This progress has been a result of evolving our approach to health and safety from one that focused on compliance to one that is risk-based and incorporates behavioral components of health and safety.to raise awareness of compliance and ethics issues.
+We kicked off the week by announcing the release of  
+The Open Door, an internal website dedicated to sharing 
+lessons learned from internal ethics investigations. The objective of this website is to assist employees with being able to spot potential ethical challenges that can arise in our day-to-day work activities. 
+We want our employees to be aware of and educated on our 
+Company’s policies, procedures and controls in order to protect the Company and employees from potential legal, regulatory or disciplinary risks. T o this end, we require our employees and temporary workers to complete a policy training and certification process every 12-24 months covering our Code of Business Conduct and our Global Foreign Corrupt Practices Act (FCPA) and Anti-Corruption Policy and program. As of September 29, 2019, 99 percent of Qualcomm employees and temporary workers completed the 2018 Code of Business Conduct T raining and Certification requirement, which was sent out to all employees and temporary workers on October 29, 2018, and to all new employees upon hire. In addition, 70 instructor-led training sessions on Qualcomm’s Global FCPA and Anti-Corruption Compliance program were offered and attended by 1,740 employees in higher risk functional roles (Business Development, Marketing, Sales, Government Affairs, Procurement, etc.) in FY19.
+25
+2019 Corporate Responsibility Report      |      Key Accomplishments: Responsible BusinessOur 
+People 
+We make Qualcomm an inspiring and 
+inclusive workplace to advance the development of leading-edge technology.
+T o invent the breakthrough technologies Qualcomm is  
+known for, it’s crucial to foster an inclusive workplace made  
+up of the brightest, most inventive people possessing  
+diverse backgrounds and life experiences. Why? Because 
+when talent and diversity come together, creativity is unleashed, innovation happens and breakthrough technologies are realized.
+As a company of inventors, we believe in the power of 
+technology. We also believe that innovation leads to social change, and that with every exciting new invention is the potential to forever transform the way we live, work and connect in the world. We achieve this by fostering inclusive teams of diverse employees, by educating all employees and leaders on the importance of doing so and by reaching out to varied communities to promote technology education. We also engage our global workforce through giving and outreach efforts to support and enrich the communities where we live and work.
+T ogether — leveraging the breadth and depth of our diverse 
+expertise — we can answer the unasked, conquer the complex and solve the challenges only we can.Inclusion and Diversity
+Qualcomm has more than 29,000 people represented by  
+116 nationalities working in more than 175 locations in 30 different countries around the globe. Collectively, we speak  
+74 different languages. 
+We are dedicated to continuous improvement to ensure that our 
+workforce can thrive in an inclusive and diverse environment that reflects the communities where we live and work.
+26
+2019 Corporate Responsibility Report      |      Key Accomplishments: Our PeopleOur efforts in 2019 were focused in three areas: 
+Inspiring Innovation Through an Inclusive  
+and Diverse Culture
+With an expanded Global Inclusion and Diversity team, we 
+grew our program offerings — increasing our dedicated focus on critical areas and becoming more strategic and effective in our program approach.
+We launched a Diversity T ask Force of senior vice presidents to 
+review strategic programs and advise on best practices for driving diversity through collective data analysis. The T ask Force also explores innovative hiring and retention best practices for implementation throughout Qualcomm.We also introduced an Inclusion Awards program that recognizes employees who are truly living out our inclusion and diversity values. Honorees are nominated by their  
+fellow employees and presented their award by a senior leader in their organization. The awards are hosted twice a year  
+in San Diego, California with three to four employees recognized out of hundreds of nominations that come in  
+from around the world. T o date, we have had 10 winners  
+from five different countries. 
+Our eight strong and vibrant global Employee Networks (ENs) 
+— AbilityQ, eQuality, LatinQ, QAAAD, QEmerge, QVETS, Qwomen and U2Q — continued to promote the professional growth of our employees. In collaboration with the ENs, we celebrated Hispanic Heritage Month, Men’s Health Awareness Month, International Women's Day, Disability Awareness Month and Black History Month. We also held Memorial Day and Veteran’s Day ceremonies at our corporate headquarters. We celebrated Pride by raising Pride flags in the month of June and welcomed over 400 employees to march in the San Diego Pride Parade, including our CEO Steve Mollenkopf along with other senior leaders.Expanding our efforts to recruit and hire world-class 
+diverse talent
+In 2019, we refreshed our inclusion and diversity training and 
+rolled it out to our worldwide talent acquisition staff. This training provided tips and tools, platforms and techniques to help us identify a broader range of world-class candidates, including those that are underrepresented.  
+We also revamped our conference strategy. We continued to 
+engage as a high-level sponsor of professional conferences where we can reach technical talent in diverse communities and increased our senior leadership and hiring manager participation at these events. Our new approach resulted in a 400 percent increase in the number of new hires recruited from the 2019 Grace Hopper Celebration, the Society of Hispanic Professional Engineers National Convention and the National Society of Black Engineers National Convention.
+We continue to recruit from a variety of colleges including 
+Hispanic-serving Institutions, Historically Black Colleges and Universities and Women’s Colleges. We have also partnered 
+Our new approach has already brought us a 400 percent increase 
+in the number of new hires recruited during the 2019 Grace Hopper Celebration, The SHPE National Convention and The NSBE National Convention.
+27
+2019 Corporate Responsibility Report      |      Key Accomplishments: Our Peoplewith organizations such as the National Center for Women 
+and Information T echnology (NCWIT); Out in Science, T echnology, Engineering and Mathematics; and the Fourblock Veteran Network to find talent. As a result, we’ve seen an increase in our female and underrepresented population new hires since expanding our focus in this area. 
+Identifying strategic partners to accelerate our 
+inclusion and diversity programs
+Our continued engagement with organizations that work with 
+diverse communities has been vital to our success at increasing female and minority representation. For example, we partner with AnitaB.org to benchmark our progress and identify promising practices for recruiting, retaining and advancing women technologists. We also support AnitaB.org’s BRAID initiative, which conducts research related to attracting and retaining women and underrepresented minority students in computing majors.
+This past year Qualcomm joined Pivotal Ventures, an 
+investment and incubation company started by Melinda Gates, alongside other top tech companies to form the  
+Reboot Representation T ech Coalition. The coalition aims  
+to double the number of Black, Latinx and Native American women receiving computing degrees by 2025.
+As an NCWIT Pacesetter company, we work with universities 
+and other corporate leaders to build and fully engage the technical talent pipeline in the United States. Through our involvement with NCWIT’s Aspirations in Computing initiative, we’ve seen young women move from aspiring high school technologists, to university interns, to full-time employees  
+at Qualcomm. 
+In collaboration with the National Foundation for Autism Research, we started an internship program to welcome those with autism into our company. Through our collaboration with Disability:IN’s Inclusion Works program, we’ve increased our ability to address the needs of individuals with disabilities. We’re proud to have scored a perfect 100 on the organization’s Disability Equality Index each year since its inception.
+Our goal for Qualcomm is to maintain and nurture an 
+environment where everyone can achieve their personal and professional goals, while collaboratively inventing breakthrough technologies that transform how the world connects, computes and communicates.
+T alent Development
+Our people care about inventing, solving complex problems and impacting society for the better. And we care about them. That’s why the greatest investment we make is in our people. From helping to navigate unique and exciting career paths to providing resources that encourage work-life balance, we continuously strive to provide opportunities that improve the quality of our employees’ lives, inside and outside of work.  
+Our talent development programs enable employees with  
+the resources they need to achieve their career goals, build management skills and lead the organization.
+Focusing on career development and progression
+In 2019, we launched a new series of employee workshops around the globe that support professional growth and development. T opics included career branding and advocacy, presentation skills and innovation mindset. Additionally, our manager and employee forum programs provide an  
+ongoing opportunity for employees to practice and apply learning around conversations aligned with the annual  
+review process, covering topics such as demystifying career conversations, discussing promotions, ratings and rewards  
+and everyday feedback.
+Developing strong leaders
+We understand the value of good leadership throughout  
+all levels of the organization and the impact it can have  
+on employee development. We encourage leaders to teach other leaders, providing managers an opportunity to hear  
+and learn from internal experts across the business.  
+28
+2019 Corporate Responsibility Report      |      Key Accomplishments: Our PeopleOur Executive Insights series also provides employees an 
+opportunity to engage with executives in a small setting where they can hear about their unique perspectives on leadership and key success strategies.
+Enabling self-service access to development tools  
+and resources
+At Qualcomm, we encourage individualized learning 
+experiences driven by a competency-based curriculum.  
+In an effort to provide easy-to-navigate resources available anytime, anywhere, we launched a new employee development website in 2019. The website provides quick access to learning resources that are personalized to the individual's development needs. •
+ W
+ealth – education, tools and support to help make sense 
+of and improve financial well-being now and in the future
+•
+ Community – engaging with, and con
+tributing to,  
+the communities in which we work and live
+Employees and their spouses were provided the opportunity to earn financial incentives while learning more about their well-being in each of these areas. In the first four months of the program, nearly 50 percent of employees completed one or more of these activities. Aggregated results, learnings and opportunities identified in the United States program will be leveraged to enhance or expand programs and offerings in other countries.
+Expanded support and resources for employees  
+and families
+During 2019, we conducted a full review of our global, regional 
+and local Employee Assistance Programs (EAP). EAP provides resources and assistance to employees and their families dealing with mental or emotional health issues, as well as everyday challenges associated with managing stress, work-life balance and locating quality care for their children or elderly parents and others. This resulted in the introduction  
+of new EAP vendors in 2020, with one primary vendor globally, which will provide an enhanced, comprehensive and consistent level of services to all of our employees and  
+their families.Well-being
+The success of our business is fundamentally connected to the well-being of our people. We strive to inspire employees at all levels of the organization to live their best, most productive life. As a result, we provide employees and their families with benefits that:
+•
+ pr
+ovide protection and security so they can have peace  
+of mind and not be overly concerned about events that  
+may require time away from work or impact their financial 
+well-being;
+•
+ support 
+their physical and mental health by providing tools 
+and resources to help them improve or maintain their health status and encourage engagement in healthy behaviors; and
+•
+ o
+ffer choice where possible so they can customize their 
+benefits to meet their needs and the needs of their family.
+Below are highlights of some of our Fiscal Year 2019 initiatives and accomplishments that served to advance these goals.
+Qliving well-being program
+In the U.S., we expanded our Qliving well-being program to encompass all aspects of well-being:
+•
+ Heal
+th – programs and resources to support physical  
+well-being, including assessing current health status and 
+areas to maintain or improve
+•
+ Sel
+f – tools and resources to support personal growth, 
+including resilience and emotional and mental well-being
+29
+2019 Corporate Responsibility Report      |      Key Accomplishments: Our PeopleEnhanced family time-off programs
+Qualcomm is committed to supporting employees and their 
+families by providing time away from work to celebrate and care for new family additions, to provide assistance to family members needing additional assistance or to mourn the loss of loved ones. As a result, in the United States we expanded our family time-off programs to provide up to 12 weeks with full pay for both moms (post-maternity leave) and dads welcoming a new addition to the family or employees caring for a family member. In addition, for those mourning the loss of a loved one, we now provide up to 15 days off with full pay in both the United States and India. Family time-off programs will continue to be reviewed in other countries to identify opportunities to provide further support.
+Expanded choice
+In India, we introduced a flexible benefits program called FLEXit! which provides our multi-generational workforce an opportunity to customize benefits to meet their specific needs. FLEXit! provides various levels of coverage that employees  
+can choose from. Depending on the selections they make, employees may be awarded flex points that can be used  
+to purchase additional medical coverage, life insurance  
+and well-being products such as gym equipment and wearable devices.
+A similar program was implemented in the United Kingdom. 
+Employees have the opportunity to purchase additional insurance, make contributions to their pension plan or receive cycle to work or childcare vouchers. Plans are also underway to introduce a flexible benefits program for Ireland employees in 2020. Building Connections — With Each Other  
+and the Community
+We believe that building connections between our employees, their families and our communities creates a more meaningful, fulfilling and fun workplace. Through our engagement programs our employees can pursue their interests and hobbies, connect to volunteering and giving opportunities and enjoy unique recreational experiences with family members. 
+Helping employees explore their passions
+Qualcomm’s Qclub program creates meaningful connections between employees by providing funding for groups of colleagues to pursue their hobbies and interests. In 2019, the program expanded significantly with employees creating 124 new clubs worldwide, ranging from a jazz dance club in China to photography clubs in Arizona and Singapore, a recreational drone club in Canada, a gelato club in Germany and a motorcycle enthusiasts club in India.
+Creating cultural experiences for employees and  
+their families
+Leveraging our partnerships with local arts and culture 
+organizations, in 2019 we created numerous unique experiences for employees and their families. These opportunities included performances by the San Diego Opera, City Ballet of San Diego, local theater companies, movie nights and a flagship Qkids experience at our headquarters that showcased more than 50 local community organizations for 2,000 attendees. Our regular QSOL (Qualcomm Summer on the Lawn) concert series for employees and families showcased cultural groups such as the House of India. And Qualcomm Day at the USS Midway and Fleet Science Center connected families to local museums.
+Connecting employees to our communities 
+Our employees have big hearts and are passionate about many causes. Our corporate giving, volunteering and Qualcomm Ambassador Program support and encourage all employees by engaging with the causes they care about most.
+In 2019, nearly 3,000 employees utilized our charitable match 
+program, benefiting more than 1,500 organizations. And our employee-directed local giving committees, now in more than 25+ global locations, donated to over 70 local organizations worldwide, while around the world employees engaged in Qualcomm-sponsored volunteer activities.
+Through the Qualcomm Ambassador Program in San Diego, 
+California we engaged over 150 employees in STEM outreach, donating hundreds of hours to local community organizations. The program is now expanding to other Qualcomm offices in the United States and Canada. 
+In 2019, nearly 3,000 employees  
+utilized our charitable match 
+program, benefiting more than 1,500 organizations.
+30
+2019 Corporate Responsibility Report      |      Key Accomplishments: Our PeopleOur performance metrics gauge our progress over the past 
+three years and enable us to report more transparently across a variety of sustainability topics.Performance 
+Summary 
+31
+2019 Corporate Responsibility Report      |      31 2019 Corporate Responsibility Report      |      Performance SummaryOur Company
+Units 2019 2018 2017
+T otal Consolidated 
+Revenues by Country  
+(in millions)  4Total $ 24,273 22,611 22,258
+China (including Hong Kong) $ 11,610 15,149 14,579
+Ireland 6$ 2,957 1 -
+United States $ 2,774 603 513
+South Korea $ 2,400 3175 3538
+Other Foreign $ 4,532 3683 3628
+Revenues by Reportable Segment  (in millions) 
+5Total $ 24,273 22,611 22,258
+QCT (Qualcomm CDMA Technologies) $ 14,639 17,282 16,479
+QTL (Qualcomm Technology Licensing) $ 4,591 5,042 6,412
+QSI (Qualcomm Strategic Initiatives) $ 152 100 113
+Other $ 4,891 187 (746)
+T otal Capitalization  
+(in millions) 5Stockholders' Equity $ 4,909 807 30,725
+4  We report revenues from external customers by country based 
+on the location to which our products or services are delivered, which for QCT is generally the country in which our customers manufacture their products, or for licensing revenues, the invoiced addresses of our licensees. As a result, the revenues by country presented herein are not necessarily indicative of either the country in which the devices containing our products and/or intellectual property are ultimately sold to consumers or the country in which the companies that sell the devices are headquartered. For example, China revenues could include revenues related to shipments of integrated circuits to a company that is headquartered in South Korea but that manufactures devices in China, which devices are then sold to consumers in Europe and/or the  United States.  5  The following is certain information that was originally filed with the Securities and Exchange Commission (SEC) on November 6, 2019 as part of our Annual Report on Form 10-K for our fiscal year ended September 29, 2019. We identified an immaterial error related to the recognition of certain royalty revenues of our QTL segment fiscal 2018 and fiscal 2017. We have corrected this error for all impacted prior periods presented herein. See Notes to Consolidated Financial Statements, “Note 1. Significant Accounting Policies” and “Note 12. Revision of Prior Period Financial Statements” included in our Annual Report on Form 10-K for the fiscal year ended September 29, 2019 filed with the SEC. Accordingly, you are encouraged to review such financial information together with any subsequent information we have filed with the SEC and other publicly available information.6   Qualcomm discloses revenues from external customers by each region that is material. In 2019 revenues from Ireland were material.
+32
+2019 Corporate Responsibility Report      |      Performance SummaryOur Products and Suppliers
+Units 2019 2018 2017
+Quantity of Products 
+Shipped (in millions)Qualcomm® MSM™ Chipsets7# of products 650 855 804
+Privacy & Security Certified Information Privacy Professionals # of 8 8 11
+Privacy T raining # of hours 125 336.5 601.8
+Privacy T raining Sessions Offered # of 6 16 21
+Targeted Security T raining Campaigns # of 9 14 19
+Targeted Employees T rained in Security # of 30,281 9,298 12,235
+Requests for Customer Information Received  
+from Government/Law Enforcement Agencies8# of 0 0 0
+Complaints (Breaches of Customer Privacy) Received  from Outside Parties and Substantiated by Qualcomm
+9# of 0 0 0
+Complaints from Regulatory Bodies10# of 0 0 0
+Information Security Breaches or Other  Cybersecurity Incidents
+11# of 0 0 0
+Information Security Breaches Involving Customers' Personally Identifiable Information
+12# of 0 0 0
+Amount of Fines/Penalties Paid in Relation to Information Security Breaches or Other Cybersecurity Incident$
+0 0 0
+7  Qual comm MSM is a product of Qualcomm Technologies, 
+Inc. and/or its subsidiaries. 
+8  Limited to formal subpoenas, court orders, or similar 
+obligatory document or information demands regarding end-user consumer personal information issued by governmental or law enforcement.9  Customer privacy is defined as end-user consumers of a Qualcomm technology.
+10  Refers to formal legal proceedings initiated by regulatory bodies pertaining to privacy and/or data protection compliance related to end-user consumers of Qualcomm technology.11 Limited to instances requiring disclosure in company SEC filings.
+12  Limited to instances involving end-user consumers of Qualcomm technology and requiring disclosure in company SEC filings.
+33
+2019 Corporate Responsibility Report      |      Performance Summary13  Number represents calendar year data.  
+Suppliers represent the top 90 percent of total  product-related spend.
+14  Responsible Business Alliance (RBA) Self-Assessment Questionnaire (SAQ).15   In ternational Organization for Standardization (ISO) 
+14001 is the international standard for environmental management systems (EMS).
+16  Responsible Business Alliance (RBA) Validated Assessment Program (VAP).Our Products and Suppliers (continued)
+Units 2019 2018 2017
+Supplier Metrics13   Suppliers Who Completed the RBA SAQ14% 100 100 100
+Suppliers with All Low-Risk Manufacturing Facilities  
+per RBA SAQ14% 100 100 100
+Suppliers Who Provided Us with Greenhouse  Gas Emissions Data%
+100 100 100
+Suppliers Who Provided Us with Water Use Data % 100 100 100
+Suppliers Who Have an ISO 14001 Certification15% 100 100 100
+Suppliers Who Have Completed an RBA VAP  Audit in the Last 2 Years
+16% 85.7 67.7 83.3
+Conflict Free Minerals17RMAP-Conformant Processing Facilities18# 249 252 246
+RMAP-Conformant Processing Facilities18% 83 82 73
+Supplier Diversity Diverse Suppliers Registered (U.S. only) # of 791 830 860
+Spending on U.S. Government Subcontract Work Directed at Diverse Business 
+(U.S. only)% 23 52 26
+17  Amount represents prior-year calendar year data as of 
+January 31, 2019.
+18 Responsible Minerals Assurance Process (RMAP).
+34
+2019 Corporate Responsibility Report      |      Performance SummaryOur Environment
+Units 2019 2018 2017
+Energy and Air Quality 19Electricity Avoided as a Result of Our Energy Saving Initiatives Megawatt Hours 53,878 53,501 48,915
+Emissions Avoided as a Result of Our Energy Saving Initiatives CO2e Metric Tons 15,214 16,070 14,325
+Greenhouse Gas (GHG) 
+Emissions 20CO2e per Gross Square Foot of Facilities Space (Scope 1 & 2) CO2e Metric Tons 0.0172 0.0176 0.0184
+Total Scope 1 — Direct GHG Emissions by Weight  
+(Includes Purchased Carbon Offsets)CO2e Metric Tons 75,290 73,832 80,179
+Total Scope 2 — Indirect GHG Emissions by Weight  (Market-based: Emission Factors where Available and Purchased) International Renewable Energy Certificates  and Emission Reduction Credits)CO
+2e Metric Tons 114,060 120,771 128,298
+Total Scope 3 — Other Indirect GHG Emissions by Weight 21CO2e Metric Tons 112,252 112,252 112,252
+Direct Energy 
+Consumption by Primary Energy Source
+20Natural Gas (Facilities) MMBtu 1,341,149 1,301,239 1,405,156
+Jet Fuel (Aviation Related) Gallons 740,002 976,158 919,403
+Vehicle Gasoline (Shuttle/Test Vehicles) Gallons 45,307 45,296 56,135
+Diesel Fuel (Cars/T rucks) Gallons 8,466 8,456 9,792
+Diesel Fuel (Generators) Gallons 50,136 17,625 16,174
+Propane Vehicles (T ruck) Gallons 131 131 182
+19  Annual avoided emissions of CO2e due to cumulative 
+investments made for energy and water efficiencies for 
+various owned and leased facilities.
+20  Amoun ts represent prior-year calendar year data  
+for 100% of Qualcomm’s global facilities.21  Amount is estimated based on prior year calculation and 
+represents employee business air travel, business car rental and employee commuting.
+35
+2019 Corporate Responsibility Report      |      Performance SummaryOur Environment (continued)
+Units 2019 2018 2017
+Indirect Energy 
+Consumption by Primary Energy Source 
+20Electricity (Purchased) Megawatt Hours 271,005 271,894 267,027
+Significant Air Emissions 22NOx Tons 8.06 7.95 8.92
+SOx Tons 0.34 0.32 0.34
+VOC Tons 0.69 0.67 0.75
+Waste Management Total Non-Hazardous Waste Generated Metric Tons 3,767 3,678 10,895
+Total Non-Hazardous Waste Recycled Metric Tons 1,699 1,517 3,639
+Total Non-Hazardous Waste to Landfill Metric Tons 2,068 - 7
+Total Hazardous Waste Generated Metric Tons 37 63 58
+Total Hazardous Waste Recycled Metric Tons 31 56 19
+Employee Engagement Events Personal Paper Shredding Collection Events for Employees Tons 1.5 2.6 2.3
+Personal E-Waste Collection Events for Employees Pounds 5,689 6,156 2,515
+E-Waste Collection E-Waste Collection Pounds of Waste 523,887 533,925 450,801
+22  All NOx SOx and VOC data is prior-year calendar year data for 
+our San Diego Co-Generation facilities only.
+36
+2019 Corporate Responsibility Report      |      Performance SummaryOur Environment (continued)
+Units 2019 2018 2017
+Water Management23Total Water Usage Million Gallons 171 161 165
+Potable Water – Building Water Million Gallons 39 26 36
+Potable Water – Cooling Towers Million Gallons 49 72 67
+Potable Water – Irrigation Million Gallons 12 22 23
+Reclaimed Water – Cooling Towers Million Gallons 54 30 28
+Reclaimed Water – Irrigation Million Gallons 18 11 11
+Water Savings 24Million Gallons 31 22 22
+23  Reported water usage and savings are for both owned and 
+leased San Diego, CA facilities, plus owned and leased facilities in San Jose and Santa Clara, CA.24  Reflects potable and reclaimed water savings for FY19. Prior years data reflects only potable water savings.
+37
+2019 Corporate Responsibility Report      |      Performance SummaryOur Workplace
+Units 2019 2018 2017
+Workforce Total Employees # of 37,200 31,100 33,800
+Breakout by Region
+United States % 37 46 52
+Non-United States % 63 54 48
+Breakout by Employee Type
+Regular Employees % 91 90 90
+Temporary Employees % 9 10 10
+Inclusion and Diversity Nationalities Represented # of 117 113 116
+Languages Spoken # of 74 74 74
+Women – Overall % of Total 19.7 19.0 18.8
+Leadership % of Total 16.4 16.8 17.1
+Technical % of Total 16.4 15.4 14.6
+Women on Board of Directors % of Total 25 16.7 20
+Race and Ethnicity Statistics (U.S. only):
+Minority Employees – Overall % of Total 68.5 66.3 64.2
+American Indian/Alaska Native – Overall % of Total 0.2 0.2 0.2
+Leadership % of Total 0.2 0.2 0.2
+Technical % of Total 0.1 0.1 0.1
+38
+2019 Corporate Responsibility Report      |      Performance SummaryOur Workplace (continued)
+Units 2019 2018 2017
+Inclusion and Diversity 
+(continued)Asian – Overall % of Total 60 58.2 56
+Leadership % of Total 49.1 47.1 44.4
+Technical % of Total 65.6 64.1 61.8
+Black/African American – Overall % of Total 1.5 1.4 1.5
+Leadership % of Total 1.3 1.1 1.1
+Technical % of Total 1.3 1.2 1.2
+Hispanic – Overall % of Total 4.6 4.4 4.3
+Leadership % of Total 3.9 3.8 3.9
+Technical % of Total 3.6 3.4 3.3
+Native Hawaiian/Pacific Islander – Overall % of Total 0.3 0.3 0.3
+Leadership % of Total 0.2 0.2 0.1
+Technical % of Total 0.2 0.3 0.2
+Two or More Minority Groups – Overall  % of Total 1.9 1.9 1.9
+Leadership % of Total 1.4 1.5 1.5
+Technical % of Total 1.5 1.5 1.5
+Disabled % of Total 3 1.6 1.8
+Veterans % of Total 2.4 2.4 2.6
+39
+2019 Corporate Responsibility Report      |      Performance SummaryOur Workplace (continued)
+Units 2019 2018 2017
+Employee Development Training Statistics
+Classroom T raining Course Enrollments # of 74,166 87,188 74,489
+Instructor-led Session # of 1,303 1,178 1,247
+Online Courses # of 14,945 16,605 26,030
+T raining by Employee Group Hrs/Employee 16 14 14
+Individual Contributor Hrs/Employee 13 14 14
+Management Hrs/Employee 16 14 14
+Executive Hrs/Employee 6 11 10
+Ethical Employment Employee Voluntary T urnover Rate % of Total 7 8.6 6.4
+Employee Involuntary T urnover Rate % of Total 4 8.8 2.5
+Employees Responding to Employee Survey25% of Total 80 43 42
+Employees Receiving T raining without Mandatory Programs % of Total 75 82 73
+Employees Receiving T raining with Mandatory Programs % of Total 100 100 100
+Workplace Safety Lost Time Injury and Incident Rate Per 200,000 hrs worked <0.01 0.05 0.04
+Total Recordable Incident Rate Per 200,000 hrs worked 0.34 0.4 0.26
+25  2019 survey covered all employees (full census). 2018 and 2017 
+surveys covered randomly selected samples of employees (pulse). 
+40
+2019 Corporate Responsibility Report      |      Performance SummaryOur Community
+Units 2019 2018 2017
+Philanthropy Employees Participating in Matching and Community Service 
+Grant Programs# of 2,910 3,664 3,464
+Nonprofit Organizations Helped by Matching and Community Service Grant Programs# of
+1,659 2,052 2,102
+Wireless Reach 26Stakeholders # of 655 660 660
+Projects # of 119 119 119
+Countries # of 47 47 47
+Beneficiaries (Direct and Indirect) # of 20,161,333 15,773,740 12,007,333
+26 Cumulative data since 2006.
+41
+2019 Corporate Responsibility Report      |      Performance SummaryGlobal Reporting Initiative 
+Content Index
+We report on our corporate responsibility initiatives 
+annually according to the Global Reporting Initiative (GRI) Sustainability Reporting Standards. This report has been prepared in accordance with the GRI Standards: Core option.
+In FY19, we worked with consultants BSR, to conduct our third 
+materiality assessment — we conducted our first in 2013 and second in 2015. Our resulting material priorities are: Purposeful Innovation, Diversity and Inclusion, Ethics and Governance, Sustainable Product Design, Privacy and Security and Public Policy and Regulation.
+42 2019 Corporate Responsibility Report      |      GRI IndexGRI 
+StandardDiscl
+osure  
+NumberDiscl
+osure  
+Title R esponse
+General Disclosures
+GRI 102: General 
+Disclosures 2016102-1 Name of the organization Qualcomm Incorporated
+102-2 Primary brands, products, and services Products; Solutions; 10-K/Annual Report 
+102-3 Location of headquarters San Diego, CA
+102-4 Number of countries where the organization operates,  and names of countries with significant operations Offices and Facilities  
+102-5 Nature of ownership and legal form Qualcomm is listed on the NASDAQ Stock Market under the ticker symbol QCOM. 10-K/Annual Report 
+102-6 Markets served (including geographic breakdown,  sectors served, and types of customers/beneficiaries) Our Performance Summary; 10-K/Annual Report
+102-7 Scale of the reporting organization (overall) Our Performance Summary; Offices and Facilities;  10-K/Annual Report
+102-8 Scale of the reporting organization (employees) Our Performance Summary 
+102-9 Organization’s supply chain Supply Chain Management; 10-K/Annual Report
+102-10 Significant changes during the reporting period regarding size, structure, ownership or supply chainWe disclose all significant changes regarding size, structure or ownership in our periodic filings 10-K/Annual Report
+102-11 Whether and how the precautionary approach or  principle is addressed by the organizationWe practice the “precautionary principle” of identifying and taking preventative measures regarding chemicals, including in circumstances in which there is a high degree of scientific uncertainty regarding potentially hazardous chemicals. Our own policies are often more stringent than applicable law. We continuously monitor opportunities to improve our products and make them as sustainable as technically and economically feasible.
+102-12 Externally developed economic, environmental,  and social charters, principles, or other initiatives to  which the organization subscribes or which it endorsesQualcomm participates in, subscribes to or endorses a wide range of different externally developed economic, environmental and social charters, principles and initiatives. Our approach is described at Corporate Sustainability.
+2019 Corporate Responsibility Report      |      
+43
+GRI IndexGRI 
+StandardDiscl
+osure  
+NumberDiscl
+osure  
+Title R esponse
+GRI 102: General 
+Disclosures 2016102-13 List of main memberships of industry or other associations,  and national or international advocacy organizations in  which the organization is involvedOur Memberships and Industry Affiliations
+102-14 Statement from the most senior  decision-maker of the organizationMessage from Our CEO
+102-16 Organization’s values, principles,  standards and norms of behaviorThe Qualcomm Way; Corporate Governance;  RBA Code of Conduct
+102-17 Internal and external mechanisms for seeking  advice on ethical and lawful behaviorCode of Ethics; Ethical Governance;  Business Conduct Hotline
+102-18 Governance structure, including committees  of highest governing bodyThe Governance Committee of our Board of Directors receives and reviews a report on our policies and programs concerning corporate citizenship and social responsibility, including charitable giving, annually. Corporate Governance; Governance Committee; Strategy
+102-40 List of stakeholder groups engaged Stakeholder Engagement; Strategy 
+102-41 Percentage of total employees covered  by collective bargaining agreementsNone of our United States employees are covered by collective bargaining agreements. Outside the United States, less than 50 percent of our employees are covered by collective bargaining agreements. We are compliant with all collective agreements regarding significant operational changes as required by country laws and regulations.
+102-42 Basis for identification and selection  of stakeholders Stakeholder Engagement; Strategy
+102-43 Approach to stakeholder engagement Stakeholder Engagement; Strategy
+102-44 Key topics and concerns raised through stakeholder engagement and organization’s response The materiality assessment described in Our Corporate Responsibility Priorities incorporated key issues raised through stakeholder engagement. Our response to these issues is contained throughout this report and our Sustainability website.
+2019 Corporate Responsibility Report      |      
+44
+GRI IndexGRI 
+StandardDiscl
+osure  
+NumberDiscl
+osure  
+Title Response
+GRI 102: General 
+Disclosures 2016102-45 Entities included in the organization’s consolidated  financial statements or equivalent documents 10-K/Annual Report
+102-46 Process for defining report content andtopic boundaries Our Corporate Responsibility Priorities; About this Report 
+102-47 List of material topics identified in the process  for defining report contentOur Corporate Responsibility Priorities; Priorities  
+102-48 Effect of any restatements of information  provided in previous reports Our Performance Summary; 10-K/Annual Report
+102-49 Significant changes from previous reporting  periods in list of material topics and topic boundariesThere have been no significant changes from previous reporting periods in the list  of material topics and topic boundaries.
+102-50 Reporting period About this Report 
+102-51 Date of most recent previous report Our 2019 Qualcomm Corporate Responsibility Report covers events and highlights occurring in our 2019 fiscal year: from October 1, 2018 to September 30, 2019. 
+102-52 Reporting cycle About this Report 
+102-53 Contact point for questions regarding report About this Report 
+102-54 “In accordance” option About this Report 
+102-55 GRI Context Index GRI Context Index
+102-56 Policy and current practice with regard to seeking  external assurance for the report About this Report 
+2019 Corporate Responsibility Report      |      
+45
+GRI IndexGRI 
+StandardDiscl
+osure  
+NumberDiscl
+osure  
+Title R esponse
+Ethics and Governance
+GRI 103: 
+Management Approach 2016103-1 Explanation of material topic and its boundary Our Corporate Responsibility Priorities; About this Report; Priorities;  Ethical Governance
+103-2 Management approach and its components Strategy; 10-K/Annual Report; Proxy Statement; Corporate Governance;  The Qualcomm Way; Code of Ethics; RBA Code of Conduct
+103-3 Evaluation of the management approach Strategy 
+GRI 205:  Anti-corruption 2016 205-1 Operations assessed for risks related  to corruption At least annually, we evaluate our Company for risks related to corruption.  We also assess additional risk areas on a case-by-case basis.  The Qualcomm Way; Ethical Governance
+205-2 Communication and training about  anti-corruption policies and proceduresQualcomm requires its employees and temporary workers to complete a policy training and certification process every 12-24 months that covers the Company’s Global FCPA and Anti-Corruption Policy and Procedures. As of September 30, 2019, 99.99% of Qualcomm's employees and temporary workers completed the 2017 FCPA and Anti-Corruption Policy T raining and Certification requirement, which was sent out to all employees and temporary workers on November 1st, 2017. In addition, 70 instructor-led training sessions on Qualcomm’s FCPA and Anti-Corruption Compliance program were offered and attended by 1,740 employees in higher risk functional roles (Business Development, Marketing, Sales, Government Affairs, Procurement, etc.) in FY19. The Qualcomm Way; Ethical Governance
+205-3 Confirmed incidents of corruption and actions taken We disclose all material pending legal proceedings in our periodic filings  10-K/Annual Report.
+GRI 206:  Anti-competitive Behavior 2016
+206-1 Legal actions for anti-competitive behavior,  anti-trust, and monopoly practicesWe disclose all material pending legal proceedings in our periodic filings  10-K/Annual Report.
+GRI 419:  Socioeconomic  Compliance 2016
+419-1 Non-compliance with laws and regulations in  the social and economic areaWe disclose all material pending legal proceedings in our periodic filings  10-K/Annual Report.
+2019 Corporate Responsibility Report      |      
+46
+GRI IndexGRI 
+StandardDiscl
+osure  
+NumberDiscl
+osure  
+Title R esponse
+GRI 418: Customer 
+Privacy 2016418-1 Substantiated complaints concerning breaches of  customer privacy and losses of customer dataWe did not receive any substantiated complaints regarding breaches of customer privacy or data in 2019 or in the three years prior.
+Public Policy and Regulation
+GRI 103: Management Approach 2016 103-1 Explanation of material topic and its boundary Our Corporate Responsibility Priorities; About this Report; Priorities;  Ethical Governance
+103-2 Management approach and its components Strategy; 10-K/Annual Report; Proxy Statement; Corporate Governance;  The Qualcomm Way; Code of Ethics; RBA Code of Conduct
+103-3 Evaluation of the management approach Strategy 
+GRI 415: Public Policy 2016 415-1 Political contributions Disclosures Under Political Contributions and Expenditures Policy
+Privacy and Security
+GRI 103: Management Approach 2016 103-1 Explanation of material topic and its boundary Global Inclusion and Diversity; Our Corporate Responsibility Priorities; About this Report; Priorities; Privacy and Security 
+103-2 Management approach and its components Strategy; Privacy Principles; Privacy Policy; Privacy Public Policy Positions;  The Qualcomm Way; RBA Code of Conduct
+103-3 Evaluation of the management approach Strategy 
+GRI 418: Customer Privacy 2016 418-1 Substantiated complaints concerning breaches of  customer privacy and losses of customer dataWe did not receive any substantiated complaints regarding breaches of customer privacy or data in 2019 or in the three years prior.
+Sustainable Product Design
+GRI 103: Management Approach 2016103-1 Explanation of material topic and its boundary Our Sustainability Priorities
+; About this Report; Priorities ; Sustainable Product 
+Design ; Human Rights
+103-2 Management approach and its components Strategy; The Qualcomm Way; RBA Code of Conduct; Qualcomm’s Commitment to Human Rights; Qualcomm Communication on Progress
+103-3 Evaluation of the management approach Strategy
+2019 Corporate Responsibility Report      |      
+47
+GRI IndexGRI 
+StandardDiscl
+osure  
+NumberDiscl
+osure  
+Title R esponse
+GRI 307: 
+Environmental Compliance 2016307-1 Non-compliance with environmental lawsand regulationsQualcomm received no significant monetary fines and no non-monetary sanctions  for non-compliance with environmental laws and regulations in 2019.
+GRI 308: Supplier Environmental Assessment 2016
+308-1 New suppliers that were screened  using environmental criteriaSupply Chain Management
+308-2 Negative environmental impacts in the  supply chain and actions takenSupply Chain Management
+GRI 407: Freedom of Association and Collective Bargaining 2016
+407-1 Operations and suppliers identified in which the right  to exercise freedom of association and collective  bargaining may be violated or at significant riskQualcomm is unaware of any operations in which the right to exercise freedom  of association and/or collective bargaining are at significant risk. 
+GRI 408:  Child Labor 2016
+408-1 Operations and suppliers identified as having  significant risk for incidents of child labor Qualcomm is unaware of any operations in which there is a significant risk for incidents of child labor. 
+GRI 409: Forced  or Compulsory Labor 2016
+409-1 Operations and suppliers identified as having significant  risk for incidents of forced or compulsory labor Qualcomm is unaware of any operations in which  there is a significant risk for incidents of forced or compulsory labor. 
+GRI 410:  Security Practices 2016
+410-1 Security personnel trained in human rights  policies or procedures100 percent of security personnel are trained in the organization’s policies or procedures concerning aspects of human rights that are relevant to operations.
+GRI 414:  Supplier Social Assessment 2016
+414-1 New suppliers that were screened using  social criteriaOur approach to labor practices in the supply chain is described in  Supply Chain Management. Qualcomm is applying the  RBA Membership Requirements.
+414-2 Negative impacts for labor practices in  the supply chain and actions takenOur approach to labor practices in the supply chain is described in  Supply Chain Management. Qualcomm is applying the  RBA Membership Requirements.
+2019 Corporate Responsibility Report      |      
+48
+GRI IndexGRI 
+StandardDiscl
+osure  
+NumberDiscl
+osure  
+Title R esponse
+GRI 416: Customer 
+Health and Safety 2016416-1 Assessment of the health and safety impacts  of product and service categories Qualcomm’s approach to the health and safety impacts of products is found in Product Responsibility.
+416-2 Incidents of non-compliance concerning the health  and safety impact of products and servicesZero
+Inclusion and Diversity
+GRI 103: Management Approach 2016 103-1 Explanation of material topic and its boundary Global Inclusion and Diversity; Our Corporate Responsibility Priorities;  About this Report; Priorities; Inclusion and Diversity
+103-2 Management approach and its components Strategy; Equal Employment Opportunity and Affirmative Action;  Supplier Diversity Policy; The Qualcomm Way; RBA Code of Conduct
+103-3 Evaluation of the management approach Strategy
+GRI 405: Diversity and Equal Opportunity 2016 405-1 Composition of governance bodies  and employeesOur Performance Summary 
+GRI 406: Non-discrimination 2016
+406-1 Incidents of discrimination and corrective  actions takenQualcomm has never been found by a court to have unlawfully discriminated against any of our employees.
+Purposeful Innovation
+GRI 103: Management Approach 2016 103-1 Explanation of material topic and its boundary Our Corporate Responsibility Priorities; About this Report ; Priorities ;  
+T ransformative T echnology
+103-2 Management approach and its components Wireless Reach ; Strategy
+103-3 Evaluation of the management approach Strategy
+GRI 203: Indirect Economic Impacts 2016 203-1 Infrastructure investments and services supported Wireless Reach
+203-2 Significant indirect economic impacts Wireless Reach
+2019 Corporate Responsibility Report      |      
+49
+GRI IndexAppendix
+50 2019 Corporate Responsibility Report      |      AppendixOur Support of the  
+UN Sustainable 
+Development Goals
+2019 Corporate Responsibility Report      |      
+51
+AppendixEnd poverty in all  
+its forms everywhere.
+Ensure healthy lives and  promote well-being for all  
+at all ages.
+Ensure inclusive and equitable 
+quality education and promote lifelong learning opportunities for all.
+Achieve gender equality and empower all women and girls.
+Ensure availability and sustainable management of water and sanitation for all.
+Ensure access to affordable,  
+reliable, sustainable and  
+modern energy for all.
+Promote sustained, inclusive and 
+sustainable economic growth, full and productive employment and decent work for all.
+Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation.
+Reduce inequality within and  
+among countries.
+Make cities and human  
+settlements inclusive, safe,  
+resilient and sustainable.
+Ensure sustainable consumption  
+and production patterns.
+Take urgent action to combat 
+climate change and its impacts.
+Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and reverse land degradation and halt biodiversity loss.
+Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels.
+Strengthen the means of implementation and revitalize the global partnership for sustainable.
+To learn more about all 17 SDGs, please visit the  
+UN Sustainable Development  
+Goals website .UN SDGS addressed in this report:
+2019 Corporate Responsibility Report      |      
+52
+AppendixBoundary and Scope
+This report covers our 2019 fiscal year: October 1, 2018 to 
+September 30, 2019. In some instances, data is collected and reported on a calendar rather than a fiscal year basis. Such exceptions, as well as any other exceptions to the reporting period, are noted within the report. Financial data is reported in U.S. dollars. The information and data in this report includes Qualcomm Incorporated and its consolidated subsidiaries,  
+unless otherwise stated.
+Disclosure and Assurance
+This report has been prepared in accordance with the  
+Global Reporting Initiative (GRI) Standards: Core option. Since our founding in 1985, Qualcomm has been 
+committed to bettering the societies where we live and work. We have been producing an annual sustainability report since 2006. The content of this report was developed using the GRI’s  
+“principles for defining report content”: materiality, 
+completeness, stakeholder inclusiveness and sustainability context. Our use of the materiality principle encompassed our whole value chain, both within and outside the Company, and  
+is described further in the Corporate Responsibility Priorities section of this report.
+Use of external assurance is noted in the report where it is used, 
+though the report as a whole has not been externally assured.
+Additional information about our operations and financial 
+statements is available in our Annual Report on Form 10-K.
+Additional information about sustainability at Qualcomm  
+is available at www.qualcomm.com/sustainability .
+We welcome your comments and feedback at  
+qsr@qualcomm.com.About  
+This Report
+2019  
+Corporate  
+Responsibility  
+Report 
+2019 Corporate Responsibility Report      |      
+53
+About this ReportWe welcome your comments and feedback  
+at qsr@qualcomm.com
+© 2019-2020 Qualcomm Incorporated. All Rights Reserved.
+Qualcomm, Snapdragon, MSM, Wireless Reach and Thinkabit 
+Lab are trademarks of Qualcomm Incorporated, registered in  
+the United States and other countries. Aqriti is a trademark of Qualcomm Incorporated. Other products and brand names  
+may be trademarks or registered trademarks of their  
+respective owners. 
+References in this report to “Qualcomm” may mean Qualcomm 
+Incorporated, Qualcomm T echnologies, Inc., and/or other subsidiaries or business units within the Qualcomm corporate structure, as applicable.
+Qualcomm Incorporated includes Qualcomm’s licensing  
+business, QTL, and the vast majority of its patent portfolio.  
+Qualcomm T echnologies, Inc., a wholly owned subsidiary of 
+Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of Qualcomm’s engineering, research and development functions, and substantially all of its product and services businesses, including its semiconductor business, QCT.Qualcomm Headquarters
+5775 Morehouse DriveSan Diego, CA 92121Phone 858-587-1121www.qualcomm.com/sustainability

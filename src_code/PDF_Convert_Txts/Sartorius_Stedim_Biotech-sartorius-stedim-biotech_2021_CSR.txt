@@ -1,0 +1,2570 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Sartorius Group  
+GRI  Report  2021 Sartorius  GRI Report  2021   Responsibility at Sartorius   2 
+ 
+ Content  
+Responsibility at Sartorius  3 
+Sustainable Development Goals  5 
+General Disclosure  7 
+Organizational Profile  8 
+Strategy  17 
+Ethic and Integrity  18 
+Governance  19 
+Stakeholder Engagement  24 
+Reporting Practice  26 
+Economic Standards  29 
+203 Indirect Economic Impacts  30 
+205 Anti -Corruption  30 
+206 Anti -Competitive Behavior  32 
+Environmental Standards  33 
+302 Energy  34 
+303 Water and Effluents  37 
+305 Emissions  38 
+306 Waste  43 
+307 Environmental Compliance  46 
+308 Supplier Environmental Assessment  48 
+Product Stewardship  50 
+Social Standards  52 
+401 Employment  53 
+403 Occupational Health and Safety  56 
+404 Training and Education  58 
+405 Diversity and Equal Opportunity  60 
+406 Non -Discrimination  62 
+412 Human Rights Assessment  63 
+414 Supplier Social Assessment  64 
+415 Public Policy  66 
+419 Socioeconomic Compliance  66 
+Innovation & Social Contribution  66 
+GRI Content Index  69 
+Contacts  73 Sartorius  GRI Report  2021   Responsibility at Sartorius   3 
+ 
+ Responsibilit y at Sartorius  
+Sartorius is an internationally leading partner to the biopharmaceutical industry. With our t echnologies, we 
+help researchers and engineers achieve faster, easier progress in the life sciences and bioprocess technology, 
+thus enabling the development of new and better treatments and vaccines and affordable medical care.  
+Many people in industrializ ed countries suffer from diseases for which there is as yet no effective treatment. 
+These include cancer, dementia and autoimmune diseases as well as congenital metabolic disorders and in-
+fectious diseases. At the same time, many diseases that would have pr oved fatal just a few generations ago can 
+now be cured or treated effectively. Combined with declining birth rates, this has led to an aging society in 
+industrialized countries where people are expected to remain fit and healthy for as long as possible.  
+In developing and emerging countries, the availability and affordability of healthcare is well below the stand-
+ards in industrialized nations: more than half the world’s population has either no or inadequate access to med-
+ical care. For every second child, i nitial immunization is an unachievable goal, and it is estimated that 1.5 million 
+children under the age of five die from diseases from which they could be protected with vaccinations.  
+The purpose of our business is to help our customers develop and manuf acture biotechnology -based drugs 
+and vaccines and, in doing so, enable the development and safe production of vaccines and biopharmaceuti-
+cal medicines to treat serious and, in some cases, rare diseases. The United Nations’ sustainability goal ‘Good 
+Health and Well -Being’ is thus an integral part of our core business.  
+As a company with a tradition spanning 150 years, sustainability is firmly embedded at many levels in our busi-
+ness. To us, it means operating responsibly over the long term – with respect to c ustomers, employees, inves-
+tors, business partners and society as a whole. Likewise, it entails handling natural resources responsibly. Sus-
+tainable action also means remaining agile and constantly asking ourselves how we can respond to the chang-
+ing world an d make a positive contribution. This concerns the continued development of our business activi-
+ties just as much as living up to our corporate responsibilities.  
+As in the previous year, 2021 was once again dominated by the coronavirus pandemic. The pandemi c is a chal-
+lenge facing society as a whole; at the same time, it highlights how Sartorius directly contributes to the goal of 
+“healthy lives and well -being for all at all ages:” with its products and process knowledge, Sartorius is involved 
+in many of the worldwide vaccine projects to combat coronavirus.  
+Optimization of processes and methods throughout the entire value chain can also make a contribution to-
+wards sustainability – this mainly includes the consideration of sustainability in procurement, produc t devel-
+opment and production. Our product portfolio includes consumables such as filters, pipette tips, cell culture 
+media and bags. These sterile products for use in biopharmaceutical research and development have signifi-
+cant benefits compared to reusable  products. Nevertheless, we see potential to reduce our use of natural re-
+sources in this area.  
+  Sartorius  GRI Report  2021   Responsibility at Sartorius   4 
+ 
+ In addition, we do believe it is important that we play our part in helping to reduce global warming. In the future, 
+we aim to continue growing strongly while substantially lowering our carbon footprint. To this end, we once 
+again compiled a detailed breakdown of our carbon footprint and refined our targets in the year under review. 
+In our opinion, it is appropriate to focus on CO 2 emission intensity, as this in dicator enables a comparison of 
+the CO 2 emissions of various companies as well as with economic and international indicators and targets. 
+Correspondingly, our new climate target is to reduce CO 2 emission intensity, which is defined as the ratio of  
+CO 2 emis sions to revenue. With our new target, which is to lower this indicator by an average of roughly 10 
+percent per annum, we are exceeding the current ambitions of the European Union and the Science Based 
+Targets initiative.  Sartorius  GRI Report  2021   Sustainable Development Goals   5 
+ 
+ Sustainable Development Goals  
+Sartorius  is a signatory to the United Nations Global Compact and supports the 2030 agenda for a sustainable 
+global economy.  
+The United Nations developed 17 Sustainable Development Goals (SDGs). The governments of all member 
+states have adopted the SDGs; how ever, their success is largely dependent on the actions and cooperation of 
+everyone involved – especially on the commitment of the private sector. Sartorius  accepts this responsibility.  
+To determine which SDGs are related to Sartorius ’ business activities,  we also conducted a comprehensive 
+materiality analysis in 2018. Sartorius  regards nine SDGs as important in connection with its business opera-
+tions.  
+ 
+ 
+Good health and well -being is - according to the United Nations - considered one of the basic 
+human rig hts and is a major indicator of sustainable development. It is our mission and our core business to 
+help improve the health of more people. Consequently, good health and well -being are at the heart of our 
+attempts to achieve more sustainability and our cor porate purpose directly addresses one of the Sustainable 
+Development Goals.  
+Quality education  empowers people to improve their political, social and economic situations. Ac-
+cording to the United Nations it is a basic human right and a requirement for sustainable development. We 
+contribute to this by continuously training our employees and through m any forms of support for young sci-
+entists.  
+Sartorius  GRI Report  2021   Sustainable Development Goals   6 
+ 
+ Gender equality  is not only a UN human right, it is also a lever for economic growth. It gives women 
+better access to education, medical care and financial resources. We support equality in our own business 
+activ ities and expect our business partners to behave accordingly.  
+Access to clean drinking water  was in 2008 recognized as a human right by the United Nations. 
+Within the scope of our product stewardship, we try to keep the water consumption of our products a s low as 
+possible throughout their entire life cycle. We also make sure that our business partners handle water and 
+wastewater responsibly.  
+Decent work and economic growth  are an urgent sustainability goal, as more than 60  % of all 
+workers worldwide do not have an employment contract and fewer than 45  % of all workers are employed on 
+a full -time, permanent basis. Bad working conditions are often associated with poverty, discrimination and in-
+equality and mainly affect groups of people such as women, peopl e with a disability, young people and mi-
+grants. Therefore, at all process stages, we make sure that no human rights are endangered at any point within 
+our supply chain.  
+Industry, innovation and infrastructure:  this SDG aims to expand scientific research in  all 
+countries throughout the world. While Sartorius  does not have a direct influence on the areas of infrastructure 
+or sustainable industrialization, it does contribute in a wide variety of ways to achieve this innovation goal. By 
+having our production si tes serve as centers of competence, we develop scientific expertise at many sites 
+across the globe. Our promotion of young people helps us spread and network the scientific basis worldwide 
+and, as a result, strengthen future innovation activities.  
+Responsi ble consumption and production  means, among other things, the transition to 
+a circular economy. Sterile plastic products are a key component of Sartorius ’ product portfolio – for a good 
+reason: the properties of these products are beneficial for the patien ts at the end of the supply chain, for the 
+environment and for the basic availability and development of innovative medical care. At the same time, sin-
+gle-use products inevitably raise the question of the product’s end of life. We are addressing this issue  and 
+considering the end of life of our products as well as their overall ecological footprint.  
+Action to combat climate change  is taken within the company and also in our supply chain. 
+Human -induced climate change is one of the greatest challenges of our  time. It requires action from everyone 
+concerned, especially the private sector. A key issue is to reduce emissions of CO 2 and other greenhouse 
+gases. We accept this responsibility within the scope of our climate strategy.  
+Partnerships to achieve aims  are a standard approach for Sartorius . We especially strengthen 
+our innovation activities through partnerships and cooperation agreements. Achieving sustainability targets 
+requires a cooperation approach because they concern the entire supply chain and succes s can be achieved 
+only through cooperation with customers, suppliers, contractual partners and science.  
+ 
+ 
+   
+ 
+ 
+ 
+ 102  General DisclosureSartorius  GRI Report  2021  General Dis closure   8 
+ 
+ 
+  
+Organizational Profile  
+102 -1 
+Name of the Organization   
+Sartorius AG  
+102 -2 
+Activities, Brands, Products, and Services  
+As a leading partner of life science research and the biopharmaceutical industry, S artorius helps its customers  
+in the development and manufacture of biotech medications and vaccines – from initial idea in the lab to  com-
+mercial -scale production. Our goal is to make complex and expensive development of biotech medicines  and 
+their producti on safer and more efficient.  We cover the entire value -added chain of the  biopharmaceutical 
+industry and help with our products and services to ensure that novel therapies  and vaccines reach the market 
+faster and are accessible to more people worldwide.  
+The Sartorius Group conducts its operating business in two divisions: Bioprocess Solutions and  Lab Prod ucts  
+& Services. The divisions each combine their respective businesses for the same fields of  application and user 
+groups, and share part of the infrastru cture and central services.  
+Strategic Focus on Biopharma Applications from Molecule Development to Production of  Biopharmaceu-
+ticals  
+ 
+In the Bioprocess Solutions Division, Sartorius offers a broad portfolio of products that focuses on all major 
+steps in th e manufacture of a biopharmaceutical, as well as in process development as prerequisite proce-
+dures. Our technologies cover, inter alia, cell line technologies, cell culture media, bioreactors, and a wide 
+range of products for separation, purification and c oncentration of biological intermediates and finished prod-
+ucts, as well as solutions for their storage and transportation. Sartorius also offers data analytics software for 
+modeling and optimizing processes of biopharmaceutical development and production.  
+ 
+ 
+Sartorius  GRI Report  2021  General Disclosure   9 
+ 
+ 
+ We provide customers with complete process solutions from a single source, as well as assist with preceding 
+project planning, process integration and subsequent validation. Our technologies are used in manufacturing 
+all classes of medical drugs, from vaccines and monoclonal antibodies to advanced viral vector -based gene 
+therapeutics.  
+The Lab  Products & Services Division addresses pharmaceutical and biotech research  laboratories as well as 
+academic research institutes. We supply scientists and laborator y staff with the  instruments and consumables 
+they need to make their research and quality control easier and faster. These contribute toward accelerating 
+the protracted timelines of  drug development and increases the efficiency of R&D labs in the biopharma ceu-
+tical industry.   
+Beyond this, the division offers a wide range of premium laboratory instruments for sample preparation – such  
+as laboratory balances, pipettes and lab water systems – as well as consumables, such as filters and  microbio-
+logical test kits . In these product categories, Sartorius has leading market positions and significant  market 
+shares. Our solutions are designed to boost the efficiency and productivity of routine yet quality -critical  lab 
+processes and industry -specific workflows .  
+102 -3 
+Location of Headquarters  
+Göttingen , Germany  
+102 -4 
+Location of Operations  
+Ove rall, Sartorius is present in 37  countries1; most employees  are located in China, Germany,  France, India, 
+Puerto Rico, Tunisia , the UK and the USA . 
+  2021  2020  
+Countries with at least one consolidated company of the Sartorius Group  37* 35    
+*Argentina, Australia, Austria, Belgium, Brazil, Canada, China, Denmark, Finland, France, Germany, Hong Kong, Hungary, India,  Ireland, 
+Israel, Italy, Japan, Malaysia, Mexico, Netherlands, Poland, Puerto Rico, Russia, Singapore, Slovenia, Spain, South Africa, Sout h Korea, 
+Sweden, Switzerland, Taiwan, Thailand, Tunisia, UK, USA, Vietnam  
+                                                                        
+1 The term "countries" includes states, provinces and territories and does not reflect any position regarding the state quality  of a region.  Sartorius  GRI Report  2021  General Disclosure   10 
+ 
+ 
+  
+102 -5 
+Ownership and Legal Form  
+Sartorius AG is  a joint stock corporation founded under German law.  
+Shareholder Structure: Ordinary Shares in %, related to ~34.2 million shares outstanding    
+Administered by an executor  ~ 55  
+Bio-Rad Laboratories Inc.  ~ 38  
+Free float  ~ 7   
+ 
+Shareholder Structure: Preference Shares in %, related to ~ 34.2 million shares outstanding    
+Free float  ~ 72  
+Treasury shares  ~ 28    
+1 Information on shareholdings and shares in free float pursuant to Sections 33 et seq. of the German Securities Trading Act (WpHG). 
+Reporting obligations refer only to ordinary shares and not to non -voting preference shares.  
+102 -6 
+Markets Served  
+Sartorius markets its products and services worldwide, especially in its European core markets France , Ger-
+many and United Kingdom as well as in the USA, China, India, Japan and South Korea.  
+Both divisions serve primarily the needs of the biopharmaceutical  industry. With its products, the division Lab 
+Products & Services furthermore addresses academic research institutes as well as quality control labs in the 
+chemical and food industries.  
+EMEA
+Austria, Belgium , Denmark , 
+Finland, France, Germany, 
+Hungary , Ireland , Israel, Italy , 
+Netherlands , Poland , Russia, 
+Slovenia,  South Africa , Spain, 
+Sweden , Switzerland , Tunisia , 
+UKAmericas
+Argentina , Brazil , Canada, 
+Mexico, Puerto Rico, USAAsia | Pacific
+Australia, China, Hong Kong, 
+India, Japan, Malaysia, 
+Singapore, South Korea, 
+Taiwan, Thailand, VietnamSite
+Production site
+Core marketSartorius  GRI Report  2021  General Disclosure   11 
+ 
+ 
+ 102 -7 
+Scale of the Organization  
+ 
+Scale of the Organization    
+  Unit  2021  2020  
+Total number of employees  Headcount  13,832  10,637  
+Total number of operations  Countries  35 35 
+Revenue  € in K  3,449,222  2,335,657  
+Sales revenue Bioprocess Solutions  € in K  2,727,000  1,782,622  
+Sales revenue Lab Products & Services  € in K  722,200  553,035  
+Equity  € in K  1,720,196  1,380,295  
+Non -current liabilities  € in K  2,430,572  2,233,359  
+Current liabilities  € in K  1,547,164  4,484,744      
+ 
+Assets    
+€ in K  31.12.2021  31.12.2020  
+Non -current assets  3,901,130  3,275,431  
+Current assets  5,697,932  4,484,744     
+ 
+Beneficial ownership  
+The beneficial ownership, including the identity and percentage of ownership of the largest shareholder, are 
+described under  102 -5. 
+Sales Revenues by Regions and Countries    
+€ in K  2021  2020  
+EMEA  1,411,015  935,078  
+Of which Germany  317,958  210,205  
+Of which France  125,715  96,075  
+Americas  1,141,217  812,212  
+Of which USA  1,061,711  755,263  
+Asia | Pacific  896,990  588,368  
+Of which China  378,713  224,198  
+Of which South Korea  161,854  130,325     
+ Sartorius  GRI Report  2021  General Disclosure   12 
+ 
+ 
+ Employees by Region and Country1   
+Region  Country  Headcount  Share of total 
+headcount  
+EMEA  Belgium  51 0.4%  
+  Germany  4,637  33.5%  
+  Finland  304  2.2%  
+  France  1,402  10.1%  
+  Ireland  17 0.1%  
+  Israel  228  1.6%  
+  Italy  72 0.5%  
+  Netherlands  32 0.2%  
+  Austria  21 0.2%  
+  Poland  18 0.1%  
+  Russia  128 0.9%  
+  Sweden  87 0.6%  
+  Switzerland  122 0.9%  
+  Slovenia  163 1.2%  
+  Spain  57 0.4%  
+  Tunisia  691 5.0%  
+  Hungary  13 0.1%  
+  UK 978  7.1%  
+EMEA Total    9,021  65.3%  
+Americas  Argentina  49 0.4%  
+  Brazil  46 0.3%  
+  Canada  31 0.2%  
+  Mexico  81 0.6%  
+  Puerto Rico  1,158  8.4%  
+  USA  1,427  10.3%  
+Americas Total    2,792  20.2%  
+Asia | Pacific  Australia  36 0.3%  
+  China  837  6.1%  
+  Hong Kong  6 0.0%  
+  India  631 4.6%  
+  Japan  138 1.0%  
+  Malaysia  14 0.1%  
+  Singapore  103  0.7%  
+  South Korea  33 0.2%  
+  Taiwan, China  16 0.1%  
+  Thailand  7 0.1%  
+  Vietnam  189 1.4%  
+ Asia | Pacific Total    2,010  14.5%  
+Total    13,823  100%      
+1 Reports for 2021.   Sartorius  GRI Report  2021  General Disclosure   13 
+ 
+ 
+ 102 -8 
+Information on Employees and Other Workers  
+ 
+Employees by Employment Contract by Gender1, 2   
+  Unlimited 
+contract  Limited contract  Total  
+Female  4,727  707  5,434  
+Male  7,541  857  8,398  
+Total  12,268  1,564  13,832      
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+Employees by Employment Contract by Region1, 2   
+  Unlimited 
+contract  Limited contract  Total  
+EMEA  8,133  897  9,030  
+Americas  2,787  5 2,792  
+Asia | Pacific  1,348  662  2,010  
+Total  12,268  1,564  13,832      
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+Employees by Employment Type by Gender1, 2   
+  Full -time  Part -time  Total  
+Female  4,828  606  5,434  
+Male  8,031  367  8,398  
+Total  12,859  973  13,832      
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+Workers That Are Not Employees by Region1, 2   
+  Other employees3 Contingent work-
+ers4 Total  
+EMEA  502  1161  1,663  
+Americas  9 392  401  
+Asia | Pacific  8 189 197 
+Total  519           1,742  2,261      
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+3 Paid by Sartorius Payroll (apprentices, interns).  
+4 Paid by Finance (office workers, factory staff).  
+102 -9 
+Supply Chain  
+Respect for human rights, the maintenance of high environmental standards and good, safe and fair working 
+conditions for the production of our products is important to us, and apply to sites outside our own production 
+as well. With more than 8,000 suppliers in more than 40 countries and a purchasing volume that corresponds Sartorius  GRI Report  2021  General Disclosure   14 
+ 
+ 
+ to about 40% of our sales revenue1, it is obvious that our upstream supply chain is important fo r us to imple-
+ment these goals. Based on its procurement volume as a gauge, less than three  percent of its suppliers are 
+headquartered  in regions with potential conflicts regarding hum an rights issues. Around 97 per cent of the 
+company’s procurement needs ar e sourced from suppliers headquartered in an OECD country . Around 51 
+percent of its procurement volume is sourced from German companies, 15 percent from US -American com-
+panies and another 8 percent from companies headquartered in France.  
+Moreover, the valu e chains for pharmaceuticals are very sensitive and are the focus of many stakeholders. In 
+particular, patients at the end of the supply chain are dependent on their medications being available and safe 
+at all times.  
+Since January 2020, we have been verify ing suppliers’ compliance with our sustainability requirements via an 
+external evidence -based ESG assessment, as well as in -house ESG quick checks. In the year under review, we 
+have been working to set up a comprehensive risk management system and design n ew processes in order to 
+be able to meet and document the requirements of the new Supply Chain Act in the near future, but by no 
+later than 2023.  
+Our Code of Conduct for Business Partners provides the basis for collaboration with our business partners 
+throughout the Group. Our requirements with regard to the environment, social matters and governance are 
+defined in the Code. Since December 2019, ack nowledgment of the Code of Conduct is part of the ac-
+ceptance process for new suppliers. In 2020, we began systematically reviewing whether our existing suppliers 
+have acknowledged the Code and, if not, asking them to do so.  
+For suppliers who are very rele vant for our business processes and/or a high purchasing volume, we work to-
+gether with the external sustainability assessment platform EcoVadis. The external ESG assessment is based 
+on a self -assessment, a review of the associated documents and information  from external sources. EcoVadis 
+reviews 21 indicators in the areas of environment, labor and human rights, ethics and sustainable procurement.  
+Beginning in 2021, Sartorius quality auditors systematically conducted ESG quick checks within the scope of 
+all planned quality audits in the suppliers’ production plants. For this purpose, Sartorius put its sustainability 
+requirements into a questionnaire. This will be provided to suppliers before the audit. During on -site auditing 
+of suppliers’ production plants,  compliance with the requirements of our Code of Conduct for Business Part-
+ners is reviewed on the basis of the questionnaire.  
+The objective of all measures is to initiate actual improvements in the working, social and environmental stand-
+ards of our suppli ers. Sartorius Management is involved in shaping the process via the Corporate Sustainability 
+Steering Committee and is informed about the progress being made.  
+We do not establish business relationships with suppliers where we see a considerable risk of child, forced or 
+mandatory labor, other breaches of human rights or negative impacts on society, and will end any existing re-
+lationships with such suppliers. This  procedure is also defined in our new process for sustainability in the supply 
+chain.  
+  
+                                                                        
+1 Revenue and purchasing volume in 202 1. Sartorius  GRI Report  2021  General Disclosure   15 
+ 
+ 
+ During the Covid -19 pandemic, we are focusing on securing our delivery capabilities. This is very important 
+considering the validated production processes of our custo mers. This is why we manage stocks of raw mate-
+rials and finished products actively and maintain high levels of safety stock.  
+102 -10 
+Significant Changes to the Organization and its Supply Chain  
+In the reporting year, Sartorius expanded its product portfolio  for cell culture media and extended its produc-
+tion network in this segment by making two acquisitions. Sartorius, through its subgroup Sartorius Stedim Bi-
+otech, acquired a majority stake in CellGenix. The company based in Freiburg, Germany, and with a sal es sub-
+sidiary near the biotechnology hub in Boston, Massachusetts, USA, produces and markets critically essential 
+cell culture components, such as growth factors, cytokines and media in GMP quality, for manufacturing cell 
+and gene therapy products. The Fre iburg site is a center of excellence for developing and manufacturing cell 
+culture components and will be further expanded. With a workforce of around 70 people, CellGenix generated 
+sales of about €20 million in 2020.  
+In addition, Sartorius through its su bgroup Sartorius Stedim Biotech acquired cell culture specialist Xell head-
+quartered in Bielefeld, Germany. Xell develops, produces, and markets media and feed supplements for cell 
+cultures, especially for manufacturing viral vectors that are used in gene t herapeutics and vaccines. Beyond 
+these media, the company offers various analytical services for characterizing, screening, and quantifying me-
+dia components, as well as for optimizing media composition. In 2021, Xell generated sales of approximately 
+€5mill ion and employed around 35 people.  
+Furthermore, in February 2022, Sartorius, through its subgroup Sartorius Stedim Biotech, completed the ac-
+quisition of the chromatography process equipment division of Novasep with sites in Pompey, northern 
+France, as wel l as in the USA, China and India. This division of approximately 100 people specializes in resin-
+based batch and intensified chromatography systems, and its product portfolio is complementary to the ex-
+isting chromatography offering.  
+On January 3, 2022, Sar torius acquired a majority stake in ALS Automated Lab Solutions to expand its bioan-
+alytics portfolio. The laboratory technology company based in Jena, Germany, develops, manufactures, and 
+markets solutions for automated analysis, selection, and isolation o f cells. With these solutions, ALS enables 
+life science customers to significantly reduce time to result and cost in cell line development and antibody 
+discovery. Sartorius initially purchased 62.5% of the shares in ALS and plans to acquire the remaining 3 7.5% in 
+2026. ALS employed around 30 people and generated sales revenue in the high single -digit million -euro 
+range in 2021.  
+The assumption of responsibility in global supply chains is also governed by a growing number of laws and 
+requirements. In particu lar, the German Act on Corporate Due Diligence in Supply Chains, which was passed 
+by the German parliament in July 2021, seeks to improve the international human rights situation by setting 
+out requirements for the responsible management of supply chains. This Act comes into effect for German 
+based companies with more than 3,000 employees on January 1, 2023.  
+102 -11 
+Precautionary Principle or Approach  
+At Sartorius, identification and management of opportunities and risks is a cross -functional component of 
+Group management.  Further information on risk management is provided in the 2021 Annual Report on pages 
+71 seq.  
+  Sartorius  GRI Report  2021  Gen eral Disclosure   16 
+ 
+ 
+ Sartorius is responsible towards its employees, the environment, and society. This responsibility must be per-
+ceived throughout the entire supply  chain. In particular, the company’s actions with regard to environmental 
+matters, employee and social aspects, anti -corruption and bribery issues and respect for human rights can lead 
+to non -financial risks. This is why Sartorius strives to consider risks  that have an impact on the company, but 
+what is more, to examine the risks Sartorius poses for its environment with its business operations as well.  
+Risks can occur especially in connection with the manufacture of sterile products used in bioprocesses, since 
+this can require the use of plastics, energy and solvents. Non -financial risks can also occur through the pro-
+curement of materials. This is why, when Sartorius is choosing partners and suppliers, it pays particular atten-
+tion that statutory and ethica l rules are complied with.  
+In the reporting year, no non -financial risks were identified that would have to be reported according to CSR -
+RUG.  
+The requirements defined in the German CSR Directive Implementation Act (CSR -RUG) are the basis of the 
+ESG risk an alysis. Sartorius aims for the greatest possible integration of risk management processes in the 
+company.  
+102 -12 
+External Initiatives  
+Sartorius supports or is committed to the following initiatives that promote sustainable development (in al-
+phabetic order ): 
+▪ Global Reporting Initiative  
+▪ UN Global Compact  
+▪ UN Sustainable Development Goals  
+102 -13 
+Membership of Associations    
+Partnerships or memberships in national and international organizations have a high strategic value for our 
+work . For example, we are acti ve in the following associations (in alphabetic order):  
+▪ AIPIA – Active & Intelligent Packaging Industry Association  
+▪ BPOG - Biophorum Operations Group  
+▪ BPSA – Bio-Process Systems Alliance  
+▪ CCRM  
+▪ Centrum für europäische Politik   
+▪ CLSA – Canadian Laboratory Suppliers Association  
+▪ DIRK – Deutscher Investor Relations Verband  
+▪ econsense  
+▪ European Plastics Pact  
+▪ HessenChemie  Sartorius  GRI Report  2021  General Disclosure   17 
+ 
+ 
+ ▪ MEDEF - Mouvement des entreprises de France  
+▪ PDA - Parenteral Drug Association  
+▪ Rx-360  
+▪ SLA – Scottish Lifescience association  
+▪ SPECTARIS - Deutscher Industrieverband für Optik, Photonik, Analysen - und Medizintechnik  
+▪ Stifterverband  
+▪ Südniedersachsen Stiftung  
+▪ Swiss Biotech Association  
+▪ VDMA  
+Strategy  
+102 -14 
+Statement from Senior Decision -Maker  
+See in this report ‘ Responsibility at Sartorius ’, page  3. 
+102 -15 
+Key Impacts, Risks, and Opportunities  
+Our corporate mission is to promote scientific progress in the life sciences, which in turn supports the devel-
+opment of new vaccines, more effective therapies and affordable medical care. Consequently, good health 
+and well -being are at the heart of our attempts to achieve more sustainability and our corporate purpose di-
+rectly addresses one of the Sustainable Development Goals.  
+The biopharmaceutical market is rapidly developing – it is an area in which scient ific breakthroughs leading to 
+new therapies occur at a high rate. At the same time, it still takes about ten years to develop a new pharma-
+ceutical drug and this remains cost -intensive. Our aim is to help our biopharmaceutical customers develop 
+and produce biopharmaceuticals more efficiently.  
+In past years, technologies from Sartorius have been used in the development and production of vaccines to 
+combat various diseases, such as Ebola, Zika and H1N1. In the reporting year, the company’s products and pro-
+cess  knowledge made a significant contribution towards fighting the COVID -19 pandemic: Sartorius is in-
+volved in most vaccine projects throughout the world.  
+Sartorius generates almost two thirds of its sales revenue with sterile products that are used in biopha rmaceu-
+tical research where they ensure the safety, efficiency and ecological compatibility of the processes. Risks can 
+occur especially in connection  with the manufacture of these  products, since this can require the use of plas-
+tics, energy and solvents. Non -financial risks can also occur through the procurement of materials. This is why, 
+when Sartorius is choosing partners and suppliers, it pays particular attention that statutory  and ethical rules 
+are complied with.  Sartorius  GRI Report  2021  General Disclosure   18 
+ 
+ 
+ Key Impacts  
+Environment  Social  Governance  
+Energy & Emissions  Good Health & Well -Being  Compliance  
+Material & Waste  Working Conditions  Supply Chain  
+Product End -of-Life  Occupational Health & Safety  Human Rights  
+  Career & Training  Anti -Corruption     
+ 
+The most important processes and advances implemented in the treatment of these topics are described in 
+the particular sections of this GRI  Report.   
+Ethic and Integrity  
+102 -16 
+Values, Principles, Standards, and Norms  of Behavior  
+Sustainability, openness, enjoyment are the values that shape our work with colleagues, customers and busi-
+ness partners alike. By incorporating them into our thoughts and actions on a daily basis, we create a positive 
+corporate culture, which is an important source of long -term economic success, lasting motivation and above -
+average performance.  
+We regard compliance with applicable laws as self -evident. Beyond this, we have set ourselves the standard of 
+managing our company with integrity.  
+We a re committed to upholding internationally recognized human and labor rights as a basis of our worldwide 
+business operations. A significant task in this regard is to create a common understanding of fair working con-
+ditions – at all our sites and in the supp ly chain.  
+The Sartorius Code of Conduct defines the requirements we place on our employees with respect to respon-
+sible conduct. The code helps employees act ethically and in accordance with the law in their daily work. In 
+everything they do, employees are  required to ask themselves the following questions: Are my actions legal? 
+Does my conduct correspond to our values and guidelines? Is it free of personal interests (that are not covered 
+by labor law regulations)? Will it stand up to public scrutiny? The C ode of Conduct covers compliance with 
+international social and environmental standards, general rules of conduct and dealing with conflicts of inter-
+est.  
+Our Code of Conduct for business partners is the basis for collaboration with our business partners through-
+out the Group. Our requirements with regard to the environment, social matters and governance are defined 
+in the Code. Since December 2019, acknowled gment of the Code of Conduct is part of the acceptance pro-
+cess for new suppliers. In 2020, we began systematically reviewing whether our existing suppliers have 
+acknowledged the Code and, if not, asking them to do so. In some cases, a supplier's similar Co de of Conduct 
+can replace our Code of Conduct.  
+102 -17 
+Mechanisms for Advice and Concerns about Ethics  
+The Sartorius Code of Conduct defines the requirements we place on our employees with respect to respon-
+sible conduct and it comprises minimum standards r elating to the law -abiding and ethical approach that all 
+Sartorius employees across the world must meet. We expect our business partners and especially our suppliers 
+to act accordingly. This is laid down in our Code of Conduct for Business Partners.  
+  Sartorius  GRI Report  2021  General Disclosure   19 
+ 
+ 
+ A co mplaint system ensures that employees and external third parties can report cases of damaging conduct, 
+such as corruption, discrimination or sexual harassment. The compliance team can be contacted face -to-face, 
+via a telephone hotline, the department’s ele ctronic mailbox or – in the case of anonymous reports – the whis-
+tleblower system. The relevant contact options are listed on the intranet and are thus available company -wide. 
+They are also available on the company’s website and can thus be accessed by exte rnal persons concerned.  
+Governance  
+102 -18 
+Governance Structure  
+With the Annual General Shareholders' Meeting, Supervisory Board and Executive Board, the Sartorius AG 
+has three corporate managerial bodies whose tasks and powers are essentially derived from the German Stock 
+Corporation Law ("Aktiengesetz") and the company's Articles of Association.  
+As owners of the company, the shareholders exercise their rights at its Annual General Shareholders' Meeting, 
+where they decide, in particular, on the appropriati on of profits, measures concerning share capital, amend-
+ments to the Articles of Association, discharge of the Supervisory Board and the Executive Board and on the 
+appointment of statutory auditors, as well as elect shareholder representatives to the Superv isory Board. The 
+Annual General Shareholders' meeting is held at least once a year within the first eight months of the respec-
+tive fiscal year.  
+In managing the company, the Supervisory Board and the Executive Board perform their tasks in a two -tier 
+board structure, each with separate duties and powers.  
+The Supervisory Board appoints members to the Executive Board, determines their remuneration and moni-
+tors and advises the Executive Board in its management of the company. The Supervisory Board is not autho r-
+ized to take any operational management measures for the busin ess. The Supervisory Board has established 
+four committees: the Executive Task Committee, the Audit Committee, the Conciliation Committee and the 
+Nomination Committee.  Further information on th e work of the Supervisory Board and its committees is pro-
+vided in the Report of the Supervisory Board.  
+The Executive Board is responsible for independently managing the company. In particular, it defines corpo-
+rate strategy, coordinates and agrees on this a pproach with the Supervisory Board and implements such cor-
+porate strategy. In line with established reporting obligations, the Executive Board regularly informs the Su-
+pervisory Board promptly and comprehensively, and requests the latter's approval for cert ain key business 
+transactions. Further information on the corporate governance is provided in the 2021 Annual Report on 
+pages 92 et seq.   
+The Corporate Responsibility Steering Committee meets at least once each year. Under the direction of the 
+CEO, senior -level managers and corporate responsibility officers discuss approaches that Sartorius could use 
+to contribute to greater sustainability.  
+102 -20 
+Executive -Level Responsibility for Economic, Environmental and Social Topics  
+The Executive Board of Sart orius AG manages the business activities of the company according to the legal 
+requirements, the Articles of Association of the company and the board’s Rules of Procedure. The members 
+of the Executive Board are jointly responsible for the management of the  company as a whole. This includes 
+economic, ecological, and social topics.  
+  Sartorius  GRI Report  2021  General Disclosure   20 
+ 
+ 
+ Corporate Responsibility as the coordinating unit for the company’s sustainability activities is part of the Cor-
+porate Communications ＆ IR Department of which the Executive Board  Chairman is in charge.  
+102 -21 
+Consulting Stakeholders on Economic, Environmental, and Social Topics  
+For further information on consulting stakeholders, see 102 -42, 102 -43, 102 -44 as well as 102 -46. 
+102 -22 
+Composition of t he Highest Governance Body and I ts Committees  
+The Sartorius Executive Board is a committee that presently consists of four members and is therefore rela-
+tively small; the establishment of a rigid gender quota can be problematic. The current four members of the 
+Executive Board of Sartorius  AG are men. The appointment of at least one woman to the Executive Board was 
+defined as a target to be met by the present deadline of June 30, 2022.  
+The Supervisory Board is composed of 12 members and has an equal n umber of shareholder representa tives 
+and  employee representatives. Seven men total (around 58%) are members of this board, of whom four are 
+shareholder representatives and three employee representatives. In addition, five women (around 42%) are 
+members of this board, among them two representativ es of t he share owners and three repre sentatives of the 
+employees.  
+In the opinion of the shareholder representatives on the Supervisory Board, Prof. Dr. David Ebsworth, Dr.  Dan-
+iela Favoccia, Ilke Hildegard Panzer, Prof. Dr. Thomas Scheper and Prof. Dr. Kl aus Rüdiger Trützschler are  in-
+dependent members of the Supervisory Board. As the executor for the community of heirs of Horst Sartorius,  
+Dr. Lothar Kappich is to be regarded as dependent upon the controlling shareholder. However, despite the  
+fact that Dr. Kappich has served on the Supervisory Board since April 2007 and has thus been a member for  
+more than 12 years, the shareholders on the Supervisory Board regard him as independent of the company  
+and its Executive Board. Thus, a Supervisory Board membership  of many years alone should not, in this case,  
+lead to the fear of a personal or business relationship with the company or its Executive Board that would justify  
+a significant and not merely temporary conflict of interest. In particular, the circumstance t hat Dr. Kappich  rep-
+resents the majority of the voting rights in the company counters the presumption of his dependence on  the 
+company and its Executive Board.  
+The Executive Task Committee, Audit Committee and Conciliation Committee each have four members and 
+have an equal number of shareholder representatives and employee representatives. The Nomination Com-
+mittee is comprised of representatives of the shareholders only.  
+An overview of the names of the members of the Executive Board, the Supervisory Board a nd of the latter's 
+committees, including information on other internal and external Group positions held by these indi viduals, is 
+provided in the 2021 Annual Report on pages 239  et seq.  
+102 -23 
+Chair of the Highest Governance Body  
+Dr. Lothar Kappich was Cha irman of the Supervisory Board throughout the entire reporting period. He is nei-
+ther an active member of the Executive Board of Sartorius AG nor a former member of this board . During the 
+same period, , Dr. Joachim Kreuzburg was the Executive Board Chairman and CEO .  
+102 -24 
+Nominating and Selecting the Highest Governance Body  
+The election of the Supervisory Board members is conducted separately for the shareholder representatives 
+and the employee representatives. The six employee representatives are elected a ccording to the German 
+Codetermi nation Law ("Mitbestimmungsgesetz") and the six shareowner representatives are elected by the 
+Annual General Sharehol ders' Meeting. The Nomination Committee, which is comprised of representatives of Sartorius  GRI Report  2021  General Disclosure   21 
+ 
+ 
+ the shareholders only, sh all propose suitable candidates to the Supervisory Board for the latter’s election pro-
+posals submitted to the  Annual Shareholders’ Meeting. The Annual Shareholders‘ Meeting is not bound by 
+the proposals for the election of the shareholder representatives t o the Supervisory Board.  
+Members of the Supervisory Board of Sartorius AG are to be appointed such that they, on the whole, have the 
+knowledge, skills and experience that are necessary to perform the board's duties properly. This includes 
+among other aspe cts that independent members shall account for no less than 25% of the Supervisory Board.  
+In addition, the Supervisory Board also defined a competence profile for itself. This also covers aspects such 
+as diversity, for example, with regard to professional  background and international experience. In view of 
+achieving an appropriate gender balance, the legal quotas of at least 30% women and at least 30% men apply 
+to the Sartorius Supervisory Board. The shareholder representatives and the employee representat ives de-
+cided to fulfill these legal targets separately.  
+Further information on the objectives for appointments to the Supervisory Board, the diversity policy  and the 
+competence  profile is provided in the 2021 Annual Report on pages 94  et seq.  
+The Supervisory Board appoints members to the Executive Board. In the opinion of the Supervisory Board, the 
+basic qualification criteria for appointments to positions on the Executive Board are professional qualifications 
+for heading each particular area o f responsibility, a proven track record in the individual’s career path and con-
+vincing managerial skills. In addition, the Supervisory Board also considers the aspect of diversity in its appoint-
+ment decisions. Therefore, the Supervisory Board strives to ap point people with complementary profiles, pro-
+fessional and personal life experiences and in different age brackets to the Executive Board. Moreover, the 
+latter board is required to have broad internatio nal experience.  
+102 -25 
+Conflicts of Interest  
+Accordin g to the requirements of the German Corporate Governance Code (GCGC), which Sartorius fully 
+complies with  in its current version of December 16, 2019 , members of the Executive Board and the Supervi-
+sory Board are required to disclose conflicts of interest t o the Supervisory Board without undue delay. The 
+GCGC also stipulates that the Supervisory Board must inform the Executive Board in its report to the Annual 
+Shareholders' Meeting about any conflicts of interest that have occurred and how they were handled.  Further-
+more, the Rules of Procedure of the Supervisory Board of Sartorius AG require that each member of the Su-
+pervisory Board disclose conflicts of interest to the Chairman without undue delay.  
+Further internal and external Group positions of the Executi ve Board and of the Supervisory  Board are dis-
+closed in the 2021 Annual Report on pages 237 et seq . The brief curricula vitae of these members are addition-
+ally published on the company’s website, and the ownership structure of Sartorius AG is described unde r 102 -
+5. Share trading activities of Supervisory and Executive Board members as related persons are discussed in the 
+2020 Annual Report on page 103 . Likewise, further information on related companies and persons is given in 
+the 2021 Annual Report on page 2 22. 
+102 -29 
+Identifying and Managing Economic, Environmental, and Social Impacts  
+The Supervisory Board advises and supervises the Executive Board on the management of the company. This 
+covers economic, ecological and social impacts.  
+The Non -Financial Group  Statement is submitted to the Supervisory Board as the highest -level governance 
+body and contains non -financial topics and indicators that are key for Sartorius.  Sartorius  GRI Report  2021  General Disclosure   22 
+ 
+ 
+ 102 -30 
+Effectiveness of Risk Management Processes  
+Overall responsibility for the maintenance  of an effective risk manag ement system ensuring comprehen sive 
+and consistent management of all material risks rests with the Executive Board. The Finance & Controlling 
+Department is responsible for coordinating and developing this system and for consolida ted risk reporting, 
+while the particular functional areas are responsible for identifying, analyzing and reporting individual risks, as 
+well as for assessing their potential impact and taking the appropriate countermeasures. With regard to CSR 
+risks, the F inance & Controlling Department is supported by the Corporate Responsibility unit.  
+Sartorius  is responsible towards its employees, the environment, and society. This responsibility must be per-
+ceived throughout the entire supply chain. In particular, the co mpany’s actions with regard to environmental 
+matters, employee and social aspects, anti -corruption and bribery issues and respect for human rights can lead 
+to non -financial risks. This is why Sartorius  strives to consider risks that have an impact on the company, but 
+what is more, to examine the risks Sartorius  poses for its environment with its business operations as well.  
+Risks can occur especially in connection with the manufacture of sterile product s used in bioprocesses, since 
+this can require the use of plastics, energy and solvents. Non -financial risks can also occur through the pro-
+curement of materials. This is why, when Sartorius  is choosing partners and suppliers, it pays particular atten-
+tion t hat statutory and ethical rules are complied with.  
+In the reporting year, no non -financial risks were identified that would have to be reported according to CSR -
+RUG.  
+The requirements defined in the German CSR Directive Implementation Act (CSR -RUG) are the basis of the 
+ESG risk analysis. Sartorius  aims for the greatest possible integration of risk management processes in the 
+company.  
+The Supervisory Board of Sartorius AG monitors the effectiveness of the risk management system, with the 
+preparatory work bei ng performed by the Audit Committee of this board. While carrying out their statutory 
+audit mandate for the annual financial statements and consolidated financial statements, the independent 
+auditors assess whether the early warning system in place is capa ble of prompt identification of risks that could 
+jeopardize the future of the company. Finally, the Internal Audit Department regularly reviews the risk man-
+agement process and system. For f urther information, see the 2021 Annual Report, pages 71 et seq.  
+102-31 
+Review of Economic, Environmental, and Social Topics  
+The Supervisory Board reviewed the Non -Financial Group Statement included  in the company’s Annual Re-
+port.  
+102 -32 
+Highest Governance Body’s Role in Sustainability Reporting  
+The Non -Financial  Group  Statement contained in this Annual Report was reviewed by the Supervisory Board.  
+102 -33 
+Communicating Critical Concerns  
+Critical concerns are communicated to the Supervisory Board in several procedural ways. The Audit Commit-
+tee meets once a year and revi ews the report of Internal Auditing; additionally, the Risk Management unit reg-
+ularly reports on risk to this committee. Furthermore, the Chief Compliance Officer and the Chairman of the 
+Audit Committee remain in regular contact to exchange information.  Sartorius  GRI Report  2021  General Disclosure   23 
+ 
+ 
+ 102-35 
+Remuneration Policies  
+The Remuneration Report in the 2021 Annual Report on pages 100 et seq . contains information on the remu-
+neration policy in place for the Executive Board and the Supervisory Board, including disclosures on perfor-
+mance -based remuner ation for the Executive Board, multi -year components intended to have a long -term 
+incentive, pension commitments and on severance caps. In this section, information is provided as required by 
+the German Corporate Governance Code (GCGC).  
+102 -36 
+Process for  Determining Remuneration  
+The remuneration policy for the Executive Board aims to remunerate the members of the Executive Board 
+appropriately in line with their tasks and responsibilities and to directly consider the performance of each 
+member of the Execu tive Board and the success of the company. Accordingly, the remuneration policy in-
+cludes fixed remuneration components as well as short - and long -term variable remuneration components.  
+The company strategy is aimed at achieving profitable growth and a sustained, long -term increase in the value  
+of the company. This strategy is the basis from which the structure of the remuneration policy is derived for  
+the Executive Board of Sartorius AG: The short -term variable remuneration depends on annual corporate  tar-
+gets that are aligned with key performance indicators for profitable growth of the company. Long -term  remu-
+neration depends on a corporate goal that reflects the sustainable and long -term growth of the company  and 
+the Group, on the one hand, and on the lo ng-term performance of the share price, which directly reflects  the 
+development of the company's value, on the other. As a result, the company’s remuneration policy creates  
+incentives to promote the long -term and positive sustainable development of the com pany.  Further inf or-
+mation is available in the 2021 Annual  Report on pages  109 et seq.  
+The Supervisory Board establishes and regularly reviews the remuneration policy for the Executive Board. The  
+Executive Task Committee of the Supervisory Board prepares th e remuneration policy for approval by the full  
+Supervisory Board and makes the respective suggestions.  In the process, the Supervisory Board also reviews 
+the appropriateness of such remuneration in comparison  to the remuneration of the Executive Board with in 
+the peer group of the company (horizontal  appropriateness). The peer group is defined by the Supervisory 
+Board and/or its Executive Task Committee . and is adapted as necessary.  Further inf ormation on the peer 
+group is available in the 2021 Annual  Report  on page 110  et seq . 
+In establishing the remuneration for the Executive Board members, the Supervisory Board further considers 
+both the compensation of senior management and that of the remaining workforce in relation to the German 
+Group companies (vertica l appropriateness). For these purposes, the Supervisory Board defines senior man-
+agement as the group of executives of the first two management levels below the Executive Board. The Su-
+pervisory Board looks not only at the current compensation ratio, but als o at how it has developed over time.  
+If necessary, the Supervisory Board will engage an independen t compensation consultant to re view vertical 
+and horizontal appropriateness; this was last done in 2018. Furthermore, the Supervisory Board also takes into 
+account the requirements of the German Corporate Governance Code when determining and reviewing the 
+remuneration of the Executive Board.  
+Any conflict of interest in the establishment, implementation and review of the remuneration policy shall be 
+treated by the Supervisory Board in the same way as other conflicts of interest in the person of a Supervisory 
+Board member. The Supervisory Board member concerned is therefore required to disclose any conflict of 
+interest to the Chairman of the Supervisory Board and  will not participate in the adoption of resolutions or in 
+the deliberations concerned. Disclosure of any conflicts of interest at an early stage ensures that the decisions 
+of the Supervisory Board are not influenced by inappropriate considerations . Sartorius  GRI Report  2021  General Disclosure   24 
+ 
+ 
+ 102 -38 
+Annual Total Compensation Ratio  
+ 
+Annual Total Compensation Ratio1, 2, 3, 4   
+Country  Highest -paid indi-
+vidual to median 
+in each country  
+China  9.55  
+Germany  13.46  
+France  11.10  
+India  13.02  
+Puerto Rico  13.52  
+Tunisia  22.43  
+USA  3.40  
+UK 4.61  
+Group5 16.87    
+1 Reports for 2021.  
+2 Annua l total compensation is defined as the sum of the annual base salary and the annual bonus target amount. For part -time em-
+ployees the total compensation target is calculated up to one full -time equivalent.   
+3 In countries with large facilities in terms of the number of employees.  
+4 We consider employees, whose salary is paid out in the standard local currency.  
+5 Calculated in euro.  
+Stakeholder Engagement  
+102 -40 
+List of Stakeholder Groups   
+Our stakeholders are our customers, employees, investors, suppliers and business partners, as well as neigh-
+boring companies and local residents.  Sartorius  GRI Report  2021  General Disclosure   25 
+ 
+ 
+ 102 -41 
+Collective Bargaining Agreements  
+Employees Covered by Collective Bargaining Agreements1, 2   
+Region  Country  Employees cov-
+ered by  collective 
+bargaining agree-
+ments  
+EMEA  Belgium  100%  
+  Germany  84%  
+  Finland  96%  
+  France  100%  
+  Ireland  0% 
+  Israel  0% 
+  Italy  100%  
+  Netherlands  0% 
+  Austria  0% 
+  Poland  0% 
+  Russia  0% 
+  Sweden  100%  
+  Switzerland  0% 
+  Slovenia  0% 
+  Spain  100%  
+  Tunisia  70%  
+  Hungary  0% 
+  UK 0% 
+EMEA Total    70%  
+Americas  Argentina  37%  
+  Brazil  100%  
+  Canada  0% 
+  Mexico  0% 
+  Puerto Rico  75%  
+  USA  0% 
+Americas Total    33%  
+Asia | Pacific  Australia  0% 
+  China  0% 
+  Hong Kong  0% 
+  India  13%  
+  Japan  0% 
+  Malaysia  0% 
+  Singapore  0% 
+  South Korea  0% 
+  Taiwan, China  0% 
+  Thailand  0% 
+  Vietnam  0% 
+ Asia | Pacific Total    4% 
+Total    53%     
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  Sartorius  GRI Report  2021  General Disclosure   26 
+ 
+ 
+ 102 -42 
+Identifying and Selecting Stakeholders  
+We define stakeholders as those persons, companies, institutions and interest groups that  are able to influ-
+ence the success of the Sartorius Group or are affected by the actions of our company.  
+102 -43 
+Approach to Stakeholder Engagement  
+Sartorius engages in a very close, ongoing dialog with its stakeholders, using this exchange to regularly dis cuss 
+aspects of sustainability.  
+In the reporting year, we had intensive discussions about the subject of sustainability with our customers. Dur-
+ing many meetings, we discussed the expectations of our customers and started cooperation projects. To get 
+a comprehensive overview in this regar d, in collaboration with a market research institute we wrote to more 
+than 70 customers, asking them how they perceived Sartorius ’ contributions towards sustainability and also to 
+tell us about their expectations.  
+In the reporting year, Sartorius  strength ened its dialog with its own staff with two major surveys involving em-
+ployees. We set up a section on the Intranet specifically dealing with the topic of sustainability.  
+In November, Sartorius  once again took part in the ESG -SRI Conference of Société Génér ale. In March, the 
+German Stock Exchange presented the new sustainability index DAX 50 ESG. The index tracks the perfor-
+mance of the fifty largest and most liquid German stocks that have particularly sustainable business practices 
+based on the Environmental , Social and Governance criteria. Sartorius  is included in the DAX 50 ESG.  
+The results of the stakeholder dialog were discussed in the Corporate Responsibility Steering Committee and, 
+in this way, are taken into account in Sartorius ’ strategy process.  
+Sartorius  participates in sustainability analyses and ratings to gauge its performance with respect to its envi-
+ronmental, social and governance -related business practices. In the EcoVadis Rating, Sartorius  achieved silver 
+level and, with this score, positione d itself among the best 19 percent of the companies assessed. Sartorius  was 
+given an A in the MSCI Sustainability Rating.  
+102 -44 
+Key Topics and Concerns Raised  
+In 2017, we as ked our stakeholders about m any key topics and concerns and prioritized the latter  in our mate-
+riality analysis. The results of this analysis form the basis for the content reported. See al so 102 -46. 
+Reporting Practice  
+102 -45 
+Entities Included in the Consolidated Financial Statements  
+See the list in the 2021 Annual Report on pages 173  et seq.  
+  Sartorius  GRI Report  2021  General Disclosure   27 
+ 
+ 
+ 102 -46 
+Defining Report Content and Topic Boundaries  
+In defining the materiality of our GRI  Report, we used the definitions of the Global Reporting Initiative (GRI) 
+as guidance. According to these terms, topics need to be treated that show the e ssential economic, ecological 
+and social impacts of an organization or substantially affect the assessments and decisions of the stakeholders.  
+We conducted a comprehensive materiality analysis in 2017 to determine the material topics for the business 
+activ ities of the Sartorius Group. Further information on the company’s materiality analysis is provide d in the 
+2017 Annual Report, pages  88 et seq., as part of the Non -Financial Statement of the Group.  
+For reporting in the year under review, we assessed discussions with customers and investors, taking into ac-
+count the views of managers in Sales, Product Marketing, Purchasing, Quality Management, Legal & Compli-
+ance, Corporate Communications as well as Research and Development and Produ ction. The Executive Board 
+confirmed the results of this process.  
+Unless ot herwise indicated, the employee -related data covers all Sartorius companies. Unless otherwise spec-
+ified, the environmental indicators encompass all our production companies, representing 7 7% of the tota l 
+headcount.  
+102 -47 
+List of Material Topics  
+ 
+Material topics  Assigned contents a ccording to GRI  
+Innovation & Social Contribution  Innovation & Social Contribution  
+  203 Indirect Economic Impacts  
+Employees  401 Employment  
+  403 Occupational Health and Safety  
+  404 Training and Education  
+  405 Diversity and Equal Opportunity  
+  406 Non -Discrimination  
+Responsible Business Practices  205 Corruption  
+  206 Anti -Competitive Behavior  
+ 307 Environmental Compliance  
+  308 Supplier Environmental Assessment  
+ 412 Human Rights Assessment  
+  414 Supplier Social Assessment  
+  415 Public Policy  
+  419 Socioeconomic Compliance  
+Environment  301 Materials  
+  302 Energy  
+  303 Water and Effluents  
+  305 Emissions  
+  306 Waste  
+ Product Stewardship    
+ 
+102 -48 
+Restatement of Information  
+No information  Sartorius  GRI Report  2021  General Disclosure   28 
+ 
+ 
+ 102 -49  
+Changes in Reporting  
+No information  
+102 -50 
+Reporting Period  
+The reporting period of the GRI  Report is the fiscal year from January 1 to December 31.  The editorial deadline 
+was on  31.03.2022  
+102 -51 
+Date of  Most Recent Report  
+May 2021  
+102 -52 
+Reporting Cycle  
+The reporting cycle is annual.  
+102 -53 
+Contact Point for Questions Regarding the Report  
+Katharina Tillmanns -Pelzer  
+Head of Corporate Sustainability  
+ 
+Phone: +49.551.308.2893  
+E-mail: katharina.tillmanns@sartorius.com  
+ 
+Sartorius Corporate Administration GmbH  
+Otto -Brenner -Straße 20  
+37079 Goe ttingen, Germany  
+www.sartorius.com/en/company/corporate -responsibility  
+102 -54 
+Claims of Reporting in Accordance with  the GRI Standards  
+This report has been prepared in accordance with the GRI Standards: Core option.  
+102 -55 
+GRI Content Index  
+To ensure a better overview and comparability, the structure of our GRI  Report exactly follows the GRI Stand-
+ards. See also GRI Con tent Index at the end of this GRI  Report  for a detailed overview.  
+102 -56 
+External Assurance  
+Withi n the scope of a review of the Non -Financial  Group  Statement, the certified independent auditing com-
+pany KPMG assessed the items  in blue font  in the form of an  audit with limited assurance. The audit was con-
+ducted in accordance with the International Standard on Assurance Engagements (ISAE) 3000 Revised. On 
+the basis of this review, KPMG issued an unqualified opinion. Further information on the independence of t he 
+auditing firm, on the practitioner’s responsibility and the conclusion is provided in the 2021 Annual Report of 
+the Sartorius AG, pages 122 et seq.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+200  Economic Standards  Sartorius  GRI Report  2021  Economic Standards   30 
+ 
+ 203 Indirect Economic Impacts  
+103  
+Management Approach  
+Our business activities have a variety of positive effects on the development of the cities and communities in 
+whic h we operate, mostly on a long -term basis. At our main manufacturing sites, in particular, we are among 
+the largest private employers and clients locally and therefore contribute toward increasing growth and pur-
+chasing power.  
+203 -2 
+Significant Indirect Economic Impacts  
+Many large production facilities of Sartorius are located in small to mid -size cities and communities, and are 
+among the most important employers there, such as in Göttingen, Germany; Aubagne, France; and Yauco, 
+Puerto Rico. At our Group h eadquarters in the university city of Göttingen, Sartorius wi th its workforce of more 
+than 3,3 00 people is the largest private employer in this area. Also in the rural region in nearby Guxhagen, the 
+company is of key importance to the local economy.  
+In Au bagne, a city with a population of around 45,000, for example, we offer attractive long -term jobs to more 
+than 1,000  people. As a member of the large French employers’ federation MEDEF, Sartorius works closely 
+with national and local institutions to help i mprove the employment market situation. Our expanded plant in 
+Yauco p rovides employment for also more than 1,000  people directly at Sartorius and many  additional people 
+at local service providers and suppliers, such as for maintenance of our site machinery  and buildings and for 
+our plant security.  
+205 Anti -Corruption  
+103  
+Management Approach  
+We regard compliance with applicable laws as self -evident. Beyond this, we have set ourselves the standard of 
+managing our company with integrity.  
+We are committed to up holding internationally recognized human and labor rights as a basis of our worldwide 
+business operations. A significant task in this regard is to create a common understanding of fair working con-
+ditions – at all our sites and in the supply chain.  
+Sartoriu s conducts its business in compliance with globally accepted ethi cal standards and applicable na tional 
+legal requirements. The German Corporate Governance Code defines requirements for manage ment boards 
+and supervisory boards including their interaction wi th regard to transparency, accounting and auditing and 
+the conduct of annual general meetings. Legal & Compliance reports to the CEO and informs the Supervisory 
+Board in the Audit Committee. Sartorius follows the rules and recommendations of the German Cor porate 
+Governance Code in its current version of  December 16, 2019 .  
+Our globally applicable compliance management system is intended to ensure that our Supervisory and Ex-
+ecutive Board members, management and employees comply with all legal regulations and codes, and act 
+according to our internal guidelines. The Legal Affai rs & Compliance department is responsible for legal con-
+sulting, internal auditing, corporate security, data protection, anti -corruption, customs and export control.  
+  Sartorius  GRI Report  2021  Economic Standards   31 
+ 
+ A dedicated team has the task of the implementing and enforcing all Group compliance top ics. The Anti -Cor-
+ruption Code forms the basis for raising employee awareness about corruption risks. It is also a guideline, in-
+struction manual and aid in taking the necessary action to both prevent and fight corruption at specific com-
+panies or in specific  sectors. An anticorruption officer has been appointed by Group management as a contact 
+person for corruption prevention. This officer pursues his or her duties independently.  
+We ensure that our employees are familiar with the Anti -Corruption Code and the  Code of Conduct by asking 
+all employees worldwide every year to take part in an online training course and complete a test at the end of 
+it. The course teaches employees how to deal with ethically or legally problematic situations.  
+A complaint system ensu res that employees and external third parties can report cases of damaging conduct, 
+such as corruption, discrimination or sexual harassment. The compliance team can be contacted face -to-face, 
+via a telephone hotline, the department’s electronic mailbox or – in the case of anonymous reports – the whis-
+tleblower system. The relevant contact options are listed on the intranet and are thus published companywide. 
+They are also available on the company’s website and can thus be accessed by external persons concern ed.  
+A Global Regulatory Affairs Committee – comprising representatives from Compliance, Regulatory Affairs, 
+Quality, Product Development, Procurement, EHS, Corporate Sustainability and others – meets regularly, 
+monitors new legislative initiatives on an i nterdepartmental basis and puts corresponding structures in place 
+within the company.  
+205 -2 
+Communications and Training about Anti -Corruption Policies and Procedures  
+Durin g the period under review, 3,530  employees from 33 countries completed training for t he Anti - Corrup-
+tion Code and 3,5 92 employees from 32  countries completed training for the Code of Conduct. The hours 
+spe nt on training amounted to 2,155  for the Code of Conduct and 2,118  for the Anti -Corruption Code. Com-
+pliance training course are currentl y available in German, English, French and Chinese.  
+205 -3 
+Confirmed Incidents of Corruption and Actions Taken  
+Three suspected corruption cases were reported, two of which are currently under  investigation, while the 
+third is considered  to be unsubstantiated.  
+  Sartorius  GRI Report  2021  Economic S tandards   32 
+ 
+ 206 Anti -Competitive Behavior  
+103  
+Management Approach  
+For information on our management approac h regarding compliance, see 205 . 
+206 -1 
+Legal Actions for Anti -Competitive Behavior, Anti -Trust, and Monopoly Practices  
+No significant fines or non -monetary penalties resulting from violations of laws or regulations were imposed in 
+the reporting year.  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+300  Environmental Standards   Sartorius  GRI Report  2021  Environmental Standards   34 
+ 
+ 302 E nergy  
+103  
+Management Approach  
+Ongoing climate change already poses a genuine threat to life on our planet. Therefore, halting climate 
+change is a challenge for society as a whole. The heads of state and government of European Union member 
+states agreed in December 2020 to reduce intern al EU greenhouse gas emissions by at least 55% compared 
+to 1990 levels by 2030. The European Green Deal also sets a target of EU -wide net zero greenhouse gases by 
+2050.  
+Measured in CO 2 equivalents, global greenhouse gas emissions amounted to some 50 billi on metric tons in 
+2019. According to statistics provided by the World Health Organization, the health care sector accounted for 
+four to five percent of this figure. With attributable emissions totaling some 450,0001 metric tons of CO 2 
+equivalents in 2019, Sartorius makes up a share of about 0.025% of total emissions of the global health care 
+sector and therefore only has a minor influence. Nonetheless, we see it as our duty to contribute to the attain-
+ment of climate targets and will make substantial efforts  in this regard, both at our sites worldwide and in our 
+value chain.  
+As a leading partner of the biopharmaceutical industry, we contribute to achieving the Sustainable Develop-
+ment Goal number three, “Good Health and Well -Being.” In the future, we aim to co ntinue growing strongly 
+while substantially lowering our carbon footprint. In our opinion, it is therefore appropriate to focus on CO 2 
+emission intensity when formulating emissions targets as this indicator enables a comparison of the CO 2 emis-
+sions of vari ous companies as well as with economic and international indicators and targets. Correspondingly, 
+our new climate target is to reduce CO 2 emission intensity. For Sartorius, the CO 2 emission intensity – defined 
+as the emissions volume in relation to revenue  – stood at approx. 250 g/€1 in the base year 2019.  
+We always seek to set targets that are not only ambitious, but that are also realistic and transparent. In respect 
+of our CO 2 emission intensity, we aim to achieve an average reduction of approx. 10% per  annum. As such, we 
+are exceeding the ambitious levels of the European Union and the Science Based Targets initiative, which have 
+set targets of approx. 8.5% and 7% respectively.  
+In order to achieve this reduction, we are focusing on avoiding emissions and on improving the efficiency of 
+processes associated with relevant emissions. This includes emissions generated at our sites, emissions in the 
+upstream and downstream value chain,  and switching to emission -free energy sources wherever possible.  
+The offsetting of emissions, on the other hand, is currently not an area of emphasis, as we regard an actual 
+reduction as more important.  
+Reducing greenhouse gas emissions is a challenge t hat can only be met through shared endeavors on the part 
+of everyone involved in the value chain, paying due regard to existing interdependencies. When developing 
+our climate targets, it was therefore important to us to create transparency in respect of ex isting interactions, 
+make any necessary assumptions with care and communicate them openly.  
+To this end, we once again compiled a detailed breakdown of our carbon footprint as a basis for our targets in 
+the year under review. For consistency reasons, this r efined footprint is based on emission data from 2019, the 
+basis year of our current climate strategy. Approximately 10% of the calculated total emissions of roughly 
+450,000 metric tons of CO 2 equivalents fall within Scopes 1 and 2, i.e. emissions generated  directly within the 
+1 These are own or externally conducted modeling/estimates, which are not ba sed on scientifically founded emission calculations.  Sartorius  GRI Report  2021  Environmental Standards   35 
+ 
+ company and emissions from purchased energy such as electricity and gas. The other 90% or so of emissions 
+are generated in the upstream/downstream value chain, meaning that they are either mostly or partly within 
+the sphere of influenc e of suppliers, transport contractors, and customers. Sartorius is able to influence just 
+under half of these emissions, with the level of influence depending on the individual circumstances con-
+cerned.  
+For companies across all sectors, the calculation of Scope 3 emissions, in particular, is currently subject to fun-
+damental uncertainties and dependent on a series of assumptions and estimates. Ever more accurate calcu-
+lations by virtue of improved data quality represent a central plank of our approach. This r elates not only to 
+information on the carbon footprint of our suppliers, but also on the usage phase of our products and their life 
+cycle end. To ensure comparability of data over time, the ongoing improvements in calculation accuracy may 
+result in retrosp ective adjustments to reported figures.  
+302 -1 
+Energy Consumption Within the Organization  
+ 
+Energy Consumption1   
+  2021  2020  
+Total energy consumption in MWh  162,341  132,065  
+Direct energy consumption in MWh  59,301  55,444  
+Electricity consumption from public grid in MWh  50,020  70,951  
+Certified green electricity in MWh  43,743  0 
+Others in MWh  9,277  5,670     
+1 Production sites acquired  during the year are not counted and, in line with the reporting guideline, will be included in the report next 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Germany). Sartorius Stedim Data Analytics (Swed en) is 
+not counted,  as it is an IT company that does not produce any goods.  
+2 There was a minor adjustment to the energy values for 2019 resulting from an incorrect allocation and calculation.  
+  Sartorius  GRI Report  2021  Environmental Standards   36 
+ 
+ Energy Consumption by Energy Carrier1   
+  2021  2020  
+Total energy consumption in MWh  162,340  132,065  
+Fuel consumption from non -renewable sources in MWh  59,301  55,444  
+of which natural gas in MWh  52,464  51,322  
+of which liquified petroleum gas (LPG) in MWh  751 216 
+of which heating oil in MWh  1,129  1,179  
+of which diesel  in MWh  4,957  2,726  
+Electricity consumption in MWh  94,542  71,656  
+of which conventional electricity from public grid in MWh  50,020  70,951  
+og which certified green electricity  43,743  0 
+of which solar power (self -generated) in MWh  779 705  
+Heating consumption in MWh  6,968  4,617  
+of which district heating in MWh  6,261  4,037  
+of which geothermal energy in MWh  707  580  
+Cooling consumption in MWh  1,530  348     
+1 Production sites acquired during the year are not counted and, in line with the reporting guideline, will be included in th e report n ext 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Germany). Sartorius Stedim Data Analytics (Swed en) is 
+not counted, as it is an IT company that does not produce any goods.  
+302 -3 
+Energy Intensity  
+ 
+1 The energy intensity ratio is calculated by dividing the total e nergy consumption including fuel, electricity, heating and self -gener-
+ated solar en ergy in MWh of production sites by annual sales  in millions  of euros . Production sites acquired during the yea r are not 
+counted and, in line with the reporting guideline, will be included in the report next year. This includes the production sit es in Aj-
+dovščina (Slovenia), Cergy (France), Fremont (USA), Hopkinton (USA), Marlborough (USA), Portsmouth (UK), Shanghai  (China) and 
+another production facility in Ann Arbor (USA). Sartorius Stedim Data Analytics (Sweden) is not counted, as it is an IT compa ny that 
+does not produce any goods.  
+  
+2017 2018 2019 2020 20214050607080Energy Intensity1
+72.2 72.2 71.6 56.5 47.1in proportion to annual sales, in MWh | € in millionsSartorius  GRI Report  2021  Environmental Standards   37 
+ 
+ 303 Water and Effluents  
+103  
+Management Approach  
+Water is the number -one source of life and the basis for nutrition and a healthy life on earth. One of the central 
+challenges of the 21st century is to provide a growing global population with permanent access to clean water 
+in the volumes necessary to meet its basic needs and enable it s social and economic development.  
+The demand for water will rise by approx. 55% by 2050, with more than two billion people already denied ac-
+cess to clean drinking water. By 2030, 700 million people may be forced to leave their homes due to a lack of 
+water . 
+Some 19% of available water is required by industry. First and foremost, Sartorius uses water in membrane pro-
+duction and filter assembly.  
+Göttingen and Yauco are the production sites with the highest water consumption, as filter membranes are 
+made there . Larger quantities of water are required, especially for production using the percipitation bath 
+method. Both sites hold ISO 14001 certification. Environmental management covers energy and material con-
+sumption, emissions, use of space, waste and effluents . In order to further improve the management of water -
+related risks and opportunities, the plan is to supplement the ISO standard with an explicit water -related com-
+ponent (ISO 14002 -2). Sartorius is happy to get to grips with the expected requirements and proposals in order 
+to implement further effective water -related improvement measures.  
+Sartorius already attaches considerable importance to the efficient use of water as a resource, as reflected in 
+numerous efficiency measures that are already implemented or planned. Membrane production, for example, 
+largely takes place in closed loops. This means that the water and solvents used are repurified after use. At the 
+main site in Göttingen, the water required for rinsing processes, in particular, is reduced by m eans of optimized 
+process stages. At the Guxhagen site, a project for the circulation of test water is planned; as a result, it will be 
+possible to store several cubic meters of water on a daily basis, with this water available for reuse.  
+Apart from optimi zing water consumption, Sartorius is also working on the resource -saving sourcing of water. 
+At the Yauco site, a network of roof cisterns collect rainwater that can be used for a variety of applications.  
+In 2022, Sartorius plans to set out a strategy and concrete targets in order to further optimize the use of water 
+as a resource and therefore further reduce its consumption.  
+  Sartorius  GRI Report  2021  Environmental Standards   38 
+ 
+ 303 -3 
+Wa ter Withdrawal  
+ 
+Water Withdrawal1,2    
+  2021  2020  
+Total water withdrawal in Ml  692.68  530.03  
+Surface water in Ml  10.54  9.91  
+Groundwater in Ml  18.98  23.87  
+Third -party water in Ml  663.16  496.25     
+1 Production sites acquired during the year are not counted and, in line with the reporting guideline, will be included in th e report n ext 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Germany). Sartorius Stedim Data Analytics (Swed en) is 
+not counted, as it is an IT company that does not produce any goods.  
+2 This indicator is reported for the first time in the non -financial consolidated statement. The underlying data for ind ividual sites are 
+estimates.  
+Water Withdrawal in Areas with Water Stress1, 2,3    
+  2021  2020  
+Total water withdrawal in Ml  483.09  402.84  
+Surface water in Ml                     -                       -    
+Groundwater in Ml  3.00  3.21  
+Third -party water in Ml  480.09  399.63     
+1 Production sites acquired during the year are not counted and, in line with the reporting guideline, will be included in th e report n ext 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Germany). Sartorius Stedim Data Analytics (Swed en) is 
+not counted, as it is an IT company that does not produce any goods.  
+2 This indicator is reported for the first time in the non -financial consolidated statement. The underlying data for ind ividual sites are 
+estimates.  
+3 Water stress areas are assessed based on the World Resources Institute "Aqueduct Water Risk Atlas". We consider areas where  
+water stress is classified as high (40 -80%) or very high (>80%).  
+305 Emissions  
+103  
+Management Approach  
+Ongoing climate change  already poses a genuine threat to life on our planet. Therefore, halting climate 
+change is a challenge for society as a whole. The heads of state and government of European Union member 
+states agreed in December 2020 to reduce internal EU greenhouse gas e missions by at least 55% compared 
+to 1990 levels by 2030. The European Green Deal also sets a target of EU -wide net zero greenhouse gases by 
+2050.  
+Measured in CO 2 equivalents, global greenhouse gas emissions amounted to some 50 billion metric tons in 
+2019 . According to statistics provided by the World Health Organization, the health care sector accounted for 
+four to five percent of this figure. With attributable emissions totaling some 450,0001 metric tons of CO 2 
+equivalents in 2019, Sartorius makes up a share of about 0.025% of total emissions of the global health care 
+sector and therefore only has a minor influence. Nonetheless, we see it as our duty to contribute to the attain-
+ment of climate targets and will ma ke substantial efforts in this regard, both at our sites worldwide and in our 
+value chain.  
+As a leading partner of the biopharmaceutical industry, we contribute to achieving the Sustainable Develop-
+ment Goal number three, “Good Health and Well -Being.” In th e future, we aim to continue growing strongly 
+while substantially lowering our carbon footprint. In our opinion, it is therefore appropriate to focus on CO 2 Sartorius  GRI Report  2021  Environmental Standards   39 
+ 
+ emission intensity when formulating emissions targets as this indicator enables a comparison of the  CO 2 emis-
+sions of various companies as well as with economic and international indicators and targets. Correspondingly, 
+our new climate target is to reduce CO 2 emission intensity. For Sartorius, the CO 2 emission intensity – defined 
+as the emissions volume in relation to revenue – stood at approx. 250 g/€1 in the base year 2019.  
+We always seek to set targets that are not only ambitious, but that are also realistic and transparent. In respect 
+of our CO 2 emission intensity, we aim to achieve an average reduct ion of approx. 10% per annum. As such, we 
+are exceeding the ambitious levels of the European Union and the Science Based Targets initiative, which have 
+set targets of approx. 8.5% and 7% respectively.  
+In order to achieve this reduction, we are focusing on avoiding emissions and on improving the efficiency of 
+processes associated with relevant emissions. This includes emissions ge nerated at our sites, emissions in the 
+upstream and downstream value chain, and switching to emission -free energy sources wherever possible. The 
+offsetting of emissions, on the other hand, is currently not an area of emphasis, as we regard an actual reduc-
+tion as more important.  
+Reducing greenhouse gas emissions is a challenge that can only be met through shared endeavors on the part 
+of everyone involved in the value chain, paying due regard to existing interdependencies. When developing 
+our climate targets , it was therefore important to us to create transparency in respect of existing interactions, 
+make any necessary assumptions with care and communicate them openly.  
+To this end, we once again compiled a detailed breakdown of our carbon footprint as a basis  for our targets in 
+the year under review. For consistency reasons, this refined footprint is based on emission data from 2019, the 
+basis year of our current climate strategy. Approximately 10% of the calculated total emissions of roughly 
+450,000 metric to ns of CO 2 equivalents fall within Scopes 1 and 2, i.e. emissions generated directly within the 
+company and emissions from purchased energy such as electricity and gas. The other 90% or so of emissions 
+are generated in the upstream/downstream value chain, m eaning that they are either mostly or partly within 
+the sphere of influence of suppliers, transport contractors, and customers. Sartorius is able to influence just 
+under half of these emissions, with the level of influence depending on the individual circu mstances con-
+cerned.  
+For companies across all sectors, the calculation of Scope 3 emissions, in particular, is currently subject to fun-
+damental uncertainties and dependent on a series of assumptions and estimates. Ever more accurate calcu-
+lations by virtue of improved data quality represent a central plank of our approach. This relates not only to 
+information on the carbon footprint of our suppliers, but also on the usage phase of our products and their life 
+cycle end. To ensure comparability of data over ti me, the ongoing improvements in calculation accuracy may 
+result in retrospective adjustments to reported figures.  
+  
+1 These are own or externally conducted modeling/estim ates, which are not based on scientifically founded emission calculations.  Sartorius  GRI Report  2021  Envir onmental Standards   40 
+ 
+ Scopes 1 and 2  
+Emissions in Scope 1 are direct emissions. They result, for instance, from the use of fossil fuels to generate heat 
+and powe r at our sites, from CO 2-equivalent process emissions (e.g. in membrane production) and from the 
+use of company vehicles. Sartorius aims to virtually eliminate Scope 1 emissions from the use of fossil fuels by 
+2030. The corresponding measures include the large -scale electrificati on of heat/cool air generation, the use 
+of gas from renewable sources, the gradual conversion of the vehicle fleet to electric vehicles and efficiency 
+improvements in production, with a resulting drop in energy consumption. A small share of current Scope 1  
+emissions have to be classed as unavoidable. These process emissions, which are directly linked to essential 
+product characteristics, especially in membrane production, cannot be avoided with technological advance-
+ment as it stands, although we already alm ost always operate closed solvent loops.  
+We plan to virtually eliminate Scope 2 emissions by 2030. These indirect emissions occur during the genera-
+tion of purchased energy, particularly electricity. It is planned to meet this target by switching to emissi on-free 
+energy from renewable sources wherever possible. This intended large -scale reduction of emissions is subject 
+to the proviso of emission -free energy being available at our global sites. Sartorius will endeavor to champion 
+the availability of zero -emission energy and support the relevant partners at the various sites with their provi-
+sion.  
+For Scopes 1 and 2, Sartorius aims to achieve an average annual reduction in CO 2 emission intensity of approx. 
+20% in the period until 2030. This equates to the eli mination of some 90% of the emission sources in Scopes 
+1 and 2 and – despite significant corporate growth – a 50% reduction in associated absolute emissions com-
+pared to 2019.  
+Scope 3  
+The analysis of Scope 3 emissions is complex and necessitates considerati on of numerous interdependencies 
+within the supply chain and requires assumptions to be made. Some 40% of emissions attributable to Sartorius 
+occur in the upstream value chain, i.e. in connection with purchased goods/services and business travel. Some 
+of the ways in which Sartorius is able to influence these emissions include the nature and volume of purchased 
+materials and products, the choice of transport routes and modes of transport, and the number of business 
+trips and their respective itineraries. Emi ssions can be reduced in the medium term through the selection of 
+suppliers. Sartorius works to support suppliers in the development and implementation of sustainability sys-
+tems that reduce the CO 2-equivalent emissions intensity in the upstream value chain .  
+The largest share of emissions attributable to Sartorius – roughly 50% – occurs in the downstream value chain; 
+this includes, among other things, the transportation of our products to customers as part of the products’ 
+further use and their disposal at the end of their life cycles. Sartorius can help to lower these emissions, chiefly 
+by means of optimized product and packaging design that improves the products’ energy efficiency or facili-
+tates their recycling. However, a large proportion of the emissions  in Scope 3 can only be reduced by our cus-
+tomers and transport contractors or in partnership with these actors and/or through a switch to energy from 
+emission -free sources throughout the entire value chain.  
+Overall, Sartorius aims to reduce Scope 3 emissio n intensity by about 10% on average per annum in the period 
+until 2030. 1 
+  Sartorius  GRI Report  2021  Environmental Standards   41 
+ 
+ Costs of Reducing Emission Intensity  
+The Sartorius climate strategy is geared toward environmental targets, not economic ones. As such, we aim to 
+use all available levers to reduce  emissions, including those whose expected costs exceed current and antici-
+pated CO 2 offset prices. In total, we expect the annual costs of reducing CO 2-equivalent emission intensity to 
+amount to roughly 1% of Group revenue over time. On account of consider able differences in the costs of var-
+ious measures, coupled with the expected dynamic development as regards the price and availability of cer-
+tain technologies, materials and energy sources, it is currently not possible to be any more precise in respect 
+of the development of these costs over time.  
+Relevance to Governance  
+Starting 2022, CO 2 intensity will be relevant to the governance of the Sartorius Group and will correspondingly 
+form part of management remuneration.  
+Emissions and Targets    
+  Basis 20191  Target 2030  
+Total GHG Emissions in t CO2eq  56,897  30,611  
+Total Scope 1 emissions in t CO 2eq 18,103  9,739  
+Total Scope 2 emissions in t CO 2eq 38,794  20,871     
+1 The emissions for the determination of the climate targets differ from the emissions reported in the table 'Greenhouse gase s' for the 
+year 2019, as the sales companies were included and other emission factors were used. We aim to include the emissions of the sales 
+companies in the reporting within the framework of the non -financial group statement in the long term.  
+Sartorius has been recording greenhouse gas emissions in line with the Greenhou se Gas Protocol (GHG) 
+global standard since 2013. Accordingly, in addition to the CO 2 emissions, we take account of all climate -rele-
+vant gases and report them in CO 2 equivalents (CO 2eq). Currently, we report direct climate -relevant emis-
+sions from our production sites (Scope 1). We also report indirect energy -related emissions resulting from 
+power generation by external energy suppliers (Scope 2). Scope 1 emissions occur through consum ption of 
+direct energy sources, such as diesel , fuel oil, natural gas and LPG, and also through process emissions from 
+solvents and refrigerants at our sites in Göttingen and Yauco.  
+The new CO 2 intensity reduction targets will be used in our planning from Q1 2022. Accordingly, we plan to 
+report the corresponding reductions from the next annual report. We recorded Scope 3 emission s for the pur-
+pose of drawing up our new climate strategy. Standardized reporting is expected to follow in 2022.  
+Our German sites have been using hydroelectric power since the start of the financial year; our French sites 
+have been using green electricity s ince midway through the year.  
+  
+1 When devising this target, Sartorius not only took into account its own expected growth, but also that of customers, suppliers and 
+transport contractors; it also made certain assumptions on the basis of the correspondingly successful emissions reduction an d fac-
+tored in the effect of a globally evolving energy mix. Specifically , our calculations are based on the assumption that the transport 
+sector will, as required by law, reduce its emissions in absolute terms by 40% by 2030, compared to the 2019 level. In respec t of our 
+customers in the biopharmaceutical industry, we anticipa te an absolute emissions reduction of approx. 50% based on their commu-
+nicated targets; for suppliers, we calculate this figure at approx. 20%. Furthermore, we have made conservative growth assump tions 
+of some 3% per annum for suppliers, and some 5% per ann um for our customers in the biopharmaceutical industry.  Sartorius  GRI Report  2021  Environmental Standards   42 
+ 
+ 305-1 and 305 -2 
+Direct (Scope 1) and Indirect (Scope 2) GHG Emissions  
+ 
+Greenhouse Gases1   
+  2021  2020  
+Total GHG emissions in t CO 2eq2, 3 42,506  43,156  
+Total Scope 1 emissions in t CO 2eq4 19,147  15,277  
+Total Scope 2 emissions in t CO 2eq5 23,359  27,880     
+1 Production sites acquired during the year are not counted and, in line with the reporting guid eline, will be included in the report next 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Germany). Sartorius Stedim Data Analytics (Swed en) is 
+not counted, as it is an IT company that does not produce any goods.  
+2 Emissions in t CO 2eq were calculated using thinkstep’s SoFi software. Emission factors from Ga Bi, Defra and VfU were used for this.  
+3 Companies are integrated into the environm ental report for emissions in accordance with the financial control consolidation ap-
+proach.   
+4 Excluding fuel consumption for car fleet.   
+5 Only location -based factors are used to calculate Scope 2 emissions.  
+305 -3 
+Other Indirect (Scope 3) GHG Emissions  
+Sartorius has been recording S cope 3 emissions since the reporting year  2019. In the coming years, we will 
+improve activity data to capture emissions for relevant missing categories.  
+Scope 3 Emissions      
+  2021  2020  
+Total scope 3 emissions in t CO 2eq - 298,141  
+Emissions from purchased goods and services in t  CO 2eq - 162,806  
+Emissions from capital goods in t CO 2eq - 24,524  
+Emissions from fuel -and -energy -related activities (not included in Scope 1 or 2) in t CO 2eq - 6,044  
+Emissions from upstream transportation and distribution in t CO 2eq - 80,197  
+Emissions from waste generated in operations in t CO 2eq - 7,842  
+Emissions from business travel in t CO 2eq - 2,874  
+Emissions from employee commuting in t CO 2eq - 13,855     
+ 
+  Sartorius  GRI Report  2021  Environmental Standards   43 
+ 
+ 305 -4 
+GHG Emissions Intensity  
+ 
+1 The GHG emissions intensity ratio is calculated by dividing direct and energy indirect GHG emissions in tons of CO 2eq of production 
+sites  by annual sales in millions  of euros . Production sites acquired during the year are not counted and, in line with the reporting 
+guideline, will be included in the report  next year. This includes the production sites in Ajdovščina (Slovenia), Cergy (France), Fremont 
+(USA), Hopkinton (USA), Marlborough (USA), Portsmouth (UK), Shanghai (China) and another production facility in Ann Arbor (US A). 
+Sartorius Stedim Data Analytic s (Sweden) is not counted, as it is an IT company that does not produce any goods.  
+306 Waste  
+103  
+Management Approach  
+All kinds waste are generated at any company. This applies particularly to manufacturing companies. The dis-
+posal of operating waste is governed by law and handled differently from country to country. As the handling 
+of hazardous and nonhazardous waste has a considerable influence on its release into air, water and soil – and 
+therefore a direct impact on human health and the environment – well -conceived waste management is a high 
+priority.  
+On top of waste such as plastic, paper and metal, Sartorius’ operations – especially in relation to membrane 
+production in Göttingen and Puerto Rico – also generate hazardous waste. In some cases, contami nated waste 
+is produced in the downstream value chain, i.e. the use of our products by customers and users. This applies in 
+particular to the deployment of our products in biopharmaceutical manufacturing processes.  
+In respect of waste management, Sartoriu s works on continuous improvement through a five -step approach 
+to the waste hierarchy. The aim is to conserve resources, avoid pollution and reduce emissions. Two areas of 
+focus for Sartorius are initiatives on waste prevention and recycling.  
+Sartorius wor ks on waste prevention by improving production processes, e.g. by reducing production waste. 
+This pertains especially to bag, membrane and candle production. Hazardous waste is mainly generated 
+through the use of solvents in membrane production. While our production processes already largely operate 
+on a closed -loop basis, we nonetheless see opportunities to further reduce hazardous waste in relation to the 
+volumes produced.  
+Recycling represents a further key component of our waste management. In Aubagne, we mechanically recy-
+cle production waste on -site. This material can then be used for new applications by different companies. In 
+2017 2018 2019 2020 2021010203040Development ofClimate -Relevant Emissions1
+25.5 24.3 24.2 18.5 12.3in proportion to annual sales, in t | € in millionsSartorius  GRI Report  2021  Environmental Standards   44 
+ 
+ the context of laboratory scale production in Göttingen, for instance, aluminum shavings are pressed into pel-
+lets, enabling the m to be deployed elsewhere. By signing the European Plastics Pact, Sartorius has entered 
+into a voluntary commitment to recycle more plastic waste. In order to live up to this aim, plastic waste is sep-
+arated by type and sent for recycling, particularly at the Göttingen and Guxhagen sites. In 2021, a total of 91 
+metric tons was recycled.  
+We are also fine -tuning the design of our products and packaging in order to minimize waste in the down-
+stream value chain. In addition to product dimensions and the choice o f materials, the main focus here is to 
+simplify waste sorting and the interchangeability of system components. As the majority of products are con-
+taminated following their use within the biopharmaceutical process, the requirements in terms of recycling are  
+high. Sartorius is actively working on the continued development of advanced recycling methods and the 
+composition of product materials, the aim being to keep these to a minimum and facilitate recycling for cus-
+tomers. Partnerships with customers and dispo sal contractors are essential in this regard if feasible solutions 
+are to be found and implemented.  
+To enable all remaining waste – including waste from administrative units – to be properly separated and dis-
+posed of, Sartorius has also introduced a color -coded waste separation system in a pilot project in Göttingen.  
+306 -3 
+Waste Generated  
+ 
+Waste Generated by Composition1     
+  2021  2020  
+Total waste in t  10,526  7,681  
+Non -hazardous waste in t  7,291  5,137  
+Residual waste in t  2,259  1,877  
+Plastic waste in  t 2,087  1,309  
+Paper and cardboard in t  1,614  1,016  
+Waste wood in t  864  397  
+Metal waste in t  375  281 
+Mixed recyclable materials in t  55 226  
+Electrical and electronic waste in t  37 31 
+Hazardous waste in t  3,235  2,544     
+1 Production sites acquired during the year are not counted and, in line with the reporting guideline, will be included in th e report next 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Germany). Sartorius Stedim Data Analytics (Swede n) is 
+not counted, as it is an IT company that does not produce any goods.  
+2 This indicator is reported for the first time in the non -financial consolidated statement. The underlying data for i ndividual sites are 
+estimated values  
+  Sartorius  GRI Report  2021  Environmental Standards   45 
+ 
+ 306 -4 
+Waste Diverted From Disposal  
+ 
+Waste Diverted From Disposal by Composition1     
+  2021  2020  
+Total waste in t  4,974  3,040  
+Non -hazardous waste in t  4,447  2,757  
+Residual waste in t  27 0 
+Plastic waste in t  1,555  856  
+Paper and cardboard in t  1,614  1,016  
+Waste wood in t  839  346  
+Metal waste in t  375  281 
+Mixed recyclable materials in t                                     -   226  
+Electrical and electronic waste in t  37 31 
+Hazardous waste in t  527  283     
+1 Production sites acquired during the year are not counted and, in line with the reporting guideline, will be included in th e report next 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Germany). Sartorius Stedim Data Analytics (Swed en) is 
+not counted, as it is an IT company that does not produce any goods.   
+306 -5 
+Waste Directed to Disposal  
+ 
+Waste Directed to  Disposal by Composition1     
+  2021  2020  
+Total waste in t  5,552  4,641  
+Non -hazardous waste in t  2,844  2,380  
+Residual waste in t  2,232  1,877  
+Plastic waste in t  532  453  
+Paper and cardboard in t                                     -   0 
+Waste wood in t  25 50 
+Metal waste in t                                     -   - 
+Mixed recyclable materials in t  55 0 
+Electrical and electronic waste in t  0 0 
+Hazardous waste in t  2,708  2,261     
+1 Production sites acquired during the year are not counted and, in line with the reporting guideline, will be included in th e report next 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Germany). Sartorius Stedim Data Analytics (Sweden) is 
+not counted, as it is an IT company that does not produce any goods.   
+  Sartorius  GRI Report  2021  Environmental Standards   46 
+ 
+ Hazardous Waste Directed to Disposal by Disposal Operation1     
+  2021  2020  
+Total waste in t  2,707  2,261  
+Incineration (with energy recovery) in t  1,443  960  
+Incineration (without energy recovery) in t  1,048  824  
+Landfilling in t2 1 3 
+Other disposal operations in t  215 475     
+1 Production sites acquired during the year are not counted and, in line with the reporting guideline, will be included in th e report next 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Ge rmany). Sartorius Stedim Data Analytics (Sweden) is 
+not counted, as it is an IT company that does not produce any goods.  
+2 This is largely hazardous waste from a German plant that is rendered harmless by bacterial treatment and reused.  
+ 
+Non -Hazardous Waste Directed to Disposal by Disposal Operation1     
+  2021  2020  
+Total waste in t  2,203  2,380  
+Incineration (with energy recovery) in t  886  334  
+Incineration (without energy recovery) in t  95 596  
+Landfilling in t  8 1,001  
+Other disposal operations in t  1,214  450     
+1 Production sites acquired during the year are not counted and, in line with the reporting guideline, will be included in th e report next 
+year. This includes the production sites in Bielefeld (Germany) and Freiburg (Ge rmany). Sartorius Stedim Data Analytics (Sweden) is 
+not counted, as it is an IT company that does not produce any goods.   
+307 Environmental Compliance  
+103  
+Management Approach  
+We regard compliance with applicable laws as self -evident. Beyond this, we have set ourselves the standard of 
+managing our company with integrity.  
+We are committed to upholding internationally recognized human and labor rights as a basis of our worldwide 
+business operations. A significant task in this regard is to create a common  understanding of fair working con-
+ditions – at all our sites and in the supply chain.  
+Sartorius conducts its business in compliance with globally accepted ethical standards and applicable national 
+legal requirements. The German Corporate Governance Code de fines requirements for management boards 
+and supervisory boards including their interaction with regard to transparency, accounting and auditing and 
+the conduct of annual general meetings. Legal Affairs & Compliance reports to the CEO and informs the Su-
+pervisory Board and the Audit Committee. Sartorius follows the rules and recommendations of the German 
+Corporate Governance Code in its current version of December 16, 2019, with the exceptions stipulated in the 
+current Declaration of Compliance.  
+We intend to  ensure that our Supervisory and Executive Board members, management and employees com-
+ply with all legal regulations and codes, and act according to our internal guidelines. The Legal Affairs & Com-
+pliance department is responsible for legal consulting, int ernal auditing, data protection, anti -corruption, cus-
+toms and export control.  
+A dedicated team has the task of implementing and enforcing all Group compliance topics. The Sartorius 
+Code of Conduct defines the requirements we place on our employees with re spect to responsible conduct. Sartorius  GRI Report  2021  Environmental Standards   47 
+ 
+ The code helps employees act ethically and in accordance with the law in their daily work. In everything they 
+do, employees are required to ask themselves the following questions: Are my actions legal? Does my conduct 
+correspo nd to our values and guidelines? Is it free of personal interests (that are not covered by labor -law reg-
+ulations)? Will it stand up to public scrutiny? The Code of Conduct covers compliance with international social 
+and environmental standards, general rul es of conduct and dealing with conflicts of interest.  
+The Anti -Corruption Code forms the basis for raising employee awareness about corruption risks. It is also a 
+guideline, instruction manual and aid in taking the necessary action to both prevent and figh t corruption at 
+specific companies or in specific sectors. An anti -corruption officer has been appointed by Group manage-
+ment as a contact person for corruption prevention. This officer pursues his or her duties independently.  
+We ensure that our employees a re familiar with the Anti -Corruption Code and the Code of Conduct by asking 
+all employees worldwide every year to take part in an online training course and complete a test at the end of 
+it. The course teaches employees how to deal with ethically or legall y problematic situations.  
+A complaint system ensures that employees and external third parties can report cases of damaging conduct, 
+such as corruption, discrimination or sexual harassment. The compliance team can be contacted face -to-face, 
+via a telephone  hotline, the department’s electronic mailbox or – in the case of anonymous reports – the whis-
+tleblower system. The relevant contact options are listed on the intranet and are thus published company -
+wide. They are also available on the company’s website an d can thus be accessed by external persons con-
+cerned.  
+A Global Regulatory Affairs Committee – comprising representatives from Compliance, Regulatory Affairs, 
+Quality, Product Development, Procurement, EHS, Corporate Sustainability and others – meets regula rly, 
+monitors new legislative initiatives on an interdepartmental basis and puts corresponding structures in place 
+within the company.  
+During the period under review, 9,341 employees from 35 countries completed training on the Anti -Corrup-
+tion Code and 9,1 43 employees from 35 countries completed training on the Code of Conduct. The hours 
+spent on training amounted to 4,571 for the Code of Conduct and 4,670 for the Anti -Corruption Code. Com-
+pliance training courses are currently available in German, English, French and Chinese.  
+No significant fines or non -monetary penalties resulting from violations of laws or regulations were imposed in 
+the reporting year. Two suspected cases of corruption were reported, one of which is still being investigated 
+and one of whi ch has already been deemed unsubstantiated/unproven.  
+Two suspected cases of discrimination were reported during the period under review. No cases of discrimina-
+tion were determined during the reporting period.  
+ 
+  Sartorius  GRI Report  2021  Environmental Standards   48 
+ 
+ 308 Supplier Environmental Assessment  
+103  
+Management Approach  
+Respect for human rights, the maintenance of high environmental standards and good, safe and fair working 
+conditions for the production of our products is important to us, and apply to sites outside our own production 
+as well. With more  than 8,000 suppliers in more than 40 countries and a purchasing volume that corresponds 
+to about 40% of our sales revenue1, it is obvious that our upstream supply chain is important for us to imple-
+ment these goals.  
+The assumption of responsibility in glo bal supply chains is also governed by a growing number of laws and 
+requirements. In particular, the German Act on Corporate Due Diligence in Supply Chains, which was passed 
+by the German parliament in July 2021, seeks to improve the international human rig hts situation by setting 
+out requirements for the responsible management of supply chains. This Act comes into effect for German -
+based companies with more than 3,000 employees on January 1, 2023.  
+Moreover, the value chains for pharmaceuticals are very sens itive and are the focus of many stakeholders. In 
+particular, patients at the end of the supply chain are dependent on their medications being available and safe 
+at all times.  
+Since January 2020, we have been verifying suppliers’ compliance with our sustai nability requirements via an 
+external evidence -based ESG assessment, as well as in -house ESG quick checks. In the year under review, we 
+have been working to set up a comprehensive risk management system and design new processes in order to 
+be able to meet and document the requirements of the new Supply Chain Act in the near future, but by no 
+later than 2023.  
+Our Code of Conduct for Business Partners provides the basis for collaboration with our business partners 
+throughout the Group. Our requirements with r egard to the environment, social matters and governance are 
+defined in the Code. Since December 2019, acknowledgment of the Code of Conduct is part of the ac-
+ceptance process for new suppliers. In 2020, we began systematically reviewing whether our existing  suppliers 
+have acknowledged the Code and, if not, asking them to do so.  
+For suppliers who are very relevant for our business processes and/or a high purchasing volume, we work to-
+gether with the external sustainability assessment platform EcoVadis. The ex ternal ESG assessment is based 
+on a self -assessment, a review of the associated documents and information from external sources. EcoVadis 
+reviews 21 indicators in the areas of environment, labor and human rights, ethics and sustainable procurement.  
+Beginni ng in 2021, Sartorius quality auditors systematically conducted ESG quick checks within the scope of 
+all planned quality audits in the suppliers’ production plants. For this purpose, Sartorius put its sustainability 
+requirements into a questionnaire. This will be provided to suppliers before the audit. During on -site auditing 
+of suppliers’ production plants, compliance with the requirements of our Code of Conduct for Business Part-
+ners is reviewed on the basis of the questionnaire.  
+The objective of all meas ures is to initiate actual improvements in the working, social and environmental stand-
+ards of our suppliers. Sartorius Management is involved in shaping the process via the Corporate Sustainability 
+Steering Committee and is informed about the progress bein g made.  
+                                                                        
+1 Sales and purchasing volume in 20 21. Sartorius  GRI Report  2021  Environmental Standards   49 
+ 
+ We do not establish business relationships with suppliers where we see a considerable risk of child, forced or 
+mandatory labor, other breaches of human rights or negative impacts on society, and will end any existing re-
+lationships with such supplie rs. This procedure is also defined in our new process for sustainability in the supply 
+chain.  
+During the Covid -19 pandemic, we are focusing on securing our delivery capabilities. This is very important 
+considering the validated production processes of our  customers. This is why we manage stocks of raw mate-
+rials and finished products actively and maintain high levels of safety stock.  
+308 -2 
+Negative Environmental Impacts in the Supply Chain and Actions Taken  
+In 2021, we received 110 valid sustainability assessments on our suppliers from EcoVadis, with 165 further as-
+sessments currently being prepared. The current evaluations cover roughly a third of our purchasing volume. 
+In 2021, we spoke to suppliers who refused an EcoVadis assessment or whose assessment  has expired.  
+The ESG quick checks performed by Sartorius itself as part of quality audits were still conducted in the year 
+under review despite the coronavirus pandemic, albeit to a reduced extent, with 107 such quick checks com-
+pleted as of the end of the  reporting year.  
+We will use the results of the EcoVadis assessments and the ESG quick checks to develop our internal process 
+in 2022.  
+  Sartorius  GRI Report  2021  Environmental Standards   50 
+ 
+ Product Stewardship  
+Why it’s important  
+Environmental responsibility concerns not just our value creation; it has an impact on our products, too.  
+Sartorius generates almost two thirds of its sales revenue with sterile products that are used in biopharmaceu-
+tical research, where they ensure the safety and efficiency of the processes. While filters are cellulose -based, 
+filter housings, bags and pipette tips are made from polymers. Although biopharmaceutical disposable tech-
+nology makes up just 0.01% of the annual volume of plastic waste, the continuous market growth increasingly 
+raises the issue of responsible handling of mat erials in this industry too.  
+Basically, the production and sale of consumables prompts questions about the product end of life. Increasing 
+customer demands and stricter statutory regulations have also resulted in aspects of the circular economy 
+becoming mo re important.  
+The processes involved in manufacturing polymers from crude oil, as well as recycling processes, are also en-
+ergy -intensive. We therefore regard all product responsibility considerations as being closely linked with our 
+climate strategy.  
+Our a pproach  
+The fact that sterile products are used in the bioprocess represents a crucial ecological benefit, as energy - and 
+water -intensive cleaning processes between production batches are no longer required. As flexible produc-
+tion units take up less space,  less energy is also required for the air conditioning units required in the clean 
+room. As a result, the ecological footprint of disposable components is often better than that of reusable stain-
+less steel components. We intend to further optimize the foot print of our products by enhancing the selection 
+and use of materials throughout the value chain. Materials that are designed to be recycled and material flows 
+will play an important role in this regard.  
+By developing an initiative to reduce plastic use, w e are seeking to address the entire value chain: the design 
+of our products and packaging, the associated purchasing of plastic, the plastic waste generated during our 
+own operations and the treatment of our products and packaging at the end of their life cycles.  
+When developing our products, their functionality and quality are our top priority. Although the use of recy-
+cled material in medical products is currently not possible due to quality reasons, it is, for instance, possible to 
+influence the quantity of new plastic used through the design of product dimensions. There is more scope in 
+terms of material selection and dimensions when it comes to packaging design.  
+Design can also be used to influence the handling of contaminated and non -contaminated produc ts when 
+they reach the end of their life cycle. Alongside the choice of materials, another priority is to simplify sorting 
+and, where applicable, the products’ return to suitable recycling methods. It is important to bear in mind that 
+this step lies within  the sphere of responsibility of our customers and their competent recycling agencies, 
+meaning that success can only be achieved through cooperation and joint efforts.  
+In our in -house production, we focus chiefly on reducing waste and rejects, as well as o n the improved sorting 
+of plastic waste and therefore on its improved return to recycling systems.  
+However, sustainability in biotechnological production is not just concerned with the use and recycling of plas-
+tics, but also takes into account the efficien cy and productivity of processes. For example, technological inno-
+vations enable process optimizations in the production of larger volumes of active pharmaceutical ingredients. 
+Sartorius continuously develops its products with this in mind and helps its cus tomers design their production 
+processes in a more sustainable manner. Sartorius deals intensively with the issue of how its customers can Sartorius  GRI Report  2021  Environmental Standards   51 
+ 
+ produce more sustainably by modifying the process parameters. For this purpose, Sartorius is involved in the 
+National  Institute for Innovation in Manufacturing Biopharmaceuticals (NIMBL) and other bodies.  
+Our performance  
+The Sartorius plastic reduction initiative was agreed at the end of October 2020. In the year under review, work 
+was carried out to integrate the targets set within operational divisions. Various projects focused on the reduc-
+tion of packaging waste, the recycling of production waste and end -of-life-cycle strategies were continued, 
+with new projects initiated.  
+Sartorius uses ultra -pure plastic film t o produce disposable bags for use in bioprocesses. Two of our three film 
+families are suitable for mechanical recycling. At the Aubagne site, waste material produced during bag pro-
+duction is collected, shredded and recycled with the help of external partne rs. 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+400  Social Standards   Sartorius  GRI Report  2021  Social Standards   53 
+ 
+ 401 Employment   
+103  
+Management Approach  
+Sartorius is growin g strongly. We continually gain talented and well -qualified employees and build their loyalty 
+to ensure the success of the company in the future as well. In the process, one particular challenge all over the 
+world is to recruit experienced specialists for the company. Currently, 13,8321 employees contribute to Sarto-
+rius’ success. Continuing professional development, assumption of responsibility and opportunities to ad-
+vance within the company are important for our employees' satisfaction. These competences s afeguard their 
+employability and open up new professional prospects for them.  
+As a globally operating company, we do business in many different regions and markets. Sartorius employees 
+from 110 countries work together. The interplay of a variety of perspectives and experiences helps us under-
+stand our customers better, develop tailored solutions and remain competitive in a global economy. We be-
+lieve that a working environment of mutual trust, appreciation and respect brings the best work results and 
+increases our employees’ motivation and creativity as well as their loyalty.  
+To acquire personnel, our approach is to focus on the things that are important for existing and potential em-
+ployees and make them known throughout the world. According to our anal ysis, all of them are factors that are 
+likely to create trust in the future: the company's brand leadership, its sales growth and margin development, 
+its internationality and innovation activities and – last but not least – the individual's opportunities f or develop-
+ment within the company. A meaningful mission and the perceptible assumption of social responsibility are 
+also important for many job applicants.  
+Sartorius has hired 4,381 new employees since January 2021. On account of rapid growth, the previou s 
+onboarding process was optimized in order to induct new employees quickly and efficiently. Effective 
+onboarding is designed to ensure that new employees quickly feel included within the Sartorius team so that 
+they can make a positive contribution from da y one.  
+We stri ve to offer our employees good working conditions to encourage them to apply their skills in the best 
+possible manner. The approaches that we pursue throughout the Group are defined in our policy on work 
+practices and social standards. To improve the accur acy of its measures to create good working conditions, 
+Sartorius conducts two global employee surveys each year. Known as “Pulse Checks,” these surveys are con-
+ducted each spring and each fall, addressing a range of topics such as employees’ perception of t he corporate 
+and leadership culture, of their own workplace and work satisfaction in general. All employees are asked to 
+suggest improvements. By virtue of this regular and systematic feedback on leadership culture and working 
+conditions, executives and th e HR department can respond swiftly and initiate any necessary improvement 
+measures. We believe there is considerable potential in discussing the results within individual teams and 
+jointly devising suggested improvements.  
+Annual performance reviews betwee n employees and their managers also provide a forum for discussing per-
+formance, targets and individual development opportunities. In the year under review, the performance de-
+velopment process was conducted digitally with the support of the system. This app roach improves the con-
+sistency and transparency of the process in terms of setting and agreeing expectations for each HR develop-
+ment cycle; it also makes it possible to agree individual development plans for employees that foster their con-
+tinued developmen t. 
+1 The following employee figures include all employees of the Sartorius Group except for apprentices, interns, permanent abse nt em-
+ployees and employees in the leave -of-absence phase of partial retirement. Numbers are reported as head counts.  Sartorius  GRI Report  2021  Social Standards   54 
+ 
+ Our employees should be able to develop personally and professionally throughout their professional lives. 
+We firmly believe that all employees have their own talents and that they can contribute these talents in a 
+variety of useful ways. We have theref ore expanded our learning opportunities to include digital self -study 
+offerings accessible to all employees and have added online seminars to the portfolio in order to be able to 
+offer a broader selection of content.  
+In our view, ensuring effective leaders hip at all levels of the organization is central to supporting our further 
+growth ambitions. In 2021, we focused on top -level employees and executives and will further expand the 
+scope in 2022.  
+To create the same opportunities for people regardless of thei r life situations, we have installed a flexible work 
+scheduling model at many of our companies. Employees are often able to take advantage of flextime, part -
+time and teleworking options.  
+In addition to flexible work schedules, our response to the need for work -life balance includes child care op-
+portunities in Göttingen. Here, for example, there are offers for children during school vacations, and a day 
+care center is available close to the company on the Sartorius Campus. As an inclusive day care center, it  is also 
+open to children with disabilities. It’s part of our corporate culture that fathers also take family leave at Sarto-
+rius.  
+Measures that promote equal opportunity in our company include the creation of transparency on salary 
+structures. The majority  of salaries at the German companies are linked to the rates agreed with the IG Metall 
+trade union, with some paid in accordance with rates established for IG Bergbau, Chemie, Energie. The remu-
+neration paid to employees in France and Austria is also based on trade union rates. Using the union rates 
+makes our remuneration more transparent.  
+Works councils or other legally mandated bodies represent the interests of the workforce. In Germany, there 
+is also a Group works council comprising members of the local w orks councils at all operating companies.  
+401 -1 
+New Employee Hires and Employee Turnover  
+Over the past five years, Sartorius  has recruited 10.447  new employees. The number of new hires increased by 
+4.381  compared to the previous year.  
+New Hires by Region,  Gender and Age Group1, 2   
+  EMEA  Americas  Asia | Pacific  Total  
+Female  1,043  524  250  1,817  
+≤ 29 years  558  226  107 891 
+30 – 49 years  416 219 142 777 
+≥ 50 years  69 79 1 149 
+Male  1,564  616  384  2,564  
+≤ 29 years  687  266  156 1,109  
+30 – 49 years  758  263  222  1,243  
+≥ 50 years  119 87 6 212 
+Total  2,607  1,140  634  4,381       
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+  Sartorius  GRI Report  202 1 Social Standards   55 
+ 
+ The success of our measures to create a positive working environment is reflected in permanently low attrition 
+rates. Excluding expired fixed -term contracts, Sartorius had an attrition rate of 8.4% in the reporting year, or 1.3 
+percentage points above the already low level of the prior year.  
+As a result of the consistently high number of new hires, the average seniority decreased slightly. In 2021, about 
+60% of all employees had been with Sartorius for fewer than five years, whil e around a seventh had been with 
+the company for 15 years or more.1 
+Employee Turnover by Region, Gender and Age Group1, 2, 3, 4   
+  EMEA  Americas  Asia | Pacific  Total  
+Female  321 116 87 524  
+≤ 29 years  158 28 32 218 
+30 – 49 years  109  53 52 214 
+≥ 50 years  54 35 3 92 
+Male  371 126  145  642  
+≤ 29 years  142 17 32 191 
+30 – 49 years  148 64 105  317 
+≥ 50 years  81 45 8 134 
+Total  692  242  232  1,166       
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+3 Companies acquired during the year are not counted and, in line with the reporting guideline, will be included in the repor t next 
+year. Companies th at were consolidated last year report fully this year.  
+4 Excluding expiring fixed -term contracts.  
+Due to the significance for the development of the company, the number of employees at Sartorius is very 
+relevant and is reported regularly by management. More information about “Employees” can be found in the 
+Group Management Report on page 48. 
+401 -2 
+Benefits Provided to Full -Time Employees That Are Not Provided to Temporary or  Part -Time Employees  
+The voluntary benefits we offer our employees varies from site to site. In addition, there are differences be-
+tween the sites as to whether the benefits are offered to full -time employees only or to all employees. There-
+fore, we will omit presenting the bene fits offered.  
+  
+                                                                        
+1 Companies acquired during the year are not counted and, in line with the reporting guideline, will be included in the report next year. 
+Companies that were consolidated last year report fully this year.  Sartorius  GRI Report  2021  Social Standards   56 
+ 
+ 401 -3 
+Parental Leave  
+ 
+Employees That Took Parental Leave by Gender and Region1, 2, 3   
+  Female  Male  Total  
+EMEA  263  208  471 
+Americas  31 27 58 
+Asia | Pacific  18 25 43 
+Total  312 260  572      
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+3 Companies acquired during the year are not counted and, in line with the reporting guideline, will be included i n the report next 
+year. Companies that were consolidated last year report fully this year.  
+Employees That Returned to Work in the Reporting Period After Parental Leave Ended by Gender and Region 1, 2, 3  
+  Female  Male  Total  
+EMEA  227  199 426  
+Americas  24 17 41 
+Asia | Pacific  17 25 42 
+Total  268  241 509      
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+3 Companies acquired during the year are not counted and, in line with the reporting guideline, will be included in the report next 
+year. Companies that were consolidated last year report fully this year.  
+Employees That Returned to Work After Parental Lea ve Ended That Were Still Employed 12 Months After Their 
+Return to Work by Gender and Region1, 2, 3   
+  Female  Male  Total  
+EMEA  96 117 213 
+Americas  9 16 25 
+Asia | Pacific  24 25 49 
+Total  129  158  287      
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+3 Companies acquired during the year are not counted and, in line with the reporting guideline, will be included in the  report next 
+year. Companies that were consolidated last year report fully this year.  
+403 Occupational Health and Safety  
+103  
+Management Approach  
+Our employees’ safety is our responsibility. The health of our employees is also important to us as a company, 
+which is why we offer support in the form of a variety of preventative health care offers.  
+As in the previous year, the reporting year was shaped by the Covid -19 pandemic, which created particular 
+demands on the organization of workplace health an d safety. The existence of a solid occupational safety or-
+ganization proved to be a substantial benefit in overcoming the resulting challenges.  Sartorius  GRI Report  2021  Social Standards   57 
+ 
+ Sartorius has high safety standards to minimize job -related medical conditions, risks to health, and potential 
+causes of industrial accidents. The basic principles and core policies on occupational safety and health pro-
+tection are defined throughout the Sartorius Group in its corporate policy on workplace safety and health. 
+Occupational safety and the preservation an d promotion of the good health of all employees are very im-
+portant to Sartorius, and management actively encourages them.  
+Planned, mandatory employee training on topics of occupational health and safety and environmental pro-
+tection ensure that our staff m embers recognize risks and avoid them accordingly. Sartorius analyzes all acci-
+dents regularly and derives accident prevention measures from them that can also be used for other sites. At 
+our local Group locations, work safety committees confer regularly to  discuss measures that promote health 
+and prevent work -related accidents, and inform management of the results of their analysis.  
+At the Aubagne site, for instance, a cross -unit team works to improve occupational safety and reduce work -
+related accidents. S ince employee behavior plays a key role in many of the work -related accidents, in addition 
+to making technical improvements the team plans to raise awareness with regard to safety among employees. 
+More than 1,000 employees – most of them from areas with a higher risk potential – have already taken part in 
+training sessions since the new workshops to raise safety awareness were initiated in 2020. In addition, first 
+aiders took part in a full -day training course to minimize risks. Workshops are offered especi ally to managers 
+to prepare them so that they can improve safety management in their teams.  
+The Group's corporate health management policy addresses both the physical and psycho -social elements of 
+health to enhance employee performance and motivation, ensu re their employability and reduce illness -re-
+lated costs. Most sites have an in -house medical service. In addition, an external provider is on hand to offer 
+psychological help on any work -related and indeed personal matter. Staff can reach the service via a  hotline.  
+One of our two companies in Beijing, one of our companies in Shanghai and one of our two companies in Ben-
+galuru are certified in accordance with ISO  45001.  
+Employees from external companies also work for Sartorius, for example, cleaning staff and  construction com-
+panies. Their safety is also important to us. This is why contractors’ employees receive occupational safety in-
+structions before they begin their work. These instructions specifically mention how incidents and accidents 
+can be reported.  
+During the Covid -19 pandemic, two considerations especially shaped our actions: first, protecting the health 
+of our more than 13,000 employees. Second, maintaining our business operations, on the one hand, to be able 
+to support our customers and, on the othe r, to ensure our own financial stability. In view of the fact that many 
+of our customers are involved in the development and production of vaccines against the coronavirus, Sarto-
+rius has a special social responsibility. It is therefore not an option to red uce personnel in production in order 
+to improve infection protection or to shut down parts of our operations. On the contrary, production was ac-
+tually expanded . 
+  Sartorius  GRI Report  2021  Social Standards   58 
+ 
+ Our well -established occupational safety processes put us in a position where we could respon d quickly and 
+extensively to these special challenges during the Covid -19 pandemic. A crisis team comprising members from 
+different units and the Executive Board works on a corporate level to monitor and assess the situation con-
+stantly and introduce approp riate measures if necessary. Several teams also work on a local level.  
+To protect employees, social distancing rules were put in place at a very early stage and business trips were 
+almost completely stopped. Face masks and visors are provided at the sites . 
+In conjunction with local vaccination centers, Sartorius has already administered more than 7,000 coronavirus 
+vaccinations.  
+Sartorius already received awards at several sites for its safety concept during the Covid -19 pandemic in 2020. 
+Sartorius was the first company in Tunisia to get the Apave Certification Safe & Clean Label for its actions to 
+protect the health and safety of its employees during the pandemic. The site in Bangalore was also com-
+mended for its safety concept: the Confederation of Indian I ndustries (CII) awarded ‘Gold’ for the measures.  
+403 -9 
+Work -Related Injuries  
+In comparison to the previous year, the number of recordable work -related injuries increased marginally. 
+Given the significant increase in the number of hours worked, this represe nts a positive development that is 
+also reflected in the relative frequency of work -related injuries, which fell. Due to the pandemic, employees 
+mostly worked from home. However, work in production and logistics increased during the reporting year. 
+There w ere no accidents with fatalities or other serious outcomes at any of our sites.  
+Work -Related Injuries1, 2, 3     
+  2021  2020  
+Recordable work -related injuries (employees)  151 145 
+Relative frequency of work -related injuries per 1,000,000 theoretical working hours (employ-
+ees)  6.3 8.2 
+Work -related injuries with a serious outcome3 0 0 
+Fatal occupational accidents  0 0    
+1 Companies acquired during the year are not included and, in accordance with the reporting guideline, will not be reported u ntil the  
+next reporting year. The two sales companies in the Netherlands are not counted.  
+2 The following employee figures include all employees of the Sartorius Group except for apprentices, interns, permanent abse nt em-
+ployees and employees in partial retirement. E mployee figures are shown as headcount.  
+3 An accident with a serious outcome is an accident in which the injured person is not rehabilitated at all or not until six months after the 
+accident.  
+ 
+404 Training and Education  
+103  
+Management A pproach  
+Currently, 13,8321 employees contribute to Sartorius’ success. Continuing professional development, assump-
+tion of responsibility and opportunities to advance within the company are important for our employees' sat-
+isfaction. These competences safeguard thei r employability and open up new professional prospects for them.  
+  Sartorius  GRI Report  2021  Social Standards   59 
+ 
+ As a globally operating company, we do business in many different regions and markets. Sartorius employees 
+from 110 countries work together. The interplay of a variety of perspectives and experiences helps us under-
+stand our customers better, develop tailored solutions and remain competitive in a global economy. We be-
+lieve that a working environment of mutual trust, appreciation and respect brings the best work results and 
+increases our empl oyees’ motivation and creativity as well as their loyalty.  
+Sartorius has hired 4,381 new employees since January 2021. On account of rapid growth, the previous 
+onboarding process was optimized in order to induct new employees quickly and efficiently. Effec tive 
+onboarding is designed to ensure that new employees quickly feel included within the Sartorius team so that 
+they can make a positive contribution from day one.  
+We strive to offer our employees good working conditions to encourage them to apply their s kills in the best 
+possible manner. The approaches that we pursue throughout the Group are defined in our policy on work 
+practices and social standards. To improve the accuracy of its measures to create good working conditions, 
+Sartorius conducts two global  employee surveys each year. Known as “Pulse Checks,” these surveys are con-
+ducted each spring and each fall, addressing a range of topics such as employees’ perception of the corporate 
+and leadership culture, of their own workplace and work satisfaction in  general. All employees are asked to 
+suggest improvements. By virtue of this regular and systematic feedback on leadership culture and working 
+conditions, executives and the HR department can respond swiftly and initiate any necessary improvement 
+measures.  We believe there is considerable potential in discussing the results within individual teams and 
+jointly devising suggested improvements.  
+Annual performance reviews between employees and their managers also provide a forum for discussing per-
+formance, targ ets and individual development opportunities. In the year under review, the performance de-
+velopment process was conducted digitally with the support of the system. This approach improves the con-
+sistency and transparency of the process in terms of setting a nd agreeing expectations for each HR develop-
+ment cycle; it also makes it possible to agree individual development plans for employees that foster their con-
+tinued development.  
+Our employees should be able to develop personally and professionally throughout their professional lives. 
+We firmly believe that all employees have their own talents and that they can contribute these talents in a 
+variety of useful ways. We have therefore expanded our learning opportunities to include digital self -study 
+offerings acce ssible to all employees and have added online seminars to the portfolio in order to be able to 
+offer a broader selection of content.  
+In our view, ensuring effective leadership at all levels of the organization is central to supporting our further 
+growth am bitions. In 2021, we focused on top -level employees and executives and will further expand the 
+scope in 2022.  
+To create the same opportunities for people regardless of their life situations, we have installed a flexible work 
+scheduling model at many of our  companies. Employees are often able to take advantage of flextime, part -
+time and teleworking options.  
+In addition to flexible work schedules, our response to the need for work -life balance includes child care op-
+portunities in Göttingen. Here, for example,  there are offers for children during school vacations, and a day 
+care center is available close to the company on the Sartorius Campus. As an inclusive day care center, it is also 
+open to children with disabilities. It’s part of our corporate culture that  fathers also take family leave at Sarto-
+rius.  
+Measures that promote equal opportunity in our company include the creation of transparency on salary 
+structures. The majority of salaries at the German companies are linked to the rates agreed with the IG Meta ll Sartorius  GRI Report  2021  Social Standards   60 
+ 
+ trade union, with some paid in accordance with rates established for IG Bergbau, Chemie, Energie. The remu-
+neration paid to employees in France and Austria is also based on trade union rates. Using the union rates 
+makes our remuneration more transparent.  
+Works councils or other legally mandated bodies represent the interests of the workforce. In Germany, there 
+is also a Group works council comprising members of the local works councils at all operating companies.  
+404 -1 
+Average Hours of Training per Year p er Employee  
+To us, education is a valuable asset, and we consider it part of our corporate responsibility to support it and 
+make it accessible within our sphere of influence.  
+During the reporting year, 167,600 hours were invested in training measures – on average 12.2 training hours 
+per employee.  
+Training Hours by Region and Gender1, 2     
+  EMEA  Americas  Asia | Pacific  Total  
+Women  11.4 13.7  16.0  12.5  
+Men  11.3 13.7  13.2  12.1 
+Total  11.3  13.7  14.2  12.2       
+1 Reports for 2021.   
+2 Companies acquired during the year are not counted and, in line with the reporting guideline, will be included in the repor t next year. 
+Companies that were consolidated last year report fully this year.  
+404 -3 
+Percentage of Employees Receiving Regular Performance and Career Development Reviews  
+ 
+Percentage of Employees who Received a Performance Review, by Gender1, 2     
+  2021  2020  
+Female  - 32%  
+Male  - 29%  
+Total  - 30%     
+1 Employee figures are shown as headcount.  
+2 Companies acquired during the year are not counted and, in line with the reporting guideline, will be included in the repor t next 
+year. Companies that were consolidated last year report fully this year.  
+405 Diversity and Equal Opportunity  
+103  
+Management A pproach  
+As a globally operating company, we do business in many different region s and markets. Sartorius employ ees 
+cooperate across six continents in performing their work. The company’s global network  shapes our daily work. 
+Many of our departments cover multiple company locations and countries, and project teams are often com-
+posed internationally.  
+The diversity of our procurement and sales markets is reflected in our corporate culture. The productive i nter-
+play of a variety of perspectives and experiences helps us understand our customers better, develop tailored 
+solutions and remain competitive in a global economy. When filling management positions we likewise aim to 
+achieve a mix of culture, genders an d age groups.  Sartorius  GRI Report  2021  Social Standards   61 
+ 
+ One of our guiding principles is respecting the value of our different employees and creating the same oppor-
+tunities for all. Our diversity and inclusion approach involves having a good mix, a common goal, an open atti-
+tude towards differences , trust and flexibility.  
+Measures that promote equal opportunity in our company include the creation of transparency on salary 
+structures. The majority of salaries at the German companies are linked to the rates agreed with the IG Metall 
+trade union, with some paid in accordance with rates established for IG Bergbau, Chemie, Energie. The 
+remuneration paid to employees in France and Austria is also based on trade union rates. Using the union rates 
+makes our remuneration more transparent.  
+Works councils or ot her legally mandated bodies represent the interests of the workforce. In Germany, there 
+is also a Group works council comprising members of the local works councils at all operating companies.   
+Pursuant to the German Act on Equal Participation of Women and  Men in Executive Positions in the Private 
+and the Public Sectors, the Supervisory Board defined a target quota for the Executive Board that is described 
+in the following section.  
+The Sartorius Executive Board is a committee that presently consists of four  members and is therefore rela-
+tively small; the establishment of a rigid gender quota can be problematic. The current four members of the 
+Executive Board of Sartorius AG are men. The appointment of at least one woman to the Executive Board was 
+defined as a  target to be met by the present deadline of June 30, 2022.  
+Likewise with regard to the appointment of women to the Executive Board of Sartorius AG, the Supervisory 
+Board supports the activities of the Executive Board to further increase the percentage of female executives 
+at the first two management levels in the company. The Executive Task Committee responsible and the full 
+Supervisory Board regularl y receive reports on the development of the proportions of women in senior -level  
+management positions.  
+ 
+First and Second Management Levels Below the Executive Board  
+Over the past years, the percentage of women at the first two management levels below the Executive Board 
+has considerably increased on the whole and is already at a comparably high level.  
+For t he next deadline by June 30, 2022, the Executive Board resolved  in 2017 to increase the propor tion of 
+women at both levels of management below this board to ar ound 30%. Currently, the propor tion of women at 
+the first management level is around 38%; tha t at the second level, around 21 %, thus exceeding or approaching 
+the established quota. In general, it should be noted that owing to the relatively small number of managers at 
+the first level, even individual personnel changes can lead to sizable swings in the  quota. Moreover, in the past 
+the consolidation of acquired companies has frequently led to a slight dilution in the proportion of women, 
+and  this effect cannot be excluded in the future.  
+  Sartorius  GRI Report  2021  Social Standards   62 
+ 
+ 405 -1 
+Diversity of Governance Bodies and Employees  
+At the end of t he reporting year, women made up 3 9.3  % of the total workforce, which is the same as the pre-
+vious year.  
+Members of Governance Bodies by Gender and Age Group1, 2   
+  Female  Male  
+≤ 29 years  - - 
+30 – 49 years  - 19%  
+≥ 50 years  31%  50%     
+1 Supervisory Board and Executive Board  
+2 Members of the governance bodies as of Decem ber 31, 2020.  
+Employees by Employee Category, Age Group and Gender1, 2   
+  Management  Employees  Total  
+Female  5.0%  34.3%  39.3%  
+≤ 29 years  0.3%  9.5%  9.8%  
+30 – 49 years  3.4%  18.2%  21.6%  
+≥ 50 years  1.3%  6.6%  7.9%  
+Male  10.5%  50.2%  60.7%  
+≤ 29 years  0.4%  12.0%  12.4%  
+30 – 49 years  6.9%  28.7%  35.6%  
+≥ 50 years  3.2%  9.5%  12.7%  
+Total  15.5%  84.5%  100.0%      
+1 Reports for 2021.  
+2 Employee figures are shown as headcount.  
+Employees with Disabilities1   
+  2021  2020  
+Employees with disabilities  241 207     
+1 Employee figures are shown as headcount.  
+406 Non -Discrimination  
+103  
+Management Approach  
+The Sartorius Code of Conduct requires all Sartorius employees to adopt a task -oriented, open, friendly and 
+fair approach to interacting with  colleagues, employees and third parties, thereby helping to create an atmos-
+phere of respectful cooperation. We  do not tolerate employees being discriminated against, disadvantaged, 
+harassed or excluded based on their sex,  ethnic origin, life philosophy , race, religion, age, dis ability, appear-
+ance, sexual preferences and identity, origin or  political position.  
+Sartorius actively integrates disabled employees into its workforce. All new buildings at Sartorius sites in Ger-
+many are designed to be barrier -free. A Group disability officer overse es a team that has been support ing em-
+ployees with special needs in the German offices since 2014. While Sartorius meets the regulated standards 
+at all its companies, it surpasses them significantly at its German sites.  Sartorius  GRI Report  2021  Social Standards   63 
+ 
+ 406 -1 
+Incidents of Disc rimination and Corrective Actions Taken  
+Two suspected cases of discrimination were reported during the period under review. No cases of discrimi-
+nation were determined during the reporting period.  
+412 Human Rights Assessment  
+103  
+Management Approach  
+The Unit ed Nations Guiding Principles on Business and Human Rights clarify the responsibility of states and 
+businesses to protect and respect human rights. The focus is therefore not only on preventing infringements 
+of human rights, but also the positive contribut ion that a business can make through its activities that promote 
+the protection of human rights.  
+Sartorius pursues the goal of taking the highest possible level of care to prevent breaches of human rights 
+within its sphere of influence.  
+In line with the U N Guiding Principles on Business and Human Rights, we respect and support the implemen-
+tation of the values of the International Bill of Human Rights, the OECD Guidelines for Multinational Enter-
+prises and the International Labour Organization (ILO) Declarat ion on Fundamental Principles and Rights at 
+Work, by committing ourselves to regard these internationally recognized human rights as relevant for our 
+operations. We respect the laws of the countries in which we operate.  
+A Policy Statement on Human Rights h as been communicated to employees via the intranet since February 
+2019 and is also available to all stakeholders on the Internet.  
+Sartorius’ Policy Statement on Human Rights is binding on the entire Group and applies worldwide. It requires 
+all employees to  observe appropriate, fair, and lawful conduct towards other employees, business partners, 
+and the local community. We expect our business partners, suppliers, customers and cooperation partners to 
+operate their business in line with correspondingly high e thical standards.  
+Sartorius’ Code of Conduct and the Code of Conduct for business partners address the content of Sartorius’ 
+Policy Statement on Human Rights and puts it into concrete terms for everyday work. In annual online training 
+courses about Sartori us’ Code of Conduct, Sartorius employees strengthen their knowledge of the content 
+and check it in the subsequent online test.  
+The complaint system described on page 140  ensures that topics with human rights relevance can be reported 
+– even anonymously if the person so wishes.  
+Existing processes are continuously reviewed and adapted where necessary. An interdisciplinary working 
+group was established in 2021 in order to fu lfill the requirements of the new Duty of Care Act to ensure that 
+human rights are observed in global supply chains.  
+The Executive Board becomes involved in handling reported incidents on a case -by-case basis.  
+If the company's performance and the success o f the concepts in relation to human rights are to be made 
+measurable, it is necessary to define specific quantitative indicators. In this process it is important to consider 
+the influence of factors outside the company’s sphere on the indicators. For examp le, actions by local govern-
+ment heads could be outside Sartorius’ sphere of influence.  Sartorius  GRI Report  2021  Social Standards   64 
+ 
+ Sartorius has started defining which indicators could be relevant and reports on these in the respective sec-
+tions. For our approach, we looked at the entire spectrum of human rights, how they are defined in the Inter-
+national Bill of Human Rights and the International Labour Organization (ILO) Declaration on Fundamental 
+Principles and Rights at Work and then considered which of these human rights could be influenced releva ntly 
+in the context of our business operations. In the next step, we reviewed our existing reporting system for indi-
+cators that would be suitable for making this influence visible. We will complete the analysis in the coming year 
+and then consider includin g more indicators.  
+In the reporting year, we report on the right to work in the section on “Finding and Retaining Talented Young 
+Staff” and via the indicator “New Hires by Region, Gender and Age Group”. We report on the right to education 
+in the same secti on via the indicator “Training Hours by Region and Gender”. We report on the right to an 
+achievable maximum level of physical and mental health in the sections “Innovation & Social Contribution” and 
+“Occupational Health and Safety” and via the indicator “W ork-Related Injuries”.  
+A comprehensive report can also be found in the separately published GRI Report. This is more detailed infor-
+mation that is provided voluntarily.  
+412 -2 
+Employee Training on Human Rights Policies or Procedures  
+Durin g the period under r eview, 9.241 employees from 35  countries completed training for the Code of Con-
+duct. The hours spe nt on training amounted to 2,155  for the Code of Conduct . The Sartorius Code of Conduct 
+is based on international agreements and guidelines, including the Uni versal  Declaration of Human Rights, the 
+conventions of the International Labor Organization (ILO) and the United  Nations Global Compact. The hours 
+spent on training amounted to 4,571 for the Code of Conduct and 4,670 for the Anti -Corruption Code. Com-
+plianc e training courses are currently available in German, English, French and Chinese.  
+414 Supplier Social Assessment  
+103  
+Management Approach  
+Respect for human rights, the maintenance of high environmental standards and good, safe and fair working 
+conditions for the production of our products is important to us, and apply to sites outside our own production 
+as well. With more than 8,000 supplier s in more than 40 countries and a purchasing volume that corresponds 
+to about 40% of our sales revenue1, it is obvious that our upstream supply chain is important for us to imple-
+ment these goals.  
+The assumption of responsibility in global supply chains is also governed by a growing number of laws and 
+requirements. In particular, the German Act on Corporate Due Diligence in Supply Chains, which was passed 
+by the German parliament in July 2021, seeks to improve the in ternational human rights situation by setting 
+out requirements for the responsible management of supply chains. This Act comes into effect for German -
+based companies with more than 3,000 employees on January 1, 2023.  
+Moreover, the value chains for pharmace uticals are very sensitive and are the focus of many stakeholders. In 
+particular, patients at the end of the supply chain are dependent on their medications being available and safe 
+at all times.  
+1 Revenue and purchasing volume in 2021.  Sartorius  GRI Report  2021  Social Standards   65 
+ 
+ Since January 2020, we have been verifying suppliers’ compl iance with our sustainability requirements via an 
+external evidence -based ESG assessment, as well as in -house ESG quick checks. In the year under review, we 
+have been working to set up a comprehensive risk management system and design new processes in orde r to 
+be able to meet and document the requirements of the new Supply Chain Act in the near future, but by no 
+later than 2023.  
+Our Code of Conduct for Business Partners provides the basis for collaboration with our business partners 
+throughout the Group. Ou r requirements with regard to the environment, social matters and governance are 
+defined in the Code. Since December 2019, acknowledgment of the Code of Conduct is part of the ac-
+ceptance process for new suppliers. In 2020, we began systematically reviewing  whether our existing suppliers 
+have acknowledged the Code and, if not, asking them to do so.  
+For suppliers who are very relevant for our business processes and/or a high purchasing volume, we work to-
+gether with the external sustainability assessment plat form EcoVadis. The external ESG assessment is based 
+on a self -assessment, a review of the associated documents and information from external sources. EcoVadis 
+reviews 21 indicators in the areas of environment, labor and human rights, ethics and sustainable  procurement.  
+Beginning in 2021, Sartorius quality auditors systematically conducted ESG quick checks within the scope of 
+all planned quality audits in the suppliers’ production plants. For this purpose, Sartorius put its sustainability 
+requirements into a  questionnaire. This will be provided to suppliers before the audit. During on -site auditing 
+of suppliers’ production plants, compliance with the requirements of our Code of Conduct for Business Part-
+ners is reviewed on the basis of the questionnaire.  
+The objective of all measures is to initiate actual improvements in the working, social and environmental stand-
+ards of our suppliers. Sartorius Management is involved in shaping the process via the Corporate Sustainability 
+Steering Committee and is informed ab out the progress being made.  
+We do not establish business relationships with suppliers where we see a considerable risk of child, forced or 
+mandatory labor, other breaches of human rights or negative impacts on society, and will end any existing re-
+lationsh ips with such suppliers. This procedure is also defined in our new process for sustainability in the supply 
+chain.  
+During the Covid -19 pandemic, we are focusing on securing our delivery capabilities. This is very important 
+considering the validated produc tion processes of our customers. This is why we manage stocks of raw mate-
+rials and finished products actively and maintain high levels of safety stock.  
+  Sartorius  GRI Report  2021  Social Standards   66 
+ 
+ 414 -2 
+Negative Social Impacts in the Supply Chain and Actions Taken  
+In 2021, we received 110 valid sus tainability assessments on our suppliers from EcoVadis, with 165 further as-
+sessments currently being prepared. The current evaluations cover roughly a third of our purchasing volume. 
+In 2021, we spoke to suppliers who refused an EcoVadis assessment or whos e assessment has expired.  
+The ESG quick checks performed by Sartorius itself as part of quality audits were still conducted in the year 
+under review despite the coronavirus pandemic, albeit to a reduced extent, with 107 such quick checks com-
+pleted as of th e end of the reporting year.  
+We will use the results of the EcoVadis assessments and the ESG quick checks to develop our internal process 
+in 202 2. 
+415 Public Policy  
+103  
+Management Approach  
+Sartorius is politically independent and does not provide financial  or in -kind support to politicians or political 
+parties.  
+415 -1 
+Political Contributions  
+In accordance with the management approach, no political contributions were made.  
+419 Socioeconomic Compliance   
+103  
+Management Approach  
+During the reporting year, a Glo bal Regulatory Affairs Committee was established, with members from  Com-
+pliance, Regulatory Affairs, Quality, Product Development, Procurement, EHS and Corporate  Responsibility. 
+The committee meets regularly to monitor new legal initiatives in the various u nits and to create  the corre-
+sponding structures in the company.  
+419 -1 
+Non -Compliance with Laws and Regulations in the Social and Economic Area  
+No significant fines or non -monetary penalties resulting from violations of laws or regulations were imposed in 
+the reporting year. Two suspected cases of corruption were reported, one of which is still being investigated 
+and one of which has already been deemed unsubstantiated/unproven.  
+Innovation & Social Contribution  
+Why it’s important  
+Our corporate mission is t o promote scientific progress in the life sciences, which in turn supports the devel-
+opment of new vaccines, more effective therapies and affordable medical care. In the year under review, as in 
+the previous year, the importance of this mission for society as a whole was underlined by the biotechnology 
+sector’s contribution towards fighting the Covid -19 pandemic.  Sartorius  GRI Report  2021  Social Standards   67 
+ 
+ The biopharmaceutical market is rapidly developing – it is an area in which scientific breakthroughs leading to 
+new therapies occur at a high rate.  At the same time, it still takes about ten years to develop a new pharma-
+ceutical drug and this remains cost -intensive. Our aim is to help our biopharmaceutical customers develop 
+and produce biopharmaceuticals more efficiently.  
+From day one of its incorpor ation, Sartorius has worked to maintain an open exchange with the scientific com-
+munity and, in this way, has driven forward scientific insights and precisely tailored product development. Our 
+goal is to promote scientific thinking and working in society, c reating a broader basis for future research and 
+development.  
+Our approach  
+In collaboration with expert scientific groups worldwide, the company’s research and development activities 
+are aimed at making a contribution so that new active pharmaceutical ingredients are discovered faster and 
+drugs can be produced efficiently. In this way, we want to bring about benefits for society, support sustainable 
+development and, at the same time, strengthen the company’s growth.  
+The innovation activities of the Sart orius Group are based on three pillars: first, specialized in -house product 
+development, second, research cooperation agreements with partners such as scientific institutions and, third, 
+integration of complementary technologies through acquisitions. While  product development is assigned to 
+the respective board members, Corporate Research works across the different divisions under the control of 
+the CEO.  
+Sartorius is involved in many research partnerships covering a wide range of subjects. Forms of collabor ation 
+vary from single cooperation agreements to partnerships with institutes and scientific facilities. Both of these 
+make up about 40% of the cooperation agreements. Sartorius also carries out research work in consortia, to 
+which the company contributes its own scientific findings.  
+Often, new approaches arise from the interdisciplinary collaboration of various experts. Because of this, our 
+approach is to bring experts from science startups and industry together and encourage networking and the 
+sharing of ideas. This is conducive to the generation of new and creative ideas and thus supports scientific 
+progress.  
+Supporting young scientists is important to us, as this creates the basis for scientific progress in the future.  
+Our performance  
+In past years, tec hnologies from Sartorius have been used in the development and production of vaccines to 
+combat various diseases, such as Ebola, Zika and H1N1. In the reporting year, the company’s products and pro-
+cess knowledge made a significant contribution towards figh ting the Covid -19 pandemic: Sartorius is involved 
+in most vaccine projects throughout the world.  
+In accordance with its innovation concept, Sartorius strengthened its position with acquisitions during the year 
+under review. Details about these acquisitions  and corresponding expansion of the product portfolio and ser-
+vice spectrum can be found on pages 25 ff  of the Group Management Report. Pages 33 ff  of the Group Man-
+agement Report contain information about our research and development activities.  
+By expandin g its research cooperation agreements, Sartorius supports the development and production of 
+biopharmaceuticals worldwide and, hence, improves the availability of innovative medical care in the long 
+term. We also seek to improve the sustainability of our pr oducts through cooperation agreements. More in-
+formation about product stewardship can be found in the Environment section from page 144.  
+In the year under review, Sartorius also engaged in various partnerships and cooperations, both with other 
+companies an d with scientific institutions.  Sartorius  GRI Report  2021  Social Standards   68 
+ 
+ A partnership between Sartorius and RoosterBio – a provider of cell banks, media and bioprocess systems – 
+aims to combine technologies and tools in a way that facilitates the faster, more effective and more cost -effi-
+cient de velopment of stem cells and therapies. The two companies wish to harness the data from the partner-
+ship to provide shared learning and development resources for the growing cell and gene therapy sector.  
+In tandem with BRAIN Biotech AG, headquartered in Germ any, Sartorius is researching and adapting the pi-
+oneering CRISPR –Cas genome editing nuclease for specific applications in life sciences. Genome editing en-
+ables targeted and pinpoint insertion, deletion and modification within the genome of a living organis m. In 
+terms of biopharmaceuticals, these genetic scissors could pave the way for new therapies, thereby increasing 
+the chances of a cure for many different illnesses, such as cancer, neurodegenerative diseases, and hereditary 
+diseases.  
+Sartorius has enter ed into a partnership with McMaster University in Hamilton, Canada, with the aim of im-
+proving the production process for antibody - and virus -based treatments for illnesses such as COVID -19, can-
+cer and genetic disorders. Initially scheduled to run for four years, this partnership intends to generate highly 
+effective research that will make treatments available on a wider scale and innovative medications more af-
+fordable.  
+Sartorius supports the Penn State University, where it is helping the Sartorius Cell Cult ure Facility become a 
+reality. As the twelfth core facility of the Huck Institutes of the Life Sciences, this laboratory is part of a collab-
+orative biotechnology ecosystem. These facilities are available to researchers from across Penn State, as well 
+as ot her academic and commercial researchers. They not only contain equipment that is effectively out of 
+reach for smaller laboratories on account of its complexity and cost level, but also offer the expertise required 
+to operate such equipment.  
+In partnership  with the French 3D Innovation Lab program, a technology platform for innovations in biosci-
+ence and health care, the Université de Lyon and Sartorius will set up a shared 3D bioprinting laboratory. Sar-
+torius will provide expertise and equipment, e.g. autom ated high -throughput bioreactor systems, high -speed 
+virus quantification devices, and in -depth knowledge of polymer science in terms of health -care applications. 
+Technology will make it possible to develop systems for the bioproduction of therapeutic agent s based on the 
+3D bioprinting of cell tissue.  
+Live -cell imaging using artificial intelligence (AI) can help to convert large quantities of visual data into biolog-
+ical insights in an automated process. In order to develop more precise AI models, Sartorius has instigated the 
+“Cell Instance Segmentation Challenge” on Kaggle, the world’s largest online community for data scientists 
+and machine learning experts. As part of this project, more than 1,700 data scientists are working together to 
+help researchers ga in better insights from their experiments. Ultimately, this could lead to new treatments for 
+millions of people with certain conditions.  
+In the year under review, Sartorius also initiated the LifeScience Xplained | Sartorius Award for New Commu-
+nication wit h a prize of €10,000. The 2021 winner received the award in recognition of the creative and enter-
+taining videos on his YouTube channel “M.E.G.A.,” where he shares his knowledge of molecular biology in an 
+engaging and easy -to-understand way.  Sartorius  GRI Report  2021  GRI Content Index   69 
+ 
+ GRI Content Index  
+Organization and Report Profile  
+General Standard  Disclosures      
+    Page  
+  GRI 102: Organizational Profile 2016    
+102 -1 Name of the Organization  8 
+102 -2 Activities, Brands, Products, and Services  8-9 
+102 -3 Location of Headquarters  9 
+102 -4 Location of Operations  9-10 
+102 -5 Ownership and Legal Form   10 
+102 -6 Markets Served  10 
+102 -7 Scale of the Organization  10-12 
+102 -8 Information on Employees and Other Workers   13 
+102 -9 Supply Chain  13-15 
+102 -10 Significant Changes to the Organization and its Supply Chain  15 
+102 -11 Precautionary Principle  or Approach  15-16 
+102 -12 External Initiatives   16 
+102 -13 Membership of Associations  16-17 
+  GRI 102: Strategy 2016    
+102 -14 Statement from Senior Decision -Maker  17 
+102 -15 Key Impacts, Risks, and Opportunities  17-18 
+  GRI 102: Ethic and Integrity 2016    
+102 -16 Values, Principles, Standards, and Norms of Behavior  18 
+102 -17 Mechanisms for Advice and Concerns about Ethics   18-19 
+  GRI 102: Governance 2016    
+102 -18 Governance Structure  19 
+102 -20 Executive -Level Responsibility for Economic, Environmental and Social Topics   19-20 
+102 -21 Consulting Stakeholders on Economic, Environmental, and Social Topics  20 
+102 -22 Composition of the Highest Governance Body and its Committees  20 
+102 -23 Chair of the Highest Governance Body  20 
+102 -24 Nomination and Selection of the Highest Governance Body  20-21 
+102 -25 Conflicts of Interest  21 
+102 -29 Identifying and Managing Economic, Environmental, and Social Impacts  21 
+102 -30 Effectiveness of Risk Management Processes  21-22 
+102 -31 Review of Economic, Environmental, and Social Topics  22 
+102 -32 Highest Governance Body’s Role in Sustainability Reporting  22 
+102 -33 Communication of Critical Concerns  22 
+102 -35 Remuneration Policies  22 
+102 -36 Process to Determine Remuneration  22-23 
+102 -38 Annual Total Compensation Ratio  24 Sartorius  GRI Report  2021  GRI Content Index   70 
+ 
+ General Standard  Disclosures      
+    Page  
+  GRI 102: Stakeholder Engagement 2016    
+102 -40 List of Stakeholder Groups  24 
+102 -41 Collective Bargaining Agreements  25 
+102 -42 Identifying and Selecting Stakeholders  26 
+102 -43 Approach to Stakeholder Engagement  26 
+102 -44 Key Topics and Concerns Raised  26 
+  GRI 102: Reporting Practice 2016    
+102 -45 Entities Included in the Consolidated Financial Statements  26 
+102 -46 Defining Report Content and Topic Boundaries  27 
+102 -47 List of Material Topics  27 
+102 -48 Restatement of Information  27 
+102 -49 Changes in Reporting  28 
+102 -50 Reporting Period  28 
+102 -51 Date of Most Recent Report  28 
+102 -52 Reporting Cycle  28 
+102 -53 Contact Point for Questions Regarding the Report  28 
+102 -54 Claims of Reporting in Accordance  with the GRI Standards  28 
+102 -55 GRI Content Index  28 
+102 -56 External Assurance  28    
+ 
+ 
+ 
+  GRI 102: Stakeholder Engagement 2016    
+102 -40 List of Stakeholder Groups  p. 23  
+102 -41 Collective Bargaining Agreements  p. 24  
+102 -42 Identifying and Selecting  Stakeholders  p. 25  
+102 -43 Approach to Stakeholder Engagement  p. 25  
+102 -44 Key Topics and Concerns Raised  p. 25  
+  GRI 102: Reporting Practice 2016    
+102 -45 Entities Included in the Consolidated Financial Statements  p. 25  
+102 -46 Defining Report Content  and Topic Boundaries  p. 25  
+102 -47 List of Material Topics  p. 26  
+102 -48 Restatement of Information  p. 26  
+102 -49 Changes in Reporting  p. 26  
+102 -50 Reporting Period  p. 26  
+102 -51 Date of Most Recent Report  p. 27  
+102 -52 Reporting Cycle  p. 27  
+102 -53 Contact Point for Questions Regarding the Report  p. 27  
+102 -54 Claims of Reporting in Accordance with the GRI Standards  p. 27  
+102 -55 GRI Content Index  p. 27  
+102 -56 External Assurance  p. 27     
+ 
+  Sartorius  GRI Report  2021  GRI Content Index   71 
+ 
+ Category: Economic  
+ 
+Specific Standard Disclosures      
+    Page  
+  GRI 203: Indirect Economic Impacts 2016    
+103  Management Approach  30 
+203 -2 Significant Indirect Economic Impacts  30 
+  GRI 205: Anti -Corruption 2016    
+103  Management Approach  30-31 
+205 -2 Communications and Training about Anti -Corruption Policies and Procedures  31 
+205 -3 Confirmed Incidents of Corruption and Actions Taken  31 
+  GRI 206: Anti -Competitive Behavior 2016    
+103  Management Approach  31 
+206 -1 Legal Actions for Anti -Competitive Behavior, Anti -Trust, and Monopoly Practices  32    
+ 
+Category: Environmental  
+ 
+Specific Standard Disclosures      
+    Page  
+  GRI 302: Energy 2016    
+103  Management Approach  34-35 
+302 -1 Energy Consumption Within the Organization  35-36 
+302 -3 Energy Intensity  36 
+  GRI 303: Water and Effluents 2018    
+103  Management Approach  37 
+303 -3 Water Withdrawal  38 
+  GRI 303: Emissions 2016    
+103  Management Approach  38-41 
+305 -1 Direct (Scope 1) GHG Emissions  42 
+305 -2 Indirect (Scope 2) GHG Emissions  42 
+305 -3 Other Indirect (Scope 3) GHG Emissions  42 
+305 -4 GHG Emissions Intensity  43 
+  GRI 306: Waste 2020    
+103  Management Approach  43-44 
+306 -3 Waste Generated  44 
+306 -4 Waste Diverted From Disposal  45 
+306 -5 Waste Directed To Disposal  45-46 
+  GRI 307: Environmental Compliance 2016    
+103  Management Approach  46-47 
+  GRI 308: Supplier Environmental Assessment 2016    
+103  Management Approach  48-49 
+308 -2 Negative Environmental Impacts in the Supply Chain and Actions Taken  49    
+ 
+ 
+1 The newly formed EHS Compliance Board is considering collecting this information.  Sartorius  GRI Report  2021  GRI Content Index   72 
+ 
+ Category: Social  
+ 
+Specific Standard Disclosures      
+    Page  
+  GRI 401: Employment 2016    
+103  Management Approach  53-54 
+401 -1 New Employee Hires and Employee Turnover  54-55 
+401 -2 Benefits Provided to Full -Time Employees That Are Not Provided to Temporary or Part -Time Employees  55 
+401 -3 Parental Leave  56 
+  GRI 403: Occupational Health and Safety 2018    
+103  Management Approach  56-58 
+403 -9 Work -Related Injuries  58 
+  GRI 404: Training and Education 2016    
+103  Management Approach  58-59 
+404 -1 Average Hours of Training per Year per Employee  60 
+404 -3 Percentage of Employees Receiving Regular Performance and Career Development Reviews  60 
+  GRI 405: Diversity and Equal Opportunity 2016    
+103  Management Approach  60-61 
+405 -1 Diversity of Governance Bodies and Employees  62 
+  GRI 406: Non -Discrimination 2016    
+103  Management Approach  62 
+406 -1 Incidents of Discrimination and Corrective Actions Taken  63 
+  GRI 412: Human Rights Assessment    
+103  Management Approach  63-64 
+412-2 Employee Training on Human Rights Policies or Procedures  64 
+  GRI 414: Supplier Social Assessment 2016    
+103  Management Approach  64-65 
+414-2 Schulungen für Angestellte zu Menschenrechtspolitik und -verfahren  66 
+  GRI 415: Public Policy 2016    
+103  Management Approach  66 
+415-1 Political Contributions  66 
+  GRI 419: Socioeconomic Compliance 2016    
+103  Management Approach  66 
+419-1 Non -Compliance with Laws and Regulations in the Social and Economic Area  66    
+ 
+ 
+ Sartorius  GRI Report  2021  Contacts   73 
+ 
+ Contac ts 
+Petra Kirchhoff  
+Head of Corporate Communications & IR  
+Phone : +49. 551.308.1686  
+petra.kirchhoff@sartorius.com  
+Katharina Tillmanns -Pelzer  
+Head of Corporate Sustainability  
+Phone : +49. 551.308.2893  
+katharina.tillmanns@sartorius.com  
+About This Publication  
+Published by Sartorius AG  
+Corporate Communications  
+37070 Goe ttingen , Germany  
+Editorial Deadline  
+31.03.202 2 
+Published On  
+14.07.202 2 
+Financial Reporting System firesys  
+firesys GmbH  
+Frankfurt | Main , Germany  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sartorius AG  
+Otto -Brenner -Straße 20  
+37079 Goe ttingen  
+Telefon: +49.551.308.0  
+Fax: +49.551.308.3289  
+info@sartorius.com  
+www.sartorius.com  

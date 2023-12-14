@@ -1,0 +1,1217 @@
+Pioneering
+A Better World
+Enabling toda y. 
+Inspiring tomorrow .
+CORPORATE RESPONSIBILITY SUMMARY
+1 This summary magazine
+2  A detailed report conforming to the Global Reporting Initiative (GRI) guidelines
+3  Our corporate responsibility website www.amd.com/corporateresponsibility MESSAGE FROM OUR PRESIDENT 
+AND CEO, RORY READ
+3Over the past few years AMD has been undergoing a 
+complete transformation of our business. I’m proud 
+to share that in 2013, we made significant progress 
+in bringing AMD closer to our mission of becoming 
+the leading designer and integrator of innovative, 
+tailored technology solutions that empower people  
+to push the boundaries of what is possible. 
+Throughout our transformation, AMD’s commitment to corporate 
+responsibility has remained unwavering. We care deeply about our people  
+and our planet, and these values are woven into everything we do. We call  
+this “The AMD Way,” and it is the catalyst driving our approach. 
+This approach isn’t just a moral imperative for AMD; it’s a key business 
+differentiator. We know that: 
+   How we run our business is just as important as the innovative products  
+we deliver;
+   Our employees are motivated and inspired by contributing to social and 
+environmental causes; and
+   Our AMD investors are deeply committed to these issues as well.
+Corporate responsibility is at the core of AMD’s culture. I am proud that 
+AMD has been a leader in this area for many years now, and we continue that 
+tradition with the accomplishments you will find in this report. 
+AMD is a different company today. We are stronger and are building a 
+business model to carry us into the future. We will continue to take steps to 
+transform into a more predictable and balanced business. I am confident that 
+we will deliver. In this report you can read about how our responsibility efforts 
+are evolving and supporting our mission.our offerings:
+•  Accelerated Processing Units (APUs) for tablet, notebook, 
+desktop, professional workstation, game console, server 
+and embedded markets
+•  x86 microprocessors for consumer, embedded and  
+commercial markets, including data centers
+•  Embedded microprocessors for industrial, commercial  
+and consumer markets  
+•  Graphics, video and multimedia products and technologies 
+for desktop and notebook PCs, embedded systems, 
+professional workstations, servers, and game consolesour stats:
+•  Established in 1969 and headquartered  
+in Sunnyvale, California
+• Employees: more than 10,000 worldwide 
+•  More than 40 locations worldwide, including more than  
+a dozen R &D facilities, two dozen international sales  
+offices and two assembly/test manufacturing facilities
+• Publicly traded under NYSE: AMD
+• Fortune 500 firm
+• 2013 revenues of $5.3 billionexamples of our products:
+AMD is bringing the revolutionary 
+heterogeneous system architecture 
+(HSA) design to market this year with 
+our latest and most advanced APUs. 
+These products uniquely combine  
+CPU and GPU for equal memory 
+access and process scheduling to  
+substantially improve both 
+performance and energy efficiency. 
+AMD continues to extend its leadership in graphics architecture and products 
+with award winning AMD Radeon™ and AMD FirePro™ lines featuring the visionary 
+Graphics Core Next (GCN) architecture. Incorporating a radically new approach to 
+the design of a GPU, GCN enables an unmatched level of hardware optimization, 
+revolutionary performance and image quality. These are in widespread use with 
+professional workstations such as the Apple Mac Pro, gaming PCs and consoles, 
+servers and embedded designs.
+AMD recently announced the “Seattle” processor for servers, based on ARM  
+64-bit architecture. This will be the first of numerous 64-bit ARM instruction  
+set processors from AMD for server and embedded markets.SeaMicro Technology offers one of 
+the highest density and most energy 
+efficient servers on the market. Each 
+server cluster (10 rack-unit with 64 
+servers) uses a fraction of the power 
+and space as traditional servers, at up 
+to 12X the throughput.who we are 
+AMD designs and integrates technology that 
+powers millions of intelligent devices, including 
+personal computers, tablets, game consoles and 
+cloud servers that define the new era of surround 
+computing. And our workforce is a force within 
+itself. Over 10,000 people all across the world, who 
+consider being responsible citizens an important 
+part of the AMD culture. We pioneer technology 
+that frees people to push the limits of what is 
+possible, enabling today and inspiring tomorrow.We communicate corporate 
+responsibility information 
+in three formats:
+4 Global Presence
+6 AMD Technology
+8 AMD Changing the Game
+10 Employee Engagement
+12 Energy Efficiency
+14 Supplier Responsibility
+16 Environment
+18 Health and Safety
+20 Stakeholder Engagement
+22 Data Tables and Awardscontents
+Rory Read
+AMD President and CEO
+2
+Tokyo, Japan – SalesSeoul, Korea – Sales
+Shanghai, China – R&D, Design
+Taipei, Taiwan – R&D, Design
+Jakarta, Indonesia – SalesBangkok, Thailand – Sales
+Cyberjaya, Malaysia – Business ServicesLabuan, Malaysia – Business ServicesPenang, Malaysia – ManufacturingPenang, Malaysia – Business ServicesHyderabad, India – R&D, DesignNew Delhi, India – Sales
+Mumbai, India – Sales
+Singapore – R&D, DesignParis, France – SalesBeijing, China – Corporate, R&D, DesignFleet, UK – SalesAmsterdam, Netherlands – Distribution
+Istanbul, Turkey – Sales
+Shenzhen, China – R&D, Design, Business Services, Sales
+Hong Kong, China – SalesSuzhou, China – Manufacturing
+Bangalore, India – R&D, DesignDubai, UAE – SalesMoscow, Russia – Sales
+Kiev, Ukraine – Sales
+Tel Aviv, Israel – R&D, DesignChengdu, China – SalesWarsaw, Poland – Sales
+Milan, Italy – Sales
+Munich, Germany – 
+Business Services & Sales
+Orlando, FL – R&D, DesignAtlanta, GA – Business Services
+Mexico City, Mexico – Sales
+São Paulo, Brazil – Sales
+Buenos Aires, Argentina – SalesBrasília, Brazil – Business ServicesAustin, TX – Corporate, R&D, Design
+Houston, TX – SalesSunnyvale, CA – Corporate,
+Business Services,R&D, DesignBellevue, WA – R&D, Design
+Markham, Ontario – Business Services, R&D, Design
+Fort Collins, CO – R&D, Design
+Boxborough, MA – R&D, Design
+Hsinchu, Taiwan – R&D, Design,
+Business ServicesManufacturing, DistributionR&D, Design
+Business Services
+Corporate OﬃcesSales
+Markham
+Established: 2006
+Operations: AMD Canadian 
+Headquarters and graphics  
+R&D center
+Brazil & Latin America
+Operations: Business Services and Sales. 
+Offices in São Paulo, Brasilia, Mexico City  
+and Buenos Aires.Sunnyvale
+Established: 1969
+Operations: AMD Corporate 
+Headquarters, R&D, DesignBeijing  
+Established: 2004
+Operations: Greater China 
+Headquarters, R&D, Design
+Taipei  
+Established: 1987  
+Operations: Business ServicesShanghai
+Established: 2006
+Operations: Shanghai Research  
+and Development Center (SRDC). 
+AMD’s largest system design hub 
+outside of the United StatesEurope & Middle East
+Operations: R&D, Design, Business Services, 
+Distribution Center and Sales. Offices in over 
+10 countries, with the bulk of AMD processors 
+manufactured by a foundry in Dresden, Germany
+Suzhou
+Established: 2005
+Operations: Assembly, test, mark and pack 
+facility for microprocessors in the Suzhou 
+Industrial Park
+India
+AMD Bangalore Established: 2004
+AMD Hyderabad Established: 2008
+Operations: R&D, Design focusing on 
+graphics and computing solutionsMalaysia
+AMD Penang Established: 1972
+Operations: Microprocessor assembly, 
+test and R&D. The first AMD facility 
+outside North America to set up  
+advanced C4 “flip chip” assembly
+AMD Cyberjaya Established: 2008
+Operations: Business ServicesAustin
+Established: 1978  
+Lone Star campus (officially opened in 2008)
+Operations: Corporate, R&D, Design
+global scale RESPONSIBILITY
+on a
+Locations shown represent AMD owned or leased properties only. AMD-related R&D, 
+design, sales and other activities occur at numerous locations not included on the map.
+Tokyo, Japan – SalesSeoul, Korea – Sales
+Shanghai, China – R&D, Design
+Taipei, Taiwan – R&D, Design
+Jakarta, Indonesia – SalesBangkok, Thailand – Sales
+Cyberjaya, Malaysia – Business ServicesLabuan, Malaysia – Business ServicesPenang, Malaysia – ManufacturingPenang, Malaysia – Business ServicesHyderabad, India – R&D, DesignNew Delhi, India – Sales
+Mumbai, India – Sales
+Singapore – R&D, DesignParis, France – SalesBeijing, China – Corporate, R&D, DesignFleet, UK – SalesAmsterdam, Netherlands – Distribution
+Istanbul, Turkey – Sales
+Shenzhen, China – R&D, Design, Business Services, Sales
+Hong Kong, China – SalesSuzhou, China – Manufacturing
+Bangalore, India – R&D, DesignDubai, UAE – SalesMoscow, Russia – Sales
+Kiev, Ukraine – Sales
+Tel Aviv, Israel – R&D, DesignChengdu, China – SalesWarsaw, Poland – Sales
+Milan, Italy – Sales
+Munich, Germany – 
+Business Services & Sales
+Orlando, FL – R&D, DesignAtlanta, GA – Business Services
+Mexico City, Mexico – Sales
+São Paulo, Brazil – Sales
+Buenos Aires, Argentina – SalesBrasília, Brazil – Business ServicesAustin, TX – Corporate, R&D, Design
+Houston, TX – SalesSunnyvale, CA – Corporate,
+Business Services,R&D, DesignBellevue, WA – R&D, Design
+Markham, Ontario – Business Services, R&D, Design
+Fort Collins, CO – R&D, Design
+Boxborough, MA – R&D, Design
+Hsinchu, Taiwan – R&D, Design,
+Business ServicesManufacturing, DistributionR&D, Design
+Business Services
+Corporate OﬃcesSalesThe Americas Greater China Asia – Pacific Europe, Middle East & Africa AMD Regions:
+5 46The Environmental School ProjectENERGY
+HEALTH CAREPC ownership can have a significant 
+socio-economic impact on a country 
+and its people.  In India, only 10% of 
+households are equipped with PCs.1  
+To help reduce the digital divide, the 
+Uttar Pradesh (UP) state government 
+is providing 1.5 million HP notebooks 
+powered by AMD APU technology to 
+eligible students in the region.
+Distribution began in 2013 and the 
+project has led to HP supporting 1,400 
+jobs and investments in the set-up and management of over 300 service centers 
+in the state.
+“We consider the Uttar Pradesh 
+government’s distribution of 1.5 million 
+APU-powered HP notebooks to students 
+a model case study on digital inclusion 
+and youth empowerment and one of the 
+largest IT projects being undertaken in 
+this space on a global basis.”
+AMD’s SeaMicro servers aided 
+researchers at The Gene Center of 
+the University of Munich (Ludwig 
+Maximilians University, or LMU) in 
+creating the world’s first 3D image of 
+the human ribosome by combining 
+more than 800,000 images. The 
+findings advance the understanding of how bacteria ribosomes can be 
+broken down without harming human 
+ribosomes, similar to the operation of 
+some antibiotics. This could lead to the 
+discovery of new drugs that are more 
+effective and personalized to a person’s 
+genetic profile.The Environmental School Project 
+in British Columbia, Canada has a 
+revolutionary approach to teaching—
+one that doesn’t rely on desks, chairs, 
+blackboards or even a classroom.  
+The concept is called place-based 
+education in which learning is 
+experiential and happens in context. 
+Computers have to provide rugged 
+performance and power efficiency with 
+long battery life per charge, features 
+critical for an outdoor environment and 
+limited access to power outlets.  
+The school’s choice was the HP 3115m notebook featuring an AMD 
+Dual-Core 4 E-3005 APU and an 
+AMD Radeon™ HD 6310M GPU. 
+“With HP and AMD, all the kids from 
+grades 2-7 have the opportunity to 
+use computers from the school. As 
+soon as they come up with a question, 
+they have the opportunity to get the 
+computer out of their pack and use it 
+for that purpose. It’s a huge difference 
+having them available for these kids.”Walking the Walk – AMD’s private cloud
+In 2013, AMD completed one of the 
+world’s largest private clouds for 
+R&D. By deploying the latest in cloud, 
+open-source software and hardware 
+updates, we were able to reduce the 
+number of data centers the company 
+utilized by 75%. The project reduced 
+electricity use by over 10 gigawatt 
+hours resulting in an estimated annual 
+savings of $730K. In addition to the 
+electricity savings, the consolidated systems increased productivity and 
+efficiencies for AMD engineers creating 
+the next generation products.
+AMD and Verizon Co-Develop A 
+Revolutionary Public Cloud Platform
+Understanding that better enterprise 
+adoption of public cloud services 
+demands improved performance, 
+reliability and security, Verizon 
+collaborated with AMD to develop a 
+public cloud service with unmatched capabilities. The innovations in 
+compute performance, storage 
+flexibility and networking are 
+some of the most significant 
+advancements in cloud computing. 
+“We were able to develop a cloud that is 
+faster, lower cost, more secure and more 
+reliable than anything that is available  
+in the market today.”2 
+ 
+     John Considine  
+CTO, Verizon Teremark
+Dental Assistance Devices – 3D VirtualizationDental practices are transitioning from 
+conventional 2D X-ray film to sleek, 
+chair-side monitors that provide 360 
+degree visualization and other advanced 
+graphics-driven capabilities at the 
+touch of a screen. These devices can 
+enhance care and streamline processes 
+at every stage of a patient visit, with 
+procedural prompts for dental assistants, 
+intraoral cameras for detailed images 
+and access to patient data in real time.  “Dental assistant devices equipped 
+for multimedia and 3D visualization 
+provide new levels of visual details to 
+help patients understand diagnosis 
+and treatment recommendations. 
+As would be expected, these 
+capabilities require a very high level 
+of processing performance. AMD’s 
+embedded APUs with a single chip 
+combination of CPU and GPU provide 
+an optimal platform for high-speed 
+and high quality visualization.”
+World’s First 3D Structural View of the Human Ribosome
+Technology Enabling  
+a Better World
+7 (1) http://mait.com/uploads/file/MAIT-KPMG%20Report%20-%20Executive%20Summary.pdf (2) http://www.youtube.com/watch?v=OA0WiwPBP6sImage from the RCSB PDB (www.pdb.org) of PDB ID 3J38  
+(Anger AM, Armache JP, Berninghausen O, Habeck M,  
+Subklewe M, Wilson DN, Beckmann R. (2013) Structures of the  
+human and Drosophila 80S ribosome Nature 497: 80-85).     Dipl.-Phys. Richard Freitag  
+White Lion Technologies
+     Clayton Maitland  
+Principal of The Environmental School Project
+     Vinay Awasthi  
+Vice President, APJ Business PC Systems, HP
+AMD’s thousands of engineers and 
+professionals around the world are 
+passionate about the technology 
+we create. From enabling cloud 
+computing and a new generation of 
+interconnected devices, to helping 
+scientists advance research in 
+healthcare, to providing new ways to engage students and teachers in 
+learning, our technology is making a 
+positive difference in people’s lives 
+and in the world around us.
+EDUCATIONThe National Research Council 
+(NRC) report, “Successful K-12 STEM 
+Education: Identifying Effective 
+Approaches in Science, Technology, 
+Engineering and Mathematics,” asserts 
+that science, technology, engineering 
+and math (STEM) subjects are basic 
+aspects of our lives as citizens, 
+consumers, parents and workers.
+Based on this assertion, it is important 
+for today’s youth to improve their  
+STEM skills, yet the data show that 
+there just aren’t enough students 
+taking an interest in STEM learning. 
+Perhaps this would change if they 
+understood some of the real-world 
+applications of STEM subjects. Here are some telling statistics: In its 
+latest report, Indiana University’s High 
+School Survey of Student Engagement 
+found that 65% of students are bored 
+“at least every day in class.” Yet 
+those same students who are tuning 
+out in school are tuning in to video 
+games, with an estimated 97% of 
+U.S. teens playing online games. 
+That’s where AMD Changing the Game 
+comes in: our signature education 
+initiative designed to inspire kids to 
+learn by creating video games around 
+social issues. AMD Changing the Game 
+uses this passion for gaming as leverage 
+for learning. But instead of playing 
+video games, our program teaches kids how to create them. Through game 
+creation, students learn STEM skills, 
+as well as problem solving, critical 
+thinking, language skills and teamwork. 
+By using age and skill appropriate 
+tools, the program helps educators 
+guide students through the creative 
+process and teaches the mechanics 
+of game design and production. And 
+these are not the violent games 
+that can worry many adults; the 
+curriculum focuses on developing 
+games around important social 
+issues – such as energy conservation, 
+healthcare and reducing poverty.
+National STEM  
+Video Game Challenge
+Recognizing the need to make learning 
+both more engaging and productive, 
+AMD teamed up with the Joan Ganz 
+Cooney Center for the 3rd consecutive 
+year to co-sponsor the U.S. National 
+STEM Video Game Challenge with 
+Microsoft and the Entertainment 
+Software Association. Inspired by President Barack Obama’s “Educate to 
+Innovate Campaign,” the National STEM 
+Video Game Challenge aims to motivate 
+interest in STEM among students 
+in grades 5-12 by tapping into their 
+enthusiasm for playing and making  
+video games.
+In 2013, nearly 4,000 middle school  
+and high school students submitted 
+video games to the Challenge, many of 
+which were more complex, challenging 
+and creative than in previous years.
+The competition provides a creative and 
+innovative approach to STEM learning 
+that parallels our signature education 
+initiative, AMD Changing the Game. 
+Both enable youth to develop their 
+own games focused on social issues 
+and make STEM learning engaging. 
+Each winner received an AMD-based 
+notebook computer with game design 
+and educational software, and a cash 
+prize was awarded to the individual’s 
+or team’s sponsor organization. 
+AMD Foundation was named as a 2012 and 2013 Laureate of the International Data Group’s 
+(IDG) Computerworld Honors Program for the use of technology to promote and advance 
+STEM skills of youth around the world. The annual award program distinguishes organizations 
+and companies that use technology to support and create positive social, economic and 
+educational change. The AMD Foundation does this through AMD Changing the Game.INSPIRING TOMORROW’S INNOVATORS 
+9 8
+Since 2008:  
+ 
+More Than 265,000 Students 
+Reached Worldwide
+Over 40,000 Games Created
+31 Unique Partners
+Over $5 Million  
+in AMD Foundation DonationsAMD Changing the Game
+STEM Education Investments
+“AMD has been a real pioneer 
+in empowering youth through 
+game design. We are very 
+pleased to have partnered 
+with them on the STEM 
+Challenge and support their 
+mission of harnessing the 
+power of game design to 
+inspire youth to tackle critical 
+social issues that will affect 
+their lives while enhancing 
+STEM skills.” 
+  Michael H. Levine  
+ Executive Director,  
+Joan Ganz Cooney CenterAMD joined forces with seven high tech 
+companies and Habitat for Humanity 
+to complete the “House that High 
+Tech Built” in Austin, Texas. Hundreds 
+of volunteers worked on the project, 
+and it was a gratifying team building 
+opportunity for peers from different 
+companies to come together and work 
+on a common goal. The event also 
+helped educate people in our industry 
+about the need for affordable housing.For more than 30 years,  
+AMD has invested money, 
+time and technology in 
+organizations that help 
+strengthen communities 
+worldwide. Additionally, our 
+employees continue to make 
+their communities a better 
+place to live and work by 
+donating their time, talents and 
+money to charitable causes. 
+Our volunteer program, AMD 
+Community Corps, is designed 
+to connect employees with 
+volunteer opportunities in 
+their local communities and 
+encourage participation in 
+company-sponsored volunteer 
+events. Since 1995, AMD 
+employees have contributed 
+over $16.4 million and have 
+performed more than 170,000 
+hours of volunteer service. 
+In 2013, global volunteer activities 
+included partnering with several 
+high tech companies and Habitat 
+for Humanity to build homes for low 
+income families. In addition, AMD 
+volunteers picked up hundreds of pounds of trash, packed and distributed 
+over 40,000 pounds of food to feed 
+the hungry, donated hundreds of 
+pints of blood, and enriched the lives 
+of orphans, at-risk youth and the 
+elderly through education mentoring 
+and personal care programs. In total, 
+AMD employee volunteer efforts 
+benefitted more than 90 nonprofit 
+organizations around the world.HOUSE THAT HIGH TECH BUILT VOLUNTEERING
+10
+ 
+“It is always a joy and such a pleasure to see the smiling 
+faces of the people that we are able to help. I have been 
+told by many people that we can’t save the world, but I 
+truly believe that even one small gesture does mean a lot 
+to the lives of the folks that we are able to touch. So let’s 
+continue to give, to communicate and finally to connect.”
+AMD employees are committed 
+to supporting our communities 
+and improving the lives of the 
+people we touch.
+AMD has actively encouraged 
+that commitment with 
+volunteer opportunities,  
+Green Teams and philanthropic 
+giving. Through various awards 
+and recognitions, we also 
+reward those employees who 
+make substantial contributions 
+to a cause.
+$16.4 MILLION
+170,935 7.8 MILLION KMAMD employee contributions  
+and matching funds since 1995 
+Employee Volunteer  
+hours logged since 1995of driving avoided by employees using 
+our commuting alternative options since 
+2007. This is equivalent to 1,890 metric 
+tons of CO2 emissions avoided, which is 
+as much CO2 sequestered by 48,450 tree 
+saplings over 10 years.2013 AMD GLOBAL VOLUNTEER  
+EXCELLENCE AWARD WINNERS
+WINNERS & FINALISTS OF AMD’S 
+GLOBAL EMPLOYEE ECO AWARDS  Boon Somchit
+AMD Corporate Vice President, Malaysia
+Individuals have the power to 
+affect remarkable change in our 
+communities around the world.  
+AMD proudly supports the dedication 
+of these volunteers who share their 
+talents and go above and beyond in 
+the area of volunteerism to give back 
+to their local communities. Left to Right:  Bobby Young, Callan McInally, 
+David Walshak, Helen Wu, Jane Wang, Karen 
+Tan, Nydia Nunez, Rohan Karkhanis, Sue Yee 
+Lim, Jagannadham Duddu, Shri Varadarajulu
+AMD held its 3rd annual Employee 
+“Eco” awards ceremony in 2013 to 
+recognize individuals who make 
+significant efforts to conserve natural 
+resources at work, in the community, 
+while commuting and at home. 
+Winners received custom-engraved 
+bamboo plaques from their site leader.
+ENERGIZER
+(SAVED ENERGY)
+Eddie Chang - Taiwan
+TRASH TALKER
+(REDUCED WASTE)
+Christopher D’Cruz - Singapore
+COMMUTE CHAMPION
+(REDUCED DRIVING)
+Julien Beasley - United States
+ALL-AROUND
+GREEN LEADER
+Regina Lin - TaiwanREWARDING THE ACHIEVEMENTS OF OTHERS
+Employees want to know that what  
+they do everyday matters. To that end, 
+AMD offers a variety of formal and 
+informal ways to recognize employees 
+for a job well done.The AMD Way Award  is the highest level 
+of recognition for individuals or teams who 
+exemplify The AMD Way
+AMD Peer Cards  are peer-to-peer e-card 
+recognition
+Spotlight Awards  recognize individuals  
+or teams for extraordinary achievements
+The Corporate Technical Achievement 
+Award  is the highest technical award
+11
+Employee EngagementENABLES SURROUND COMPUTING
+INTELLIGENT, CONNECTED COMPUTINGDRIVES INNOVATION
+FASTER CALCULATIONS, BETTER SIMULATIONS, LESS ENERGY
+Reducing the environmental impact 
+of a product requires examination 
+of every aspect of its lifecycle: 
+design, manufacturing, distribution, 
+operation and ultimately end-
+of-life. The operation phase is 
+particularly important because it 
+offers a major opportunity to reduce 
+power consumption and associated 
+greenhouse gas emissions.AMD’s APUs are a technology 
+breakthrough that utilize the 
+capabilities of the CPU and GPU on 
+a single chip. This heterogeneous 
+approach accelerates processing  
+and delivers dramatic improvements 
+in energy efficiency.
+The U.S. Department of Energy and AMD are working together to develop the 
+next generation of energy efficient supercomputers to fuel scientific discoveries 
+in medicine, alternative energy, climate science and other areas of innovation.The era of Surround Computing is 
+bringing more intelligent, connected 
+devices to our daily lives that anticipate 
+our needs and enable realistic, natural 
+experiences. As an increasing number 
+of these devices are plugged in and 
+connected to the Internet, more data is being generated, which in turn increases 
+power consumption to process and store 
+the data. AMD is helping to address this 
+issue by curbing power consumption at 
+multiple points, from the data center  
+to a wide range of embedded and mobile 
+client devices.Supercomputers are being used by 
+scientists to help advance research in 
+healthcare and climate change, and 
+to optimize clean energy technologies 
+around the world. In the past, 
+supercomputers were all about being fast, not energy efficient. Today, 
+AMD and our partners are making 
+supercomputers that are not only 
+being used for advanced research on 
+important environmental issues; but are 
+being recognized as energy-efficient.
+Close to 70% of the power used in 
+servers can come from components 
+beyond the microprocessor.  AMD’s 
+Freedom FabricTM eliminates tiers of 
+networking equipment and thousands 
+of cables, resulting in energy and 
+cost savings in the data center. 
+For example, Livestream allows 
+more than 30 million people to watch thousands of online events each 
+month. To implement an infrastructure 
+that would scale with its business 
+while staying within constraints on 
+available power that limit the number 
+of servers in their data center, the 
+company selected AMD’s SeaMicro 
+SM15000TM high density servers.
+13
+AMD’s Mullins APU for notebooks  
+and tablets uses 50% less power  
+than our previous generation APU. The Green500 ranks the most  
+energy-efficient supercomputers in 
+the world. In 2013, a supercomputer 
+(SANAM), using the AMD FirePro™ 
+S10000 GPU accelerators, was ranked 
+4th in the world on the Green500 list. 
+“SeaMicro technology … allows [Livestream] 
+to reduce power consumption and the 
+resulting cost savings go straight to our 
+bottom line. The SeaMicro SM15000 
+server also allowed us to double our 
+computing capacity while at the same time 
+retire our energy inefficient servers.”3
+   Thomas Bonnin  
+Chief Architect, Livestream
+(2) http://www.gartner.com/newsroom/id/2636073
+(3) http://web.amd.com/assets/CustomerReferenceProgramPackage2012/53214A_Livestream_CaseStudy_FINAL.pdf(1) http://www.amd.com/en-us/press-releases/Pages/amd-us-government-computing-2012jul11.aspxAn AMD SeaMicro SM15000 installation can reduce power 
+consumption up to 75 percent versus a traditional server 
+implementation with similar compute capabilities.Energy efficiency is a fundamental design principle for AMD. 
+Energy efficient products extend the battery life for mobile 
+devices, reduce the costs of operating data centers and help 
+lessen our collective carbon footprint. As electricity demand 
+increases with the demand for digital technology, AMD is 
+relentlessly focused on designing energy efficient products. 
+“The development of high performance, energy-efficient 
+processor and memory technologies are critical to 
+achieving the Department’s goals and AMD is initiating 
+innovative designs for these components.”1 
+ 
+    Dr. William J. Harrod  
+Director of Research, U.S. DOE Advanced Scientific Computing ResearchBETTER, LOWER COST CLOUD
+MORE CONNECTIVITY, MORE AFFORDABLE DATA 42
+3
+12
+Gartner2 reports there will be 30 billion 
+connected devices by 2020. AMD is 
+helping to improve energy efficiency of 
+connected devices and data centers.
+REDUCES  
+ENVIRONMENTAL IMPACT
+SMALLER CARBON FOOTPRINT 1
+Why Focus  
+on Energy Efficiency?Supplier Responsibility
+The Democratic Republic of the 
+Congo (DRC) has been the site of one 
+of the world’s worst humanitarian 
+crises throughout the last decade. 
+An estimated five million people 
+have died as a result of violent 
+conflict in the region. Illegal armed 
+groups and some Congolese national 
+military units regularly commit 
+human rights abuses while being 
+supported by the trade of minerals1. 
+The link between the minerals trade and 
+conflict in the DRC has spotlighted the 
+use of minerals in everyday products such 
+as mobile phones, computers and other 
+electronics. In an effort to break this link, 
+a provision of the 2010 Dodd-Frank Wall 
+Street Reform and Consumer Protection 
+Act requires companies using any of 
+four minerals (tin, tantalum, tungsten 
+and gold) to track it back to its mine of 
+origin. The goal of the law is to reduce or 
+eliminate funding to the armed groups 
+creating conflict in the DRC.  
+ 
+AMD is an active participant in the EICC/
+Global e-Sustainability Initiative (GeSI) 
+Conflict-Free Sourcing Initiative (CFSI). Utilizing this collaborative approach, 
+we attempt to track these four metals 
+that are in our products to the smelter 
+or refiner that produced them. Once we 
+have identified the smelters or refiners 
+in our supply chain, we rely upon the 
+CFSI Conflict-Free Smelter Program 
+to determine whether these materials 
+are associated with the conflict.
+In addition to these efforts, AMD is a 
+founder and supporter of the Public-
+Private Alliance (PPA) for Responsible 
+Minerals Trade. We have also engaged 
+with U.S. State Department Special 
+Envoy Russ Feingold on helping the DRC 
+and other governments in the region 
+reduce conflict and improve security. 
+These efforts, combined with tracking 
+materials through our supply chain, are 
+aimed at helping to bring lasting peace 
+and prosperity to this troubled region. We posted the results of our conflict 
+minerals tracking program on our 
+public website in 2013 and regularly 
+update this disclosure with the most 
+recent results. Our conflict minerals 
+disclosures are available for download 
+at www.amd.com/conflictminerals.
+14 15“It is very helpful in the 
+overall solution to conflict 
+minerals to have companies 
+like AMD step forward 
+to raise awareness about 
+and help drive solutions 
+to the tragic human rights 
+abuses in the DRC.”  STANDARD
+AMD is a long-standing member of 
+the Electronics Industry Citizenship 
+Coalition (EICC). We operate according 
+to the EICC Code of Conduct, and 
+also follow the Principles of Social 
+Responsibility issued by the Institute 
+for Supply Management (ISM). We 
+expect our suppliers to live up to these 
+same standards, and we communicate 
+these expectations in an annual letter.
+  CONFORMANCE
+AMD regularly conducts supplier 
+business reviews (SBRs) with 
+key suppliers to assess corporate 
+responsibility expectations and 
+performance. Using the SBR forum 
+ensures that supplier responsibility 
+is a central feature of our business 
+relationships. We screen supplier 
+facilities using EICC-defined risk 
+assessment tools and require any 
+identified as high risk to undergo 
+independent third-party audits 
+conducted by EICC-approved auditors. 
+In 2013, 100% of AMD’s major supplier 
+facilities completed EICC self-
+assessment questionnaires (SAQs) 
+with no high-risk facilities identified.  COLLABORATION
+With more than 90 members (as of 
+February 2014) representing combined 
+annual revenues in excess of $1.7 
+trillion, the EICC represents a large 
+portion of the global IT industry. AMD 
+has long supported the EICC because 
+of our strong belief that collaboration 
+on social responsibility issues is 
+the most efficient and effective 
+means to drive real improvement 
+in the electronics supply chain.
+AMD’s Director of Corporate 
+Responsibility, Tim Mohin, was elected 
+Chairman of the Board for the EICC in 
+2013 and re-elected in 2014. As the 
+level of maturity increases across our 
+industry, workers and environmental 
+conditions around the globe will benefit.  WAFER FOUNDRIES
+Wafer foundries are a significant 
+part of our supply chain from both 
+a financial perspective as well as an 
+environmental perspective. For these 
+reasons, we have prioritized wafer 
+foundries for additional scrutiny in 
+our supplier responsibility program. 
+We conduct quarterly reviews  
+with Taiwan Semiconductor  
+Manufacturing Corporation (TSMC)  
+and GLOBALFOUNDRIES (AMD’s two 
+wafer foundry partners) to verify their 
+performance across a broad range of 
+issues, including environmental pro -
+tection, worker safety, labor standards, 
+greenhouse gas emissions, energy use, 
+water consumption and work hours.
+  CAPACITY BUILDING
+While supplier audits and reviews are 
+effective tools for driving conformance 
+to the EICC Code, experience has shown 
+that training (or capacity building) can 
+enhance the results. Through the EICC, 
+AMD suppliers have access to a broad 
+array of training on the best practices to 
+improve their social and environmental 
+programs and performance.SOURCING CONFLICT-FREE MINERALS
+(1) General Accounting Office. The Democratic Republic of the Congo: US agencies should take further actions to contribute to the effective regulation and control of the mineral trade 
+in the Eastern Democratic Republic of the Congo. GAO 10-1030 report (September 2010).PHOTO: SASHA LEZHNEV / ENOUGH PROJECTPHOTO: SASHA LEZHNEV / ENOUGH PROJECT
+“ EICC represents the 
+epitome of collaboration.  
+Our growing membership 
+works to implement  
+a common code of 
+conduct to improve 
+conditions throughout 
+the global electronics 
+supply chain.”
+Tim Mohin  
+Director, Corporate Responsibility, AMD,
+Chairman of the Board,  
+Electronic Industry Citizenship Coalition
+John Prendergast  
+Co-founder of the Enough Project, 
+human rights activist, best-selling author
+16 17 16 17
+AMD’s “Green Army” is an innovative 
+concept that leverages large gatherings 
+- like conferences and networking 
+socials - as venues for expanded 
+volunteer events engaging local 
+businesses, non-profits and city 
+operations.  The Green Army model 
+gained national recognition as a 
+Finalist in the PR News’ CSR Awards 
+under the “Green Event” Category. 
+AMD is planning its 3rd annual 
+event at the 2014 Austin SXSW Eco 
+Conference in Austin TX. A white paper 
+outlining this model of crowd-sourced 
+volunteerism is available at www.
+amd.com/CorporateResponsibility.Environmentally
+Sound
+AMD’S “GREEN ARMY” GAINS MOMENTUM
+“Setting the standard for place-based conferences just got 
+higher through AMD’s integration of volunteerism into the 
+SXSW Eco conference… which is connecting conference 
+attendees to the local community and establishing a model  
+for other events to replicate.” 
+Since 2010, AMD has provided electric 
+vehicle (EV) charging stations at 
+our campuses in Austin, TX and 
+Sunnyvale, CA. Participants have 
+enjoyed approximately 10,000 charging 
+sessions, saving 30,000 liters of 
+fuel and 27,000 kg of associated 
+emissions. In 2014, we are increasing 
+our EV infrastructure by 40%, including 
+installing EV charging stations at 
+our Markham, Ontario campus.
+In March 2014, AMD expanded our 
+commitment to electric vehicle 
+deployment by becoming a partner 
+in the US Department of Energy’s 
+Workplace Charging Challenge.AMD’s LEED certified data center 
+near Atlanta, GA is more than a green 
+building; not only does it use 100% 
+renewable energy, it’s a demonstration 
+of how AMD utilizes cloud computing 
+and IT strategies to minimize power and 
+space requirements for data centers. 
+AMD’s data center consolidation 
+project compressed rack space by 
+45% and virtualized servers. The 
+corresponding result was a reduction 
+from a 2.8 megawatt data center in 
+Austin, TX to a 1.2 megawatt facility 
+in Atlanta, GA thereby avoiding 10 
+gigawatt hours in electricity, 4,700 
+metric tons in CO2 emissions and 
+$730K in electricity costs annually.
+CHARGING-UP  
+OUR EMPLOYEESAMD’S LEAN AND  
+GREEN DATA CENTER AMD’S
+MANUFACTURING SITESNote: Percentage changes compare  
+2013 values to the 2009 baseline.
+Rodney Ahart  
+Executive Director, Keep Austin Beautiful2013 Environmental Results:
+Finalist – Green Event CategoryAMD operates manufacturing sites in 
+Penang, Malaysia and Suzhou, China and 
+has established specific environmental 
+goals for these sites within the context 
+of their operations. These goals are 
+set for accomplishment in 2017 and 
+we are on track to meet these goals. In 
+2013, these sites collectively  avoided 
+2.4%  of total water use, 8.5%  of 
+total air emissions and diverted 72%  
+of non-hazardous waste and 100% 
+of hazardous waste from landfills.
+13% absolute reduction of 
+greenhouse gas emissions  (scope 
+1 & 2) from non-manufacturing 
+facilities, ahead of AMD’s 
+2014 goal of 5% reduction 
+25%  absolute reduction of 
+greenhouse gas emissions  (scope 
+3) from business air travel, product 
+shipping, and employee commuting25%  reduction in water use 
+for non-manufacturing sites 
+(normalized to employees), ahead  
+of AMD’s 2014 goal of 20% reduction
+33 million liters  of 
+water conserved in 2013,  enough  
+to fill 13 Olympic-sized pools 78%  of waste from our global 
+operations was diverted from 
+landfills in 2013, up from 40% in 
+2009 and ahead of AMD’s 2014 goal 
+of 70% diversion from landfills
+Over 1,000 metric tons of 
+waste was diverted from landfills in 
+2013 , including 440 metric tons from 
+recycled e-waste and 80 metric tons 
+from expanded composting programsAIR WATER WASTE
+2013
+The LEED® Certification trademark owned by the U.S. Green Building Council and is used with permission.
+AMD is proud to be on track or ahead of schedule 
+to achieve all of our environmental goals. 
+Employees from around the glotbe - spanning 
+Green Team volunteers to environmental 
+professionals - implemented nearly 180 
+conservation projects in 2013, collectively saving 
+AMD $4.4 million while delivering outstanding 
+results for the planet.Health & Safety
+1919 1818AMD’s goal is to continuously reduce 
+occupational injury and illness case rates.
+From 2012 to 2013, our worldwide injury 
+case rate decreased 44% from 0.18 to 
+0.10 cases per 100 workers. This injury 
+rate is well below industry averages. The 
+decrease is a result of an improved process 
+to investigate and address root causes 
+of injuries and increased communication 
+to employees on injury prevention.A company is only as healthy as 
+its people. AMD takes a holistic 
+approach, with health and safety 
+standards that apply to all of our 
+operations worldwide, including: Injury and illness prevention
+ Employee well-being
+ Emergency preparedness and response
+ Electrical and chemical safety
+ Equipment safety
+ ErgonomicsPOSITIVELY HEALTHYINJURY AND ILLNESS PREVENTIONAMD’s Wellness Program focuses on 5 key elements  for 
+employees to maintain a healthy, well-balanced lifestyle:
+AMD holds numerous events to promote 
+employee wellness such as wellness expos,  
+tobacco cessation programs, annual flu  
+shots, on-site blood drives and free health  
+management services to U.S. employees  
+through WebMD Health Services.
+AMD provides free on-site fitness centers at 
+many locations with personal training options, 
+weight reduction programs like “Get Your Move 
+On” and “Biggest Winner,” and events such as 
+Bike to Work Week, National Fitness Day and 
+World Health Day.
+Career progression is as important as health 
+and wellness to a meaningful and rewarding 
+work experience. AMD offers a wide variety 
+of resources through our Learning and 
+Development Department to assist with 
+personal and professional development. AMD’s global Employee Assistance Program (EAP) 
+counsels employees on life challenges, such as relationship 
+issues, change and stress management, substance abuse, 
+depression, parenting and eldercare concerns, as well 
+as simply finding a balance between work and home.AMD’s on-site cafeterias offer a wide variety of 
+healthy options and promote healthy eating at 
+home through discounted home delivery of fresh 
+fruit and vegetables at some locations.
+HEALTH
+FITNESS
+CAREEREMOTIONAL WELLBEINGNUTRITION1
+2
+3 4
+5
+“We are proud to offer tools and resources to enable AMDers  
+across the globe to manage work-life balance, their physical  
+health and mental wellbeing. AMD Wellness@Work  
+further supports a culture of health and productivity 
+for our employees and their families. ”
+Courtney Holcomb  
+Manager, AMD Benefits
+AMD Worldwide Injury & Illness (cases/100 workers)
+0.35  
+0.30  
+0.25  
+0.20  
+0.15 
+0.10  
+0.05  
+0.00
+2009 2010 2011 2012 2013
+U.S. OSHA Injury & Illness Case Rates (cases/100 workers)
+COMPUTER / ELECTRONIC
+PRODUCT MFG. (2012)SCIENTIFIC/
+TECHNICAL 
+SERVICES(2012)AMD U.S. (2013)4.0 
+3.5 
+3.0 
+2.5 
+2.0 
+1.5 
+1.0 
+0.5 
+0.0
+PRIVATE  
+INDUSTRY (2012)
+2020AMD believes that long-term 
+engagement with our stakeholders  
+helps build a deep understanding of  
+our company and our industry. Similarly, 
+AMD gains meaningful knowledge  
+about the expectations of stakeholder  
+groups outside of our company.  
+Working with Ceres, an award-
+winning, non-profit group focused on 
+business and sustainability, AMD has 
+established a stakeholder advisory 
+panel. Interactions with this panel 
+typically occur twice per year and 
+provide AMD with valuable insights 
+and perspective on how to improve 
+our corporate responsibility strategies, 
+communications and performance. 
+AMD employees are our most 
+important stakeholder group. We 
+know that employees – especially 
+younger employees and job seekers – 
+are increasingly seeking employers 
+with values matching their own. We 
+periodically survey our employees 
+worldwide to understand their overall 
+satisfaction, specifically asking them 
+about their impressions of our corporate 
+responsibility programs. Our last survey 
+was completed in 2013. We invited  
+100% of our employees to participate 
+and 82% responded.  
+ Among other positive results, it was 
+gratifying to learn our employees 
+have a very high level of satisfaction 
+with AMD corporate responsibility 
+programs: an average of 81% favorable 
+for all employees surveyed. This was 
+the second highest approval rating of 
+any question asked in the survey and 
+had the least negative responses. Even 
+with this high level of satisfaction, we 
+are striving to further improve. We 
+have set a goal to increase the approval 
+rating for our corporate responsibility 
+programs to well above the norm 
+for high-performing companies 
+(+6 percentage points) by 2015.AMD actively engages with its  
+shareholders, the investment 
+community and third-party ranking and 
+ratings organizations. In 2013, AMD held 
+an online webcast engagement session 
+focused on our corporate responsibility 
+programs. In February 2014, AMD met 
+with leading environmental, social and 
+governance research firms and socially 
+responsible investors. In these meetings, 
+we discussed AMD’s policies, priorities, 
+and progress and gathered feedback.
+Stakeholder Engagement
+21STAKEHOLDER ENGAGEMENT PANELINVESTOR ENGAGEMENT
+EMPLOYEE SATISFACTION“AMD has a long history of commitment to 
+corporate responsibility and actively engages 
+stakeholders to help improve the company’s 
+performance. Going forward, AMD should work 
+with its customers to understand, prioritize  
+and improve the full sustainability impacts of  
+its products.”  
+     Natasha Scotnicki  
+Director Corporate Program, Ceres“AMD has actively sought feedback and dialogue  
+with the social investment community through Ceres  
+and through its “roadshow” visits. The company  
+has demonstrated a commitment to engage in candid, 
+constructive dialogue as a means to stay current  
+and improve their performance on a variety of 
+sustainability issues.”  
+     Adam M. Kanzer, Esq.  
+Managing Director & General Counsel, Domini Social Investments LLC.
+“AMD has demonstrated leadership by assessing their policies and practices 
+against the UN Guiding Principles on Business and Human Rights. Given the 
+evolving applications of digital technology, AMD and the whole high-tech 
+industry has an opportunity to increase transparency and integrate human 
+rights considerations into their operations. ”  
+      Aditi Mohapatra  
+Associate Director, ICT Practice, BSR
+In 2014, AMD asked Business for 
+Social Responsibility (BSR) to conduct 
+an assessment of our policies and 
+practices in comparison to the United 
+Nations Guiding Principles on Business 
+and Human Rights. We plan to use 
+the key risks and opportunities 
+identified by this review to guide 
+our programs going forward. HUMAN RIGHTS
+81%
+EMPLOYEE FAVORABLE RATING
+Key Performance Indicator     
+Total Number of Employees 11,093 10,340 10,671
+Percentage of Female Employees 29% 28% 28%
+Worldwide Injury and Illness Case Rate
+ (per 100 workers)  0.32  0.18  0.10
+Employee Volunteer HoursA 12,693 7,735 9,043
+Total Revenue (In millions USD)  $6,568  $5,422  $5,299
+Net Income (In millions USD)  $491  ($1,183)  ($83)
+AMD Foundation Giving (USD)B $2,649,564  $2,646,333  $234,931
+Other Cash and In-Kind Giving  (USD)  $1,561,711  $560,245  $586,470
+Energy Use (Gigawatt hours – GWh)  473 436 387
+CO2 Equivalent EmissionsC 
+ (Metric Tons CO2e, Scope 1 & 2)  191,637  199,979  206,477
+Water Use (Million liters)  890 868 910
+ Waste Water Discharge (Million liters)  364 391 235
+Non-Hazardous Waste Generated (Metric tons)  2,126 1,730 2,049
+ Landfill Diversion Rate  57%  64%  78%
+Major Supplier Facilities that have completed
+EICC Self-Assessment Questionnaires (SAQs) 54% 89% 100%
+EICC = Electronic Industry Citizenship Coalition   
+Number of High Risk Major Supplier Facilities
+Based on SAQ Scores 9% 0% 0%
+   2011  2012  2013Supplier Responsibility Environment Economic Employees
+The data behind our  
+corporate responsibility story. RECOGNITION2013
+DATA TABLES
+22 232323
+Other 2013 Awards  
+& Listings:  
+Listed In Calvert Social Index,  
+Calvert Investments
+Listed in the Global Challenge Index, 
+Hanover Stock Exchange/Oekom 
+Research
+Partner in the Workplace Charging 
+Challenge, US Department of Energy
+Finalist for CSR award,  
+PR News Magazine
+Singapore: Commendation Award for 
+Excellence in Safety and Security, 
+National Safety and Security Watch 
+Group (SSWG)
+China: Outstanding Member,  
+China Electronics Standardization 
+Association CSR Committee
+Boston Design Center: 2013 Pacesetter 
+- Excellence in Commuter Options (ECO) 
+Award, MassRIDES
+Austin: Environmental Leadership 
+Award (large business), Chamber of 
+Commerce
+Austin: Austin Green 
+Business Leaders 
+Program (Platinum 
+Certification),  
+City of Austin
+Fort Collins: 
+ClimateWise “Gold 
+Level” Partner,  
+City of Fort Collins
+Sunnyvale, Fort Collins and Austin: 
+Bicycle Friendly Business (Bronze), 
+League of American Bicyclists(Maplecroft) Ranked 18th of  
+Best 100 in climate protection
+Prime Status from Oekom Research
+AMD Foundation named a 2013 
+Computerworld Honors Laureate 
+for innovative STEM education
+MSCI 2013 Intangible Asset Rating: A
+Member of the US EPA’s Green Power 
+Leadership Club and ranked in  
+Top 30 Tech-Telecom listCR magazine’s 100 Best  
+Corporate Citizens 2013 and 2014Dow Jones Sustainability Index  
+(North America) 2013
+23
+A  2013 hours included volunteer time at both company sponsored and non-company sponsored 
+events. Prior years included only company-sponsored events.
+B  AMD Foundation Giving was suspended in 2013 as a result of AMD’s efforts to reduce 
+operating costs and return the business to profitability.C  Global CO2 equivalent emissions increased in 2013 despite an absolute decrease in  
+energy use, mainly due to increased use of test equipment with higher emissions at AMD 
+manufacturing sites.©2014 Advanced Micro Devices, Inc. All rights reserved. AMD, the AMD Arrow logo, AMD FirePro, AMD Radeon, 
+Freedom Fabric, SeaMicro and combinations thereof are trademarks of Advanced Micro Devices, Inc. Other trade 
+names are used for identification purposes only and may be the property or trademarks of their respective owners.
+SCAN THE CODE TO LEARN MORE  
+ON OUR WEBSITE, OR VISIT:
+http://www.amd.com/corporateresponsibility

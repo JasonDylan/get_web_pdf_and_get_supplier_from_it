@@ -1,0 +1,2561 @@
+ESG
+TOP RATEDINDUST RYESG
+TOP R ATEDREGIONAL
+2021-22 
+Environmental, Social and Governance (ESG) ReportAPPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIXWindstream Holdings is a privately held 
+Fortune® 1000 communications and software 
+company. Windstream offers managed 
+communications services, including SD-WAN 
+and UCaaS, and high-capacity bandwidth and 
+transport services to businesses across the 
+U.S. The company also provides premium 
+broadband, entertainment, and security 
+services through an enhanced fiber network to 
+consumers and small and midsize businesses 
+primarily in rural areas in 18 states.TABLE OF CONTENTS
+©2021 Fortune Media IP Limited. All rights reserved. Used under license. Fortune and Fortune 1000 are registered trademarks of Fortune Media IP Limited and are used under license. Fortune is not affiliated with, and does not endorse products or services of, Windstream.
+APPROACH  
+Committed to addressing 
+environmental and social risks  
+and opportunities
+MESSAGE FROM THE PRESIDENT & CEO ... 2
+ESG STRATEGY .............................................. 3
+ESG PRIORITIES ............................................ 4
+ESG TRANSPARENCY .................................... 5
+ENVIRONMENTAL
+Safeguarding the Environment
+ENVIRONMENTAL IMPACT .......................... 7
+EMISSIONS AND CARBON INTENSITY ........ 8
+OUR EMISSIONS BY SCOPE ......................... 9 
+RENEWABLE AND CARBON-FREE  
+ENERGY ....................................................... 10
+FLEET ........................................................... 11
+REAL ESTATE ............................................... 12
+PRODUCT STEWARDSHIP .......................... 12
+PAPER .......................................................... 13
+WATER CONSERVATION ............................ 13
+BUSINESS CONTINUITY ............................. 14SOCIAL
+Treating people with respect
+DIGITAL INCLUSION ................................... 16
+ACCESSIBILITY ............................................ 17
+DIGITAL SAFETY .......................................... 18
+ROBOCALLS ................................................ 18
+OPEN INTERNET ......................................... 19
+PRIVACY AND DATA PROTECTION ........... 20
+CYBERSECURITY ......................................... 21
+HUMAN CAPITAL GUIDING PRINCIPLES .. 22
+COMMITTED TO RESPECTFUL  
+WORKPLACE ............................................... 23
+EMPLOYEE ENGAGEMENT ........................ 24
+EMPLOYEE COMPENSATION  
+AND BENEFITS ............................................ 25
+WINDSTREAM’S STATEMENT  
+ON DIVERSITY & INCLUSION (D&I) ........... 26
+HUMAN PROSPERITY (PHILANTHROPY) .. 27
+KEY PARTNERS ............................................ 28
+VETERANS ................................................... 29
+EMPLOYEE RESOURCE GROUPS ............... 30
+LEARNING AND DEVELOPMENT ............... 31
+SAFETY ......................................................... 32
+LABOR RELATIONS ..................................... 33
+SUPPLY CHAIN ............................................ 33
+SUPPLIER DIVERSITY .................................. 34GOVERNANCE
+Holding ourselves accountable
+HOW WE GOVERN ...................................... 36
+ETHICS AND COMPLIANCE ........................ 37
+CODE OF CONDUCT ................................... 38
+HUMAN RIGHTS ......................................... 39
+APPENDIX
+Alignment with the United Nations 
+Global Compact’s Sustainable 
+Development Goals ................................... 41
+Definition of Material Issues ..................... 42
+ESG Data Index ........................................... 43
+Law Enforcement Requests ...................... 46
+GRI Index ..................................................... 47APPROACH  
+Committed to addressing 
+environmental and social risks  
+and opportunities
+MESSAGE FROM THE PRESIDENT & CEO – 2
+ESG STRATEGY – 3
+ESG PRIORITIES – 4
+ESG TRANSPARENCY – 5
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 1APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 2Windstream accelerated the pace and expanded 
+the scope of our Environmental, Social and 
+Governance (ESG) programs and disclosures 
+during the past year. Our 2021 ESG Report 
+highlights the work we did in this vitally  
+important area.
+I am proud that Windstream received the top ESG 
+risk rating among U.S.-based telecommunications 
+providers in September 2021 by Sustainalytics, 
+a Morningstar company. Sustainalytics’ 
+comprehensive assessment demonstrates that 
+Windstream is positioning itself to minimize 
+environmental impacts, to treat customers, 
+employees and partners fairly, and to govern 
+itself with the highest ethical standards.
+In January 2022, Windstream was also recognized 
+as a Sustainalytics ESG Industry Top Rated 
+company (telecommunications) and a Regional 
+Top Rated company (U.S. and Canada). 
+Windstream received a “B,” or Management 
+band, score from the CDP, formerly known as 
+the Carbon Disclosure Project, in 2021. CDP is 
+a non-profit organization operating a global 
+environmental disclosure system for investors, 
+companies, cities, states and regions to manage 
+their risks and opportunities on climate change, 
+water security and deforestation.
+Following a 23% increase in our use of renewable 
+energy last year and a related 11.9% reduction 
+in emissions tied to the electricity needed to 
+power our operations, our goal is to earn an 
+“A,” or Leadership band, score from CDP in 
+the upcoming cycle. In September, we also 
+announced plans to more rapidly reduce our 
+Scope 2 purchased electricity greenhouse 
+gas emissions. We will now reduce Scope 2 purchased electricity emissions 40 percent by 
+2025. Our previous target had been to reduce 
+those emissions 30 percent (from a 2019 
+baseline) by 2035.
+I am also delighted that Windstream was 
+named to Newsweek’s Most Loved Workplaces 
+list for 2021, ranking at #63 among the top 
+100 companies recognized for employee 
+happiness and satisfaction at work. Produced in 
+collaboration with the Best Practice Institute, a 
+leadership development and benchmark research 
+company, the Newsweek list results were 
+determined after surveying more than 800,000 
+employees from businesses with workforces 
+varying in size from 50 to more than 10,000.
+Reflecting that high level of employee satisfactio n, 
+our own annual survey of engagement, 
+conducted by a third party research firm, 
+produced an employee engagement score in 
+line with the benchmark for our industry and a 
+manager effectiveness score  
+well above the benchmark.
+Our team understood even before the COVID-19 
+pandemic that the services we provide are 
+essential to the economic, educational and 
+cultural health of the mostly rural communities 
+that Windstream serves. We are engaged in a 
+five-year, $2 billion fiber build program, and in 
+2021 alone deployed fiber-backed gigabit internet 
+services to an additional 523,000 locations. Our 
+fiber network now reaches 1.1 million locations, 
+or 20 percent of our footprint.
+We are actively pursuing public-private 
+partnerships across our 18 states to deploy 
+fiber in underserved rural areas where it 
+would otherwise be uneconomical to do so. That effort was highlighted recently by a $300 
+million partnership that will deliver high-speed 
+broadband to 18 communities across Georgia. 
+Windstream’s commitment to serving our 
+customers and to maintaining a strong ESG 
+program starts at the very top of the company. 
+Our governing Board of Managers (“Board”) 
+assigned five of its members to oversee our 
+internal ESG Operational Committee, which is 
+charged with managing our performance and 
+reporting. 
+Under our Board’s direction, Windstream joined 
+the UN Global Compact to promote accountability 
+and stakeholder engagement in the areas of 
+human rights, labor and environment. As we 
+mark the first anniversary of our membership, 
+we continue to support the UNGC and its ten 
+principles, and this report serves as our annual 
+UNGC Communication on Progress.
+In addition, Windstream is committed to the 
+UNGC’s Sustainable Development Goals (SDGs), 
+and we believe we can make a substantial 
+impact towards achieving targets across the 7 
+SDGs relevant to our industry and company, as 
+outlined later in this report.
+Windstream is stronger and better positioned 
+than ever to drive value for our stakeholders. And 
+we firmly believe that our aspirational ESG goals 
+not only help our business but also ensure we do 
+our part to be good citizens of this planet.APPROACH
+MESSAGE FROM THE PRESIDENT & CEOAPPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 3ESG STRATEGYAPPROACH
+At Windstream, two overarching statements guide everything we do:
+To provide innovative software and network solutions while 
+consistently delivering an amazing customer experience.
+Consistent with these guiding principles, our ESG strategy is 
+to proactively and efficiently manage the environmental and 
+social risks and opportunities that arise from the operation of 
+our business. 
+Windstream’s capital structure ensures we are well-positioned 
+to continue making substantial network and software 
+investments, fuel innovation and sustainable growth, and drive 
+value for all our stakeholders and society at large. Our commitment to addressing ESG issues is embedded at 
+every level of the company. It includes Board of Managers 
+oversight through quarterly and ad hoc meetings, officer-level 
+engagement and a broader team of dedicated professionals 
+who focus on specific issues and engage other leaders across 
+the business.
+CORE VALUES
+Take ownership . Be responsive 
+and transparent. Fulfill your 
+obligations to your customers, 
+team members and the company .ACCOUNTABILITY
+Be nimble. Seek out 
+opportunities to improve. 
+Think and act in a way that 
+embraces change.
+AGILITY
+Serve others. Cultivate a  
+climate of dignity , trust and 
+respect for all. Consider others’ 
+opinions equal to your own.RESPECT
+ COLLABORATION
+Come together. Work with 
+others to achieve shared 
+goals. Foster an environment 
+of teamwork.
+OUR MISSION
+OUR VISIONConnect people and empower business  
+in a world of infinite possibilities.
+This report is informed by the Global Reporting 
+Initiative (GRI) standards, feedback received through 
+engagement with our investors, and industry 
+best-practices. It is also informed by an ESG risk 
+rating, materiality assessment, and benchmarking 
+engagement with Sustainalytics (a Morningstar 
+company), the largest and leading independent 
+global provider of ESG and corporate governance 
+research and ratings. 
+A Materiality Matrix presents a view of the most 
+material ESG issues from a business, environmental 
+and social impact perspective. This is different 
+from financial materiality, which is a threshold for 
+influencing the investment decisions of investors. ESG issues can be presented as the most important 
+sources of risk if not managed well. The location on 
+the matrix indicates the relative importance of the 
+ESG issue, with those located at the top right corner 
+being the most material for the industry as a whole.
+Each issue is prioritized in the Materiality Matrix 
+according to the degree to which it could potentially 
+impact our business and society. Our ESG strategy 
+cares for all of the listed issues.
+Key ESG issues are those deemed most relevant to 
+Windstream by Sustainalytics as part of its ESG risk 
+rating process.
+C FB EA D Human Rights – Supply Chain
+Human Capital
+Carbon – Own OperationsHIGH MEDIUMSUSTAINABILITY IMPACT
+LOW
+HIGH MEDIUM
+BUSINESS IMPACTLOWA
+EDBCFMateriality Matrix 
+Product Governance
+Business Ethics
+Data Privacy & Security
+= Key ESG Issues
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 4ESG PRIORITIESAPPROACH
+Please see Appendix for definition of Material Issues.APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 5ESG TRANSPARENCY
+Although Windstream is now a privately held company, our commitment to transparency and reporting 
+on our corporate social responsibility performance continues through this annual ESG report, our 
+participation in the CDP emissions reporting process (and related third party assurance and verification 
+of our submission), our commitment to actively engage with ESG risk rating agencies to help ensure full, 
+transparent and accurate information on our policies, programs and performance against targets, and by 
+sharing relevant policy and program disclosures on our Investor Relations website. 
+Last year, we advanced our reporting strategy by providing both an ESG data index and a GRI index 
+showing how our disclosures align with the Global Reporting Initiative’s ESG reporting standards. We 
+also made our CDP submission and emissions reporting public and disclosed a substantial amount of 
+relevant ESG data and information for the first time, including things like the demographic make-up or 
+our workforce, training and safety statistics, political spending, recycling efforts, and our use of renewable 
+energy, among others.APPROACH
+In our report this year, we added information and 
+disclosures regarding:
+• Our alignment with the United Nations Global Compact’s 
+Sustainable Development Goals
+• Our annual Employee Engagement and Manager 
+Effectiveness Survey
+• The number of temporary employees, contractors and 
+offshore resources we utilize
+• Total Scope 2 Purchased Electricity KWH usage by year 
+across the Company
+• A 23% increase in our use of renewable and carbon-free 
+energy sources
+• A more aggressive Scope 2 Purchased Electricity 
+emissions reduction target
+• Law Enforcement data requests
+• A new Conflict Minerals Policy
+• A new water conservation target
+• An increase in the scope of the Social Supplier Standards 
+included in our Supplier Code of Ethics
+• Inclusion of a direct reference to the International Labor 
+Organization’s conventions and standards in our Non-
+Discrimination PolicyENVIRONMENTAL
+Safeguarding the Environment
+ENVIRONMENTAL IMPACT – 7
+EMISSIONS AND CARBON INTENSITY – 8
+OUR EMISSIONS BY SCOPE – 9 
+RENEWABLE AND CARBON-FREE ENERGY – 10
+FLEET – 11
+REAL ESTATE – 12
+PRODUCT STEWARDSHIP – 12
+PAPER – 13
+WATER CONSERVATION – 13
+BUSINESS CONTINUITY – 14
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 6WE REMAIN COMMITTED TO: 
+ Environmental protection and creating 
+environmental awareness
+ Maintaining our Environmental Management 
+System (EMS)
+ Using natural resources and energy more efficiently
+ Working diligently to reduce our overall emissions 
+and sources of waste
+ Monitoring and reporting on our environmental 
+performance and any material issues that arise
+ Consulting with relevant stakeholders on 
+environmental issues
+ Managing the regulatory, reputational and market 
+risks related to climate change
+ENVIRONMENTAL IMPACT 
+Windstream is committed to environmental stewardship. We believe that companies have a significant 
+role to play in reducing our society’s environmental impact on our planet. At Windstream, sustainability 
+efforts are an obligation, not a choice. Our corporate sustainability program and environmental policy 
+combine common-sense strategies with more ambitious long-term initiatives to become more resource 
+efficient. This approach allows us to make improvements while balancing the needs of our customers, 
+employees, and shareholders.
+To hold ourselves accountable, set goals and measure our performance, we began voluntarily 
+participating in the CDP’s global environmental disclosure system in 2008. We believe in making 
+environmental reporting and risk management a business norm and driving disclosure, insight, and 
+action towards a sustainable economy.ENVIRONMENTAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 7EMISSIONS AND CARBON INTENSITY  
+Emissions and carbon intensity, typically calculated as metric tons of C02e per 
+U.S. $100 million of annual revenue, are heavily influenced by customer growth 
+and geographic expansion, the level of capital investment in our network, and 
+how efficiently and sustainably Windstream supports these activities.
+Understanding that our customer footprint is largely rural and requires that 
+we cover greater distances to support them, it is natural that our carbon 
+intensity may be higher than others in our industry whose customers are in 
+more densely populated urban areas. Being mindful of this, Windstream is 
+committed to integrating the concept of eco-design into our product selection, 
+network infrastructure, and operational strategies. This tangibly means 
+migrating from older technologies to newer, more energy-efficient solutions, 
+including from copper-based services to fiber, to edge routers that require 
+60% less energy per unit of output, installing energy-efficient LED lighting and 
+low-carbon natural gas generators in our facilities, reducing our corporate 
+and network real estate footprint, and using leaner, more virtual and efficient 
+hardware and cooling solutions in ongoing data center rationalization efforts. 
+It also means innovation and investment in remote diagnostics, more reliable 
+and resilient infrastructure and hardware, equipment that can be self-installed, 
+and improvements to call center help-desk effectiveness and first-time repair 
+quality, which all serve to reduce technician dispatches to customer locations, 
+truck rolls and gallons of fuel consumed.ENVIRONMENTAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 8Windstream is committed to integrating the concept of eco-design into our 
+product selection, network infrastructure, and operational strategies.Emissions 2019 2020 2021 2021 vs 2020
+Scope 1 60,350 62,956 59,133 -6.1%
+Scope 2 286,039 232,749 205,115 -11.9%
+Total GHG (Scope 1 & 2) 346,389 295,705 264,248 -10.6%
+Carbon Intensity 67.71 63.39 59.79 -5.7%
+Scope 3 (all) 479,363 508,403 522,972 2.9%
+Scope 3 (business travel only) 5,792 1,908 1,879 -1.5%
+Total Emissions (Scope 1, 2 & 3) 825,752 804,108 787,220 -2.1%
+OUR EMISSIONS BY SCOPE 
+In 2021, our Scope 1 and 2 emissions were down 
+by 10.6% from the prior year, or by 31,457 metric 
+tons of CO2e as a result of our renewable energy 
+program, continued real estate rationalization 
+efforts and migration to more energy efficient 
+technologies across our network. These strategies 
+and investments directly contributed to a 5.7% 
+decrease in our overall Carbon Intensity score on 
+top of the 6.4% decrease achieved in 2020.
+Note that Windstream’s Scope 2 purchased 
+electricity emissions fell by 11.9% last year, and 
+by 28.3% over the past two. The reduction in 2021 
+can most directly be attributed to our efforts to 
+transform and upgrade our network using more 
+energy efficient technologies and solutions, and 
+our multi-year real estate consolidation efforts 
+that reduced corporate real estate square 
+footage by 23% since 2016. While those efforts 
+continue, the reduction this past year can most 
+directly be attributed to the increase in our use of 
+renewable and carbon-free energy, up 23% from 
+the prior year. This is evidenced by the fact that 
+Windstream’s total KWH demand last year was only 
+down 3.1% vs. the much larger decrease in Scope 2 
+emissions of 11.9%.
+As a result of our success in driving Scope 2 
+emission reductions across all of these initiatives, 
+Windstream set a more aggressive emissions 
+reduction target, seeking to reduce our total Scope 
+2 emissions by 40% from the 2019 baseline by 2025. 
+Our previous goal was a 30% reduction by 2035. 
+At the end of 2021, we stood at a 28% reduction 
+from 2019. With another 13% to go by 2025, we are 
+confident we will meet - or exceed - the target.ENVIRONMENTAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 9Windstream KWH Scope 2 Purchased Electricity Use by Year
+Scope 1: Direct sources of emissions owned or controlled by Windstream (fuel to power our fleet, heat buildings and 
+power generators)
+Scope 2: Indirect emissions purchased by Windstream but generated offsite (almost exclusively electricity to power our 
+network and data centers)
+Scope 3: Value chain emissions, defined as emissions that are the result of activities from assets not owned or controlled 
+by Windstream, but that indirectly impact in our value chain, which often represent the majority of an organization’s 
+GHG emissions. Of the 15 categories of Scope 3 emissions, 9 are relevant to Windstream and included in our Scope 3 
+reporting: (1) purchased goods and services; (2) capital goods; (3) fuel and energy-related activities not included in Scope 
+1 and 2; (4) upstream transportation and distribution; (5) waste generated in operations; (6) business travel; (7) employee 
+commuting; (8) upstream leased assets, and (9) use of sold products.
+Carbon Intensity: Metric tons of Scope 1 and 2 CO2e per US$100M of revenueDemand 2019 2020 2021 2021 vs 2020
+Total KWH 624,895,914 544,723,393 527,621,318 -3.1%264,248
+CO2e
+(metric tons)
+Vehicle Fuels Building and
+other FuelsElectricity 77.6%2.5%19.9%GHG Emissions (CO2e metric tons) 2021 GHG Profile – Scope 1 and 2RENEWABLE AND CARBON-FREE ENERGY 
+Windstream recognizes that we will require substantial amounts of energy to power our 
+network and facilities in order to effectively serve our customers. As a company with 
+stated goals to reduce our carbon footprint, this means that responsible consumption 
+must remain a top priority. To us, responsible consumption starts with eco-design in 
+the solutions we architect and the energy efficient technology and equipment we elect 
+to deploy. It also means working diligently to ensure that as much of the energy we do 
+consume is generated from renewable and carbon-free sources. 
+To that end, we formally initiated a renewable and carbon-free energy program in 2020 
+and entered into our first community solar program in New York for a small percentage 
+of our overall demand. In 2021, we contracted for additional renewable energy with 
+utility providers in Ohio, Illinois and Texas. Our renewable energy agreement with ENGIE 
+Resources in Texas is our largest to date, covering 100% of our annual forecasted energy 
+consumption across all of Windstream’s more than 400 locations in the state with energy 
+supplied by the Live Oaks wind project. Combining the agreements with providers in all 
+three states, we replaced an incremental 7.2% of our total energy needs across the entire 
+company last year with production from renewable sources.
+As a result of these efforts, we increased the percentage of our Scope 2 purchased 
+electricity coming from renewable and carbon-free sources from 34.9% in 2020 to 42.1% in 
+2021, a 21% increase year-over-year. With additional renewable energy initiatives planned 
+for 2022, we now expect to be within 4% of our stated 2025 goal to secure at least 50% of 
+our electricity needs from these sources by mid-2023. 
+The table below outlines Windstream’s sources of Scope 2 purchased electricity based on 
+the 2021 EIA Source Breakdown by state. In 2021, approximately 25.8% of all Windstream 
+Scope 2 purchased electricity came from renewable sources, and 42.1% came from sources 
+considered carbon-free. Renewables include geothermal, hydroelectric, solar thermal, wind 
+and wood or wood-derived fuels. Carbon-free includes all categories of renewables plus 
+energy derived from nuclear power.ENVIRONMENTAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 10Energy Source Prior After Change
+Natural Gas 38.0% 33.5%
+-7.2%Coal 26.6% 24.0%
+Other - Conventional 0.5% 0.4%
+ Total Conventional 65.1% 57.9%
+Nuclear 18.2% 16.3%
++7.2%Wind 9.6% 18.8%
+Hydroelectric Conventional 3.8% 3.8%
+Other - Renewable 3.3% 3.2%
+ Total Renewable and Carbon Free 34.9% 42.1%In March of 2022, Windstream entered into a second renewable 
+energy agreement with Engie Resources for power in New York 
+and Pennsylvania from another of their wind farm projects. Our 
+energy demand in these two states represent approximately 6.4% 
+of our total annual electricity across our entire footprint. With this 
+contract in place, Windstream is now just 2% shy of hitting our goal 
+of obtaining at least 50% of our Scope 2 purchased electricity from 
+renewable and carbon free sources by 2025.FLEET
+Windstream operates the 51st largest truck fleet and one of the top 100 largest commercial 
+fleets in the United States, and the fuel to power these vehicles is the single largest 
+source of our Scope 1 emissions, accounting for 88% of this segment last year. In order 
+to achieve our target of reducing Scope 1 emissions intensity 20% by 2025 from the 
+2019 baseline year, Windstream initiated a fleet renewal and modernization effort that 
+increases the average MPG of the fleet by that same amount over the next five years by 
+moving from heavier, 8-cylinder trucks to more efficient and lighter V-6 models. This effort 
+will also reduce the average age of our vehicles by 37% and subsequently result in lower 
+maintenance costs, allowing us to achieve an annual run-rate reduction of fleet operating 
+expenses by more than an estimated $7.8 million. 
+As outlined in the tables below, we saw a 2.9% reduction in the number of gallons 
+consumed by our fleet from the prior year, despite a 5.7% increase in the number of 
+consumer households served in our network and a 1.4% increase in overall vehicle count.  
+The reduction in gallons consumed can be explained predominantly by: (1) our continued 
+efforts to reduce the need to dispatch technicians to homes and businesses by improving 
+remote diagnostics and call center effectiveness as well as improving initial quality (fixing 
+issues correctly on the first attempt) to avoid repeat trouble tickets; (2) implementation of 
+self-installation modem kits that don’t require a technician to install, and; (3) our decision 
+to end “home garaging” of company vehicles midway through the year, a risk mitigation 
+policy we had adopted during the peak of the COVID-19 pandemic to enable technicians 
+to minimize group and in-person contact at our normal reporting centers that resulted in 
+more average miles driven and gallons consumed. 
+Since our Kinetic consumer business accounts for approximately 85% of our fleet, 
+consumer households represent the best proxy for growth in demand for dispatches and 
+miles driven.In 2022, we expect a larger contribution and reduction as a result of our fleet 
+modernization and GPS/telematics solution which should both help reduce gallons 
+consumed by improving MPG performance and reducing engine idle time, respectively. Full 
+implementation of these initiatives last year was delayed by global supply chain challenges.
+We are also adding another 725 vehicles to our fleet as we insource a large portion of 
+our outside plant construction services. Some of these assets were received in 2021 and 
+account for the small overall increase to our fleet size reported in the table above. Of  
+these new vehicles, 70% will use bio-fuels, which are expected to release 70% less CO2  
+than gasoline.
+Lastly, our team continues to monitor the evolution of electric and hybrid vehicles and 
+intends to begin integrating them into our fleet as they become cost and operationally 
+feasible. We are planning to initiate an EV pilot program in 2023.ENVIRONMENTAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 11Category 2019 2020 2021 21 vs 20
+Gallons Consumed 5,346,948 5,988,229 5,816,340 - 2.9%
+Vehicle Count 4,481 4,338 4,397 + 1.4%
+Consumer Households 1,027,366 1,057,415 1,117,303 + 5.7%
+# of Repair Dispatches 660,153 639,540 601,949 - 5.9%
+# of New Service Dispatches 414,393 415,391 397,910 - 4.2%REAL ESTATE  
+Windstream’s real estate portfolio consisted of 3,546 
+owned and leased facilities as of Dec. 31, 2021, down 22 
+from the prior year. Approximately 10% of our locations 
+are designated as corporate and regional offices based on 
+primary use and the remaining 90% as network locations. 
+Since embarking on a strategic real estate rationalization 
+and consolidation initiative in 2016, we have exited 160 
+sites resulting in an overall square footage reduction of 9%. 
+With another 37 exits planned in 2022, we intend to reduce 
+our overall footprint by another 3% this year. This will 
+correspond to a 23% reduction in square footage within the 
+corporate segment from the 2016 baseline.
+Our current data center footprint, included in the 
+network real estate segment, is largely the result of past 
+acquisitions, and these centers are heavy users of Scope 
+2 purchased electricity. Windstream is undertaking a 
+significant modernization and consolidation effort, with 
+a target of going from the nine centers to a significantly 
+smaller footprint over the next five years. By migrating 
+from heavier, energy intensive legacy hardware to leaner, 
+virtual and more energy efficient solutions, we expect to 
+achieve material reductions in Scope 2 emissions tied  
+to our baseline operations today, even adjusted for 
+planned growth.PRODUCT STEWARDSHIP
+Windstream’s product stewardship programs are designed 
+to minimize the health, safety, environmental, and social 
+impacts of the products and their packaging that we sell 
+or install in our network, while also maximizing economic 
+benefits. The lifecycle of a product and its packaging is 
+often associated with energy and materials consumption, 
+waste generation, toxic substances, greenhouse gases, and 
+other air and water emissions.
+Our goal is to divert 100% of our consumer modems, set-
+top boxes, network devices and other electronics from 
+landfills by refurbishing, redeploying or recycling them. 
+When we are unable to reuse equipment, we next market 
+it for resale and reuse through approved gray market 
+vendors, and ultimately scrap and recycle the product as a 
+last resort.
+Windstream has assigned resources to manage the reverse 
+logistics processes for consumer modems, as well as 
+enterprise and network hardware and equipment that are 
+designed to achieve our goal of 100% landfill avoidance.In 2021, we refurbished 146,618 consumer modems, up 
+131% from the prior year, and 158,668 pieces of enterprise 
+and network equipment for redeployment. We also sold 
+more than 27,515 pieces of equipment we could no longer 
+utilize and recycled 620,672 of obsolete equipment for 
+reuse by others on the gray market.
+Windstream recycled another 575 tons of e-waste 
+generated through other operational waste streams last 
+year, up 21% from 2020 as a result of a centralized, national 
+program we began implementing in 2018. These recycling 
+efforts included more than 16 tons of batteries and 257 
+tons of ferrous metals and avoided an estimated 555 
+metric tons of CO2e greenhouse gas emissions. 
+We also avoided more than 2 tons of hazardous waste 
+that was diverted from landfills to recyclers, and as part 
+of our ongoing commitment to reduce hazardous waste, 
+will continue to monitor, measure and report on this 
+initiative and our progress in subsequent annual ESG 
+reports. Our e-waste vendors are certified recyclers that 
+meet electronics waste recycling standards, such as R2 or 
+e-Stewards.ENVIRONMENTAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 12Stewardship Category 2020 2021 % Change
+Number of Consumer Modems Refurbished 63,526 146,618 +131%
+Pieces of Enterprise and Network Equipment Redeployed 79,395 158,668 +100%
+Pieces of All Equipment Sold on Gray Market 20,850 27,515 +32%
+Tons of Batteries Recycled 27 16 -41%
+Tons of Ferrous Metals Recycled 209 257 +23%
+Total Tons of E-Waste Recycled (All Types) 475 575 +21%
+Tons of CO2e Greenhouse Gas Emissions Avoided (est.) 1,456 1,643 +13%
+Tons of Hazardous Waste Diverted from Landfills (est.) 5 2 -60%
+PAPER 
+Windstream is committed to the sustainable 
+sourcing and use of paper, and we established 
+a target in 2016 to reduce our office paper 
+consumption by 75% by 2025. In 2021, we 
+reduced our consumption by another 5% on top 
+of the 38% achieved in 2019, and we are now 
+86% below our 2016 baseline. We exceeded our 
+goal last year, five years earlier than planned. 
+Some of the decrease last year was due to 
+greater numbers of our workforce working 
+remotely as a result of the COVID-19 pandemic, 
+but most was the result of focused efforts to 
+reduce the number of copiers, establish default 
+settings for double-sided printing, and reduce 
+overall demand by printing less and using 
+more online collaboration tools, electronic 
+presentations and reporting formats. We expect 
+these reductions to be sustained and improved 
+upon in subsequent years. It is our sourcing policy to give purchasing 
+preference to products that are certified by 
+the Forest Stewardship Council (FSC) wherever 
+possible, include measurable  
+amounts of Post-Consumer Waste (PCW), that 
+are processed chlorine-free or that utilize the 
+best available technologies, and to suppliers that 
+can identify the source of their products and 
+verify they do not contain fibers from ancient 
+or endangered forests. In 2021, 100% of our 
+sourced office paper was FSC certified and 6.3% 
+included at least 30% PCW content. Office paper 
+is recycled using bins and a third-party shredding 
+provider.
+Having exceeded our primary goal of reducing 
+consumption and paper use, Windstream is now 
+focused on increasing the percentage of paper 
+that includes PCW, and we have set a target 
+to have at least 50% of all office-related paper 
+include a minimum of 30% PCW by 2025.WATER CONSERVATION 
+Windstream’s original conservation goal was to 
+reduce our freshwater use 25% or 77 million gallons 
+by 2025 from our 2016 baseline year for owned 
+and leased properties where water consumption is 
+reported. With the single biggest source of our water use tied to the facilities 
+we own and lease, managerial responsibility for monitoring, measuring and 
+reporting water use is assigned to the chief procurement officer and the 
+corporate real estate and facilities team that reports into this role.
+Our original goal was achieved in 2019, and through 2021, we are pleased to 
+report that water consumption was down 58% or 176 million gallons from our 
+2016 baseline year. While our consumption was down 5% or 7 million gallons 
+in 2021 from the prior year, we anticipate a small increase in 2022 as our 
+teams return more regularly to offices. Our new goal is to sustain at least a 
+50% reduction from our 2016 baseline.  ENVIRONMENTAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 13OFFICE PAPER CONSUMPTION REDUCTION
+ 43%  86%  
+ in 2021 from 2016 Baseline
+Water Consumption 2016 2017 2018 2019 2020 2021
+Millions of Gallons 306 274 260 2201137 130CONSUMPTION 
+DOWN  
+58%
+or 
+176M  
+gallons
+1. 2019 is estimated due to tracking complexities during Windstream’s restructuring process that yearBUSINESS CONTINUITY 
+In response to the COVID-19 pandemic, 
+Windstream implemented several 
+provisions of our Business Continuity and 
+Pandemic Response Plans, which provide 
+a standardized strategy for managing 
+potentially disruptive events. Key strategies 
+for continuity of our operations were 
+transitioning our employees to virtual 
+home offices in most locations utilizing 
+the company’s robust collaboration 
+tools, including OfficeSuite HD Meeting®, 
+equipping our employees with personal 
+protective equipment (i.e., masks, hand 
+sanitizer, gloves) and safety protocols based 
+on CDC guidance, and engaging critical 
+suppliers and vendors to ensure their 
+capacity to provide product and service 
+continuity.
+Windstream’s Corporate Business 
+Continuity Management Program’s mission 
+is to identify risk to its essential business 
+functions by developing plans to mitigate 
+those risks to protect our employees, 
+business operations, customers, and key 
+stakeholders. As part of our program goals, 
+we promote business continuity awareness 
+and participation at all levels within the 
+company. We do this through annual 
+training and exercises, and by observing 
+Business Continuity Awareness Week each 
+May, which highlights the importance of 
+business continuity and focuses on building 
+and investing in resiliency. 
+Annually, we conduct a Business Impact 
+Analysis to ensure that the essential 
+business functions are included in our plans 
+for recovery and restoration in the event of a disaster or business disruption. In 
+conjunction with the impact analysis, a risk 
+and threat analysis review is conducted for 
+an understanding of any site vulnerabilities 
+to determine remediation and consider 
+mitigation as appropriate in the recovery 
+strategies. 
+The recovery strategies are intended to 
+minimize the decision-making process 
+during a business continuity event or 
+catastrophic event. A catastrophic event that 
+could cause or has caused significant impact 
+to our People, Premises, Resources, and 
+Suppliers (P.P.R.S.). Catastrophic events are 
+many, ranging from natural disasters (e.g., 
+floods, hurricanes, tornadoes, earthquakes), 
+technological disasters (e.g., cyber incidents/
+data breaches), pandemics, to man-made 
+disasters (e.g., work-place violence, active-
+shooter). 
+Our Business Continuity Management 
+Program in collaboration with key business 
+process owners and leads has prepared and maintains plans for responding to 
+these events with documented Business 
+Continuity Plans, Crisis Management and 
+Communication Plans, and Emergency 
+Action Plans.
+Our teams are trained on the recovery 
+and restoration procedures through 
+participation in structured walkthroughs 
+and tabletop exercises, and functional 
+integrated system tests. The recovery and 
+restoration procedures are developed to 
+respond to events impacting our P.P.R.S. 
+Specifically, the recovery strategies consider 
+a loss of facility, loss of systems, or loss of 
+facility and resources/suppliers. 
+Our business continuity management 
+program manager is certified by the 
+Business Continuity Institute and in 
+the international business continuity 
+standard ISO 22301:2012. For ease of 
+access and management of the Business Continuity Management Program, we 
+have implemented a Business Continuity 
+Management (BCM) SaaS solution, which 
+facilitates the administration and utilization 
+of our plans. The BCM system allows for the 
+plans to be maintained in a real-time mode 
+instead of hardcopies for quicker and more 
+effective response during an event with the 
+latest updates to plan components as well 
+as the monitoring of a plan activation and 
+recovery activities following an event. 
+Before, during, and after an event, crisis 
+communication is facilitated via our 
+WIN Alerts notification system, which 
+is imperative to ensure a coordinated, 
+consistent, monitored and controlled 
+message throughout the event up until 
+returning to normal operations, which 
+ultimately addresses one of the primary 
+goals to provide situational awareness  
+and transparency and maintain  
+customer confidence.ENVIRONMENTAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 14Windstream’s Corporate Business Continuity Management 
+Program’s mission is to identify risk to its essential business 
+functions by developing plans to mitigate those risks to  
+protect our employees, business operations, customers,  
+and key stakeholders.APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 15SOCIAL
+Treating people with respect
+DIGITAL INCLUSION  – 16
+ACCESSIBILITY – 17
+DIGITAL SAFETY – 18
+ROBOCALLS – 18
+OPEN INTERNET – 19
+PRIVACY AND DATA PROTECTION – 20
+CYBERSECURITY – 21
+HUMAN CAPITAL GUIDING PRINCIPLES – 22
+COMMITTED TO RESPECTFUL WORKPLACE – 23
+EMPLOYEE ENGAGEMENT – 24
+EMPLOYEE COMPENSATION AND BENEFITS – 25
+WINDSTREAM’S STATEMENT ON DIVERSITY & INCLUSION (D&I) – 26
+HUMAN PROSPERITY (PHILANTHROPY) – 27
+KEY PARTNERS – 28
+VETERANS – 29
+EMPLOYEE RESOURCE GROUPS –30
+LEARNING AND DEVELOPMENT – 31
+SAFETY – 32
+LABOR RELATIONS –33
+SUPPLY CHAIN – 33
+SUPPLIER DIVERSITY – 34DIGITAL INCLUSION 
+At the end of 2021, Windstream had 4.9 million locations in its ILEC footprint: 
+4.6 million are residential with the remaining 300,000 classified as business. 
+Windstream’s footprint is largely rural with 96% of our service territory falling 
+outside of municipal boundaries. More than 47% of Windstream’s residential 
+locations and 15% of business locations fall outside of municipal boundaries. 
+Those locations are spread across 146,000 square miles in 18 states for a 
+population density of 15 locations per square mile. Only 4% (or 6,000 square 
+miles) of Windstream’s ILEC territory fall within a municipal boundary. Windstream 
+is wholly invested in all our customers and laser-focused on bridging the digital 
+divide. Deploying broadband to rural America can be very costly, so Windstream 
+looks to participate in federal, state, and local grant programs to help make 
+the necessary network builds economically feasible. With roughly half of our 
+residential locations falling outside of municipal boundaries, grant programs are 
+instrumental in improving speeds to our most unserved locations. 
+In 2021 alone, Windstream secured approximately $64 million in state and local 
+grants to deploy fiber to the home (FttH) to approximately 18,000 locations, 
+enabling speeds of 1 gigabit per second. Prior to 2021, our participation in 
+state and local grant programs yielded about $34 million in funding to deliver 
+broadband to about 17,000 locations. 
+In November 2020, the Federal Communications Commission (FCC) concluded the 
+Rural Digital Opportunity Fund (RDOF) reverse auction. Windstream was successful 
+in securing funding to deliver FttH services to approximately 193,000 locations 
+across 18 states. We were the fifth largest winner in the auction and the fourth 
+largest in our ILEC states, securing $53 million annually in funding. RDOF funds 
+are to be used to serve locations within census blocks that no provider claims they 
+can offer service of at least 25/3. Windstream’s RDOF efforts are expected to bring 
+gigabit speeds to more than 7,700 additional square miles and approximately 
+106,000 new locations outside of our existing service footprint—95% of this 
+territory and 89% of the locations fall outside of a municipal boundary.
+Moving forward, we plan to expand our fiber-focused approach to broadband 
+builds. Windstream has committed the necessary funds to fuel our robust capital 
+investment program to expand 1 gigabit per second broadband service in rural 
+America. We are committed to bringing the speeds needed to enable working  
+from home, digital learning, and telehealth to our customers. Broadband service  
+is a community growth-driver, and we are committed to our communities and  
+our customers.SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 16ACCESSIBILITY  
+Our consumer segment, Kinetic by Windstream, works closely 
+with our agency partners and internal creative teams to ensure 
+that the people we portray in our videos and advertisements 
+visually reflect and celebrate the diversity of our company and 
+the communities we serve.
+Additionally, we are committed to ensuring that our digital 
+brand presence (windstream.com, myWIN portal) adhere to 
+accessibility guidelines and requirements so that people with 
+disabilities (vision impairments, etc.) can access and understand 
+all of the critical information therein.SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 17DIGITAL SAFETY
+Kinetic allows our customers to select the features that are right for 
+them, and those features cover a wide variety of digital security needs. 
+Whether it is computers or devices, wireless cameras, door locks or any 
+other type of connected device, Kinetic Secure customers are instantly 
+protected on the gateway modems with no action required.
+Kinetic customers can take control of their home Wi-Fi network by 
+managing settings with our Go Kinetic app, and when they are away from 
+home, we protect users digitally with our “On the Go” app. 
+Our packages offer options for device protection and software security 
+with antivirus, malware, and phishing protection, malicious website 
+blocking, and banking protection. 
+Our Digital Security allows users to create profiles for custom control and 
+set up parental controls.
+Backed by renowned F-Secure products, our software updates itself with 
+new enhancements and upgrades delivered behind the scenes so our 
+customers are hands off the technical details. 
+We also provide Premium technical support for those times when a 
+customer needs our help to set up their software safely and securely 
+or connected devices. Kinetic strives to best protect our customers by 
+marketing and encouraging proactive consults with our customers at the 
+time of service activation versus retroactive troubleshooting with items 
+such as endpoint application installation, parental control education, 
+sharing best practices on device and password management, and more. 
+Other options include identity theft protection with Credit Guard and 
+Protection Plus for wire maintenance protection within the customer’s 
+home.
+Kinetic is committed to Digital Safety, and we also provide:
+• Education to customers around online safety and threat management 
+through blogs, quarterly newsletters and social media
+• Engagement with Internet Safety Month annually to promote healthy 
+online habits and the need for child protection to our customer base
+How do you protect  
+your family?  
+Kinetic Secure by Windstream 
+offers award winning Internet 
+security that lets your family 
+safely surf, shop, school, 
+work, and more at home  
+and on the go.  
+ROBOCALLS 
+Unwanted and illegal robocalls, robotexts, and spoofing remained significant issues in 
+2021 for Windstream, its industry partners, and consumers. Windstream is committed to 
+preventing illegal robocalls and malicious caller ID spoofing across its networks as a top 
+priority in protecting consumers, yet malicious actors continue to increase the volume and 
+sophistication of their tactics.
+According to the FCC, unwanted robocalls are the biggest consumer complaint the agency 
+receives by a significant margin with over 200,000 complaints each year1. YouMail, a third-
+party analytics company, estimates the number of robocalls at 58.5 billion in 2019, 45.9 
+billion in 2020, and 50.5 billion in 20212. Complicating the issue further, not all robocalls 
+are illegal. For example, many banking and healthcare organizations rely on automated 
+technologies to reach their large audiences.
+Although Windstream and the FCC have taken significant measures to reduce the number 
+of illegal and unwanted calls, technology makes it cheap and easy to generate massive 
+numbers of automated phone calls or to “spoof” a caller ID, which occurs when a caller 
+deliberately falsifies the information transmitted to the caller ID display in order to disguise 
+their true identity. 
+To help our customers protect themselves from such actions, Windstream has adopted 
+a multifaceted approach to mitigate and provide relief to our Enterprise and Kinetic 
+customers that we refer to as “SAFE.”
+SAFE stands for:  
+Spam Caller Identification - Complete  
+Active Call Blocking for Invalid Callers - Complete  
+Framework for Trust (STIR/SHAKEN) - Complete  
+Elective Call Prevention – In progress, expected to rapidly follow STIR/SHAKEN
+Spam Caller Identification  
+In June 2019, Windstream activated a caller-ID based information service for all retail 
+Kinetic and Enterprise customers. Using a calling number’s reputation score, developed 
+using analysis of calling patterns across dozens of carriers nationally, Windstream 
+began replacing the Caller Name value for suspected illegal robocallers with a SPAM or 
+Fraudulent prefix.  
+ 
+ 
+Windstream customers now have the option to accept or reject a call based on the calling 
+name and number. The advantage of this early approach is that it avoids blocking so-called 
+“false positives” and puts control in the hands of the Windstream subscriber.
+Active Call Blocking  
+Windstream acted quickly to implement blocking based on a set of rules the FCC issued 
+starting in 2017. 
+Windstream automatically blocks calls originating from: 1) numbers that the owner has 
+requested be added to a national Do Not Originate (DNO) Registry – so-called incoming 
+only numbers such as the IRS Toll Free number and 2) numbers that source from an invalid 
+or unassigned number blocks. 
+Blocking calls from invalid calling numbers prevents an incredible amount of robocalls 
+from ever reaching Windstream subscribers, silently and stealthily killing bad calls without 
+our customers even knowing that Windstream “has their back.”SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 181 – https://www.fcc.gov/news-events/blog/2019/06/05/beating-back-unwanted-robocalls
+2 – https://robocallindex.com/history/timeFramework for Trust  
+On Dec. 30, 2019, the TRACED Act was signed into law. It 
+establishes the STIR/SHAKEN Framework as a trust mechanism 
+exchanged between VoIP interconnected carriers. STIR/
+SHAKEN permits carriers that exchange traffic via VoIP to 
+assign a confidence level to the caller’s identity.
+That trust level, or Attestation A to C, has three alphabetical 
+scores that start at A, to indicate absolute confidence in the 
+caller’s identity, to C, to indicate that the original caller is 
+unknown.
+Windstream began evaluating solutions and network 
+requirements even before the bill was signed into law and 
+participated in the industry working group that developed the 
+STIR/SHAKEN standard. Windstream fully implemented STIR/
+SHAKEN across the IP portions of its network in 2021, offering 
+consumers further information and tools to stop unwanted 
+calls.
+Elective Call Prevention  
+Windstream expects to provide our customers with the ability 
+to opt in and opt out of an analytics-based blocking solution in 
+2022.
+We realize that blocking is not a one-size-fits-all service and 
+expect some customers will want to participate while others 
+(such as emergency services, public institutions, etc.) either will 
+be reluctant or forbidden to selectively block calls.
+As a result, we expect a multi-tiered solution to be available 
+to our retail customers for elective call blocking, ranging from 
+complete blocking of all calling numbers with suspicious call 
+behaviors to a customizable blocking solution tailored to each 
+customer’s needs.
+Windstream is committed to blocking unwanted and illegal 
+robocalls, robotexts, and spoofing in order to prevent 
+unwanted and illegal robocalls. As we move into 2022, 
+Windstream is fully prepared and equipped to further protect 
+our customers and restore their trust in voice calling. SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 19OPEN INTERNET 
+Windstream maintains an open Internet for our 
+customers and manages our network with one goal: to 
+deliver the best possible broadband Internet experience 
+to all of our customers. We strive to provide the best 
+customer experience for all types of applications. So long 
+as traffic on our network is not malicious or harmful, we 
+will NOT:
+• Block lawful content or traffic on the basis of 
+applications, services, users, or classes of applications 
+sourced from, or destined to, the public Internet; or
+• Throttle lawful content or traffic on the basis of 
+applications, services, users, or classes of applications 
+sourced from, or destined to, the public Internet.
+Managing the network is essential to promoting the use 
+and enjoyment of the Internet by all of Windstream’s 
+customers. To ensure the best possible customer 
+experience, Windstream employs reasonable, tailored 
+network management practices that are consistent 
+with industry standards. Such practices ensure that all 
+customers and application providers have access to a fair 
+share of Windstream’s network while not unreasonably 
+discriminating in transmitting lawful broadband traffic, 
+but do not include affiliated prioritization or paid 
+prioritization. 
+Just as the Internet continues to change and evolve, so too 
+will Windstream’s network management practices adapt 
+to address the challenges and threats on the Internet. 
+By engaging in reasonable and responsible network 
+management, Windstream can deliver the best possible 
+broadband Internet experience to all of its customers.
+Further information regarding our network practices and 
+performance, device attachment rules, and commercial 
+terms is available at: https://www.windstream.com/about/
+legal/broadband-network-statement.Windstream recognizes that protecting data privacy is 
+fundamental to maintaining the trust of our customers and 
+growing our business. Respecting consumers’ privacy is not only a 
+smart strategy for inspiring trust in us, it represents aspects of our 
+core values. As such, Windstream constantly monitors emerging 
+federal, state, and even international laws that relate to the way 
+we handle data privacy and protect our customer’s identities, and 
+we update our processes and procedures as needed. We have 
+established and continue to develop strong privacy protection 
+measures to secure our customers’ and employees’ private 
+information. The scope of Windstream’s data protection policies 
+includes all lines of business and subsidiaries.
+For instance, Windstream has adopted policies and procedures 
+governing how we collect, use, retain, share, and protect data. 
+Such information is contained in Windstream’s Privacy Policy 
+located on Windstream’s main customer-facing website. Our 
+compliance with privacy protection is conducted under the 
+oversight of our chief information security officer, who reviews 
+and discusses data privacy risks and mitigating actions with 
+the Audit Committee of our Board of Managers on a regular 
+basis. Windstream also has established a Privacy Committee 
+with representatives from across the entire company to ensure 
+we maintain the highest levels of data protection. Our policies 
+and procedures are subject to controls such as internal audits, 
+observations, testing, employee and vendor training, and internal 
+attestations that all serve to promote ongoing compliance 
+throughout the business. To meet our ethical and legal commitments to 
+protect personal data, Windstream has developed 
+and continues to develop information security 
+requirements for its employees and suppliers who 
+handle customer data, according to federal, state, 
+and international standards. 
+To ensure we secure customers’ data, Windstream 
+has technical, administrative, and physical 
+safeguards in place to limit information security risks 
+and cyber threats. Windstream’s chief information 
+security officer (CISO) is responsible for leading, 
+and as appropriate, coordinating, enterprise-wide 
+information security strategy, policy, standards, 
+architecture, and processes. Windstream’s CISO 
+regularly coordinates with other stakeholders 
+throughout the company to ensure Windstream’s 
+safeguards are active and working. 
+Over 2021, Windstream undertook audits to 
+ensure it remained compliant with its obligations 
+under the General Data Protection Regulation 
+(GDPR), California Privacy Rights Act (CCPA), and 
+other U.S. States and nations in which Windstream 
+does business that enacted privacy legislation. 
+Windstream also implemented new controls to 
+ensure applicable consumers and data subjects 
+are able to correct and have erased their protected 
+information. Windstream does not rent, sell, or 
+provide personal data to third parties for purposes 
+other than completing transactions. Windstream 
+also provides information to consumers upon 
+their request and protects its customers private 
+information as required by law. 
+Windstream is committed to ensuring and 
+maintaining the privacy of its customers. Through 
+these measures, it has established the requisite 
+tools, policies, and procedures to meet this standard.SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 20Windstream Protects Personal Data 
+Windstream endeavors to protect and maintain 
+control over customers’ data at every contact 
+point.
+Collection/Use: We collect and use information 
+according to our publicly available Privacy Policy 
+and, in the case of business customers, according 
+to our contracts. Our policies and practices are 
+designed to limit data collection, protect and 
+respect consumers’ privacy and the choices 
+consumers make concerning the use of their data. 
+Windstream does not collect personal data from 
+third-parties.
+Disclosure: In general, we share information 
+within Windstream and with vendors and partners 
+as described in our privacy policies and according 
+to our customers’ consent. We take measures in 
+our contracts with third-party vendors to protect 
+information we disclose. We permit vendors to 
+use this data only for the purpose for which we 
+provide it. 
+Data Retention: We maintain corporate policies 
+governing data retention and review our 
+practices at least annually as part of our continual 
+assessment of privacy requirements. Under 
+our practices and policies, we retain personally 
+identifiable and other sensitive records only 
+as long as reasonably necessary for business, 
+accounting, tax or legal purposes, and are 
+committed to deleting data within a specified time 
+period, commensurate with the relevant data 
+retention policy pertaining to the specific type of 
+data in question.PRIVACY AND DATA PROTECTIONIdentifying data security risks and managing vulnerabilities
+ 
+Windstream operates in a highly competitive, increasingly complex and ever-
+changing business environment. Our data breach and incident response plan include 
+both proactive and reactive measures. To safeguard our systems and information, 
+we continually upgrade security governance and protocols to reflect changes in 
+technology, potential risks and business needs. To that end, Windstream has a 
+comprehensive Security Vulnerability Patch Management program. Access control and 
+encryption/deidentification techniques are in place. The program is designed to reduce 
+attack surfaces by proactive application of vendor security updates as well as the 
+detection and management of vulnerabilities within Windstream through the following 
+methods:
+• Framework. Our Security Vulnerability Patch Management policy outlines the 
+patching approach, remediation schedule and SLA and personnel responsibilities 
+necessary to sustain a healthy and well-balanced program.
+• Risk identification. We continually assess the threat and vulnerability landscape 
+using various commercial, vendor, government, and publicly available information 
+sources.
+• Risk detection. We use Static Application Security Testing (SAST), Dynamic 
+Application Security Testing (DAST), on a scheduled and real-time basis to identify 
+vulnerabilities within our network infrastructure. Additionally, Approved Scanning 
+Vendor are used to conduct external vulnerability scanning services to validate 
+adherence with the external scanning requirements of PCI DSS Requirement 11.2.2.
+• Risk evaluation. Identified vulnerabilities are assigned a severity classification 
+based on their evaluated risk using an industry standard scoring model. 
+Vulnerabilities are then reported to the appropriate asset owners and custodians 
+for remediation. If remediation is not feasible within the policy timeframe, a plan of 
+action and milestone is developed and tracked. In rare circumstances, an exception 
+may be approved, which is tracked in a central system of record as mitigating or 
+compensating controls are considered and deployed.
+• Metrics and reporting. We collect and retain data for reporting purposes and to 
+enhance management accountability for remediation of vulnerable assets. We also 
+use the data to assess threat trends and for strategic planning of ongoing program 
+improvements.
+CYBERSECURITY  
+Windstream takes protecting the security of our systems and networks very seriously. 
+As such, the company’s executive body responsible for Privacy and Data security is a 
+Board-level committee. To more effectively address the cybersecurity threats posed 
+today, Windstream also has a dedicated chief information security officer (CISO) 
+whose team is responsible for leading enterprise information security strategy, policy, 
+standards, architecture, and processes. The primary goal of the information security 
+program is to adequately protect the data collected, generated, created, stored, 
+managed and transmitted or otherwise handled by Windstream so as to best serve the 
+interests of shareholders, customers, employees and other constituents. Windstream’s 
+comprehensive information security program includes, among other aspects, risk 
+management, vulnerability management, antivirus and malware protection, file 
+integrity monitoring, encryption, access control, data loss prevention and threat 
+detection and response. The CISO leads the review and discussion of Windstream’s 
+cyber risks, threats, and protections with the Audit Committee of the Board of 
+Managers quarterly and throughout the year, as warranted.
+Windstream’s information security policies and systems are independently audited by 
+an external third-party no less frequently than once every two years.SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 21SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 22HUMAN CAPITAL GUIDING PRINCIPLES
+Windstream aims to create and foster a workforce that reflects and contributes 
+to the diverse communities in which we do business. Their passion, purpose and 
+diversity are essential in our ability to deliver world class technology solutions. 
+Each of our employees offers a unique set of ideas, beliefs and skills shaped 
+by their heritage, background and culture. We consider this diversity to be an 
+important resource and we strive to foster an environment where employees feel 
+included, respected and comfortable bringing their whole and authentic self to 
+work. Windstream was selected as a “Top Most Loved Workplace” by Newsweek 
+because of our commitment to establishing a supportive, innovative and creative 
+culture that empowers employees to meet customers’ critical communications 
+needs in the midst of a rapid digital revolution.
+OUR WORKFORCE BY THE NUMBERSGender
+US employee profile by gender
+Percentage of workforce (Male) 71.8% 69.7% 69.1%
+Percentage of workforce (Female) 28.2% 30.1% 30.9%
+International employee profile by gender
+Percentage of workforce (Male) 85.3% 85.3% 83.3%
+Percentage of workforce (Female) 14.7% 14.71% 16.7%
+Gender worldwide
+Percentage of workforce (Male) 71.9% 69.9% 69.1%
+Percentage of workforce (Female) 28.1% 30.1% 30.9%
+Diversity in Senior Leadership
+Percentage of non-caucasian in total US management 
+(VP and above)11.3% 9.5% 6.8%
+Percentage of women in US management (VP and 
+above)16.9% 19.1% 17.1%
+Percentage of non-caucasian in total US senior 
+management  (SVP and above)2.9% 7.1% 3.3%
+Percentage of women in US senior management (SVP 
+and above)17.1% 14.3% 10.0%
+Veterans
+Number of veterans 1,314 1,255 1,432
+Number of veteran spouses 121 126 130
+Affiliated employees (% of US workforce) 13.0% 13.0% 14.1%
+Outsourced, Temporary and Contract Employees
+Average # of Outsourced FTEs Supporting Our Business 1,893 1,956 2,222
+Average # of Contractors and Temporary Employees 43 61 174Ethnicity 2021 2020 2019
+Race/Ethnicity
+Asian (% of US workforce) 1.7% 1.8% 1.8%
+Black/African American (% of US workforce) 8.7% 8.9% 9.3%
+Hispanic/Latino (% of US workforce) 4.6% 4.0% 3.9%
+American Indian/Alaska Native (% of US workforce) 0.7% 0.7% 0.7%
+Two or More Races (% of US workforce) 1.3% 1.2% 1.2%
+Not Specified/Applicable (% of US workforce) 0.5% 0.3% 0.2%
+Native Hawaiian/Oth Pac Island (% of US workforce) 0.3% 0.3% 0.3%
+White (% of US workforce) 82.2% 82.8% 82.6%
+Diversity
+Caucasian  (% of US workforce) 82.2% 82.8% 82.6%
+Non-Caucasian  (% of US workforce) 17.8% 17.2% 17.4%
+Workforce
+US Employees (% of total workforce) 99.7% 99.7% 99.7%
+International employees (% of total workforce) 0.3% 0.3% 0.3%COMMITTED TO RESPECTFUL WORKPLACE 
+Windstream is committed to a workplace free from unlawful discrimination 
+and harassment and does not tolerate discriminatory or harassing behavior 
+of any kind. Our robust Harassment Prevention and Non-Discrimination in the 
+Workplace Policy applies to any conduct that has the purpose or effect of creating 
+an intimidating, hostile or offensive work environment. Employees who believe 
+they have been the subject of, or are aware of, discrimination, harassment 
+or retaliation can report this in a number of ways—to their supervisor, to 
+their assigned human resources business partner or other member of the HR 
+department or to the Windstream ethics helpline via telephone or online. All 
+complaints are handled in a prompt, confidential manner, and information is only 
+shared on a need-to-know basis. All complaints are investigated, and any acts 
+of discrimination, harassment or retaliation are addressed and remedied with 
+appropriate corrective action, up to and including termination of employment. 
+In addition, Windstream prohibits any form of retaliation against employees who 
+make complaints and committing an act of retaliation alone is prohibited and can 
+be cause for appropriate corrective action, including termination of employment. 
+Further, Windstream expects its suppliers to treat all employees with respect 
+and dignity, to respect internationally proclaimed human rights and avoid being 
+complicit in human rights abuses of any kind, and to adhere to all standards 
+drawn by the International Labor Organization (ILO).
+All Windstream employees are required to participate in annual harassment 
+prevention training intended to reinforce the company’s commitment to a 
+diverse, inclusive, and respectful work environment free from discrimination 
+and harassment. Furthermore, all employees at Windstream are encouraged 
+to participate in unconscious bias and diversity training to further foster a work 
+environment of fairness, awareness, and sensitivity. 
+Windstream respects our employees’ rights to freedom of association and 
+collective bargaining in compliance with applicable law, including the right to join 
+or not join worker organizations (labor unions). 
+Windstream also conducts employee engagement surveys to all employees 
+to gauge satisfaction and engagement across the company. Anonymized, 
+aggregated results are shared by department and for Windstream, as a whole.SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 23EMPLOYEE ENGAGEMENT 
+Like most large companies, Windstream utilizes a third-party research firm to conduct 
+an annual Employee Engagement Survey to measure both Employee Engagement 
+and Manager Effectiveness.  Higher scores have been correlated to better company 
+performance and higher employee retention for companies across all industries. 
+Individual responses are confidential and only visible to the third-party conducting the 
+survey.  Using the aggregated data Windstream receives, we are able to see trends and 
+identify areas of strength as well as areas for improvement.  This annual survey informs 
+our actions, which includes a “Connect the Dots” communications campaign to help our 
+teammates better understand how their role and efforts contribute to our mission and 
+strategies.
+Based on the data provided in this annual survey and the actions we have taken as a 
+result, Windstream has seen a steady improvement in our Employee Engagement and 
+Manager Effectiveness scores following our emergence for a financial restructuring effort 
+in 2019, and we are now at or above the benchmarks for our industry on both metrics.
+We believe our continued focus on Employee Engagement and Manager Effectiveness 
+have allowed Windstream to achieve turnover rates that are substantially below 
+benchmarks for our industry.
+Turnover Trends
+Benchmark Source: Bureau of Labor and Statistics (BLS)SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 24Category 2019 2020 2021 Benchmark
+Voluntary 12% 10% 15% 22%
+Involuntary 1% 2% 2% 4%
+Total Turnover 13% 12% 17% 26%Employees can take advantage of the following ongoing 
+Wellness Programs:
+Tobacco Cessation  
+The Magellan tobacco cessation program offers app and coaching based tobacco 
+cessation support. Tobacco cessation supplements are also included in the 
+medical plan. 
+Windstream’s Employee Assistance Program (EAP)  
+Windstream offers an Employee Assistance Program through Magellan. From 
+online information to confidential consultations with licensed behavioral health 
+professionals, employees and their families have access to a wealth of practical, 
+solution-focused resources to help them reduce stress, strengthen relationships, 
+increase productivity and improve quality of life.
+Progyny  
+Progyny specializes in offering families a variety of options for infertility 
+treatment – with proven success. With over 450 clinics, Progyny offers a wide 
+network of specialists.
+Livongo  
+Livongo offers assistance for members seeking support for diabetes, 
+hypertension and weight management. These programs are available at no cost 
+to medically enrolled employees and spouses who meet clinical requirements. 
+Participants receive the Latest Technology to Simplify Living with Diabetes 
+including the Livongo connected glucometer blood pressure cuff, and scale which 
+automatically upload readings, making logbooks and sync cables a thing of the 
+past. Livongo enrollees also receive real-time support from coaches that includes 
+personalized support provided from the Livongo mobile app, secure website, and 
+certified diabetes educators. Participants also benefit from unlimited test strips 
+at no cost that are shipped directly to the employee’s home with the click of a 
+button.
+Included Health  
+Windstream’s medical plan offers Included Health to assist participants with 
+identifying high-quality providers and facilities, claims support, pre-admission 
+and post-discharge support, expert second opinions, online ID cards, and clinical 
+expertise for planned and unplanned healthcare journeys.
+EMPLOYEE COMPENSATION AND BENEFITS 
+Gender Pay Equality  
+Windstream believes strongly in gender pay equality. We regularly monitor and 
+report on potential compensation inequities to senior leadership and people 
+managers as part of a formal initiative to take action and assist in closing gaps. This 
+initiative is overseen by our Chief Human Resource Officer.
+Health & Wellness  
+In addition to providing a comprehensive benefits package to employees that 
+includes medical, dental, vision, health savings and flexible spending accounts, life 
+insurance, disability benefits, parental leave benefits, and a 401(k) retirement plan 
+with company matching contributions, Windstream supports the overall health and 
+well-being of our employees with a full menu of activities and resources to assist 
+them with maintaining and improving their overall health. 
+Windstream employees receive up to seven paid company holidays, five optional 
+holidays that may be taken to celebrate ethnic, cultural, religious or other significant 
+observances; an additional one-time optional holiday is awarded with the employee’s 
+first year service anniversary and with each five year service milestone thereafter; 
+depending on years of service from two to five weeks of paid vacation time; up 
+to five days of paid bereavement time; and a comprehensive sick pay program 
+of up to seven paid days that covers absences for one’s own needs or the needs 
+of a family member, and includes one employee wellness day and even a day for 
+pet bereavement. Benefits vary for our unionized employees as set forth in their 
+collective bargaining agreements.SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 25SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 26Connecting people in a world of infinite possibilities. At 
+Windstream, we celebrate the authenticity and uniqueness 
+of our people and their ideas. The diverse voices of our 
+employees fuel our innovation and the inclusive, equitable 
+culture we are building fosters belonging and empowers 
+each one of us to create amazing customer experiences.
+Windstream is committed to promoting and encouraging 
+diversity, equity, inclusion and belonging for our employees 
+by valuing the range of perspectives, ideas and experiences 
+that diversity provides, regardless of peoples’ gender, age, 
+language, disability, ethnicity, cultural background, sexual 
+orientation, religious belief, education, work experience, 
+occupation, socio-economic background, and marital status.
+Our D&I Vision  
+Windstream aims to create and foster a workforce that 
+reflects and contributes to the diverse communities in 
+which we do business. 
+Our employees and culture make the difference for our 
+customers, our communities, and for our workplaces. Each 
+of our employees offers a unique set of ideas, beliefs and 
+skills shaped by their heritage, background and culture. We 
+consider this diversity to be an important resource, and 
+we strive to foster an environment where employees feel 
+included, respected and comfortable bringing their whole 
+and authentic self to work.Windstream’s Diversity and Inclusion Strategic Council is 
+led by President and CEO Tony Thomas and our senior 
+leadership team. The goal of the Strategic Council is 
+to prioritize the company’s diversity, equity, inclusion 
+and belonging efforts, raise awareness throughout the 
+organization and educate leaders and employees on 
+its importance. Windstream’s Diversity and Inclusion 
+Operational Committee fulfills the goals and practices set 
+forth by the Strategic Council. The committee consists of a 
+diverse group of 35 employees who possess a wide range of 
+industry and leadership experience. 
+We made great progress in our efforts to increase our 
+companywide focus on diversity and inclusion in 2021. 
+Several highlights include: 
+• High Employee Engagement Survey results on three new 
+D&I questions 
+• Receiving the lowest ESG Risk Rating among U.S.-based 
+Telecommunication providers 
+• Being selected as one of America’s Most Loved 
+Companies by Newsweek 
+• Receiving numerous industry awards and accolades 
+including a Top Ten Military Friendly Company and Best 
+of the Best for African Americans, Professional Women, 
+Hispanics, DiverseAbility and LGBTQ+
+• Hosting numerous Employee Resource Groups events 
+• Sharing various blogs highlighting the richness of our 
+backgrounds 
+ The Operational Committee diligently works to reach the 
+goals set forth by the Strategic Council. The Committee’s 
+priorities for 2021 included providing leaders with a D&I 
+Toolkit, linking employee-led Culture Crew Events with D&I 
+awareness, the creation of three new courses focused on 
+inclusivity, a dedicated internal D&I webpage for leaders, 
+and mentorship and community service programs for our 
+ERGs. This year we will build upon the solid foundation we 
+have established by expanding our D&I framework to  
+include Equity and Belonging. These activities are reported 
+quarterly to the ESG Committee. Our current priorities 
+include: 
+• Increasing employee engagement through increased 
+focus and action surrounding collaboration, equity and 
+belonging
+• Expanding the reach of our ERGs through mentorship 
+and community engagement opportunities, while adding 
+a Hispanic ERG
+• Implementing additional recruiting and retention 
+strategies to strengthen and showcase our commitment 
+to diversity
+• Expanding and promoting professional development 
+opportunities to amplify and empower the diverse voices 
+of our workforce
+We’re proud to receive multiple recognitions for our D&I 
+program and initiatives such as a Top Employer of Women, 
+African Americans, Hispanics, Veterans, Disabilities and Top 
+LGBTQ+ Employer. See the Full List of Awards. 
+Learn more about our culture and diversity here:  
+Culture & Diversity Windstream aims to create and foster a workforce that reflects and contributes 
+to the diverse communities in which we do business. Windstream’s Statement on Diversity & Inclusion (D&I) 
+SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 27At Windstream, we understand the 
+important role we play in society. We 
+support the communities we serve 
+through nonprofit organizations and 
+partner with them to enhance lives 
+and build stronger and more vibrant 
+communities. We support numerous 
+charitable causes, including hunger relief, 
+domestic violence awareness, breast 
+cancer research and STEAM (science, 
+technology, engineering, arts and 
+mathematics) initiatives. 
+Additionally, employees from varying 
+organizations across the company 
+volunteered in our Culture Crews to lead 
+activities and events that demonstrate 
+and celebrate our cultural values. These 
+crews coordinated employee events and 
+hosted charitable fundraisers across our 
+employee base. HUMAN PROSPERITY (PHILANTHROPY) 
+The Black Business Support Fund has awarded $250,000 in 
+grants to small businesses across several states. In 2021, Kinetic 
+Business expanded the program to include customers in any 
+Georgia, Pennsylvania, New York and Ohio market Kinetic 
+serves, along with previously eligible businesses in the Charlotte, 
+North Carolina, area and in Lexington, Kentucky. Launched in 
+November 2020, the fund seeks to increase the number and 
+stability of Black-owned businesses in its service footprint.
+“We were able to offer meaningful help to several small 
+businesses in the Charlotte area and in Lexington in 2020,” 
+said Lorenzo Clark, vice president of inside sales for Kinetic 
+and president of the Windstream Black Professional Network 
+Committee. “The time was right to expand to more communities 
+in 2021 to keep the momentum going.”
+Each selected small-business grant recipient received between 
+$2,500 - $5,000 in cash and a year of free internet for their 
+business. The selected businesses also got a free consultation from Kinetic Business on processes and products that could 
+improve efficiencies and make their business more profitable.
+One fund winner, Mickeayla Clark-Brockington, who operates 
+BOSS Office, a Douglas, Georgia, retail business that 
+provides payroll service, tax preparation service and financial 
+management consulting to clients, says that winning the prize 
+package from Kinetic meant the difference between keeping her 
+store open or closing it down.
+“I don’t know how my own small business would have survived 
+without this grant, especially during the pandemic,” she said. 
+“Honestly, right off the bat, it paid the rent and utilities. Also, you 
+have to understand that my customers, who are mostly people 
+of color, include hair stylists, restaurant workers, truckers and 
+others who either don’t know how to use the computer or don’t 
+have access to one. Thanks to Kinetic, I could keep my internet 
+on, and that way, continue to give these business owners the 
+digital presence they need to help their own businesses thrive.”Kinetic by Windstream partners with St. Jude Children’s 
+Research Hospital
+For the second year, Kinetic by Windstream donated $100,000 to St. Jude 
+Children’s Research Hospital. During November and December, for every new 
+residential customer activation, Kinetic donated $5, up to $75,000, to benefit 
+St. Jude as part of the Kinetic 4 Kids program. Additionally, in recognition of 
+business customers who contribute generously to their communities, especially 
+during the holiday season, Kinetic Business donated another $25,000 to St. Jude. 
+“We talk a lot about how customers can count on Kinetic for fast, reliable 
+internet,” said Jeff Small, president of Kinetic. “Communities across our 18-state 
+footprint can also count on us for local support for what’s important to them. 
+Supporting St. Jude Children’s Research Hospital is important to our employees 
+and customers, and we are humbled to be able to help St. Jude kids and their 
+families through our Kinetic 4 Kids program.”
+Kinetic Business by Windstream Expands Black Business Support FundKinetic by Windstream and A Million 
+Thanks Partner to Celebrate Military 
+Appreciation Month
+During May 2021, Kinetic by Windstream 
+partnered to celebrate Military Appreciation 
+Month with A Million Thanks, a nonprofit that 
+provides support and appreciation to active 
+and veteran military men and women through 
+sending personal letters of gratitude.
+“Since 2004, we’ve collected and mailed nearly 
+11 million letters to members of our armed 
+forces,” said Shauna Fleming, founder and CEO 
+of A Million Thanks. “The response from these 
+men and women is pretty emotional. It provides 
+a morale boost, not just to one service member, 
+but often to the entire unit. A handwritten letter 
+is a simple, but powerful gesture that anyone 
+can do to express their appreciation.”
+Every Kinetic retail store served as a collection 
+site for anyone to drop off thank-you notes for active-duty service members. Kinetic also 
+held community events throughout its 18-state 
+footprint during the month of May to collect 
+handwritten thank-you notes. A Million Thanks 
+distributed the letters to service members.
+More than one thousand letters were sent to 
+military men and women through the month-
+long campaign. Additionally, Kinetic donated to 
+the Million Thanks Scholarship program that 
+benefits the children of fallen military service 
+members.
+“Every American owes a debt of gratitude to 
+those who have died in service to our country,” 
+said Trey Thomas, president of Windstream’s 
+veteran employee resource group. “Providing 
+some assistance to the children of these men 
+and women, who are pursuing higher education, 
+is important to us as veterans who are 
+employed here and also as a company to show 
+our support.”SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 28KEY PARTNERS 
+Diversity Partnerships  
+Windstream sponsors multiple diversity-focused organizations to build our 
+employer brand and recruit diverse talent. These conferences and partnerships 
+include:
+Paralyzed Veterans of America  
+Windstream helped sponsor the 2021 National Veterans Wheelchair Games that 
+took place August 7-14 in New York City. The Wheelchair Games are open to all 
+U.S. veterans with spinal cord injuries, amputations, multiple sclerosis, or other 
+central neurological conditions who require a wheelchair for athletic competition. 
+Every year, hundreds of American heroes from World War II, the Korean War, the 
+Vietnam War, the Gulf War, and the post-9/11 era compete in this celebration of 
+courage and camaraderie. Windstream sponsored the boccia ball tournament, and 
+company representatives participated in the medal ceremony.
+Women’s Foundation of Arkansas  
+Windstream is supporting the Tjuana Byrd Summer Internship Program in 2022. 
+This is a 10-week summer internship program for women of color attending 
+college in Arkansas and pursuing degrees in Science, Technology, Engineering, 
+& Mathematics (finance and related majors included). The internship will pay 
+an hourly wage, provide free housing for the duration of the program, access to 
+mentorship and networking events, and professional development workshops. 
+Company executives have also agreed to participate in diversity, equity and 
+inclusion training provided by the WFA prior to the program. This internship 
+program is intentionally designed to increase access to and representation in these 
+fields for women of color in Arkansas by eliminating barriers of cost, social capital, 
+and location.
+onePULSE Foundation  
+Windstream partnered with the onePulse Foundation in Orlando, Florida, in 
+observance of the fifth anniversary of the nightclub shooting by hosting a “Where 
+are they now?” speaker series. The series focused on the survivors and board 
+members reflection since the attack on the club and how the foundation gives back 
+to the community. Windstream was proud to sponsor the foundation’s efforts with 
+their memorial and museum, One Pulse Academy, Family Days, and community 
+events with a $10,000 donation. The onePULSE Foundation was established to 
+create a sanctuary of hope for the LGBTQ+ community following that tragic day 
+in American history—June 12, 2016—to honor the 49 Angels that were taken, the 
+68 others who were injured and the countless first responders and healthcare 
+professionals who treated them.SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 29VETERANS 
+At Windstream, we believe the values and beliefs instilled in 
+military personnel shape them into the types of people we 
+want to hire, and we take our commitment to their futures 
+seriously. That’s why we’re committed to hiring Veterans and 
+their spouses. We want proven leaders like them, who have 
+a diverse skill set and are ready to make a difference in our 
+workforce. In 2021, we hired 283 Veterans and 15 military 
+spouses, up from 173 and 10, respectively, in 2020. 
+We’re proud to have more than 1,314 Veterans and 121 
+military spouses representing 13% of our entire workforce 
+serving our customers. Our military leave policy allows our 
+service members to continue serving their country when 
+needed. When service members are called up to active duty, 
+we bridge the gap between military pay and their current 
+pay to care for their family members and their financial 
+and healthcare needs, subject to the terms of collective 
+bargaining agreements which helps us to maintain a 90% 
+retention rate. We’re proud to have received recognition 
+for our work with Veterans and spouses from various 
+organizations such as Military Friendly™ Top Ten Company 
+#10, Military Friendly™ Top Ten Spouse Employer #7, and a 
+Vets Index 5-Star Employer. See full list of awards.
+In 2021, our Windstream Veterans 
+Employee Resource Group facilitated 
+a wreath laying at the Tomb of 
+the Unknown Soldier in Arlington, 
+Virginia, which was attended by 
+our CEO, members of Windstream’s 
+senior leadership team, and other 
+team members from surrounding 
+states and the District of Columbia.
+EMPLOYEE RESOURCE 
+GROUPS 
+Diversity is vital for Windstream’s ability to grow and 
+innovate in a fast-changing environment. 
+Employee Resource Groups (ERGs) are an integral 
+component of Windstream’s commitment to help us 
+drive change in diversity and inclusion allowing us 
+to capitalize on the extraordinary resources of our 
+employees. 
+ERGs promote diversity and inclusion, as well as 
+employees’ professional development. We celebrate 
+the authenticity and uniqueness of our people and 
+their ideas. 
+We want to have the best team possible and to 
+remove barriers and establish an inclusive culture 
+so every employee can realize their full potential 
+and bring their whole and authentic selves to work.
+We have five ERGs, each with its own mission. All 
+work together toward four common objectives: 
+• Support and Encourage Development Within  
+Each Other
+• Engagement and Inclusion 
+• Advance the Company’s Business Goals
+• Ambassadors for the Company’s Diversity & 
+Inclusion Initiatives 
+Learn more about our ERGs here: Windstream ERGsSOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 30WINDSTREAM VETERAN EMPLOYEE
+RESOURCE GROUPWINVETSWINVETSWindstream Veteran Employee Resource Group (WINVets)    
+Mission: Windstream’s Veteran Employee Resource Group program is designed to support 
+Windstream’s initiative regarding outreach, recruitment, and retention efforts in the military and 
+veteran communities. Our mission is to be the pillar for our veterans, military spouses and active Guard 
+& Reserve members by providing networking opportunities, empowering information, and career 
+development that equips each individual to excel in their new career paths. 
+WINDSTREAM BLACK
+PROFESSIONALS NETWORKWBPNWBPNWindstream Black Professionals Network (WBPN)
+Mission: We are committed to providing a supportive environment for all African-American/Black 
+employees that promotes opportunities for personal and professional development while also 
+enhancing cultural awareness and inclusion across our organization. WBPN inspires and supports 
+Windstream’s efforts regarding outreach, recruiting and retention in the African American Community.WOMEN OF WINDSTREAMWOWWOW
+Women of Windstream (WOW)
+Mission: To connect and empower women by creating an inclusive environment for forming 
+supportive relationships and realizing career enhancing experiences. Windstream’s Women of 
+Windstream (WOW) program is designed to recruit, retain, promote, develop and to support 
+Windstream’s women both professionally and personally.
+Windstream Ability Resource Group (WARG)
+Mission: To foster an environment of inclusion and a culture that welcomes people of all abilities 
+while continually seeking opportunities to better serve our employees with disabilities. The WARG 
+promotes equity for employees with disabilities in all aspects of recruiting, onboarding, and retention 
+in accordance with Windstream’s diversity and inclusion efforts. We strive to be an Employer of Choice 
+for people with disabilities.PRIDEPRIDE
+WINDSTREAM LGBTQ+ EMPLOYEE 
+RESOURCE GROUP
+WIN Pride      
+Mission: The Windstream Pride employee resource group seeks to increase LGBTQ+ cultural 
+awareness to foster an environment of inclusion for all Windstream Employees. The ERG provides a 
+venue for networking, socialization, professional development, and discussion of LGBTQ+ issues and 
+concerns. WIN Pride encourages and assists Windstream in its efforts to achieve greater market share 
+among the LGBTQ+ community.Learning and Development  
+The workforce continues to evolve including not just what 
+we do, but where we work and how we grow as employees. 
+As such our focus at Windstream is to ensure that how 
+we hire, onboard, reskill, and upskill our employees is 
+also continually evolving and capable of supporting our 
+employees as they grow with us.  
+Our workforce consists of all five generational groupings 
+and as our hiring is shifting towards Generation Z, it’s 
+imperative that we support a variety of learning styles and 
+delivery methods.  
+Windstream’s overarching Learning and Development 
+philosophy is aligned into three pillars and everything we 
+do is centered around these pillars: 
+• Unified Search – Connecting multiple technologies and 
+platforms together so one search yields results from 
+across the ecosystem 
+• Microlearning – Ensuring that the learning content is 
+narrowly focused and easy to consume 
+• Multichannel Delivery – Making the content available 
+wherever our employers are and on whatever device 
+they’re using Learning Culture  
+Our learning culture is focused on providing meaningful 
+learning content that addresses the skills our employees 
+need to best fulfill their current role and any future roles 
+that they seek. 
+• In 2021, we invested more than $3 million in learning and 
+development initiatives for our employees 
+• Our employees completed more than 850,000 hours 
+of training and had access to more than 5,600 learning 
+opportunities including over 500 microlearning videos 
+that address very specific skill needs 
+• The average number of hours completed per employee 
+is greater than 70CAREER PROGRESSION  
+Windstream is heavily focused on helping our employees 
+understand potential career progression, the required skills 
+for career progression, and their ability to locate learning 
+content to help them advance their skills and careers. 
+We want to be certain our employees see a clear path to 
+future careers at Windstream. To that end, Windstream has 
+developed an internal application called Skill Finder™.
+SkillFinder™ is a tool that allows our employees to search a 
+unified job description data base, identify next step career 
+pathing including possible positions, the skills required for 
+those positions, and available training for those skills. It 
+also allows employees the ability to search positions based 
+on the skills they already have and a connection to our Job 
+application system to check current openings and apply if 
+interested. This provides a one-stop destination to help our 
+employees see and prepare for their future at Windstream 
+and beyond. SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 31Everything we do 
+is aligned with 
+these pillars. 
+Microlearning
+Bite-sized nuggets, narrowly  
+focused, part of larger curriculumsUnified Search
+Using connected technology to help  
+you find what you need  Multichannel
+Making this content available wherever  
+you are and whatever device you’re usingLEARNING AND DEVELOPMENTSOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 32
+LEADERSHIP DEVELOPMENT  
+We know that our long-term success lies in 
+our ability to identify future leaders and to 
+provide tools to support their development. Our 
+Leadership Development Program (WLDP) is a 
+comprehensive, multidisciplinary development 
+approach designed to identify high-caliber 
+employees and prepare them for the next stage 
+in their careers. 
+WLDP uses assessments, web-based learning, 
+skill-building sessions, virtual classrooms, 
+simulations, and interactive labs to help equip 
+promising leaders for greater responsibility. The 
+program culminates with a team project focused 
+on developing real solutions to Windstream 
+issues and presenting that solution to the 
+company’s senior leadership Team. SAFETY  
+Occupational Health and Safety  
+Windstream provides a safe, healthy, and alcohol/drug-free workplace for employees and visitors across 
+all of its facilities. We are committed to complying with all applicable environmental laws and safety 
+regulations. Accordingly, employees are (i) frequently trained to identify and immediately report unsafe or 
+hazardous conditions or suspected violations of the law, and (ii) expected to follow all applicable safety, 
+health, and environmental laws, as well as Windstream’s internal policies and practices. When incidents do 
+occur, Windstream evaluates the incident and performs a root cause analysis as necessary to determine 
+if enhancements to our safety policies and practices or training would be beneficial and impactful to 
+maintaining a safe workplace.
+Environmental, Health and Safety (EH&S) Committees in our local offices play an important role in keeping 
+our workplace safe. These committees afford employees and management the opportunity to provide 
+feedback on any safety related concerns and weigh in on potential resolutions before any accidents or 
+injuries occur. Each committee selects a safety representative who meets quarterly with the Corporate EH&S 
+team to provide updates on safety awareness, training initiatives, equipment needs and any local accidents or 
+injuries.
+Additionally, local facility personnel participate in the development and implementation of their own sites’ 
+specific emergency procedures based on guidelines from the corporate Emergency Action Plan (EAP). Facility 
+managers and employees adopt steps to ensure safe evacuation of employees and visitors in the event of 
+actual emergencies. Responsible parties are identified, based on facility needs, and periodic evacuation drills 
+are held to ensure understanding of individual roles and compliance with conforming standards.
+Our commitment and reputation to safety standards is appreciated by our vendors. Windstream is often 
+trusted by vendors to test new or modified equipment in the field and provide feedback. The vendors use 
+that feedback to further develop or modify their products and safety standards. 
+For 2021, our occupational injuries and illnesses rate was 1.9 per 100 employees, which is lower than the 
+latest published Bureau of Labor Statistics telecommunications industry average of 2.1, further evidencing 
+Windstream’s unyielding commitment to maintaining a safe workplace for our employees. 
+Safety Training and Awareness  
+Windstream’s EH&S and Risk Management teams continually provide guidance on the company’s safety 
+policies and procedures. Our overarching goal is to continuously improve and implement change that will 
+result in an enhanced safety environment for our employees and minimize incidents. To achieve our goal, 
+we provide effective safety training courses to ensure employees understand how to perform their functions 
+in a safe manner and to proactively prevent accidents. Windstream employees receive safety training in 
+approximately 70 different areas of importance annually. Windstream is fully committed to our employee’s 
+safety, and we expect our employees to share in this commitment.Our Leadership Development 
+Program (WLDP) is a comprehensive, 
+multidisciplinary development 
+approach designed to identify high-
+caliber employees and prepare them 
+for the next stage in their careers.
+We have a long history of working with the 
+Communications Workers of America and the International 
+Brotherhood of Electrical Workers. We meet with union 
+leaders to talk about key issues, including safety, customer 
+service, operational processes, our business performance 
+and the impacts that changing technology and competition 
+are having on our customers, our employees and the 
+company. 
+In keeping with Windstream’s commitment to provide 
+high-quality service and good jobs, our collective bargaining 
+agreements continue to provide our team members with 
+competitive wages and valuable benefits.Windstream engages a global supply base of over 4,000 
+vendors to purchase more than $2.9 billion in goods and 
+services annually, which include items such as consumer 
+modems, network equipment, construction services, and 
+utilities. We remain committed to responsible sourcing, 
+and it is the policy of Windstream to conduct business in 
+a manner that is ethical and promotes the best interests 
+of its customers, employees, and investors. Windstream 
+expects suppliers to be ethical and honest, obey all 
+applicable health, safety and environmental laws, and 
+protect confidential and proprietary information. 
+We rely on our strategic sourcing process, and the Supplier 
+Code of Ethics (“Code”) to enforce our commitment to 
+responsible sourcing. The Code is intended to assist 
+suppliers in meeting Windstream’s expectations.
+Among other guidelines and requirements, our code:
+• Forbids the use of child labor, forced labor and 
+discrimination
+• Addresses our expectations around health and safety, 
+minimum living wages, maximum working hours, and 
+acceptable living conditions
+• Protects employees’ rights to freedom of association and 
+collective bargaining, as permitted by local laws
+• Describes how suppliers should work with us on 
+compliance and enforcement issues
+Windstream reserves the right to review or audit our 
+suppliers’ compliance with the code. Our Supply Chain and 
+Procurement teams engage with suppliers identified as 
+non-compliant with our Code to assist them in reaching 
+compliance. Our Code also outlines the formal channels for 
+vendors and supply chain workers to raise concerns and 
+report potential violations. Our Code is incorporated  
+into our legally binding agreements with suppliers and 
+outlines our expectations, including compliance with social 
+standards. Incumbent and prospective vendor   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+performance regarding social performance is evaluated 
+during Windstream’s formal vendor selection process. The 
+full Code is available online.
+Our chief procurement officer is responsible for overseeing 
+and managing Windstream’s supply chain and vendor 
+performance. Supply chain and vendor performance 
+metrics and KPIs, along with any vendor compliance issues 
+or incidents, are monitored and reported monthly to 
+senior management. Windstream’s supply chain profile, 
+and our core operating and risk mitigation strategies, are 
+also reviewed by our Board quarterly as a standing Audit 
+Committee agenda item. SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 33LABOR RELATIONS SUPPLY CHAIN 
+Windstream strongly believes that our supply base should reflect 
+the amazing diversity present in the communities we serve. 
+We value diversity and inclusion in our supply chain, just as we 
+value and celebrate it in our workforce. Diversity brings new 
+perspectives and drives innovation. Actively engaging with a broad 
+array of diverse suppliers also fosters economic inclusion and 
+promotes positive change.
+In 2021, we spent more than $126 million on goods and services 
+with diverse suppliers, including businesses owned by people 
+of color, women, veterans, disabled veterans, service-disabled 
+veterans, LGBTQ, certified small businesses, and people with 
+disabilities. This amount represents 7.2% of our $1.7 billion 
+of annual addressable spend, which excludes spend with our 
+Channel Partners, for Interconnection services, and certain other 
+categories that are not sourced (e.g., taxes and government fees).
+To maintain the integrity of our program, we rely on an 
+independent third party to verify diverse business certifications 
+annually.Responsible Minerals Sourcing  
+Any connection between the materials used in Windstream’s 
+products and armed violence or human rights abuses is 
+unacceptable, and we have an internal team that oversees the 
+design, development and implementation of our conflict minerals 
+compliance program. We also expect our suppliers to take steps 
+to ensure that their products do not include materials that either 
+directly or indirectly benefit armed groups in the Democratic 
+Republic of the Congo (or in any neighboring country). As part of 
+their master purchasing agreements with Windstream, suppliers 
+agree to provide us with information regarding the country of 
+origin and source of conflict minerals used, if any, in the supplier 
+goods sold to us. If a supplier is found to be out of compliance 
+with these objectives, the supplier is expected to develop, 
+implement and document plans to remedy the non-compliance, 
+and Windstream has the right to terminate its relationship with 
+the supplier in the event of continued non-compliance.
+You can access Windstream’s Conflict Minerals Policy here.SOCIAL
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 34
+SUPPLIER DIVERSITY
+In 2021, we spent more 
+than $126 million on 
+goods and services with 
+diverse suppliers, including 
+businesses owned by people 
+of color, women, veterans, 
+disabled veterans, service-
+disabled veterans, LGBTQ, 
+certified small businesses, 
+and people with disabilities. APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 35GOVERNANCE
+Holding ourselves accountable
+HOW WE GOVERN – 36
+ETHICS AND COMPLIANCE – 37
+CODE OF CONDUCT – 38
+HUMAN RIGHTS – 39GOVERNANCE
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 36Company Governance  
+Windstream’s 11-member Board oversees the company’s 
+strategic planning, operations and business performance, 
+as well as the company’s governance practices, with the 
+assistance of Board committees. Our Board has extensive 
+experience in the telecommunications industry, as well 
+as strong operational and financial expertise to ensure 
+Windstream’s strategy to provide innovative network and 
+software solutions to customers is successful. The Board 
+chairman works closely with management to ensure the 
+company adheres to the highest standards of corporate 
+governance for private companies.
+Commitment to Company Culture & Non-Discrimination 
+The Board is committed to working in conjunction with 
+management to cultivate a corporate culture that promotes 
+the goals reflected in the Working with Integrity Guidelines, 
+which governs the conduct of all managers, officers, and 
+employees of the company. Windstream’s corporate culture 
+permeates all aspects of the company’s operations, ensuring 
+that its vision, mission and objectives are ethically sound and 
+demonstrative of its values. To foster a culture that ensures 
+employees understand their responsibilities for appropriate 
+behavior, the Board periodically reviews the company’s 
+culture initiatives, employee engagement matters, and ethics 
+policy to reinforce a corporate culture of integrity.
+Further, the Board is committed to a respectful, courteous 
+workplace in which employees are able to perform their 
+jobs free from harassment, discrimination or retaliation. 
+The company does not tolerate sexual or other unlawful 
+harassment or discrimination by any employee, volunteer, 
+vendor, contractor, consultant, guest, customer or visitor, 
+and the Board will expect management to implement and 
+update, as appropriate, policies that are consistent with this 
+commitment as well as applicable law.ESG Governance  
+We believe a strong ESG governance program is an essential 
+part of good corporate governance, and for Windstream, ESG 
+governance starts at the top. The Board periodically reviews 
+reports from management concerning ESG factors, risks, and 
+initiatives applicable to, and undertaken by, the company to 
+ensure that ESG matters are integrated into the company’s 
+operations and appropriately addressed by the company and 
+Board. This includes but is not limited to review of this ESG 
+Report. 
+Additionally, an ESG Committee of the Board was 
+established to oversee and monitor Windstream’s significant 
+environmental, social and governance and sustainability 
+activities and practices, and to provide guidance to 
+management regarding the company’s ESG and sustainability 
+strategy. The ESG Committee is comprised of five Managers 
+and conducts regular quarterly meetings, as well as additional 
+meetings as needed, and advises Windstream’s internal ESG 
+Operational Committee regarding the company’s ESG-related 
+initiatives. Further, in addition to reviewing and overseeing 
+compilation of the company’s annual ESG report, the ESG 
+Committee provides oversight for all reporting to third 
+party ESG rating agencies evaluating the company’s ESG 
+performance. 
+ HOW WE GOVERN 
+We believe a strong ESG governance 
+program is an essential part of 
+good corporate governance, and for 
+Windstream, ESG governance starts at 
+the top.
+GOVERNANCE
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 37ETHICS AND COMPLIANCE 
+Integrity is one of our most valuable assets. Windstream is 
+committed to conducting business in a manner that is ethical, 
+promotes the best interests of its stakeholders, employees, 
+and customers and fully complies with all applicable laws and 
+regulations. Windstream expects every employee and member 
+of our Board to be ethical and honest, comply with the law, 
+and avoid any appearance of impropriety or conflict of interest. 
+Understanding, embracing and performing our individual jobs 
+in compliance with laws, regulations and our internal policies is 
+not only the right thing to do, but it also has a real impact on our 
+financial performance and the character of our organization. 
+Windstream’s chief compliance officer leads our Ethics and 
+Compliance function and reports directly to the Audit Committee 
+of the Board, with administrative reporting to the company’s 
+chief financial officer. The Audit Committee has risk oversight 
+responsibility for ethics and compliance across the company.The chief compliance officer’s charter permits them to 
+audit any and all functions and operations across all 
+lines of business and subsidiaries. Their independence 
+is preserved and ensured by the fact they report directly 
+to the Audit Committee Board. The chief compliance 
+officer presents an audit plan to the Committee twice 
+annually for approval, and all operations are audited no 
+less frequently than every three years, with the general 
+frequency being annually. Specifically with regard to 
+ethical standards, the following compliance audits are 
+conducted across all operations:
+• Compliance with the general Travel and 
+Entertainment policy (quarterly)
+• Compliance with the Government Entertainment 
+policy (quarterly)
+• Compliance with the Commissions policy (quarterly)
+• Audit of payroll controls / forensic analysis (annually)
+• Audit of employee and vendor Conflict of Interest 
+(quarterly)• Annual Conflict of Interest Survey (All Employees)
+• Audit of employee and customer referral programs 
+(annually)
+• Ethics Hotline Investigations and Reporting (quarterly)
+In addition, more than 100 members of management 
+are included in an Annual Risk Assessment process that 
+includes questions regarding potential fraud and abuse, 
+and all employees are required to go through an annual 
+Conflict of Interest Certification each year where they 
+are required to disclose any known conflicts.
+GOVERNANCE
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 38CODE OF CONDUCT 
+Our Working with Integrity Guidelines (the “Guidelines”) are 
+the foundation of our Ethics and Compliance Program and 
+provide a road map to assist employees and Board members in 
+identifying activities and behaviors that are appropriate when 
+conducting business related activities. The Guidelines build 
+on our cultural beliefs by outlining expected ethical behaviors 
+for our employees, Board members, and other company 
+representatives. At all times, Windstream expects employees, 
+and employees have an obligation, to uphold and carry out our 
+commitment to lawful and ethical business conduct. Annual 
+Working with Integrity training is required of all employees to 
+reinforce the principals outlined in the Guidelines. Conflict of 
+Interest training and reporting is also required for all employees 
+annually. This provides employees a forum to report any 
+potential conflicts. All conflicts of interest reported or identified 
+are evaluated by the Compliance Office for appropriateness and 
+corrective active is taken, where applicable.
+All Windstream employees (as well as third-party consultants, 
+agents, independent contractors, subcontractors, and 
+partners) who serve government clients are responsible for 
+understanding the legal requirements and restrictions that 
+apply to their work and must strictly adhere to the principles 
+contained within our Code of Business Ethics and Conduct 
+in Governmental Contracting. Additionally, Windstream’s 
+Supplier Code of Ethics provides basic guidelines and outlines 
+our expectations for our suppliers to operate in an ethical and honest manner, comply with all laws and regulations, 
+and avoid the appearance of impropriety and conflicts 
+of interest. 
+One of the most important responsibilities Windstream 
+employees have is the obligation to report possible 
+workplace violations of law, the Guidelines and our 
+policies. Windstream encourages employees to fulfill 
+this responsibility and to seek advice when in doubt 
+about the best course of action. We offer several 
+alternatives for obtaining compliance advice and 
+reporting possible violations of applicable law or these 
+guidelines, including the Working with Integrity Helpline 
+and Website, which are staffed by an independent 
+third party twenty-four hours per day, seven days a 
+week. Employees may report violations anonymously 
+and Windstream prohibits any employee from taking 
+retaliatory action against anyone for making a good 
+faith report or assisting in an investigation of a possible 
+violation. 
+Information reported is promptly transmitted to 
+Windstream and investigated. Windstream maintains 
+a case management system, and when a matter is 
+reported to the helpline or website, it is assigned a 
+unique tracking number that enables the individual 
+to receive updates on the complaint or subsequently 
+provide additional information. Windstream triages all 
+cases to ensure they are assigned to the appropriate 
+teams in Security, Legal or Human Resources. 
+Investigation results are reported quarterly to the 
+Compliance Committee, which is comprised of the 
+chief compliance officer, chief financial officer, general 
+counsel and chief human resources officer, as well as 
+the company’s Audit Committee. 
+Windstream’s Working with Integrity Helpline and 
+Website can be reached at 1-888-898-3990 and  
+www.windstream.ethicspoint.com. Anti-corruption  
+Windstream expressly prohibits any offer, payment, 
+promise, or gift that is intended or appears to 
+influence any person or entity to award business 
+opportunities to Windstream or to make a business 
+decision in Windstream’s favor. In accordance 
+with the Guidelines and Supplier Code of Ethics, 
+employees and suppliers are required to comply 
+with all applicable anti-bribery and anticorruption 
+laws of the United States, including the Foreign 
+Corrupt Practices Act, and countries in which 
+operations are being conducted. Additionally, as 
+a government contractor, it is important that we 
+conduct business with government entities in 
+compliance with applicable laws and regulations. 
+Accordingly, Windstream prohibits employees from 
+giving anything of value to government employees 
+and officials for any reason.
+Windstream’s
+WWI
+Working with
+Integrityw
+w
+w.windstream.ethicspoint.com  1-888-898-3990GOVERNANCE
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 39HUMAN RIGHTS 
+Windstream’s Human Rights Policy 
+outlines our commitment to respect 
+human rights, which is reflected in every 
+aspect of our operations. Guided by the 
+human rights due diligence framework 
+set forth in the UN Guiding Principles 
+on Business and Human Rights, we are 
+committed to assessing the impacts 
+of our business activities on human 
+rights and to addressing adverse 
+impacts. Windstream became the 
+fourth U.S.-based telecommunications 
+service provider to join the UN Global 
+Compact to promote accountability and 
+stakeholder engagement in the areas of 
+human rights, labor and environment. 
+Our Human Rights Policy is consistent 
+with the Working with Integrity 
+Guidelines and Supplier Code of Ethics. 
+These policies address topics such as 
+customer and employee data privacy, 
+diversity and inclusion, health and safety, 
+hiring practices, and harassment in the 
+workplace, as well as compliance with 
+all applicable wage and hour laws and 
+regulations, including but not limited 
+to those relating to minimum wages 
+and overtime hours . Employees and 
+suppliers are expected to respect the 
+rights of others and maintain high ethical 
+standards. Windstream does not tolerate 
+any abuse of human rights within our 
+business or supply chains. 
+ 
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 40APPENDIX
+ALIGNMENT WITH THE UNITED NATIONS GLOBAL
+ COMPACT’S SUSTAINABLE DEVELOPMENT GOALS – 41
+DEFINITION OF MATERIAL ISSUES – 42
+ESG DATA INDEX – 43
+LAW ENFORCEMENT REQUESTS – 46
+GRI INDEX – 47SDG Target Windstream’s Impact
+7
+AFFORDABLE AND 
+CLEAN ENERGYTarget 7.2 By 2030, increase substantially the share of 
+renewable energy in the global energy mix.Windstream is directly supporting the transition to a greener grid with our investments in renewable energy, 
+with a stated goal of securing at least 50% of our annual Scope 2 purchase electricity demand from renewable 
+and carbon-free sources by 2025.  You can track our progress here: Renewable and Carbon-Free Energy
+8
+DECENT WORK AND 
+ECONOMIC GROWTHTarget 8.4 Improve progressively, through 2030, global 
+resource efficiency in consumption and production 
+and endeavor to decouple economic growth from 
+environmental degradation.Windstream is committed to reducing our carbon footprint and has stablished goals to reduce our Scope 1, 2 
+and 3 emissions as part of our annual participation with the CDP initiative (formerly Carbon Disclosure Project).  
+You can see our targets and review our progress here: Our Emmissions by Scope
+9
+INDUSTRY, 
+INNOVATION AND 
+INFRASTRUCTURETarget 9.1 Develop quality, reliable and resilient 
+infrastructure, including regional and transborder 
+infrastructure, to support economic development 
+and human well-being, with a  focus on adorable and 
+equitable access for all.Our team understood even before the COVID-19 pandemic that the services we provide are essential to the 
+economic, educational and cultural health of the mostly rural communities that Windstream serves. We are 
+engaged in a five-year, $2 billion fiber build program, and in 2021 alone deployed fiber-backed gigabit internet 
+services to an additional 523,000 locations. Our fiber network now reaches 1.1 million locations, or 20 percent 
+of our footprint.
+11
+SUSTAINABLE CITIES 
+AND COMMUNITIESTarget 11.3  By 2030, enhance inclusive and sustainable 
+urbanization and capacity for participatory, integrated 
+and sustainable human settlement planning and 
+management.We are actively pursuing public-private partnerships across our 18 states to deploy fiber in underserved rural 
+areas where it would otherwise be uneconomical to do so. That effort was highlighted recently by a $300 million 
+partnership that will deliver high-speed broadband to 18 communities across Georgia. 
+12
+RESPONSIBLE 
+CONSUMPTION AND 
+PRODUCTIONTarget 12.5  By 2030, substantially reduce waste 
+generation though prevention, reduction, recycling,  
+and reuse.Windstream is committed to Product Stewardship, inclusive of both eco-design, which considers the inputs 
+and resources needed for the solutions we design and engineer, but also the full lifecycle of the equipment 
+we deploy across our network and on customer premises. You can see our goals and track our progress here: 
+Product Stewardship
+13
+CLIMATE  
+ACTIONTarget 13.1  Strengthen resilience and adaptive capacity 
+to climate change related hazards and natural disasters 
+in all countries.Windstream maintains a robust approach to Business Continuity to both prepare for, and respond to, climate-
+related risks and natural disasters. You can read more about our Business Continuity strategy and the work we 
+are doing to continue to strengthen network resilience and reduce outages here: Business Continutity
+16
+PEACE AND JUSTICE
+STRONG 
+INSTITUTIONSTarget 16.5  Substantially reduce corruption and bribery 
+in all their forms.
+ 
+Target 16.8  Promote and enforce non-discriminatory 
+laws and policies for sustainable developmentWindstream maintains strict policies and programs, including annual, mandatory employee training, 
+independent audits, and hotlines accessible by employees and suppliers, to address and manage bribery and 
+corruption risks. Windstream is also committed to diversity and inclusivity, and non-discrimination. You can 
+read more about our approach and programs, and review our key policies, here:  Governance
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 41This year marks our first anniversary as a member of the United Nations Global Compact 
+(UNGC), the world’s largest corporate sustainability initiative that calls on companies to align 
+strategies and operations with universal principles on human rights, labor, environment 
+and anti-corruption, and take actions that advance societal goals, such as the Sustainable 
+Development Goals (SDGs) they have established.Windstream believes we can make a substantial impact towards achieving targets across 
+the seven SDGs relevant to our industry and company, as outlined in the table below. We 
+will use this annual ESG Report as a way of tracking and sharing our progress. You can read 
+more about the UNGC and all of the 17 SDGs, and their 169 related targets, on their website 
+at https://www.unglobalcompact.org/what-is-gc Alignment with the United Nations Global Compact’s Sustainable Development GoalsAPPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 42Human Rights - Supply Chain  
+The telecom sector relies on communications, equipment and 
+technology hardware companies to manufacture and assemble 
+products, including modems, phones, routers, switches, 
+cables and other communication devices and accessories. 
+Manufacturing is still largely concentrated in South East Asia. 
+The risk of potential exposure to material human rights issues 
+in the supply chain, including child and forced labor, excessive 
+work hours, inadequate remuneration (living wages), sexual 
+harassment, freedom of association and collective bargaining, all 
+represent material ESG issues in our industry. Also included in 
+this issue definition are conflict minerals reporting and mitigation 
+requirements. Supplier violations pose reputational and 
+operational risks for telecoms and increased regulatory scrutiny.
+Windstream’s exposure to Human Rights Supply-Chain issues 
+was assessed as low by Sustainalytics, similar to the industry 
+average.
+Human Capital  
+Because Windstream provides a specialized technical service, an 
+important pillar of our strategy and success is our 11,000-strong 
+workforce, with their skills, knowledge and capabilities. Failure 
+to develop and leverage their skills, and generate high employee 
+engagement, could mean losing them to competitors, especially 
+since the labor market competition for technical knowledge is 
+intense.
+This, alongside the any inability to recruit and train qualified team 
+members in a timely manner, could cause operational delays, 
+resulting in subpar service, and, potentially, to lost revenues and 
+profits.
+Windstream’s exposure to Human Capital issues was assessed as 
+medium by Sustainalytics, similar to the industry average.
+Carbon – Own Operations  
+Windstream’s rural footprint of networks and offices rely on 
+electricity as a source of energy, which contributes to higher 
+carbon intensity compared to our industry peers who tend to operate in more densely populated areas of the country. Failure 
+to adhere to energy regulation (both current and proposed) 
+could result in additional operating costs in the form of fines and 
+corrective measures. Moreover, physical risks such as extreme 
+weather events are also a concern as they could cause damage to 
+network infrastructure.
+Windstream’s exposure to Carbon – Own Operations issues was 
+assessed as medium by Sustainalytics, moderately above the 
+industry average.
+Product Governance  
+Product Governance issues in the telecommunication service 
+industry includes service quality, maintaining reliable, high-speed 
+networks, and responding to customer billing concerns. The 
+industry is highly regulated and government agencies routinely 
+enforce penalties for poor quality service and publicly report on 
+customer complaints. Although fines are not often substantial, 
+telecom regulators have the ability to regulate national network 
+upgrades, and can enforce market access for other competitors, 
+impacting business plans for telecom services. Investigations for 
+poor service can negatively impact brand value and customer 
+retention. Moreover, telecom companies are increasingly aware 
+of climate risks to infrastructure. Natural disasters can cause 
+significant damage to telecom networks and disrupt customer 
+service. Unreliable service has the potential to financially impact a 
+company, particularly if a customer is unable to reach emergency 
+personnel (fire, medical, police) due to network outages. 
+Widespread outages may result in government investigations 
+and fines. Additionally, companies have spent millions of dollars 
+improving their networks after outages, with additional negative 
+impacts including higher customer churn rates. Some telecom 
+companies have also been criticized for lacking transparency in 
+their billing practices. Class action lawsuits against telecoms for 
+overbilling have led to large settlements.
+Windstream’s exposure to Product Governance issues was 
+assessed as medium by Sustainalytics, similar to the industry 
+average.Business Ethics  
+The telecom industry is exposed to Business Ethics risks 
+associated with corruption, IP litigation and anti-competitive 
+practices. The industry faces one of the highest rates of 
+intellectual property (IP) litigation, and he second-highest 
+median damages awarded for patent litigation, surpassed only 
+by biotech/pharmaceuticals. Telecom companies can face anti-
+competitive lawsuits for alleged abuse of dominant market 
+positions, such as artificially lowering prices temporarily or 
+restricting services to drive competitors out of the market. 
+Investigations and litigation following allegations of abuse of 
+market dominance are common in this sector, resulting in legal 
+and regulatory fines. Anti-trust concerns may also prevent 
+mergers and acquisitions. There are also regulatory concerns 
+around “net neutrality” laws passed in 2015, which make it illegal 
+for internet providers to prioritize some content over others. 
+Companies in developed markets may be more exposed to 
+investigations and lawsuits related to anti-competitive practices. 
+Being implicated in ethics related incidents may affect a 
+company’s ability to secure financing and/or increase its network 
+coverage area.
+Windstream’s exposure to Business Ethics issues was assessed as 
+medium by Sustainalytics, similar to the industry average.
+Data Privacy and Security  
+Windstream provides services to more than 1.3 million residential 
+and small business customers through our Kinetic segment and 
+to around 3,200 customers through its Windstream Enterprise 
+segment. Our clients can use our services to communicate 
+highly sensitive personal or business information. Any inability 
+to secure the privacy of customer data or being the subject of a 
+cybersecurity breach could result in lost trust and business, and 
+lead to regulatory scrutiny and action. Windstream’s exposure 
+to Data Privacy and Security issues was assessed as medium by 
+Sustainalytics, similar to the industry average.Definition of Material IssuesEnvironmental
+Emissions and carbon intensity 2019 2020 2021
+Scope 1 emissions (CO2e metric tons) 60,350 62,956 59,133
+Scope 2 emissions (CO2e metric tons) 286,039 232,749 205,115
+Total Scope 1 & 2 emissions (CO2e metric tons) 346,389 295,705 264,248
+Carbon intensity (CO2e metric tons of Scope 1 & 2 / $100M of revenue) 67.71 63.39 59.79
+Scope 3 emissions (CO2e metric tons) 479,363 508,403 522,972
+Scope 3 emissions, business travel only (CO2e metric tons) 5,792 1,908 1,879
+Total emissions (Scope 1, 2 & 3, CO2e metric tons) 825,752 804,108 787,220
+Vehicle fuels (CO2e metric tons) 49,825 54,472 53,382
+Building and other fuels (CO2e metric tons) 10,527 8,484 8,604
+Renewable energy
+Number of community solar energy contracts - 1 1
+% of Scope 2 purchased electricity from renewable sources Not Calculated 16.3% 25.80%
+% of Scope 2 purchased electricity from renewable and carbon-free sources Not Calculated 34.9% 42.10%
+Fleet
+Fleet size (# vehicles at year-end) 4,481 4,338 4,397
+Fleet fuel consumption (gallons) 5,346,948 5,988,229 5,816,340
+E-waste
+Pounds of e-waste recycled 341,273 1,047,699 1,150,000
+Pounds of lead acid batteries recycled 33,150 54,011 32,360
+Pounds of total waste recycled 374,423 1,102,362 1,171,368
+Reuse
+# of modems refurbished for redeployment 42,178 63,526 146,618
+# of pieces of network and enterprise equipment refurbished for redeployment 57,563 79,395 158,668
+# of pieces of equipment sold on the gray market for reuse by others 2,849 20,850 27,515
+Water
+Water from owned and leased facilities, where reported (1,000,000 gallons) 220 137 130
+Water usage reduction from 2016 baseline 28% 55% 58%
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 43ESG Data IndexPaper and copiers 2019 2020 2021
+Reduction in office paper consumption from 2016 baseline 57% 84% 86%
+% of office paper with at least 30% PCW content Not Calculated 5% 6%
+% of office paper from FSC certified sources Not Calculated 100% 100%
+Office printer device reduction from 2018 baseline 21% 43% 46%
+Social
+Global workforce 2019 2020 2021
+US employees (% of total workforce) 100% 100% 100%
+International employees (% of total workforce) 0.3% 0.3% 0.3%
+Race / ethnicity
+American Indian / Alaskan Native (% of total U.S. workforce) 1% 1% 1%
+Asian (% of total U.S. workforce) 2% 2% 2%
+Native Hawaiian / Pacific Islander (% of total U.S. workforce) 0.3% 0.3% 0.3%
+Hispanic / Latino (% of total U.S. workforce) 4% 4% 4%
+Two or more races (% of total U.S. workforce) 1% 1% 1%
+Unknown / undeclared (% of total U.S. workforce) 0.5% 0.3% 0.2%
+White (% of total U.S. workforce) 83% 83% 83%
+Gender
+Gender worldwide 2019 2020 2021
+Percentage of total workforce (male) 69% 70% 72%
+Percentage of total workforce (female) 31% 30% 28%
+U.S. employee profile by gender
+Percentage of total workforce (male) 69% 70% 72%
+Percentage of total workforce (female) 31% 30% 28%
+International employee profiled by gender
+Percentage of total workforce (male) 83% 85% 85%
+Percentage of total workforce (female) 17% 15% 15%
+Senior management ethnicity and gender
+% of people of color in U.S. senior management (VP and above) 7% 10% 11%
+% of women in U.S. senior management (VP and above) 17% 19% 17%
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 44Health & wellness 2019 2020 2021
+Healthcare benefits and services paid $80 million $76 million
+Healthcare benefits and services paid (per employee) $6,700 $7,000
+Veterans
+Number of veteran employees 1,432 1,255 1,314
+Number of active-duty military and veteran spouses employed 130 126 121
+Total number of veterans and veteran or active-duty military spouses 
+employed (% of US workforce)14% 13% 13%
+Outsourced, Temporary and Contract Employees
+Average # of Outsourced FTEs Supporting Our Business 2,222 1,956 1,893
+Average # of Contrators and Temporary Employees 174 61 43
+Learning & development
+Amount invested in learning and development for our employees $4.6 million $3.5 million $3.2 million
+Training hours completed (all employees) 455,725 720,153 850,106
+Number of learning experiences that employees have access to Not Calculated 4,115 5,785
+Average annual hours of training per team member 37.88 67.99 79.23
+Tuition Assistance Metrics
+Number of team members who took  
+advantage of tuition assistance 138 117 105
+Amount of tuition assistance provided  $0.4 million  $0.4 million $0.3 million 
+Safety
+Occupational injuries and illness rate (per 100 employees) 2.1 1.9 1.9
+Supply chain
+Diverse supplier spend (with all suppliers) $176 million $182 million $156 million
+Diverse supplier spend (% of total spend) 6.0% 6.4% 5.4%
+Diverse Supplier spend (addressable spend only) $140 million $138 million $126 million
+Diverse Supplier spend (% of total addressable spend) 8.1% 7.9% 7.2%
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 45"Addressable Spend" can be sourced or bid, and excludes thinga like Interconnect and Channel Partner spend, along with government fees, taxes, etc.Request Type 2021 2020 2019
+National Security Letters (NSL)*
+(An administrative subpoena issued by the US Government to gather 
+information for national security purposes)0 - 100 0 - 100 0 - 100
+Foreign Intelligence Surveillance Act (FISA)*
+(An order issued by the US Government for the purposes of gathering 
+foreign intelligence)0 - 100 100 - 200 100 - 200
+Criminal
+(Subpoena/ Court Orders/ Search Warrants)1786 1,432 1,255
+Private Parties 
+(Civil Subpoena/Court Orders and Release of Records)86 91 147
+Special - Traps/Trace/Pen Register
+(Trap/Trace captures incoming signals (calls or IP addresses), while a 
+Pen Register captures outgoing signals (calls or IP addresses)20 42 73
+Preservations  
+(Requests to preserve records up to 90 days as a requestor seeks legal 
+order to obtain those records (e.g. subpoena)36 37 42
+Total Data / Voice Targets  
+(Number of data points  (e.g. phone numbers, IP addresses) provided 
+based on all request types)17,991 22,694 15,164
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 46Windstream’s Law Enforcement Support 
+Center (LESC) processes submissions 
+of legal requests (e.g. subpoena, court 
+order, search warrant) for criminal and 
+civil matters while supporting local, state 
+and federal law enforcement agencies 
+in their investigations.  The LESC also 
+responds to exigent requests, or matters 
+involving imminent harm to a child, risk 
+of death, or serious physical injury to any 
+person which require the disclosure of 
+information without delay.  Windstream 
+complies with all applicable laws when 
+releasing subscriber information, 
+including The Cable Communications 
+Policy Act of 1984 (47 U.S.C. § 551); The 
+Electronic Communications Privacy Act 
+(18 U.S.C. §§ 2510-2522, 2701-2712, 
+3121-3127); Communications Assistance 
+for Law Enforcement Act (47 U.S.C. §§ 
+1001-1010); the Telecommunications 
+Act of 1996 (particularly, 47 U.S.C. § 
+222 pertaining to customer proprietary 
+network information or CPNI) and Stored 
+Communications Act (“SCA”), 18 U.S.C 
+Sections 2701-2712.Law Enforcement Requests
+ * The exact number of NSL and FISA requests received by Windstream may not be reported publicly per federal law (50 U.S. Code § 1874 - Public reporting by persons subject to orders).  Windstream is 
+required to report such requests in ranges.   Disclosure Disclosure title 2021 Response
+GRI 102: General disclosures 2016
+Organizational profile
+102-1 Name of the organization Windstream Services LLC
+102-2 Activities, brands, products, and services https://www.windstream.com/siteselector 
+102-3 Location of headquarters Our Corporate Headquarters is in Little Rock, Arkansas
+102-4 Location of operations United States and Canada
+102-5 Ownership and legal form Privately held
+102-6 Markets served United States and Canada
+102-7 Scale of organization As of December 31, 2021, Windstream employed 10,997 teammates
+102-8 Information on employees and other workers Social – Our workforce by the numbers
+102-9 Supply chain Social – Supply chain
+102-10 Significant changes to the organization and its supply chainApproach – Message from the President and CEO, emergence from restructuring process as privately-held company in 
+September 2020
+102-11 Precautionary Principle or approach Environmental – Business continuity, Environmental – Product stewardship, Governance – How we govern
+102-12 External initiatives UN Global Compact signatory, CDP Climate Change
+102-13 Membership of associations The United States Telecom Association (USTelecom)
+Strategy
+102-14 Statement from the senior decision-maker Approach – Message from the President and CEO
+Ethics and Integrity
+102-16 Values, principles, standards, and norms of behaviorGovernance – Ethics and compliance, Social – Human capital: guiding principles  
+Supplier Code of Ethics 
+Ethics Policy
+102-17 Mechanisms for advice and concerns about ethicsGovernance – Code of Conduct
+Code of Business Ethics and Conduct in Governmental Contracting
+Governance
+102-18 Governance structure Approach – Message from the CEO, Approach – ESG strategy, Governance – How we govern
+102-19 Delegating authority Approach – Message from the CEO, Approach – ESG strategy, Governance – How we govern
+102-20Executive-level responsibility for economic, environmental and social 
+topicsApproach – Message from the CEO, Approach – ESG strategy, Governance – ESG governance
+102-25 Conflicts of interestGovernance – Ethics and compliance, Governance – Code of Conduct  
+Code of Business Ethics and Conduct in Governmental Contracting
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 47GRI IndexStakeholder engagement
+102-40 List of stakeholder groups Approach – Message from the CEO, Environmental – Environmental impact
+102-41 Collective bargaining agreements Social – Labor relations, as of December 31, 2021, 15.6% of employees were covered by collective bargaining agreements
+102-42 Identifying and selecting stakeholders Approach – ESG priorities, Appendix – Definition of material issues
+102-43 Approach to stakeholder engagement Approach – ESG transparency
+102-44 Key topics and concerns raised Approach – ESG priorities, Appendix – Definition of material issues
+Reporting practice
+102-45 Entities included in the consolidated financial statements Not applicable (Windstream is privately held)
+102-46 Defining report content and topic boundaries Table of contents, Approach – Message from the CEO, Approach – ESG priorities
+102-47 List of material topics Approach – ESG priorities, Appendix – Definition of material issues
+102-48 Restatements of information None
+102-49 Changes in reporting None
+102-50 Reporting period January 1, 2020 – December 31, 2020
+102-51 Date of most recent report April 21, 2022
+102-52 Reporting cycle Annual
+102-53 Contact point for questions regarding this report Investorelations@windstream.com 
+102-54 Claims of reporting in accordance with the GRI Standards This report has been prepared in accordance with the GRI standards: Core option
+102-55 GRI content index GRI Index
+102-56 External assurance2020 CDP emissions and carbon intensity reporting (Apex) [2021 certification in-process]
+Supplier Diversity spend ( Supplier.io)
+GRI 200: Economic
+GRI 203: Indirect economic impacts 2016
+103-1 Explanation of the material topic and its boundary Environmental – Business continuity, Social – Digital Inclusion, Social – Accessibility, Social – Human prosperity
+103-2 The management approach and its components Environmental – Business continuity, Social – Digital Inclusion, Social – Accessibility, Social – Human prosperity
+103-3 Evaluation of the management approach Environmental – Business continuity, Social – Digital Inclusion, Social – Accessibility, Social – Human prosperity
+203-1 Infrastructure investments and services supported Environmental – Business continuity, Social – Digital Inclusion, Social – Accessibility, Social – Human prosperity
+GRI 300: Environmental
+GRI 301: Materials 2016
+103-1 Explanation of the material topic and its boundary Environmental – Product stewardship, Environmental - Paper
+103-2 The management approach and its components Environmental – Product stewardship, Environmental - Paper
+103-3 Evaluation of the management approach Environmental – Product stewardship, Environmental - Paper
+300-2 Recycled input materials used Environmental – Product stewardship, Environmental – Paper, Appendix – ESG data index
+300-3 Reclaimed products and their packaging materials Environmental – Product stewardship, Environmental – Paper, Appendix – ESG data index
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 48GRI 302: Energy 2016
+103-1 Explanation of the material topic and its boundary Environmental – Environmental impact, Environmental – Emissions and carbon intensity
+103-2 The management approach and its components Environmental – Environmental impact, Environmental – Emissions and carbon intensity
+103-3 Evaluation of the management approach Environmental – Environmental impact, Environmental – Emissions and carbon intensity
+302-1 Energy consumption within the organization Environmental – Our emissions by scope, Appendix – ESG data index
+302-2 Energy consumption outside the organization Environmental – Our emissions by scope, Appendix – ESG data index
+302-3 Energy intensity Environmental – Our emissions by scope, Appendix – ESG data index
+302-4 Reduction of energy consumption Environmental – Our emissions by scope, Appendix – ESG data index
+302-5 Reduction in energy requirements of products and services Environmental – Real Estate, Environmental – Fleet, Environmental - Product stewardship
+GRI 303: Water and effluents 2018
+103-1 Explanation of the material topic and its boundary Environmental – Water consumption, Appendix – ESG data center
+103-2 The management approach and its components Environmental – Water consumption, Appendix – ESG data center
+103-3 Evaluation of the management approach Environmental – Water consumption, Appendix – ESG data center
+303-5 Water consumption Environmental – Water consumption, Appendix – ESG data center
+GRI 305: Emissions 2016
+103-1 Explanation of the material topic and its boundary Environmental – Environmental impact, Environmental – Emissions and carbon intensity
+103-2 The management approach and its components Environmental – Environmental impact, Environmental – Emissions and carbon intensity
+103-3 Evaluation of the management approach Environmental – Environmental impact, Environmental – Emissions and carbon intensity
+305-1 Direct (Scope 1) GHG emissions Environmental – Our emissions by scope, Appendix – ESG data center
+305-2 Energy indirect (Scope 2) GHG emissions Environmental – Our emissions by scope, Appendix – ESG data center
+305-3 Other indirect (Scope 3) GHG emissions Environmental – Our emissions by scope, Appendix – ESG data center
+305-4 GHG emissions intensity Environmental – Our emissions by scope, Appendix – ESG data center
+305-5 Reduction of GHG emissionsEnvironmental – Renewable Energy, Environmental – Real Estate, Environmental – Fleet, Environmental – Our emissions 
+by scope, Appendix – ESG data center
+GRI 306: Waste 2016
+103-1 Explanation of the material topic and its boundary Environmental – Environmental impact, Environmental – Product stewardship
+103-2 The management approach and its components Environmental – Environmental impact, Environmental – Product stewardship
+103-3 Evaluation of the management approach Environmental – Environmental impact, Environmental – Product stewardship
+306-1 Waste generated and significant waste-related impacts Environmental – Environmental impact, Environmental – Product stewardship
+306-2 Management of significant waste-related impacts Environmental – Environmental impact, Environmental – Product stewardship
+306-4 Waste diverted for disposal Environmental – Product stewardship, Appendix – ESG data center
+GRI 307: Environmental compliance 2016
+103-1 Explanation of the material topic and its boundary Environmental – Environmental impact
+103-2 The management approach and its components Environmental – Environmental impact
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 49103-3 Evaluation of the management approach Environmental – Environmental impact
+307-1 Non-compliance with environmental laws and regulationsWindstream has not identified any non-compliance with environmental laws and/or regulations during this reporting 
+period
+GRI 400: Social
+GRI 401: Employment 2016
+103-1 Explanation of the material topic and its boundary Social – Human capital guiding principles, Social – Compensation and benefits
+103-2 The management approach and its components Social – Human capital guiding principles, Social – Compensation and benefits
+103-3 Evaluation of the management approach Social – Human capital guiding principles, Social – Compensation and benefits
+401-1 New employee hires and employee turnover In 2021, Windstream hired 2,392 new employees and total employee turnover was 17%
+401-2Benefits provided to full-time employees that are not provided to 
+temporary or part-time employeesSocial – Compensation and benefits, Appendix – ESG data center
+401-3 Parental leaveWindstream offers 10 days of paid parental leave to full-time, eligible birth and adoptive parents (mothers and fathers) 
+who have continuous employment for the previous 12 months and meet FMLA requirements. The benefit may be used in 
+the 12 weeks following the birth or adoption of a child.
+GRI 403: Occupational health and safety 2018
+103-1 Explanation of the material topic and its boundary Social - Safety
+103-2 The management approach and its components Social - Safety
+103-3 Evaluation of the management approach Social - Safety
+403-1 Occupational health and safety management system Social - Safety
+403-2 Hazard identification, risk assessment, and incident investigation Social - Safety
+403-4Worker participation, consultation, and communication on occupational 
+health and safetySocial - Safety
+403-5 Worker training on occupational health and safety Social - Safety
+403-6 Promotion of worker health Social – Employee compensation and benefits, Social - Safety
+403-7Prevention and mitigation of occupational health and safety impacts 
+directly linked by business relationshipsSocial - Safety
+403-8 Workers covered by occupational health and safety management system Social - Safety
+403-9 Work-related injuries Social - Safety
+403-10 Work-related ill health Social - Safety
+GRI 404: Training and education 2016
+103-1 Explanation of the material topic and its boundary Social – Learning and development
+103-2 The management approach and its components Social – Learning and development
+103-3 Evaluation of the management approach Social – Learning and development
+404-1 Average hours of training per employee Social – Learning and development, Appendix – ESG data center
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 50404-2 Programs for upgrading employee skills and transition assistance programs Social – Learning and development
+404-3Percentage of employees receiving regular performance and career 
+development reviews100% of full-time employees
+GRI 405: Diversity and equal opportunity 2016
+103-1 Explanation of the material topic and its boundary Social – Human capital guiding principles, Social – Diversity and inclusion
+103-2 The management approach and its components Social – Human capital guiding principles, Social – Diversity and inclusion
+103-3 Evaluation of the management approach Social – Human capital guiding principles, Social – Diversity and inclusion
+405-1 Diversity of governing bodies and employees Social – Our workforce by the numbers, Appendix – ESG data center
+GRI 413: Local communities 2016
+103-1 Explanation of the material topic and its boundaryEnvironmental – Business continuity, Social – Digital inclusion, Social – Accessibility, Social – Digital safety, Social – 
+Robocalls, Social – Open Internet
+103-2 The management approach and its componentsEnvironmental – Business continuity, Social – Digital inclusion, Social – Accessibility, Social – Digital safety, Social – 
+Robocalls, Social – Open Internet
+103-3 Evaluation of the management approachEnvironmental – Business continuity, Social – Digital inclusion, Social – Accessibility, Social – Digital safety, Social – 
+Robocalls, Social – Open Internet
+413-1Operations with local community engagement, impact assessments, and 
+development programsEnvironmental – Business continuity, Social – Digital inclusion, Social – Accessibility, Social – Digital safety, Social – 
+Robocalls, Social – Open Internet
+GRI 415: Public policy 2016
+103-1 Explanation of the material topic and its boundary Political spending policy 
+103-2 The management approach and its components Political spending policy 
+103-3 Evaluation of the management approach Political spending policy 
+415-1 Political contributions In 2021, Windstream made $132,450 in pollical contributions through our PAC
+GRI 419: Socioeconomic compliance 2016
+103-1 Explanation of the material topic and its boundary Governance – How we govern
+103-2 The management approach and its components Governance – How we govern
+103-3 Evaluation of the management approach Governance – How we govern
+419-1 Non-compliance with laws and regulations in the social and economic area Windstream has not identified any non-compliance with laws and/or regulations during this reporting period
+APPENDIX
+APPROACH ENVIRONMENTAL SOCIAL GOVERNANCE APPENDIX 51©  2022 Windstream Intellectual Property Services, LLC.  All rights reserved.  Kinetic and Windstream are registered service marks or 
+trademarks of Windstream Intellectual Property Services, LLC.
+Copyright ©2020 Sustainalytics. All rights reserved.
+This publication contains information developed by Sustainalytics (www.sustainalytics.com). Such information and data are proprietary of 
+Sustainalytics and/or its third party suppliers (Third Party Data) and are provided for informational purposes only. They do not constitute an 
+endorsement of any product or project, nor an investment advice and are not warranted to be complete, timely, accurate or suitable for a particular 
+purpose. Their use is subject to conditions available at https://www.sustainalytics.com/legal-disclaimers.

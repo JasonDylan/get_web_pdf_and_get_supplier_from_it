@@ -1,0 +1,3173 @@
+AB
+Connectivity
+CYBERCOM GROUP · SUSTAINABILITY REPORT 2015
+Sustainability  
+heroes of tomorrowBorderless  
+technologyMachines  
+enter the cloud SUSTAINABILITY REPORT 2015About the report: 
+Cybercom presents an annual sustainability report in 
+accordance with GRI. This is Cybercom’s sustainability 
+report for 2015. The report is prepared in accordance 
+with the GRI G4 international guidelines for sustainability 
+reporting, Core option. In 2011, Cybercom signed up to 
+the UN Global Compact and complies with its ten prin -
+ciples for responsible business. This report is Cybercom's 
+annual communication about how we are living up to, 
+and working with, these principles.  Focus & boundaries: 
+The information presented in the sustainability report  
+refers to Cybercom Group AB. With joint ventures and 
+subsidiaries accounted for on the basis of Cybercom Group's  
+ownership interest. Any organisational boundaries are 
+mentioned in connection with the reported information. 
+Many aspects of sustainability have an impact beyond 
+Cybercom’s legal framework, such as with our clients and 
+suppliers. Cybercom regularly reports for each material 
+sustainability aspect where it has its influence in the 
+company's value chain. 
+ 2  Global goals  
+  17 UN sustainable development goals 
+ 4 CEO comment  
+  The future is here
+ 6  Cybercom in 3 minutes  
+  An introduction to Cybercom 
+ 8  Interview  
+  Interview with Dennis Pamlin 
+ 10  Targets and outcomes  
+  Targets and achievement in 2015 
+ 14  Outlook  
+  Megatrends in the industry
+ 22  The connected world  
+  How Cybercom creates value in society
+ 30  Employees  
+  Diversity
+ 36 Corporate responsibility  
+  Importance of ethics and security
+ 38   Internal environmental 
+efforts  
+Reducing Cybercom’s environmental 
+impact
+ 39  Code of conduct  
+  Ethics and code of conduct 
+ 42  Chairman’s comment  
+  The path forward  
+ 43  Corporate governance  
+  How Cybercom is governed  
+ 44  GRI information  
+  Stakeholder dialogue
+ 48  GRI index
+     
+8
+24
+1722
+29
+ABAt Cybercom we believe it is important to take re ­
+sponsibility for how people, the environment and 
+society are affected by our operations and, ulti ­
+mately, the operations of our clients.
+We actively strive to reduce our own impact on the 
+environment, and we conduct dialogue about what 
+is important from a sustainability perspective. That 
+said, the greatest potential of a consulting company 
+is, of course, our ability to influence our clients and, 
+by extension, their users and end customers. 
+Our offer includes innovative, secure and effective 
+solutions that contribute to profitability and sus ­
+tainable development through, for example, cost 
+savings, energy savings and, above all, reducing 
+the consumption of finite resources.We take
+respons i bility
+SUSTAINABILITY REPORT 2015  |  1GLOBAL GOALS
+No poverty
+End poverty in all its forms everywhere.
+When the 17 goals were adopted, 
+Mark Zuckerberg and U2 singer Bono 
+published an article announcing a 
+digitalisation campaign, arguing the 
+world need to be connected to reduce 
+poverty. This is about Connectivity, 
+what Cybercom works with.
+Find out more on page 15Quality education
+Ensure inclusive and equitable quality 
+education and promote lifelong 
+learning for all.  
+Cybercom is a main partner to 
+Universeum, SOS Children's Villages 
+and the Hello World! association, 
+aimed at promoting digital creativity 
+among children and young people.
+Find out more on pages 32Good health and well-being 
+Ensure healthy lives and promote 
+well-being for all at all ages.
+Physical inactivity is one of the ten 
+biggest risk factors for premature 
+death. Cybercom has developed the 
+MovereX mobile app that supports 
+physical activity on prescription  to 
+deal with this.
+Find out more on page 16
+Sustainable cities and communities 
+Make cities and human settlements 
+inclusive, safe, resilient and sustainable.  
+In Sweden and Finland, Cybercom has  
+constructed a framework for secure 
+e-identification that brings together 
+public and private services for citizens 
+and businesses in one place.
+Find out more on page 28Responsible consumption  
+and production 
+Ensure sustainable consumption and 
+production patterns.  
+Cybercom was chosen by SVP 
+Worldwide as its connectivity partner 
+when it wanted to connect its most 
+advanced sewing machine ever. 
+Find out more on page 28UN global goals
+In 2015, the United Nations adopted 17 global goals that 
+world leaders have committed to achieve by 2030. 
+The goals were created to: 
+• End poverty. 
+• Fight injustice and inequality. 
+• Combat climate change.
+ICT (Information, Communication & Technology)  is able 
+to play an extremely important role, helping to achieve the 
+goals through increased digitalisation. These are  
+the 17 goals and some examples of where Cybercom has 
+contributed in 2015.1 3 4
+11 12
+2  |  SUSTAINABILITY REPORT 2015GLOBAL GOALS
+Industry, innovation and  
+infrastructure
+Build resilient infrastructure, promote 
+inclusive and sustainable industrial-
+isation and foster innovation.  
+During the year, Cybercom has 
+advised several industrial companies 
+on the development of IoT solutions, 
+including for Heliospectra’s intelligent 
+lighting technology for greenhouses. 
+Find out more on page 28 
+Climate action
+Take urgent action to combat climate 
+change and its impacts. 
+Together with the City of Gothenburg 
+and others, Cybercom is develop -
+ing new solutions for tomorrow's 
+sustainable public transport. 
+Find out more on page 13Affordable and clean energy
+Ensure access to affordable, reliable, 
+sustainable and modern energy for all.  
+During the year Cybercom conducted 
+CAPEX/OPEX analysis to create 
+efficiency improvements for a leading 
+telecom operator in Bangladesh. 
+Find out more on page 21Gender equality 
+Achieve gender equality and empower  
+all women and girls.  
+The AllBright Foundation noted that 
+Cybercom is the best in our industry 
+in terms of the proportion of women 
+in management positions, with 36 % 
+women in the management team.  
+Find out more on page 305 9
+137
+Peace, justice and strong  
+institutions
+Promote peaceful and inclusive  
+societies for sustainable development, 
+provide access to justice for all and 
+build effective, accountable and 
+inclusive institutions et al.  
+Cybercom has developed and is res -
+ponsible for Openaid.se, the Swedish  
+International Development Coopera -
+tion Agency’s web-based information 
+service for Sweden's development aid.  
+Find out more on page 1516
+Partnerships for the goals
+Strengthen the means of implemen -
+tation and revitalise the global part -
+nership for sustainable development.  
+Cybercom has been a signatory of 
+the UN Global Compact since 2011.
+Find out more on page  417
+SUSTAINABILITY REPORT 2015  |  3CEO COMMENT
+The future  
+is here
+ogether with leaders from 
+several of our clients, I attended 
+the UN Private Sector Forum last 
+September to put into practice 
+important collaborations that 
+will steer the world towards the new sustainable 
+development goals by 2030. There are solutions, 
+and I am optimistic. Both Cybercom and I are on 
+board. We support the Global Compact and we 
+are convinced that, together with our clients and 
+partners, we can help to make a difference – to 
+drive development in the right direction through 
+digitalisation, by connecting people, machines, 
+devices, countries and authorities – through 
+what we call Connectivity. 
+Cybercom’s expertise and our solutions for 
+the connected world are contributing to the 
+fourth industrial revolution. This means we 
+have a unique opportunity, and a responsibil -
+ity, to advance the business of our clients and 
+to drive development in the right direction 
+and at the necessary pace. We ensure that the 
+foundations of our digital society are secure, 
+transparent and based on renewable resour -
+ces. We ensure that the services provided by 
+this new society are competitive and access-
+ible, while in the long run having less adverse 
+impact on the climate and environment. A continued intense force for change is both 
+possible, from a technical perspective, and 
+necessary, from a sustainability perspective. 
+The world will look very different just ten years 
+from now. Cybercom is creating competitive 
+differentiation and new democratic reach, 
+together with our clients, by developing socially 
+beneficial, secure and accessible services for 
+the connected citizen and the connected 
+consumer. We are also helping industries to 
+improve their energy efficiency, and we are 
+helping cities with more intelligent mobility 
+solutions. There is growing demand, large 
+market potential and a sustainable future in 
+this. I am proud of our clients, my colleagues 
+and the solutions we deliver. In 2015 we took 
+a step forward in this positive direction. We are 
+the makers of tomorrow.
+Strategic direction
+During the year we updated our strategic plan 
+to improve our profitability to 10% in the long 
+term, and to lay the foundation for growth of 
+5% annually. We have further focused the busi -
+ness towards building long-term relationships 
+with a range of clients, for whom we know we 
+can bring clear value, both short-term and long-
+term. Our sales team is working systematically to grow our business with key accounts and 
+priority clients. We have organised ourselves us -
+ing this strategy, and I have appointed a business 
+leadership team that, alongside the operational 
+leadership, will be able to help us accelerate our 
+business relationships and increase cooperation 
+across regional and national borders. We are 
+now going a step further in living close to our 
+clients. This is about all of us at Cybercom; we 
+must all be consultants who create value for our 
+clients and grow our business. 
+With 20 years of experience in IT and com -
+munication services, we can guide our clients 
+in their digital journey. Our vision is to be our 
+clients’ most trusted business partner in the 
+connected world. We are experiencing ever 
+greater demand for strategic advice in Con -
+nectivity, and we are increasingly being invited 
+to leadership conversations, through which we 
+can make a bigger difference. Digitalisation 
+is a priority agenda item for many leadership 
+teams and boards. This was particularly evi -
+dent at the most recent World Economic For -
+um in Davos, where Swedish companies were 
+criticised for lagging behind. I do not agree. 
+Every week I see so many good examples of 
+driving innovation and digital development 
+among our clients in Sweden, as well as in 
+the other countries where we operate. New 
+business models are being created. New and 
+resilient services are changing business ideas. It 
+is enormously exciting to be part of this. 
+In our strategic shift, we have streamlined 
+our offering and made it clear where we 
+create the most value. This is important in 
+order to strengthen our brand. We present our 
+expertise in the areas of Digitalisation, Secure 
+Connectivity, Internet of Things and Managed 
+Cloud. As a component of connectivity we We find ourselves in an era of both fantastic technological 
+progress, generating opportunities to create a better world, and 
+major global concern, with millions of people displaced and an 
+unstable economy. World leaders, innovators and fellow citizens 
+have adopted 17 global goals for the development of our world, 
+and to ensure a sustainable and more equitable future, largely 
+with the help of the opportunities provided by technology. 
+T
+4  |  SUSTAINABILITY REPORT 2015XXXXX
+XXXXXXXXCEO COMMENT
+WE ENSURE THAT THE 
+SERVICES PROVIDED BY THIS 
+NEW SOCIETY ARE COM-  
+PETITIVE AND ACCESSIBLE, 
+WHILE IN THE LONG RUN  
+HAVING LESS ADVERSE  
+IMPACT ON THE CLIMATE  
+AND ENVIRONMENT.  ❝collaborate with our clients and networks to 
+deliver smart sustainable solutions that are 
+profitable in the short term and long term. 
+This is about creating efficiency and greater 
+competitiveness by benefitting from the op -
+portunities of the connected world – but also 
+managing its risks, complying with legislation 
+and regulations, and protecting privacy. We 
+have unique security expertise, which was 
+exemplified when our The Procurement Check 
+service was named Swedish IT Security Solu -
+tion 2015. We share this free of charge with 
+our clients and colleagues in the industry to 
+improve security in our digital society.
+Meritocracy is crucial 
+In our strategic shift, we are also focusing on 
+becoming a better employer. Our mission is 
+“Boosting your performance in the connected 
+world”, and this includes all our employees 
+being given room to grow with us, through ex -
+citing, challenging and interesting assignments. 
+The market for IT services is generally good, and 
+with this comes fierce competition in the recruit -
+ment arena. By 2020 there will be a shortfall of 
+around one million IT professionals in the EU, 
+and at least 60,000 in Sweden. This means we 
+face an enormous challenge, namely to secure 
+the supply of skills in our industry and to ensure 
+there are people who can nurture and develop 
+the digital opportunities in our society. We en -
+gage in initiatives to attract and ignite interest in 
+technology among children and young people in 
+collaboration with, for example, Universeum and 
+Next Up in Gothenburg, Makerslink in Linköping, 
+Hello World! in Stockholm, Good Malmö, and 
+SOS Children’s Villages in Rwanda. We are in -
+volved in organising coding courses for children, 
+and we participate in creative hackathons. 
+Sweden currently has a liberal regulatory 
+framework for labour migration, which is 
+positive and fundamentally necessary for our 
+sector. As someone who works in our industry, 
+it is amazing to note that IT today accounts for 
+the largest share of labour immigration to our 
+country. I see this as a great potential asset for 
+Cybercom. In the IT world, we speak a universal 
+language without borders between countries, 
+cultures, genders, social backgrounds, ages or 
+religions. Diversity is the best ingredient for us, 
+an enabler to develop innovative solutions. 
+Statistics show that the proportion of wom -
+en in the IT and telecom industries in Sweden 
+dropped from around 32% in 2006 to 29% in 
+2014. In our company, it has fallen from 21% 
+to 17% across the group. We must improve on this and increase our efforts. We are now set -
+ting a clear goal. We should have at least the 
+same proportion of women as the percentage 
+of females graduating from engineering cours -
+es annually in the programs that we recruit 
+from – the target is 30%. This starts with the 
+leadership team, and I am pleased to see that 
+36% of my colleagues today are women. It 
+is important for Cybercom to have inspiring 
+leadership that creates a dynamic dialogue 
+and promotes a common and oxygen-rich 
+culture built on diversity and clear values. At 
+Cybercom this is about providing plenty of 
+room for innovation, passion and building 
+trust, and generating synergy internally in our 
+operations and externally for our clients and 
+other stakeholders in wider society. 
+Our footprint in 2015 
+Very many positive things have happened in 
+Cybercom’s business during the year. We were 
+entrusted to help the Finnish government to 
+digitalise its activities, and to implement elec -
+tronic identification services and associated ad -
+ministration of roles and permissions. We have 
+worked with public authorities and companies 
+to create energy-smart public transport solu -
+tions in Gothenburg and Stockholm. We are 
+involved in the development of autonomous 
+vehicles that will be running on our roads in a 
+year or so. We have built and optimised mobile 
+networks on remote islands in the Caribbean, 
+and in Africa and the Middle East. We have 
+connected cranes and asphalt rollers for safer 
+and more efficient industry. We have driven 
+IoT development for garden 
+machinery and industrial 
+robots, and we have con -
+nected sewing machines to 
+the cloud. We have helped 
+one of Europe's largest 
+university hospitals with a decentralised data 
+security procedure for improved practical work 
+with data security, and we are enhancing the 
+digital presence of several Swedish munici -
+palities. We have transferred one of Finland's 
+largest media houses to the cloud. And this is 
+just the beginning! 
+During the year, it became necessary to 
+adapt our business to the market in Finland. We 
+closed the office in Turku, affecting some 30 
+employees. We concentrated our operations to 
+Tampere and Helsinki to achieve more sustaina -
+ble economic development in our company. 
+The year ended with our principal owner, JCE 
+Group, and Teguity placing a bid for Cybercom, 
+and the company was delisted. Cybercom is 
+now in private hands to allow an opportunity to 
+create an even more stable platform for future 
+growth and profitability. Under private own -
+ership the company can develop both more 
+rapidly and more vigorously in its current phase.
+We are now aiming at creating more value 
+for our clients, employees, owners and wider 
+society by developing our operations closer to 
+our goal of achieving more profitable growth 
+and creating a more sustainable business. Join 
+us for our continued exciting journey!
+Niklas Flyborg President and CEO, Cybercom 
+SUSTAINABILITY REPORT 2015  |  5CYBERCOM  
+IN 3 MINUTES
+A business partner to our clients:   
+Cybercom is an innovative IT consult­
+ing company founded in Sweden in 
+1995. Today we enable companies 
+and organisations to benefit from the 
+opportunities of the connected world 
+and to enhance their competitiveness. 
+32% 91% 100%
+would recommend us! will probably or definitely continue  
+to buy from ussee a great advantage in buying from us  
+compared with competitorsRESULTS OF CYBERCOM’S 2016 CUSTOMER SATISFACTION SURVEY
+6  |  SUSTAINABILITY REPORT 2015CYBERCOM  
+IN 3 MINUTES
+employees at Cybercom of employees have a university degree people recruited in 2015 Bo Strömqvist, Sales Manager, Cybercom  Our clients are found mainly in the public sector, 
+telecommunications and manufacturing, as well 
+as in trade and the media. 
+AMONG OUR LARGEST CLIENTS:
+ALMA MEDIA GROUP 
+ASSA ABLOY 
+ERICSSON 
+FINNISH NATIONAL BOARD OF EDUCATION
+HUSQVARNA  
+IKEA 
+Distributed value 2015MTV FINLAND  
+SAAB  
+SWEDISH TAX AGENCY
+SONY MOBILE  
+VOLVO AB  
+VOLVO CARS 
+STOCKHOLM COUNTY COUNCIL
+1,218 90%237OUR VISION IS TO BE OUR 
+CLIENTS’ MOST TRUSTED 
+BUSINESS PARTNER IN THE 
+CONNECTED WORLD. ❝
+Ersättning till an ställda, 65 ,27% 
+Övriga externa kostnader, 27,39% 
+Av- och nedskrivningar , 2,09%
+Finansne tto, 0,20%
+Skatt, 1,14%
+Utdelning, 0, 71%
+Välgörenhet, 0, 04%
+Bibehållet  ekonomis kt värde, 3,16%
+ • Employee benefits,  
+incl. social charges 64.0%  
+•Other external expenses 33.4%  
+•Investment activities 2.0%
+•Net finance income/expense 0.2%
+•Tax 0.4% 
+•Charitable donations 0.05% SWEDEN
+FINLAND
+DENMARK
+POLAND
+INDIA
+DUBAI
+SINGAPOREClients
+We are located in 
+seven countries
+AND WE CONDUCT BUSINESS IN 20 COUNTRIES
+SUSTAINABILITY REPORT 2015  |  7“ The sustainability    heroes of tomorrow 
+    are those with the    solutions”INTERVIEW
+8  |  SUSTAINABILITY REPORT 2015INTERVIEW
+ow should a 
+company like 
+Cybercom act to 
+move in a more 
+sustainable 
+direction?
+“It’s very much about showing what 
+is already being done, but has not 
+been labelled as sustainability, for 
+example by putting numbers to 
+how many tonnes of greenhouse 
+gases are saved using Cybercom’s 
+solutions. Cybercom has an import -
+ant role in explaining to clients and 
+decision-makers which underlying 
+solutions are critical to smart sustain -
+ability solutions. Without encryption, 
+compression algorithms, cloud 
+storage and real-time data we cannot 
+have smart buildings, smart mobility 
+or smart consumption patterns – 
+which make up tomorrow’s infra -
+structure for global sustainability.” 
+ 
+Can modern technology alone 
+make the world sustainable?
+“The technology we have available 
+today is sufficient, but we have to 
+use it in a smart way and this requires 
+changes to organisations, regulations 
+and our habits. For example, through 
+“dematerialisation”, which is to 
+deliver the same or similar services 
+with lower consumption of natural re -
+sources. This can be achieved through 
+the development of digital solutions that replace a physical product or ser -
+vice, or by enabling collaboration and 
+sharing, in which smart ICT solutions 
+are required. The fact that companies 
+like Cybercom already deliver these 
+kinds of solution without calling them 
+sustainable is usually because they are 
+actually developed to be smarter and 
+more cost-effective, not because they 
+are sustainable.” 
+How big is the actual potential 
+for the ICT sector to create more 
+sustainable societies?
+“ICT has a central role in a sustain -
+able future. There are studies that 
+show we could cut global emissions 
+of greenhouse gases by 20% in 
+2030 using ICT, without making any 
+major changes. But the potential is We sat down with sustainability expert Dennis 
+Pamlin to talk about his views on the ICT sector's 
+role in creating sustainable societies. 
+much greater than that, and many 
+commentators claim that ICT com -
+panies are the most important sector 
+for global sustainability. Many ICT 
+companies can contribute to more 
+than 100 times greater emissions re -
+ductions than they emit themselves.”  
+  
+Finally, where should Cybercom 
+focus its sustainability efforts in 
+future? 
+“The sustainability heroes of today 
+and tomorrow are the people who 
+come up with the solutions – particu -
+larly IT companies that can create the 
+sustainable knowledge society. Cyber -
+com is able to play an important role 
+by shifting the focus from problems 
+to solutions – since your core business 
+often leads to sustainable solutions, 
+higher sales go hand in hand with a 
+greater contribution to sustainability. 
+I would therefore argue that there is 
+a moral responsibility for those that 
+have sustainable ICT solutions to make 
+money. That may sound dramatic, but 
+we cannot afford to continue to lock 
+ourselves into resource inefficient and 
+non-smart solutions. 
+Working in a sector that has a 
+moral responsibility to make money is 
+something I believe we should see as 
+a great opportunity, because it allows 
+us to combine innovation, good 
+economic performance and a better 
+world. There are worse jobs.”H
+Dennis Pamlin is the founder 
+and chief executive of 21st 
+Century Frontiers, and a senior 
+associate at the Chinese Acad -
+emy of Social Sciences. He has 
+extensive experience in ICT 
+and telecoms, specialising in 
+innovation and sustainability. 
+He is currently an independ -
+ent consultant, responsible 
+for the Low Carbon Leaders 
+Project within the UN Global 
+Compact.“ The sustainability    heroes of tomorrow 
+    are those with the    solutions”❞
+I WOULD ARGUE THAT 
+THERE IS A MORAL 
+RESPONSIBILITY FOR 
+THOSE THAT HAVE 
+SUSTAINABLE ICT 
+SOLUTIONS TO MAKE 
+MONEY .
+DENNIS PAMLIN
+SUSTAINABILITY REPORT 2015  |  9TARGETS  
+AND OUTCOMES
+Targets & outcomes
+Cybercom has identified 10 sustainability aspects that we believe are material to 
+our operations. Based on these aspects we have formulated our operational work 
+and set goals that describe how we govern Cybercom.
+WE WANT AT LEAST AS MANY FEMALE EMPLOYEES 
+AS THE PROPORTION OF WOMEN WHO GRADUATE 
+FROM THE TECHNICAL UNIVERSITIES, WHICH MEANS 
+AT LEAST 30% IN THE LONG TERM.❝Sustainable business
+Diversity  
+& equalityDedicated employees & 
+employee developmentPrivacy issues  
+related to IT
+Business ethics Sustainability in 
+Cybercom's cultureInformation 
+security
+Sustainable 
+products & servicesFinancial stability
+Smart use of 
+resourcesEnvironmental impactProfi tability, growth, client baseOur role as an employer
+Anti­corruption  
+& anti­competitive 
+behaviour
+Business ethicsCybercom’s 
+sustainability  
+aspects
+Simon Südowsson
+Sustainability Ambassador  
+and Consultant, Cybercom
+10  |  SUSTAINABILITY REPORT 2015TARGETS  
+AND OUTCOMES
+Financial targets
+Profitability Cybercom shall be one of the more profitable companies 
+among its closest comparable competitors and achieve an 
+EBIT margin of 10%. In connection of the acquisition of Cybercom  
+large impairments were made to goodwill, which  
+generated a negative EBIT margin. Excluding 
+impairment the EBIT margin was 3.0%  (5.2). 
+Growth Cybercom shall strive to achieve growth of 5% annually 
+over the business cycle.  Sales increased by 0% (6). Target met Positive development Negative development
+Operating targets
+Assignment types We will achieve an even distribution of sales between 
+consulting services and turnkey projects/solutions in our 
+assignments. Turnkey assignments and projects 34%  (39) 
+Consulting services 66%  (61). 
+Our role as  
+an employerWe will have the highest level of engagement among our 
+employees by providing them with an attractive working 
+environment, good terms and conditions, and useful oppor -
+tunities for professional development. We work actively to 
+increase our diversity in order to create a dynamic and inno-
+vative working environment. We measure this through a 
+group-wide employee survey called Cybercom People Voice.  In previous years, we have measured an overall 
+employee motivation index. We have now 
+chosen to set a specific target for employee 
+engagement in excess of 75% – in 2015 this was  
+66%  (68). The target for our leadership index is 
+above 80% – in 2015 this was 75% (69). 
+Sustainable  
+businessWe will increase the amount of sustainable business with 
+our clients. We measure this by looking at what business 
+contributes to sustainable development and responsible 
+use of resources through, for example, cost savings, 
+efficiency, security, and reduced use of resources that has 
+a negative environmental impact. At Cybercom’s ten largest clients, 49%  (27)  
+of assignments have contributed to improved 
+sustainability through efficiency, cost savings,  
+security or a reduced degree of exploitation of 
+the earth’s resources. 
+Business ethics High ethical standards will be a part of our DNA and perme -
+ate all our activities and all our business. All our employees, 
+suppliers and partners should sign Cybercom’s code of 
+conduct. We use internal certification for anti-corruption 
+and the code of conduct. We measure and monitor the 
+number of certifications annually. We monitor the number 
+of incidents in our operations. 50%  of Cybercom's employees, including the 
+entire board and senior management team, have 
+completed certification. No incidents have been 
+reported. Better systems will be introduced for 
+monitoring the supplier code of conduct. 
+Environmental 
+impact – travelWe will reduce our CO2 emissions as a result of travel per 
+revenue krona by at least 5% between 2011 and 2015. Since 2011, CO2 emissions as a result of travel per 
+rev enue krona have decreased by approximately 
+55%.
+Client base 
+Selected key clients will account for 70% of 
+sales. Our ten largest clients will account for ap -
+proximately 50% of sales and no single client 
+will account for more than 15%. Today the  
+largest clients account for 41% (40) of sales. 
+The largest single client accounts for 14% (15). Recruitment 
+We will make net recruitment of at least 5%. 
+We welcome diversity and strive to achieve 
+the equivalent of at least the gender distribu -
+tion of the technical universities, with approx -
+imately 30% female employees. Currently 
+17% of Cybercom’s employees are female. Environmental impact 
+We strive to achieve a positive environmental 
+impact so that our solutions and the direct 
+impact of all our operations are net positive. 
+We work in accordance with ISO 14001.  
+Parts of the company are currently certified. New targets from 2016Area Description of target Outcome 2015 Status
+SUSTAINABILITY REPORT 2015  |  11A
+XXXXX
+XXXXXXXXEASY
+12  |  SUSTAINABILITY REPORT 2015B
+XXXXX
+XXXXXXXXEASY
+Annika Nordlander is regional head at Cybercom Sweden North East: “There are really 
+no limits to connectivity. It will impact all parts of society and pave the way for new 
+ideas on how to do business and how to spread knowledge. It removes administrative 
+burdens and frees up time to be invested in the making of the future.” Easier to share
+Connectivity makes it easy to share things with each 
+other. This means you can save money and give  
+nature a break, without even having to think about it. 
+SUSTAINABILITY REPORT 2015  |  13OUTLOOK
+Technology 
+without  
+borders 
+There are currently a number of mega­
+trends: globalisation, urbanisation and 
+digitalisation. Following in their wake are 
+trends affecting industry, cities, citizens 
+and consumers. Robotisation is making 
+traditional production more efficient, phys ­
+ical goods are becoming digital services, 
+industry is coming into direct contact with 
+its end customers, and consumption pat ­
+terns are constantly changing.
+These changes bring with them many new 
+opportunities, but it is also important to be 
+aware and take account of the risks that 
+can arise with new technology. Security, 
+privacy and a greater understanding of the 
+world around us are all essential ingredi ­
+ents for safe navigation. On the following 
+pages you can read about some of the 
+trends and new business models that we 
+believe may affect our world today and in 
+the future.
+14  |  SUSTAINABILITY REPORT 2015OUTLOOK
+n September 25, 2015 the 
+United Nations held a his -
+toric meeting at which 193 
+world leaders decided on 17 global 
+goals to achieve three extraordinary 
+changes by 2030. These are to end 
+poverty, fight injustice and inequality, 
+and to combat climate change. The 
+global goals for sustainable develop -
+ment could lead to the solution to 
+these problems in all countries and 
+for all people. 
+UN Secretary-General Ban Ki-moon, 
+German Chancellor Angela Merkel, 
+lead singer of the band U2 and 
+co-founder of humanitarian organ -
+isation ONE Bono, and founder and 
+CEO of Facebook Mark Zuckerberg 
+all took part, along with business 
+leaders from around the world. Cy -
+bercom, with its CEO Niklas Flyborg, 
+was the only Swedish IT consulting 
+company that attended the Private 
+Sector Forum, which discussed the 
+Global Compact, an initiative that 
+focuses on the role of the private sec -
+tor in implementing the sustainable 
+development goals.
+The otherwise somewhat odd 
+duo of Mark Zuckerberg and Bono announced the launch of a campaign 
+to focus on digitalisation, and asserted 
+that internet connection is a human 
+right. 
+Mark Zuckerberg declared that 
+Facebook intends to work with the 
+UNHCR to support the millions of 
+refugees fleeing war and poverty by 
+providing internet.
+“Connectivity will help refugees 
+better access support from the aid 
+community and maintain links to family  
+and loved ones,” he said in his speech. 
+Zuckerberg and Bono also expan-
+ded on their thoughts in a New York 
+Times article, in which they described 
+the current situation of the poor 
+and refugees. Today, only half of 
+the world’s population has internet 
+access, and the proportion is much 
+lower in developing countries. They 
+emphasised that technology com -
+panies and entrepreneurs must take 
+responsibility, and said that all the 
+global goals must be achieved, but 
+that the aim of internet access for all 
+is likely to accelerate fulfilment of the 
+other goals.
+Find out more at www.one.org  Globalisation
+Urbanisation
+utonomous vehicles are 
+likely to become reality in 
+the future. At the same 
+time, there is a problem with infra -
+structure. Several major infrastructure 
+projects are being undertaken around 
+the world to increase capacity on 
+our roads. But are we thinking the 
+right way in expanding with more 
+asphalt and concrete? The limiting 
+factor in traffic today is actually 
+people, and our comparatively slow 
+reaction times. Driverless cars that 
+react super-fast require significantly 
+shorter distances between vehicles, 
+and expansion might not always be 
+necessary. Modern industry is often 
+much further advanced in terms of 
+both digitalisation and sustainability 
+than government authorities and 
+politicians.Building concrete  
+or digital  
+infrastructure?Connecting the world  
+to bring it together
+Transparency  
+in Swedish  
+development aid 
+ybercom has helped develop 
+OpenAid, a service providing 
+digital transparency to 
+Swedish development aid. The website 
+www.openaid.se allows people to 
+see when, how, to whom, and for 
+what purpose Swedish development 
+aid has been paid. The information 
+includes financial support from the 
+Swedish International Development 
+Cooperation Agency, the Ministry for 
+Foreign Affairs and other authorities 
+that administer development aid. 
+This type of information was previ -
+ously very difficult to access because 
+the data was scattered throughout 
+different systems. Openaid.se brings 
+together everything in one place, 
+which improves the transparency of 
+development aid, and may in turn lead 
+to increased dialogue on aid effective -
+ness and outcomes.Cybercom’s influence
+DRIVERLESS CARS THAT  
+REACT SUPER-FAST 
+REQUIRE SIGNIFI -  
+CAN TLY SHORTER  
+DISTANCES.
+Albin Olsson
+Sustainability  
+Ambassador and  
+Consultant, Cybercom❝
+A CO
+SUSTAINABILITY REPORT 2015  |  15OUTLOOK
+hysical inactivity is one of 
+the ten biggest risk factors 
+for premature death, and a 
+sedentary lifestyle leads to large costs 
+for health care. The fifth leading risk 
+factor for women to suffer illness is 
+physical inactivity, and for men it is 
+the sixth largest risk factor. In order 
+to combat sedentary lifestyles, doc -
+tors and physiotherapists sometimes 
+prescribe physical activity to patients, 
+since there is strong scientific 
+evidence that this is, in many cases, a 
+good alternative to medication. 
+One problem of prescribing physi -
+cal activity is that only just over 40% 
+of patients follow their prescribed ex -
+ercise – Cybercom wants to change 
+this. In October 2015 we launched 
+MovereX, a mobile app with an 
+associated activity bracelet and 
+web interface, which can assist and 
+motivate patients prescribed physical 
+activity to exercise more. The benefits 
+for health care of using MovereX, 
+instead of the usual paper forms, are 
+expected to be that more patients 
+follow their prescribed exercise and more effective prescription manage -
+ment for health care providers. 
+In a playful way, MovereX can 
+make it easier and more fun for pa -
+tients to exercise more, which could 
+result in better public health and fit -
+ter patients. It also has the potential 
+to considerably reduce health care 
+costs as preventative measures using 
+MovereX are very much cheaper than 
+caring for patients with diabetes, 
+cardiovascular 
+disease and  
+other conditions 
+caused by  
+physical  
+inactivity.
+ Cybercom’s influence
+Mapping to understand the  
+end customer’s businessHow business leaders view 
+automated technology
+n important trend that 
+originated in digitalisation 
+is the need to map end 
+customers in order to understand 
+their business and their consequent 
+opportunities and challenges. The 
+Industry is at a stage where it is possi -
+ble for a company to address more of 
+its customers’ concerns than simply 
+the ordered product, and a number 
+of successful businesses have already 
+begun to realise this. 
+Publishing manuals and user 
+guides for products online is just the 
+first step. For example, connecting 
+a product to a cloud service enables 
+the next step in creating services for 
+the customer. One obvious example 
+is connected tools used in contract -
+ing. By connecting each tool, a 
+foreman is able to keep track of time 
+taken and risk levels in use, and can xford researchers Frey 
+and Osborne found in an 
+acclaimed study that about 
+half of all jobs could be performed 
+using automated technology in 
+15–20 years, given the ongoing 
+technological developments. The 
+study* does not, however, address 
+how many jobs in other sectors 
+will be created by automation, 
+something that will almost certainly 
+happen. Other important aspects are 
+how automation provides improved 
+working environments, health care, 
+education and elderly care, to name 
+but a few.
+Research firm Kairos Future has 
+investigated how Swedish business 
+DigitalisationDigitalisation
+More exercise reduces 
+health care costs
+simplify time reporting and billing 
+based on data sent from each unit. 
+Eventually, these functions may be 
+decisive in the customer’s choice of 
+product, and may even account for 
+the majority of the company’s reve -
+nue rather than the sale of a single 
+product, which is a one-off.leaders approach the threats and 
+potential of automation. It was found 
+that only 4% of Swedish business 
+leaders strongly agree with the 
+statement that automation is a threat 
+to jobs, but that more than one in 
+two managers expect to be able to 
+reduce employee numbers. At the 
+same time, 89% agreed that this is a 
+necessary and desirable development 
+to increase profitability. One in four 
+respondents also said that automa -
+tion has affected their own business 
+to a very large extent over the past 
+five years, and 89% of these said that 
+automation has created opportunities 
+for entirely new products and services.
+Read more at www.kairosfuture.com.
+*) Frey och Osborne: The future of employment: How susceptible are jobs to computerisation? 2013.
+AO
+P
+70%
+of all surveyed patients within  
+the primary care claim to be  
+insufficiently physically active
+16  |  SUSTAINABILITY REPORT 2015OUTLOOK
+ur world is becoming 
+increasingly connected. 
+People and businesses are 
+creating newer, more efficient and 
+more innovative ways to process, 
+share and distribute data. As 
+systems become more important, 
+so specifying availability, privacy and 
+security becomes more critical at the 
+procurement stage.
+It is challenging to specify security 
+during IT procurement. But achieving 
+this provides significantly greater 
+quality aspects than just security, for 
+both the customer and the supplier. 
+This is why we created The Procure -
+ment Check – a cost-free, flexible 
+support for all types of IT procure -
+ment, to ensure that critical security 
+issues do not fall through the cracks.
+Since its launch, almost 1,000 
+people have downloaded and used 
+The Procurement Check, which partly 
+contributed to The Procurement 
+Check being named IT Security Solu -
+tion 2015 at the Security Awards.
+2015
+SECURITY
+AWARDS
+WINNERAn article by Mattias Allring in Swedish newspaper Dagens 
+Nyheter, debating “Data from your activity bracelet is an 
+insurer’s dream” had an impact in Sweden and internationally. 
+In Finland, it was picked up by television news channel YLE 
+Nyheter, which discovered that a Finnish insurance company 
+was gathering user data from its policyholders with an activity 
+bracelet it had sent out, in order to provide tailored products, 
+just as Mattias Allring had predicted in his article. The insurer 
+stopped collecting the data following YLE’s report. Cybercom’s influenceCybercom’s influence
+n the digital world the 
+product is often a private 
+individual, something that 
+is increasingly important to consider 
+as our everyday products become 
+connected. This is not necessarily a 
+bad thing, but we need a broader 
+debate about how our digital lives 
+are shaped, says Mattias Allring, a 
+consultant at Cybercom. 
+Every day, private individuals leave 
+hundreds of digital footprints that 
+are gathered, processed, resold and 
+used by companies. The aim is not to 
+cause harm – it is a way to optimally 
+adapt activities and offerings to the 
+individual and their needs. Some -
+times to offer something. Sometimes 
+to sell something about that person to someone else. Always to adapt the 
+world to the individual and the data 
+they leave behind.
+“The digital world has begun to 
+entwine itself around us as individu -
+als,” says Mattias Allring. “It adapts 
+and plays customised versions of 
+reality. Your world is no longer the 
+same as mine.” 
+And this is just the beginning. The 
+next major developmental step will 
+be for virtually everything to be con -
+nected to the internet. Your shoes, 
+your milk carton, your flowerbed. 
+Each new piece of your life and your 
+surroundings is an opportunity to 
+develop new services for you.
+“The technology already exists 
+to realise many of the online world 
+utopias. Your new connected car 
+could, technically, already support 
+behaviour-based day-to-day insur -
+ance, with premiums set according 
+to how you actually drove yesterday. 
+And your online health monitor could 
+be used together with the content 
+of your fridge to determine the life 
+insurance offered by your insurer,” 
+explains Mattias.
+As a result of all that the connect -
+ed world offers us, we will probably 
+live longer, reduce our stress, have 
+more time with our family, get more exciting job offers, live more sustain-
+ably and be able to afford more. The 
+downside is that we do not know in 
+what context the data will pop up 
+and shape our lives. 
+“I believe, for example, that 
+within a few years it will be possible to 
+automatically make the first shortlist 
+of job applications by examining how 
+truthfully the applicant describes them -
+selves. The right customer will receive 
+the red carpet treatment, but those 
+who do not fit the template will be 
+rejected in many ways,” says Mattias. 
+To participate in shaping the future, 
+we need to set in motion a broader 
+debate about what is happening in 
+the connected world, so that we as a 
+society can be involved in shaping it. 
+“The most important thing we 
+can do as advisors is to extrapolate 
+the trend. Demonstrate the logic, 
+enlighten decision-makers who own 
+the ethical decisions by putting the 
+picture in a broader context for them, 
+and getting them to understand the 
+consequences, not just economically 
+but also ethically. Our role as advisors 
+is to help decision-makers to make 
+informed decisions. We have a social 
+responsibility to help all of society to 
+anticipate the risks and opportunities 
+of the future.”Specify  
+security during 
+procurement Imagine you  
+being the product
+WE NEED TO SET IN 
+MOTION A BROADER 
+DEBATE ABOUT  
+WHAT IS HAPPENING 
+IN THE CONNECTED 
+WORLD.❝Mattias AllringI
+O
+WHISTLEBLOWING STOPPED  
+ACTIVITY BRACELET
+SUSTAINABILITY REPORT 2015  |  17Are the  
+robots  
+taking 
+our jobs?
+“Machines have less problems. I'd like to be a machine, 
+wouldn't you?” Andy Warhol’s oft ­quoted words were  
+spoken in 1963, but he was neither the first nor the last 
+celebrity to take an interest in the wonders of technology. 
+Robots have been portrayed as anything from pleasant 
+companions to job ­stealing killing machines. OUTLOOK
+18  |  SUSTAINABILITY REPORT 2015OUTLOOK
+Are the  
+robots  
+taking 
+our jobs?he oldest known 
+design of a robot 
+that survives 
+is of a knight, 
+sketched by 
+Leonardo da 
+Vinci. It could sit down and lift its 
+visor. The industrial revolution, and 
+the advent of machines in factories 
+during the 1800s, lifted people out 
+of poverty and allowed them to avoid 
+heavy and dangerous work, and to 
+devote themselves to more advanced 
+tasks. Robotisation enabled mass 
+production, giving everyone access 
+to goods and services previously only 
+available to the wealthy.
+These days, Apple has onshored 
+parts of its production to the US, 
+where it is handled by industrial 
+robots instead of low-wage labour. 
+Companies as diverse as Google and 
+Volvo are developing self-driving cars, 
+and in China Foxconn has an army 
+of robots in its first fully automated 
+factory. Robots have become com -
+monplace in the world of services. 
+At the airport we check in and drop 
+our luggage using robots, and on 
+the stock markets lightning-fast 
+algorithms have replaced the most 
+polished brokers. 
+Robots and labour
+But what does this mean for work -
+ers? Cybercom took time to talk with 
+economist and robotics researcher 
+Georg Graetz.
+“Industrial robots have long been 
+important for improving efficiency, but 
+it was not until the 1990s that they became really cheap, and therefore a 
+possible option for more sectors and 
+industries,” explains Georg Graetz. 
+In their study “Robots at Work”, 
+Graetz and his colleague Guy 
+Michaels investigated how the use of 
+robots in 17 countries has impacted 
+productivity gains, employment 
+growth and other variables. They 
+found that productivity increased 
+more where robot use was more 
+widespread. Robots account for more 
+than one-sixth of the total produc -
+tivity growth of 2 % per year in the 
+countries included in the study. 
+“We have not looked at ICT as 
+a whole, but only where robots 
+are involved. For me the results are 
+interesting because robots do not 
+yet make up a particularly large 
+component of capital. This shows the 
+potential in the future. 
+Total hours worked unchanged
+They also found that the increased use 
+of machines had not led to a reduc -
+tion in employment, and the effect on 
+the total number of hours was zero. 
+“But when we broke it down into 
+different groups, we saw that hours 
+worked for people with higher edu -
+cation increased, while the number of 
+hours for the low-skilled had fallen.” 
+From this they concluded that robots 
+are taking certain jobs, mainly low-
+skilled, but that new jobs are added. 
+“The main negative impact of the 
+advance of robots – and technology in 
+general – has been felt in occupations 
+where you can easily write a program 
+for the tasks. Repetitive, mechanical 
+tasks that follow simple rules, such 
+as industrial jobs, accounting and 
+customer service are examples of occ-
+upations that have decreased. Mean -
+while, more skilled occupations like 
+system developer, programmer and 
+robot operator have been added.” 
+The increased use of robots has im -
+proved productivity, which has led to 
+lower prices for manufactured goods. 
+This in turn leads to increased de -
+mand and more employees to meet 
+customers' growing desire to buy 
+these cheaper goods. The advent of 
+robots has also resulted in even safer 
+and better working environments 
+and greater precision in the work.Georg believes jobs that require 
+creativity, analytical skills or a degree of 
+judgement will not be outsourced to 
+robots for a while. He also shows there 
+are many types of jobs that do not re -
+quire higher education, but that have 
+still not been replaced by technology.
+“Waiters and cleaners are roles 
+that do not require much education 
+but that are still difficult to automate, 
+because they require skills and 
+human and social interaction that are 
+not easy to program.” 
+Important to keep up  
+with developments
+Georg Graetz says companies must 
+keep up with new technology and 
+evaluate how it may be relevant to 
+their business, whether this is about 
+cost savings or staying ahead of com -
+petitors. It is important to not be the 
+last to adopt new, efficient technology. 
+“But decisions to adopt new 
+technologies and reorganise a busi -
+ness are strategic, business-critical 
+decisions that need to be thought 
+through carefully.”
+One benefit of new technology is 
+that it is easier to put ideas into prac -
+tice and start a business today. This 
+does not require much capital and 
+it is easy to reach out to customers 
+through the internet. But for more 
+people to take advantage of the 
+opportunities we need a new vision 
+of future educational strategies,” 
+says Georg Graetz. 
+“Those responsible must think 
+about how education should be 
+adapted to better prepare people for 
+new technologies. Courses on how 
+to start a business and develop new 
+services, I believe, must have a greater 
+role from the very start of schooling. 
+We need to intensify the focus on 
+skills that are less likely to be replaced 
+by robots, such as analytical abilities, 
+creativity and social interaction, and 
+also the ability to combine these skills. 
+Skilled jobs in research or the 
+humanities are not as easy to reduce 
+to computerised processes. 
+So even though Andy Warhol 
+wanted to be a machine, it is not 
+likely that we will see actors, design -
+ers, engineers, scientists or artists as 
+robots in the near future.GEORG GRAETZ
+Georg Graetz is an assistant 
+professor at the Department 
+of Economics, Uppsala Uni -
+versity. In addition to “Robots 
+at Work”, he has published 
+a number of papers such as 
+“Rise of the Machines: The 
+Effects of Labor-Saving Inno -
+vations on Jobs and Wages” 
+(2015), and “A Question of 
+Degree: The Effects of Degree 
+Class on Labor Market Out -
+comes” (2015), both together 
+with Andy Feng.T
+SOURCES: CB INSIGHT, 2015 & GARTNER, 2015×7
+Global investment in AI-related 
+start-ups has increased  
+sevenfold since 2010.
+20%
+of all business texts, such as 
+press releases, will be written 
+by robots in 2018.310
+MUSD was invested in start-ups 
+related to artificial intelligence 
+(AI) in 2015.
+THOSE RESPONSIBLE 
+MUST THINK ABOUT 
+HOW EDUCATION 
+SHOULD BE ADAPTED 
+TO BETTER PREPARE 
+PEOPLE FOR NEW 
+TECHNOLOGIES.❝
+Facts
+SUSTAINABILITY REPORT 2015  |  19XXXXX
+XXXXXXXX
+Machines  
+are moving into 
+the cloud
+The first cloud wave, with test environments or less  
+business ­critical services has passed. Nowadays, business  
+systems and important industrial services are moving out into 
+the cloud. This is making our industry more efficient. OUTLOOK
+20  |  SUSTAINABILITY REPORT 2015OUTLOOK
+ocally collected 
+data on the 
+health of a robot 
+at a car factory 
+has a low value. 
+But once this in -
+formation is instead aggregated with 
+other robots in the chain, the manu -
+facturer's own data and the owner's 
+production plans, the information 
+suddenly has a new value. 
+“We want to take the data from 
+machines and make predictive analysis: 
+When does the machine need servic -
+ing, what spares are required, does the 
+production line need new robots, and 
+what about insurance?” says Tarmo 
+Pajunen, a Sustainability Ambassador 
+and IoT manager at Cybercom. 
+Gartner predicts that by 2018, six  
+billion connected machines and systems  
+will require ongoing maintenance. 
+And by 2020, thirty-five billion things 
+will be connected to the internet. As 
+a result, companies will be forced to 
+look at machines and systems like 
+customers, and even treat them like 
+customers. The data generated will 
+be plucked up from each machine 
+and processed centrally. In the cloud. 
+“For this to work the data must 
+be stored centrally, where there are 
+databases, computing power and and 
+application program interfaces (APIs) – 
+and of course everything needs to be 
+scalable, so we see a future of machine As machines become ever 
+smarter, so their ability to com -
+municate directly with people 
+expands. Cybercom has there -
+fore developed Machinebook 
+– a social network for machines 
+and people. This network can 
+be used to enhance the effi -
+ciency of industrial and digital 
+services. The network content 
+is produced by both people and 
+machines. 
+In practice, Machinebook can 
+serve, for example, as an alarm 
+when a machine encounters un -
+expected problems. It updates 
+its status on the social network, 
+informing its contacts that it is 
+unable to carry out its tasks, and 
+explains why it is not working. 
+In principle, any machine  
+can be connected to Machine -
+book. Cybercom carries out numerous 
+projects worldwide to improve 
+mobile network capacity and 
+efficiency. We conducted a 
+CAPEX/OPEX analysis to create 
+efficiency improvements for 
+the leading telecom operator in 
+Bangladesh. Cybercom’s analysis 
+identified high fuel consumption 
+in 23% of installed generators, 
+and excess capacity in 88% of 
+new generators, which has a di -
+rect impact on fuel consumption 
+and CO² emissions. Cybercom 
+recommended switching to a 
+hybrid power supply solution, 
+based on solar energy, saving 
+the operator 
+money and 
+providing  
+better sus -
+tainability 
+solutions. dialogue in the cloud,” says Tarmo. 
+Tarmo is one of the people behind 
+the Machinebook concept (see article 
+below). By sharing and reacting to 
+information (imagine Facebook’s 
+thumb), the system learns who is 
+inter ested in, for example, an alarm 
+from a machine. The aim is for infor -
+mation to move from dashboards in 
+a control room to the right operator 
+tasked day-to-day with making 
+sure that production lines and large 
+machinery are working properly. This 
+makes the company less dependent 
+on the skills and availability of an in -
+dividual operator, and instead builds 
+up shared expertise.
+“In the future we hope that 
+machines will be able to learn from 
+people by listening to human conver -
+sations,” says Tarmo. 
+He argues that machines with 
+locally stored data quickly become a 
+problem since storing the infor -
+mation locally means the common 
+information becomes incomplete if a 
+machine loses contact with the net -
+work. And building up the cognitive 
+intelligence to be able to understand 
+what people are saying requires com -
+puting power that cannot be housed 
+in an individual machine. 
+“You don’t want to have the intel -
+ligence physically attached to the ma -
+chine. It also uses unnecessary electrical 
+power and local computer space.”
+According to a survey of 770 
+major European and North American 
+companies conducted by Forrester Re -
+search, more companies are currently 
+evaluating a transfer of their business 
+systems to the cloud. In two years, 
+interest in the cloud grew from 12 to 
+35%. Tarmo believes there is now a 
+similar shift in IoT. This is because the 
+options for local in-house operation 
+are often too expensive and do not 
+perform adequately to provide any 
+benefit from the collective intelligence 
+of all the connected machines. One 
+consequence is that IBM has increased 
+the pace of IoT functionality in its 
+public cloud. 
+“Connected machines themselves 
+are becoming more the norm. The 
+real benefit occurs when this is done 
+in a smart way, thinking about how 
+to improve processes or save money 
+by using all this data,” says Tarmo.YOU DON’T WANT 
+THE INTELLIGENCE 
+ATTACHED TO THE 
+MACHINE. IT USES TOO 
+MUCH ELECTRCITY 
+AND LOCAL COMPUT -
+ER SPACE.❝Social net ­
+works  
+for machines 
+and humansTelecoms  
+and solar  
+energy in 
+Bangladesh
+Tarmo Pajunen 
+Sustainability  
+Ambassador  
+and IoT manager,  
+Cybercom2018
+95%47%
+202050% of the fastest growing  
+companies will have more  
+intelligent machines  
+than employees. 
+of all cloud-related security  
+issues will be due to mistakes  
+in manual handling by  
+the customer in 2020. of all connected devices  
+in 2020 will be able  
+to request their  
+own support. 
+Autonomous software agents, 
+without human supervision,  
+will participate in 5% of all  
+financial transactions. 
+SOURCE: GARTNER, TOP STRATEGIC PREDICTIONS FOR 2016 AND BEYOND
+CaseExplosion of connected machines
+FactsL
+SUSTAINABILITY REPORT 2015  |  21     
+In a rapidly changing world, we are a 
+reliable and trustworthy business partner 
+that understands our clients’ businesses 
+and business models. We can be a partner  
+throughout the entire lifecycle of a project.  
+Our advisory services create the foundation  
+of a business relationship. Thanks to 
+our knowledge of the opportunities and 
+challenges of digitalisation we can put the right solutions into practice. Through 
+our cloud services we can optimise data 
+storage and ensure excellent service 24/7. 
+Our experience in developing systems for 
+strong new business models, with a focus 
+on innovation and sustainability, allows 
+us to work with clients to facilitate their 
+delivery of the transformative solutions 
+required in the 21st century.
+How 
+Cybercom 
+creates value 
+in societyTHE CONNECTED
+WORLD
+22  |  SUSTAINABILITY REPORT 2015THE CONNECTED
+WORLD
+ybercom offers business 
+consulting with a deep 
+understanding of the 
+situation of our clients. 
+By combining technical 
+expertise and sound 
+business insight, we offer innovative and 
+sustainable solutions. We achieve this based 
+on our extensive knowledge of how society 
+is changing in a connected world, combined 
+with our capacity and ability to implement 
+technological solutions based on the individual 
+situations of different organisations. 
+We work with advisory offerings through 
+iterative and agile business development that 
+does not require the investment of large sums, 
+and instead conduct concept development in 
+small steps, testing our way forward, evaluating 
+and validating every move taken. This requires 
+different types of initiative, depending on the 
+position of the client in their digital infrastruc -
+ture and expertise. At an early stage, the first 
+step is to ask how to best take advantage of 
+the opportunities provided by digitalisation, 
+what the company’s current situation looks like, 
+and what are the most strategic steps forward 
+in order to benefit from these new opportuni -
+ties; why investment should be made to con -
+nect a product or service, or to change the way 
+of communicating with clients. For example, 
+a simple first step could be to make material 
+available on the internet, providing opportuni -
+ties for increased interactivity and transparency, 
+with both customers and employees becoming 
+an integral part of business development. 
+It is possible, for example, to provide digital 
+customer services more simply than people 
+believe, by launching an app. This provides a 
+much better opportunity for an organisation 
+to achieve its goals. After an initial review, and 
+once the first measures have been implement -
+ed, the aim is to create new business models. 
+In fact, it is rare that a company’s offering is its 
+product but, rather, it is the solution to a prob -
+lem experienced by the end user. Shifting from 
+a product to a service, or to a service combined with a strategy for digitalisation, most often 
+opens up major opportunities. 
+Something that distinguishes Cybercom 
+from many other companies is that we look 
+at the whole lifecycle of a service. This has 
+proven highly successful, and Cybercom is 
+now growing rapidly thanks to our ability 
+to connect the client's business value while 
+delivering a technology-neutral platform and 
+implementation support, even in organisations 
+that do not have an interest in technology. We 
+also help clients to maintain and manage their 
+systems effectively, such as in our own cloud 
+solution, or by using third-party solutions. 
+With Cybercom, the realisation of a new 
+business model is not just an assumption, but 
+a natural part of the company's development 
+in a connected world. 
+We have packaged Cybercom’s expertise 
+and experience into four areas where  
+we believe we create the most value for 
+our clients: 
+SECURE CONNECTIVITY
+Cybercom is laying the foundation of a connect -
+ed world with secure and reliable data process -
+ing. The people who use these solutions need 
+to be sure that their data is secure and is used in 
+the way intended. Customer information must 
+not get into the wrong hands. Despite this, 
+security solutions are often given far too little 
+priority. At Cybercom this is part of our DNA. 
+MANAGED CLOUD 
+Ensuring that a business can be in the cloud 
+is almost a given these days, with smarter 
+data storage. However, it is important this 
+transition takes place in a strategic manner 
+and that the opportunities it provides are 
+utilised. Everything from new opportunities for 
+collaboration to reduced costs for document 
+and data management, and storage. We also provide secure and environmentally sustain -
+able storage in a Nordic environment. 
+INTERNET OF THINGS
+Not only people, but also products and ma -
+chines, are becoming connected at an expo -
+nential pace. This creates entirely new oppor -
+tunities, and also contributes to the challenges 
+that need to be addressed. Cybercom has 
+world-leading expertise when it comes to 
+technology, trends, and how organisations 
+can benefit from the opportunities of being 
+connected. Together with our clients, through 
+inspiring seminars, workshops for innovation 
+and business case modelling, feasibility studies 
+and prototypes, we create new services and 
+new products that improve the efficiency of 
+resources, and automate and open the door 
+to new markets. 
+DIGITALISATION
+Our society is undergoing a transformation as 
+significant as when we moved from agricul -
+ture to industry. In our day-to-day lives it is 
+easy to miss the enormous changes we are 
+going through, and equally easy to fall behind 
+if we focus on just doing the same things but 
+marginally better. Cybercom has extensive 
+experience in working with companies and 
+organisations to help draw the best possible 
+benefit from these opportunities. This is all 
+about new thinking, creating the unexpected. 
+In our conversations with clients, these four 
+areas are often combined into a sustainable 
+strategy that not only directly contributes 
+to the immediate objectives of businesses 
+and organisations, but also helps to deliver 
+on global sustainability goals. Unlike many 
+initiatives labelled as sustainable, strategic 
+IT solutions provide an opportunity to bring 
+together increased revenues, reduced costs, 
+improved productivity, accelerated innovation 
+and globally sustainable solutions.C
+SUSTAINABILITY REPORT 2015  |  23A
+XXXXX
+XXXXXXXXSECURE
+24  |  SUSTAINABILITY REPORT 2015B
+XXXXX
+XXXXXXXXSECURE
+Secure and connected
+We always consider both the function and 
+the security of our sol ution s. This improves 
+security for both you and your customers.  
+Rashin, Bengt, Lars, Sandra, Pär, Linda and Andreas are some of Cybercom's dedicated  
+makers in security. Their view is clear: “Technological developments in recent years have 
+brought new ways of consuming goods, services and information, which in turn places new 
+demands on companies and organisations. Our solutions always take into account privacy 
+and security, fundamentals that future operations must be based on.”
+SUSTAINABILITY REPORT 2015  |  25     
+THE CONNECTED
+WORLD
+We are driving development in the right  
+direction and at an increased pace. We address 
+our clients based on four strong societal trends 
+that we monitor, and where we are experts  
+from a connected perspective. Digitalisation affects not only the industrial charac -
+teristics of products, but also what business models 
+are relevant. Connected industry is largely about 
+servicification. An important aspect for achieving 
+success is that it often requires a fundamental shift 
+in the perception of how to create value for the 
+end customer. When a product is connected, allow -
+ing the collection and analysis of data, it becomes 
+possible to optimise and streamline its use from 
+a management perspective. Individual contexts 
+become connected contexts, where everything is 
+optimised in systems rather than in an individual 
+product. Key sustainability impacts include greater 
+security and reduced energy consumption. To 
+ensure its long-term competitiveness, industry 
+must embrace sustainability and digitalisation, two 
+keywords in future corporate positioning. With 
+our advisory services, we help companies with 
+feasibility studies and implementation to position 
+their services in the connected world.  
+➔ Read more about how we helped Heliospectra 
+with smart greenhouse cultivation overleaf.Connected  
+Industry
+The path to a  
+new tomorrow
+26  |  SUSTAINABILITY REPORT 2015     
+THE CONNECTED
+WORLD
+The spread of digitalisation changes the rela -
+tionship between companies and consumers. A 
+company no longer sells a product, but rather a 
+solution to a customer problem. What were previ -
+ously associated services could tomorrow become 
+more profitable than the product itself. Business 
+models are changing, and companies need to 
+adapt to existing trends such as social media and 
+online commerce. But new trends like smart homes 
+are also rapidly emerging. It is likely that different 
+ecosystems of owners and participants will emerge. 
+For example, security solutions installed in homes 
+could become ecosystems that can also be carriers 
+of connected services from other suppliers, such as 
+health monitoring or secure transfer of single-use 
+codes for locked doors for home deliveries. Ikea, 
+Apple and Google are examples of strong players 
+that may take control of ecosystems in smart 
+homes. Cybercom is able to deliver the technical 
+solutions for future ecosystems, and manage them 
+in flexible cloud services.
+➔ Read more about the connected consumer  
+and our advisory testing together with SVP World -
+wide overleaf. A hundred years ago there were only twelve 
+cities in the world with a population greater than 
+one million. Today there are over 500, and that 
+number is growing. This brings greater problems 
+of overload in areas such as energy, infrastruc -
+ture and waste management. Digitalisation is 
+quite simply essential to make better use of our 
+resources, intelligently, sustainably, and in an 
+ethically defensible way in urban life. Smart homes 
+are the close perspective, and many smart homes 
+create the building blocks of a smart city, with 
+even more efficient functions. The city becomes 
+a device, able to control how it uses energy most 
+efficiently, to avoid traffic jams or manage electric 
+driverless cars that communicate with each other 
+and with their surroundings. All this will also affect 
+corporate business models and the relationships 
+between the customer and industry, which the city 
+must embrace and become a part of. We have an 
+important role to play in this as an enabler, with the 
+combination of our understanding of the connect -
+ed world and our technical expertise.
+➔ Read more about how we supported the Elec -
+triCity research project in Gothenburg overleaf. Society faces a huge challenge in the expectations 
+of its citizens for digitalisation, apps, communica -
+tion in many different channels, paperless forms, 
+and the ability to easily interact with the communi -
+ty. This places completely new demands on public 
+authorities in terms of mind-set and the building 
+of systems, not only for ease of use, but also for 
+security, identity management, sustainability and 
+compliance, which must all be managed from a 
+totally new perspective. One important trend is the 
+aging population, with a rising dependency ratio. 
+Should we use digitalised solutions such as health 
+monitoring and automation? This is an interdiscipli -
+nary challenge with ethical, technological, political, 
+economic, and business perspectives brought to 
+the fore, and as advisors we must be able to handle 
+every aspect. 
+➔ Read more about Cybercom’s ventures in 
+electronic identification and Suomi.fi, which will be 
+the new portal for all governmental authorities in 
+Finland, overleaf. Connected  
+CityConnected  
+ConsumerConnected  
+Citizen
+SUSTAINABILITY REPORT 2015  |  27THE CONNECTED
+WORLD
+A portal for all  
+government services
+aking public sector services digital 
+is one of the most important devel -
+opment projects in today's society. 
+Transparency, accessibility and security are 
+the foundation of the national IT project in 
+Finland, in which Cybercom has a key role. 
+The aim is to gather together public and 
+private services, making it easier for citizens to 
+manage their affairs. The project also includes 
+an identification service for which Cybercom 
+has developed a framework for secure iden -
+tification. The system’s rights management 
+permits automatic identification of individuals 
+authorised to handle information on behalf of 
+others. 
+“All the data and essential public services 
+will now be available in one place with one 
+login at Suomi.fi,” says Timo Laaksonen, 
+head of the Media and Public business unit at 
+Cybercom Finland. Filing a tax return, voting 
+or exercising other rights and obligations will 
+be simple and easy using the portal. It will also 
+be possible to link in private services, such as 
+health and electricity consumption.
+Improved security, faster processing, less risk 
+for error and reduced crime rates are major 
+factors in the project, as is sustainability.  
+The system is expected to generate major  
+environmental benefits 
+through electronic docu -
+ment processing, thus elimi -
+nating the costs of printing, 
+delivery and storage of 
+documents. wedish start-up company Helio -
+spectra develops intelligent lighting 
+technology for greenhouse cultiva -
+tion. By using a specific lighting combination 
+for each species, growers are able to fine-tune 
+appearance, taste and growth, and thus en -
+hance quality and reduce waste in production. 
+At times when there is strong natural sunlight, 
+Heliospectra’s LED lamps can be wirelessly 
+powered down, and then be powered back up 
+in cloudy weather. This is a big step in terms 
+of sustainability performance compared with 
+existing greenhouse lighting .
+Cybercom has conducted a number of pilot 
+studies, including a project to investigate how 
+sensors can be used to measure light frequency, 
+light strength, temperature and humidity close 
+to the plants. This makes it possible to dynam -
+ically control each lamp to accommodate the 
+illuminated plants’ specific needs, and to opti -
+mise the frequency and light level. Cybercom 
+has also developed a solution to capture 3D 
+imaging of the plants to allow growth compari -
+son under differing light conditions. 
+Staffan Hillberg, CEO Heliospectra: 
+“We have worked with Cybercom on 
+several projects. They are innovative and think 
+outside the box, and I appreciate that they get 
+us to think in new ways.” 
+Heliospectra has won 
+several accolades, including 
+the WWF’s Climate Solver 
+award for its unique lighting 
+technology.Smart greenhouses  
+offer efficient cultivationThe world's most  
+advanced sewing machine
+VP Worldwide is the world's largest 
+manufacturer of sewing machines 
+for the consumer market, and 
+specialises in the design, manufacture and dis -
+tribution of innovative consumer machines for 
+sewing and embroidery, as well as accessories 
+and software. The company’s most advanced 
+high-end sewing machines are manufac -
+tured at the plant in Huskvarna, in southern 
+Sweden. 
+When SVP Worldwide decided to equip 
+its most advanced sewing machine, the 
+Husqvarna Viking Designer Epic, with internet 
+connectivity, it needed a reliable partner 
+with extensive experience in the design and 
+implementation of solutions for the Internet of 
+Things. SVP Worldwide chose Cybercom as its 
+connectivity partner, and the collaboration be -
+gan with several cross-functional workshops. 
+Cybercom supported SVP by defining 
+the online functionality and architecture. 
+Cybercom was also responsible for implemen -
+tation of the IoT system, which consists of a 
+back-end solution, a cross-platform mobile 
+application and a communications module 
+inside the machine.
+SVP Worldwide launched the Husqvarna 
+Viking Designer Epic in October 2015, with 
+internet connectivity and 
+ease of use as two of its key 
+functions. The launch was 
+a success, and the online 
+features have contributed to 
+its sales achievements.Online functionality made the sewing 
+machine a sales success.Half the energy consumption with  
+intelligent lighting technology.Large savings and a better overview  
+of the Finnish public sector.Connected Citizen Connected Industry Connected Consumer
+M S S
+28  |  SUSTAINABILITY REPORT 2015THE CONNECTED
+WORLD
+ogether with others, including the 
+City of Gothenburg, Cybercom is 
+developing the ElectriCity project 
+– an exciting collaboration in which science 
+and the public sector are developing new 
+solutions for the sustainable public transport 
+of tomorrow. ElectriCity is an arena for the 
+testing of new products and services in public 
+transport, intended to act as a source of inspi -
+ration for future city development. The new 
+number 55 bus route is operated using quiet, A journey into the future 
+of public transportemission-free buses that pick up passengers 
+inside the terminal stations and are powered 
+by renewable electricity. 
+Together with its partners, Cybercom has 
+developed the project’s IT environment. The IT 
+environment provides users of public transport 
+with access to entirely new services and infor -
+mation from the vehicles. During an innova -
+tion competition held in 2015, it was possible 
+to download data from the entire western 
+traffic region so that participating teams could 
+build applications to further improve public 
+transport. The system also includes plans for 
+a car pool and a bicycle pool. ElectriCity has 
+won awards including The European Solar 
+Prize 2015 in the Transport and Mobility cat -
+egory. The motivation was 
+“Exemplary supply of public 
+transport with renewable 
+energy as part of a cooper -
+ation between city, industry 
+and science”. Gothenburg’s ElectriCity project is  
+developing public transport using  
+renewable energy.Connected City
+T
+SUSTAINABILITY REPORT 2015  |  29EMPLOYEES
+Our ability to attract 
+and retain skilled 
+employees is closely 
+associated with the 
+company's power of 
+innovation and our 
+capacity to offer excit ­
+ing projects that mean 
+something to wider 
+society. Our goal is 
+for every employee to 
+have more skills when 
+they leave us than 
+when they joined us. ybercom’s focus during the 
+year has been on diversity 
+management, skills devel -
+opment and internal career 
+paths. Our stance is that each 
+employee should have more expertise when 
+they leave us than when they joined us, and 
+they should have had fun along the way. 
+Employee experience
+As we demand more experiences in our private 
+lives, thanks to digitalisation and connectivity, 
+so we come to expect the same in the work -
+place. Tailored development and a personal 
+connection to our careers are becoming  
+increasingly important. Cybercom works  
+actively to improve the employee experi -
+ence on many levels. Skills development, the 
+working environment, meritocracy and good 
+development opportunities are important 
+elements at work, and are regularly provided 
+within the framework of training opportunities 
+and improvement initiatives. One of the key 
+elements of the employee experience is to 
+offer co-workers enjoyable, challenging and 
+important assignments in which they have an 
+opportunity to develop. 
+Diversity and equality
+Convinced that greater diversity is a critical 
+success factor, Cybercom has worked for 
+many years to expand the diversity of its 
+employees. Today, a large percentage of 
+Cybercom's employees have an international 
+background, and we are working to enhance this through initiatives such as participation in 
+projects like LinkedIn’s Welcome Talent  
+(see page 33). Our voice in the community 
+is heard in many ways, and we have been 
+invited by companies and organisations to join 
+important conversations. During a previous 
+visit to Sweden, UN Secretary-General Ban 
+Ki-moon was elected to visit Cybercom as a 
+result of our work with labour migration. We 
+have welcomed interns for a number of years, 
+and over the winter we employed a refugee 
+from Syria. 
+Gender equality is an important part of 
+diversity. Cybercom’s long-term goal is to 
+equalise the proportion of men and women 
+among overall employees and in manage -
+ment. The proportion of female employees 
+in the company at the end of 2015 was 17 % 
+(17). We are now setting our long-term goal at 
+30 %. In 2015, the AllBright Foundation rec -
+ognised us as best in our industry (technology) 
+with regard to the proportion of women in 
+leadership positions, with 36 % women in the 
+senior leadership team. (AllBright, March 2015 
+“Done reducing: time for competence”). 
+Strong leadership
+Strengthening competitiveness requires 
+professional leaders. Cybercom’s manage -
+ment has evolved significantly in recent years, 
+largely thanks to a strong focus on leadership 
+and training. In our Cybercom People Voice 
+employee satisfaction survey, 75 % of employ -
+ees rate the management as 4 or 5. In 2015, 
+this leadership rating formed a component C
+30  |  SUSTAINABILITY REPORT 2015EMPLOYEES
+l Sweden 63% 
+l Poland 17% 
+l Finland 16%
+l India, 2% 
+l Singapore 1% 
+l Denmark 1%
+l Female 17%
+l Male 83%Gender distribution, employeesNumber of employees by countryof performance pay for managers, as a clear 
+marker of the importance of good leadership. 
+Supply of skills
+During the year, Cybercom launched its Boost -
+ing Your Development skills programme. This 
+programme is rooted in each individual taking 
+personal responsibility for their development, 
+and a key component is training on assign -
+ment with clients alongside senior colleagues. 
+We invite and challenge our employees to 
+prepare for future opportunities and expand 
+their capabilities. We provide Innovation 
+Zones where employees can develop between 
+assignments, such as by taking part in assign -ments that are not time critical and that allow 
+for learning along the way. 
+Personal development, or helping to 
+train someone else, means that we have to 
+welcome a new way of thinking about how 
+a career is formed. By offering a range of 
+possibilities, careers can move around, go up, 
+go down, jump forward and go around again. 
+Modern career development looks more like a 
+climbing wall than a ladder. We have identified 
+a number of potential development paths that 
+a consultant can choose, and within each path 
+there are a number of areas for development, 
+within which employees can choose to broad -
+en their knowledge in new areas or enhance 
+their specialist knowledge in a specific area. 
+Activity-based offices
+If anything, our physical environment will 
+become even more important in future. Cyber -
+com already has several activity-based offices, 
+and these are constantly being developed 
+with the idea that our environment should be 
+playful and fun in order to inspire innovation 
+and development. 
+We believe it is critical that our jobs should 
+provide energy so that employees have the 
+dynamism and strength to do things in their 
+free time that develop them. We offer our 
+employees many opportunities for leisure 
+activities. Our CyberFri programme sets aside 
+money each year so that employees can apply 
+for funding for shared activities, such as exer -
+cising, running races, or starting a photo club 
+or a cultural organisation.OUR GOAL IS TO PROVIDE  
+ALL EMPLOYEES WITH  
+OPPORTUNITIES FOR ONGOING 
+DEVELOPMENT IN ORDER  
+TO ACHIEVE THEIR FULL  
+POTENTIAL AND OUR  
+FULL POTENTIAL.❝
+Charlotte Siversson 
+Sustainability Ambassador  
+and HR Partner, Cybercom
+l Female 36%
+l Male 64%Gender distribution, senior  
+management team
+SUSTAINABILITY REPORT 2015  |  31EMPLOYEES
+EMPLOYEES IN NUMBERS
+Percentage of employees with  
+a university degree90%
+Average experience11 YEARS
+Average length of employment5 YEARS
+Average age38 YEARS
+Average sick leave2.2%
+Percentage of employees covered  
+by collective bargaining agreements77%Hello World! 
+promotes digital 
+creativity
+Universeum in Gothenburg houses science 
+exhibitions, technology experiments, aquar -
+iums, and a lot of rainforest. Using a variety 
+of initiatives and exhibits, Universeum actively 
+strives to develop the curiosity of children and 
+young people in science and technology. When 
+they faced the challenge of developing a new 
+and attractive solution for their website they 
+contacted Cybercom. The objective 
+was to make the site an integral part 
+of the Universeum experience, and to 
+capture the interest of young people 
+both before and after they visit the 
+10,000 square-metre science centre. 
+In line with Universeum’s goal of 
+making knowledge available and of raising 
+awareness that inspires young people to learn 
+more about technology, Cybercom chose to 
+develop a visually appealing and responsive 
+site, built using open-source code, using 
+image-rich content to reflect the social media 
+experiences of young people. The new site has 
+been very well received since its launch, and 
+was recently named best tourism website 2016 
+by Internetworld.
+Read more at  
+www.universeum.sePrize­winning 
+website for  
+Universeum 
+Hello World! is a new non-profit organisation 
+with the purpose of promoting digital creativity in 
+children and young people. Cybercom is one of 
+the main sponsors of this association, which aims 
+to educate 10,000 young people by 2020. Op -
+erations concentrate on running camps during 
+school holidays and at weekends, where children 
+and young people meet and help each other us -
+ing a virtual mentoring platform and are 
+coached by experienced programmers. 
+The association's goal is for Sweden 
+to have sufficient IT skills in the future 
+in order to secure competitiveness, by 
+making digital creativity easily access-
+ible to all young people regardless of 
+their prior knowledge.
+The main idea is that knowledge of program -
+ming develops creativity and logical thinking. 
+and participants are also able to apply and devel -
+op their maths skills and practice their English. 
+Hello World! engages with Swedish business and 
+industry, universities, foundations, the public sec -
+tor and other non-profit organisations in order 
+to collaboratively make the activities available to 
+children and young people across the country. 
+Read more at  
+www.helloworld.se
+32  |  SUSTAINABILITY REPORT 2015EMPLOYEES
+LinkedIn has launched an initiative 
+called Welcome Talent, which is intend -
+ed to assist asylum seekers and new 
+arrivals to find internships in Sweden. 
+It contributes to rapid and improved 
+integration, and allows businesses to 
+grow using skills that are in short supply 
+in Sweden. Programmers are the most 
+common profession in Stockholm, and 
+demand is increasing every day. A skills 
+shortage of 60,000 IT professionals is 
+expected by 2020, and the competition 
+for talent is already very intense. Mean -
+while, the IT world speaks a universal 
+language, without borders between 
+countries, cultures, genders, social back -
+grounds, ages or religions. 
+The greatest benefit that business 
+can offer in integrating newcomers is to 
+welcome them into our companies. This 
+is an important element in being able 
+to address the large flow of refugees. 
+We are taking our responsibility at 
+Cybercom, and we 
+would encourage 
+more companies to do 
+the same – it enriches 
+us and helps us to find 
+new talent.Welcome  
+Talent
+Our regular employee survey, Cybercom 
+People Voice, is an important tool to 
+measure how our workers feel about 
+their employee experience, their em -
+ployer and their situation. 
+The 2015 survey shows a high value 
+for employee engagement, of 66% 
+compared with the industry average 
+of 59%. Cybercom’s leadership index 
+has increased from 69% to 75% in one 
+year, and is significantly higher than the 
+industry index of 63%. 
+In total, over 80% of employees took 
+part in this year’s survey. People 
+Voice
+201330
+2226
+1483%17%20%
+33%
+80%67%
+2634
+2014 2015Composition of Cybercom 
+Average number of training hoursl MALE 
+l MALEl FEMALE
+l FEMALE276
+696
+1491
+75
+210
+7
+2Other employees Managers Board of directors
+<30
+30–50
+>50<30
+30–50
+>50<30
+30–50
+>50AGE AGE AGE NUMBER NUMBER NUMBER
+SUSTAINABILITY REPORT 2015  |  33A
+XXXXX
+XXXXXXXX
+More with less
+Connectivity creates smarter  
+products that require fewer resources.  
+This means a cleaner world. 
+Right now, Mattias Allring is on parental leave. Normally he works as a consultant and 
+business developer at Cybercom in Gothenburg. “One of our key areas of focus is 
+long-term sustainability. As an advisor, I have a great opportunity to make a  
+difference by influencing our clients, and thus their users and customers. We help  
+our clients to create more sustainable solutions by achieving cost savings, lower  
+energy consumption and reduced resource consumption.”CLEAN
+34  |  SUSTAINABILITY REPORT 2015B
+XXXXX
+XXXXXXXXCLEAN
+SUSTAINABILITY REPORT 2015  |  35CORPORATE  
+RESPONSIBILITY
+Ethics, security  
+and open borders 
+ccording to the Human Rights 
+Watch World Report 2015, 
+which describes the risk of 
+human rights violations in 
+different countries, there 
+are risks in the United Arab Emirates (Dubai), 
+including restrictions on free expression and 
+association. The risks in India and Singapore 
+include those related to discrimination based 
+on gender, cast (India) or sexual orientation. 
+We maintain awareness of this as we have a 
+presence in these countries. 
+Our actions
+We make use of the Business Anti-Corruption 
+Portal, developed by a number of European 
+governments and a practical tool to help 
+companies avoid and combat corruption, 
+thereby creating a better business climate. The 
+portal suggests that bribery and corruption are 
+widespread in India, although efforts are being 
+made to combat this. Poland still has a cor -
+ruption problem among companies, although 
+it is said that the risk levels have decreased in 
+recent years. Events in the Nordic countries 
+have also shown that risks must be constantly 
+highlighted and countered. Transparency is 
+important. 
+Since Cybercom requires that the organisa -
+tion be imbued with high ethical standards, 
+our employees must, from 2014, complete an 
+online course on anti-corruption. The training is based on our code of business ethics 
+and conduct, and includes various possible 
+dilemmas to consider. The training has been 
+completed by 626 employees. The course has 
+received very positive feedback from partici -
+pants, and there is substantial commitment to 
+the issues. Cybercom has not experienced any 
+cases of corruption or discrimination in 2015. 
+Cybercom's code of conduct is based on 
+the ten principles of the UN Global Compact 
+on human rights, labour, the environment 
+and anti-corruption. All employees review the 
+code upon recruitment. The code was adapted 
+in 2012 to also apply to suppliers. During the 
+year we continued our efforts to get all our 
+partners and suppliers to sign our code of 
+conduct and to monitor compliance with the 
+code. The company's partner consultants and 
+suppliers receive the code appended to the 
+agreements they sign. 
+Information security
+For Cybercom, information security means 
+our ability to ensure the necessary confiden -
+tiality, integrity and availability of our internal 
+systems and information, and the systems and 
+information of our clients. Cybercom’s systems 
+and clients’ systems should be managed in a 
+safe manner, and the effect of any security in -
+cidents should not risk serious damage to our 
+own business or the business of our clients. 
+We have worked systematically with infor -High ethical standards should permeate our business 
+and our operations. Our actions are governed by our  
+code of conduct in all countries in which we operate,  
+and business ethics are a standing item on the agenda  
+of the leadership team. mation security for many years. The starting 
+point is our information security policy issued 
+by management, which is reviewed and 
+verified annually. Work on information security 
+is planned, implemented and monitored 
+by a designated security group with clear 
+descriptions of responsibilities and mandates. 
+The security group works with the principle of 
+distributed responsibility. Cybercom Sweden's 
+Chief Security Officer (CSO) has overall re -
+sponsibility for the planning, implementation 
+and monitoring. 
+The actual work on information security is 
+then divided into five different areas: overall 
+information security; work related to HR; work 
+related to premises and physical security; work 
+related to IS/IT; and work associated with the 
+various management functions. Our CSO is 
+directly responsible for the work in the two 
+areas of overall information security and the 
+management functions. 
+Cybercom’s efforts to ensure information 
+security are based on our information security 
+guidelines. This work is monitored and evaluat -
+ed through both internal and external audits. 
+Client privacy
+A connected world makes it possible to 
+gather, exchange, store and otherwise process 
+information and personal data in new and in -
+novative ways, and to a far greater extent than 
+has previously been possible. Cybercom works 
+actively to ensure compliance with the existing 
+regulations for protection of privacy as well as 
+the new, tougher rules that must be complied 
+with by 2018 in accordance with the EU’s Data 
+Protection Regulation. This work is conducted 
+both internally and on assignment for clients. 
+Cybercom has not experienced any losses of 
+client data in 2015. A
+36  |  SUSTAINABILITY REPORT 2015CORPORATE  
+RESPONSIBILITY
+When the Swedish Institute organises management programmes in leadership  
+development, sustainability and corporate responsibility for young and talented  
+African company managers, it chooses Cybercom as its host company. For the sec -
+ond year in a row, business leaders in ICT from Ethiopia, Rwanda and Zambia visited 
+Cybercom in Stockholm to share our knowledge of, and experience in,  
+sustainability issues, electronic identity solutions, eHealth and IT security.Host company for  
+Swedish Institute 
+A CONNECTED WORLD 
+STRENGTHENS HUMANS, 
+THE ENVIRONMENT, BUSI -
+NESS AND SOCIETY . IT EN -
+HANCES THE EXCHANGE OF 
+KNOWLEDGE AND CREATES 
+DEMOCRACIES IN OUR SO -
+CIETY – AND IN COMMUNI -
+TIES DISTANT FROM OURS.
+ur sustainability work builds on 
+the UN Global Compact, the 
+17 Global Goals for Sustainable 
+Development, and our code of business 
+ethics and conduct. Cybercom should act 
+responsibly in all countries and in all con -
+texts in which we operate. Management 
+has defined our responsibility and leads 
+the work. The focus is on sustainable 
+business, engaged employees and a high 
+level of ethics. Alongside their regular 
+assignments, a team of annually selected 
+Sustainability Ambassadors works 
+together with our Head of Communica -
+tions, Kristina Cato, to extend knowledge 
+about this internally and drive sustainabil -
+ity work operationally in the company's 
+various regions. Associated annual goals 
+and projects are adopted together with 
+leadership in ongoing dialogue. ❝
+We support the activities of SOS Children's 
+Villages in Rwanda to train teachers in 
+subject knowledge, teaching and com -
+puter skills. Cybercom is a knowledge 
+company with international assignments, 
+and as such we want to contribute to 
+knowledge development in a coun -
+try where we have business projects. 
+Education is the foundation for a child's 
+intellectual, emotional, social and physi -
+cal development. It is essential for being 
+released from poverty. Cybercom has 
+developed mobile networks for an inter -Cybercom in Rwanda
+national operator in Rwanda, and now 
+children use these networks to search for 
+information for their school work. 
+Borderless knowledge sharing
+When CEO Niklas Flyborg and our 
+Sustainability Ambassadors visited SOS 
+Children’s Villages in Rwanda during the 
+year, they inspected computer labs and 
+school activities funded by Cybercom. 
+Cybercom’s representatives also gave 
+presentations about online security and 
+e-identification at KLab (klab.rw), an inno -
+vation zone for engineers and entrepre -
+neurs. Opportunities were discussed with 
+the Swedish embassy surrounding sup -
+port for the process of digitalisation in the 
+country. Meetings were held with Rwanda 
+Online (rwandaonline.rw) and the director 
+general of the national ID authority. On 
+the agenda were national e-ID solutions. 
+ICT is important for Rwanda’s economic 
+development Vision 2020. We also went 
+on a hike to see mountain gorillas in the 
+Volcanoes National Park, led by local 
+guides. The money from the hike goes to 
+preserving endangered gorilla troops. O
+SUSTAINABILITY REPORT 2015  |  37ir travel accounts for the 
+largest portion of Cyber -
+com's carbon dioxide emis -
+sions, and we have there -
+fore had a target to reduce 
+emissions from air travel by 
+at least five percent per sales krona between 
+2011 and 2015. We are pleased and proud to 
+announce that we achieved our target, after 
+reducing our emissions from air travel by 56% 
+since 2011, mainly through fewer long-haul 
+flights. One reason that we have managed to 
+reduce travel is that we invested in an IT-based 
+communication tool with the aim of replacing 
+non-essential physical meetings with videocon -
+ferencing. This has produced good results, and 
+in 2015 more than 57,792 videoconferences 
+were held. Some other examples of measures 
+taken to reduce our environmental impact are: •  Old IT equipment is sold for reuse or  
+recycling. 
+•  Printers are set to duplex printing, and  
+employees are encouraged to work digitally. 
+•  Waste is sorted at source in our offices.  
+•  We buy renewable electricity in all countries 
+except Poland.  
+In addition to Cybercom’s quality assurance 
+and ISO 9001 certification, we are also work -
+ing on ISO 14001 environmental certification. Cybercom’s greatest potential lies in developing  
+offerings that can contribute to sustainable  
+development, but of course we also work actively 
+to reduce our own environmental impact.Environmental 
+efforts
+0.00.20.40.60.8
+2011 2012 2013 2014 201502004006008001 000Tonnes CO2 Kg CO2/SEKm
+l Carbon dioxide emissions   l Carbon dioxide emissions/salesCarbon dioxide emissions from air travelAThe focus at the certified offices is to train 
+personnel through a web-based course from 
+Eco Educate. An environmental survey is con -
+ducted every year, and forms the basis of the 
+company’s environmental efforts. In conjunc -
+tion with the survey we conduct a test called 
+the Climate Account. The Climate Account is 
+intended to raise people’s awareness of their 
+own individual climate impact in their daily 
+lives, and how they can reduce it.
+WE STRIVE TO ACHIEVE A POSITIVE  
+ENVIRONMENTAL IMPACT SO THAT OUR  
+SOLUTIONS AND THE DIRECT IMPACT 
+OF ALL OUR OPERATIONS  
+ARE NET POSITIVE. ❝
+Rashin Kabodvand 
+Sustainability Ambassador 
+and Consultant, Cybercom 57, 792
+Number of virtual meetings 2015 (18,172 in 2014) ENVIRONMENTAL 
+EFFORTS
+38  |  SUSTAINABILITY REPORT 2015 
+CODE OF CONDUCT
+1. Comply with laws  
+and regulations
+All Cybercom employees are respon -
+sible for acting in compliance with 
+laws and regulations applicable to 
+Cybercom’s operations and deliv -
+eries. In the event of an individual 
+issue demanding it, they will seek 
+legal advice. Cybercom applies 
+the Swedish Code of Corporate 
+Governance. Cybercom presents 
+and reports corporate information in 
+compliance with applicable laws and 
+regulations.
+2. Human rights
+Cybercom respects human rights as 
+laid down in UN conventions. Every -
+body in the organisation must show 
+respect for the integrity and dignity 
+of all people. Cybercom will not in 
+any way contribute to the violation 
+of human rights. 
+3. Labour law and working  
+conditions
+Cybercom supports freedom of as -
+sociation and the right to collective 
+bargaining.
+Cybercom does not permit child la -
+bour. Cybercom applies the principle 
+that a child is a person younger than 
+15 years of age unless national leg -
+islation states an older age, in which 
+case the older age applies. Cybercom 
+applies the definition of child labour 
+as laid down by the International 
+Labour Organisation (ILO).
+Cybercom does not tolerate any 
+forms of discrimination. All employ -
+ees have equal rights and must never 
+be subjected to unjust treatment 
+due to gender, sexual orientation, 
+ethnic origin, religion, beliefs, polit -ical affiliation or disability. All em -
+ployees must show respect for each 
+other and for Cybercom’s business 
+partners and will take responsibility 
+for combating discrimination. Cyber -
+com works unabatedly to combat 
+discrimination. This permeates the 
+company’s policies and processes 
+during, for example, recruitment, 
+setting of wage rates, and skills 
+enhancement. 
+Cybercom offers salaries that com -
+ply with the minimum wage, as laid 
+down in national legislation, with 
+correctly prepared employment con -
+tracts. Cybercom also ensures that 
+working hours are compliant with 
+local legislation. Cybercom seeks to 
+give all employees time for rest.
+Cybercom shall not in any way 
+utilise forced labour and will always 
+ensure that the working relationship 
+between employee and organisation 
+is at the employee’s own free will.
+4. Health and safety
+Cybercom shall provide a healthy 
+and safe workplace in compliance 
+with internationally acknowledged 
+standards. Cybercom works pro -
+actively to prevent accidents and 
+work-related illnesses. All employees 
+are offered health and safety train -
+ing when and if required.
+5. Environment
+Our aim is to minimise the compa -
+ny’s negative environmental impact. 
+Cybercom respects the precaution -
+ary principle and seeks to actively 
+contribute to reducing negative envi -
+ronmental impact through respon -
+sible measures and technological 
+advancement. Cybercom always acts in compliance with laws and interna -
+tionally recognised directives. 
+6.  Corruption and other  
+prohibited business practices
+Cybercom complies with the Swed -
+ish Anti-Corruption Institute’s Code 
+of Gifts, Rewards and other Benefits 
+in Business, and works actively to 
+combat corruption and unethical 
+practices. Employees must not give 
+or receive gifts, benefits or bribes 
+that constitute a breach of this code. 
+Cybercom is politically independent 
+and does not sponsor political 
+organisations. Cybercom is opposed 
+to any form of money laundering 
+and has taken the relevant measures 
+to prevent financial transactions that 
+are of criminal intent.
+7. Promote accurate disclosure 
+in financial reports and other 
+public communications
+Cybercom shall be transparent and 
+provide relevant information when 
+so required. This means that the 
+company shall always provide fair 
+and correct information. Cybercom’s 
+goal is for all communication to 
+contribute to a stronger brand.
+8. Properly use company assets 
+and confidential information
+All business decisions shall be made 
+with the good of the company 
+in mind. All consultants will be 
+professional in their relationship 
+with Cybercom and will not pursue 
+competitive activities.
+Client trust is of vital importance 
+to Cybercom. All employees will 
+treat client information in complete 
+confidentiality. Information about Cybercom’s clients may only be used 
+in the implementation of the project 
+in question. This confidentiality re -
+mains in force even after the project 
+has been completed. Cybercom has 
+clear guidelines for the handling of 
+confidential information. 
+9. Protect our clients’ and 
+partners’ confidential and 
+patented information
+Cybercom requires all employees to 
+sign a confidentiality agreement in 
+accordance with Cybercom’s security 
+policy. There are clear rules for the 
+handling of, and access to, material 
+belonging to Cybercom. 
+10. Take a professional pride in 
+the consultancy role
+Freedom with accountability and 
+focus on the individual are important 
+contributory factors in Cybercom 
+being able to attract highly skilled 
+staff. Cybercom seeks to offer all 
+employees the opportunity for per -
+sonal and professional development. 
+A workplace that is open, creative 
+and flexible sets the course for being 
+able to offer clients professional and 
+attractive products and services.
+ 
+To sum up, Cybercom shall always 
+conduct itself ethically in its dealings 
+with all its stakeholders. Cybercom 
+shall be characterised by profes -
+sionalism and integrity. Cybercom’s 
+code of conduct is available in full at 
+www.cybercom.com. Cybercom’s code of business ethics and conduct is based on the 
+UN Global Compact and its principles on human rights, labour, 
+the environment and anti ­corruption. The code was introduced 
+in 2004 and has over the years been adapted to the world we 
+live in. Cybercom’s board reviews the code annually. In 2012,  
+a code was also drawn up for Cybercom’s suppliers to sign.Code of  
+conduct in  
+brief
+SUSTAINABILITY REPORT 2015  |  39A
+XXXXX
+XXXXXXXXCLOSE
+40  |  SUSTAINABILITY REPORT 2015B
+XXXXX
+XXXXXXXX
+Tejaswee Shah is a software engineer, and Gabriel Ibanez works as a project manager. 
+Both have joined Cybercom during the past two years. We asked them why they joined 
+the company:  “We wanted to become the makers of tomorrow. We have the ambition 
+to use connectivity to build smart solutions that will change the world and decrease the 
+distance between countries, businesses and people.”Thought approaching action 
+As the world shrinks, more ideas become reality, 
+technology becomes available and more  
+people are given opportunities.  CLOSE
+SUSTAINABILITY REPORT 2015  |  41CHAIRMAN’S  
+COMMENT
+CE Group has been a 
+committed shareholder in 
+Cybercom since 2003, and 
+during that time we have 
+had, and continue to have, 
+a strong long-term belief in 
+Cybercom as a company. As I have expressed 
+previously, our clients say we have tremen -
+dously talented employees, and this makes 
+me proud. But if we are to make a difference 
+compared to our competitors, it is important 
+to challenge ourselves to become the compa -
+ny we are aiming for. 
+We believe it will be easier to achieve our 
+goals in an unlisted environment, and we 
+therefore made an offer for Cybercom in 
+2015, together with Nicolas Hassbjer, Tequity 
+AB. The offer was accepted by more than 
+96% of shareholders, and we therefore delist -
+ed the company in December. We believe that 
+Cybercom, its management and its employees 
+will be able to develop better and more long-
+term in an unlisted environment. 
+JCE Group and Tequity are now active in 
+our ownership role, and we work to support 
+Cybercom and its management in efforts to 
+safeguard the company's future opportunities. 
+As we see it, this is about corporate responsi -
+bility – taking long-term responsibility for how 
+we impact our environment. Our values as 
+owners are entrepreneurship, professionalism 
+and dedication. It is important to always act 
+with professionalism; to make decisions while 
+keeping an eye on a resilient horizon and 
+based on respect for the individual and how 
+our decisions affect society and the environ -
+ment, in the short term and in the future. We 
+are convinced this creates greater economic 
+value for Cybercom, and therefore also for us, 
+our employees and our clients. 
+Cybercom is a modern and innovative The right  
+path forward
+company. Although its operations do not have 
+much direct impact on the environment, we 
+have a unique opportunity to contribute to a 
+more sustainable world through the solutions 
+and innovations we provide to our clients. 
+Connectivity creates great opportunities that 
+you can read about here in our sustainability 
+report, and we realise these opportunities for 
+clients in many parts of the world. In concrete 
+terms, these can be solutions for future auton -
+omous cars, industrial robots that make the 
+working environment safer, digitalisation of 
+government services to make things easier for 
+citizens while achieving efficiency gains, waste 
+management systems in European cities, or 
+developing the best tourism website of the 
+year – Universeum.se. 
+Cybercom helps its clients to drive business 
+transformation, deliver competitive differenti -
+ation, and improve the customer experience. 
+We are involved in developing public services 
+for the connected citizen, secure accessibility 
+for the connected consumer, energy efficient 
+and communicating machines for connected 
+industry, and smart infrastructure solutions for 
+the connected city. This is where Cybercom 
+brings value, and where there is fundamental 
+demand and large market potential. 
+Our goal is to constantly improve ourselves 
+in order to create profitable growth. Cybercom 
+will become even more client-oriented, agile 
+and focused. The company’s assets are its em -
+ployees, our talented consultants. I am proud 
+of our knowledge base. Together we make a 
+difference.  
+Hampus Ericsson   
+CEO and Chairman, JCE Group  
+Main shareholder and Chairman,  
+Cybercom Group
+CONNECTIVITY CREATES  
+GREAT OPPORTUNITIES,  
+AND WE REALISE THESE IN  
+A CONNECTED WORLD IN  
+ORDER TO CREATE INCREASED  
+LONG-TERM VALUE.❝J
+42  |  SUSTAINABILITY REPORT 2015CORPORATE  
+GOVERNANCE 
+he general meeting of 
+shareholders is the com -
+pany’s supreme governing 
+body. It is at the meeting 
+that shareholders have the 
+opportunity to exercise 
+their influence. Shareholders wishing to at -
+tend a general meeting must be registered as 
+shareholders in the transcript or other copy of 
+the entire share register, according to owner -
+ship status, five weekdays before the meeting, 
+and notify the company of their intent to 
+participate not later than on the date specified 
+in the notice to the general meeting. 
+Board of directors
+The board's work is conducted based on the 
+requirements of the Swedish Companies Act, Corporate  
+governance 
+the Code and other rules and regulations 
+applicable to the company. The board works 
+according to annually adopted rules of proce -
+dure and an annual schedule. The company’s 
+CEO and CFO participate in board meetings. 
+Other individuals from the executive team and 
+group employees participate in board meet -
+ings to present specific issues as needed. 
+During the year the board has focused 
+primarily on the company's strategy, business 
+plan and budget, the company's financing, 
+sector trends and the company's transfor -
+mation to meet these, internal controls and 
+review of large client tenders, and the buy-up 
+bid from JCE Group and Tequity. 
+The board monitors management perfor -
+mance through monthly reports which include 
+reports of financial results, key performance indicators, development of priority activities 
+and so on. The board has also at several 
+meetings received more detailed information 
+on major change initiatives and various units 
+within the group. 
+The members of Cybercom’s board in 2015 
+were Hampus Ericsson, Ulrika Dellby, Nicolas 
+Hassbjer, Jan-Erik Karlsson, Katarina Kämpe, 
+Philip Engström, Henrik Lundin, Maria Glatz 
+and Torsten Södergren. 
+Board work in committees
+The board had two committees in 2015: 
+the audit committee and the remuneration 
+committee. The committees’ work is governed 
+by the board’s rules of procedure. The board 
+committees deal with the issues that fall with -
+in their respective area, and submit reports 
+and recommendations that form the basis for 
+the board’s decisions. The committees have 
+some decision-making mandate within the 
+framework of the board’s directives. Minutes 
+of meetings of the committees are sent to the 
+board. The committees were eliminated in 
+January 2016 following delisting.
+CEO and executive team
+The board appoints the president. The president 
+and CEO leads the work of the executive team 
+and makes decisions in consultation with the 
+rest of the executive team. On December 31, 
+2015 the executive team consisted of the presi -
+dent and CEO, the group’s CFO, the company's 
+head of communications, head of sales, head 
+of HR, and the heads of the largest regions. 
+The members of Cybercom’s executive team 
+in 2015 were Niklas Flyborg, Ammar Adhami, 
+Kristina Cato, Annika Nordlander, Veli-Matti 
+Nurminen, Conny Karlsson, Marcin Siech, Bo 
+Strömqvist, Johan Wallin, Cecilia Westerholm 
+Beer and Camilla Öberg.¹Finance, Legal, Sales, HR, IS/IT, Communications
+²Eliminated 31 Dec 2015 General meeting  
+Shareholders 
+Board
+CEO and group  
+managementNomination  
+committee
+Remuneration  
+committee²
+Group functions¹External auditors
+Audit committee²
+SubsidiariesT
+SUSTAINABILITY REPORT 2015  |  43GRI INFORMATION
+Stakeholder group Issues Dialogue Outcome
+Clients Offer, quality, delivery, security man -
+agement, privacy, business ethics, 
+labour conditions, climate perfor -
+mance, procurement proceduresClient survey, interviews Sales training, business system in the Swedish oper -
+ations for quality, environment and data security 
+that will be integrated throughout the group. 
+The system is based on the established standards 
+ISO 9001 (quality) and ISO 14001 (environment) and 
+to some extent ISO 27001 (information security)
+Employees Skills development, working envi -
+ronment, corporate culture, diversity 
+and equalityEmployee survey, interviews Training, management conferences, employee 
+events/meetings on vision, values
+Investors/shareholders Profitability, corporate responsibility, 
+business ethicsAnnual general meeting, board work, 
+interviews, investor meetingsCode of business conduct and ethics, sustainability 
+report, corporate governance report
+Suppliers Suppliers' environmental work Suppliers' code of conduct, procurement, 
+negotiationsCompliance with code, sustainability focus
+Trade unions Labour law, employment conditions, 
+skills development, work environment, 
+codetermination, board mattersWorkplace meetings, board meetings, 
+interviews/surveysSupport in wage bargaining and negotiation of layoffsGRI Information
+ialogue with stakeholders
+Cybercom has identified 
+its employees, clients, 
+shareholders and unions as 
+its key stakeholders based 
+on how much they are 
+affected by or affect Cybercom. 
+In 2013 and early 2014 we conducted a 
+number of interviews and surveys with employ -ees in Sweden and Finland, with clients from 
+different sectors, with representatives of various 
+shareholders and with union representatives. 
+The aim was to identify the main issues for Cy -
+bercom based on the sustainability issues that 
+most affect and are affected by our activities 
+and where we can make the biggest difference. 
+Cybercom's employees can comment and 
+ask questions to management through the employee survey and through contacts with 
+our sustainability ambassadors. Employees can 
+also discuss and obtain information on health 
+and safety issues or on business-related issues 
+through the health and safety committees or 
+through their immediate manager. See also 
+forums and formats for dialogue in the table 
+below. D
+44  |  SUSTAINABILITY REPORT 2015Material sustainability aspects per GRI G4
+Cybercom's sustainability aspect GRI G4 aspect
+Business ethics -
+Anti-corruption & anti-competitive 
+behaviourAnti-corruption
+Dedicated employees & employee 
+developmentEmployment, occupational health 
+& safety and training & education
+Financial stability Economic performance
+Sustainable products & services Products & services and product  
+& service labelling
+Sustainability in Cybercom's culture -
+Information security -
+Privacy issues related to IT Customer privacy
+Diversity & equality Diversity & equal opportunity  
+and non-discrimination
+Smart use of resources Energy and emissions
+The table shows which aspects of sustainability that Cybercom has assessed as material in terms 
+of their impact on the company and how they are deemed relevant to our stakeholders and 
+their relationship with the aspects of GRI G4. 
+GRI INFORMATION
+Below we outline supplementary information about the GRI indicators 
+we report and the methods, assumptions, and conversion factors used 
+to calculate them.
+External assurance
+Our sustainability report has not been subject to external independent as -
+surance. We regularly evaluate the need for external assurance, but have 
+not currently taken any decision to change the existing methodology.
+ANTI-CORRUPTION
+Percentage trained in anti ­corruption 2015
+Board 100%
+Group management 100%
+Other employees 54%
+The table shows the percentage of the board, group management and other employees that 
+have received anti-corruption training.ECONOMICS 
+SEKk 2015 2014 2013
+Generated direct economic 
+value
+Revenues 1,259,598 1,262,887 1,195,135
+Distributed direct economic value
+Employee benefits -782,933 -824,303 -793,840
+Other external expenses -408,590 -345,921 -314,732
+Charitable donations -575 -521 -142
+EBITDA 67,500 92,142 86,421
+Investment activities -23,873 -26,373 -26,199
+Net finance income/expense -2,621 -2,490 -6,904
+Dividends 0 -9,022 0
+Corporation tax paid by country1
+Denmark 0 0 -35
+El Salvador 0 0 -51
+Finland -925 -3,567 -752
+India -573 -1,637 -774
+Italy -1 0 0
+Korea -809 -123 0
+Paraguay 0 0 -440
+Poland -1,755 -472 68
+Rwanda 0 -1,350 -1,048
+Senegal 0 -4,775 -7,227
+Singapore 185 24 -33
+Sweden -12-319 -160
+Taiwan -121 -94 0
+Tanzania -802 -582 -2,283
+Chad -546 -383 0
+Economic value retained 35,658 40,979 40,583
+The table shows Cybercom's generated direct economic value, and how this is distributed 
+between different stakeholder groups. In 2015, Cybercom employees have also worked 1,221 
+hours pro bono on the "Technology for children and young people" project together with 
+Universeum and Hello World!. Read more about this work on page 32.
+1 In countries where the company has paid withholding tax during the year, these amounts have 
+been included in the amount of tax paid.  
+2In Sweden, loss carry-forwards from previous years have been used.
+PAYING TAX WHERE WE DO BUSINESS IS A GIVEN FOR US, AS IS REPORTING IT.  
+THIS IS ABOUT TRANSPARENCY AND CONTRIBUTING TO SOCIAL AND  
+ECONOMIC DEVELOPMENT IN THE COUNTRIES WHERE WE DO BUSINESS. ❝Camilla Öberg 
+CFO, Cybercom
+SUSTAINABILITY REPORT 2015  |  45GRI INFORMATION
+2015 2014 2013
+Composition of the companyEmployees  
+(number)Percentage 
+femaleEmployees  
+(number)Percentage 
+femaleEmployees  
+(number)Percentage 
+female
+Board of directors 9  33% 9 22% 9 11%
+Under 30 0 0% 0 0% 0 0%
+30 - 50 7 43% 7 29% 6 17%
+Over 50 2 0% 2 0% 3 0%
+Managers 97 20% 80 29% 96 25%
+Under 30 1 0% 0 0% n/a  
+30 - 50 75 17% 64 30% n/a  
+Over 50 21 29% 16 25% n/a  
+Other employees 1,121 17% 1226 16% 1,171 16%
+Under 30 276 18% 334 19% n/a  
+30 - 50 696 15% 763 14% n/a  
+Over 50 149 21% 129 19% n/a  
+The table shows the composition of the company broken down by staff category and reported by age category and gender.2015 2014 2013
+Employees by countryEmployees  
+(number)Percentage 
+femaleEmployees  
+(number)Percentage 
+femaleEmployees  
+(number)Percentage 
+female
+Sweden 765 18% 825 19% 794 19%
+Finland 193 10% 250 11% 244 11%
+Poland 209 16% 167 17% 134 13%
+India 28 25% 31 29% 48 17%
+Singapore 13 8% 19 11% 23 9%
+Denmark 10 10% 15 7% 24 13%
+Total number of employees 1,218 17% 1,307 17% 1,267 16%
+The table shows the number of employees broken down by country and the percentage of female employees.EMPLOYEES 
+Key figures and indicators for the number of employees relate to December 31 for each year.
+Total number of employees at  
+Cybercom on Dec 312015 2014 2013
+Employees  
+(number)Percentage 
+femaleEmployees  
+(number)Percentage 
+femaleEmployees  
+(number)Percentage 
+female
+Number of permanent employees 1,200 17% 1,287 17% 1,260 n/a
+- Of which full-time 1,200 17% 1,238 16% 1,199 n/a
+- Of which part-time 0 0% 52 37% 61 n/a
+Number of temporary employees 18 28% 20 15% 7 n/a
+Total number of employees 1,218 17% 1,307 17% 1,267 16%
+The table shows the number of employees broken down by employment category and gender. For 2015, we have changed the reporting of part-time employees. We previously reported this item as 
+employees who have voluntarily reduced their working hours for temporary periods. From 2015 we report this item as employees with part-time contracts.
+46  |  SUSTAINABILITY REPORT 2015Collective bargaining agreements 2015 2014 2013
+Percentage of employees covered  
+by collective bargaining agreements 77% 80% 81%
+The table shows the percentage of employees at Cybercom covered by collective bargaining 
+agreements.
+Development reviews 2015 2014 2013
+Percentage of employees given development review
+Female 89% 83% n/a
+Male 81% 83% n/a
+All employees 83% 83% 81%
+The table shows the number of employees who have completed development reviews during 
+each year. Our aim is that all employees should have at least one formal development review per 
+year. Those who have not completed a review are primarily new employees during the year.
+Sick leave 2015 2014 2013
+Percentage of sick leave for each country
+Sweden 2.6% 2.3% 1.9%
+Finland 1.5% 2.4% 1.7%
+Poland 1.6% 1.8% 5.6%
+India 2.4% 2.6% 2.1%
+Singapore 0.1% 3.0% 4.6%
+Denmark 0.0% 0.1% 0.1%
+Average Cybercom 2.2% 2.4% 2.0%
+The table shows sick leave as a percentage broken down by country. In 2015 no work-related 
+injuries or accidents were reported.
+Training hours 2015 2014 2013
+Female 34 26 14
+Male 26 22 30
+All employees 27 22 27
+The table shows the average number of training hours broken down by gender.GRI INFORMATION
+ENVIRONMENT
+Energy
+We annually review the electricity consumption at our offices and in our 
+own data centres. Cybercom buys renewable electricity in all countries 
+in which we operate, except Poland. To convert energy from MWh to 
+GJ, use the conversion factor of 3.6. 
+Electricity consumption 2015 2014 2013
+Electricity (kWh) 2,229,593 2,610,366 2,436,669
+Electricity intensity (kWh/SEKm) 1,770 2,067 2,039
+The table shows electricity consumption of offices and data centres, and electricity intensity.
+Greenhouse gas emissions
+We measure and annually monitor our greenhouse gas emissions from 
+employee air travel. We have a target for our greenhouse gas emissions 
+from air travel related to the metric of greenhouse gas emissions per 
+unit of sales. The base year for the target is 2011 and the target extends 
+until 2015. 
+Greenhouse gas emissions are reported directly by our travel agents 
+in each country. For our operations in Singapore, greenhouse gas 
+emissions are calculated based on distance travelled, reported to us 
+by a travel agent. We do not make our own conversions from other 
+greenhouse gases to CO² and therefore have no overall value for global 
+warming potential (GWP). We do not use a radiative forcing index (RFI) 
+for emissions from air travel. 
+Carbon dioxide emissions 2015 2014 2013 2012 2011
+Carbon dioxide emissions 
+from air travel (tonnes of CO2) 343 640 599 451 903
+Carbon dioxide emissions in 
+relation to sales (tonnes of 
+CO2/ SEKm) 0.27 0.5 0.51 0.34 0.61
+The table shows greenhouse gas emissions from air travel and greenhouse gas emissions in 
+relation to sales.2015 2014 2013
+Staff turnoverEmployees 
+(number)Percentage 
+femaleEmployees 
+(number)Percentage 
+femaleEmployees 
+(number)Percentage 
+female
+New recruitment during the year
+Under 30 101 12% 170 16% n/a n/a
+30 - 50 133 18% 151 20% n/a n/a
+Over 50 3 0% 11 18% n/a n/a
+Total number of new recruits 237 15% 332 18% 243 n/a
+Percentage of new recruits 19% 25% 19%
+People who left during the year
+Under 30 65 11% 75 12% n/a n/a
+30 - 50 228 18% 174 14% n/a n/a
+Over 50 39 23% 30 23% n/a n/a
+Total number of departures 332 17% 279 15% 312 n/a
+Percentage who ended employment 27% 21% 25%
+The table shows the number of people who joined and left Cybercom broken down by age and gender.
+SUSTAINABILITY REPORT 2015  |  47GRI INFORMATION
+General standard disclosures Pages/remarks Global Compact Principle
+G4-1 Statement from the CEO about the organisation’s strategy for addressing sustainability P 4-5
+G4-3 The name of the organisation P 0
+G4-4 Primary brands, products, and services P 26-27
+G4-5 Location of the organisation's headquarters Stockholm
+G4-6 Countries where the organisation has significant operations P 7
+G4-7 Nature of ownership and legal form P 50
+G4-8 Markets served P 24-27
+G4-9 Scale of the organisation P 7, 11, 45
+G4-10 Total number of employees P 46
+G4-11 Percentage of total employees covered by collective bargaining agreements P 47 Principle 3
+G4-12 Organisation's supply chain P 22-25
+G4-13 Significant changes during the reporting period P 5
+G4-14 Whether the precautionary approach is addressed P 39 Principle 7
+G4-15 Externally developed initiatives to which the organisation subscribes P 0-1, 2-3, 4, 38-39
+G4-16 Memberships of associations P 32
+G4-17 Entities included in the consolidated financial statements P 0
+G4-18 Process for defining the report content P 10, 44-45
+G4-19 Material aspects identified P 10, 45
+G4-20 Limitation regarding the aspect boundary within the organisation P 0
+G4-21 Limitation regarding the aspect boundary outside the organisation P 0
+G4-22 Effect of restatements of information provided in previous reports -
+G4-23 Significant changes from previous reporting periods P 46
+G4-24 Stakeholder groups engaged by the organisation P 44
+G4-25 Basis for identification and selection of stakeholders P 44
+G4-26 Approach to stakeholder engagement P 44
+G4-27 Key topics raised through stakeholder engagement, and how the organisation has responded P 44
+G4-28 Reporting period P 0
+G4-29 Date of most recent previous report Spring 2015
+G4-30 Reporting cycle P 0
+G4-31 Contact point for questions regarding the report P 49
+G4-32 In accordance option & GRI content index P 0, 48-49
+G4-33 External assurance p 45
+G4-34 Governance structure of the organisation P 43
+G4-56 Organisation’s values codes of conduct etc P 39 Principle 10GRI Index  
+The following list makes reference to the GRI indicators that Cybercom has chosen to report and to the ten principles of the Global Compact.
+48  |  SUSTAINABILITY REPORT 2015GRI INFORMATION
+General standard disclosures Pages Global Compact Principle
+DMA Economic performance P 4-5, 11
+G4-EC1 Direct economic value generated and distributed P 45
+DMA Employment P 11, 30-31
+G4-LA1 Employee turnover P 47
+DMA Occupational health & safety P 11, 30-31
+G4-LA6 Absenteeism & work-related injury P 47
+DMA Training & education P 11, 30-31
+G4-LA9 Employee training P 33, 47
+G4-LA11 Development reviews P 47
+DMA Diversity and equal opportunity P 11, 30-31 Principle 6
+G4-LA12 Composition of organisation P 46
+DMA Non-discrimination P 36-37 Principles 1, 2, 4, 5 & 6
+G4-HR3 Number of incidents of discrimination P 36
+DMA Anti-corruption P 36-37 Principle 10
+G4-SO5 Confirmed incidents of corruption P 36
+DMA Customer privacy P 36-37 Principle 1
+G4-PR8 Number of losses of customer data P 36
+DMA Energy P 11, 38 Principle 8
+G4-EN3 Energy consumption within the organisation P 47
+G4-EN5 Energy intensity P 47
+DMA Emissions P 11, 38 Principle 8
+G4-EN17 Other indirect greenhouse gas emissions P 47
+G4-EN18 Greenhouse gas emissions intensity P 47
+DMA Products & services P 1, 4-5, 11 Principle 9
+G4-EN27 Mitigation of environmental impacts of products and services P 9, 11, 14-21, 26-29
+DMA Product and service labelling P 7, 11
+G4-PR5 Results of surveys measuring customer satisfaction P 6
+For more information about this report and our sustainability work, please contact Kristina Cato, kristina.cato@cybercom.com
+Cybercom Group AB was acquired in December 2015 by Cybercom Holding AB (owner of 96.6% of all shares and votes on 31 December 2015). 
+Consolidated financial statements for Cybercom Group have therefore not been prepared, since this is included in the consolidated accounts for 
+Cybercom Holding. In order to provide a fair picture of the operations in this report, all information for the full-year relates to the Cybercom Group 
+group of companies, while information related to the balance sheet in this report refers to Cybercom Holding AB’s consolidated financial statement.
+Production: Cybercom in cooperation with Narva. Photo: Mattias Bardå, Getty Images, Istock photos and Ideo. Print: Göteborgstryckeriet, Mölnlycke 2016.
+SUSTAINABILITY REPORT 2015  |  49Cybercom is an innovative IT consulting company, founded  
+in Sweden in 1995. We enable companies, organisations and  
+government agencies to benefit from the opportunities of 
+the connected world and to enhance their competitiveness. 
+Cybercom is today a privately owned company. In the 
+years 1999–2015, Cybercom was listed on the Stockholm 
+stock exchange. The company was delisted after the main 
+shareholder, JCE Group AB, and Tequity AB made an offer 
+that was accepted by over 90% of shareholders. 
+We have more than 1,200 co ­workers in seven countries. 
+Each individual employee is a win for us. It is our employees  
+who drive forward Cybercom’s development. Our consult ­
+ants, and the solutions we create, take us all the way from 
+Östersund to the Caribbean islands, via the UN  
+Global Compact, driverless cars, national electronic  
+identification, connected sewing machines and elevators. 
+The company’s areas of expertise span the entire eco­
+system of communications services. 
+Cybercom’s domestic market is the Nordic region, and in 
+addition the company offers global delivery capacity for 
+local and international business. 
+Find out more at www.cybercom.com
+www.cybercom.com
+DENMARK · DUBAI · FINLAND · INDIA  
+POLAND · SINGAPORE · SWEDENNARVA

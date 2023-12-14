@@ -1,0 +1,1380 @@
+A Clearer Image |  www.pgs.comEnvironmental | Social | Governance
+Report 2020
+In this report
+3 Letter from the CEO
+4 Statement from the Board & CEO
+5 About the Report
+6 Integrating Sustainability  
+ in our Business Processes
+6 Commitment to the UN Global  
+ Compact and Sustainable Develpoment  
+ Goals (SDGS)
+6 ESG Strategy & Goals
+8 Materiality Assessment
+8 PGS ESG Indicators
+10 Relevance Across the Value Chain
+11 Key Stakeholders
+11 PGS Gears Up for the  
+ New Energy Landscape
+12 Environmental
+13 Key Figures
+14 Environmental Compliance
+14 Biodiversity
+14 Marine-life Risk Assessments
+15 Marine-life Monitoring and Mitigation
+16 Supporting Seabed 2030
+17 Ghost Net Initiative
+18 Energy and Emissions
+19 Real-time Energy Monitoring  
+ and Performance Optimization
+20 Divesting Redundant Equipment21 Social
+22 Key Figures
+25 Employment and Labor Relations
+25 Occupational Health and Safety
+26 Gamified Learning for HSEQ Traning
+27 Hazard Identification and  
+ Risk Management
+27 Managing the Covid-19 Crisis
+28 Crew Change in the Covid-19 Era
+29 Training and Education
+30 Our Digital Transformation Progress
+34 Governance
+35 Corporate Governance
+35 Anti-corruption
+35 Anti-corrutption Risk Assessments
+36 Communicating and Trainin on  
+ Anti-corruption Policies and Procedures
+36 Key Figures
+37 Tax
+37 Anti-competitive Behavior  
+ and Economic Performance
+38 Our Data to Clients Faster and Easier
+39 Human Rights and Supplier Conduct
+39 Key Supplier Figures
+40 Looking Ahead
+// PGS ESG Report 2020
+2We reduced our vessel capacity to match the market decline by 
+stacking three vessels. The effects of the pandemic on energy 
+demand similarly forced us to let go approximately 40% of our 
+workforce. This was dramatic for individuals and teams, and our  
+focus was on conducting the process fairly, thoroughly, and swiftly.  
+Significant staff reductions meant we had to reorganize and simplify 
+processes. We retained our global footprint, maintaining critical 
+presence in key markets, and centralized strategic functions. Our 
+commercial activities were consolidated into a single unit – Sales 
+& Services. A new entity was created to manage digitalization 
+initiatives, research and development, enterprise IT and compute 
+infrastructure – Technology & Digitalization. Going forward this unit 
+will enable us to capitalize further on important digital synergies 
+across our service offering. The new organization aligns our business 
+to a lower activity level, but with the flexibility to scale up without 
+adding cost proportionately. 
+Despite the challenges, our relentless focus on HSEQ and ESG 
+matters continued with full force. Our commitment to the ten 
+principles of the United Nations Global Compact in the areas of 
+human rights, labor, environment, and anti-corruption applies in 
+bad times as in good, as we proved in 2020. That commitment is 
+evidenced by this report.
+Rune Olav Pedersen  
+President and CEO 
+February 23, 2021Dear Reader
+2020 was a particularly challenging year for the energy 
+industry. The dramatic slow-down in business activity, 
+caused by the Covid-19 crisis, reduced revenues in PGS by 
+close to 40 % compared to 2019, significantly complicated 
+field operations, and left PGS no other choice than to 
+immediately implement cost reduction measures.
+// PGS ESG Report 2020
+3This is our fourth corporate responsibility report shaped by the UN 
+Sustainable Development Goals, introduced in 2015. The Board of 
+Directors and the CEO actively ensure that the Company properly 
+responds to ESG challenges.
+During 2020, we have renewed our materiality assessment. The Board 
+and the CEO have been actively involved in this process, as well as the 
+assessment of the Company’s impact on ESG development goals. The 
+material indicators on which this report is focused were discussed 
+and selected during several Board and management meetings. 
+The Board and the CEO regularly discuss ESG opportunities, risks 
+and goals to ensure that they are integrated into the operations, 
+culture, values, incentives and business practices of PGS. This report 
+documents how PGS performed against the commitments we set in 
+2019 and the way forward for 2021. Statement from the Board & CEO
+Good management of Environmental, Social and 
+Governance (ESG) opportunities and risks is essential 
+to business success. It motivates employees, investors, 
+customers, and other stakeholders on whom businesses 
+rely to operate successfully and safely.
+Oslo, February 23, 2021 
+Board of Directors PGS ASA
+Walter Qvam Chairperson  |  Anne Grethe Dalane  |  Marianne Kah  |  Richard Herbert  |  Trond Brandsrud 
+Anette Valbø  |  Hege Renshus  |  Grunde Rønholt  |  Rune Olav Pedersen Chief Executive Officer
+// PGS ESG Report 2020
+4These reporting standards have influenced the structure of our 
+report, which is now divided into three main sections: Environmental, 
+Social, and Governance. This structure reflects our work in a more 
+complete way and enabling synergies with our company strategy.  About the Report
+This report has been prepared in accordance with Global 
+Reporting Initiative (“GRI”) standards core option and 
+follows the Oslo Stock Exchange Euronext guidance 
+on ESG reporting of January 2020. We have also used 
+reporting recommendations from the Task Force of 
+Climate-related Financial Disclosure as well as the 
+Norwegian Shipowners’ Association’s Guidance on  
+ESG reporting in the shipping and offshore industries.  
+// PGS ESG Report 2020
+5ESG Strategy & Goals
+PGS has aligned its efforts on ESG to its business strategy, developing an integrated 
+ESG strategy with company-specific goals based on the sub-targets for each of the 
+UN SDGs we have committed to support. In 2021, we will build upon our efforts so 
+far and develop a plan of action to achieve these goals in the coming years. Integrating Sustainability  
+in our Business Processes
+Commitment to the UN Global Compact and Sustainable Develpoment Goals (SDGS)
+This report represents our Communication on Progress to the United Nations 
+(UN) and demonstrates how PGS integrates ESG practices into its business and 
+strategy. Our ambition is to promote the UN Sustainable Development Goals 
+(SDGs) through concrete actions on goals that are relevant for our company 
+activities and global presence. We prioritize the following SDGs: 
+Ensure inclusive and equitable quality 
+education and promote lifelong learning 
+opportunities for all.
+Take urgent action to combat climate 
+change and its impacts. 
+Conserve and sustainably use the oceans, 
+seas and marine resources for sustainable 
+development.
+Promote peaceful and inclusive societies for 
+sustainable development, provide access to 
+justice for all and build effective, accountable, 
+and inclusive institutions at all levels.Build resilient infrastructure, promote 
+inclusive and sustainable industrialization 
+and foster innovation. Increase the number of 
+people with relevant skills 
+for financial success. 
+Increase scientific knowledge, 
+research and technology for  
+Ocean Health.
+Substantially reduce 
+corruption and bribery.Enhance research and upgrade 
+industrial technology. 1. Promote education in geology, geophysics, 
+mathematics, and digitalization. 
+4. Reduce relative CO2 emissions (t CO2 per CMP 
+km) by 50% compared to 2011 within 2030. 
+5. Increase scientific knowledge by sharing 
+oceanographic data.
+6. Sustain zero tolerance for corruption and 
+bribery in all its forms.2. Upgrade seismic operations, processing and  
+deliverables through digitalization and innovation. 
+3. Identify and develop new sustainable business opportunities. UNSDG Goal UNSDG Sub-target PGS ESG Goal
+// PGS ESG Report 2020
+6Promote education in geology, 
+geophysics, mathematics  
+and digitalization
+Expectations FramworkUNSDG & Materiality AssesmentPGS ESG GoalsPGS ESG MissionPGS ESG Vision
+Upgrade seismic operations, 
+processing and deliverables through 
+digitalization and innovation
+Increase scientific 
+knowledge by sharing 
+oceanographic dataReduce relative CO2 
+emissions by 50% 
+within 2030Sustain zero tolerance 
+for corruption and 
+bribery in all its formsConduct business in a fair 
+and responsible mannerAdvance the UN Sustainable 
+Development Goals 
+Take 
+a shared 
+responsibility for 
+achieving a better world
+// PGS ESG Report 2020
+7Materiality Assessment
+The backbone of this report and our ESG 
+response, is our materiality assessment. 
+During 2020, PGS intensified its work 
+on ESG, mobilizing a cross-functional 
+team to better understand the risks and 
+opportunities, the main expectations of our 
+principal stakeholders, and the economic, 
+social, and environmental impacts of our 
+activities. Our senior executive team and our 
+Board of Directors reviewed and approved 
+that analysis. Through internal fact-finding 
+and research, we identified our main stakeholders and their key expectations. 
+This is an ongoing process. We continually 
+deepen and broaden our understanding of 
+our stakeholder universe, through dialog 
+combined with monitoring of our economic, 
+social, and environmental impact.
+Environment
+Environmental compliance [307]
+Energy and emissions [302, 305] 
+ Materials, water and effluents [301, 303]
+Biodiversity [304]
+Waste [306]
+Social
+Occupational health and safety [403]
+Diversity and non-discrimination [405, 406]
+Employment and labor relations [401, 402, 407]
+Training and education [404]
+Human rights [408, 409]
+Local communities and indigenous people [410, 411, 413]
+Governance
+Corporate governance [102, 103]
+Economic performance [201, 202, 203]
+Tax [207]
+Anti-corruption [205, 419]
+Anti-competitive behavior [206]
+Procurement and supplier management [204, 412, 414, 308]PGS ESG Indicators
+PGS has adopted a set of 17 ESG indicators that were developed from 
+the 37 GRI standards. For each of the indicators below, the associated 
+GRI standard(s) are referenced in brackets.
+// PGS ESG Report 2020
+8Our new materiality assessment seeks to 
+identify the indicators of highest concern 
+or interest to our stakeholders, and those 
+with the largest impact on value creation 
+for PGS. Areas with limited exposure are 
+not included on our list of material issues, 
+as our goal is to focus our efforts where we have the highest impact and can make the 
+most difference. Indicators reported in the 
+present report may, therefore, differ from 
+previous PGS responsibility reports. The 
+reporting format has also changed, following 
+our adoption of the GRI core option.  
+The Environmental, Social and Governance sections of this report summarize our actions  
+on each of these material indicators. Impact on value creationBiodiversity
+Smaller LargerSmaller Larger
+Energy & EmissionsEnvironmental 
+Compliance
+Corporate GovernanceEconomic 
+PerformanceAnti-corruption
+Tax
+Anti-competitive BehaviorEmployment & 
+Labor Relations
+Training & 
+EducationOccupational Health, 
+Safety & SecurityMateriality Assesment
+// PGS ESG Report 2020
+9Relevance Across the Value Chain
+As part of our materiality assessment, 
+the relevance of each ESG Indicator was 
+evaluated across our value chain. Areas 
+with limited exposure are identified in 
+lighter shading.Our GRI index specifies each of the GRI 
+standards defined as material for PGS and 
+lists the location where information can 
+be found about the relevant disclosures 
+included in the report.  
+Environmental Compliance
+Corporate GovernanceOccupational Health, Safety & SecuritySales & TenderingESG Indicators Across Value Chain
+BiodiversityEnergy & Emissions
+Procurement & Supplier ManagementEconomic Performance
+Anti-corruptionTax
+Anti-competitive BehaviorEmployment & Labor Relations
+Training & EducationDiversity & Non-discrimination
+Human Rights
+Local Communities & Indigenous PeopleProject Planning  
+& Survey Design AcquisitionData Processing  
+& Facility Management
+Materials, Water & Effluents
+WasteEnvironment
+Social
+Governance
+// PGS ESG Report 2020
+10Key Stakeholders
+Our future business success depends on maintaining good relations with those who 
+depend upon us. We aim to nurture stakeholder relationships through transparent, 
+two-way communication, to increase mutual understanding and encourage positive 
+relationships. Our key stakeholders include:  
+Employees, Clients, Local communities, Investors and 
+shareholders, Lenders, Major suppliers and business partners, 
+Local authorities, NGOs, lobby groups, and the general public, ESG 
+rating agencies, Politicians and parliament, Media, Competitors 
+PGS Gears Up for the New Energy Landscape
+The energy transition is creating new 
+markets and causing existing ones to 
+evolve. As part of our commitment of SDG 
+9 Industry, Innovation and Infrastructure, 
+we have launched a new initiative to 
+address the changing energy landscape. 
+Through this initiative, we will investigate 
+business potential outside of our core oil 
+and gas E&P business and will be aiming 
+to further strengthen sustainable practices 
+throughout our value chain.  
+In February 2021, we stepped up and 
+formalized our efforts by established a 
+team to develop opportunities for applying 
+our geophysical assets and expertise to 
+the areas of carbon capture and storage, 
+offshore wind power, and seabed minerals. Seismic data will be a fundamental 
+requirement in all three markets. Our goal 
+is to fully understand how we best can 
+apply our capabilities, and it is our ambition 
+to build a sustainable business and service 
+offering outside of oil and gas. Providing 
+reliable geophysical information about the 
+subsurface in marine environments is our 
+core business. 
+Although oil and gas will be essential to 
+energy security for many years to come, the 
+landscape is changing. Future investments 
+by the energy industry are increasingly 
+directed towards new sources of energy, 
+and reliable solutions for carbon capture 
+and storage. PGS is well qualified to help its 
+customers in the search for new resources 
+and lower emissions. 
+// PGS ESG Report 2020
+11Environmental
+To fulfill our environmental ambitions, we are committed 
+to reducing the risk of harm to the environment, 
+complying with legal requirements and industry 
+standards, and achieving a continual improvement in 
+our environmental performance. PGS has been ISO 14001 
+certified since 2012. A formal commitment to continual 
+improvements in our environmental performance 
+ensures that our management system and practices  
+are in line with best practices. 
+Our materiality assessment identified the 
+following key environmental indicators: 
+	Environmental compliance
+	Biodiversity
+	Energy and emissions 
+// PGS ESG Report 2020
+12 2017 2018 2019 2020
+Direct Emissions 390 338 402 308 
+Seismic Vessels 355 305 369 281 
+Support Vessels 35 33 33 27 
+Offices <1 <1 <1 <1 
+Indirect Emissions 7 6 6 6 
+Offices 7 6 6 6 
+Other Emissions 12 10 14 4 
+Business Travel 12 10 14 4* 
+Sum 409 354 422 318 
+* Does not include use of charter.CO² Emissions Breakdown (kTonnes) 
+ 2017 2018 2019 2020
+Fuel 1 424 1 237 1 466 1128 
+HFO* 764 715 810 557 
+MGO* 660 521 656 572 
+Natural Gas and Diesel <1 <1 <1 <1 
+Electricity 17 16 16 15 
+Offices 17 16 16 15 
+Sum 1 441 1 253 1 482 1143 
+* Compliant fuel in accordance with statutory and regulatory requirementsEnergy Consumption Breakdown (GWh)  2017 2018 2019 2020
+Energy     
+     Vessels (GWh) 1 423 1 236 1 466 1 128 
+     Offices (GWh)* 18 16 16 15 
+Air Emissions     
+     CO² (kT) 409 354 422 318 
+     SOX (kT) 2 1 1 1 
+     NOX (kT) 7 6 7 5 
+     PM (kT) <1 <1 <1 <1 
+Waste     
+Vessels (1000 m3) 3,2 3,4 4.0 2.8 
+Delivered to shore** 2,4 2,6 3.3 2.3 
+Incinerated onboard 0,7 0,7 0.6 0.4 
+Organic waste to sea 0,1 0,1 0.1 0.1 
+Offices (t) 82 104 88 43 
+General waste 29 32 28 11 
+Recycled waste 52 72 60 32 
+*Data for four main offices only.  
+** Does not include lithium batteries delivered for recycling// Environmental
+Environmental Performance Indicators
+CO² Emissions per CMP2017 2018 2019 202073.5
+62.4 64.059.0
+Tonnes
+Fuel Consumption2017 2018 2020 20191424
+1237
+11281466
+GWhKey Figures
+// PGS ESG Report 2020
+13Environmental Compliance
+PGS operates around the globe in a range 
+of environments, from the tropics to the 
+arctic, from mature oil provinces to frontier 
+areas. The countries in which we operate 
+have varying requirements when it comes 
+to environmental compliance and our 
+business activities are exposed to different 
+international, national, regional or state 
+environmental laws and regulations. 
+We are committed to strict compliance 
+with all environmental laws and regulations 
+and have processes in place to assess our 
+exposure to regulatory risk at the company 
+level, for seismic projects and the locations 
+where we have offices. Compliance 
+obligations are identified, documented, and 
+kept up to date in our Environmental Aspects 
+and Compliance Obligations registers. 
+In 2020 we had one minor non-compliance 
+with permit requirements on a geophysical 
+survey. This has been reported to the 
+relevant authority. 
+Biodiversity
+Our ambition is to generate high-quality 
+seismic data with the least amount of 
+environmental impact and interference 
+with other users of the oceans. Minimizing 
+the acoustic impact of geophysical 
+operations on marine life is a priority. We 
+strictly comply with laws, regulations and 
+industry best practices when conducting 
+our work and continuously examine our 
+methods to identify ways to further reduce 
+our environmental footprint. Our research and development teams 
+are actively involved in various Research 
+& Development projects that each may 
+lead to measurable reductions in our 
+environmental footprint and the acoustic 
+impact of seismic surveys on marine life. 
+Marine-life Risk Assessments
+Before every project, we ensure that 
+the appropriate level of environment 
+assessment has been conducted, 
+conforming to national legal requirements 
+related to the permitting or licensing of a 
+seismic survey. Our project managers are 
+responsible for ensuring that a marine-
+life monitoring and mitigation plan is in 
+place in accordance with local legislation, 
+best practices and client requirements. 
+We assess risks relating to the interaction 
+between vessel activities, marine life 
+and other users of the oceans such as 
+commercial and artisanal fishery and  
+local indigenous populations.  
+A project-specific risk assessment is 
+conducted, in addition to the national 
+legal requirements for conducting 
+environment impact or marine-life 
+disturbance assessments as part of a 
+project permitting or licensing process. 
+Project risk assessment identifies relevant 
+environment risks and appropriate 
+mitigations for the specific geographic area 
+of operation and is conducted throughout 
+the lifecycle of a project, including those 
+related to the potential interaction with 
+marine life. // Environmental
+// PGS ESG Report 2020
+14Marine-life Monitoring and Mitigation
+PGS has global experience of implementing, 
+monitoring and mitigating activities during 
+seismic operations across the world. The 
+marine life guidance procedures in our 
+management system establish a common 
+framework for the management of PGS 
+activities offshore and potential interaction 
+with marine wildlife. 
+All PGS vessels implement seismic source 
+‘soft-start’ measures as standard practice 
+and, in the absence of national guidelines, 
+we follow International Association 
+of Geophysical Contractors (IAGC) 
+recommended measures and guidance 
+related to the interaction of underwater 
+sound and marine life. We implement 
+additional visual and acoustic monitoring 
+and mitigation activities as identified by 
+either regulatory, Environment Impact 
+Assessment outcomes or client best 
+practice requirements on a project-by-
+project basis. Such additional services are 
+typically provided via third-party contractor 
+personnel (Marine Mammal Observers, 
+Protected Species Observers, Marine 
+Fauna Observers and/or Passive Acoustic 
+Monitoring). We have more personnel 
+onboard responsible to monitoring and 
+mitigating our effect on the environment than we have looking at the seismic  
+data that we record. 
+In line with regulatory requirements, 
+all sightings and detections of marine 
+mammals during the survey period 
+are recorded, including any beyond the 
+maximum mitigation-zone boundaries. 
+Examples of monitoring and mitigation 
+measures that we implement include: 
+	Seismic survey planning to facilitate 
+efficient seismic operations and 
+minimize the risk to marine life. 
+	Realtime marine mammal visual and 
+towed Passive Acoustic Monitoring 
+during operations. 
+	Seismic source ‘soft-start’ procedures. 
+	Exclusion or safety zones. 
+	Delay to source start and suspension  
+of operations if marine mammals  
+are detected within pre-defined 
+exclusion zones. 
+	Stakeholder consultation where required 
+in areas with potential for conflicting 
+operations with other users of the oceans. 
+	Dedicated local Fishery Liaison Officer 
+(FLO) to manage interaction and 
+communication with fisheries. // Environmental
+// PGS ESG Report 2020
+15Supporting Seabed 2030// Environmental // Case Study
+In 2019, PGS committed to support the Seabed 
+2030 project. Seabed 2030 is a collaborative 
+project between the Nippon Foundation of Japan 
+and the General Bathymetric Chart of the Oceans 
+(GEBCO). It aims to bring together all available 
+bathymetric data to produce the definitive map 
+of the world ocean floor by 2030 and make it 
+available to all. In 2020 we implemented a live-feed of 
+echo-sounder data to Seabed 2030 from all 
+our vessels. Wherever our vessels travel we 
+send back data that will eventually improve 
+bathymetric mapping of the ocean floor and  
+lead to more accurate sea charts improving  
+the safety of all at sea.
+// PGS ESG Report 2020
+16Ghost Net Initiative// Environmental // Case Study
+PGS supports The Ghost Net & Marine Debris 
+Removal Initiative (GNI), an ocean debris 
+removal project of the International Association 
+of Geophysical Contractors (IAGC). We are 
+committed to creating a healthier ocean 
+environment by clearing marine debris, which  
+is among the greatest dangers to marine life.  Our ambitions towards finding ways for 
+collecting plastics at sea by using the inherent 
+capabilities of seismic vessels are still going 
+strong. More information about Plastic Collection 
+Concept can be found on our website. 
+// PGS ESG Report 2020
+17Energy and Emissions
+Reducing energy use and associated air 
+emissions is a company-wide focus area 
+for environmental performance. Our 
+overall performance objective is to achieve 
+continuous improvement towards our 
+target of reducing relative emissions  
+by 50% by 2030 compared to 2011. 
+All PGS vessels shall have a Ship Energy 
+Efficiency Management Plan (SEEMP) in 
+place, which establishes a mechanism to 
+improve the energy efficiency of vessel 
+operations. The SEEMP includes: 
+	Review and consideration of operational 
+practices and technology upgrades that 
+may contribute to optimizing the energy 
+efficiency performance of a vessel. 
+	Implementation of monitoring tools  
+and performance objectives related  
+to improved energy efficiency and 
+emission reduction.  Examples of energy reduction measures  
+we have taken include: 
+	Engine and machinery upgrades 
+	Anti-barnacle technology to reduce  
+drag from in-sea equipment. 
+	Installation of energy efficient air 
+separation and free cooling technology 
+for data centers 
+	Use of energy-efficient computer  
+node technology 
+	Automatic light-control systems// Environmental
+kg CO2 per CMP
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 203090.4
+85.4
+80.2
+66.176.2
+69.673.5
+62.4 64.2
+59
+45TARGETBASELINE
+- 50%
+// PGS ESG Report 2020
+18Real-time Energy Monitoring  
+and Performance Optimization// Environmental // Case Study
+In 2020 we developed and started rolling-out 
+real-time energy monitoring and performance 
+optimization for our fleet. Through our 
+digitalization partnerships with Google and 
+Cognite, our digitalization team implemented 
+real-time data feeds of energy consumption, 
+propulsion, speed and other operational parameters from each vessel. Advanced 
+analytics are applied to this data and a real-time 
+view of performance and energy efficiency with 
+benchmarking across the fleet is now used to 
+actively monitor and optimize the performance 
+of each vessel with a focus on reducing fuel 
+usage and emissions to air. 
+// PGS ESG Report 2020
+19Divesting Redundant Equipment// Environmental // Case Study
+As part of our pledge to undertake initiatives 
+that promote greater environmental 
+responsibility, we have signed a cooperation 
+agreement with SurplusHub, the global online 
+portal for selling and buying surplus oil, gas and 
+shipping equipment and materials. 
+Storing, maintaining and potentially 
+scrapping equipment is costly and far from 
+environmentally friendly. As such, we will utilize 
+the SurplusHub platform to potentially dispose 
+of redundant equipment, which other companies 
+may benefit from re-using. SurplusHub.com is a web-based, automated 
+marketplace that connects buyers and sellers  
+all over the world and enables them to negotiate 
+agreements for buying and selling surplus oil, gas, 
+and shipping equipment. Many have described 
+the portal as an ‘eBay for oil and gas equipment’ . 
+PGS has already begun adding assets to the 
+online portal and a significant number of 
+maritime and seismic parts and other surplus 
+equipment will be listed in the weeks and 
+months to come. 
+// PGS ESG Report 2020
+20Social
+Our success depends on maintaining good relations 
+with our employees and other stakeholders. We aim to 
+nurture these through open dialogue, to increase mutual 
+understanding and encourage positive relationships.
+The materiality assessment has resulted in 
+the following key social indicators: 
+	Employment and labor relations 
+	Occupational health and safety 
+	Training and education 
+// PGS ESG Report 2020
+212019 202094%100%**Offices
+Vessels
+People by Location
+649 Offices 334 VesselsPerformance Review
+* Performance reviews for 2020 will be finalized 
+during the second quarter of 2021. The final 
+number will be reported in next year’s report.2018 201790%100%97%100%// Social
+Number of Employees  
+by Year-end2017 2018 2019 20201 436
+1 247 1 248
+862
+British, Norwegian, Polish, American, 
+Canadian, French, Swedish, Russian, 
+Irish, Australian, Indian, Brazilian, 
+Croatian, Malaysian, Nigerian, Belgian, 
+Danish, Egyptian, Finnish, Indonesian, 
+Italian, Filipino, Turkish, Ukrainian, 
+Bulgarian, Dutch, German, Maltese, 
+Mexican, Romanian, South African, 
+Vietnamese 32 Nationalities on PGS Vessels
+Norwegian, British, American, Egyptian, 
+French, Brazilian, German, Angolan, 
+Russian, Australian, Chinese, Malaysian, 
+Dutch, Irish, Polish, Mexican, Swedish, 
+Indian, Nigerian, Italian, Venezuelan, 
+Canadian, Danish, Ghanaian, Japanese, 
+Singaporean, Spanish, Tunisian, Finnish, 
+Greek, Kazakhstani, Portuguese, South 
+African, Azerbaijani, Belgian, Bhutan, 
+Bulgarian, Colombian, Croatian, Iranian, 
+Moroccan, Filipino, Serbian, Turkish44 Nationalities in PGS OfficesKey Figures
+// PGS ESG Report 2020
+22Offices by Gender
+30% Female 70%  MaleVessels by Gender
+2% Female 98% MaleVessels by Nationality
+ 33% British 17% Norwegian  
+13% Polish  11% American 
+4% Canadian 3% French 
+2% Swedish 19% Other
+Offices by Nationality
+ 28% Norwegian 18% British 
+ 11% American 6% Egyptian  
+4% French 4% Brazilian  
+3% German 3% Angolan 26% OtherVessels by Age
+73% Under 55 years  
+27% 55 and overUnder  
+55
+Offices by Age
+79%  Under 55 years  
+21% 55 and over// Social
+Parental Leave by Gender
+We follow local regulations regarding employees entitled to parental leave
+Employees that took parental 
+leave
+9 Female 23  MaleEmployees that returned to work 
+in 2020 after parental leave ended
+9 Female 23  MaleEmployees that returned to work after parental 
+leave ended that were still employed 12 months 
+after their return to work
+7 Female 22 MaleUnder  
+55
+// PGS ESG Report 2020
+23 2017 2018 2019 2020
+Lost Time Injury (L TI) 1 1 3 3 
+Restricted Work Case (RWC) 0 3 0 0 
+Medical Treatment Case (MTC) 3 2 2 0 
+Total Recordable Incidents 4 6 5 3 
+High Potential Incidents 3 1 2 2 
+Man-hours (millions)* 6.7 5.2 5.8 4.6 
+High Potential Incident  
+Frequency (HIPO)*
+Per million man-hours2017 2020 2018 20190.45 0.44
+0.190.35
+Total Recordable Case  
+Frequency (“TRCF”)*
+Per million man-hours.2020 2017 2018 20190.65
+0.601.15
+0.86
+20200.65
+Lost Time Incident  
+Frequency (“LTIF”)*
+Per million man-hours.2017 2018 20190.150.190.52// Social
+// PGS ESG Report 2020
+24Employment and Labor Relations
+Our ambition is to attract, engage, develop, 
+and retain a highly skilled workforce. We are 
+committed to recruiting individuals based 
+on their qualifications, value and potential. 
+Diversity is considered an important 
+parameter in recruitment. We provide 
+attractive and fair compensation and benefit 
+packages that support our overall employee 
+value proposition. 
+The year 2020 was about company 
+survival. We hired 27 employees, while 333 
+unfortunately had to leave the Company. 
+All employees that were considered for 
+termination, underwent a consultation 
+period where a notice was given of one 
+to five weeks prior to their consultation 
+meeting. Although not a legal requirement, 
+the employees were encouraged to bring 
+representatives to support them in the 
+consultation meeting. In most cases,  
+the meetings were attended by the 
+employee, their immediate manager,  
+an HR representative, and the 
+representative of the employee.  
+Once a termination agreement was 
+reached, the affected employees were 
+offered outplacement support, which 
+included a transition-assistance program 
+aimed at ensuring their continued 
+employability. A total of 147 people used 
+the services of the external outplacement 
+support company.
+Occupational Health and Safety
+Seismic operations encompass many 
+high-risk activities and involve working in 
+remote areas and locations with elevated health and security risks. Our health and 
+safety management system is structured 
+around the ‘Plan-Do-Act-Check’ model for 
+continuous improvement, as defined by 
+the IAGC/IOGP Guidelines and is certified 
+according to the ISO 14001 and OHSAS 
+18001 standards.  
+Management of health and safety in PGS 
+is a line-management responsibility. Our 
+HSEQ department consists of subject-
+matter experts within maritime, quality, 
+environment, and security, who support 
+and advise line management and crew. 
+Our ambition is zero injury to people.  
+We are committed to: 
+	Promoting good health and well-being 
+for all people who involved in our 
+operations. 
+	Preventing injuries and ill health, 
+providing safe and healthy working 
+conditions 
+	Promoting safe behavior and 
+empowering our colleagues to lead  
+by example 
+We continuously work to ensure that 
+we act responsibly and are accountable 
+for our actions. Our procedures to stop 
+any unsafe work are firm and encourage 
+intervention, we prohibit the possession 
+and consumption of illegal substances and 
+alcohol at worksites. These commitments 
+exist because they are in the best interest 
+of PGS employees and stakeholders and 
+are essential for the long-term business 
+success of the Company.// Social
+// PGS ESG Report 2020
+25Gamified Learning for HSEQ Traning// Social // Case Study
+PGS has a well-established HSEQ training 
+system, which provides the framework for 
+defining HSEQ competence and training 
+requirements. We focus on four core HSEQ 
+competencies:  
+	HSEQ requirements and best practice 
+	HSEQ principles, management system  
+and compliance 
+	Risk management  
+(including emergency response) 
+	Auditing techniques and quality assurance  
+Minimum training and competence requirements 
+are identified for all employees with HSEQ 
+responsibility, based on a HSEQ Competence  
+and Training Matrix. Research shows that applying what has been 
+learned to real-world situations strengthens an 
+individual’s focus and determination to learn. 
+Therefore, we introduced gamified learning in 
+PGS. A gamified app has been developed in 
+cooperation with Attensi AS. In the app game, 
+available for phone and tablets, crew members 
+play through different scenarios and dilemmas 
+related to HSEQ and gain points for correct 
+answers. This training is mandatory for all 
+crew and replaces some of the courses from 
+the existing HSEQ competence and training 
+matrix. We hope to achieve a higher degree of 
+engagement of HSEQ training by using modern 
+technology, with the goal of improving risk 
+awareness and management. Going forward, 
+our plan is to use the platform for courses in our 
+global training catalog. 
+// PGS ESG Report 2020
+26Hazard Identification and Risk Management
+In 2020, we updated the PGS Risk Register to 
+capture and identify any changes in identified 
+major hazards in the workplace. The register 
+provides an overview of all processes and 
+the pre-and post-mitigation risk. For each 
+process, the hazard, risk, controls, and recovery 
+measures are identified. The controls are split 
+into administrative controls, engineering 
+controls, and procedures. All these hazards 
+and risks are regulated by our integrated 
+management system (IMS). The IMS consists 
+of a set of procedures and work instructions. 
+The operational procedures and work 
+instructions have been developed by crew 
+members and support functions within PGS. 
+Safety-critical tasks that are vessel specific 
+have been developed using risk assessment 
+techniques and job safety analysis. 
+PGS crewmembers carry out job safety 
+analysis and risk assessments for all 
+safety-critical tasks where the hazards 
+and control measures need to be assessed. 
+These processes are used to verify the 
+hazard management of established 
+procedures or work instructions.  
+	Examples of the most common areas 
+where hazards are identified include: 
+	Routine jobs that have a potential for 
+serious incidents 
+	Routine jobs that have a history of 
+incidents, including near misses 
+	New jobs or jobs introducing new work 
+methods (e.g. introduction of new 
+equipment) 
+	Non-routine or “one-off” jobs that have 
+a potential for incidents 
+We have remedial plans in place for 
+operations, which are logged in the PGS HSEQ 
+reporting system with action holder and 
+target date. This plan is reviewed annually 
+and controlled by setting key performance 
+indicators for the relevant stakeholders. Managing the Covid-19 Crisis
+PGS has monitored developments 
+closely since the outbreak of the Covid-19 
+pandemic and taken prompt and proactive 
+actions to manage the situation as 
+it affects our business. We operate 
+in compliance with all national and 
+international authorities and regulations 
+regarding implemented restrictions on 
+travel, quarantine, and isolation. We 
+are supported by International SOS, our 
+medical and security services provider, and 
+work closely with our industry network 
+and clients to ensure we have the best 
+situational awareness and response. 
+To ensure the safety of our employees and 
+business continuity through the pandemic, 
+we have implemented strict protocols 
+to prevent an outbreak of Covid-19 in our 
+offices and in particular on our vessels. 
+All personnel travelling to a PGS vessel 
+are subject to strict quarantine and test 
+requirements before being allowed to 
+board. In the absence of national guidelines 
+all personnel are required to undergo a 
+minimum 7 days of quarantine and return a 
+negative Reverse transcription polymerase 
+chain reaction (RT-PCR) test before boarding. 
+After boarding, an additional 7-day 
+precautionary period of social distancing, 
+face masks and strict hygiene measures are 
+implemented. The modern and spacious 
+design of our vessels enable crew to sustain 
+operations while maintaining safe distance. 
+If after 14 days since starting the quarantine 
+no one is exhibiting any symptoms 
+indicating Covid-19 all measures are lifted 
+and the vessel can operate as normal.  
+As our understanding of the disease is 
+constantly evolving, we are continuously 
+working on adjusting our strict onboard 
+mitigations and do utmost to keep our 
+crews safe. 
+In 2020, we had zero incidents of personnel 
+with Covid-19 onboard our vessels during 
+seismic surveys.// Social
+// PGS ESG Report 2020
+27Crew Change in the Covid-19 Era// Social // Case Study
+Crew change is an important and challenging part 
+of any marine seismic operation. It is particularly 
+true for a highly diverse company like PGS that 
+employs skilled professionals from all over the 
+world on its vessels. Crew changes can be complex, 
+however since March 2020, the differences in 
+government response to the worldwide Covid-19 
+pandemic have made crewing significantly more 
+challenging and complicated. 
+Before Covid-19, crew change dates for all vessels 
+were known at least 12 months in advance. The 
+duration of each trip was fixed. The core crew for 
+each vessel was known. Since March 2020, crew 
+changes have been among the highest risks to 
+our vessel operations. Because PGS regards the 
+safety of its crew as its highest priority, if that 
+risk were not mitigated to an acceptable level, 
+operations could be stopped or delayed. 
+Throughout 2020, crew change dates were 
+based on a compromise between operational 
+needs, availability of air transportation, and 
+preventing crew burnout. Trips were extended 
+for up to 10 weeks, to limit the amount of travel 
+and provide more time for crew change planning. Crewmembers that joined shifts in February for 
+a five-week deployment were still at sea in May.  
+At home, many crewmembers on break were 
+not able to leave their country of residence.  This 
+quickly developing situation created significant 
+logistical challenges that the operations 
+department had to overcome if we were to 
+remain in production. 
+Each vessel had specific guidelines and 
+instructions for each crew change. Regular crew 
+change planning meetings were held (at least 
+weekly) prior to crew change, to determine 
+crew availability, if they could leave their 
+home country, if they could enter the country 
+where the vessel was located, to get the crew 
+safely to the vessel and the off-signers home. 
+Teleconference meetings were held with the on-
+signing crew prior to crew change, to explain the 
+crew change plans and provide an opportunity 
+for crewmembers to raise any concerns. With 
+each crew change, the team has learned valuable 
+lessons and made improvements for the next.  
+// PGS ESG Report 2020
+28Training and Education
+We provide, promote, and encourage 
+learning and development opportunities 
+for all our employees. We make sure that 
+employees understand their role and that 
+performance and development goals are 
+defined and followed-up through dialog 
+and feedback. 
+Our performance management process is 
+designed to help people perform at their best 
+by motivating them to achieve or surpass 
+their goals. The process is designed to be 
+fair, transparent, and consistent, clearly 
+linking reward to individual performance.  
+A formal performance discussion between 
+the employee and their manager is held at 
+least once a year, in which goals, execution, 
+and development needs are reviewed. 
+We identify talented employees by 
+evaluating and discussing their potential  
+at a senior level across business units.  
+Our employee-survey results have highlighted that providing improved 
+professional and personal development is 
+important and we are concentrating our 
+efforts to further improve our processes.  
+To upgrade employee skills and enhance  
+our talent development opportunities,  
+we are taking the following actions:  
+	Coaching managers and employees  
+	Offering temporary assignments to 
+stretch peoples’ capabilities, in their 
+current location or another office 
+	Focusing on internal recruitment to  
+fill vacancies  
+	In some cases, offering special services 
+from external consultants to support 
+individuals and groups and ensure 
+development to meet individual and 
+collective business needs. // Social
+// PGS ESG Report 2020
+29Our Digital Transformation Progress// Social // Case Study
+The digital transformation journey we had embarked on a few years 
+back was sharply accelerated by the unplanned events of 2020. 
+Digitalization will be crucial for our post-Covid recovery, including  
+use of machine learning and artificial intelligence.  
+We managed to achieve significant progress in 
+areas such as: 
+	A new cloud-native platform for seismic 
+imaging – PGS Eos 
+	Managing a cloud-enabled fleet – PGS 
+Proteus - predictive maintenance, optimized 
+vessel speeds, and productivity improvements 
+from big data analytics 
+	Accessing and using MultiClient data in the 
+cloud using new business models – PGS Solis
+// PGS ESG Report 2020
+30PGS Solis — MultiClient Data in the Cloud
+Access and act on data in the cloud 
+Flexible subscription models 
+Data management as a service (DMaaS) 
+PGS Solis is a data management platform for 
+subsurface information that will offer instant 
+access to MutliClient data to subscribers, 
+as well as data management as a service. It 
+will be integrated in our pioneering strategic 
+partnership with TGS and CGG, as part of a shared 
+marketplace for subsurface MultiClient data.  We expect the momentum to increase further in 
+2021 as we continue our digital transformation 
+journey and increasingly take advantage of the 
+more effective and productive ways of working.
+// Social // Case Study
+// PGS ESG Report 2020
+31PGS Proteus — Cloud Enabled Fleet
+New insights from production-scale data analytics  
+View, analyze and act on worldwide operations  
+Collect, connect, operationalize & scale 
+PGS Proteus harnesses the power of big data 
+to optimize vessel operations. Various focus 
+areas target energy efficiency, vessel speed, 
+equipment maintenance of streamers and 
+eBirds, and improved HSEQ for small boat 
+operations and use of personal protection equipment. All use-cases have delivered 
+measurable results and we have started to 
+fully implement them across our active fleet. 
+We will continue to harvest and evolve these 
+productivity improvements.  
+// Social // Case Study
+// PGS ESG Report 2020
+32PGS Eos — Imaging in the Cloud
+Collaborative platform  
+Managing finite resources  
+Faster when it counts
+Through our cloud-enabled PGS Eos platform, 
+we look forward to fully utilizing the benefits of 
+the cloud to deliver reliable and timely results to 
+our clients. This initiative has potential to access 
+unlimited compute capacity and application of 
+the latest technology. We have begun our first 
+commercial imaging project  in the cloud. 
+We have also started leveraging machine 
+learning and artificial intelligence in seismic imaging, to improve our velocity model building, 
+allowing for faster convergence to the final 
+velocity model. What used to take months, now 
+takes weeks. Further, a proof-of-concept project 
+by our Imaging teams to identify patterns 
+in historic processing sequences shows that 
+seismic processing parameter extraction may 
+produce equivalent seismic quality by using 
+historical trends, thereby minimizing testing  
+and accelerating data delivery. 
+// Social // Case Study
+// PGS ESG Report 2020
+33Governance
+PGS is committed to providing a positive, inclusive, 
+and sustainable working environment. We are a 
+contributing member to Transparency International 
+Norway. We treat all individuals fairly. We adhere to the 
+International Labor Organization’s (ILO) Core Conventions 
+on Labor Standards, the United Nation’s (UN) Universal 
+Declaration of Human Rights and applicable labor 
+standards. We do not tolerate any breaches of these 
+principles and work towards ensuring employees feel 
+confident in raising concerns to management without 
+fear of retribution.  
+The materiality assessment has resulted in 
+the following key governance indicators: 
+	Corporate governance  
+	Anti-corruption 
+	Tax 
+	Anti-competitive behavior 
+	Economic performance 
+// PGS ESG Report 2020
+34Corporate Governance
+Our corporate governance model is based 
+on the Norwegian Code of Practice for 
+Corporate Governance. We operate on a 
+regular basis in countries with elevated 
+risk of corruption. We recognize that our 
+future success depends on maintaining the 
+highest standards of corporate governance 
+for the way we conduct our business, 
+deliver our services, and create value for  
+our shareholders. 
+PGS has built a value set that provides the 
+foundation for all our goals, policies, and 
+actions. These offer clear guidelines on how 
+we expect everyone at PGS to interact with 
+their colleagues, suppliers, customers, and 
+the people we encounter in our day-to-day 
+work. We are committed to living our core 
+values and to conducting our business with 
+the utmost integrity. We hold ourselves to 
+high ethical standards in all our business 
+dealings around the world. 
+The PGS Board of Directors is responsible 
+for establishing appropriate guidelines, 
+monitoring, and ensuring that internal risk 
+management systems are in place. We 
+regularly review and update our governing 
+documents to reflect changes in best 
+practice and the evolving risks we face. 
+Anti-corruption
+Compliance with laws, rules, and 
+regulations, including anti-corruption laws 
+applicable to the conduct of our business 
+activities, is a fundamental part of the 
+PGS Code of Conduct. Our anti-corruption 
+program reflects the Company’s promise 
+to its shareholders, customers, and 
+other stakeholders to operate legally and 
+ethically. It is based on best practice and 
+standards, including but not limited to 
+Norwegian law and practice, the UK Bribery 
+Act, the US Foreign Corrupt Practices Act 
+(FCPA),and the ISO Standard for Anti-
+bribery Management Systems 37001. The 
+program addresses the corruption risks in 
+relation to PGS’ business, and monitors compliance. It is established on the 
+following key principles:  
+	Tone from the top 
+	Policies and procedures 
+	Risk assessments 
+	Due diligence 
+	Communication and training  
+	Monitoring and review  
+The program includes a clear, practical, 
+accessible, effectively implemented and 
+enforced system of controls to prevent, 
+detect, and respond to corruption and bribery.  
+Anti-corrutption Risk Assessments
+We perform stakeholder analysis, context 
+analyses, and a group risk-assessment that 
+address all PGS locations and activities 
+on an annual basis. In addition, each year 
+we do a global likelihood-of-corruption-
+exposure assessment, by country. In 
+this assessment, the starting point is 
+Transparency International’s CPI, which is 
+adjusted for the likelihood of PGS business, 
+activities, and presence in the respective 
+countries. As such, all our operations are 
+assessed for risks related to corruption. 
+We are currently upgrading our measuring 
+system to become even more effective. 
+At activity or transaction level, we 
+use several processes to conduct risks 
+assessments in advance of conducting an 
+activity. Corruption risks are an integrated 
+part of these. In 2020, through our group 
+corruption risk assessment, we identified 
+four inherently significant or high risks to 
+PGS linked to Interacting with government 
+officials (two risks), use of agents (one risk) 
+and joint ventures (one risk). 
+We perform risk assessments or pre-
+qualification assessments of our suppliers. 
+Integrity due diligence is performed on 
+business partners, to provide pre-defined 
+‘exposing services’ and where the assessed 
+inherent risk is greater than Low. Due // Governance
+// PGS ESG Report 2020
+35diligence on existing business partners is 
+repeated at a frequency defined by the 
+assessed risk level. 
+Communicating and Trainin on Anti-corruption  
+Policies and Procedures
+We have a well-established system 
+for communicating and training our 
+stakeholders on our anti-corruption 
+program.  The PGS Audit Committee receive 
+regular information, updates, and training 
+regarding the anti-corruption program. 
+In addition, each year the full Board of 
+Directors and all members of our executive 
+management respond to questions about 
+critical governance requirements, including 
+anti-corruption. 
+All PGS employees are also reminded of 
+our policies and procedures, and regularly 
+informed of any changes to our anti-
+corruption program through intranet 
+articles, e-learning, in-person training, emails from the CEO and their line 
+managers. We also provide anti-corruption 
+onboarding, to train all new employees. 
+In 2020, 97 % of PGS onshore employees 
+and maritime officers received e-learning0. 
+In addition, vessel crew receive onboard 
+training and office-based employees in 
+exposed roles receive in-person training. 
+Our key business partners are required to 
+provide annual confirmations of compliance, 
+which include elements about our anti-
+corruption program. This applies to business 
+partners with an inherent exposure level. 
+Failure to file this confirmation means  
+PGS will not use the supplier. PGS makes 
+these requirements clear in contractual 
+clauses and repeats them during audits  
+and management meetings. // Governance
+33 Ships agents  8 Environmental 
+consultants  7 Sales agents and 
+representatives  7 Escort and support 
+vessels  7 Other17 Africa  15 Asia  6 Europe  13 Global  
+3 North America  3 Oceania   
+11 South America68Business Partners 
+by RegionType of Business 
+Partner
+Business PartnersKey Figures
+// PGS ESG Report 2020
+36Tax
+PGS operates with a range of legal 
+entities across several tax jurisdictions 
+and regulatory schemes, in countries with 
+varying regulatory schemes. The main 
+objective of our tax strategy is to ensure 
+PGS is a responsible corporate citizen by 
+paying taxes when legally due, and to 
+minimize tax expense based on strong 
+professional integrity and in compliance 
+with tax laws and regulations. We ensure 
+timely and accurate reporting and filings 
+of tax returns. All tax risks are carefully 
+evaluated for tax planning and tax advisory. 
+We ensure all tax planning has commercial 
+and economic substance, and we have a 
+pro-active approach to tax audits.  
+Our tax department is responsible for 
+planning, compliance, and controversies 
+/ requests from tax authorities. Our tax 
+strategy includes corporate income tax, 
+withholding taxes, employee taxes including 
+for crew and expats, indirect taxes such as 
+VAT/GST, duties and import taxes. Explicit 
+standards in our management system set 
+requirements for proactive tax planning, 
+compliance, accounting, and audit handling.Anti-competitive Behavior  
+and Economic Performance
+There is considerable focus on fair 
+competition in the seismic industry, both 
+from industry organizations such as IAGC, 
+governments, and clients. PGS engages 
+from time to time in joint-ventures and 
+collaboration projects with other companies 
+within the seismic industry. PGS has 
+developed policies and guidelines to ensure 
+that these projects are conducted well 
+within the boundaries of applicable anti-
+trust/competition law. The nature of such 
+projects may differ. An example is joint 
+seismic data production projects, which 
+typically will yield more seismic data to the 
+market at a lower cost to our customers. 
+No legal actions have been pending or 
+completed during 2020 regarding anti-
+competitive behavior or violations of anti-
+trust and monopoly legislation in which 
+PGS has been identified as a participant. 
+The economic value created for our 
+stakeholders is communicated in our 
+Annual Report, which also details the 
+financial assistance received from the 
+Norwegian government.// Governance
+// PGS ESG Report 2020
+37Our Data to Clients Faster and Easier// Governance // Case Study
+PGS’ partnership with TGS and CGG on a 
+shared MultiClient ecosystem for accessing 
+subsurface data, is a new milestone in digital 
+transformation for our industry. 
+The independent cloud-based system will offer 
+a single access point to all three companies’ 
+MultiClient data libraries, allowing customers 
+to find, visualize and download their subsurface 
+assets and entitlements. This will also provide 
+a shop window from which clients can identify 
+surveys of interest. They will then be passed to 
+each vendor’s environment for data visualization 
+and further engagement. The MultiClient 
+libraries will not be commercially combined. This partnership is complementary to the PGS 
+Solis initiative, for cloud-enabled MultiClient 
+data access. PGS is cooperating with Cognite and 
+Cognizant to develop this PGS-specific platform 
+that will allow clients to directly access and act 
+on PGS Multiclient data in the cloud or download 
+it to their own environment. 
+Based on strong client interest, we expect to 
+commercialize this initiative during the first half 
+of 2021, by signing up customers for seismic 
+data management as a service. 
+// PGS ESG Report 2020
+38Human Rights and Supplier Conduct
+Everywhere it operates, PGS complies with 
+applicable laws and regulations within 
+the fields of human and workers’ rights. 
+In addition, we also adhere to Principles 
+1-6 of the UN Global Compact, the OECD 
+Guidelines for Multinational Enterprises, 
+the International Bill of Rights, UN 
+Universal Declaration of Human Rights 
+(1948), the UN Guiding Principles on 
+Business and Human Rights, and the ILO 
+core conventions. PGS also adheres in its 
+worldwide operations to the standards in 
+the UK Modern Slavery Act (2015).  We are determined that our suppliers 
+also should adhere to these standards. 
+To ensure this, we regularly do perform 
+diligence assessments and conduct audits 
+on our supply chain. We ensure that our 
+procurement and contracting processes 
+adhere to PGS’ requirements in respect 
+of ethics, anti-corruption, HSEQ, export 
+control, and sanctions. We are currently 
+developing a PGS Supplier Code of 
+Conduct, which we plan to roll out in 2021. 
+Our ambition is to reduce supply-chain 
+risk, ensure the supply of goods at right 
+quality, quantity, time and place, capture 
+economies of scale, and ensure the best 
+possible terms and conditions for PGS.
+80%
+Top 100 Suppliers Share  
+of Total Spend
+Supplier Audits2017 2018 2019 202011
+5612*
+Suppliers2017 2018 2019 20202806
+23762229
+1966
+Supplier Verification2017 2018 2019 202044
+39
+36
+30
+Includes Annual Certifications  
+and Due DiligencesSource: PGS Critical Supplier  
+Audit Plan 2018.  
+* 6 by PGS & 14 by IncentraKey Supplier Figures// Governance
+// PGS ESG Report 2020
+39Looking Ahead
+Our stakeholders expect us to come up with smart 
+and sustainable solutions to the challenges we face, 
+especially when it comes to reducing greenhouse gas 
+emissions. We need to provide coherent communication 
+on how we address climate change as a strategic priority.  
+Access to reliable and affordable energy is essential 
+for life on earth. We are committed to being part of a 
+solution that will look at the best ways to provide such 
+energy, while reducing risks to the environment. As the 
+solutions are evolving, we have embarked on a mission 
+to put ourselves at the forefront of the changing energy 
+landscape and will continue to utilize our ESG reporting 
+process to communicate our efforts at managing 
+sustainability-related risks and opportunities to  
+our stakeholders.  
+Find out more: www.pgs.com/responsibility 
+Contact us:  Corporate.Responsibility@pgs.com
+// PGS ESG Report 2020
+40www.pgs.com/responsibility

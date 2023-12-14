@@ -1,0 +1,2629 @@
+Environmental, 
+Social &  
+Governance
+broadcom.com2020 
+REPORTLetter from Our CEO  4
+Introduction  5
+Who We Are 5
+Our Global Presence 6
+What We Make 7
+Responding to COVID-19 8
+Our Strategy 9
+Connecting Everything, Responsibly  10
+About This Report  13
+Environmental Stewardship 14
+Managing Our Environmental Impact 15
+Energy and Emissions  16
+Water and Waste Management 18
+Social Impact 20
+Diversity and Inclusion  21
+Compensation and Benefits 24
+Training and Development 26
+Employee Health and Safety 27
+Investing in Our Communities 30
+Supply Chain Responsibility 33
+Governance  37
+Corporate Governance and Board Oversight  38
+Stakeholder Engagement  39
+Ethics and Integrity  4 1
+Data Privacy and Cybersecurity  44
+Product Quality  47
+Appendix  48
+2
+BROADCOM  2020 ESG REPORT Table of Con TenTsWe connect everything and, 
+more importantly, everyone. 
+Our responsible procurement and business practices, 
+together with our talented and dedicated workforce, enable 
+us to deliver innovative technology solutions that enhance 
+the way we live, work and play. Our products create 
+opportunities for the world's diverse populations, inextricably 
+linking financial, social and environmental sustainability. 
+3
+BROADCOM  2020 ESG REPORT Conne CTing e very ThingLetter from Our CEO 
+Over the past several years, we have transformed 
+Broadcom into a global technology leader that 
+delivers products and solutions “connecting 
+everything” in our lives. 
+Connections are at the core of what we do, and 
+this inaugural Environment, Social & Governance 
+(ESG) Report reflects our commitment to 
+connect with the many diverse constituencies 
+worldwide who have a stake in the responsible 
+conduct of our business.
+The technologies we create are often unseen, 
+but impact countless aspects of daily life. As 
+the world confronts a life-changing pandemic, 
+now more than ever we seek to take care of 
+our employees and the communities where 
+we operate, while also ensuring we continue to 
+deliver the mission-critical solutions on which our 
+customers, and their customers, depend.
+I am proud of all our work in the face of the 
+COVID-19 pandemic. Our products and 
+technologies have supported people through the 
+upheaval the pandemic has caused by helping to 
+preserve and strengthen many of the economic 
+and social connections that the virus has strained. 
+Our wireless and broadband solutions enabled 
+millions of people to work remotely and for children to attend school safely from a distance 
+during periods of quarantine and shelter-in-place, 
+and also supported governments, companies and 
+schools in their efforts to safely and seamlessly 
+resume activities. Meanwhile, our software 
+products helped government agencies securely 
+set up or expand public assistance programs in 
+response to the pandemic. And, as biotechnology 
+firms continue to make progress on potential 
+therapies and immunizations, our encoders 
+and optocouplers are used in the industrial 
+automation processes for the manufacture of 
+vaccines and in the packaging and delivery 
+mechanisms needed to deploy them. 
+These achievements and many others are 
+made possible by our more than 20,000 
+talented employees who are at the core of our 
+success. We strive to maintain a transparent and 
+meritocratic work environment that supports the 
+diversity and inclusiveness of our workforce and 
+empowers and rewards our employees. 
+We also recognize our responsibility to reduce 
+our impact on the environment and in recent years we have implemented a number of 
+measures that do this, including installing 
+perfluorocarbon emissions abatement devices to 
+cut our greenhouse gas emissions, and investing 
+in water recycling equipment to reduce our 
+freshwater intake. These efforts not only improve 
+our resource efficiency, but they also enhance our 
+financial performance. 
+As we work to connect everything, we seek to do 
+so responsibly. We strive to deliver best-in-class 
+products to our customers, and to exceed the 
+expectations of our stakeholders. I am committed 
+to keeping our ESG efforts focused on initiatives 
+and activities that improve efficiency and mitigate 
+our risks, while also delivering on our return-on-
+investment requirements. We look forward to 
+continuing to report on our progress in this area in 
+the coming years. 
+Hock E. Tan  
+President and Chief Executive Officer  
+Broadcom Inc.As we work to connect everything,  
+we seek to do so responsibly.
+4
+BROADCOM  2020 ESG REPORT leTTer from o ur C eoWho We Are
+Broadcom is a global technology leader 
+that designs, develops, and supplies 
+a broad range of semiconductor and 
+infrastructure software solutions.
+Recognized for our innovation, collaboration, and engineering 
+excellence for over 50 years, we deliver to our customers 
+proven, mission-critical technologies with a focus on “connecting 
+everything”® more efficiently, reliably and securely. 
+Our rich heritage can be traced to technology pioneers such as 
+AT&T Bell Laboratories, Lucent Technologies & Agere Systems, 
+Hewlett-Packard & Agilent Technologies, LSI Logic, Avago 
+Technologies, Broadcom Corporation, Brocade Communication 
+Systems, CA Technologies and Symantec Corporation and our 
+culture of technological innovation continues today, thanks to 
+our more than 20,000 talented and dedicated employees across 
+the Americas, Asia, Europe and the Middle East. 
+We leverage our scale and engineering expertise to support 
+many of the world’s largest enterprises, including most of the 
+Fortune 500 and many government agencies. Our cutting-edge 
+products and technologies are used in a wide range of critical 
+industries, including telecommunications, manufacturing, energy, 
+transportation, healthcare and finance. We design and build 
+high-performance, complex semiconductor devices that are 
+used in countless end-products and applications, and we deliver 
+infrastructure software solutions that allow our customers to 
+plan, develop, automate, manage and secure applications and 
+data across mainframe, distributed, mobile and cloud platforms.
+5
+BROADCOM  2020 ESG REPORT Who We a reHeadquarters 
+san Jose, California
+Manufacturing Locations 
+Colorado, north Carolina,  
+Pennsylvania and s ingapore  
+85 locations
+globally where our culture of  
+technological innovation continues.
+>20,000 employees
+across the Americas, Asia, Europe, and the Middle East.AVGO
+Nasdaq
+learn more about our history and subsidiaries:Our Global Presence
+Annual Report 
+on Form 10-KBroadcom's History 
+webpage
+6
+BROADCOM  2020 ESG REPORT our g lobal PresenC eWhat We Make
+Our technologies are ubiquitous. For example, 
+the smartphone you may be using to read this 
+report is probably powered by components 
+that we make. When you are at home, our 
+products are in your television set-top boxes 
+and media streaming players, Wi-Fi routers, 
+broadband gateways and cable modems. 
+When you are in your car, our vehicle 
+connectivity technologies are powering your 
+infotainment systems, cameras and safety 
+sensors. When you need life-saving healthcare, 
+our sensor components and encoders 
+enable important medical equipment such as 
+ventilators, defibrillators, MRI machines, PET 
+and CT scanners, infusion pumps and other 
+drug delivery devices. When you are making 
+purchases online, our security software 
+helps your payment-card issuer distinguish 
+legitimate transactions from fraudulent ones. 
+When you are at work, we safeguard your 
+data and digital infrastructure from criminals 
+and other malicious actors. In other words, 
+wherever you are, we enable the development, 
+movement and storage of the huge volumes 
+of data needed for myriad business and 
+personal applications. In fact, we estimate 
+more than 99% of internet data traffic passes 
+through one or more of our technologies 
+during its journey from start to finish. 
+   For more information on the semiconductor and 
+software solutions we offer, please refer to our 
+Annual Report on Form 10-K for our fiscal year  
+ended November 1, 2020 .How Our Products and Solutions Help People Every Day
+We develop products and solutions that help people connect with each other and with the world.
+Our FBAR filter, Bluetooth and Wi-Fi combo 
+transceiver and GNSS receiver are used in 
+many smartphones to enable ubiquitous 
+communications, networking and navigation 
+around the world.
+Our automotive Ethernet products enable robust 
+in-vehicle connectivity and networking of cameras 
+and sensors supporting various Advanced Driver 
+Assistance System applications, such as lane 
+departure warning, blind spot detection and 
+autonomous emergency braking, which prevent 
+accidents and increase passenger safety.Our payment authentication software protects 
+consumers by fighting card-not-present fraud.Our sensing and inductive components 
+are embedded in smartwatches, which 
+afford users a variety of lifestyle and 
+wellness benefits, including monitoring and 
+encouraging health and fitness habits.
+7
+BROADCOM  2020 ESG REPORT Wha T We m ake Responding to COVID-19
+As the global COVID-19 pandemic continues to put 
+extraordinary pressure on all of us, our technologies 
+have contributed in several critical ways to the response, 
+supporting people, their well-being and their communities. 
+When public-health 
+authorities and technology 
+firms wanted to develop 
+COVID-19 contract-tracing 
+solutions on mobile phones, 
+they turned to our bluetooth l ow 
+energy technologies  to provide the 
+electromagnetic foundation for their 
+applications.When no-touch technology 
+became a vital part of 
+pandemic containment strategies, our 
+optical sensors  contributed to a wide 
+variety of applications, from medical 
+diagnostic equipment like non-contact 
+infrared thermometers to contactless 
+light switches, water faucets, soap/
+towel dispensers and hand dryers.When large swaths of the 
+global population quarantined 
+or sheltered-in-place, they 
+depended upon our wireless and 
+broadband solutions  to enable home-
+based remote work and distance learning.
+When a leading U.S. medical 
+center wanted to ramp up 
+COVID-19 testing capabilities 
+by rapidly opening drive-
+through testing locations, our identity 
+security solution  enabled clinicians and 
+patients to securely access health data 
+using new mobile devices.When pharmaceutical 
+companies began developing 
+vaccines for the SARS-CoV-2 
+virus and mass-producing face 
+masks, glass vials and syringes, our 
+encoders and optocouplers  were part 
+of the industrial automation processes 
+used for the manufacturing, packaging 
+and delivery of these items.When an urgent need arose for large quantities of ventilators to support 
+critical-care COVID-19 patients, medical-technology innovators leveraged our 
+“system-on-a-Chip”  technology embedded within Raspberry Pi computer 
+boards to design cost-effective, scalable solutions. 
+When national and regional governments needed to rapidly scale public-
+assistance programs amidst an unprecedented surge of unemployment, our 
+enterprise software and security  divisions rallied to help agencies deploy 
+efficient and secure web applications that processed millions of requests for 
+financial support.   For more information on our internal health and 
+safety, philanthropic and supply chain resiliency 
+responses to COVID-19, please see pages 29, 31 and 
+33, respectively, of this report.
+8
+BROADCOM  2020 ESG REPORT resPonding T o Covid -19 Our Strategy
+Our strategic focus is on delivering a 
+comprehensive suite of leading-edge technology 
+solutions to the world’s largest business and 
+government customers over the long term. We 
+seek to achieve this through responsibly financed 
+acquisitions of category-leading businesses 
+and mission-critical technologies in established 
+markets, as well as by investing extensively 
+in research and development (R&D) to help 
+our existing products retain their technology 
+leadership. We also strategically focus our R&D 
+resources to address niche growth opportunities 
+in our target markets. Many of our products have 
+grown out of our rigorous R&D approach, which 
+in turn has supported our competitive advantage 
+and performance differentiation. 
+Our manufacturing business model is 
+primarily outsourced—relying on trusted, 
+reputable industry partners. We use our own 
+environmentally responsible fabrication facilities 
+(or fabs) in Fort Collins, Colorado; Charlotte, 
+North Carolina; Breinigsville, Pennsylvania; 
+and Singapore to make products utilizing our 
+innovative and proprietary processes. This 
+approach allows us to protect our intellectual 
+property, accelerate time to market of our 
+products and provide a reliable supply of key 
+components.
+Our ESG priorities are also focused on the long-
+term and are underpinned by and aligned with 
+our long-term business strategy and capital 
+allocation practices, as discussed in more detail 
+to follow.generating v alue
+We combine best-of-breed technology with 
+unmatched scale, leveraging a common sales 
+and administrative platform, which results in 
+a robust business model designed to drive 
+diversified and sustainable operating and 
+financial results. Fortune magazine named 
+us #1 for the highest return on revenue in the 
+Fortune 500, in 2018, and #3 for 10-year total 
+shareholder return in the Fortune 500, in 2019.
+Through our highly efficient operating model 
+we strive to maximize value for our stakeholders, 
+while providing flexibility in how we can invest 
+our resources. Our disciplined management, 
+operating and acquisition strategies have allowed 
+us to increase our dividend every year since we 
+began paying dividends in 2010, and has allowed 
+us to repurchase an aggregate of $14.5 billion of 
+our common stock (including shares withheld to 
+cover taxes due on vesting of employee equity) 
+over the last three fiscal years.1fiscal y ear 2020 h ighlights
+$23.9B 
+in net  
+revenue
+$5.0B
+or 20.8% of 
+revenue, in 
+research and 
+development 
+expenditures$463M 
+in capital 
+expenditures
+$13.00
+in aggregate 
+cash dividends, 
+per share of 
+common stock
+   Additional information with respect to our financial 
+results may be found in our Annual Report on Form 
+10-K for FY20. 
+1.  The declaration and payment of any dividend and share repurchases are subject to the 
+approval of our Board of Directors. 9
+BROADCOM  2020 ESG REPORT our sT raTegyConnecting Everything, Responsibly 
+Our mission is to connect everything and, more importantly, everyone. Our 
+responsible procurement and business practices, together with our talented 
+and dedicated workforce, enable us to deliver innovative technology solutions 
+that enhance the way we live, work and play. Our products create opportunities 
+for the world’s diverse populations, inextricably linking financial, social and 
+environmental sustainability. 
+Our motto— connecting everything —represents both a challenge and an 
+opportunity for our business. It requires that we create innovative technology 
+solutions for our customers, while also considering how we impact our other 
+stakeholders and the value chains in which we operate.
+10
+BROADCOM  2020 ESG REPORT Conne CTing e very Thing, r esPonsibly  Our ESG Priorities
+During our fiscal year ended November 1, 
+2020 (FY20), we conducted our inaugural ESG 
+materiality assessment, to help us understand 
+the ESG issues that are most significant to the 
+company and our stakeholders, and to guide us 
+as we develop our ESG program and initiatives. 
+During this process, we undertook a robust 
+analysis that considered a wide range of inputs to 
+identify focus areas, risks and opportunities for the 
+company. These inputs included the following:
+• Reviews of leading global reporting guidelines, 
+including the Global Reporting Initiative (GRI) 
+and Sustainability Accounting Standards 
+Board (SASB), and market trends and 
+standards in the semiconductor and software 
+industries, including the focus areas set forth 
+by the Responsible Business Alliance (RBA).
+• Perspectives and feedback received from  
+our investors and our customers on their  
+ESG priorities.
+•  Engagement with key internal stakeholders, 
+including our employees, senior leadership, 
+and internal subject matter experts, to identify 
+and prioritize the ESG issues with the most 
+significant potential impact on our business. 
+The resulting issues were evaluated, ranked and 
+validated by our ESG Steering Committee and 
+reviewed by our Board of Directors (Board). The 
+ESG topics presented below were determined 
+to be the most significant and will guide our 
+sustainability programs and initiatives. We intend 
+to periodically refresh our materiality assessment. broadcom’s m aterial esg Topics
+The topics we deem most material to our  
+stakeholders, to our impacts and to our  
+ability to create long-term value, include:
+environment
+ Energy use and efficiency
+Greenhouse gas emissions
+Water management
+Waste management  
+and reduction of  
+hazardous materials
+governance 
+Ethics and integrity
+Corporate governance
+Data privacy and cybersecurity
+Product qualitysocial
+Inclusion, diversity and  
+non-discrimination
+Talent recruitment,  
+development and retention
+Employee health  
+and safety
+Supply chainse
+g
+11
+BROADCOM  2020 ESG REPORT Conne CTing e very Thing, r esPonsibly  Supporting the United Nations  
+Sustainable Development Goals
+The United Nations (UN) Sustainable 
+Development Goals (SDGs) provide a call to 
+action on, and a global framework to address, 
+many of the pressing social and environmental 
+issues facing us today. We understand that 
+companies are increasingly thinking about how 
+they can contribute to the advancement of these 
+goals. We are supportive of the SDGs and strive 
+to conduct our business in an ethical, socially 
+responsible and environmentally sustainable 
+manner that contributes to growth and innovation 
+and delivers economic, social and environmental 
+benefits for all stakeholders. As a company, our 
+mission is to engage our global scale, engineering 
+depth and innovation to deliver technology and 
+infrastructure software solutions to improve 
+the everyday lives of millions of people and to 
+empower and connect people and businesses 
+around the world. 
+The Broadcom Foundation, with which we 
+are affiliated, is also committed to supporting 
+the SDGs by advancing education in science, 
+technology, engineering and math (STEM) 
+and increasing opportunities for young people 
+through its signature programs. 
+We believe technology has the power to 
+transform lives and open new avenues for 
+community engagement and economic 
+prosperity.
+12
+BROADCOM  2020 ESG REPORT Conne CTing e very Thing, r esPonsibly  About This Report 
+report b oundaries 
+This report was published in February 2021. 
+Unless otherwise noted, this report covers 
+Broadcom’s FY20 (November 4, 2019 to 
+November 1, 2020) and provides qualitative 
+and quantitative information on our approach 
+to managing ESG issues. We intend to 
+continue to report on our ESG programs and 
+initiatives annually. For additional information, 
+visit Broadcom’s Corporate Citizenship 
+webpage . This report covers our ESG efforts 
+across our organization, with a primary focus 
+on our activities in the United States.
+reporting g uidelines and Content
+We prepared this report leveraging the GRI 
+Sustainability Reporting Standards (Core 
+option) and the SASB Semiconductors and 
+Software & IT Services Industry Standards. 
+interpretation
+When we use the terms “Broadcom,” “we,” 
+“us,” “our” and the “company”, we mean 
+Broadcom Inc., a Delaware corporation, and 
+its consolidated subsidiaries, taken as a whole, 
+unless the context otherwise indicates.
+Our fiscal year ends on the Sunday closest 
+to October 31 in a 52-week year and the first 
+Sunday in November in a 53-week year. In 
+this report, we refer to our fiscal years by the 
+calendar year in which they end. For example, 
+the fiscal year ended November 4, 2019 is 
+referred to as FY19.The terms “material” and “materiality” as used 
+in this report and in the materiality assessment 
+referenced above are different from those terms 
+as used in the context of filings with the U.S. 
+Securities and Exchange Commission (SEC). 
+Issues deemed material for the purposes of this 
+report or the materiality assessment may not be 
+deemed material for SEC reporting purposes.
+forward- looking s tatements
+This FY20 ESG Report contains forward-
+looking statements, including statements as 
+to our priorities and goals, business strategy, 
+performance and market opportunities, 
+products and technology development, and 
+operations and compliance with applicable 
+laws and regulations, and are based on our 
+current expectations, beliefs and assumptions. 
+Actual results could differ materially from 
+those statements. Risk factors that could cause 
+actual results to differ from our expectations 
+are set forth in the “Risk Factors” section and 
+throughout our Annual Report on Form 10-K 
+for FY20. These risk factors are subject to 
+updating by our future filings and submissions 
+with the SEC and our earnings releases. 
+securities and e xchange Commission filings
+Our annual reports on Form 10-K, quarterly 
+reports on Form 10-Q, current reports on 
+Form 8-K and amendments to these reports 
+are available free of charge on our website 
+as soon as practicable after they are filed or 
+furnished with the SEC. These reports and 
+amendments are also available free of charge 
+on the SEC’s website at www.sec.gov.reporting u ncertainties
+Non-financial information is subject to 
+measurement uncertainties resulting 
+from limitations inherent in the nature 
+and the methods used for determining 
+such data. The selection of different but 
+acceptable measurement techniques can 
+result in materially different measurements. 
+The precision of different measurement 
+techniques may also vary.
+   Additional information with respect to 
+our financial results may be found in 
+our Investor Center on our website. 
+13
+BROADCOM  2020 ESG REPORT abou T This re Por T  Environmental Stewardship
+We seek to manage our operations in a 
+sustainable manner that considers our 
+direct and indirect, and current and future, 
+impacts on the planet. The use of natural 
+resources is an inherent part of our business, 
+and we strive to continuously improve the 
+quality and efficiency of our operations by 
+managing these resources effectively. 
+While our semiconductor business primarily operates through a 
+fabless production model where we outsource the manufacture 
+of our semiconductor chips to trusted third-party suppliers and 
+foundries, we seek to ensure that our proprietary fabs, where we do 
+fabricate our own products, are run sustainably and efficiently.
+We also recognize that robust environmental management is good 
+business, as it means that we can support a sustainable value chain that 
+is risk-prepared, solutions-oriented and lower-impact for the environment 
+for both our customers and our businesses. Managing our environmental 
+impact is not only beneficial from a sustainability perspective and 
+enhances our resilience to climate change, but it can also improve our 
+operational performance and reduce costs. As a result, we focus our 
+environmental initiatives on projects that improve efficiency and mitigate 
+risks, while also delivering on our return on investment requirements.
+14
+BROADCOM  2020 ESG REPORT environmen Tal sT eWardshi PManaging Our Environmental Impact
+Our most significant environmental impacts are associated with the energy we consume, the 
+greenhouse gases (GHG) we emit, the water we use, and the waste we generate in our operations, 
+both directly at our proprietary manufacturing locations and indirectly through our outsourced 
+manufacturing activities. To help us manage these impacts, we have implemented a global  
+Environment and Sustainability Policy , which outlines our environmental standards and expectations.Our environmental management 
+system, which is aligned with 
+the international certification, 
+International Organization for 
+Standardization (ISO) 14001 , guides our 
+efforts in achieving the expectations set forth by 
+our Environment and Sustainability Policy. Our 
+environmental management system serves as a 
+framework for our global operations. In addition, 
+we track and review our environmental data, such 
+as energy and GHG emissions, water usage and 
+waste generated, as we look for ways to improve 
+our environmental performance over time.
+  International Organization 
+for Standardization (ISO) 
+14001 certificationbroadcom’s e nvironment and s ustainability Policy
+• Ensure our products and operations comply with applicable environmental legislation 
+and other related compliance obligations;
+• Operate an environmental management system that is aligned with our business 
+practices including continual improvement;
+• Conduct our operations in a manner that supports recycling, conservation of resources 
+and prevention of pollution and protection of the environment;
+• Responsibly manage the use of hazardous materials in our operations and products;
+• Inform suppliers, partners and contractors of our environmental expectations and 
+encourage them to adopt sound environmental management practices; and
+• Promote environmental responsibility among our employees.
+   Broadcom’s Environment and Sustainability Policy
+ISO 
+14001
+15
+BROADCOM  2020 ESG REPORT environmen Tal sT eWardshi PEnergy and Emissions 
+At Broadcom, we understand that climate 
+change poses a serious challenge for society and 
+that a collective effort is required to effectively 
+mitigate its effects. 
+We actively monitor and collect data on the 
+electricity and fuel we consume in our facilities, 
+which are the primary drivers of our Scope 1 and 
+2 GHG emissions. In FY20, we calculated GHG 
+emissions associated with our electricity, natural 
+gas, diesel, refrigerant and perfluorocarbon 
+(PFC) consumption for our U.S.-based office and 
+manufacturing facilities. Electricity usage at our 
+facilities accounts for approximately 72% of our 
+total energy consumption and approximately 
+53% of our overall Scope 1 and 2 GHG emissions. 
+Our second largest source of GHG emissions are 
+PFCs, which are used in processing equipment 
+at our manufacturing facilities, which account for 
+approximately 37% of our overall Scope 1 and 2 
+GHG emissions. We describe reduction initiatives 
+that target our two largest sources of emissions, 
+among others, below. 
+To drive operational improvement, we routinely 
+review the efficiency of our equipment, 
+technologies and processes, and look for ways to 
+reduce our energy consumption and emissions. 
+We have many on-going long-term efficiency 
+improvement and emission reduction projects 
+throughout our U.S. facilities. For example, we have implemented several GHG 
+emissions reduction and energy saving programs 
+at our Fort Collins site, which is our largest 
+proprietary fab, including:
+• the installation of numerous PFC emission 
+abatement devices, which have resulted 
+in approximately 517,000 tons of avoided 
+emissions, in the aggregate, since their 
+installation began in 2015;
+• the conversion of some of the plant cooling 
+systems from chillers to evaporative cooling, 
+which saves approximately, 7,205,000 kWh of 
+electricity per year; 
+•  the utilization of chiller reject heat to capture 
+waste heat from the plant to warm the water 
+used in the manufacturing process, which 
+saves approximately 45,950 decatherms of 
+natural gas per year; and 
+• various other maintenance protocols and 
+upgrades that result in additional electricity 
+savings of approximately 440,000 kWh per 
+year and eliminate the use of approximately 
+71,000 decatherms of natural gas per year.
+broadcom’s u .s.-based  
+energy and e missions
+The following tables summarize our energy 
+consumption as well as our greenhouse 
+gas emissions at our U.S. owned or leased 
+facilities in FY20.
+Fuel and Energy Consumption*  (kWh)
+Natural Gas 114,360,183
+Diesel 266,223
+Electricity 292,466,322
+Total Energy Consumption 407,092,728
+Energy intensity per million 
+dollars of revenue  
+(kWh/$M of net revenue)17,033
+Greenhouse Gas Emissions* (tCO2e)
+Scope 1 Emissions
+PFCs 90,029
+Natural Gas 20,731
+Refrigerants 1,818
+Diesel 68
+Total Scope 1 112,646
+Scope 2 Emissions (Location-based method) 
+Total Scope 2 128,076
+Total Scope 1 & 2 240,722
+Total Scope 1 & 2 emissions per 
+million dollars of revenue  
+(tCO2e/$M of net revenue)10
+* For all environmental metrics, we apply the operational control boundary. We used the methodology outlined in the World Resource Institute (WRI) and the World Business Council for Sustainable 
+Development’s (WBCSD) GHG Protocol: A Corporate Accounting and Reporting Standard (Revised Edition) to calculate the Scope 1 and 2 emissions generated by our U.S.-based facilities. Through this 
+assessment, we measured the GHG emissions associated with the natural gas and diesel fuels we utilize for heating and cooling our facilities and for our backup generators, as well as the refrigerants and PFCs 
+used in our manufacturing processes (Scope 1 emissions). In addition, we measured the electricity we purchase to power our facilities (Scope 2 location-based method). GHG emissions are reported in metric 
+tonnes of CO2e (tCO2e). Our energy consumption is limited to natural gas, diesel and electricity use. We calculate energy and emissions based on actual data when available. When actual consumption data is 
+not available, we estimate utilizing square footage intensity factors by facility type.
+16
+BROADCOM  2020 ESG REPORT environmen Tal sT eWardshi Pour Products s upport s ustainable e nergy 
+Beyond our efforts to reduce energy consumption, our products have a variety of sustainable-
+energy applications—especially for our customers in the industrial and automotive sectors.At our fab in Breinigsville, Pennsylvania, we 
+have begun converting our vacuum pump 
+manufacturing technology from an oil-
+based system to a dry system that requires 
+substantially less energy to operate and 
+substantially eliminates hydrocarbon and 
+polytetrafluoroethylene (PTFE) lubricant 
+used in the pumps, as well as the associated 
+hazardous waste. This results in a 48% reduction 
+(approximately 106,000 kWh) in 
+each pump’s annual electricity 
+consumption. Additionally, in 
+FY20 we began converting 
+fluorescent bulbs at the 
+fab to light emitting diode 
+(LED) bulbs due to their 
+higher energy efficiency and 
+significantly longer lifespans. 
+This is expected to result in 
+estimated energy savings of 90,000 
+kWh per year and eliminate the consumption 
+of approximately 900 fluorescent bulbs over 
+the next five years, as well as the associated 
+hazardous waste. 
+These initiatives as well as our other continuous 
+improvement initiatives are deeply integrated 
+within our ISO 14001 aligned management 
+approach and are prioritized by their return-on-
+investment.
+We outsource our data center operations and 
+do not maintain operational control over them, 
+however, our service providers are expected to 
+comply with our Supplier Environmental and 
+Social Responsibility Code of Conduct (Supplier 
+Code) . As a result, our data center energy 
+consumption is not included in the scope of 
+our GHG emissions calculations. Nevertheless, more than half of our outsourced global data 
+center capacity is in facilities 100% powered by 
+renewable energy sources. 
+We are improving our data collection processes 
+to capture and calculate energy consumption 
+and GHG emissions for substantially all of our 
+facilities (U.S. and international locations), so 
+that we may better monitor and provide a more 
+complete picture of our impacts moving forward.
+Generators of energy from renewable sources, 
+such as wind and solar, depend upon our 
+optocoupler and fiber-optic solutions to support 
+power conversion, electrical current/voltage 
+sensing, battery bank charging and system 
+control and status communications for both 
+solar photovoltaic arrays and wind turbines.Our isolation products support reduction 
+of GHG emissions by providing essential 
+technology for hybrid and electric vehicle 
+motor-drive and battery-management 
+systems as well as essential components for 
+charging stations and on-board chargers for 
+electric and plug-in hybrid vehicles.To date, we have converted 33 vacuum pumps 
+from an oil-based system to a dry system 
+resulting in a reduction of approximately 
+3,498,000 kWh   
+of annual electricity consumption. 
+17
+BROADCOM  2020 ESG REPORT environmen Tal sT eWardshi PWater m anagement
+We recognize the water scarcity and quality 
+challenges that many communities encounter 
+around the globe, and we strive to use water 
+responsibly in our operations. 
+Semiconductor manufacturing uses a 
+significant amount of water. We operate a 
+primarily outsourced manufacturing model, 
+with over 85% of our wafer manufacturing 
+done by third-party foundries. We also 
+outsource almost 
+all of our assembly 
+and test operations 
+to third parties. 
+Our contract 
+manufacturers and 
+other suppliers are expected to abide by our 
+Supplier Code . In FY20, we calculated water 
+withdrawals associated with our U.S.-based 
+office and manufacturing facilities. 
+We regularly monitor our own water use and 
+make efforts to conserve and use it efficiently 
+in our facilities. In the U.S., the primary driver of 
+our water consumption is our Fort Collins fab. 
+We have invested in substantial improvements 
+to conserve, recycle and reclaim water used at 
+this facility. For example, our two-stage reverse 
+osmosis system at this fab collects reject water 
+and converts it into clean water that can be 
+used in the manufacturing processes, instead 
+of being disposed of as wastewater. Prior to 
+FY20, this system conserved approximately 40 
+million gallons of water per year. In late FY20, we expanded the capacity of this reuse system 
+by 18 million gallons, bringing the total savings 
+to approximately 58 million gallons per year. 
+In addition, in 2016, we converted some of our 
+exhaust scrubbers, which help clean the air 
+leaving our fabs, to utilize recycled water from 
+our acid waste neutralization system, instead of 
+using incoming municipal water. This initiative 
+saves an approximately 21 million additional 
+gallons per year. 
+Similarly, the two-stage reverse osmosis 
+system at our Breinigsville fab conserves approximately 15 million gallons of municipal 
+water per year and prevents it from being 
+disposed of as wastewater. In addition, at that 
+site we collect and reuse water condensation 
+from the chilled water coils in our air handling 
+units to provide water to our cooling towers. 
+This process saves an approximately 5 million 
+additional gallons of water per year. These 
+conservation efforts alone are estimated to 
+have reduced the Breinigsville fab’s FY20 water 
+consumption by approximately 15%.monitoring o ur Water u se 
+The following table summarizes our 
+water use at our U.S. owned or leased 
+facilities in FY20.
+Water* (gallons)
+Total Water Withdrawn 516,370,248
+Water Conserved Through 
+InitiativesApproximately 
+99,000,000  
+per year  Broadcom Supplier 
+Environmental and 
+Social Responsibility 
+Code of ConductWATER STEWARDSHIP AT OUR  
+FORT COLLINS FAB
+The Fort Collins fab 
+has been a Gold 
+Environmental Leader 
+with the Colorado 
+Department of Public 
+Health & Environment 
+since 2010, and a Platinum 
+ClimateWise Member in 
+the City of Fort Collins 
+Sustainability Partnership 
+since 2000.
+ * We are in the process of improving our data collection processes to capture all facilities (U.S. and 
+international locations) so that we may better monitor and provide a more complete picture of our 
+impacts moving forward. We calculated water withdrawals based on actual data when available. 
+When actual data is not available, we estimate utilizing square footage intensity factors by facility 
+type. Water conservation data is estimated based on initiatives implemented at the Fort Collins 
+and Breinigsville facilities. Water and Waste Management
+18
+BROADCOM  2020 ESG REPORT environmen Tal sT eWardshi PWaste m anagement
+We also monitor our waste byproducts and 
+generation as part of our overall environmental 
+impact management. In FY20, we began a 
+process to aggregate our waste data, which 
+has historically been handled at a local level. 
+Specifically, we are focused on reducing 
+the amount of waste generated from our 
+operations, as well as reducing or eliminating 
+hazardous materials in our products. 
+The Fort Collins fab is the leading driver of our 
+waste generation, which includes wastewater. 
+Our wastewater quality is frequently tested, 
+and meets or routinely exceeds Environmental 
+Protection Agency and Fort Collins quality 
+testing standards. In addition, we enhanced 
+our hazardous waste disposal process at this 
+site for acid waste and solvent waste rags by 
+compacting these materials. This reduced 
+the number of our hazardous waste disposal 
+barrels by 50%, which in turn reduced the 
+number of shipments and the environmental 
+footprint related to their disposal.In our Breinigsville fab, we also recently 
+implemented a process to remove the aqua 
+regia solvent used in our manufacturing 
+processes from the laboratory wastewater 
+treatment program for recycling and 
+reclamation purposes. 
+Furthermore, we partner with a third-party 
+service provider to decommission and recycle 
+all of our U.S. e-waste, as required by local 
+regulations. In FY20, we recycled over 130,000 
+pounds of e-waste from our U.S. facilities.
+UNITED STATES
+In FY20, we recycled over 
+130,000 lbs  
+of e-waste from our U.S. facilities. We are focused on reducing the amount of waste 
+generated from our operations, as well as reducing or 
+eliminating hazardous materials in our products.
+19
+BROADCOM  2020 ESG REPORT environmen Tal sT eWardshi PSocial Impact
+Our employees are our most 
+important asset, and their passion 
+for excellence and innovation is our 
+most prized resource. Their talents 
+and dedication, and the diversity of 
+their ideas, experiences, cultures and 
+perspectives fuel our progress and our 
+success. We strive to recruit and retain 
+the best and the brightest, period. 
+We also recognize that our business 
+impacts, and is dependent on, not 
+only our employees, but those of our 
+supply chain partners, as well as the 
+communities in which we and our 
+supply chain partners operate.
+20
+BROADCOM  2020 ESG REPORT soCial i mPaCTDiversity and Inclusion
+We understand that business success and 
+innovation thrive in a diverse and inclusive 
+work environment. As an equal opportunity 
+employer, we strive to recruit and hire diverse 
+candidates and to employ and advance qualified 
+women, minorities, veterans, and individuals 
+with disabilities. We also strive to create a 
+meritocratic work environment that is welcoming 
+and inclusive to all and which empowers our 
+employees to collaborate freely and contribute to 
+our collective success.
+At the end of FY20, Broadcom had more than 
+20,000 employees in 30 countries around 
+the world, with 51% in the United States, 12% in 
+Europe, Middle East, and Africa (EMEA), 18% 
+in Asia Pacific (APAC), 17% in India, and 2% in 
+Canada / Latin America (CAN/LAM). At the end of FY20, over 63% of our global 
+employees were in R&D roles. Our success 
+depends on our continued ability to retain, attract 
+and motivate talented engineering and technical 
+personnel, as well as effective sales professionals. 
+Competition for these employees is significant 
+in many areas of the world in which we operate, 
+including in Silicon Valley and in Southeast Asia 
+where qualified engineers are in high demand. 
+In order to attract and retain these employees, 
+we offer highly competitive compensation and 
+benefits packages, including broad-based equity 
+compensation, as discussed in more detail below. 
+In FY20, Broadcom hired approximately 5,500 
+employees, of which 82% came onboard through 
+acquisitions. Our global voluntary attrition rate, 
+which does not include employees who left as a 
+result of restructuring, divestitures or terminations 
+for cause, was 7.3% in FY20, which is below the 
+technology industry benchmark (AON, 2020 
+Salary Increase and Turnover Study — Second 
+Edition, September 2020). 
+GLOBALLY
+At the end of FY20, Broadcom had more than 
+20,000 employees  
+in 30 countries.
+Employees
+By Region51%
+12%18%17%
+2%● U.S.
+● Can/LAM
+● EMEA
+● APAC
+● India
+21
+BROADCOM  2020 ESG REPORT soCial i mPaCT● American Indian/Alaska Native
+● Asian
+● Black
+● Hispanic
+● Native Hawaiian/Paciﬁc Islander
+● Other/not declared
+● Two or more
+● White/Caucasian● Male
+● FemaleU.S. Employees
+Race/Ethnicity
+U.S. People Managers
+Race/EthnicityGlobal
+People Managers
+86%14%Global
+Employees
+79%21%
+39%48%3%1%0.3%
+8%0.9%
+51%
+38%1%0.2%0.4%0.2%
+6%
+0.1%3%● Male
+● Female79%21%
+Global
+Employees
+14%
+86%Global
+People Managersdemographics of our workforce at the end of fy 20
+22
+BROADCOM  2020 ESG REPORT soCial i mPaCTmanaging o ur efforts
+We are a multi-national, multi-cultural company and employ people of many different nationalities, 
+ethnicities, cultures, faiths and beliefs around the world. We are firmly committed to providing 
+equal opportunity to all persons without regard to race, color, sex, gender, gender identity, gender 
+expression, sexual orientation, religious creed, national origin, age, physical disability, mental 
+disability, medical condition, pregnancy, genetic information, ancestry, marital status, Protected 
+Veteran Status (Recently Separated, Disabled, Armed Forces Service Medal, Active Duty Wartime 
+or Campaign Badge), political affiliation, union membership or other bases protected by applicable 
+federal, state, or local law. This applies to all of our employment decisions including, but not 
+limited to, recruiting, hiring, training, promotions, pay practices, benefits, disciplinary actions and 
+terminations, and prohibits harassment of applicants and employees.
+To further promote diversity and inclusion, 
+we maintain Affirmative Action (AA) and 
+Employment Equity programs in our 
+U.S. and certain international locations. 
+These programs inform and help support 
+equal employment opportunity (EEO) in 
+our recruitment, selection, assignment, 
+promotion, training and other aspects of 
+employment. 
+We periodically monitor our various 
+programs and policies related to employment 
+decisions and equal opportunity, including 
+our annual analyses of our AA programs and 
+policies, as well as our annual compensation 
+programs, internal mobility and workforce 
+management, to identify and address areas 
+of potential improvement. supporting f air labor and h uman r ights
+Our employment practices and policies 
+support the fundamental human rights 
+principles of freely chosen employment, 
+non-discrimination, the elimination 
+of forced and underage labor and 
+the rights of workers to organize and 
+freely associate, as articulated in the 
+International Labour Organization 
+Conventions. We currently have a number 
+of employees under collective bargaining 
+agreements in various countries.Winning “W” for Our Board Diversity
+In 2020, Broadcom 
+was awarded the 2020 
+Women on Boards’ 
+Winning “W” for its 
+Board diversity. This 
+award recognizes public 
+corporations achieving 
+20% or higher female 
+representation on their 
+corporate boards.board d iversity
+Broadcom is fortunate to have a talented 
+and diverse Board of Directors. Four of our 
+directors, or 44%, identify as members of 
+under-represented social or ethnic groups1 
+and one-third of our directors are female. In 
+2020, Broadcom was recognized for achieving 
+gender balance at the highest ranks of its 
+leadership corps by the 2020 Women on 
+Boards organization. The award—a Winning 
+“W” —recognizes public corporations achieving 
+20% or higher female representation on their 
+corporate boards. Board of 
+Directors67%
+male33%
+female33%
+asian56%
+White/Caucasian11%
+hispanic
+1.  Defined as Black, African American, Hispanic, Latino, Asian, Pacific Islander, Native American, Native 
+Hawaiian, or Alaska Native, or who self-identifies as gay, lesbian, bisexual, or transgender.
+23
+BROADCOM  2020 ESG REPORT soCial i mPaCTbenefits that we offer include, depending on location:
+• Healthcare benefits (e.g., 
+medical, dental, vision);
+• Employee Assistance 
+Programs (EAP);
+• Health Savings Accounts 
+(HSA) and Flexible Spending 
+Accounts (FSA); 
+• Insurance and income 
+protection (e.g., Life, Accidental 
+Death and Disability);• Retirement and savings plans;
+• Time-off programs (e.g., flexible 
+time-off, vacation, holidays, 
+bereavement and various other 
+leaves of absence), including, 
+in response to COVID-19, 
+increased sick-leave flexibility;
+• Employee Stock Purchase 
+Plans (ESPP), available to the 
+substantial majority of our 
+employees;• Subsidized on premise cafes, 
+featuring healthy dietary 
+options including vegetarian 
+and, in many cases halal, 
+options and meal vouchers;
+• On-premise exercise centers;
+• Wellness and prayer/
+meditation rooms;
+• Matching employee charitable 
+gift donations;• Educational assistance 
+program; and
+• 401(k) employee contribution 
+matching program and 
+retirement readiness 
+counselling.We believe in
+Paying for performance
+Motivating employees
+Sharing in our successWe believe in paying for performance, that 
+employees should be motivated to help the 
+company succeed, and that they should share 
+in that success. As a result, performance-
+based compensation and equity awards 
+are key components of our compensation 
+philosophy. We provide highly competitive 
+and comprehensive compensation and 
+benefits to our employees, which we review 
+regularly to assess and ensure market 
+competitiveness. In addition, we grant equity 
+to the vast majority of our employees. Our 
+broad-based equity program is one of our 
+core differentiators for employees and is, 
+we believe, a driver of performance for our 
+stockholders. It is also an important retention 
+mechanism in tight labor markets where 
+competition for top talent is fierce. As part of our equity planning process, managers 
+are encouraged to give more equity to our 
+highest performing employees. 
+Performance-based compensation forms 
+part of the overall compensation package 
+for every single one of our employees. 
+Every member of our global workforce is 
+eligible to participate in one or more of our 
+performance-based compensation programs, 
+including performance-based equity 
+awards for our executives, our annual cash 
+performance bonus plan, sales incentive plans 
+and spot bonuses.
+We provide a range of non-salary benefits to 
+our employees, including part-time employees, 
+and review our benefits programs annually. Our 
+benefits programs vary by country, to reflect local market practice and employee needs, but 
+are designed to provide protection, peace of 
+mind and flexibility to support our employees 
+in building a balanced life and secure future at 
+work and at home. Our benefit programs also 
+help to attract and retain qualified, experienced 
+and talented employees.Compensation and Benefits
+24
+BROADCOM  2020 ESG REPORT soCial i mPaCTOur workplace policies and programs are 
+also designed to be flexible to accommodate 
+ethnic, cultural and religious needs and 
+practices. For example, our dress codes are 
+generally business casual, and do not include 
+any restrictions impacting ethnic, cultural or 
+religious norms, such as with regard to hair 
+style, facial hair and head coverings (other than 
+in our labs or fabs where protective clothing 
+may be required).
+Through our educational assistance program, 
+which is available to all employees, including 
+part-time employees, we provide employees with 
+financial assistance to take external academic 
+classes or relevant degree programs in order to complete a program that is work-related and 
+provides knowledge and skills to enhance their 
+job performance. During FY20, we reimbursed 
+employees for approximately $560,000 in 
+tuition expenses under this program. 
+Helping our employees prepare for a secure 
+retirement is also important to us, especially in 
+countries, such as the U.S., where there is limited 
+public retirement funding. As a result, in the 
+U.S., in addition to our highly competitive 401(k) 
+employee contribution matching program, we 
+provide employees with extensive financial 
+planning and retirement readiness resources 
+both directly and through our retirement plan 
+administrator, Fidelity. 
+PREPARING FOR A SECURE RETIREMENT
+During FY20, over 
+1,300 employees  
+attended retirement webinars and web 
+workshops and approximately 
+500 employees 
+engaged directly with a Fidelity financial 
+planning consultant or representative 
+regarding their retirement planning.EDUCATIONAL ASSISTANCE PROGRAM FY20
+~$560,000 
+in tuition 
+expenses 
+reimbursed
+25
+BROADCOM  2020 ESG REPORT soCial i mPaCTTraining and Development
+Our compensation programs are structured 
+so that managers have multiple opportunities 
+throughout the year to provide regular 
+performance feedback to their team members. 
+Our annual salary review, focal equity awards, 
+promotion and career progression decisions 
+and bonus determinations each happen 
+in different fiscal quarters, and managers 
+are required to evaluate team members’ 
+performance with each such cycle. 
+We provide structured, job-specific technical 
+training and testing for our manufacturing and 
+operational employees, to assist employees 
+in keeping their skills up to date. We also 
+provide numerous technical product and other 
+trainings to our Sales personnel. In addition, 
+each business unit has the ability to establish 
+its own training and development programs, 
+including intern and mentorship programs.executive Compensation
+The Compensation Committee of our Board 
+oversees the compensation of our executives, 
+other than our CEO, and provides general 
+oversight of our compensation structure, 
+including our equity compensation program, 
+and the Board oversees the compensation of 
+our CEO and non-employee directors, with 
+input from the Compensation Committee. A 
+full description of our director and executive 
+compensation programs is available in our 
+Proxy Statement for our 2021 annual meeting 
+of stockholders (2021 Proxy Statement) . 
+Stockholders representing 80% of the shares 
+of our common stock present and voting on 
+the matter, voted in favor of our executive 
+compensation say-on-pay proposal at our 
+2020 annual meeting of stockholders.Pay e quity
+As part of our effort to ensure employee 
+equality and pay equity, during FY20, we 
+engaged a third-party firm to conduct a pay 
+equity evaluation focusing on subsets of our 
+global population, including the United States. 
+As a testament to our robust pay practices, 
+this evaluation revealed that pay was equitable 
+for over 99% of the employees reviewed, after 
+accounting for factors such as job category, 
+location, time in role and performance. 
+  Broadcom 2021 Proxy Statement
+During FY20, our employees and  
+contractors completed a total of over 
+159,000 assigned 
+learning hours  
+on a wide variety of topics.
+26
+BROADCOM  2020 ESG REPORT soCial i mPaCTEmployee Health and Safety
+We believe that maintaining a safe and 
+healthy work environment is important 
+for the well-being and productivity of our 
+employees, who are our most important 
+asset. Our environmental, health, and safety 
+(EHS) policies  and management system are 
+designed to foster workplaces that are safe and 
+healthy, environmentally responsible and which 
+promote good physical and mental health. 
+ehs management s ystem
+Our globally implemented EHS management 
+system and processes are aligned with the 
+ISO 14001 standard for all of our facilities, 
+and we have achieved third party ISO 14001 
+certification  at certain of our sites. To promote 
+EHS compliance across Broadcom facilities, 
+we assign Site Coordinators and develop site-
+specific EHS Compliance Plans that consider 
+local operations, conditions, environmental 
+impacts and legal requirements. EHS 
+Compliance Plan implementation is tracked 
+and regularly reported to senior management. 
+These plans and processes are promptly rolled 
+out to new or acquired sites and recently hired 
+personnel, including our acquisition of the 
+Symantec enterprise business at the beginning 
+of FY20.Communication and Training
+Our comprehensive EHS intranet site provides 
+global and local Broadcom EHS information 
+to our employees. This includes EHS training 
+materials, emergency action plans, a First 
+Report of Injury (FROI) system, EHS Compliance 
+Plans, and documented EHS programs, 
+procedures, guidelines, and self-inspection 
+checklists. We also provide online and classroom 
+training to help our employees understand their 
+responsibilities and the resources available to 
+them, including the following:
+• Mandatory health and safety training, or 
+manufacturing site-specific EHS training, for 
+new employees. Manufacturing site-specific 
+training is provided to employees at our 
+semiconductor manufacturing and laboratory 
+sites on topics such as chemical safety and 
+hazard communication, electrical safety, oil 
+spill prevention control and countermeasures, 
+confined space entry, fall protection, 
+hazardous waste management, laser safety, 
+lock out/tag out, noise and powered  
+industrial truck safety, as applicable.• Ergonomics training is available to all 
+employees, in addition to office ergonomics 
+set-up and troubleshooting guides 
+and individual ergonomic workstation 
+assessments. 
+• Medical Emergency Response Team (MERT) 
+training in first aid, CPR, AEDs and other 
+emergency procedures, is provided to our 
+volunteer MERT members, established at 
+the majority of our facilities, as part of our 
+emergency action plans.
+Our globally implemented EHS management system and processes 
+are aligned with the ISO 14001 standard for all of our facilitiesISO 
+14001
+27
+BROADCOM  2020 ESG REPORT soCial i mPaCThealth and s afety Performance
+In the U.S., we require that any occupational 
+injury or illness be immediately reported 
+through our web based FROI system. At our 
+international sites, workplace incidents are 
+reported to an on-site EHS staff member or 
+HR, as applicable at the relevant site. Incident 
+investigations and root cause analyses are 
+conducted, as appropriate, to determine 
+appropriate corrective and preventive actions. 
+Our semiconductor manufacturing and 
+laboratory operations represent our most 
+significant health and safety risks, due to 
+higher potential exposure to chemicals and 
+machinery-related hazards at such sites. 
+Continued focus on the management and 
+reduction of these risks has helped us maintain 
+total case rates and lost-time cases below U.S. 
+national averages.
+Over the last five years, our total U.S. 
+occupational injury and illness lost-time case rates have been significantly below the U.S. 
+Bureau of Labor Statistics (BLS) occupational 
+injury and illness incidence rate averages for 
+the semiconductors, computer system design 
+and software publishers industries in which we 
+operate.1 In FY20, we had 12 recordable cases2 
+and three lost workday cases representing 
+a total of 193 lost workdays in the U.S. We 
+calculate lost days as calendar days and that 
+begins the day after the injury/illness occurs. 
+In FY20, our total injury and illness case rate 
+in the U.S. was 0.11 cases per 100 employees, 
+which was a 24% decrease compared to FY19. 
+Our lost workday case rate in the U.S. was 
+0.03 cases per 100 employees, which was 
+a 43% decrease from our fiscal year ended 
+November 3, 2019 (FY19). For the past five 
+years, we have seen a decrease of 76% in total 
+injury and illness case rates and a decrease 
+of 75% in lost workday cases. There were no 
+work-related fatalities globally in FY20. Work-related fatalities globally in FY20: 
+ZeroFY20 injury and illness case rate in the U.S.:
+24%
+decrease compared to FY19 
+For the past five years:
+76%
+decrease in total injury and illness case rates
+75%
+decrease in lost workday cases
+1. The U.S. occupational injury and illness lost-time case data includes cases that occurred in our acquired companies or businesses from and after the time of their acquisition by Broadcom. 
+2.  A “recordable case” is an occupational injury or illness resulting from an accident or exposure in the workplace that requires medical treatment beyond first aid, causes loss of consciousness or death, 
+requires prescribed prescription medication, or results in lost or restricted workdays.
+28
+BROADCOM  2020 ESG REPORT soCial i mPaCTCovid -19 ehs i nitiatives
+• Developed and deployed global COVID-19 
+awareness training and protocols to all 
+employees and contractors.
+• Provisioned masks, gloves, hand sanitizers and 
+disinfecting cleaning supplies for all on-site 
+personnel, and mandated that personnel wear 
+masks on site.
+• Provided testing via company provided 
+at-home kits (in the U.S.) or expense 
+reimbursement (globally) to all employees 
+scheduled to work on site.
+• Manual and app-based contract tracing, 
+including deploying our connect@broadcom 
+cell phone application at most sites, which 
+requires employees to take a daily COVID-19 
+health survey prior to accessing the site.
+• Implemented internal traffic flows to ensure 
+social distancing.
+• Deployment of thermal scanning cameras 
+and infrared contactless thermometers at all 
+locations upon entry into and exit from each 
+facility.
+• Implementation of rotating split shifts, 
+reconfigured work spaces (including by 
+installing plastic and plexiglass barriers and 
+leasing additional work space) and revised 
+seating assignments to reduce employee 
+density in our facilities and promote social 
+distancing.
+• Significantly enhanced cleaning protocols, 
+including frequent intraday sanitization of high 
+contact common areas and surfaces multiple 
+times a day, daily electrostatic disinfection 
+of common areas and conference rooms in many of our locations, and specialty cleaning/ 
+disinfecting teams, as needed.
+•  Increased flexibility around time off, remote 
+work, and/or sick leave in many locations to 
+help ensure employees who may have been 
+exposed do not come into work.
+• Provided mental health support to our 
+employees through our EAP, various health 
+insurance provider sponsored initiatives, and 
+meditation workshops.
+• Implementation of contactless or low contact 
+meal options and contactless payment 
+systems for on-site cafes.
+•  Deployment of portable HEPA filtration units 
+for conference rooms and limiting the number 
+of people permitted in a conference room at a 
+time.
+• Adjustment of HVAC systems to meet American 
+Society of Heating and Air-Conditioning 
+Engineers’ guidance, which includes maximizing 
+outdoor air, increasing ventilation to 24/7, using 
+MERV 13 or higher filters.
+•  Preparation and implementation of legally 
+required site COVID-19 work plans, risk 
+assessments and audits.
+•  Eliminated travel for business purposes.
+•  Prohibited visitors (except those needed for 
+critical site or fab operations).
+•  Utilized additional security and janitorial staff to 
+support Broadcom’s COVID-19 Mitigation Policy, 
+including enforcement of our current prohibition 
+on site visits by non-Broadcom personnel and 
+rules regarding mandatory mask wearing.health and s afety d uring C ovid -19 
+During FY20, a substantial amount of our 
+EHS efforts were focused on keeping our 
+employees healthy during the COVID-19 
+pandemic. While the vast majority of our 
+employees worked remotely for varying 
+portions of the year, as part of the “essential 
+critical infrastructure” as determined by the 
+Cybersecurity and Infrastructure Security 
+Agency of the Department of Homeland 
+Security, we maintained continuous on-site 
+operations with essential employees during 
+the pandemic to ensure business continuity. To 
+mitigate the occupational health risks to these 
+employees, and to all our other employees as 
+they returned to work on-site, we took many 
+proactive measures to protect them, overseen 
+by our executive-level COVID-19 response 
+steering committee. In addition to deploying 
+our COVID-19 Mitigation Policy and sending 
+extensive employee communications, we 
+took additional protective measures. These 
+measures were adopted in consultation with 
+an industrial hygienist to ensure that they 
+were taken in compliance with government 
+mandated safety protocols and industry 
+standards. The COVID-19 situation changes 
+rapidly and we review and adopt processes 
+and measures as applicable.
+29
+BROADCOM  2020 ESG REPORT soCial i mPaCTInvesting in Our Communities
+As part of our ethos of connecting everything , 
+we engage with and support the local 
+communities where we work, live and source 
+from. We focus our philanthropic efforts on 
+areas of need that align to our business priorities, 
+such as promoting educational opportunities 
+in the STEM fields to help develop the next 
+generation of engineers, and on causes 
+prioritized by our employees. In FY20, our 
+philanthropic efforts also targeted organizations 
+focused on COVID-19 relief. We and our 
+employees are proud to support many charitable 
+organizations globally, including United Way, 
+Second Harvest and various prominent 
+healthcare and medical-research charities. 
+For 2020, Broadcom committed to match, 
+on a dollar-for dollar basis, over $580,000 in 
+donations made by our employees to charities 
+and non-profit organizations around the world.sTem and o ther a ctivities
+Employees in our Global Technology 
+Organization have collaborated to help 
+hundreds of young STEM learners, while 
+simultaneously reducing our environmental 
+impact, by refurbishing corporate laptops 
+that are removed from service and donated 
+by us. Our information-technology staff 
+members contribute their time and skills 
+to extend the life of these computers, 
+which would otherwise be destined for 
+e-waste recyclers and provide the devices 
+to educational charities and schools. Since 
+2018, we have donated over 2,800 laptop 
+computers to various schools and educational 
+non-profit organizations.Our corporate philanthropic efforts in India 
+also support educational causes. Over the 
+past three fiscal years (2018-2020), we have 
+given almost 100 million INR (more than $1.3 
+million) to Indian charitable causes, with much 
+of it targeting programs that foster STEM 
+learning among economically disadvantaged 
+populations, such as: 
+• the Agastya International Foundation, whose 
+mission is to spark curiosity, nurture creativity 
+and instill confidence in Indian children and 
+teachers through hands-on science education 
+and project-based learning;
+• the Foundation for Excellence, which 
+provides college scholarships to students 
+who show promise in the technological and 
+engineering fields; 
+• the IRIS National Fair, which nurtures science 
+and scientific research among young Indian 
+innovators; 
+• the Indian Institute of Science, which is India’s 
+premier institution for advanced scientific and 
+technological research and education; and 
+• the Akshaya Patra Foundation, which provides 
+school lunches to millions of Indian children.
+2,800 
+laptop computers  
+donated to various schools and educational 
+non-profit organizations since 2018.
+30
+BROADCOM  2020 ESG REPORT soCial i mPaCTCovid -19 r esponse a ctivities
+In FY20, we contributed substantial resources 
+to the COVID-19 pandemic response in 
+several localities where we operate. Our 
+largest donations included:
+• $100,000 to the City of 
+Fort Collins, Colorado, 
+home to our largest 
+manufacturing facility, 
+to support child-care 
+services for police, 
+firefighters and other 
+first responders so they 
+could remain on the job; 
+• RM2 million 
+(approximately 
+$475,000) to the relief 
+fund Tabung COVID-19 
+in Malaysia, the site of 
+our global distribution 
+warehouse, to provide 
+financial aid for 
+hospitalized COVID-19 
+patients, those undergoing medical 
+surveillance or quarantine and others who 
+were unemployed or disadvantaged; and
+• 1,000 N95 respirators to the Lehigh Valley 
+Hospital in Allentown, Pennsylvania, which 
+services a region where we maintain 
+multiple facilities, and an additional 1,600 
+N95 respirators that were distributed by 
+our employees to healthcare providers in 
+various Northern California localities near 
+our corporate headquarters.
+We made additional donations totaling 
+$800,000 in support of the COVID-19 
+pandemic response after the end of FY20. 
+We are also proud of our 
+collaborative relationship with 
+the Broadcom Foundation, 
+a non-profit established in 
+2009 and fully funded by $100 
+million in donations from our 
+subsidiary Broadcom Corp.
+The mission of the Foundation is to advance 
+STEM education by recognizing scholarship 
+and increasing opportunity, and it focuses on 
+closing the STEM education gap for women 
+and underrepresented youth and helping 
+them develop 21st century skills. Cultivation 
+of academic interest in, and providing 
+equitable access to, these areas of knowledge, 
+and preparing students to be college and 
+career-ready to succeed in STEM fields is 
+key to creating the engineers, scientists and 
+innovators of tomorrow.
+With annual program grants of over $4 million, 
+the Foundation strategically collaborates with 
+non-governmental organizations, universities 
+and community non-profit organizations 
+worldwide to inspire and empower young 
+people through team building and project-
+based programs that help prepare them to 
+enter careers in STEM fields.Foundation-supported programs include 
+regional and national science fairs, coding 
+programs and competitions and after/out-of-
+school education programs designed to develop 
+critical thinking, creativity, collaboration and 
+communication, with an emphasis on building 
+social infrastructures for STEM-minded youth. 
+Many of these events are held in close proximity 
+to Broadcom offices–for example, in San Mateo 
+County and Orange County in California, 
+Fort Collins in Colorado, Gwinnett County 
+in Georgia, and Bangalore, India–enabling 
+Broadcom employees to volunteer their time to 
+judge competitions, mentor young people and 
+participate in STEM education programs.
+BROADCOM FOUNDATION ANNUAL GRANTS
+Over $4 million#SILICON VALLEY STRONG
+We donated 
+$500,000 
+to the Silicon 
+Valley Strong 
+Fund to help 
+individuals and 
+families in need 
+of food and 
+shelter in the 
+communities 
+that surround 
+our San Jose, 
+California, 
+headquarters.
+31
+BROADCOM  2020 ESG REPORT soCial i mPaCTThe f oundation’s 
+signature programs 
+include the b roadcom 
+masTers® (Math, Applied 
+Science, Technology 
+and Engineering for 
+Rising Stars), the premier 
+middle school science 
+and engineering fair 
+competition in the United 
+States. In 2020, the 
+Broadcom MASTERS® 
+prize winners included:• a 12-year-old girl from New York who conducted research 
+into the role of retinal fatigue in color optical illusions;
+• a 14-year-old boy from California who developed a glove 
+that could convert sign language into text or speech;
+• a 14-year-old boy from New York who demonstrated 
+how a mathematical algorithm could be used to redraw 
+the boundaries of gerrymandered voting districts; 
+• a 14-year-old girl from Florida who researched gender 
+bias in the development of painkillers; and
+• a 14-year-old girl from New Jersey who tested coating 
+materials that could be used on the hull of cargo ships 
+to improve energy efficiency and limit the transfer of 
+invasive species.
+In addition, the Broadcom Foundation 
+manages a relief reserve that from year to 
+year enables it to identify and address a 
+critical need such as a natural disaster. In 
+2020, the Foundation donated $120,000 to 
+various organizations, including the Orange 
+County Community Foundation, for COVID-19 
+response activities and also provided financial 
+support to address the needs of first-
+responders and victims of wildfires in the 
+Western United States.Other signature programs include the 
+Broadcom MASTERS® International and the 
+Raspberry Pi “Coolest Projects” competitions  
+in North America and Malaysia.
+BROADCOM FOUNDATION RELIEF RESERVE
+$120,000 donated
+to various organizations for disaster  
+and pandemic relief
+32
+BROADCOM  2020 ESG REPORT soCial i mPaCTWe are committed to supporting ethical 
+business conduct and the responsible sourcing 
+of materials throughout our global supply 
+chain. To that end, we have established high 
+standards for our suppliers to improve our 
+supply chain and positively impact the world 
+around us, while building better technology. 
+We outsource most of our manufacturing and 
+strive to work with responsible supply chain 
+partners that are leaders in the industry and 
+that have the technology, quality and resources 
+needed to support our business. At the same 
+time, we recognize that our supply chain 
+has wider social and environmental impacts. 
+Our supply chain is global and complex, 
+but it also needs to be reliable, resilient and 
+flexible enough to deal with unexpected 
+disruptions, as has been the case this year with 
+the impact of the COVID-19 pandemic. The 
+global spread of COVID-19 and the measures 
+taken to combat it, affected our workforce and operations, and those of our customers, 
+contract manufacturers, suppliers and logistics 
+providers. This resulted in some disruption 
+to parts of our global semiconductor supply 
+chain, particularly during periods when facilities 
+of key suppliers and service providers were 
+impacted or operated at reduced capacity. 
+Throughout the pandemic we have worked 
+closely with our suppliers and service providers 
+in their efforts to safeguard their employees’ 
+health, while also ensuring continued supply of 
+products and services. 
+supply Chain m anagement 
+Our Supplier Code  is based in part on the 
+International Labour Organization principles 
+and is the foundation of our responsible 
+sourcing practices. Our Supplier Code 
+establishes our expectations regarding 
+workplace standards and business practices 
+for our suppliers and mandates that our suppliers comply with the law and conduct 
+business in an ethical, legal and responsible 
+manner—including with respect to labor 
+and human rights, health and safety, the 
+environment and anti-corruption. 
+In addition to our Supplier Code , our 
+Statement Against Slavery and Human 
+Trafficking , Conflict Minerals Policy , supplier 
+onboarding procedures and contract and 
+purchase order terms establish the standards 
+and expectations for our suppliers regarding 
+human rights-related issues.
+  Broadcom Supplier Environmental and Social 
+Responsibility Code of ConductSupply Chain Responsibilitybroadcom is committed to  
+supporting ethical business conduct 
+and the responsible sourcing of 
+materials throughout our global 
+supply chain. We have established 
+high standards for our suppliers 
+to improve our supply chain and 
+positively impact the world around 
+us while building better technology. 
+  Broadcom Statement 
+Against Slavery and 
+Human Trafficking  Broadcom Conflict 
+Minerals Policy
+33
+BROADCOM  2020 ESG REPORT soCial i mPaCTrespecting h uman r ights in o ur supply Chain 
+Respecting human rights throughout our 
+company, operations, supply chain and 
+communities is important to our business.  
+We are committed to complying with 
+applicable labor laws, including wage and  hour laws, and we expect our business 
+partners to do the same. We expect our 
+suppliers to acknowledge and implement  
+the Supplier Code  and abide by the terms  
+and conditions contained in our contracts  
+and purchase orders, which includes prohibiting the use of child labor, forced  
+labor, slavery or human trafficking.
+We also comply with the U.S. federal 
+government’s requirements for government 
+contractors, as set forth in our internal 
+Broadcom Combating Trafficking in Persons 
+Compliance Plan, and with the California 
+Transparency in Supply Chains Act and the 
+U.K. Modern Slavery Act.
+In FY20, we undertook several initiatives 
+to strengthen our human rights program, 
+including: 
+• conducting an internal human rights 
+assessment of our operations (during which 
+we found no human rights-related issues); 
+• updating all of our recruiter agreements, 
+globally, to include provisions related to 
+preventing forced labor, such as prohibiting 
+recruiting fees, deceptive and misleading 
+recruitment practices and destroying, 
+concealing or denying access to employees’ 
+identification documents; 
+• updating our Master Supplier Agreement  
+and purchase order terms to require 
+compliance with all laws and regulations 
+related to slavery, forced labor, child labor 
+and human trafficking and adherence to  
+our Supplier Code  to protect workers’ rights; 
+• updating our supplier onboarding process  
+to increase screening for human rights-
+related matters; and 
+• including our significant suppliers in our 
+continuous monitoring program to screen  
+for emerging human rights issues. In FY20, we achieved a 100% 
+completion rate for combating 
+trafficking in persons training and 
+prevention of forced labor training 100%
+Preventing f orced l abor Training
+As part of our ongoing efforts to manage issues related to human rights, including raising 
+awareness of and preventing forced labor and human trafficking, relevant employees 
+in our Global Operations, HR, Legal, IT, Procurement, and Supply Chain functions and 
+our employees working with our U.S. government customers, participate in combating 
+trafficking in persons training and prevention of forced labor training, as applicable, on an 
+annual basis. We achieved a 100% completion rate for this training in FY20. 
+34
+BROADCOM  2020 ESG REPORT soCial i mPaCTour Policy on Conflict m inerals 
+As is common in the semiconductor industry, 
+we and our suppliers utilize minerals in 
+the manufacturing of our products, such 
+as cassiterite, columbite-tantalite, gold, 
+wolframite, and/or their derivatives, tin, 
+tantalum and tungsten (conflict minerals).  
+We are committed to socially responsible 
+sourcing of conflict minerals included in our 
+products. It is our goal to not directly or 
+indirectly finance or benefit armed groups  
+in the Democratic Republic of the Congo  
+or adjoining countries, while continuing  
+to support 
+responsible sourcing 
+of these minerals in 
+the region.
+We strive to continuously improve and refine 
+our supply chain due diligence program 
+consistent with the framework promulgated 
+by the Organization for Economic Cooperation 
+and Development (OECD), and we expect  
+and encourage our suppliers to do so as well.
+We conduct diligence on all our suppliers, 
+smelters, and refiners every year, and publicly 
+disclose the results and our conflict minerals 
+diligence program approach through our 
+annual Conflict Minerals Report filed with the 
+SEC. For more information, see our Conflict 
+Minerals Policy . industry Collaboration in Pursuit of r esponsible m ineral sourcing 
+Since 2014, we have been a member of the 
+Responsible Minerals Initiative (RMI) , and  
+we leverage the RMI’s resources to conduct 
+our supply chain due diligence, including  
+RMI’s database of suppliers that are listed  
+on the Responsible Minerals Assurance 
+Process (RMAP) Conformant Smelter List.  
+We strongly support our industry’s efforts  
+to expand the smelter certification 
+program and the audit process.
+In 2019 (the most recent year for which 
+complete data is available), 96% (272 out 
+of 283) of our smelters and refiners (SORs) were certified “conflict free” under the  
+RMAP audit process, compared to 84% 
+(260 out of 308) in 2018. This substantial 
+improvement is due to our on-going efforts 
+to identify conflict minerals risks in our 
+supply chain, to contact those SORs who 
+are not RMAP-conformant and encourage 
+them to undergo an independent third-
+party audit, and to encourage our suppliers 
+to purchase materials only from SORs that  
+are certified as “conflict free” in compliance 
+with RMAP protocols.  Broadcom Conflict 
+Minerals PolicyIn 2019
+96%
+ of smelters and refiners 
+reviewed in our supply  
+chain were certified  
+"conflict free"
+35
+BROADCOM  2020 ESG REPORT soCial i mPaCTengaging o ur suppliers 
+As a primarily outsourced manufacturer, it is 
+challenging to have complete visibility into our 
+multi-tier supply chain. However, we regularly 
+engage with our suppliers on a variety of 
+topics, and in FY20, we conducted a survey 
+with significant suppliers for human rights-
+related issues. We identified 68 suppliers with 
+which we spent over $1 million in FY19 and 
+who operate in the Asia-Pacific region. These 
+suppliers, which represent over 80% of our 
+FY19 supplier spend, were asked to complete 
+a questionnaire on core human rights issues, 
+including numerous topics addressed by the 
+RBA’s Self-Assessment Questionnaire and 
+Code of Conduct, designed to help us better 
+understand potential and significant risk for 
+incidents of forced labor or human rights 
+abuses in our supply chain. We achieved a 
+100% survey response rate. 
+We found no instances of forced labor, child 
+labor, slavery or human trafficking, as a 
+result of this survey. However, we did identify four suppliers who use fines to discipline 
+employees, which are legally permissible in 
+their respective jurisdictions and are part 
+of an escalating disciplinary process, and 
+one supplier that does not permit collective 
+bargaining. No other significant human 
+rights risks were identified during the survey. 
+While these activities are permissible in the 
+suppliers’ respective jurisdictions, they do not 
+align to Broadcom’s expectations, and we 
+intend to actively engage with these particular 
+suppliers on these issues and with our other 
+suppliers, as appropriate, to encourage them 
+to improve their human rights practices and 
+programs. We also intend to make human 
+rights training available to our various 
+suppliers, particularly those who indicated 
+they do not currently provide such training.
+In addition to the supplier survey, in FY20, we 
+also audited three of our significant suppliers, 
+including with regard to core human rights 
+issues, and no human rights-related concerns 
+were identified.
+supplier d iversity
+We also consider the diversity of the 
+suppliers we work with. We seek to 
+source goods and services from small 
+and disadvantaged businesses, as 
+well as (but not limited to) minority-
+owned, woman-owned, historically 
+underutilized businesses, veteran-
+owned and service-disabled veteran-
+owned businesses that are able to 
+provide quality goods and services 
+in a timely and competitive manner. 
+We also routinely include women- and 
+minority-owned firms in our corporate 
+debt financing syndicates.
+  For more information on our supplier 
+diversity initiatives, please contact 
+supplier.diversity@broadcom.com. 
+In FY20 we surveyed on human 
+rights-related issues with our 
+suppliers that represented over 80% 
+of our FY19 supplier spend. Through 
+this assessment, we found no 
+instances of forced labor, child labor, 
+slavery or human trafficking among 
+Broadcom's suppliers
+36
+BROADCOM  2020 ESG REPORT soCial i mPaCTGovernance
+We are dedicated to uncompromising 
+integrity in our business and to maintaining 
+the highest standards of business conduct 
+and ethics across our worldwide operations 
+and locations. Our corporate governance 
+framework is designed to support the 
+best interests of our company, employees, 
+stockholders and other stakeholders. 
+We have strong policies and standards 
+designed to promote compliance with 
+applicable laws and provide accountability 
+within our company.
+37
+BROADCOM  2020 ESG REPORT governan CeCorporate Governance and Board Oversight 
+Evaluating Broadcom’s material business risks 
+and enterprise risk management practices is 
+an important area of our Board’s oversight 
+function. Our senior management team 
+regularly reviews and discusses with the Board 
+the types of risks our company faces, the 
+measures in place to address these risks and 
+the effectiveness of those measures. 
+overseeing esg
+Our Board consists of four standing committees: 
+the Audit Committee, the Compensation 
+Committee, the Nominating, Corporate 
+Governance and ESG Committee (NCGC) 
+and the Executive Committee. The NCGC is 
+responsible for reviewing and reporting to the 
+Board on matters of corporate responsibility and 
+sustainability, including potential long and short-
+term trends and impacts to our business of ESG 
+issues, and our public reporting on these topics. 
+The feedback we receive from our stakeholders 
+on ESG matters is regularly communicated to 
+the NCGC. The NCGC reviewed this inaugural 
+ESG report and will review the ESG report on an 
+annual basis moving forward. The NCGC, in turn, 
+reports regularly to the Board on ESG matters, 
+which also reviews our annual ESG Report.Broadcom’s nine-member board of directors, 
+of which seven are independent, is led by 
+Chairman Henry Samueli, Ph.D. and Lead 
+Independent Director, Eddy Hartenstein. A 
+full description of the Board’s responsibilities, 
+director biographies, nomination, and 
+compensation practices are available in our 
+2021 Proxy Statement. At the executive-level, 
+our ESG Steering Committee has responsibility 
+for ESG matters globally and oversees 
+alignment between our ESG efforts and our 
+overarching business objectives. 
+Our ESG Steering Committee, led by our Chief 
+Financial Officer in FY20, includes executive 
+and senior leaders in global operations, 
+including Supply Chain and Procurement, 
+Manufacturing, HR, Legal, Sales, Workplace 
+Services, Finance, Ethics and Governance, IT 
+and Data Privacy and Investor Relations. The 
+ESG Steering Committee meets regularly, 
+provides status updates to the NCGC and 
+the Board, and also engages with our ESG 
+Working Groups, which champion our ESG 
+initiatives across the company. 
+Governance 
+Highlights7 of our 9 
+board members are independent and compose  
+our a udit, Compensation, and n ominating,  
+Corporate g overnance & esg  committees33%
+of our b oard members  
+are female44%
+of our b oard members are 
+from under-represented 
+ethnic minoritiesbroadcom’s esg  governance s tructure
+Together, our Board, NCGC, ESG 
+Steering Committee and ESG Working 
+Groups underpin our strategic 
+approach to managing actual and 
+potential impacts of material ESG 
+topic-related risks and opportunities 
+for Broadcom’s businesses, strategy 
+and financial planning, over the short-, 
+medium- and long-term.
+board of d irectors
+nominating, Corporate g overnance  
+and esg Committee
+esg steering Committee
+esg Working g roups
+ethics and g overnance
+finance
+Commercial
+human r esources
+legalglobal o perations & 
+manufacturing
+investor r elations
+iT & d ata Privacy
+Workplace s ervices
+38
+BROADCOM  2020 ESG REPORT governan CeStakeholder Engagement
+We engage with our stakeholders, including 
+investors, customers, employees, suppliers, 
+public policy makers, communities, non-
+governmental organizations and industry 
+bodies, through a variety of avenues to collect 
+valuable input on a variety of issues, including 
+ESG matters. 
+For example, our CEO and CFO engage our 
+investors throughout the year, and our Lead 
+Independent Director conducts an annual 
+stockholder outreach effort to a large number of 
+our stockholders and their ESG teams. In FY20, 
+we continued our stockholder engagement, 
+contacting stockholders owning over 60% of 
+our then outstanding stock for engagement, 
+and engaging with stockholders owning 
+approximately 46% of our then outstanding 
+stock. This resulted in discussions between our 
+largest stockholders and our Lead Independent 
+Director on a variety of topics, including ESG 
+matters. In addition, members of our senior 
+management team engage with investors 
+regularly throughout the year on a variety 
+of issues, including ESG and other emerging 
+topics. During our materiality assessment, which 
+we describe on page 11 , we considered our 
+investors’ perspectives on our ESG issues as 
+part of the topic ranking and validation process. 
+Ultimately, engaging our investors, as well as our 
+diverse other stakeholders, helps us prioritize 
+key ESG matters.
+Engaging our investors, as well as our diverse other 
+stakeholders, helps us prioritize key ESG matters.
+39
+BROADCOM  2020 ESG REPORT governan CeStakeholder FY20 Interactions
+Investors • Annual stockholder outreach program led by our Lead Independent 
+Director
+• One-on-one calls with investors on ESG topics; regularly scheduled  
+and ad hoc• Quarterly CEO and/or CFO investor meetings 
+• Annual stockholders’ meeting, quarterly earnings webcasts, press 
+releases and SEC filings
+Customers • Requests for information on product regulatory compliance and  
+supply chain surveys
+• Customer education and training events, such as our mainframe 
+customer employee resident training program
+• Customer satisfaction and loyalty surveys, including through the  
+use of Net Promotor Score methodologies• Quarterly business reviews, targeted discussions/user groups
+• Annual Conflict Minerals Report
+• Annual Broadcom Statement Against Slavery and Human 
+Trafficking
+Global 
+Workforce• Quarterly CEO global “coffee talks”, as well as Business Unit coffee talks
+• Quarterly global employee newsletters 
+• Onboarding and training, both online and in-person, on a variety  
+of topics
+• Comprehensive annual online training and targeted in-person training 
+on topical matters and in “high-risk” locations• Confidential ethics and compliance hotline (also available to third 
+parties) and Ethics & Integrity intranet resources
+• Employee Ethical Culture Survey
+• Regular performance reviews or feedback
+• Implemented health and safety measures to assist employees in 
+returning to in-person work during the COVID-19 pandemic
+Suppliers • Direct outreach on issues related to product regulatory compliance, 
+elimination of conflict minerals that are not responsibly sourced from 
+our supply chain, and compliance with Broadcom’s Supplier Code  • Human rights survey of significant suppliers in the Asia Pacific region
+• Supplier outreach during the COVID-19 pandemic shutdowns to 
+support continuity of supply and safe re-opening of supplier facilities
+Government/  
+Public Policy• Proactive policy engagement and outreach with officials at all levels 
+of government, including executive, legislative and regulatory offices
+• Partnered with industry peers to advocate opening 6GHz band for 
+next-gen 5G services 
+• Hosted FCC Chairman for information sessions on Broadcom’s  
+5G capabilities • Briefed Members of Congress and government officials on 
+Broadcom, our operations, and our significance as a U.S.-based 
+company, employing thousands of individuals globally 
+•  Contributions to federal election campaigns through the Broadcom 
+Political Action Committee (PAC).
+Communities, 
+Nongovernmental 
+Organizations and 
+Industry Bodies• Charitable employee donation matching program
+• Broadcom Foundation supports STEM education, including its annual 
+Broadcom MASTERS middle school science fair competition in the 
+U.S. and internationally
+•  Investment in communities where we have locations, including 
+donations to assist people affected by the COVID-19 pandemic • Interactions with local governments to receive approval and update 
+community members on any facility construction
+• Member of the Semiconductor Industry Association, the Responsible 
+Mineral Initiative, the Cybersecurity Coalition, the U.S. Chamber of 
+Commerce, the Center for Information Policy Leadership and the 
+European Internet ForumThe following chart lists our various stakeholder groups and examples of ways in which we engaged with them during FY20. 
+40
+BROADCOM  2020 ESG REPORT governan CeEthics and Integrity 
+As a global infrastructure technology 
+leader, our success is due to our innovation, 
+engineering excellence and financial 
+discipline. But it is also due to our unwavering 
+commitment to doing business the right way. 
+We are committed to a transparent corporate 
+culture and to maintaining the highest 
+standards of business conduct and ethics in 
+all of our worldwide operations and locations. 
+This means always striving to operate with 
+uncompromising integrity in everything that 
+we do, and in compliance with the law. We all 
+share the responsibility of making business 
+ethics, integrity, and compliance part of the 
+daily fabric of Broadcom, which ultimately 
+enables the long-term success of our global 
+business. Our policies prohibit illegal or 
+unethical behavior by our employees and our 
+business partners. fostering a s peak u p Culture 
+We strive to create an environment where 
+employees can speak openly about our 
+business practices, including ESG-related 
+matters. We have an Open Door Policy  and 
+communicate regularly with our employees 
+on ethics and integrity matters and strongly 
+encourage our employees to ask questions 
+about our policies, seek guidance on specific 
+situations, and report concerns. We provide a 
+number of avenues for employees to contact 
+the Ethics & Integrity Team, our Compliance 
+Officer or the Audit Committee, including via 
+our third-party Compliance Hotline (available in 
+multiple languages), through which employees, 
+contractors, suppliers and all other third parties 
+can report concerns anonymously (where 
+permitted by local law) via telephone or on-
+line. We also make it very clear that retaliation 
+against any employee for raising a concern in 
+good faith is prohibited. We take inquiries and concerns 
+seriously, handle them promptly, 
+investigate to the extent necessary and 
+take disciplinary actions as appropriate. 
+To promote the highest levels of ethics 
+and compliance, we address concerns 
+in a variety of ways, including through 
+senior management discussions, employee 
+communications, process and controls 
+improvements and, where appropriate, 
+individual corrective action measures.
+The Audit Committee receives information on 
+every reported allegation, as well as regular 
+reports of statistics related to inquiries and 
+updates on investigations that are in progress 
+or completed.
+broadcom’s Code of e thics and b usiness Conduct 
+Broadcom’s Code of Ethics and Business Conduct  (the Code) sets 
+out the standards of excellence that we expect in the conduct of 
+our business. The Code applies to all of our officers, directors, and 
+employees and we expect all third parties we do business with, 
+including consultants, contractors, business partners and other 
+service providers, to act in a manner consistent with our Code. 
+Our Code is publicly available on our website and is also available 
+to our employees in numerous languages.  Broadcom’s Code 
+of Ethics and 
+Business Conduct
+41
+BROADCOM  2020 ESG REPORT governan Ceaddressing Concerns
+In FY20, we received inquiries on a range of 
+topics, including human resource matters, 
+conflicts of interest concerns and expense 
+policy violations, all of which were reviewed 
+and evaluated in accordance with the practices 
+described above. This level of engagement 
+from our employees demonstrates that our 
+training programs and policies afford our 
+employees the opportunity to raise concerns 
+and provide input on ways to improve our 
+policies, initiatives and programs. 
+ In addition, during FY20, we conducted our 
+second Employee Ethical Culture Survey, which 
+we intend to conduct regularly. The results 
+of these surveys are discussed with senior 
+management and our Audit Committee and 
+reported to the Board. In our FY19 and FY20 
+surveys, we scored above the survey’s company 
+peer group benchmark in all categories, 
+indicating that our employees believe in the 
+strength of our compliance program and the 
+integrity of our senior management.
+ENGAGING WITH OUR EMPLOYEES ON ETHICS AND INTEGRITY
+• Comprehensive annual training program
+• Targeted live training on topical matters and 
+“high risk” locations 
+• Quarterly global newsletter
+• Employee ethical culture survey• CEO and Business Unit Coffee Talks and 
+communications
+• Ethics & Integrity intranet resources
+• Formal, confidential grievance or concern 
+reporting proceduresIn our FY19 and 
+FY20 Employee 
+Ethical Culture 
+Surveys, we scored 
+above the survey’s 
+company peer group 
+benchmark in  
+all categories.
+42
+BROADCOM  2020 ESG REPORT governan Ceanti-Corruption r isk m anagement 
+We take a multi-pronged approach with 
+respect to anti-corruption risk management, 
+which is founded upon robust processes 
+and procedures, including internal oversight 
+and regular external third-party reviews. 
+Every two years we engage an independent 
+third-party firm to audit our anti-corruption 
+program, policies and procedures, the results 
+of which, together with recommendations for 
+enhancement, are discussed with our Audit 
+Committee and reported to our Board. Our 
+internal audit team also conducts regular 
+audits of our compliance with selected anti-
+corruption-related policies and procedures. 
+We expect our suppliers, distributors and 
+resellers to abide by all laws and regulations 
+related to anti-corruption, and regularly 
+communicate this expectation to them. 
+We conduct anti-corruption screening and 
+diligence prior to the onboarding of new 
+suppliers, distributors and resellers, as well as 
+periodic, risk-based diligence of existing ones, 
+many of which are also continuously monitored via a third-party business information and 
+research tool. In addition, we regularly provide 
+anti-corruption training to many of our 
+partners–as discussed in more detail below.
+Acquisitions present additional potential 
+concerns and we conduct extensive anti-
+corruption diligence and risk assessments of 
+companies and businesses that we seek to 
+acquire. Upon the closing of an acquisition, our 
+policies, procedures and trainings are promptly 
+rolled out to acquired employees and any 
+substantive business process enhancements 
+identified during the due diligence process 
+are promptly implemented, as part of our 
+integration process. 
+We strive to promptly 
+mitigate compliance risks 
+and address substantive 
+areas for improvement that 
+may be identified during 
+these audits, assessments 
+and due diligence efforts or 
+as a result of our employee 
+ethical culture surveys. anti-Corruption and Compliance Training 
+Our directors, senior leaders, employees and 
+contractors receive annual training on our Code, 
+which includes an attestation of compliance 
+with the Code. Our goal is to have a greater 
+than 99% completion rate for our compliance 
+trainings, which we routinely achieve. During 
+FY20, we achieved a completion rate of 
+over 99%, including 100% completion by our 
+directors and senior leadership team. 
+We require our employees and contractors to 
+complete annual, or in some cases biennial, 
+training on a number of other important topics, 
+including anti-corruption and anti-bribery, 
+insider trading and professional conduct, and 
+to certify that they understand and agree to 
+abide by our policies on these topics. Moreover, 
+we regularly provide additional, targeted anti-
+corruption, ethics and compliance trainings to 
+our employees depending on their geographic 
+location and job function. In addition, in FY20, 
+we provided antitrust training to a number of 
+our employees based on job function, including 
+to our senior management team. 
+We also provide regular online and in-person 
+anti-corruption, ethics and compliance training 
+to a number of our distributors and resellers.
+During FY20, we trained over
+800 partner employees
+on anti-corruption topics, including live training sessions for 
+partners in multiple countries.Our goal is to have a greater than 99% 
+completion rate for our compliance 
+trainings, which we routinely achieve. >99%
+43
+BROADCOM  2020 ESG REPORT governan CeData Privacy and Cybersecurity 
+At Broadcom, data privacy and cybersecurity 
+are more than just administrative and 
+compliance functions—they form a core  
+part of our corporate mission. 
+Both are critical for our internal controls but also for many of our 
+product and service offerings. For example, our infrastructure 
+software businesses provide our enterprise customers with a range 
+of data-centric solutions to secure information on their mainframe 
+systems, networks, and devices against compromise, loss or misuse. 
+Privacy and security protections are therefore top of mind in the 
+development of our technologies, in the ways we support our 
+customers, in our interactions with employees and business partners 
+and in our internal processes. for our Company
+Within our company, data privacy is an increasingly prominent function. 
+A dedicated privacy organization, led by our Global Privacy Officer 
+and supported by an experienced team of International Association 
+of Privacy Professionals-certified privacy attorneys, reports directly 
+to the Chief Legal Officer and oversees all aspects of our corporate 
+privacy program. They and our Privacy Working Group, which consists 
+of cross-functional and global business unit stakeholders, work to 
+promote a uniform and coordinated approach to diverse privacy 
+regulatory frameworks and challenges.
+We utilize program management software to centralize and automate 
+the tracking of privacy and cybersecurity matters from emergence 
+to resolution, including data subject access requests, data processor 
+risk management, privacy impact assessments, records of processing 
+activities, breach response activities and other privacy compliance 
+issues. Employees receive periodic training on specialized privacy 
+topics as it relates to their assigned duties.
+44
+BROADCOM  2020 ESG REPORT governan Cefor our Customers
+We strive to incorporate privacy and security into 
+the full product lifecycle and to be transparent 
+with customers and other stakeholders about 
+our privacy and security policies and practices. 
+As part of our transparency efforts, we maintain 
+a Privacy portal  on our corporate website that 
+includes our Global Privacy Policy, the Standard 
+Contractual Clauses under which we conduct 
+international data transfers, and product-
+specific transparency statements that disclose 
+categories of data collection and processing, 
+the identities and locations of sub-processors, 
+and privacy-enhancing product features. We 
+also participate in the EU-U.S. and Swiss-U.S. 
+Privacy Shield programs and intend to continue 
+processing personal data in accordance with 
+those principles.
+In FY20, we acquired the 
+enterprise cybersecurity 
+business of the former 
+Symantec Corporation and its best-in-class 
+technologies that safeguard the world’s data 
+and digital infrastructure from criminals and 
+other malicious actors. The Symantec security 
+solutions harness artificial intelligence, machine 
+learning and the expertise of hundreds of 
+engineers and researchers to correlate 
+petabytes of threat data gathered from 
+hundreds of millions of globally dispersed 
+sensors, forming one of the largest civilian 
+threat intelligence networks ever assembled.
+This strategic investment reflects our 
+dedication to information-security measures 
+that continuously adapt to counter new and 
+emerging threats within a constantly evolving 
+technology landscape.
+  Broadcom’s 
+Privacy Portal
+45
+BROADCOM  2020 ESG REPORT governan Cefor society
+Our Symantec cybersecurity solutions also sit 
+at the vanguard of efforts to strengthen global 
+institutions’ defenses against organized crime 
+syndicates operating online. In addition to 
+providing the latest technical countermeasures 
+against cyber threats, we frequently collaborate 
+with law enforcement agencies and other 
+partners around the world to help neutralize 
+transnational cyber-threats and threat actors. 
+Our technical expertise and unique visibility 
+into threat actors’ tactics have helped authorities to break up cyber-crime networks 
+and successfully prosecute a range of criminal 
+offenders worldwide, including malware 
+developers, botnet operators and various other 
+enablers and co-conspirators.
+As a result of these public-private 
+collaborations, some of the world’s most 
+prolific cyber threats – from banking Trojans 
+to ransomware and other destructive attacks 
+to distributed-denial-of-service campaigns 
+and crypto-mining hijacks – have been 
+stopped or dismantled.ensuring e ffectiveness
+As a part of our own enterprise 
+security program, we maintain 
+a comprehensive portfolio of 
+information security management 
+system policies designed around 
+the ISO/IEC 27001 standards, and 
+we maintain an ISO 27001:2013 
+certification for the Customer Support 
+infrastructure of our software businesses. Our 
+cloud-based Software-as-a-Service solutions 
+also undergo routine audits for compliance with 
+applicable security-controls standards such as 
+the American Institute of CPAs’ Trust Services 
+Criteria for Security, Availability, Processing 
+Integrity, Confidentiality and Privacy (SOC 2) 
+and the Payment Card Industry Data Security 
+Standard (PCI-DSS).
+We conduct third-party penetration testing of 
+our corporate and customer-facing networks 
+at least annually and routinely scan servers, 
+applications, endpoints and network devices 
+for vulnerabilities. All issues identified as critical, 
+high or medium risks are timely remediated. 
+In addition, we conduct quarterly simulations 
+to raise employee awareness of the threat of 
+email phishing and require our employees to 
+successfully complete an annual Information 
+Security Awareness training exercise.
+As a leading provider of privacy and security 
+technologies, we are also an active voice in 
+educating others on privacy and cybersecurity 
+matters, particularly in the area of public policy. 
+We routinely contribute speakers to conferences 
+and industry events, and our opinions on 
+privacy and security topics are regularly sought 
+out by policymakers and regulators. ISO/IEC 
+27001
+ISO 
+27001:  
+2013
+Our commitment to 
+cybersecurity is also reflected 
+in our support for victims of 
+computer fraud and abuse in 
+their pursuit of civil remedies 
+to disrupt or seize control of 
+malicious infrastructure. Most 
+recently, in October 2020, 
+Broadcom provided technical 
+evidence that allowed Microsoft 
+Corporation and the Financial 
+Services Information Sharing 
+and Analysis Center to obtain 
+legal injunctions that disrupted 
+many of the command-and-
+control capabilities of the 
+notorious “Trickbot” malware.
+46
+BROADCOM  2020 ESG REPORT governan CeProduct Quality 
+We strive to provide the highest quality products that we 
+can. Our reputation for product excellence is built upon the 
+innovation, quality and reliability of our products. 
+We have earned this reputation by:
+•  Clearly understanding customer needs and 
+providing products that meet those needs;
+•  Integrating quality management principles 
+into critical business processes and decision-
+making practices;
+•  Continuously improving the effectiveness 
+of our quality management system, our 
+processes, and products, to enhance their 
+value for our customers, stockholders and 
+employees;
+•  Establishing strict quality standards and 
+requiring suppliers, partners and contractors  
+to comply with them;
+• Maintaining our quality management system 
+in conformance with the requirements of ISO 
+9001; and
+• Complying with the relevant regulatory 
+requirements, including RoHS, REACH and 
+regulations related to Conflict Minerals.
+  Broadcom Product Safety 
+and Regulations PolicyOur quality management system manages product life cycle 
+processes and procedures, and all our employees are expected to 
+provide products that meet legal requirements and are safe for their 
+intended markets and applications, as outlined by our Broadcom 
+Product Safety and Regulations Policy . We retain quality data pertaining to quality issues, including 
+customer returns. Quality data is reported monthly with the Senior Vice President of Global 
+Operations and reviewed quarterly with Broadcom’s CEO.
+iso Certification
+Our quality management 
+system and processes are 
+aligned with the requirements 
+of ISO 9001, and we choose 
+suppliers with quality 
+management systems of equal 
+rigor. We expect our suppliers 
+and partners to comply with 
+our Suppliers & Partners 
+Quality System Requirements 
+policy . Certain of our sites are 
+ISO 9001 certified. For more 
+information, please refer to 
+our certificates: ISO 9001 
+Certificate  and IATF 16949 
+Certificate .
+  Suppliers & Partners Quality 
+System Requirements
+ 
+  IATF 16949 
+Certificate.  ISO 9001 
+Certificate
+47
+BROADCOM  2020 ESG REPORT governan CeAppendix
+48
+BROADCOM  2020 ESG REPORT aPPendixGRI Content Index
+Broadcom considered the Global Reporting Standards (Core Option) when creating this report. The index below indicates where information 
+responsive to identified GRI disclosure categories may be found.
+disclosure disclosure description location ( report section, url )
+general  disClosures  (Core option)
+102-1 Name of the organization Broadcom Inc. 
+102-2 Activities, brands, products, and services What We Make
+102-3 Location of headquarters 1320 Ridder Park Drive, San Jose, California 95131
+102-4 Location of operations Who We Are
+102-5 Ownership and legal form Who We Are ; FY20 10-K Annual Report
+102-6 Markets served Who We Are ; Our Strategy ; What We Make
+102-7 Scale of the organization Who We Are
+102-8 Information on employees and other workers Diversity and Inclusion
+102-9 Supply chain Supply Chain Responsibility
+102-10 Significant changes to the organization and its supply chain There were no significant changes regarding the organization’s size, structure, 
+ownership, or its supply chain during the reporting period, other than the 
+acquisition of the Symantec enterprise business as of November 4, 2019.
+102-11 Precautionary principle Managing Our Environmental Impact
+102-12 External initiatives Investing in Our Communities
+102-13 Membership of associations Stakeholder Engagement ; For Our Company : Semiconductor Industry 
+Association; Responsible Mineral Initiative; Cybersecurity Coalition; the U.S. 
+Chamber of Commerce; the Center for Information Policy Leadership;  
+European Internet Forum
+sTraTegy
+102-14 Statement from senior decision-maker CEO Letter
+eThiCs and  inTegri Ty
+102-16 Values, principles, standards, and norms of behavior Ethics and Integrity
+governan Ce
+102-18 Governance structure Corporate Governance and Board Oversight
+49
+BROADCOM  2020 ESG REPORT aPPendixsTakeholder  engagemen T
+102-40 List of stakeholder groups Our ESG Priorities
+102-41 Collective bargaining agreements Diversity and Inclusion
+102-42 Identifying and selecting stakeholders Our ESG Priorities
+102-43 Approach to stakeholder engagement Our ESG Priorities ; Stakeholder Engagement
+102-44 Key topics and concerns raised Our ESG Priorities
+102-45 Entities included in the consolidated financial statements FY20 10-K Annual Report , Exhibit 21.1, List of Significant Subsidiaries  
+(as of November 1, 2020)
+102-46 Defining report content and topic Boundaries About this Report
+102-47 List of material topics Our ESG Priorities
+102-48 Restatements of information No restatements
+102-49 Changes in reporting This is Broadcom's inaugural ESG report.
+102-50 Reporting period Fiscal year 2020: November 4, 2019 - November 1, 2020
+102-51 Date of most recent report This is Broadcom's inaugural ESG report.
+102-52 Reporting cycle Annual
+102-53 Contact point for questions regarding the report ESG@Broadcom.com
+102-54 Claims of reporting in accordance with the GRI Standards Reporting Guidelines and Content
+gri ToPiC-sPeCifiC dis Closures
+eConomi C Performan Ce
+201 103-1/2/3: Management Approach FY20 10-K Annual Report
+201-1 Direct economic value generated and distributed FY20 10-K Annual Report ; Generating Value ; Investing in Our Communities
+anTi-Corru PTion
+205 103-1/2/3: Management Approach Ethics and Integrity ; Fostering a Speak Up Culture ; Addressing Concerns ; Anti-
+Corruption Risk Management
+205-1 Operations assessed for risks related to corruption Anti-Corruption Risk Management
+205-2 Communication and training about anti-corruption policies and procedures Broadcom's Code of Ethics and Business of Conduct ; Anti-Corruption and 
+Compliance Training
+205-3 Confirmed incidents of corruption and actions taken Fostering a Speak Up Culture ; Addressing Concernsdisclosure disclosure description location ( report section, url )
+50
+BROADCOM  2020 ESG REPORT aPPendixanTi-ComPeTiTive  behavior
+206 103-1/2/3: Management Approach Ethics and Integrity ; Fostering a Speak Up Culture ; Addressing Concerns ;  
+Anti-Corruption Risk Management
+206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices Please refer to Broadcom Inc.’s filings with the U.S. Securities and Exchange 
+Commission on Broadcom’s website .
+energy
+302 103-1/2/3: Management Approach Managing Our Environmental Impact ; Energy and Emissions
+302-1 Energy consumption within the organization Energy and Emissions
+302-3 Energy intensity Energy and Emissions
+WaTer and  effluen Ts
+303 103-1/2/3: Management Approach Managing Our Environmental Impact ; Water and Waste Management
+303-3 Water withdrawal Water and Waste Management
+emissions
+305 103-1/2/3: Management Approach Managing Our Environmental Impact ; Energy and Emissions
+305-1 Direct (Scope 1) GHG emissions Energy and Emissions
+305-2 Energy indirect (Scope 2) GHG emissions Energy and Emissions
+effluen Ts and W asTe
+306 103-1/2/3: Management Approach Managing Our Environmental Impact ; Water and Waste Management
+emPloymen T
+401 103-1/2/3: Management Approach Diversity and Inclusion ; Managing Our Efforts ; Compensation and Benefits
+401-1 New employee hires and employee turnover Diversity and Inclusion
+401-2 Benefits provided to full-time employees that are not provided to temporary or 
+part-time employeesCompensation and Benefits
+oCCuPaTional  heal Th and  safe Ty
+403 103-1/2/3: Management Approach Employee Health and Safety
+403-2 Hazard identification, risk assessment, and incident investigation Employee Health and Safety ; Health and Safety Performance
+403-5 Worker training on occupational health and safety Employee Health and Safety ; Communication and Training
+403-7 Prevention and mitigation of occupational health and safety impacts directly linked 
+by business relationshipsEmployee Health and Safety ; EHS Management Systemdisclosure disclosure description location ( report section, url )
+51
+BROADCOM  2020 ESG REPORT aPPendixdiversi Ty and  eQual oPPorTuniTy
+405 103-1/2/3: Management Approach Diversity and Inclusion ; Managing Our Efforts
+405-1 Diversity of governance bodies and employees Diversity and Inclusion ; Board Diversity
+forCed or ComPulsory  labor
+409 103-1/2/3: Management Approach Supply Chain Responsibility ; Supply Chain Management
+409-1 Operations and suppliers at significant risk for incidents of forced or compulsory 
+laborEngaging Our Suppliers
+loCal Communi Ties
+413 103-1/2/3: Management Approach Investing in Our Communities
+413-1 Operations with local community engagement, impact assessments, and 
+development programsInvesting in Our Communities
+413-2 Operations with significant actual and potential negative impacts on local 
+communitiesInvesting in Our Communities
+suPPlier  soCial  assessmenT
+414 103-1/2/3: Management Approach Supply Chain Responsibility ; Supply Chain Management
+414-2 Negative social impacts in the supply chain and actions taken Engaging Our Suppliers
+non -gri ToPiC sPeCifiC dis Closures
+Produ CT Q uali Ty
+103-1/2/3: m anagement a pproach Product Quality
+iso 9001 Qualitative disclosures related to Broadcom’s policies and conformance to ISO 
+9001 (quality management)Product Quality
+CorPora Te governan Ce
+103-1/2/3: m anagement a pproach Corporate Governance and Board Oversightdisclosure disclosure description location ( report section, url )
+52
+BROADCOM  2020 ESG REPORT aPPendixSASB Content Index
+Broadcom considered the SASB Semiconductors and Software & IT Industry Standards when creating this report. The index below indicates 
+where information responsive to identified SASB disclosure categories may be found.
+disclosure Topic disclosure n umber disclosure a ccounting m etric location (page, url )
+sasb  standards a pplication 
+guidanceSASB 5.0 Governance, 
+Internal Control, and 
+Assurancea.  The entity's governance around the risks and opportunities related to the topic, including 
+board oversight of and management's role in assessing and managing such risks and 
+opportunities
+b.  The entity's strategic approach regarding actual and potential impacts of topic-related risks 
+and opportunities on the organizations' businesses, strategy, and financial planning, over the 
+short, medium, and long term
+c.  The entity's process to identify, assess, and manage topic-related risks, and how these risks are 
+integrated into the entity's overall risk management process
+d.  The entity's use of metrics or targets to assess and manage topic-related risks and 
+opportunitiesOur ESG Priorities ; Corporate 
+Governance and Board Oversight
+semiC ondu CTors indus Try disClosures
+greenhouse g as emissions TC-SC-110a.1 (1) Gross global Scope 1 emissions and (2) amount of total emissions from perfluorinated 
+compoundsEnergy and Emissions
+energy m anagement in 
+manufacturingTC-SC-130a.1 (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable Energy and Emissions
+employee h ealth & s afety TC-SC-320a.1 Description of efforts to assess, monitor, and reduce exposure of employees to human health 
+hazardsEmployee Health and Safety
+recruiting & m anaging a 
+global & s killed WorkforceTC-SC-330a.1 Percentage of employees that are (1) foreign nationals and (2) located offshore Diversity and Inclusion
+materials s ourcing TC-SC-440a.1 Description of the management of risks associated with the use of critical materials Supply Chain Responsibility ; Our 
+Policy on Conflict Minerals
+intellectual Property 
+Protection & Competitive 
+behaviorTC-SC-520a.1 Total amount of monetary losses as a result of legal proceedings associated with anti-competitive 
+behavior regulationsPlease refer to Broadcom Inc.’s 
+filings with the U.S. Securities 
+and Exchange Commission on 
+Broadcom’s website .
+sofTWare & i T servi Ces indus Try dis Closures
+environmental f ootprint of 
+hardware i nfrastructureTC-SI-130a.1 (1) Total energy consumed, (2) percentage grid electricity, (3) percentage renewable Energy and Emissions
+TC-SI-130a.2 (1) Total water withdrawn, (2) total water consumed, percentage of each in regions with High or 
+Extremely High Baseline Water StressWater and Waste Management
+data Privacy & f reedom of 
+expressionTC-SI-220a.1 Description of policies and practices relating to behavioral advertising and user privacy Data Privacy and Cybersecurity
+data s ecurity TC-SI-230a.2 Description of approach to identifying and addressing data security risks, including use of third-
+party cybersecurity standardsData Privacy and Cybersecurity
+recruiting & m anaging a 
+global & s killed WorkforceTC-SI-330a.1 Percentage of employees that are (1) foreign nationals and (2) located offshore Diversity and Inclusion
+TC-SI-330a.3 Percentage of gender and racial/ethnic group representation for (1) management, (2) technical 
+staff, and (3) all other employeesDiversity and Inclusion
+intellectual Property 
+Protection & Competitive 
+behaviorTC-SI-520a.1 Total amount of monetary losses as a result of legal proceedings associated with anti-competitive 
+behavior regulationsPlease refer to Broadcom Inc.’s 
+filings with the U.S. Securities 
+and Exchange Commission on 
+Broadcom’s website .
+53
+BROADCOM  2020 ESG REPORT aPPendixCopyright © 2021 Broadcom. All Rights Reserved. Broadcom, the pulse logo, and Connecting everything are among the trademarks of Broadcom. The term “Broadcom” refers to Broadcom Inc. and/or its subsidiaries.

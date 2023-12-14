@@ -1,0 +1,4170 @@
+2019
+Sustainability ReportThe past year has been unlike any other in our lifetimes. The global health 
+crisis we face today is demonstrating the need to think and act differently, 
+the value of innovating anywhere and collaborating everywhere, and the 
+urgency to care for our planet and for one another.Message From Our CEO
+Over the past 50 years, semiconductor technology has 
+changed the world.  This industry has blazed a trail in 
+innovation, trying new ideas, and re-imagining how things 
+can be better. I strongly believe we are in a privileged 
+position to shape the future. I also believe that our job as 
+leaders is to leave the world in a better place. At Applied, 
+making a positive contribution is at the foundation of our 
+culture and our vision to make possible a better future.
+We’ve taken a holistic approach to our business to 
+consider our operations, how we work with customers and 
+suppliers, and how our technology can be used to advance 
+sustainability on a global scale. We call this framework 
+1x–100x–10,000x, and we’ve used it to set several 
+challenging new goals and commitments, including:
+• 1x – 100% renewable energy and 50% reduction 
+in carbon emissions in our operations by 2030, 
+backed by our commitments to science-based 
+targets and TCFD (T ask Force on Climate-related 
+Financial Disclosures) disclosure
+• 100x – Our SuCCESS 2030 supply chain 
+sustainability initiative and 3x30 product goals to 
+increase the performance of our tools, eliminate 
+waste and drive productivity  
+• 10,000x – we have focused our strategy and 
+investments to build a strong pipeline of 
+meaningful innovations that will accelerate the 
+industry’s roadmap for more powerful and energy-
+efficient technologies, including more sustainable 
+Artificial Intelligence
+In addition, we are reinforcing our Culture of Inclusion 
+by committing to even greater transparency, clearer 
+targets and comprehensive training to improve diversity 
+and inclusion within our company and in the electronics 
+industry at large.Y ou’ll learn more about our initiatives in this year’s 
+sustainability report. With the goals and commitments 
+we have announced in 2020, we look forward to reporting 
+further progress in future reports.
+It’s an exciting time at Applied Materials, and I feel 
+incredibly fortunate to be in a company that has the 
+potential to make such a meaningful difference in the 
+communities where we operate, and to society at large. 
+T ogether we are committed to make possible a better 
+future…for everyone.
+Sustainability Report 2019
+Gary E. Dickerson
+President and Chief Executive OfficerAugust 2020
+Sustainability Report 20193
+T able of Contents
+Our COVID-19 Response
+About Applied Materials
+Our Sustainability Vision
+Climate Change
+Environmental Health & Safety
+Product Responsibility
+Supply Chain Responsibility
+Our People & Workplace
+Community Impact
+Ethical Leadership4
+6
+8
+19
+26
+35
+41
+49
+63
+70
+Our 2019 Report Annex, downloadable here, includes key quantitative data compiled in 
+accordance with the GRI and SASB frameworks and standards.Sustainability Report 20194
+Applied Materials’ business has been identified by the U.S. Department 
+of Homeland Security as part of the Critical Infrastructure Sectors that the 
+Federal government deems “essential to ensure the continuity of functions 
+critical to public health and safety, as well as economic and national security” 
+and that have “a special responsibility in these times to continue operations.” Applied’s Pandemic Response
+Supporting Our People & Partners
+Applied responded quickly to put in place precautionary 
+measures to keep its workplaces healthy and safe, while 
+ensuring compliance with orders and restrictions imposed 
+by government authorities, everywhere Applied operates 
+in the world.
+Applied’s top priority during the COVID-19 pandemic 
+remains protecting the health and safety of its employees 
+and their families, customers and community. Applied 
+continues to maintain workplace flexibility such as 
+working remotely where possible to reduce the number of 
+people who are on campus each day. Applied is keeping 
+its critical labs and operations active and continuing to 
+support customers. In the interest of public health, all 
+onsite operations are utilizing the minimum number of 
+people to safely execute tasks and following enhanced 
+safety and health protocols—including screenings, social 
+distancing, and use of personal protective equipment.
+Applied has a multi-phase plan to return to working 
+on-site, which takes into consideration factors such as 
+Applied’s business needs, local government regulations, 
+community case trends, and recommendation from 
+public health officials. The plan involves multiple phases 
+that gradually allow additional workers to return while 
+practicing social distancing and other safety measures. 
+Applied Materials is committed to helping those most 
+impacted by COVID-19. In regions around the world, 
+Applied and its Foundation are addressing immediate 
+humanitarian needs while investing resources to combat 
+the long-term effect of the virus on the nonprofit 
+organizations in its communities. Applied has shared masks 
+and equipment to medical facilities, provided blood analysis 
+systems and sent emergency support to food banks.
+Applied will continue to monitor and evaluate the 
+COVID-19 pandemic and will work to respond 
+appropriately to the impact of COVID-19 on its  
+business, its customers’ and suppliers’ businesses and  
+its communities.Supporting Communities
+Around the world, we are focused on addressing 
+immediate needs in the communities where our 
+employees live and do business, and on working with 
+key strategic partners to support healthcare workers and 
+humanitarian non-profits. T o date, Applied Materials and 
+the Applied Materials Foundation have:
+• Funded essential blood analysis systems for 
+hospitals in Wuhan, China.
+• Provided personal protective equipment, 
+including masks and hand sanitizer, to 
+organizations across the U.S. and Europe.
+• Contributed to Doctors Without Borders for their 
+COVID-19 response in Europe and around the 
+world.
+• Increased support for local food banks  
+across the U.S. 
+• Funded a program in Korea to ensure access to 
+nutritious meals for disadvantaged children and 
+their families.
+• Donated to the Valley Medical Center Foundation 
+to assist county hospitals and health care centers 
+in Silicon Valley.
+• Donated to the Regional Nonprofit Emergency 
+Fund at the Silicon Valley Community Foundation 
+and to All T ogether ATX, a joint project of United 
+Way and the Austin Community Foundation.Sustainability Report 20195Our people are also taking the initiative to provide 
+assistance. At manufacturing sites in Singapore; Austin, 
+T exas; and Kalispell, Montana, our engineers used 3D 
+printers to create safety equipment for their communities, 
+including face shields and devices to enable touchless 
+door opening. In India, our design teams collaborated with 
+medical professionals on sanitation and air flow solutions. 
+We’re also increasing our corporate matching funds to 
+amplify our employees’ impact on COVID-19 relief efforts.
+Looking to the Future
+At Applied Materials, we take seriously our responsibility 
+to be a good corporate neighbor. Through the pandemic 
+and after, Applied remains committed to its core 
+value of making a positive contribution to our people, 
+communities, and world.Applied’s Pandemic Response
+“I’m glad Applied Materials took early action 
+by making sure employees’ health and 
+safety are their first priorities . . . It takes a 
+pandemic to show if you are working in a 
+company that cares about the employees 
+or just the profit, reporting to a leader who 
+knows how to handle uncertainty and be 
+more flexible, [and have] teammates that 
+care for each other’s wellbeing.”
+Seen on LinkedIn
+#LEADERSHIP #COVID19
+Sustainability Report 20196
+About Applied Materials
+FY2019 Company Overview Highlights
+Applied Materials is the leader in materials engineering solutions used to 
+produce virtually every new semiconductor chip and advanced display in 
+the world. Our expertise in modifying materials at atomic levels and on an 
+industrial scale enables customers to transform possibilities into reality. 
+Applied’s innovations make possible the technology shaping the future. AMAT  stock
+listing on 
+NASDAQ $14.6 bill ion
+reven ue~13,300
+patents 
+Headquartered 
+in California’s
+Silicon Valley~22,0 00 
+employees
+worldwide$2.1 billio n 
+R&D spending
+Data as of fiscal year-end, 10/27/19. Financial information is in USD. Sustainability Report 20197
+About Applied Materials
+In 2019, we expanded our R&D capabilities with the 
+opening of the Materials Engineering T echnology 
+Accelerator (META Center) in Albany, New Y ork. A 
+state-of-the-art facility, the META Center is designed 
+to speed customer prototyping of new materials, 
+process technologies, and devices, allowing Applied and 
+our customers to pioneer new improvements to chip 
+performance, power, and cost. The Center also supports 
+start-ups and early-stage companies in areas such as 
+Artificial Intelligence (AI), Augmented and Virtual Reality 
+(AR/VR), advanced optics, big data, life sciences, and 
+autonomous vehicles. As an innovation leader, Applied Materials aims to solve 
+the world’s toughest materials engineering challenges. For 
+more than 50 years, our innovations have fundamentally 
+changed how the world works and how people interact 
+with each other through technology. This gives us an 
+opportunity to truly make possible a better future.
+Please see the Report Annex for more details on  
+Applied Materials’ workforce, revenues, sales, stakeholders, 
+locations, EHS certifications, and environmental, social,  
+and governance data.APPLIED MATERIALS R&D ANNUAL INVESTMENT TREND
+USD Billions
+FY2011
+FY2012
+FY2013
+FY2014
+FY2015
+FY2016
+FY2017
+FY2018
+FY2019
+We are a leading player in the semiconductor industry in research and development (R&D) investment, 
+which in 2019 grew to a total of $2.05 billion.Sustainability Report 20198
+Our Sustainability Vision
+Applied Materials is aligned behind a vision of using our innovative 
+technologies and global reach to make possible a better future for 
+people, for communities, and for our planet.
+A Better Future
+Over the past 50 years, semiconductor technology has 
+changed the world, and Applied Materials has been at the 
+vanguard of that change. Our innovations make possible 
+the technologies shaping the future, but today we know 
+our ambition needs to expand. T oday, we need to make 
+possible a better future – for people, for communities, and 
+for our planet.
+The world is facing serious challenges, but we believe 
+those challenges can be an accelerator for developing 
+smart technologies that can help create a safer, more 
+secure world. We believe we’re in the privileged position 
+of helping drive those advances and make a positive 
+contribution. Because as leaders, it’s our job to leave the 
+world in a better place. 
+In 2019, that sense of commitment helped us make 
+significant progress on our own sustainability journey, 
+and we’re excited to detail those accomplishments in 
+this report. But we’re also excited to discuss additional 
+strategic commitments we announced in 2020, because 
+the real story always lies on the road ahead: helping to 
+make possible a better future.2019 Sustainability Highlights
+• Setting a goal to reduce Scope 1 and Scope 2 
+carbon emissions by 50% by 2030
+• Setting a goal to transition to 100% 
+renewable power by 2022 in the U.S. and by 
+2030 globally
+• Launching a robust, company-wide 
+Environmental, Social & Governance (ESG) 
+program and integrated strategy
+• Increasing women’s employee representation 
+both in the U.S. and globally and increasing 
+focus on improving U.S. underrepresented 
+minorities representation
+• Modifying our product design process to 
+integrate ESG criteria and targets from the 
+earliest stages, a program and set of goals 
+we’re calling 3x30
+• Making important changes to the way we 
+partner with our supply chain, developing 
+a shared 10-year roadmap called 
+SuCCESS2030Sustainability Report 20199Our Strategy for a Changing World
+Applied Materials’ commitment to acting with honesty, 
+integrity, and responsibility extends to our sustainability 
+commitments, which bring together our business, our 
+people, and our supply chain on efforts that help preserve 
+the environment and protect human health and safety.
+In 2019, we worked to drive those commitments deeper 
+into the company culture and brand. T o inform and focus 
+this process and to capture a thorough understanding 
+of our stakeholders’ views, concerns, and ideas around 
+sustainability, we conducted our first comprehensive 
+Environmental, Social, and Governance (ESG) Materiality 
+Assessment. This process combined in-depth research, 
+internal interviews and discussions, an employee survey, 
+and third-party consultations to surface Applied Materials’ 
+key sustainability priorities. From there, we launched 
+new initiatives to drive sustainability deeper into the 
+company culture and brand, setting new objectives for 
+boosting energy efficiency, reducing our carbon footprint, 
+driving greater responsibility in our supply chain, building 
+a Culture of Inclusion, and increasing our transparency 
+through broadened ESG disclosures. Our Sustainability Vision
+ENGAGEMENT 
+WITH KEY 
+STAKEHOLDERSINVESTORS
+BOARD OF
+DIRECTORSCUSTOMERS
+EMPLOYEES SUPPLIERS
+COMMUNITY REGULATORS
+Robust engagement enables us to understand our stakeholders’ views 
+and interests, and ensure they’re reflected throughout our company 
+planning, operations, and policies. See our Report Annex for more on 
+how we work with our various stakeholder groups.2019 Awards & 
+Recognitions
+Preferred Quality Supplier
+Intel
+Most Sustainable Companies  
+2020 (#84)
+Barron’s
+Most Sustainable Companies Reranked 
+by Social Factors, June 2020 (#81)
+Barron’s
+Green Power Partnership T op 30  
+T ech and T elecom (#19)
+U.S. EPA
+T op Green Power Partners from the 
+Fortune 500® (#34)
+U.S. EPA
+T op 100 Green Power Leader  
+(#94)
+U.S. EPA
+Winning ‘W’ Company
+2020 Women on Boards 
+Best Places to Work for LGBTQ
+Human Rights Campaign Corporate  
+Equality Index
+Best Company for U.S. Veterans
+U.S. Veterans Magazine
+Military Friendly Company rated
+Victory Media (GI Jobs)
+Training T op 125 Organizations (#37)
+Training Magazine
+Best Places to Work in IT
+Computer World
+World’s Most Admired Companies
+Fortune
+Best ESG Companies
+Investor’s Business Daily
+STEM Champion
+GirlStartSustainability Report 201910In 2020, knowing the challenges confronting 
+our world, those efforts should be a given 
+for every company, in every industry. And at 
+Applied Materials, we’re making a commitment 
+to think bigger and go further. 
+Our industry and our world are at an inflection point. 
+Advances in AI and the data economy are changing 
+everything: every industry, every aspect of lives, and the 
+very nature of what’s possible. Next-generation AI will 
+provide us with analysis, prediction, actionable insights, 
+and decision-making capabilities well beyond the capacity 
+of human thinking or traditional computing. With these 
+tools, we’ll be able to accelerate the search for solutions 
+to climate change, diseases, public health, and other 
+enormous challenges. We’ll also have true, actionable 
+visibility into every impact of our business, our value 
+chain, and our products’ life-cycle. 
+At Applied, we understand that the adoption of these 
+advances will be limited not only by concerns about 
+privacy and security, but in particular by their power consumption and sustainability impacts. These are 
+challenges that go beyond just our company, and that’s 
+why we’ve begun thinking about our sustainability efforts 
+through a new framework we’re calling 1x–100x–10,000x. 
+We consider it a model for how businesses should 
+measure and manage their sustainability impacts in the 
+21st century.Identified Material Issues
+1.	Climate	Change	&	the	Environment
+2.	Product	Stewardship
+3.	Supply	Chain	Management
+4.	Diversity	&	Inclusion
+5.	Community	Involvement
+6.	Ethics	&	ComplianceOur Sustainability Vision
+APPLIED MATERIALS SUSTAINABILITY FRAMEWORK
+1x
+ 100x
+ 10,000x
+Our direct 
+impact and how 
+we run our 
+business
+Our industry’s 
+impact, including 
+those of our customers 
+and suppliers
+How our technology 
+can be used to advance 
+sustainability on a 
+global scaleSustainability Report 2019111x: Applied’s Business Operations
+As we think about the journey toward a sustainable 
+society and environment, we must begin with a 
+comprehensive understanding of how we as a company 
+operate and conduct our business. 
+Environmental Commitment 
+In 2019, Applied Materials’ carbon footprint (Scope 1 
+and 2 emissions) was approximately 145,000 metric tons 
+of carbon dioxide equivalent (C02-e), dominated by the 
+power needed to run our labs and factories. With the 
+market for our technologies expected to see strong growth 
+over the coming decade, we will grow to meet demand –  
+but we do not accept that our emissions will inevitably 
+increase as a result.
+Applied will instead work to decouple our direct 
+environmental impacts from our business growth, with 
+new sustainability targets that will dramatically reduce  
+our carbon footprint over the coming decade:
+• 100% renewable energy in the U.S. by 2022
+• 100% renewable energy globally by 2030 
+• 50% reduction in our Scope 1 and Scope 2 CO2-e 
+emissions by 2030
+• New Science Based T argets announced in the next 
+24 months, including Scope 3 emissions goals
+• New commitment to disclose in accordance 
+with the recommendations of the T ask Force on 
+Climate-related Financial Disclosures (TCFD)Social Commitment 
+The social justice movement that shook the world 
+in 2020 has provided a wake-up call that we cannot 
+be complacent about the racism, discrimination, and 
+inequities that afflict so many in our communities.
+At Applied, we celebrate diversity, embrace disparate 
+perspectives as a key to innovation, and believe that we 
+are stronger when we stand together for justice. We 
+pledge to live those values and work to make a real and 
+sustainable difference.
+• We will be transparent by continuing to publish 
+our representation data. We want Applied 
+Materials to reflect our changing communities, 
+and we are committed to bringing more women 
+and underrepresented minorities onto our team 
+at every level of our company. 
+• We will set clear targets for recruiting, 
+developing, and retaining underrepresented 
+minorities and women. In the near-term, we are 
+focused on closing availability gaps in the market. 
+Then, working with our partners, we want to 
+significantly grow the pipeline of diverse talent 
+available to our industry.
+• We will ensure that all our employees are 
+trained and empowered to listen, learn, and take 
+action. We’re focusing on initiatives to teach our 
+leaders how to eliminate bias in our business 
+processes, hiring and placement decisions, 
+succession plans, and even how we run meetings 
+so that all voices are heard. 
+We want to ensure that Applied Materials and our 
+industry as a whole set a standard of what it means to be 
+a more welcoming, inclusive, and collaborative community 
+where all people can do their best work and enjoy the 
+opportunity to succeed and thrive.
+Governance Commitment
+Applied is committed to being a good corporate citizen and 
+a trusted partner to our customers, suppliers, shareholders, 
+and each other. Each member of our workforce and the 
+Board of Directors plays a part in this commitment by 
+acting with responsibility and integrity throughout every 
+workday, treating others with respect and dignity, and 
+encouraging all voices to feel heard. All Applied employees 
+are required to abide by our Standards of Business Conduct 
+and other ethical standards, as enumerated in the Ethical 
+Leadership section of this report.Our Sustainability Vision
+We	will	grow	to	meet	
+demand	–	but	we	do	not	
+accept	that	our	emissions	
+will	inevitably	increase	as	 
+a	result.Sustainability Report 201912
+100x: Semiconductor Industry Operations
+The 100x focus is on driving positive sustainability impact 
+industry-wide through innovation and collaboration. As 
+an industry, we need to break down barriers and find new 
+ways to connect the dots between systems designers, 
+integrators, chip makers, and equipment and materials 
+suppliers, in the interest of promoting cleaner, more 
+efficient manufacturing.
+Reducing Semiconductor Manufacturing’s  
+Energy Footprint 
+Producing semiconductors is an energy-intensive 
+business. T aken together, the more than 1,000 global 
+fabrication plants (fabs) operating today are responsible 
+for some 50 million metric tons of CO2 annually.1 That 
+carbon footprint includes Scope 1 direct emissions, Scope 
+2 electricity usage, and Scope 3 other energy usage. 
+Of that, Scope 2 electricity usage is one of the largest 
+components, with about half consumed by fabrication 
+tools and the remainder powering other facility functions.
+The challenge for Applied Materials and our industry as 
+a whole is to reduce those numbers, particularly in light 
+of expected growth in demand. That’s why we’re working 
+with our customers on an ambitious goal we call 3x30.  
+On a per-wafer basis, 3x30 will drive:
+• A 30% reduction in equivalent energy 
+consumption
+• A 30% reduction in chemical consumption
+• A 30% increase in throughput density per square 
+foot of cleanroom space
+We are committed to making this all happen by 2030, 
+averaged across our product portfolio.
+T o meet those goals, we’re developing hardware and 
+software upgrades to reduce energy and process chemical 
+use. T wenty of these eco-innovations are already available 
+today, with an additional forty in development. In addition 
+to being included in our new tools, many of these 
+improvements are available as upgrades for customers’ 
+existing systems. We’ve also developed advanced service 
+products that help customers optimize their systems’ 
+eco-performance as well as shorten ramp times and 
+improve device performance, yield, and costs. At one 
+leading-edge customer, we project a 15% reduction in 
+energy consumption across their installed base of Applied 
+Materials systems once all upgrades and enhancements 
+have been implemented.Finally, our next generation of tool architectures 
+significantly improve throughput density: the number of 
+semiconductor wafers that can be processed per square 
+foot of cleanroom space.
+These are all meaningful advances toward our 3x30 goals, 
+and we’ll report on our progress in the future.
+Driving Sustainability in the Supply Chain
+While we’re working with our peers and customers to 
+improve the eco-performance of our products, we’re also 
+making important changes to the way we partner with our 
+direct suppliers, developing a shared 10-year roadmap 
+we’re calling SuCCESS2030. Shorthand for Supply Chain 
+Certification for Environmental and Social Sustainability 
+2030, the program includes three key components:
+1. Setting Standards: We will hold our direct suppliers 
+to the same standards to which we hold ourselves 
+in the areas of environmental impact, labor 
+standards, and diversity and inclusion.
+2. Improving Handoffs: We will work with our 
+direct suppliers to create efficiencies and reduce 
+waste in the fulfillment stream. 
+3. Sharing Insights: We will partner with our direct 
+suppliers to share best practices and key learnings. 
+1   From commentary on semiconductor sustainability by Dr. Sarah Boyd 
+(senior consultant, Sphera) at SEMICON West, July 21, 2020.Our Sustainability VisionSustainability Report 201913UN Sustainable Development Goals10,000x: Global Electronics Impact
+When a business sends product out into the world, its 
+responsibility can’t stop at its corporate walls. Unlike many 
+businesses, however, we are in the privileged position of 
+creating a product with the potential to solve the problems 
+it creates and more – helping build a cleaner, safer world 
+of optimized efficiency and minimized waste.
+T oday, technologies like AI and edge computing offer 
+unprecedented possibilities, but leveraging them 
+responsibly means dealing first with their power 
+consumption. With current technology, today’s 
+datacenters consume about 2% of the world’s electricity 
+– a figure that could jump to 15% by 2025 without major 
+advances in the Power, Performance and Area-Cost 
+(PPAC) of semiconductor devices.
+Accelerating the PPAC playbook to improve compute 
+performance per watt will require new system 
+architectures, new application-specific chip designs,  
+new ways to connect memory and logic, and other 
+advances. Applied Materials is prepared for that 
+challenge, with the industry’s largest and broadest 
+portfolio of technologies and products to address our 
+customers’ most complex challenges.Aligning with the UN Sustainable  
+Development Goals
+As our 1x–100x–10,000x framework aligns our 
+sustainability vision across the full span of our business 
+and value chain, we also seek to align our efforts with 
+governments, industries, institutions, and individuals 
+worldwide in support of the UN Sustainable Development 
+Goals (SDGs), the world body’s blueprint to achieve a 
+better and more sustainable future for all. 
+Adopted in 2015, the SDGs seek to make transformational 
+progress on 17 interconnected global issues related 
+to poverty, inequality, climate change, environmental 
+degradation, and peace and justice, all by a target date of 
+2030. Companies around the globe are integrating  
+the SDGs into their corporate strategies and adopting 
+related targets.
+This 2019 report marks the first time we have aligned our 
+reporting against the SDG framework. In the table below, 
+we identify where our company initiatives are supporting 
+progress towards specific SDGs.
+For Applied Materials, supporting the SDGs with concrete 
+action is an important part of our roadmap to success, 
+both as a company and as a stakeholder in tomorrow’s 
+sustainable society. 
+Our Sustainability Vision
+Sustainability Report 2019 13Sustainability Report 201914Strategic  
+FocusAspiration Our GoalsT arget 
+Y earSDG Alignment
+Climate Change
+Energy &  
+EmissionsMaximize energy 
+efficiency across our 
+operations
+Reduce our impact 
+on the environment 
+by conserving 
+energy throughout 
+our operations, 
+increasing our use of 
+renewable energy, 
+and supporting 
+development of new 
+renewable energy 
+sources• Reduce Scope 1 and 
+Scope 2 emissions 
+by 50% from a 2019 
+baseline
+• Source 100% of our 
+energy from renewable 
+sources 2030
+Environmental Health & Safety
+Health  
+& SafetyEstablish and 
+implement EHS 
+policies and 
+procedures to protect 
+worker health and 
+safety• Maintain total case 
+incident rate (TCIR) at 
+0.46 or belowOngoing
+Product Responsibility
+Design for 
+SustainabilityDesign safe, long-
+lasting, reusable or 
+recyclable products to 
+minimize the use of 
+natural resources and 
+allow our customers 
+to create sustainable 
+productsFor all semiconductor 
+products:
+• Reduce equivalent 
+energy consumption 
+30%
+• Reduce chemical 
+consumption 30%
+• Increase throughput 
+density per square foot 
+of cleanroom space 30%2030
+APPLIED MATERIALS’ ASPIRATIONS, SDG ALIGNMENT & GOALSOur Sustainability VisionSustainability Report 201915Strategic  
+FocusAspiration Our GoalsT arget 
+Y earSDG Alignment
+Product Responsibility
+Waste Reduce resource 
+consumption 
+and product and 
+packaging waste 
+through material 
+minimization, reuse, 
+and recycling• Increase use of reusable 
+packaging
+• T ransition to new 
+crate design with 50% 
+reduced wood content 
+due to use of corrugated 
+Kraft cover2021 & 
+Ongoing
+Supply Chain Responsibility
+Overall 
+ResponsibilityManage our supply 
+chain responsibly, 
+including by 
+increasing supplier 
+diversity
+Hold our suppliers 
+to higher standards, 
+improve handoffs, 
+and share insights 
+through our new 
+SuCCESS2030 
+initiative• Hold our supply chain to 
+our own environmental, 
+labor, and diversity and 
+inclusion standards
+• Work with our suppliers 
+to create efficiencies 
+and reduce waste in the 
+fulfillment stream
+• Partner with our 
+suppliers to share 
+best practices and key 
+learnings2030
+Responsible 
+SourcingCommit to the 
+responsible sourcing 
+of materials used in 
+our products• Go beyond our conflict 
+minerals commitments 
+by conducting due 
+diligence on our supply 
+chain’s use of cobalt 
+and other minerals of 
+concernOngoing
+Human Rights Commit to protecting 
+human rights 
+wherever we do 
+business and to 
+conducting business 
+in an ethical and 
+responsible manner• Publish a Human Rights 
+Statement or Principles 2021Our Sustainability VisionSustainability Report 201916Strategic  
+FocusAspiration Our GoalsT arget 
+Y earSDG Alignment
+Our People & Workplace
+Diversity Establish and embed 
+a Culture of Inclusion, 
+Diversity, and 
+Engagement to drive 
+our goal to become a 
+destination employer 
+that enables everyone 
+to deliver their 
+best work, driving 
+innovation and high 
+performance• Increase women’s 
+representation globally 
+• Increase U.S. women’s 
+representation to 21% 
+by 2021 
+• Increase 
+underrepresented 
+minorities’ 
+representation in our 
+U.S. workforce 
+• Close U.S. talent 
+pipeline gaps by 
+three employee levels 
+(executive, managers, 
+and professionals)
+• Demonstrate 
+improvement in the 
+inclusion measurement 
+on OHI Survey2021 & 
+Ongoing
+Learning & 
+DevelopmentFoster personal 
+and professional 
+development for all 
+our workforce through 
+on-site resources 
+and online platforms 
+that promote career 
+development, improve 
+overall motivation, 
+and help employees 
+manage every stage 
+of their careers• Pursue more 
+integrated training and 
+development across the 
+enterprise for key talent 
+strategy initiativesOngoing
+Our Sustainability VisionSustainability Report 201917Strategic  
+FocusAspiration Our GoalsT arget 
+Y earSDG Alignment
+Community Impact
+Charitable  
+Giving, 
+Volunteerism 
+& Community 
+Investment Make strategic 
+financial and human 
+investments in the 
+communities where 
+we live and in the 
+world around us• Continue to drive female 
+empowerment through 
+our Generation Girl™ 
+program
+• Leverage grant-making to 
+meet societal needs such 
+as racial equity and the 
+impacts of COVID-19
+• Engage employees in 
+volunteer effortsOngoing
+Ethical Leadership
+Ethics & 
+ComplianceBroaden our 
+ESG-related 
+disclosures to 
+increase transparency 
+and stakeholder 
+outreach• Continue to set the 
+highest standards in 
+ESG-related disclosure 
+and performanceOngoing
+ESG Oversight & Management
+Applied’s executive leadership drives our company-wide strategy on ESG matters and reporting, primarily at the 
+vice president level (directing the work of our various functional teams). ESG leadership is further supported by our 
+Board of Directors in an oversight role. And, in 2020, we announced the appointment of a Director of ESG, Corporate 
+Sustainability, and Reporting to lead ESG efforts across the business. 
+See the Report Annex for more detailed information on ESG management and oversight.Our Sustainability VisionSustainability Report 201918About This Report
+In 2005, Applied Materials published our first Corporate 
+Social Responsibility (CSR) report. Since then, corporate 
+sustainability and our own mission have progressed in 
+parallel with the scientific consensus on climate change 
+and evolving perspectives on social justice. T oday, it is our 
+deep belief that our role as a corporate leader is to make 
+the world a better place – to make possible a better future.
+T o ensure our sustainability strategy and reporting 
+practices are as ambitious as our vision, we devoted 
+significant efforts in 2019 to redefining our ESG 
+approaches, and we’ve rebranded our annual publication 
+as a sustainability report to better reflect its breadth and 
+depth of content. 
+Published on behalf of Applied Materials, Inc. and 
+its subsidiaries (collectively referred to as “Applied 
+Materials,” “Applied,” or “the company”), this report 
+expands Applied’s previous sustainability disclosures and 
+transparency through:The Global Reporting Initiative (GRI) Standards form the 
+most popular voluntary sustainability reporting framework 
+used by companies around the world, designed to adhere 
+to all stakeholder interests. This report has been prepared 
+in accordance with the GRI Standards: Core option. A GRI 
+Content Index is provided in the Report Annex. 
+The Sustainability Accounting Standards Board 
+(SASB) has developed a voluntary, investor-focused 
+sustainability accounting framework to complement 
+Financial Accounting Standards Board (FASB) reporting 
+standards. This report aligns with SASB’s industry-
+specific standard for the T echnology & Communications 
+Sector – Semiconductors. This is our first year using SASB 
+disclosure recommendations. A SASB T able is provided in 
+the Report Annex.
+The T ask Force on Climate-related Financial Disclosures 
+(TCFD) has developed a voluntary framework for 
+companies to report on their climate-related financial risk 
+disclosure. Unlike GRI and SASB, the TCFD framework is 
+specific to issues related to climate change and emissions. 
+This sustainability report provides a comprehensive 
+examination of Applied Materials’ sustainability journey, 
+our performance for 2019, and a look at our sustainability 
+vision and progress for 2020 and beyond. Except where 
+indicated, reporting is specific to Applied Materials’ global 
+operations for fiscal year 2019 (FY2019), beginning 
+October 29, 2018, and ending October 27, 2019. 
+We did not seek external assurance for this report, but we 
+are exploring such assurance of our ESG-related data for 
+future reports. 
+Additional details on the company’s operations and 
+activities in specific areas are included in About Applied 
+Materials and the Report Annex.
+We would like to hear from you. Please direct questions or 
+comments regarding this report to our sustainability reporting 
+team at: corporate_responsibility@amat.com
+• Incorporating results of a materiality 
+assessment completed in 2019
+• Reporting in accordance with the Global 
+Reporting Initiative (GRI) and Sustainability 
+Accounting Standards Board (SASB) 
+frameworks and standards for the first time
+• Preparing for future reporting aligned  
+with the T ask Force on Climate-related 
+Financial Disclosures (TCFD) framework 
+and standards
+• Demonstrating our alignment with select 
+United Nations Sustainable Development 
+Goals (SDGs)
+• Disclosing various metrics for the first time, 
+including supplier diversity information/
+data and water use in areas of high  
+water stressOur Sustainability VisionSustainability Report 201919
+Climate Change
+Fighting climate change means bringing all our skills 
+and technology innovations to bear – as a company, an 
+industry, and a society. We’re ready to do our part.Sustainability Report 201920
+Innovation for a Healthier Planet
+At Applied Materials, we know that fighting climate change 
+requires a deep commitment to improved efficiency, cleaner 
+energy, and the groundbreaking technology innovation that will 
+drive tomorrow’s climate solutions. 
+Scope 1 and 2 Carbon 
+Emissions reduction by 203050%In 2019–2020, we sharpened our  
+focus on all these imperatives by:
+• Setting a target to reduce Scope 1 and 
+2 carbon emissions 50% by 2030 
+• Announcing our intention to set a 
+Scope 3 emissions reduction target 
+within two years
+• Setting a target of sourcing 100% 
+renewable power in the U.S. by 2022 
+and globally by 2030
+• Providing the most resource-efficient 
+products and services possible to help 
+our customers minimize their own 
+climate impacts1
+• Introducing a new industry-scaled 
+focus on how our technology can 
+advance sustainability globallyAdditionally, we have committed to setting science-based 
+targets through the Science Based T argets initiative (SBTi),  
+a process that helps companies focus the development of 
+new technologies and operational practices, stay ahead 
+of future climate-related regulations, strengthen investor 
+confidence, and promote efficiency and resilience to future 
+climate risks. 
+These goals and strategies are core components of our 
+1x–100x–10,000x sustainability vision, and also align with 
+our people’s and customers’ values while lowering our costs 
+through improved efficiency. 
+Management of our climate policy and goals resides with 
+our Environmental Health & Safety and Sustainability 
+(EHS & Sustainability) function, further information on 
+which can be found here. T racking and publicly disclosing 
+our emissions and other climate impacts annually via 
+the Carbon Disclosure Project (CDP) Climate Change 
+questionnaire is an integral part of our management 
+approach. 1  The energy and emissions data tracked and disclosed in this 
+report originate primarily from information provided on a 
+calendar year basis by utilities and other third parties.Sustainability Report 201921Managing Climate Risks
+Applied Materials monitors potential climate-related risks 
+on an annual basis, with responsibility for identifying 
+company-wide and site-specific risks resting with a core 
+team of global emergency response, crisis management, 
+and business continuity personnel, as well as local 
+facilities teams. Our risk identification, mitigation, and 
+management plans help ensure our ability to recover 
+quickly from climate-related events and effectively 
+support our customers’ and suppliers’ operations. 
+Applied anticipates higher capital costs as global 
+temperatures rise, owing partially to the need for 
+increased HVAC capacity and the potential for weather-
+related impacts to our facilities. Procuring a higher 
+percentage of our energy from renewable sources may 
+also increase overall costs, but these costs are offset 
+through reducing our reliance on carbon-based energy, 
+with its attendant price volatility.
+Applied Materials supports transparency related to 
+the financial risks of climate change, to help investors, 
+lenders, insurers, and other stakeholders better 
+understand our climate risks. We are supportive of the 
+T ask Force on Climate-related Financial Disclosures 
+(TCFD), which has developed a voluntary framework for 
+companies to report on their climate-related financial 
+risk disclosure. In 2020, we partnered with T rucost, an 
+S&P Global company, to support our climate-related 
+risk assessment and resilience plan in line with TCFD 
+guidelines. This engagement will include a quantitative 
+and qualitative assessment of our assets’ physical 
+climate-related risk exposure under high, moderate, and 
+low climate change scenarios. We recently completed 
+interviews with key executives across the business to 
+identify climate-related risks and opportunities associated 
+with the transition to a low-carbon, climate-resilient 
+economy, and will disclose those findings and further 
+expand our transparency as we prepare to report in line 
+with TCFD recommendations. Climate Change
+GHG Emissions Classification
+Scope 1 – Direct Emissions from company 
+facilities, fleets, etc.
+Scope 2 – Indirect Emissions from electricity 
+purchased and used by the company
+Scope 3 – Other Indirect Emissions from company 
+activities via entities beyond its ownership or 
+control (procurement, shipping, distribution, 
+waste, etc.), as well as business travel and 
+employee commuting
+Applied	is	in	the	T op 100 of the U.S.	
+EPA’s	April	2020	list	of	Green	Power	
+Leaders	for	helping	to	reduce	the	
+negative	health	impacts	of	emissions	
+related	to	ozone,	fine	particles,	acid	
+rain,	and	regional	haze.Sustainability Report 201922Emissions Data
+Through efforts to increase efficiency, resource 
+conservation, and greater use of renewable energy, 
+Applied Materials remains focused on maximizing 
+energy performance and minimizing consumption. In 
+recent years, despite rapid operational growth, we have 
+succeeded in keeping our energy use and GHG emissions 
+relatively flat through a combination of:
+• Routine energy-use monitoring and  
+energy audits
+• Optimizing the temperature of water used  
+in our operations
+• Building optimal energy efficiency into  
+all new construction
+• Purchasing only the most energy-efficient  
+new equipment
+• Employing emissions-control technologies
+• Increasing our focus on clean, renewable energy
+We have identified Scope 2 electricity consumption as 
+having the greatest potential impact on achieving our 
+stated energy and emissions targets. Looking forward, we 
+anticipate our Scope 3 emissions to be much higher than 
+Scope 1 and 2 combined. T o date, we have not yet set a 
+Scope 3 emissions reduction target, but will do so as part 
+of our commitment to setting science-based targets.
+After experiencing a total annual carbon reduction of just 
+0.2% in 2017, we set a year-over-year GHG emissions 
+reduction target of 1% for 2019 over 2018. We met and 
+beat this target, achieving a 4% emissions reduction.
+Air emissions from our manufacturing processes are 
+treated with point-of-use abatement units and facility 
+scrubbers before being discharged to the atmosphere, 
+consistent with our local or regional air permits 
+requirements.2019 2018 2017
+ Scope 1Process	Gas 18.2 14.2 13.5
+Refrigerant 1.7 1.3 0.8
+Natural	Gas 22.4 23 22.1
+T otal  
+Scope 142.2 38.5 36.5
+Scope 2 Electricity 103.1 113.5 131.6
+Scope 1 + Scope 2 145.4 151.9 168.1
+Scope 3 (Employee Travel) 30.0 35.9 17.3
+GHG Emissions Intensity
+tCO2-e of total Scope 1  
+& Scope 2 per employee  6.26  6.79  8.44 
+tCO2-e of total Scope 1 
+& Scope 2 per million 
+dollars of revenue 9.95  9.10  11.44 
+Energy Intensity
+MWh of energy 
+consumed per employee 16.86  16.52 17.52
+MWh of energy 
+consumed per million 
+dollars of revenue 26.82  22.14  23.73 GHG Emissions Data  
+(in	thousand	tCO2-e)Climate ChangeSustainability Report 201923Reducing Our Carbon Footprint
+Applied Materials is committed to decoupling our growth 
+as a company from our total carbon footprint, embracing 
+an efficient, clean-energy future where prosperity and 
+sustainability go hand-in-hand. This is how we shift to a 
+thriving, low-carbon economy.
+Our progress rests on increasing energy efficiency, 
+boosting our use of renewables, and reducing energy 
+use overall. As we maintain and improve our facility 
+infrastructure, we are advancing energy efficiencies in our 
+buildings by using more energy-efficient building materials 
+and equipment. We are also planning to increase our use 
+of purchase agreements of renewable energy.Boosting Renewable Energy
+We are committed to doing our part to achieve a 
+low-carbon future. We’ve already boosted the share of 
+renewable power in our energy mix, and in 2020 we set 
+a long-term target to source 100% of our energy from 
+renewables by 2030, with an important intermediary step 
+of reaching that goal in the U.S. by 2022. With our recent 
+signing of a power purchase agreement (PPA) to support 
+a new 500 megawatt wind energy project in Crockett 
+County, T exas, we are well on our way to achieving this 
+target and contributing to decarbonizing the grid.
+Our sources of renewable energy include or will include:
+• On-Site Generation: Renewable power generated 
+by company-owned renewable energy sources 
+(i.e. solar)
+• Renewable Energy Certificates (RECs): 
+Market-based instruments that represent the 
+environmental benefits of 1MWh of electricity 
+generated from renewable energy (RE) sources, 
+providing reductions in our Scope 2 emissions
+• Virtual Power Purchase Agreements: Financial 
+contracts that provide RECs from a specific 
+renewable energy project not located on 
+company property
+• Utility Green Procurement Programs: Direct 
+purchase of renewable energy from a utility 
+provider
+Big Business, Small Emissions 
+The U.S. electronics manufacturing industry, 
+of which semiconductor manufacturing is a 
+part, is responsible for approximately 0.2%* 
+of U.S. greenhouse gas emissions – while 
+also being among its top export sectors.
+ – U.S. Environmental Protection Agency 
+GHG Reporting Program, using 2018 data
+*	6.3	million	metric	tons	of	carbon	dioxide	equivalents	 
+(tCO2-e)	out	of	2,987	million	total
+2  This number was updated from the figure reported in our 2018 CSR 
+Report, which had inadvertently included renewable energy that we are 
+not permitted to claim under the California Renewable Portfolio Standard. 2019 201822017
+Renewable energy used as a 
+percentage of overall energy use27% 29% 18%
+ Share of Renewables in 
+Our Energy Mix: Global 
+Facilities & OperationsClimate ChangeSustainability Report 201924Power Purchasing
+In the U.S., Applied Materials uses over 100,000 MWh of 
+green power annually – nearly 39% of our U.S. operation’s 
+total power needs. This figure represents energy from 
+utility renewable energy programs, on-site generation, and 
+our purchase of RECs.
+In April 2020, the U.S. Environmental Protection Agency’s 
+Green Power Partnership ranked Applied Materials as a 
+top-100 user of green power in the U.S., recognizing our 
+leading purchases of renewable energy. The Green Power 
+Partnership is a voluntary initiative of over 1,500 partners 
+working together to advance the U.S. market for green 
+power and related developments. Applied is also ranked 
+19 on the partnership’s T op 30 T ech & T elecom list and 34 
+among Green Power Partners on the Fortune 500® list. On-Site Solar Power Generation
+Applied Materials’ clean power initiative has led to 
+the installation of solar arrays at four of our facilities 
+worldwide, beginning in 2007 in Austin, T exas. These four 
+arrays have provided us with cost-effective renewable 
+power, contributing to a 2019 renewable energy rate of 
+27% across our global operations.  
+ 
+(See Energy Data table on next page)
+Facility LocationY ear  
+InstalledPower 
+Capacity2019 Annual 
+GenerationNotable
+Austin, T exas 2007 24kW 27 MWhEliminates 54,390 pounds of CO2 emissions 
+each year, roughly equal to planting eight 
+acres of trees.
+Sunnyvale, 
+California2008Almost 
+2,000 kWHistorical annual 
+generation has 
+been over 3,000 
+MWh3 Includes 8,000 wafer-based solar panels 
+manufactured using Applied equipment.
+Panels track the sun throughout the day, 
+increasing sunlight capture by 30% over 
+traditional systems. Replaces carbon 
+equivalent to the emissions from 450 
+passenger cars for one year.
+Xi’an, China 2008 56 kW 44 MWhReduces GHG emissions by more than 65 
+tons per year.
+Singapore 2010400 kW  
+peak system317 MWhThe largest thin-film solar system in 
+Singapore. Awarded the Green Mark Platinum 
+award, the nation’s highest environmental 
+honor, by the Singapore Building and 
+Construction Authority. 
+TOTAL3,500 MWh 
+annually 
+(approximately)
+3 We were unable to track 2019 generation due to a malfunction in the tracking system. 
+Applied Materials On-Site Solar Power GenerationClimate ChangeSustainability Report 201925Reducing Scope 3 Emissions
+As part of our commitment to science-based targets, 
+we have commenced calculating our Scope 3 emissions. 
+T o date, employee travel is the only type of Scope 3 
+emissions we have measured, and we have established 
+a strategy to reduce this emissions source. Our 
+semiconductor business unit, field services, and other 
+teams throughout the company have instituted a travel 
+control process to track the number of employees 
+travelling to a single meeting. The business management 
+unit also created an online portal through which 
+proposed travel is reviewed to ensure the objectives 
+cannot be achieved another way, such as by online video 
+conferencing.
+Applied was growing its use of video conferencing 
+even before COVID-19 made it mandatory. As physical 
+workplaces reopen, it is our intention to continue using 
+these platforms.CY 2019 CY 2018 CY 2017
+Electricity Consumption  391,735  369,929  348,731 
+T otal Renewable Energy  105,583  105,662  62,638 
+Solar Total (Onsite Generation)  391  3,403  3,456 
+REC Total (Unbundled RECs + 
+GreenChoice) 62,060  62,579  59,182 
+Credits from Community Choice  43,132  39,679 —
+Renewable Energy Rate 27% 29% 18%
+GreenChoice is the renewable energy utility program in Austin, TX, to which our Harris Branch location subscribes. Community Choice is the 
+renewable energy program for Sunnyvale, CA.Energy Data  
+(in	megawatt	hours)Climate ChangeSustainability Report 201926
+In addition to our climate commitments, Applied 
+Materials is dedicated to reducing waste, conserving 
+resources, and protecting the health and safety of our 
+people, customers, and communities.Environmental  
+Health & SafetySustainability Report 201927Lorem ipsum dolor sit sagittie
+Climate change is only one of the environmental challenges we’ve 
+committed to addressing as we transition to a more sustainable future. 
+Globally, Applied Materials considers environmental 
+impacts as part of every significant decision we make, 
+throughout our business operations. Our Environmental 
+Health & Safety Management System (EHSMS) is 
+designed around five guiding principles:
+1. Maximizing Energy Efficiency & Reducing 
+Emissions: Reducing our impact on the 
+environment by conserving energy throughout 
+our operations and supporting renewable energy 
+sources
+2. Designing for the Environment: Designing safe, 
+long-lasting, reusable or recyclable products and 
+minimizing use of natural resources to support 
+our customers in creating sustainable products
+3. Ensuring Safe Work Environments: Establishing 
+EHS policies and procedures, evaluating 
+chemicals against stringent safety parameters, 
+and employing appropriate engineering controls 
+when warranted
+4. Reducing Waste: Reducing product and 
+packaging waste through material minimization, 
+reuse, and recycling
+5. Conserving Natural Resources: Minimizing our 
+resource consumption by using recycled materials 
+and process waterEfforts to ensure safe and healthy work environments, 
+reduce waste, conserve resources, and demonstrate 
+environmental leadership in our communities are detailed 
+in the pages that follow.
+Our energy emissions and product design principles 
+and efforts are discussed in detail the Climate Change 
+and Product Responsibility sections of this report. See 
+the Report Annex for information on ISO and OHSAS 
+certifications for our manufacturing sites.
+EHS Policy & Management
+Applied Materials’ Environmental Health & Safety 
+(EHS) policy commits our company to protecting the 
+environment. The policy is signed by our President and 
+CEO, distributed to all Applied locations globally, and 
+referenced often during site team and management 
+meetings.
+Applied Materials’ EHS & Sustainability organization is 
+an integrated entity with teams responsible for health 
+and safety related to on-site operations (including 
+construction, fire and life safety, and contractor safety), 
+hazard and risk identification, customer site support 
+operations, emergency preparedness, environmental 
+management, and product safety. These efforts are 
+supported by company management and guided by our 
+EHS policy. The Board of Directors receives a report of 
+EHS and sustainability matters each quarter and the 
+Corporate Governance and Nominating Committee 
+receives a more in-depth environmental and sustainability 
+update annually, detailing our GHG emissions and other 
+sustainability process indicators.
+Working T oward a  
+Cleaner, Safer WorldSustainability Report 201928
+We implement our EHS policy through our EHSMS, 
+which conforms with international management system 
+standards such as ISO 14001, OHSAS 18001, the U.S. 
+Department of Labor’s Occupational Safety and Health 
+Administration (OSHA) Voluntary Protection Plan (VPP), 
+and EHS documentation to the requirements of ISO 9000.
+The EHSMS lays out employee EHS responsibilities  
+by organizational role, which include:Environmental Health & Safety
+Executives Managers & SupervisorsRegional EHS Directors  
+& ManagersAll Employees
+• Ensuring all workers 
+adhere to applicable 
+country, state, and local 
+regulations
+• Ensuring adequate 
+resources for EHSMS 
+implementation and 
+maintenance
+• Confirming response 
+to incidents, injuries, 
+product liability, and 
+environmental releases
+• Supporting the 
+completion of periodic 
+management reviews of 
+the EHSMS • Ensuring that no worker 
+is assigned a task 
+without appropriate EHS 
+and task-specific training
+• Encouraging workers to 
+suggest improvements
+• Promptly reporting, 
+investigating, and 
+correcting hazardous 
+conditions or systemic 
+failures resulting in 
+injuries, illnesses, 
+environmental releases, 
+and near misses
+• Ensuring EHS 
+requirements are 
+incorporated into 
+product and facility 
+designs and installations
+• Reinforcing safe 
+behavior through 
+appropriate recognition 
+or disciplinary actions• Ensuring the EHSMS 
+complies with our 
+certifications, EHS 
+policy, and applicable 
+regulations
+• Reviewing and  
+approving EHS 
+objectives and targets
+• Reporting on the 
+performance of 
+the EHSMS to site 
+management and 
+applicable Applied 
+Materials staff• Supporting and taking 
+responsibility for 
+implementing our EHS 
+policy in accordance  
+with their roles
+All Applied managers are trained in EHS policies, procedures, and expectations and must support continuous EHS 
+improvement in their management areas, including operations, processes, and products. Applied Materials employees 
+are assigned applicable EHS training based on the type of work they are required to complete, with their managers 
+evaluating training assignments annually for accuracy.Sustainability Report 201929
+EHS Audits
+Our EHS program continually checks performance through 
+an annual internal audit. Major operations are audited 
+on a three-year cycle or more frequently as business 
+conditions permit or circumstances require. In locations 
+outside the United States, internal auditors are generally 
+accompanied by local regulatory experts. 
+Our EHS & Sustainability organization also annually 
+gauges the effectiveness of our programs using internal 
+systems and self-assessment tools, including the 
+Responsible Business Alliance (RBA) Self-Assessment 
+Questionnaire (SAQ).
+Findings from internal and external assessments are 
+documented using Applied’s Quality Management System 
+(QMS) database and tracked for corrective action to 
+closure.
+Conserving Water
+Applied Materials is committed to using water and other 
+natural resources wisely and efficiently to ensure the 
+wellbeing of our society and planet. We rely on high-
+quality fresh water both for manufacturing processes 
+and routine use at our facilities and offices. Ensuring the 
+availability and quality of water is essential for the success 
+of our operations and those of our customers. T o increase 
+our transparency in this area, we are making a first-time 
+disclosure on our water use in areas of high water stress.
+Our efforts around water conservation are twofold:
+1. Reducing Our Own Water Use:  Most of our 
+operations are not highly water-intensive, but 
+we take measures to reduce, reuse, and recycle 
+water in all facets of the business. We work with 
+our R&D labs to find ways to reduce our water 
+consumption, and also ask our suppliers to be 
+aware of their resource consumption.
+2. Designing for Water Minimization:  As a 
+member of SEMI, Applied considers water 
+minimization during the design phase of all new 
+products. The potential risk of water shortages 
+has driven efforts to make equipment more 
+water-efficient, in order to maintain our level of 
+production and help our customers do the same.  
+ 
+See the Product Responsibility section of this 
+report for more information on designing for the 
+environment.Looking forward, Applied is developing an official policy 
+focused on the continued reduction of water use and 
+consumption, reuse, and recycling where feasible, and 
+improved measurement and documentation of our water 
+use. We are also conducting physical risk assessments of 
+potential adverse climate change impacts to our global 
+manufacturing facilities.
+Management & Oversight
+Our Managing Director of EHS is responsible for ensuring 
+that water-related risks and minimization opportunities 
+are assessed as appropriate. Each of Applied’s operational 
+units has a facilities group that is responsible for water 
+use at specific sites, with oversight from the company’s 
+EHS & Sustainability organization. Water reduction is 
+covered under our EHS policy and ISO 14001 EHSMS, 
+which call for our business operations to make continual 
+improvements on environmental preservation and natural 
+resource conservation through effective management and 
+meeting or exceeding all relevant regulatory requirements.
+See EHS Policy & Management for general management 
+information.
+Risk Assessment
+Applied Materials uses widely accepted tools to 
+understand water-related risks to our operations, such as 
+the World Resources Institute (WRI) Aqueduct T ool.
+Our highest risk is tied to changing demands for our 
+products. For example, future water shortages could lead 
+customers to select equipment that requires little or no 
+water. Applied is responding to this risk by designing 
+products and services that consume less water and 
+other natural resources and reduce pollution, all while 
+maximizing functionality. 
+We follow best practices in tool development and 
+specifications for water use outlined in the SEMI industry 
+requirements.Environmental Health & SafetySustainability Report 201930Water Performance 
+Withdrawal: In 2019, our total water withdrawal grew as 
+a result of increased production, in addition to increased 
+facility footprint in Asia, the U.S., and other regions. 
+A portion of the increased consumption may also be 
+attributed to warmer temperatures, requiring increased 
+cooling.
+Water Sources: Applied Materials obtains its water from 
+local, municipal-supplied facilities in the cities or counties 
+where we operate. Except for our facilities in T reviso, Italy, 
+and Birch Grove, Montana, we do not directly withdraw water from sources such as wells, lakes, or rivers. No 
+native water sources are affected by withdrawal or water 
+reclamation processes or drainage. 
+Water Stress Risk: Applied Materials uses the World 
+Resources Institute’s Aqueduct Water Risk Atlas to 
+identify areas around the world that experience water 
+stress, which could lead to water-related risks. In 2019, 
+13.95% of our water withdrawal was from extremely high 
+water-stressed areas. Overall, our California R&D facility 
+is our most significant facility located in areas considered 
+water-stressed.
+Extreme drought conditions in California and T exas 
+have led to water usage restrictions and reductions, and 
+California is in the process of assessing and implementing 
+water reductions for businesses. Preparing for potential 
+water mandates, our facilities in both states are working 
+to gauge potential business impact and additional 
+opportunities to reduce their water consumption.CY2019 
+T otal Water Withdrawal  1,798 
+City Water Purchased 1,780
+Ground Water 18
+Locations Water Stress Risk Megaliters %
+Rehovot Extremely High (>80%) 57 3%
+Xi’an Extremely High (>80%) 206 12%
+Bangalore Extremely High (>80%) 1 0%
+Heimstetten High (40-80%) 1 0%
+T reviso Medium - High (20-40%) 19 1%
+Newburyport Medium - High (20-40%) 1 0%
+Gloucester Medium - High (20-40%) 33 2%
+Korea (Hwaseong & Pyeongtaek) Medium - High (20-40%) 6 0%
+Alzenau Low - Medium (10-20%) 18 1%
+Kalispell Low - Medium (10-20%) 14 1%
+Austin Low - Medium (10-20%) 115 6%
+Santa Clara Low (<10) 256 14%
+Sunnyvale Low (<10) 940 53%
+T ainan Low (<10) 57 3%
+Singapore Low (<10) 57 3%
+TOTAL (Manufacturing	Sites	Only) 1,779 100%2019 WRI Aqueduct Water RiskWater Data  
+(megaliters)Environmental Health & SafetySustainability Report 201931Initiatives to Reduce Water Use 
+Water Recycling: T o reduce consumption of clean water 
+by applications that do not require potability, Applied 
+Materials implements water recycling and reuse, 
+especially around cooling and landscape water usage. 
+Wherever possible, we recycle and reuse process water, 
+blowdown from chillers, and other water used in our 
+manufacturing and laboratory operations for chilling 
+or removing waste heat, rather than pre-treating and 
+discharging it to publicly owned treatment works.
+In September 2015, Applied’s largest manufacturing 
+facility, in Austin, TX, implemented our first Industrial 
+Waste Neutralization (IWN) program. By reusing treated 
+industrial wastewater as make-up water in the cooling 
+towers that provide building temperature management, 
+the program has helped us substantially reduce water 
+use. Each gallon of reclaimed IWN wastewater directly 
+replaces potable water that would otherwise have been 
+used. During cooler months, the recycled wastewater 
+provides over 90% of the total cooling tower make-up 
+water. Excess reclaimed wastewater volumes continue 
+to flow through the lift station to the City of Austin’s 
+treatment works. 
+Rainwater Collection: Several Applied facilities collect 
+rainwater for use in landscaping or non-production needs, 
+reducing the need to irrigate and lowering overall water 
+use/consumption. Applied’s Singapore Operations Center 
+and T aiwan Manufacturing Center 2 use a rainwater 
+recycling system.Drought-T olerant Landscaping & Smart Irrigation: 
+Applied also reduces water consumption by employing 
+smart irrigation controls and a reduced schedule of 
+watering days at our Austin, TX, campus, and by planting 
+drought-tolerant landscaping in Sunnyvale, CA.
+Reducing Waste
+Applied is committed to minimizing waste across our 
+locations and logistics operations, with a special focus on 
+non-recyclable, landfill-bound waste. Waste reduction, 
+reuse, and recycling programs are managed at a site level, 
+and we have introduced waste management targets, 
+guided by ISO 14001, for individual manufacturing 
+locations. Each site’s program targets are reviewed on 
+an ongoing basis and scored annually, which has led to 
+a measurable reduction in solid waste and an increase in 
+reuse and recycling of product and packaging materials.
+We also strive to reduce the negative impacts of 
+wastewater from our operations, monitoring to ensure 
+sufficient removal of solids and adherence to permitted 
+parameters (e.g., pH and fluoride content) before 
+discharge to publicly owned treatment works. Each 
+Applied facility is responsible for wastewater monitoring, 
+with problems escalated to the site management team 
+and applicable corporate staff for immediate correction.2019 2018 2017
+Process Reclamation 16.6 20.0 19.2
+Cooling T ower Reuse 12.5 10.3 14.3
+ 
+ 
+ 
+ 
+ 
+ 
+Reducing Embedded Water in 
+Product Manufacturing
+Embedded water is the amount of water 
+required to make a product. Similar to the 
+way we measure embedded carbon – the 
+amount of greenhouse gas associated 
+with production – we also measure 
+embedded water to help us minimize 
+adverse environmental impact and conserve 
+important resources. Since 2017, wastewater 
+reuse and recycling efforts at our Austin 
+manufacturing facility alone have reduced our 
+consumption by 24.6 million gallons.In 2018–19, our 
+non-hazardous waste 
+diversion rate was 83%, 
+up from 76% in 2017. 83%Water Recycling in 
+Austin - Harris Branch  
+(in megaliters)
+Environmental Health & SafetySustainability Report 201932Waste Management 
+T o reduce Applied’s overall environmental impact, our 
+facilities are shifting to reusable, recyclable materials 
+wherever possible, and we operate comprehensive waste 
+management programs to: 
+• Minimize the Amount of Waste Generated. As 
+one example, employees use print-on-demand 
+systems and online documentation to reduce 
+paper waste.
+• Sort Waste to Increase Diversion to Recycling. 
+Recyclable materials are separated upon disposal 
+by employees. We capture wood waste for 
+recycling from used crating materials and collect 
+and recycle metals and electronics in separate 
+streams.
+• Maximize Composting. Food waste from our 
+facilities is composted instead of being sent to 
+landfill.
+• Clean Up the Environment in Our Communities. 
+For instance, in Japan, a clean-up crew collected 
+860 pounds of garbage on Mount Fuji in 2019 as 
+part of EarthWorks, a month-long, company-wide 
+initiative held every April. 
+For more information on employee initiatives, see the 
+Community Impact chapter of this report. See the Product 
+Responsibility chapter for information on our responsible 
+product and packaging initiatives.
+ Hazardous Waste Management: Applied uses licensed 
+third parties to transport and dispose solid and other 
+waste (including hazardous waste) off-site, consistent 
+with applicable laws and regulations. Our EHS & 
+Sustainability organization provides additional oversight 
+of third-party hazardous material disposal companies 
+and ensures that all disposal sites and methods meet 
+regulatory requirements. 
+Applied Materials is a member of CHWMEG, a 
+non-profit trade association promoting responsible 
+waste stewardship. CHWMEG’s Facility Review Program 
+provides environmental, operational, and financial 
+information on waste treatment, disposal, recycling, and 
+storage facilities, which we use to evaluate potential 
+vendors for operational responsibly and compliance with 
+applicable laws.
+Water Discharges & Wastewater
+Applied Materials recognizes our responsibility to protect 
+water sources in the communities where we operate, and 
+to promote strong water stewardship practices throughout 
+our value chain. 
+T o minimize both water consumption and wastewater 
+discharge, our facilities recycle and reuse as much water 
+as possible for cooling, landscaping, and other uses. 
+Water that cannot be recycled or reused undergoes 
+careful quality monitoring and is pre-treated (e.g., for pH 
+balancing, fluoride removal, heavy metal removal, and 
+copper treatment) consistent with local laws, regulations, 
+and permit requirements before being discharged to 
+publicly owned treatment works. 
+In 2015, we launched a water reclamation project in 
+Austin, TX, that has since expanded into our global 
+Industrial Waste Neutralization (IWN) Program. IWN 
+has had a substantial impact by taking wastewater that 
+would otherwise be treated and discharged and diverting 
+it for reuse in our manufacturing facilities’ cooling towers. 
+This recycled water provides approximately 90% of our 
+cooling towers’ water needs (depending on the time of 
+year), contributing to drastically reduced consumption of  
+potable water.Waste Performance Data Metric T ons
+T otal Waste Generation* 14.3
+T otal Hazardous Waste 0.4
+T otal non-hazardous waste
+• Diverted
+• Landfill and incineration13.9
+11.6
+2.4Waste  
+Performance  
+Data1
+*  T otal hazardous waste originating from our manufacturing facilities, 
+including R&D and labsEnvironmental Health & SafetySustainability Report 201933Occupational Health & Safety
+Applied Materials places the highest priority on the 
+safety of our workforce, suppliers, and customers. We are 
+committed to complying with or exceeding all regulatory 
+requirements relevant and applicable to the health 
+and safety performance of our operations, processes, 
+and products. During the COVID-19 crisis, EHS & 
+Sustainability has developed detailed Safety & Health 
+Protocols for all our sites and operations and to support 
+our employees who work at customer sites. (See Our 
+COVID-19 Response for additional information.)
+Occupational health and safety is managed by Applied’s 
+EHS & Sustainability organization. We regularly engage 
+employees through Safety Review Boards / Workers’ 
+Councils in which managers, employees, and other 
+stakeholders collaborate to review site-specific or 
+organizational safety topics and specific incidents. Safety 
+is also addressed in operations meetings and quarterly 
+operations reviews. Employees can communicate their 
+safety concerns by submitting an Occupational Safety 
+Event Report.
+Managing Hazards & Risks
+Identifying & Assessing Risks: We identify and evaluate 
+health and safety hazards and risks at our global sites 
+using Job Hazard Assessments (JHAs), which are 
+supported by the relevant facility EHS team. JHAs are 
+used to evaluate workforce tasks, work areas, equipment, 
+and operations, and to identify the controls needed to 
+prevent or minimize worker exposure to health and safety 
+risks. For non-routine tasks where a JHA may not have 
+been conducted, we use a pre-task plan to evaluate 
+hazards and existing controls and establish appropriate 
+mitigation measures.We implement regular internal and third-party audits to 
+review the effectiveness of these assessment programs. 
+We also encourage employees to speak up on safety. If a 
+worker observes a health and safety issue or incident or 
+raises a health and safety concern, including near misses, 
+it is reported and tracked in the Global Occupational 
+Safety Event Report (OSER) online reporting system. 
+OSER also tracks other identified hazards and concerns, 
+including those reported through self-inspection 
+programs.
+Emergency Preparedness: All Applied Materials sites 
+maintain emergency action plans, and emergency 
+response teams (ERT s) are embedded at each 
+manufacturing and lab facility. Applied’s Global 
+Emergency Response T eam program specifies site-level 
+ERT requirements, including ERT member requirements, 
+equipment, response plans, and training. All ERT 
+programs are reviewed annually by local site coordinators 
+and by the corporate-level program owner.
+Emergency response plans are based on individual 
+facilities’ operations and hazards, which may include fires, 
+chemical releases, injuries, and natural disasters such as 
+earthquakes, hurricanes, tornados, and typhoons. 
+Occupational Health: Our Corporate Industrial Hygiene & 
+Health Services department is led by a certified industrial 
+hygienist (CIH) and supported by occupational health 
+nurses and a part-time medical director. The department 
+is responsible for:
+• Managing the industrial hygiene (IH) programs 
+and providing effective occupational IH support 
+to all business units and operations
+• Developing occupational programs and 
+procedures and assisting in their implementation
+• Developing and delivering IH training to EHS staff
+Depending on the site and the applicable legal 
+requirements, occupational health services for our 
+manufacturing and/or R&D sites may be led by 
+full-time nurses, site EHS, external medical providers, or 
+occupational health nurses. Site EHS and nursing staff 
+are appropriately trained and certified, consistent with 
+applicable legal and corporate requirements. Corporate 
+staff supports all regions and provides guidance. Our 
+customer engineers, who provide customer services 
+worldwide, access occupational health services through 
+local healthcare clinics at their various locations.
+We establish medical surveillance programs as needed, 
+such as respiratory protection, radiation safety, hearing 
+conservation, and arsenic protection.Formal safety risk assessments 
+undertaken as part of our EHS 
+Management System include:
+• Aspect and impact assessments
+• Safety self-inspections
+• Walk-through assessments
+• Management of change process 
+• Formal chemical evaluation and  
+authorization processEnvironmental Health & SafetySustainability Report 201934Safety Training
+Applied Materials managers receive regular EHS training 
+and are responsible for ensuring that no worker is 
+assigned a task without appropriate training. Applied 
+has internal policies and procedures that ensure all 
+required EHS training is developed, maintained, assigned, 
+and tracked. EHS training is assigned using our Virtual 
+T raining Manager (VTM) tool, allowing us to designate 
+training requirements based on job profiles and site-
+specific training requirements. The VTM system is also 
+used to monitor EHS training assignment rates to ensure 
+managers are assigning appropriate EHS training.
+Safety Training Rate: In FY2019, Applied Materials set 
+a target that 96% of relevant employees would complete 
+safety training by year-end. We are pleased to report 
+that our workforce met this target. Reports tracking the 
+safety training penetration rate are run weekly across all 
+business units, with the findings sent to all members of 
+executive management as part of the weekly EHS Update 
+Report. 
+Safety Performance
+Applied Materials maintains global programs and 
+monitoring to promote safety culture and safe work 
+practices, minimize workplace risks, and promote 
+continuous improvement in our safety performance.  
+We use the definitions set by the U.S. Department of 
+Labor’s Occupational Safety and Health Administration 
+(OSHA) for recordable, lost-time, and restricted-day 
+injuries, and implement these definitions globally for  
+data gathering and analysis. Safety T argets
+Applied Materials’ EHS & Sustainability organization sets 
+targets and objectives for T otal Case Incident Rate (TCIR), 
+Days Away and Restricted Time (DART) injury rate, and 
+Lost Time Severity Rate (LTSR), both at the corporate level 
+and specific to each business unit and site location. The 
+targets are embedded into annual performance objectives. 
+At the end of each year, results are analyzed and the 
+targets are reset for the coming year.
+In FY2019, Applied set a company-wide internal target of 
+keeping our TCIR to 0.46 or below. We met this target, 
+achieving a TCIR 17% lower than in 2018. 
+Health & Safety Violations
+In 2019, Applied received zero notices of violation 
+worldwide. 
+*  The main types of work-related injury accidents are strains, sprains, 
+and fall-related incidents. 
+1  T otal Case Incident Rate (TCIR) is calculated as (total number of 
+OSHA Recordable injuries and illnesses x 200,000)/total hours 
+worked by employees
+2  Days Away, Restricted, or T ransferred (DART) Rate is calculated as 
+(total number of DART incidents x 200,000)/total hours worked by 
+employees
+3  Lost Time Severity Rate (LTSR) is calculated as (total number lost 
+workdays x 200,000)/total hours worked by employeesFY2019 FY2018 FY2017 FY2016
+TCIR10.43 0.52 0.41 0.44
+DART20.29 0.34 0.30 0.26
+LTSR33.63 5.41 2.44 3.53
+Fatalities 0 0 0 0Work-Related Injury Rates*Safety in Manufacturing
+A number of our manufacturing facilities and 
+procedures require highly skilled employees and 
+strict attention to safety. T o ensure safety is 
+prioritized, many of our factories have implemented 
+a 6S manufacturing shop-floor quality program, a 
+globally recognized lean manufacturing concept 
+(originally known as 5S) that empowers employees 
+to assess and improve their work areas to enhance 
+functionality and safety. 
+In 2019, when we introduced 6S, injury rates fell by 
+35% in our semiconductor manufacturing operations.
+6S Program
+ 
+We also implement a policy on Global Safety and 
+Working Hours Guidelines in Lab Operations, 
+Manufacturing Operations, and Field Service 
+Operations, which states that scheduled workweeks 
+and workdays must comply with local legal 
+requirements and not exceed the maximum set by 
+local law. The guidelines state that employees should 
+not be scheduled to work more than 12 hours in a 
+24-hour period; a workweek should not exceed 60 
+hours including overtime, and employees should 
+be provided one day off per seven days of work. 
+Where local law sets no maximums or where local 
+maximums exceed these guidelines, then managers 
+should adhere to these guidelines.Environmental Health & Safety
+• Sort
+• Set in order• Shine 
+• Standardize• Sustain
+• SafetySustainability Report 201935
+Our products are everywhere, used to produce virtually 
+every new chip and advanced display worldwide. That 
+scope brings responsibility for our products’ safety, 
+health, and environmental impacts.Product  
+ResponsibilitySustainability Report 201936Lorem ipsum dolor sit sagittie
+Well beyond our own offices, labs, and factories, it is our products that 
+define Applied Materials’ true impact on the world. Our portfolio of 
+innovative equipment, services, and software products makes possible 
+the fabrication of semiconductor chips, flat panel displays, solar 
+photovoltaic cells, and flexible electronics. Our solutions help produce 
+virtually every semiconductor chip and flat-panel display in the world. 
+As demand for digital services increases, so too does the 
+demand for the devices our products help manufacture. 
+With datacenters now consuming about 2% of the world’s 
+electricity, we are committed to being part of the solution 
+– enabling groundbreaking innovations in compute 
+efficiency and accelerating the technologies needed 
+to solve the world’s greatest environmental and social 
+challenges.
+Recent advances are already driving significant 
+improvements in compute performance per watt, and our 
+company and industry are rich with innovators taking it 
+further. When those innovations scale up, as they will, 
+the applications and possibilities will be endless, giving 
+us the analytical and predictive capabilities to accelerate 
+research and surface previously unimagined solutions.
+That’s our product responsibility vision on a grand  
+scale, but it starts with the incremental steps needed  
+to get there. In 2019, we made significant progress on a number of 
+process and policy fronts:
+This section of the report details those and other 
+efforts that help manage and minimize our products’ 
+environmental, health, and safety impacts, improving the 
+ESG footprint of Applied, our customers, and technology 
+users worldwide.
+Economy and efficiency have always been the name of the 
+game – and we’re getting a lot better. 2019 Progress
+• Modified our product design process to 
+incorporate ESG criteria from the very 
+earliest stages
+• Instituted explicit design targets for all 
+new Applied products, covering energy 
+and water usage and other environmental 
+metrics 
+• Adopted a system to monitor product 
+sustainability metrics and  included 
+sustainability metrics in product 
+scorecards
+In March 2020, Applied Materials was 
+among the companies honored with 
+Intel’s 2019 Preferred Quality Supplier 
+Award, which recognizes partners 
+deeply committed to excellence and 
+professionalism.
+A Focus on InnovationSustainability Report 2019371 
+Deﬁne the scope2 
+Establish current 
+performance and 
+improvement target3 
+Create a model of
+the baseline4 
+Identify potential
+improvements
+6 
+Perform 
+value analysis5 
+Model 
+improvements8 
+Implement, test, 
+and validate7 
+Execute concept 
+& feasibility 
+experiments
+Design for Sustainability
+We ascribe as much importance to our products’ 
+environmental sustainability as we do to their safety and 
+reliability. All products and processes under development 
+since 2018 reflect the application of “Design for 
+Sustainability” methods and principles, such as explicit 
+design targets for optimizing energy and water usage. As 
+a result, approximately 40% of our current products have 
+enhancements available that save customers both energy 
+and operations cost.
+Quality Management System: Applied is globally certified 
+to ISO 9001:2015 for quality management, among other 
+quality certifications.
+Design for Sustainability Center of Excellence
+Part of our Systems Engineering organization, Applied’s 
+Design for Sustainability Center of Excellence (CoE) 
+provides analysis of environmental improvement 
+opportunities and design and modeling tools, methods, 
+testing, and training. These help our Semiconductor 
+Products Group and other business units meet their 
+customers’ sustainability needs, and differentiate their 
+products by environmental criteria. For example, our 
+proprietary web-based modeling tool provides design 
+engineers with information on a new design’s resource 
+consumption and other environmental impacts, allowing 
+correction during the design process.
+With this design support, our product groups’ 
+responsibilities extend beyond traditional performance 
+attributes to encompass sustainability performance 
+as well. The product groups also set sustainability 
+improvement targets to meet specific customer 
+requirements. In 2019, several energy-efficient 
+improvements were developed covering a set of  
+products that will enable savings of over  
+50 Million kWh/year for one of our customers.
+ Measuring Sustainability & Efficiency
+T o meet customers’ sustainability needs, we use a 
+quantitative, value-based approach to design. We 
+measure efficiency in terms of resource or impact per 
+unit of production or time based on the SEMI S23 
+standard, a guide for the conservation of energy, utilities, 
+and materials used by semiconductor manufacturing 
+equipment. SEMI S23 addresses not only the energy 
+used directly by process equipment but also the energy 
+required to provide cooling and deionized water, exhaust, 
+and other resources.
+Available energy-saving features on our Endura and 
+Radiance Centura products reduced energy consumption 
+by 8% and 16%, respectively. We continue to develop 
+additional features for all our products.Design for Environmental Sustainability Playbook
+ 
+Applied is driving initiatives with its customers 
+and suppliers to promote greater sustainability 
+industry-wide, including hardware and software 
+upgrades that cut energy use, chemical use, and 
+cleanroom space requirements for both new and 
+existing systems.
+As part of our new ecoUP initiative, we 
+announced a 3x30 goal for our manufacturing 
+systems: On a per-wafer basis, Applied targets a 
+30% reduction in equivalent energy consumption, 
+a 30% reduction in chemical consumption, and a 
+30% increase in throughput density (the number 
+of wafers processed per square foot of cleanroom 
+space) – all by 2030.InitiativeSustainability Report 201938Sustainable Product Offerings
+Applied Materials’ roster of sustainable, energy-efficient 
+products continues to expand. These include systems to 
+minimize energy, water, and chemical use; equipment to 
+abate pollution; and consulting services in clean tech to 
+help customers reduce their GHG emissions and overall 
+environmental impacts. We consider the sustainability 
+of our products holistically, including the cleanroom 
+equipment itself, the peripheral equipment in the subfab, 
+and the energy required by fab facilities systems to 
+support our products. 
+In addition to the innovations listed below, we also 
+continue to offer integrated point-of-use pump 
+systems (iPUP), sharing heat exchangers, and NextGen 
+Cryopumps.
+Idle/Sleep Mode
+We now provide tools that put components into idle/
+sleep mode, reducing energy consumption when the 
+equipment is not processing wafers. These modes can 
+also reduce water and other utility use.
+Reducing Chemical Exhaust
+In 2019, to reduce effluent from our tools’ chambers 
+while maintaining high productivity, Applied introduced 
+two systems for pre-pump plasma abatement: Aeris-S 
+and Aeris-Si. Rather than trying to dilute the exhaust gas 
+stream with nitrogen or improve the movement of solids 
+through the exhaust system, these systems prevent the 
+accumulation of solids from the outset by disassociating 
+complex molecules and reducing the amount of chemicals 
+flowing through the exhaust system. These methods 
+provide greater energy efficiency while saving cost, 
+improving the management of reactive chemistries, and 
+reducing the possibility of human exposure to hazardous 
+substances.
+Monitoring T ool Operation to Boost Water Efficiency
+The Applied iSystem enables customers to use lower 
+water temperatures and less water overall. It monitors 
+tool operation and collects data to generate reports 
+on resource consumption, GHG emissions, and other 
+environmental factors. The system can reduce energy-
+related costs for our customers by approximately 20%, 
+and its green features can be enabled without equipment 
+changes or process re-qualification. The iSystem also 
+features intelligent idle mode, from which it recovers in 
+under two seconds, and it supports industry standards for 
+sleep mode (SEMI E167 and E175).Solar T echnology
+Photovoltaic (PV) manufacturers have improved solar 
+panel output by 10W each year while continuing to 
+significantly reduce manufacturing costs. Globally, 
+this has resulted in PV emerging as not just one of the 
+greenest sources of energy, but also one of cheapest 
+– while at the same time creating jobs. By 2050, PV is 
+expected to account for 39% of world energy capacity and 
+22% of generation. T o get there, PV will need to continue 
+its trajectory of coupling significant cost decrease with 
+significant performance and reliability improvements. 
+Regardless of the technology choice manufacturers 
+are pursuing to serve specific market needs – from 
+large power plants to rooftop applications – Applied’s 
+technology is helping develop existing technologies 
+and transition to more advanced cells and modules, all 
+while meeting cost-per-watt targets. Applied’s Baccini 
+screen-printing-based cell manufacturing and advanced 
+modules platforms are the cornerstone of almost every 
+solar factory today, renowned for their ability to process 
+large volumes of large and thin wafers at high yield. The 
+Vericell wafer inspection systems offer the best accuracy 
+in detecting defects that would potentially lead to yield 
+losses. Our AKT PECVD technology makes the most 
+advanced and highest efficiency heterojunction cells 
+in the world. These technologies seamlessly integrate 
+into customers’ cost roadmaps across multiple cell and 
+module technologies.Product Responsibility
+Applied Materials’ platforms and solutions can serve customers across a 
+variety of technologies and process steps.Applied Materials Solar Roadmap
+280w 300w 320w 340w 360w 380w
+Module Power 60 cells EquivalentCost Eﬀectivness
+FLDP
+Tempo
+Presto
+FLDP
+Tempo
+Presto
+Tempo 
+HJT
+IBCHJp-mono PERC
+p-multinPERT
+nTOPCon
+pTOPCon
+ Tempo 
+IBC
+FLDP
+Tempo
+Presto
+Verticell
+Verticell
+Verticell
+Verticell
+Industry 4.0
+Industry
+4.0
+Industry 4.0
+Thin wf
+Industry 4.0
+Thin wf
+Sonetto
+Sonetto
+Sonetto
+ Sonetto
+HJT CVD
+IBC CVDSustainability Report 201939
+Circular Economy & End-of-Life Management
+Applied Materials works to promote the circular economy 
+vision of zero-waste, where products are designed for 
+longer lifespans and the ability to more easily be recycled 
+or repurposed at the end of their functional lives. 
+Longer Lifespan
+Applied Materials products are designed to last, and 
+capable of being upgraded, refurbished, and repurposed 
+for new applications and technologies and to meet 
+more stringent process parameters. Moreover, they are 
+also designed so that when a part fails, it can be easily 
+repaired or refurbished. As the semiconductor industry 
+matures and our customers face constrained capital 
+expenditure budgets, our flexible, upgradable products 
+help enable economies in fab capacity expansion. 
+Designing Out Obsolescence
+Our Applied Global Services (AGS) organization has a 
+team dedicated to reducing product obsolescence by 
+designing replacement parts for key spares. Additionally, 
+older tools can be upgraded with new assemblies and 
+subsystems designed by the Semiconductor Products 
+Group. These non-system orders (NSOs) improve tool 
+performance and allow the tools to be extended to newer 
+technology nodes.
+Spare Parts Refurbishment
+About six years ago, to reduce raw materials consumption 
+and contribute to the expanding secondary parts market, 
+we established an organization in AGS that specializes 
+in retrieving field parts and assemblies, inspecting them, 
+and determining if they are salvageable. Those that are 
+go through a process of cleaning, overhaul, and repair/
+refurbishment by the original equipment manufacturer or 
+qualified repair suppliers and are then re-certified by AGS 
+as “like new” for re-use and re-circulation. Each quarter, 
+approximately 30% of our shipped spare parts are used/
+repaired/refurbished. Applied Materials may also use 
+these refurbished parts to build full systems and upgrades 
+when available, based on a customer’s need. Packaging & Logistics
+Our precision tools and products require carefully 
+designed packaging to avoid damage during 
+transportation. T o identify and address potential shipping 
+hazards, we have a dedicated packaging technology 
+team and testing laboratory that develops materials 
+and methods to keep our products safe from shock and 
+vibration. This team is also tasked with improving the 
+sustainability of our packaging solutions. 
+Material & Weight Reduction
+Fully 95% of our packaging materials are made from 
+recyclable materials (polyethylene, polypropylene, 
+corrugated fiberboard, steel, and wood), many of which 
+are also reusable. Recent initiatives have included:
+• Initiating a reduction of the thickness of our 
+low-density polyethylene (LDPE) bags from 6 MIL 
+to 4 MIL. Begun in late 2018, this process is on 
+target for completion in 2020.
+• Developing a new crate design with a corrugated 
+Kraft cover, reducing wood content by 50% and 
+saving 3,917 trees annually. This 2019 design 
+also reduces shipping weight, saving associated 
+fuel and GHG emissions. We expect to complete 
+transition to this new design in 2021.
+• Building the amount of materials used in 
+packaging into our spend reports from key 
+packaging suppliers. This data helps us determine 
+material usage and areas for reduction while still 
+maintaining packaging requirements.
+Reusability
+When picking up parts for repair from our customers’ 
+fabs, we now use reusable cabinets, eliminating the need 
+for single-use crate/box/foam packaging. This initiative is 
+successfully underway in China, Japan, Korea, Singapore, 
+and T aiwan, where we have more than 24 customer fabs. 
+We further reduced single-use packaging by designing and 
+releasing 318 reusable cases for T otal Kit Management 
+(TKM) service products.
+In 2019, we introduced air casters to eliminate single-use 
+fixtures for material handling, which previously were 
+used on the majority of main modules. In 2020, we are 
+introducing new labels that communicate to the end user 
+that the packaging is reusable and must not be discarded, 
+enabling effective reusability and reducing wastage by 
+avoiding premature scrapping of reusable packaging.Product ResponsibilitySustainability Report 201940
+Reducing Waste
+T o keep our packaging out of landfills, Applied has 
+prohibited the use of non-recyclable materials such as 
+Styrofoam. We plan to restrict the use of additional 
+non-recyclable and environmentally burdening materials, 
+such as PVC and toxic foams. We have also set up a 
+reusability process for our 500-pound pallets, further 
+reducing waste while relieving our customers of the cost 
+of disposal.
+T o further reduce material usage and shipping emissions, 
+we are reviewing options for modular and postponed 
+shipping and packaging: optimizing shipping to minimize 
+dimensional weight and fully utilize container space, then 
+packing at regional warehouses.
+See Environmental Health & Safety for more details on how 
+Applied approaches waste management and reduction.Product Safety
+Applied Materials develops and implements 
+comprehensive product design, manufacture, labelling, 
+and testing policies and programs to ensure our 
+products are safe to use and comply with applicable 
+legal requirements and industry standards. Third-party 
+assessments also help ensure our products meet all safety 
+requirements.
+We follow country- and region-specific requirements 
+when applicable. For example, products distributed in 
+China are marked with a mandatory “China RoHS 25” 
+label to comply with the administrative measure on the 
+control of pollution from electronic information products. 
+Products sold in the European Union comply with regional 
+manufacturing and labelling requirements, including CE 
+Marking. Starting in 2021, products for delivery to the UK 
+will be marked with “UKCA” (UK Conformity Assessed).
+Any business unit or group that develops, sells, or 
+distributes products shall ensure such products have been 
+engineered to protect personnel, the user’s facilities, and 
+the environment from exposure to risks, and that any 
+risks remain below a minimum acceptable level when 
+the products are operated, maintained, and serviced in 
+accordance with the instructions and information provided 
+to the user. Product Safety partners with other groups 
+in the company to oversee the design of products and 
+services, monitors their safety during the product’s life-
+cycle, and drives compliance with our product safety policy.
+Safety concerns involving Applied Materials products 
+can be communicated by submitting a Product Safety 
+Event Report (PSER), which triggers reviews by our 
+product safety engineers. T o report safety concerns 
+related to Applied Materials products, customers 
+may contact “My Applied Materials” customer 
+information 24/7 in the U.S. at 1-800-468-8888. 
+Customers outside the U.S. are instructed to contact 
+their local safety or sales representatives, or they 
+may send an email message in English to  
+corporate_product_ehs@amat.com. Product ResponsibilitySustainability Report 201941
+Driving sustainability across our business ecosystem 
+means forging a new level of partnership and 
+collaboration with our suppliers. We’re ready.Supply Chain  
+ResponsibilitySustainability Report 201942Lorem ipsum dolor sit sagittie
+Applied Materials creates complex products containing thousands 
+of parts sourced from across a broad supply chain. T o make a 
+real difference with our sustainability vision, we are committed to 
+working with suppliers who share our principles regarding ethical 
+business practices and human rights. We recently codified this 
+commitment through a new 10-year roadmap we’re calling Supply 
+Chain Certification for Environmental and Social Sustainability, or 
+SuCCESS2030. The program lays out new ways of partnering with our 
+direct suppliers across three key areas:
+1. Setting Standards: We will hold our direct 
+suppliers to the same standards to which we hold 
+ourselves in the areas of environmental impact, 
+labor standards, and diversity and inclusion. 
+When selecting new suppliers, we will assess 
+their sustainability performance alongside our 
+traditional metrics for performance, cost, and 
+quality.
+2. Improving Handoffs: We will work with our 
+direct suppliers to create efficiencies and reduce 
+waste in the fulfillment stream. 
+3. Sharing Insights: We will partner with  
+our direct suppliers to share best  
+practices and key learnings. 
+Already well received by several of our key suppliers, 
+this new initiative will build on several recent successes, 
+including publication of a new Responsible Minerals 
+Sourcing Policy (developed 2019, released June 2020), 
+and the launch of segmented reporting on supplier 
+diversity.
+Asia Europe53% 5%
+Americas42%
+SuCCESS2030:  
+A Roadmap for Supply Chain Sustainability
+FY2019 Supplier Spend by RegionSustainability Report 201943Supplier Assessments
+Our Global Supply Chain (GSC) and Operations and 
+Aftermarket Quality (OAQ) organizations manage our direct 
+supplier relationships while Global General Procurement 
+(G2P) manages our indirect supplier relationships. We are 
+coordinating efforts and developing capabilities to ensure 
+our suppliers operate in an ethical, responsible, and 
+sustainable manner. T o this end, we may require  
+suppliers to:
+• Complete annual self-assessment questionnaires 
+to measure their conformance to the Responsible 
+Business Alliance (RBA) Code of Conduct
+• Submit Conflict Minerals Reporting T emplates as 
+part of our Conflict Minerals due diligence
+• Report on their performance under environmental 
+regulations
+T arget Setting
+From 2020, we plan to expand our program to identify and 
+address ESG risks in our supply chain. Applied Materials 
+will conduct detailed evaluations of information reported 
+by suppliers under our existing program and under our 
+revised performance-assessment tool, then determine which 
+suppliers should be audited or assessed further in terms 
+of their ESG and operational performance. Based on the 
+outcome of such assessments/audits, Applied will work 
+with the suppliers to drive any necessary corrective actions. Our Supplier Expectations
+We require our suppliers to adhere to the RBA Code of 
+Conduct and Applied’s Standards of Business Conduct 
+(SBC). In addition, direct suppliers are required to ensure 
+their products conform to relevant guidelines set by SEMI, 
+the industry association for electronics manufacturing, as 
+well as applicable or relevant environmental health and 
+safety requirements. 
+Recently, we also adopted a Responsible Minerals 
+Sourcing Policy to emphasize our requirements for 
+sourcing of conflict minerals.
+We provide additional guidance on ESG expectations  
+for our suppliers through the My Applied Partner Portal,  
+a supplier-focused online platform of information  
+and support.
+Global Supply Agreement / ESG Requirements
+Supplier ESG requirements are incorporated into our 
+Global Supply Agreement and other legally binding 
+contracts through our new “Supplier ESG Requirements” 
+document. These requirements also align with the 
+California T ransparency in Supply Chains Act. As stated in 
+the document, suppliers are required to:
+• Implement the Responsible Business Alliance 
+Code of Conduct for their own operations and 
+ensure RBA code compliance among their  
+sub-tier suppliers
+• Meet statutory and regulatory requirements 
+related to conflict minerals
+• Meet Applied’s other environmental, social, and 
+governance requirements in their own operations 
+and ensure compliance among their sub-tier 
+suppliers
+• Comply with “any applicable environmental, 
+health or safety law, rule, regulation, order, 
+decree or ordinance”
+• Comply with Applied’s minimum product EHS 
+requirements 
+• Provide information requested by Applied to 
+enable our company to comply with material 
+content restriction regulations, including but not 
+limited to REACH (EC number 1907/2006) and 
+RoHS (EU Directive 2011/65/EU)Supply Chain Responsibility
+Reporting Concerns/Grievances
+As part of our Global Ethics & Compliance 
+Program, we have established a 24-hour, toll-free 
+Ethics Helpline (1-877-225-5554 in the U.S., 
+or appliedmaterials.ethicspoint.com) to which 
+employees, supplier partners, and others may 
+report concerns, anonymously or by name. The 
+helpline is managed by an independent third party.Sustainability Report 201944Supplier Training
+Applied provides our suppliers with various trainings 
+related to our policies and procedures, including 
+web-based training on our Standards of Business 
+Conduct. In 2019, our Environmental Health & Safety 
+(EHS) and Global Supplier Engineering personnel 
+partnered to host a training day on lifting techniques 
+and safe work environments for supplier executive, 
+general operations, and quality management personnel. 
+This training reiterated Applied’s commitment to a safe 
+working environment for our employees and our suppliers’ 
+employees, and was positively received by the attending 
+supplier executives.
+Supplier Assessments 
+In 2019, we laid the groundwork for the initiatives that 
+will drive our efforts under SuCCESS2030. For example, 
+we developed a metrics-based approach to assessing 
+supply chain risks related to environmental, social, and 
+governance (ESG) issues, which will be reflected in 
+our supplier scorecards, and increased the number of 
+suppliers subject to outreach for RBA self-assessment 
+questionnaires, conflict minerals reporting templates, and 
+other due diligence. 
+Applied Materials assesses the full extent of a direct 
+supplier’s business and quality management systems 
+using the internal Supplier Performance and Capability 
+Assessment (SPACA) tool. In 2020 we issued a revised 
+version to incorporate ESG-related requirements in greater 
+detail. Adding RBA criteria to the SPACA assessment 
+process enables stronger due diligence to measure and 
+help drive compliance with human rights and labor 
+requirements, among other topics. Suppliers will use 
+the new SPACA to perform their self-assessments, and 
+Applied Materials will use the results to help select 
+suppliers for further assessment.
+  Applied Materials 
+Standards of 
+Business Conduct: 
+Reflects our 
+organizational values 
+and our focus on 
+ethical practices; 
+prohibits the use of 
+child labor, forced or 
+bonded labor, and 
+harsh or inhumane 
+treatment of workers; 
+and requires a safe 
+work environment.Responsible 
+Business Alliance 
+Code of Conduct: 
+Establishes standards 
+for safe working 
+conditions, respectful 
+and dignified 
+treatment of workers, 
+and environmentally 
+responsible and 
+ethical business 
+operations in the 
+electronics industry. 
+Applied Materials 
+was one of the 
+earliest members  
+of the RBA.The California 
+Transparency in 
+Supply Chains Act of 
+2010: Requires many 
+manufacturers in 
+California to disclose 
+information regarding 
+their efforts to 
+address the risk of 
+slavery and human 
+trafficking in their 
+supply chains.Responsible 
+Minerals Sourcing 
+Policy: Governs the 
+sourcing of conflict 
+minerals contained 
+in products sold to 
+Applied.Environmental 
+Health and Safety 
+Policy: Encourages 
+our suppliers to 
+improve their 
+environmental 
+health and safety 
+performance. 
+Details on our Responsible Minerals Sourcing Policy 
+appear later in this section. EHS policy is discussed under 
+Environmental Health & Safety.Policy & Procedure Compliance
+Applied’s suppliers must abide by the following standards and codes.
+“As a Fortune 500 company and 
+industry leader, we have a unique 
+opportunity to lead on ESG issues 
+and make a meaningful impact 
+today, tomorrow, and well into the 
+future.” 
+Stephen	Gustafson,	Applied	Materials	Vice	President,	Operations	&	
+Aftermarket	QualitySupply Chain ResponsibilitySustainability Report 201945Supplier Monitoring
+Due Diligence 
+In 2019, we engaged a new third-party service provider, 
+Assent Compliance, to collect and analyze supplier data 
+relevant to conflict minerals, REACH, RoHS, and other 
+declarable substance requirements. Utilizing Assent 
+Compliance increases the number of suppliers we can 
+reach as well as the accuracy of the data collected, which 
+in turn enhances Applied’s ability to respond appropriately 
+to identified risks. Building upon our prior due diligence 
+and assessment tools, in 2020 Applied is developing an 
+ESG Risk Index to capture and help assess supply chain 
+ESG risk. The output of this index will help us identify 
+suppliers for performance re-assessment and suppliers 
+who should undergo an ESG-specific audit.
+Risk-Based Assessments & Audits 
+Suppliers will be identified for more in-depth assessments 
+or audits each year through a weighted risk matrix 
+that encompasses various indicators of supply chain 
+risk, including their SPACA and ESG Risk Index scores. 
+Beginning in 2020, Applied Materials is driving an 
+annual self-assessment of our top 80% (by spend) 
+direct suppliers to measure their performance, including 
+ESG factors. We have also developed a more proactive 
+approach to risk reduction through on-site supplier 
+assessments. As part of our pilot program, in 2020 we 
+are planning to conduct on-site audits for certain direct 
+suppliers deemed to have high ESG risk. 
+Corrective Action 
+When Applied Materials identifies a compliance gap, we 
+partner with the supplier to align on corrective actions 
+and drive to closure. If a supplier fails to address our 
+concerns, we may suspend the business relationship. 
+Internal Audits 
+Applied Materials conducts regular internal audits of our 
+direct suppliers. Applied’s Internal Audit T eam identifies 
+suppliers that may pose a risk to the company, then 
+conducts a deep on-site investigation with support from 
+experts from within Applied’s GSC and Global Quality 
+organizations. Audits of high-ESG-risk suppliers will start 
+in 2020, and coupled with our continued utilization of RBA 
+audits (described below) will increase Applied’s ability to 
+verify compliance to our Supplier ESG Requirements document.
+External Audits 
+Consistent with RBA requirements, Applied requires 25% 
+of its high-risk suppliers to undergo an RBA Validated 
+Assessment Program (VAP) audit. A third-party audit firm 
+approved by the RBA conducts such audits, based on RBA 
+audit standards.Responsible Minerals Sourcing
+Applied Materials is committed to the responsible 
+sourcing of materials used in our products. Key to this 
+commitment is our policy around tantalum, tin, tungsten, 
+and gold, commonly referred to as conflict minerals or 
+3TG. These minerals are often mined in countries and 
+regions affected by conflict and human rights abuses, 
+including the Democratic Republic of the Congo (DRC) 
+and adjoining countries. 
+While our products include components manufactured 
+with 3TG minerals, Applied does not purchase these 
+minerals directly or maintain any direct relationship with 
+mines, smelters, or refiners that process these minerals. In 
+June 2020, to assure our conflict minerals policy extends 
+across our supply chain, we adopted a Responsible 
+Minerals Sourcing Policy to guide our direct suppliers’ 
+sourcing of 3TG minerals, and to communicate our 
+commitment to due diligence and disclosure. T o assure 
+the efficacy of our policy, we utilize the Responsible 
+Minerals Initiative (RMI) Responsible Minerals Assurance 
+Process as well as independent third-party audits. Applied 
+has been a partner of the Responsible Minerals Initiative 
+since its inception by the Responsible Business Alliance 
+(RBA) and the Global eSustainability Initiative (GeSI).
+Beyond 3TG, Applied Materials has begun the process of 
+conducting due diligence to measure and track our supply 
+chain’s use of cobalt, a frequently DRC-sourced mineral 
+that’s been tied to child labor, unsafe working conditions, 
+and adverse environmental impacts. We have also 
+committed to expanding our program to include additional 
+minerals relevant to our business as appropriate due 
+diligence tools become available.
+Policy, Commitments & Management
+The RBA Code of Conduct requires that companies 
+have a policy to “reasonably assure that tantalum, tin, 
+tungsten, and gold in the products they manufacture 
+does not directly or indirectly finance or benefit armed 
+groups that are perpetrators of serious human rights 
+abuses in the Democratic Republic of Congo (DRC) or an 
+adjoining country.” T o this end, we exercise due diligence 
+on the source and chain of custody of these materials, 
+requiring our direct suppliers to reasonably ensure 3TG in 
+products they sell to Applied originated outside the DRC 
+or adjoining countries, or from RMI-compliant sources 
+within the DRC. Our due diligence measures are available 
+to customers and other stakeholders through our annual 
+Conflict Minerals Report.
+Governance and responsibility for implementing the 
+company’s conflict minerals program resides with our 
+Conflict Minerals Compliance T eam (established in 2011), 
+which is managed by the company’s Global Supply Chain 
+organization. The compliance team is also responsible for 
+briefing senior management about the results of our due 
+diligence efforts. Supply Chain ResponsibilitySustainability Report 201946Each year, we file a Specialized Disclosure Form (SD 
+Form) that includes a Conflict Minerals Report with the 
+SEC and share its findings with the Audit Committee of 
+our Board of Directors in the form of an annual Conflict 
+Minerals Report. 
+Our 2020 Conflict Minerals Report can be found here.
+Our Responsible Minerals Sourcing Policy can be  
+found here.Requirements of Suppliers
+Applied Materials requires our suppliers to maintain 
+programs and procedures that ensure compliance with the 
+RMI and do not, directly or indirectly, finance or benefit 
+armed groups in the DRC. Suppliers must also adhere to 
+the Applied Materials’ Standards of Business Conduct 
+and the RBA Code of Conduct. 
+Beginning in 2019, we updated our key supplier contract 
+templates to incorporate our Supplier ESG Requirements 
+document, which states explicitly that we may 
+request reporting templates and/or a self-assessment 
+questionnaire from suppliers, in compliance with RBA. 
+This guidance is already in effect for 100% of new 
+suppliers and applies to existing suppliers as we renew 
+their contracts or make new purchases. Applied pursues 
+corrective action if we learn that a supplier does not meet 
+our requirements.
+Due Diligence Process
+T o verify a material’s country of origin and chain of 
+custody, we conduct a reasonable country of origin 
+inquiry (RCOI) consistent with RBA guidelines and the 
+internationally recognized, risk-based due diligence 
+framework from the Organisation for Economic  
+Co-operation and Development (OECD1). 
+In late 2019, Applied 
+Materials engaged the 
+third-party vendor Assent 
+Compliance to help us manage 
+both our relationships with suppliers and the extensive 
+data collection and analysis needed for a robust due 
+diligence process. In calendar 2019, we increased the 
+number of suppliers we surveyed as part of our due 
+diligence efforts by approximately 42% over 2018, to 
+cover 85% of our total supplier spend, up from 80% 
+in 2018. We are pleased to have maintained a near 
+100% response rate to the Conflict Minerals Reporting 
+T emplate issued to suppliers despite the significant 
+increase in the number of suppliers we engaged.  
+ 
+ 
+ 
+ 
+Reporting Concerns  
+on Conflict Minerals
+Employees and suppliers can voice concerns 
+or grievances around conflict minerals 
+through Applied’s Ethics and Compliance 
+portal or email our Ethics & Compliance 
+team. Industry-level violations or grievances 
+can be reported to the RMI.
+Click here for more on Applied’s approach to 
+ethics and compliance reporting.
+Report Y earNumber of Suppliers 
+SurveyedPortion of Supplier Spend CMRT Response Rate
+2016 120 80% 100%
+2017 162 80% 100%
+2018 183 80% 100%
+2019 260 85% 99% 
+*T able presents full 2019 numbers reflecting additional supplier responses that were received after we filed our Conflict Minerals Report with the SEC.1  ‘OECD’ Due Diligence Guidance for Responsible Supply Chains of 
+Minerals from Conflict-Affected and High-Risk Areas: Third Edition’ 
+and the related Supplements
+Supply Chain ResponsibilitySustainability Report 201947Supplier Diversity 
+Building diverse, inclusive supply chains is good for 
+business and good for society. It brings new perspectives 
+and capabilities to further innovation, reduces social 
+inequality by supporting job creation and economic  
+growth in diverse communities, promotes resilience,  
+and drives competition that can reduce supply chain  
+costs by up to 33%.1 
+In 2017, Applied Materials established a supplier  
+diversity program to make our supply chain progressively 
+more inclusive and equitable. In 2018, the program was 
+expanded to cover all U.S. operations. That same year, 
+we co-founded the Manufacturing Ownership Diversity 
+Working Group (MOD), a supplier diversity alliance with 
+members from across the semiconductor industry.Our Supplier Diversity program tracks the segmentation of 
+our diverse supplier spend for our U.S.-based operations. 
+Looking ahead, we plan to boost our total year-over-year 
+supplier diversity spend, establish growth goals to ensure 
+an even larger future role for diversity in our supply chain, 
+and further improve supplier diversity disclosure and 
+transparency. 
+Read our Supply Chain Diversity Statement here. FY2019 U.S. Certified Diverse Supplier Spend
+Notes: 
+Diverse suppliers must be at least 51% diverse owned, controlled, and 
+operated.
+Diverse suppliers must be certified by a third-party auditor as meeting 
+the criteria for one of the following supplier diversity categories: U.S. 
+minorities (African-American/Black, Hispanic/Latino-American, Native 
+American, Asian-Pacific American, Asian-Indian American), women, 
+minority women, persons with disabilities, veterans and service-disabled 
+veterans, LGBTQ.
+This supplier spend reflects only the supplier companies that have been 
+certified by a third-party diverse supplier auditor. Applied Materials also 
+tracks additional diverse suppliers that could potentially be registered as 
+diverse if they proceed with certification.
+“[Supplier Diversity] 
+creates partnerships that 
+fuel the economy.”
+National	Minority	Supplier	Development	Council1 According to a study from the Hackett Group.Supply Chain Responsibility
+15%71%Veteran-owned 
+business enterprise13%
+Women-owned 
+business enterprise Minority-women-owned 
+business enterprise
+10%
+Minority-owned 
+business enterprise
+Sustainability Report 201948Promoting Industry-Wide Diversity Standards
+The Manufacturing Ownership Diversity (MOD) Working 
+Group is a special interest group under SEMI, the industry 
+association for the global electronics manufacturing 
+supply chain. The group dates to 2018, based on an 
+initiative led by Applied Materials, Intel, and two peer 
+companies, Lam Research and T okyo Electron Ltd. (TEL). 
+T oday, Applied is the group’s co-leader, working to 
+establish best practices and a common, global standard 
+that aims to increase supplier diversity across the 
+semiconductor manufacturing industry by helping diverse-
+owned companies compete equitably for bids with both 
+prime suppliers and end users.Human Rights
+Applied Materials is unequivocally committed to 
+protecting human rights and conducting business in an 
+ethical and responsible manner, around the world. We 
+condemn and are committed to ending forced and bonded 
+labor in all its forms, including child labor, indentured 
+labor, slavery, and human trafficking.
+In 2018 and 2019, we worked with one of our customers 
+to comprehensively assess risks for forced and bonded 
+labor in our supply chain. This deep-dive assessment 
+covered three of our Asia-based suppliers and their 
+sub-tier suppliers, focusing on hiring processes for 
+foreign and migrant workers and mapping those workers’ 
+individual journeys. The assessment revealed no high 
+risks, though it did identify that some foreign workers 
+hired by one supplier had paid agent fees, a practice that 
+can leave workers in debt bondage, a form of forced labor. 
+We worked with the supplier to address this, and the 
+supplier reimbursed the workers for those fees.
+Other policies and practices to protect our global 
+workforce and supply chain are enumerated below.
+Our commitment to protecting human rights wherever 
+we do business is detailed in various company policies 
+and statements, including our company-wide Standards 
+of Business Conduct, the RBA Code of Conduct, our 
+Responsible Minerals Sourcing Policy, and our position 
+on the California Transparency in Supply Chains Act. 
+These policies and statements spell out our commitments, 
+enumerate our expectations around training and 
+accountability for our personnel and direct suppliers, and 
+lay out enforcement mechanisms for non-compliance 
+with their requirements. We communicate our human 
+rights commitments and requirements clearly to our 
+supply chain and business partners to ensure that our 
+expectations around humane treatment of the workforce 
+and forbidding forced and bonded labor are being upheld.
+Non-Discrimination
+Applied Materials prohibits discrimination, harassment, 
+and retaliation by or against employees, managers, 
+supervisors, co-workers, or non-employee third parties 
+with whom the company has a business, service, or 
+professional relationship (e.g., applicants for employment, 
+contractors, temporary workers, vendors, suppliers, 
+interns, customers, visitors). Our Non-Discrimination 
+Policy addresses conduct, complaint procedure, 
+supervisory responsibilities, responsive action, and 
+supplemental state-specific rules.
+See the Occupational Health & Safety section of this report 
+for additional information on employee working conditions 
+and policies.Our frequently used supplier 
+diversity auditors:
+• Women’s Business Enterprise 
+National Council (WBENC), the 
+largest certifier of women-owned 
+businesses in the U.S.
+• National Minority Supplier 
+Development Council
+• SMSDC Veteran Certification 
+• Veteran-Owned Small Business 
+(VOSB) 
+• U.S. Small Business Administration 
+• National Gay and Lesbian Chamber 
+of Commerce (NGLCC) Certification Supply Chain ResponsibilitySustainability Report 201949
+Just as we need radical energy transformation to beat 
+climate change, we need radical cultural shifts to make 
+businesses truly diverse and inclusive. We’re working 
+hard to make that a reality at Applied.Our People  
+& WorkplaceSustainability Report 201950Lorem ipsum dolor sit sagittie
+As a global leader, we know our differences can be our greatest strength 
+– but just saying so isn’t enough. Instead we must ensure that each 
+individual has fair and equal opportunity for career development and 
+advancement, and that respect for diverse backgrounds and perspectives 
+is baked into our company’s culture at every level – from strategy and 
+policy down to the smallest everyday interactions. 
+That’s how we build a company with the broad-based 
+strengths to thrive in the decades to come. It’s how we 
+attract and retain the best people and build winning teams 
+that are able to share their best thinking and collaborate 
+in an environment of mutual regard. Enabling all of 
+our people to do their best work drives innovation and 
+performance, allowing us to fulfill our mission to make 
+possible a better future.
+In 2019, we made significant strides in our journey 
+toward a Culture of Inclusion (COI), including:
+• Expanding gender diversity on our Board to 30% 
+female membership
+• Increasing women’s employee representation in 
+the U.S. and globally
+• Increasing U.S. underrepresented minority 
+representation
+• Establishing a team fully dedicated to COI
+• Establishing a Diversity Strategy and Culture of 
+Inclusion Framework
+• Broadening inclusion-focused questions in our 
+employee survey and continuing to measure 
+engagement
+• Assessing progress against the Global Diversity  
+& Inclusion Benchmark (GDIB) 
+Our Culture of Inclusion Goals
+• Increase women’s representation globally 
+• Increase women’s representation in our U.S. 
+workforce to 21% by 2021
+• Increase representation of underrepresented 
+minorities in our U.S. workforce
+• Demonstrate improvement in the inclusion 
+measurement on our Organizational Health Index 
+survey of employees
+Women  
+Employees
+201716.6%17%17.4%18.7%19.3%19.5%
+GlobalU.S.
+2018 2019
+Building a More Diverse  
+& Inclusive CompanySustainability Report 201951Our Culture of Inclusion Strategy
+T o fully actualize our Culture of Inclusion vision, we are 
+building on the best of who we are today while embracing 
+a new, focused, and intentional path forward. Diversity 
+and inclusion must be embedded in everything we do, 
+to help us offer a workplace and culture of respect and 
+inclusion, where everyone is engaged and inspired to do 
+their best work. That’s vital for our people and our ability 
+to deliver value-creating innovation to our customers and 
+shareholders. 
+T o accelerate progress toward a Culture of Inclusion,  
+we are:  
+• Engaging leaders as change champions, making 
+the mission of inclusion personal for them, 
+ensuring they understand the challenges before 
+crafting solutions, and defining inclusion barriers 
+and key metrics for leading change. 
+• Eliminating systemic barriers to inclusion by 
+leveraging data to develop key action strategies 
+and monitor success, and engaging and 
+empowering Inclusion Change teams to break 
+down walls.
+• Operationalizing inclusion in all we do, including 
+leveraging best practices; ensuring that our talent 
+practices are inclusive; and tracking progress 
+through employee representation data, employee 
+engagement scores, and other qualitative and 
+quantitative metrics.
+We also know that transparency is key to progress and 
+will continue building on efforts began in 2018 with 
+our first report on global gender and U.S. race and 
+ethnicity in our workforce. In 2019, we disclosed our 
+2016–2018 EEO-1 reports and diversity data at three 
+levels: executives, managers, and professionals. The data 
+showed slight gains for Asian, women, Hispanic/Latino, 
+Black/African-American, Native American/Alaskan, and 
+Native Hawaiian/Pacific Islander groups.Our People & Workplace
+1  Applied Materials is a member of the Reboot Representation T ech 
+Coalition, which aims to close the gender gap in tech by doubling the 
+number of minority women graduating with computing degrees by 
+2025. The Rebooting Representation Report can be found here.“Applied Materials respects each 
+individual. We welcome diversity, 
+embrace different perspectives as 
+a key to innovation, and believe 
+we are stronger when we stand 
+together against racism and 
+discrimination. We must continue 
+to raise the bar to fulfill the values 
+to which we’ve committed ourselves 
+and make possible a better future – 
+for everyone.”  
+Gary	Dickerson,	Applied	Materials	President	&	CEO
+“Our journey toward a true 
+Culture of Inclusion will broaden 
+and sustain the diversity of our 
+workplace, promote varied ideas 
+and approaches, and help us build 
+a culture that benefits everyone: 
+our people, our customers, and our 
+shareholders.”
+Susan	Schmitt,	Group	Vice	President,	Human	Resources
+“The data is clear that diverse 
+companies are more innovative and 
+profitable. T ech companies have 
+much to gain – and much they can 
+contribute – by choosing to make 
+diversity and inclusion a priority.” 
+Rebooting	Representation	Report1	(2018)Sustainability Report 201952
+Human Rights Campaign 
+Foundation
+Corporate Equality Index, 
+100% overall rating
+Best Places to Work for 
+LGTBQ+ EqualityMilitary Friendly Employer
+100%-plus overall rating, 
+exceeds every standardU.S. Veterans Magazine
+T op Veteran-Friendly 
+CompanyWoman Engineer Magazine 
+T op 50 EmployersWorkforce Diversity Recognition
+Applied Materials is consistently recognized for our efforts around workforce diversity and military veteran recruitment.
+Engaging Leaders as Change Champions
+Our leaders are engaged with and guiding our Culture 
+of Inclusion journey: accepting inclusion and diversity 
+as a personal mission; growing their understanding of 
+challenges and barriers; and defining key metrics for fully 
+realizing a Culture of Inclusion. By driving change from 
+the top levels of our company, our leaders are setting 
+the standard of what it means to be a more welcoming, 
+collaborative community where everyone can do their  
+best work and has the opportunity to succeed. Our Board 
+of Directors participates in the leadership and discussion 
+of our COI journey.Eliminating Systemic Barriers to Inclusion
+Our COI strategy includes training and empowering 
+managers to listen, learn, and take action. We will 
+double down on our initiatives to teach our leaders how 
+to eliminate bias in our business processes, hiring and 
+placement decisions, succession plans, and even how we 
+run meetings, so that all voices are heard. In addition to 
+policies on nondiscrimination and harassment enumerated 
+in our Standards of Business Conduct and Human 
+Resources Policy Manual, we’ve instituted a variety of 
+other trainings, mechanisms, and activities to promote 
+our Culture of Inclusion, such as:
+• Using focus groups & our employee survey 
+to gauge sentiment. Our employee survey is 
+an essential barometer of our organizational 
+health, and recently expanded Inclusion Index 
+questions have provided meaningful insights to 
+inform our Culture of Inclusion strategies. While 
+Applied continues to score in the top quartile for 
+organizational health and engagement indices 
+based on McKinsey’s global database, our most 
+recent survey results reinforce the opportunities 
+we are addressing with our inclusion roadmap 
+and strategies.
+Our People & WorkplaceSustainability Report 201953
+• Exploring inclusion in team-building. At our 
+2019 Culture of Inclusion Summit, more than 
+400 participants in Austin, Kalispell, and Santa 
+Clara engaged with the year’s theme of “Building 
+Winning T eams Through Inclusion.” Participants 
+studied strategies and best practices for harnessing 
+diverse and inclusive perspectives to succeed in an 
+environment of mutual trust and respect.
+• Unpacking unconscious bias & celebrating 
+difference. In our India operations, we offer a 
+diversity and inclusion course to all full-time 
+employees. The training addresses barriers and 
+challenges to a diversified working environment and 
+helps employees draw on each other’s strengths.
+Operationalizing Inclusion in All We Do 
+Living an ethic of inclusion and diversity means 
+operationalizing it at every level of the organization, every 
+stage of our value chain, and every touchpoint between 
+our company and the world. Our diversity and inclusion 
+recruitment strategies focus on building a talent pipeline 
+through science, technology, engineering, and math 
+(STEM) education and support, as well as connecting with 
+diverse candidates through multiple channels, including 
+our Employee Resource Groups.
+We continue to seek out diverse talent at universities 
+with strong engineering and science programs, including 
+U.S. universities with large Black/African-American 
+and Hispanic/Latino student populations. Additionally, 
+we’re expanding our educational outreach efforts and 
+participating in on-site networking and informational 
+events to attract college students pursuing STEM careers. 
+Applied Materials Foundation’s Generation Girl™ initiative 
+funds organizations that promote girls’ empowerment and 
+introduce participants to careers in STEM and other fields 
+where women are traditionally underrepresented.Additional talent-related efforts include:
+• Our North America internship program, which 
+brings students from diverse backgrounds to 
+work in both engineering and corporate roles. 
+Our interns not only learn about various career 
+paths, but also gain exposure to our diverse and 
+inclusive workplace.
+• Our New College Graduate (NCG) programs, 
+designed to attract and retain new talent and 
+build a diverse early-career talent pipeline for 
+future roles. Our U.S. outreach efforts include 
+sponsoring, hosting, and participating in a 
+wide range of activities, such as the Math, 
+Engineering and Science Achievement (MESA) 
+Student Leadership Conference, the National 
+Society of Black Engineers Regional Conference, 
+the Society of Women Engineers Evening with 
+Industry event, and the University of California, 
+Berkeley’s Engineering Department Networking 
+and Professional Etiquette event. 
+Executives Managers Professionals
+White employees 52.5% 53.8% 44.7%
+Asian employees 44.0% 34.4% 44.4%
+Hispanic or Latino employees 2.0% 6.3% 6.6%
+Black or African  
+American employees0.7% 3.8% 2.9%
+Other URMs 0.7% 1.7% 1.5%FY2019 U.S. Workforce Ethnicity & Race 
+Representation by Employee LevelOur People & WorkplaceSustainability Report 201954
+• Increased focus on early-career recruiting, which has 
+yielded success in several global locations. In 2019, 
+top-tier university events in T aiwan helped more than 
+160 young women learn about careers at Applied. 
+In India, women comprised 31% of our NCGs hired 
+in FY2019. In Israel, our internship program builds 
+on student networking to ensure a talent pipeline, 
+resulting in more than 80% of interns converting to 
+full-time positions upon graduation.
+• Partnerships with U.S. non-profit and educational 
+institutions that provide women and young people of 
+diverse backgrounds with educational opportunities. 
+Notable organizations and programs we support 
+include Mexican American Engineers and Scientists, 
+the Society of Women Engineers, Y outh Science 
+Institute, and City Y ear. Working with the Breakthrough 
+Collaborative partnership in Santa Clara and Austin for 
+the past 16 years, we help local students become the 
+first in their families to attend college.• Outreach to underserved students in India via the 
+Khalapur Learning Centre in Raigad, Maharashtra. 
+Created in August 2019 through a partnership 
+between Applied Materials and the Pratham Education 
+Foundation, the Centre provides middle school 
+students from severely underserved schools and 
+communities with hands-on activities to help them 
+better understand basic concepts of science and their 
+real-world applications.
+• Our Women in Engineering T alent Development 
+Program, which offers resources to support the career 
+growth of female engineers, including opportunities 
+to participate in conferences, professional skill 
+development workshops, roundtables focused on 
+career development, and mentoring programs.
+“The Women in Engineering T alent 
+Development Program gave 
+me the insight to elaborate my 
+career development plan with 
+an actionable plan to follow. The 
+program has helped me better 
+communicate my ideas, know my 
+value as a professional, and be open 
+and attentive to others’ feedback.  
+I am grateful for the opportunity  
+of being part of this program.” 
+Adriana	Esteves,	T ech	Project/Program	Management,	 
+Santa	Clara,	CAU.S. New Hires by Gender
+Focus on Women
+In 2019, we continued seeing an increase in female 
+new hires. We are particularly proud that this trend is 
+also reflected in our U.S. intern program, where our 
+female hires increased to 44% of our 2019 total. 
+34%43% 44%
+21%25%
+18%
+FY2019 FY2018 FY20170%25%50%
+Female New Hires U.S. Intern Program Female HiresOur People & WorkplaceSustainability Report 201955
+Employee Resource Groups & Sponsorships
+Active in promoting cultural awareness and volunteerism 
+in their local communities, our Employee Resource 
+Groups (ERGs) are also vital in building Applied’s culture 
+of engagement and inclusion by providing forums for 
+exchanging ideas, learning, and strengthening bonds 
+across and within our diverse employee communities. 
+Additionally, they play a key advisory role in our leaders’ 
+efforts to remove systemic barriers to inclusion. 
+Our ERG groups include:
+• Applied PRIDE
+• Asians in Motion (AIM)
+• Persians at Applied Materials
+• Hispanics in Partnership (HiP)
+• Leadership Encouraging Achievement through 
+Diversity/Black Employee Network (LEAD/BEN)
+• Veterans Employee T eam (VET)
+• Women’s Professional Development Network 
+(WPDN)
+• Y oung Professionals Network (YPN) 
+Since our first chapter began in 2001, our ERGs have seen 
+exponential growth. This is particularly true for WPDN, 
+which has more than tripled in size since 2017. During 
+this same timeframe, participation in our ERG chapters 
+overall has grown by 62%.
+In addition to our ERGs, Applied Materials is proud 
+to sponsor multiple organizations and conferences 
+committed to deepening our inclusive workplace culture 
+and furthering the careers of our diverse employees. 
+In 2019 and 2020, more than 600 employees attended 
+various Diversity and Inclusion conferences, including 
+the IEEE Conference for Women, The T exas Conference 
+for Women, The Watermark Conference for Women, 
+MA Conference for Women, and National Diversity and 
+Leadership Conference. 
+ Employment Policies & Practices
+T o nurture innovation that can help build a better future, 
+we need to attract and retain a world-class global 
+workforce and foster an environment where our people 
+can do their best work, enjoy continuous learning and 
+career progress, and thrive as individuals and as a 
+community. 
+Applied Materials invests in all our employees by 
+offering competitive rewards, compensation, and 
+benefits; measuring organizational health and employee 
+engagement, along with more traditional performance 
+drivers; and taking a strategic approach to talent pipeline 
+development.
+In addition to our focus on creating a Culture of Inclusion, 
+in 2019 we instituted a number of employment policy and 
+program improvements:
+• Expanded 100% paid parental and family leave 
+to up to eight weeks in the U.S.
+• Began surveying employee engagement as part 
+of organizational health
+• Piloted a new methodology of strategic 
+workforce planning
+2019 Recognition
+Best Places to Work in IT – ranked 5th among 
+large companies
+World’s Most Admired Companies, 
+semiconductor sector – ranked 3rd, up from 
+5th place in 2018
+Our People & WorkplaceSustainability Report 201956A Global Workforce
+Applied Materials is a global company with a workforce 
+of 23,234 individuals located across 18 countries. We 
+employ 9,639 individuals in the United States, 4,556 
+of whom are located at our Santa Clara Headquarters 
+in California’s Silicon Valley. The vast majority of our 
+workforce is employed on a full-time basis (22,014), with 
+less than 1% working part-time. 
+Employee Benefits
+Applied Materials provides competitive rewards and 
+benefits covering employees’ physical, emotional, and 
+financial health. Benefit coverage is effective on the first 
+day of employment for regular full-time U.S. employees. 
+Our standard benefits package includes:
+• Parental Leave: Applied Materials offers up to 
+eight weeks of 100% paid parental leave. This 
+extends to mothers, fathers, adoptive parents, 
+and foster parents.
+• Family Medical Leave: Employees are eligible for 
+up to eight weeks of 100% paid family leave to 
+care for seriously ill family members. 
+• Adoption Credit: Applied offsets the costs of 
+legal child adoption by up to $5,000.
+• Holidays & Additional PTO: Applied has eight 
+annual paid holidays. Additional paid time off 
+(PTO) is provided through a flexible program.  
+• Tuition Assistance: We offer up to $8,500 per 
+calendar year for educational activities that 
+improve skills and knowledge required for the 
+employee’s position.• Health & Wellness: We offer medical, dental, 
+and vision care plans to employees, along with 
+health coaching, a wellness incentive program, 
+and resources for employees living with serious 
+medical conditions such as diabetes and cancer. 
+On-site wellness centers with competitively 
+priced medical services, free behavioral health 
+and coaching, and fitness centers are also 
+available at key locations in the U.S. 
+• Rethink Program: Applied offers access to the 
+award-winning Rethink program to support 
+employees or their children who experience 
+learning differences or behavioral challenges. 
+The program provides research-based resources, 
+access to live tele-consultation with behavior 
+experts, and over 1,500 easy-to-follow videos, 
+printable materials, and trainings to help 
+employees and children reach their potential.
+• Financial & Income Protection: We provide 
+employees with retirement plans; accident, 
+disability, and life insurance coverage; and flexible 
+spending accounts (FSAs). Employees also have 
+access to student loan refinancing, mortgage 
+loans, and money planning support online via SoFi 
+at Work.
+• Financial Rewards: We provide our employees 
+base pay, bonus, and equity compensation at 
+or above market. Our Employee Stock Purchase 
+Plan (ESPP) allows employees to contribute 1% 
+to 25% of their base salary (up to $6,500) to 
+purchase stock every six months, at a minimum 
+discount of 15%.
+Employees also have access to travel assistance, as well 
+as to additional financial benefits for expenses including 
+auto insurance, home and renters insurance, insurance for 
+legal services, and online PerkSpot discounts at popular 
+national and local merchants.
+Executive Compensation
+Executive compensation is reviewed each year with 
+stakeholders and redesigned as appropriate to ensure 
+it remains competitive. In FY2019, our Board’s Human 
+Resources and Compensation Committee approved an 
+aggressive set of scorecard targets for our executive 
+officers, covering operational targets such as safety 
+performance, organizational health, and employee 
+engagement. Annual incentive bonuses are based on 
+performance to Applied’s objectives and to the scorecard’s 
+quantifiable business and strategic goals.
+Asia /Paciﬁc43%Americas44%
+EMEA13%
+Generation 
+Girl8.4%  
+$914kT otal Employees by Region
+*  Includes all regular full-time employees and internsOur People & WorkplaceSustainability Report 201957
+Employee Engagement & Organizational Health
+Applied Materials is considered one of the best places to 
+work in our field by a range of competitive industry lists 
+– and most importantly, by our employees. We manage 
+and measure organizational health with the same rigor as 
+more traditional performance drivers, gaining insight into 
+employees’ experiences, levels of workplace satisfaction, 
+and feelings of engagement with the company.
+We use McKinsey & Company’s Organizational Health 
+Index (OHI) to measure Applied’s organizational health, 
+based on an annual, enterprise-wide employee survey. In 
+2019, we added new questions to measure employees’ 
+engagement towards their work and the organization, as 
+well as their social engagement or sense of community in 
+the workplace. Among the results:
+• Applied Materials achieved an overall 
+“healthy” rating on the OHI
+• The survey had an 87% employee participation 
+rate – our highest to date 
+• Employee engagement increased over FY18, 
+putting Applied Materials in the top quartile for 
+engagement in McKinsey’s global OHI database
+• People increasingly want to work at Applied 
+because of the culture and work environment
+• We continue to rank in the top quartile for overall 
+health in the McKinsey database
+Insights from our OHI survey are used annually to inform 
+both company-wide and business-unit-level organizational 
+and talent development plans. T alent Pipeline Development
+In 2019, we introduced a new and well-researched 
+talent model which offers a simple yet comprehensive 
+approach to assessing employees in current roles, as well 
+as selecting and placing candidates into new roles at all 
+levels in the organization. This model improves accuracy 
+when assessing talent for current needs, succession 
+management, and development planning for current or 
+future roles. It can be applied to any role in the company 
+and serves as the foundation for all talent practices: 
+assessment, selection, placement, and development. 
+The model was rolled out enterprise-wide starting with 
+the executive team, all leaders, and then managers and 
+employees. About 80% of all managers and 70% of all 
+employees have been trained on the model and its usage. 
+The model is being systematically integrated in different 
+talent practices starting with a FY19 focus on executive 
+team assessment and development, succession planning, 
+and critical role profile and development.   
+Additionally, as we think about our workforce strategy, 
+we consider the following:
+• Right Size: Attract the number and type of 
+people to reach our strategic goals
+• Right Skill: Identify needed capability and 
+experience to allow planning and fill gaps
+• Right Site: Ensure the right people work  
+in the needed locations
+• Right Spend: Invest in resources with a  
+focus on cost effectiveness
+• Right Shape: Design appropriate, strategy-
+aligned organizational structures to enable 
+innovation, connectivity, and speed
+ 
+Recruitment & New Hires
+T o identify and attract the best talent, we run several 
+targeted programs, including student internships and 
+recruitment campaigns for new college graduates.
+Global Intern Program: In 2019, Applied employed over 
+200 interns globally, providing a diverse group of talented 
+students from leading colleges and universities with 
+hands-on industry experience and insight. Our U.S. offices 
+hired 124 interns, with a diverse hire rate of 56%. In India, 
+Korea, Singapore, and T aiwan, we hosted over 50 interns.
+New College Graduate Program: Essential to attracting 
+and retaining top talent, our New College Graduate (NCG) 
+programs focus on ensuring gender and racial diversity 
+in our workforce, bringing a range of backgrounds and 
+perspectives.
+©	2020	Applied	Materials,	Inc.	All	Rights	Reserved.Our People & WorkplaceSustainability Report 201958In 2019, we achieved numerous successes 
+with our NCG program:
+• Ninety new college graduates participated in 
+an onboarding program for the Semiconductor 
+Products Group, which provides two weeks 
+of in-class training in Santa Clara followed by 
+a week in Austin for in-depth learning about 
+manufacturing and supply chain.
+• Our Ion Implant Business Unit took the lead in 
+developing our two-year Fusion Rotation Program 
+for graduates in key engineering disciplines. 
+Participants rotate between different work areas, 
+completing hands-on assignments and working on 
+large, collaborative year-end engineering projects. 
+The rotations assist in determining participants’ 
+final placement upon program completion.
+• Our Finance Rotation Program provided 
+graduates at our Austin and Silicon Valley 
+offices ongoing mentoring, networking, skills 
+development, and hands-on experience across 
+various finance disciplines before they transition 
+to permanent roles at Applied.
+• Applied’s Supply Chain team initiated a Supply 
+Chain Rotation Program in partnership with the 
+University Recruiting team. In this program, eight 
+candidates rotated through three placements of 
+six months a piece, and two MBA graduates went 
+through two rotations.
+• In the U.S., our university recruiting team 
+continued its long partnership with the 
+Leadership Encouraging Achievement through 
+Diversity (LEAD) / Black Employee Network 
+(BEN) to recruit outstanding talent from North 
+Carolina A&T, ranked number-one among public 
+Historically Black Colleges and Universities 
+(HBCUs).
+• In Silicon Valley and Austin, we partnered 
+with several of Applied’s Employee Resource 
+Groups (ERGs) to bring local female and 
+underrepresented minority students to our 
+campuses and potentially into our workforce, 
+resulting in several new hires for both the U.S. 
+internship and NCG programs.• In China, our first large-scale NCG program in 
+the country since 2000 resulted in recruitment 
+of nearly 60 graduates. As part of this New Star 
+program, we conducted interviews at 39 top 
+universities. T wenty-one percent of these new 
+hires hold a Master’s or Doctoral degree and 
+14% are female. The reinvigorated program is 
+enhancing our operations in a vitally important 
+region for the company.
+• The Santa Clara chapter of our Y oung 
+Professionals Network ERG served as editors for 
+students in the Stanford RISE Internship Program, 
+a seven-week summer program for high school 
+students interested in STEM topics. Many of the 
+students are first-generation college-bound. 
+Other U.S. outreach efforts in 2019 included Silver 
+Sponsorship of the Math, Engineering and Science 
+Achievement (MESA) Student Leadership Conference 
+in Sacramento, CA, as well as sponsoring and 
+attending:
+• The Society of Women Engineers (SWE) 
+Evening with Industry dinners at universities 
+including California State Polytechnic  
+and Cornell
+• The University of California, Los Angeles 
+(UCLA) Center for Excellence in Engineering 
+and Diversity (CEED) Networking and 
+Professional Etiquette Roundtable
+• The Georgia T ech Women in Materials Science 
+Networking Dinner
+• The Out for Undergrad (LGBTQ)  
+Engineering Conference
+More information about Applied Materials’ support for 
+STEM education can be found under Operationalizing 
+Inclusion in All We Do and Community Impact.
+Our People & WorkplaceSustainability Report 201959
+Learning & Development
+Continuous learning by our people feeds our pipeline of 
+innovation and pays off in employee retention. Learning 
+and development accomplishments for 2019 included:
+• Launching Applied Circles, a global program for 
+peer-to-peer mentoring and coaching 
+• Opening the Materials Engineering T echnology 
+Accelerator (META Center) to provide an 
+immersive learning experience
+• Increasing the emphasis on learning and 
+development for leaders
+• Offering our fifth annual Applied Materials China 
+Nova Star New Managers Program, a six-month 
+training focused on core management skills with 
+one-on-one coaching from HR
+Employee Learning & Development
+Applied Materials follows both an enterprise approach  
+and a federated model of employee learning and 
+development.
+From a federated view, business units maintain an 
+independent strategy for skill-building, using content  
+that’s owned, supervised, developed, and managed by  
+the unit’s learning team. While the units pursue success  
+in different ways, all are aligned around common 
+objectives, and logistics are coordinated centrally.  
+For example, Manufacturing regularly trains its own 
+workforce on labor rights issues as part of managing the 
+supply chain, and our Environmental Health & Safety 
+(EHS) and Sustainability organization leads employee 
+training and awareness on EHS management issues, 
+ensuring that staff go through the certification processes 
+for safety and skills related to technical manufacturing and 
+engineering work. 
+From an enterprise view, our training follows through our 
+employee life-cycle. All employees have opportunities 
+for training on a wide range of general professional skills, 
+including communication. T o date, more than 5,000 
+Applied employees have completed communication 
+training under one or more of the following programs:
+• Web-based communications-skills classes  
+via LinkedIn Learning, Coursera, and EdX
+• Instructor-led classroom trainings including 
+Slide-ology, Fast-T rack Speaking, and Effective 
+Communications, via Applied Materials Service 
+Manager Academy
+• Effective T echnical Communications covering 
+interpersonal, written, and presentation 
+communications for engineers and field personnelIn 2019, we observed measurable results from 
+communications training across the company. Managers 
+perceived a 20% jump in employees’ ability to conduct 
+presentations concisely and effectively, plus a 64% 
+improvement in terms of the “signal-to-noise” public 
+speaking rubric: the ratio of relevant to irrelevant 
+information presented.
+We also offer learning and development to all employees 
+through our Applied Global University programs.
+Customized Skills Training: In 2017 we launched the 
+company-wide appliedX PATHWAY initiative, which 
+creates specialized skills training programs based on an 
+employee’s job role and career categories. The majority 
+of our employees may access the program, and to date 
+approximately 70% of Applied’s workforce has done so.
+The customized plan links job-related coursework in 
+areas such as technical engineering, tool and service 
+development, and professional skills with Applied 
+Materials’ “strategic accelerators”: employee development 
+in areas including management and leadership, product 
+engineering, and sales engagement. Experts within the 
+company develop the curricula and employees extend 
+their training based on job role recommendations. In 
+addition, courses from world-class online-learning content 
+providers are available to further develop employees’ 
+capabilities and spark new learning directions. 
+Employees work with their manager to determine their 
+development path. From there, the employee is assigned 
+20 to 30-plus hours of expert-defined coursework related 
+to his/her job role. This is linked to a further 20 to 30-plus 
+hours of personal development course work, for a total of 
+40-plus hours of training development.Our People & WorkplaceSustainability Report 2019602019 Learning Hours
+In 2019, 99% of employees completed their annual 
+recertification on the Applied Materials Standards of 
+Business Conduct, while 99% of full-time employees 
+completed additional learning hours. Overall, the annual 
+average of global employee training hours has been 
+trending upwards since 2017. Leaders, executive level  
+vice-presidents, and managers also logged more learning 
+hours in 2019 than in previous years.
+Additional information on training related to ethics and 
+compliance is provided here.
+Learning Hours Trends & T otal Hours
+ 
+Performance Appraisals & Individual Development 
+Goals
+In 2019, we introduced a new model for assessing 
+and developing talent. At the start of each fiscal year, 
+company vice presidents begin setting performance 
+objectives for the company using internal strategy 
+scorecards. All employees define their performance 
+objectives for the year in alignment with those company 
+objectives, and include one personal development 
+objective. These are documented internally in the 
+Workday system. T o enable ongoing improvement in the 
+quality of development conversations and plans, managers 
+and employees have been trained on the new model and with a future focus on improving proficiency in the use of 
+the model.
+Managers track their direct reports’ progress and results 
+during the year and have quarterly check-ins and an 
+annual evaluation to review progress against performance 
+and development goals. In 2019:
+• 99% of employees received regular performance 
+and career development reviews
+• 90% of employees had a development goal in 
+place, surpassing our corporate target of 85%
+• 87% of employees who chose to establish 
+a development plan (comprised of several 
+development objectives) completed their plan
+Coaching & Mentoring
+In March 2019, we launched our global Applied Circles 
+program to build internal networks, foster new employee 
+contacts, and provide peer-to-peer coaching, mentoring, 
+and training. Participants are matched with another 
+employee once per month, and hold “get to know” and 
+monthly follow-on discovery meetings. The initiative 
+has seen a tremendous response, growing from 80 
+participants in its first month to 344 by August 2019.
+In 2019, we also provided select executives with training 
+on coaching strategies, conducted by UC Berkeley.
+Economics of Service Course
+Applied Materials is proud of our managers’ and 
+executives’ engaged leadership around workforce 
+learning and development. One good example is our 
+Economics of Service course, which is facilitated by 
+our vice president of Finance. 
+Open to all employees, Economics of Service is a 
+highly collaborative session that teaches the key 
+financial aspects of Applied’s service business, 
+and the impacts of employees’ decisions on the 
+business. Our VP’s expertise and passion for the 
+topic has made this one of our most in-demand 
+executive-led courses, with over 1,000 global 
+employees trained by year-end 2019. T o extend the 
+course’s reach, the VP is currently working with our 
+learning development team to create a blended-
+learning version of this class, with an interactive 
+online module covering the basics and a live VP-led 
+virtual session driving home the learning.Disclosure FY2019 FY2018 FY2017
+T otal Individual 
+Learners (RFT)21,850 20,930 17,199
+T otal Individual 
+Learners (T otal 
+Workforce)32,087 26,704 21,706
+T otal Training / 
+Learning Hours1,407,932 1,311,582 933,344
+Disclosure FY2019
+Executive-level vice presidents 22.4
+Executive-level directors 38.8
+Manager level 56.4
+Individual contributors 64.3
+Interns 25.1
+For additional details and breakdowns, see the Report Annex.Our People & WorkplaceSustainability Report 201961Engineering & Process Training 
+In 2019, Applied partnered with the State of New 
+Y ork to create the Materials Engineering T echnology 
+Accelerator (META Center). The center takes a novel 
+approach in process development and skills training 
+for our new engineers, aligned with strategic corporate 
+goals including:
+• Increasing Applied Materials market share in 
+WFE (Wafer Fab Equipment) with enhanced 
+service offerings and capability
+• Developing process module solutions for 
+chipmakers 
+• Applying precision materials engineering to 
+sectors beyond the semiconductor industry
+T echnical training on Applied Materials platforms at 
+the META Center gives trainees an immersive learning 
+experience in conditions almost indistinguishable from 
+those they will encounter at a customer’s HVM (high 
+volume manufacturing) fab. The program is designed 
+to minimize any impact to tool start-up activities 
+while reducing the need for North American engineers 
+to travel to Asia, where these trainings are typically 
+offered. Unlimited Access to eLearning 
+The Applied Global University (AGU) is a tool for 
+organizing eLearning content in one location and 
+making it available to employees at any time. The AGU 
+platform also tracks learner progress and performance, 
+informs staff of compliance regulations and updates, 
+and integrates social learning experiences.
+Tuition Assistance & University Partnerships 
+Applied Materials offers tuition assistance of up to 
+$8,500 per calendar year for educational activities to 
+improve skills and knowledge required for an employee’s 
+position. In 2019, 544 U.S. employees took advantage 
+of the tuition benefit.
+We also partner with the California Institute of 
+T echnology (Caltech) on a systems engineering 
+certification course for Applied Materials engineers. In 
+2019, 38 employees graduated from the third class of 
+the program. Following the latest employee survey and 
+expressions of interest, the program is set to expand 
+with a focus on engineering leadership.
+Building on our Caltech program, Applied Materials 
+and other companies have partnered with the 
+Massachusetts Institute of T echnology (MIT) for an 
+engineering certification course. T en Applied employees 
+graduated with the inaugural class in 2019.
+Onboarding 
+Applied has created a structured methodology to 
+ensure new hires understand the tools, systems, and 
+processes they’ll use in their new roles. We have a 
+specific curriculum for orientation and onboarding 
+in each business unit/function, aimed at minimizing 
+new hire time to independent work, improving quality 
+metrics, and decreasing attrition. The curriculum is 
+provided through instructor-led, web-based, and virtual 
+classroom training, as well as job shadowing (where 
+possible), on-the-job-training certifications, and post-
+training self-help web portals.
+In manufacturing, this onboarding methodology has 
+led to a 40% improvement in the time until a new hire 
+reaches proficiency, leading to returns on investment 
+of between $420,000 and $600,000, depending on 
+onboarding numbers during each fiscal year.“I look at my career and myself in 
+ways I’d never thought of before.” 
+T est	Engineer,	Kalispell
+Women in Engineering 
+In 2016, Applied Materials developed the two-year 
+Women in Engineering T alent Development 
+Program for employees with demonstrated drive 
+and leadership. Each participant creates an 
+individual development plan and participates in 
+events that foster their diversity of thought in 
+safe and inclusive teams, such as conferences, 
+professional skill development workshops, 
+career development roundtables, and mentoring 
+workshops.
+The program launched in the U.S., and we plan to 
+expand it to other regions in 2021.Our People & WorkplaceSustainability Report 201962First-Time Supervisor Training
+For first-line supervisors across all experience levels, 
+we offer a series of specially designed and facilitated 
+workshops and guided implementations covering 
+both general and company-specific knowledge and 
+skills. Workshop topics include strategies to build 
+effective relationships and high-performance teams; 
+coaching techniques and HR systems and processes; 
+and techniques for managing subordinates, facilitating 
+decision-making, managing conflict, and influencing up 
+and across the organization (without authority).
+Leadership Development 
+T o scale our leadership and team, we are applying a 
+powerful, research-based, role-relevant, and globally 
+applicable framework and tools that serve as the 
+foundation for our leadership pipeline development 
+decisions and practices (assessment, selection, 
+placement, development plans, coaching). The strategy 
+places priority on situational leadership and inclusive 
+leadership as core components of executive development 
+plans. Key metrics are associated with the framework, 
+including a diverse leadership team and pipeline of future 
+leaders, percentage of executive leadership successors 
+with development plans, and percentage of executive 
+leadership roles with more than one ready-now successor.
+T o expose leaders to a broad set of functional operations 
+and position them to make faster and better business 
+decisions, we have also established the Applied 
+Leadership Group (ALG) event, delivered annually for all 
+vice presidents and managing directors. As part of this 
+event, our top leaders have opportunities for learning  
+and development.
+Applied Materials China Nova  
+Star New Manager Program 
+China is today one of Applied Materials’ largest markets, 
+and our China organization has grown from 800-plus 
+employees in 2015 to over 2000 today. Applied Materials 
+China launched the Nova Star program in 2015 to 
+strengthen our leadership pipeline by accelerating 
+the development of first-time managers. Focused on 
+leadership/management fundamentals and key policies 
+and processes, the program offers 60 hours of systematic 
+training, support, and one-on-one coaching over six 
+months. T o date, 150 new managers have graduated, 
+leading to higher-performing teams and greater retention.
+Career Transition Assistance
+Applied provides appropriate severance pay and 
+job-placement services to employees affected by 
+workforce reduction programs, or in accordance with  
+local labor laws.
+Our Nova Star program 
+has strengthened our 
+leadership pipeline.Our People & WorkplaceSustainability Report 201963
+Our vision to make possible a better future extends 
+globally and locally, providing the technologies to 
+accelerate research on critical global challenges while 
+also addressing needs in our communities. Community ImpactSustainability Report 201964
+T o turn our values into local action, Applied Materials and the Applied 
+Materials Foundation engage in a broad spectrum of community 
+investments, principally in the focus areas of Education, Civic Engagement, 
+Arts & Culture, the Environment, and the Foundation’s signature women 
+and girls empowerment initiative, Generation Girl™. Additionally, various 
+Foundation matching gift programs amplify our employees’ donations 
+to support issues close to their hearts. In 2019, we awarded over $10.8 
+million in direct corporate contributions and Foundation grants to 
+recipients in nine countries.
+• $6.6 million in strategic grants across our four 
+main focus areas
+• $915,000 in strategic grants dedicated to 
+Generation Girl™
+• $3.3 million in Employee Matching Gifts, 
+Volunteer Time Grants, Fight Against Hunger 
+match, and various disaster relief programs 
+*T otal Community Giving displayed here excludes Applied Materials 
+Foundation’s Administrative expenses. FY2019 Community Giving
+Arts & Culture11.5%  
+$1.2M
+Civic 
+Engagement17.9%  
+$1.9M
+Education26.5%  
+$2.9M
+EnvironmentTOTAL
+5.2%  
+$562k$10.8M
+Generation 
+Girl8.4%  
+$914kMatching Programs30.5%  
+$3.3MRaising Up Our CommunitiesSustainability Report 201965Community Impact
+Grant Making for Social Impact
+Generation Girl™ is a project of the Applied Materials 
+Foundation. Both Applied Materials and the Applied 
+Materials Foundation engage in grant making for 
+Education, Civic Engagement, Arts & Culture, and the 
+Environment, and the examples and numbers given  
+in this section of the report cover both Applied Materials 
+and Foundation grants and grantees. 
+Generation Girl™
+Barriers are made to be broken. Through the Applied 
+Materials Foundation’s Generation Girl™ initiative, we are 
+working with non-profit organizations and our employees 
+to support girls – especially Black/African-American, 
+Hispanic/Latino and Indigenous girls – in gaining the 
+confidence, skills, and opportunities they need to realize 
+their full potential. 
+Their future success is also ours: Women of color are the 
+tech industry’s most underrepresented group. If we can 
+help change that by addressing societal and systemic 
+barriers, we can help make our future workplaces more 
+vibrant, equitable, and effective.
+Since its inception, Generation  Girl™ has contributed 
+$1.65 million to girls empowerment initiatives at 20 
+non-profit organizations ($915,000 in FY2019), and 
+expanded from initial pilot sites in California, T exas, and 
+Massachusetts to include new grantee organizations in 
+New Y ork, Oregon, and Montana. External evaluation has 
+shown that in its first year, Generation Girl™–supported 
+grantee organizations provided more than 11,000 girls 
+(87% of them low-income and/or girls of color)  
+with girls empowerment and leadership training and/or 
+high-quality STEM programming.
+A complete list of 2019–2020 grantees is available here.
+In 2019, several of the Foundation’s grantees were 
+supported by Applied Materials and our employees for 
+girl-empowerment initiatives and learning opportunities:
+• T echBridge Girls designs and delivers STEM 
+programs to K–12 girls from low-income, under-
+resourced communities. In 2019, the organization 
+offered two on-campus workshops to our Silicon 
+Valley employees focused on understanding 
+gender bias and equity. Employees from the Silicon 
+Valley chapter of our Y oung Professionals Network 
+Employee Resource Groups (ERGs) also hosted and 
+taught a group of T echBridge Girls participants about 
+microchips and other basic engineering concepts.
+• Girls Empowerment Network teaches girls the 
+skills to thrive and believe in their ability to be 
+unstoppable. In 2019, they led a workshop for 
+Applied employees on the power of language as it 
+pertains to gender bias and stereotypes. • GirlStart offers STEM workshops, mentorships, 
+camps, and after-school programs. In 2019, 
+Applied employees participated in GirlStart 
+Summer Week, panel conversations, and group 
+volunteer activities with other Generation Girl™ 
+grantee organizations.
+• T o celebrate International Women’s Day in March 
+2019, employees gathered in Applied’s Silicon Valley 
+and Austin cafeterias to learn about Generation Girl™ 
+and write notes of inspiration to a girl in their lives 
+and/or young women participating in Generation 
+Girl™–funded programs run by several grantee 
+organizations. 
+Applied Materials Foundation  
+Generation Girl™ Grantees, 2019–20 
+Evaluation Services Provided by:Sustainability Report 201966“Just like humanity, the ocean is full of diverse 
+life, and it’s going to take all of us to enable a 
+positive future.” 
+2019	T ech	for	Global	Good	honoree	Julie	PackardEducational Initiatives
+Education grants by Applied and the Foundation bring 
+resources and programs to communities and schools in 
+need worldwide, helping inspire young minds, open new 
+doors, and pave the way for success in school and in life. 
+In FY2019, we provided $2.9 million in funding to 74 
+organizations, many focused primarily on basic literacy. 
+These included:
+• Bookspring (Austin, TX): Bookspring  
+supports 2,500 low-income, high-needs youth 
+with a ten-week early literacy program as well 
+as new children’s books to encourage summer 
+reading practice and reduce the summer reading 
+skills slide.
+• T aiwan Fund for Children and Families  
+(Big T ainan): The fund enhances libraries in Big 
+T ainan’s rural communities, providing new books 
+and developing reading programs for children and 
+parents.
+• Wuxi Lingshan Charity Foundation  
+(Rural China): The organization’s Library Project 
+helps improve regional education infrastructure 
+and enhance children’s literacy development by 
+establishing high-quality libraries and teacher 
+training programs.
+• ChildFund Korea (Incheon City): ChildFund 
+Korea’s Smart Reader Program provides after-
+school programs focused on reading and exercise 
+activities for children from low-income families.
+Additionally, we supported organizations in Gloucester, 
+Massachusetts; Kalispell, Montana; San Jose, California; 
+and Manor, T exas; these organizations provide reading 
+programs to prevent summer learning loss and improve 
+literacy outcomes, especially for at-risk students and 
+students reading below grade level. 
+ 
+ 
+ 
+ 
+ 
+T ech for Global Good Awards 
+Named in honor of Applied Materials’ 
+chairman emeritus, the James C. Morgan 
+Global Humanitarian Award is presented 
+annually at the T ech for Global Good Awards 
+by Applied Materials and Silicon Valley’s 
+The T ech Interactive science and technology 
+center to recognize visionary leaders who are 
+combating global environmental and social 
+challenges. With past honorees including Bill 
+Gates, Al Gore, T ed T urner, and Queen Rania 
+of Jordan, the award underscores Silicon 
+Valley’s focus on making people’s lives better 
+through technology: reducing inequality, 
+leveling the playing field, and ensuring all 
+voices are heard.
+At the annual T ech for Global Good awards 
+ceremony, 2019 honors went to Monterey Bay 
+Aquarium executive director Julie Packard for 
+promoting conservation, education, and ocean 
+research. Aligning with the event’s theme 
+of technology empowering women, Packard 
+has long championed efforts to increase girls’ 
+and women’s participation in science and 
+technology, helping create the next generation 
+of ocean conservation leaders.
+Community ImpactSustainability Report 201967
+Raising Environmental Awareness
+Environmental grantmaking by Applied and the 
+Foundation focuses on youth education and community-
+based projects designed to engage people with the natural  
+world and build a more sustainable future. 
+In FY2019, we awarded $560,000 in grants to 42  
+non-profits, supporting:
+• Field Trip Programs: The Glacier National Park 
+Conservancy (Montana), Y outh Science Institute 
+(Silicon Valley), the National Audubon Society 
+(Phoenix, Arizona), and Austin Y outh River 
+Watch (Manor, T exas) connect underserved 
+children with nature through a variety of field 
+trips.
+• The Jane Goodall Institute: Education programs 
+focus on sustainable development, encouraging 
+youth in China to become independent, 
+responsible, and environmentally-conscious 
+citizens.
+• Moatza le Shimur Atarim: Efforts for at-risk 
+children in Rehovot, Israel, include environmental 
+education classes and the creation of a student-
+nurtured organic vegetable garden at the 
+Pardesanut Museum.
+• IShare Community Development Association: 
+Education programs at high schools in Hsinchu, 
+T aoyuan, and Miaoli, T aiwan, focus on raising 
+awareness of major environmental issues from a 
+regional perspective.
+In addition, Applied employees participated in a variety 
+of environmental stewardship activities during our annual 
+spring EarthWorks campaign. In Japan, employees and 
+their families collected 860 pounds of garbage on Mount 
+Fuji, while a tree planting team distributed 700 saplings 
+to employees for their home gardens. In Austin, T exas, 
+employees planted trees on public lands as part of the 
+CityShade program, and in Kalispell, Montana, employees 
+took part in events to clean up and maintain local trails. 
+In India, our people worked with United Way Bangalore 
+on newspaper recycling projects and making seed balls 
+for planting. In the U.S. and Germany, Applied offices 
+participated in Bike to Work Days to promote  
+commuting by bicycle. Advancing Arts & Culture
+Creativity drives new ideas that can transform the way we 
+live. In FY2019, Applied and the Foundation continued our 
+support for culturally diverse programming in the visual 
+and performing arts, awarding $1.24 million in grants to 
+70 non-profits. Among the highlights:
+• Applied Materials Art Festival: In T aiwan, the 
+Yuehan Culture and Education Foundation’s 19th 
+annual Applied Materials Art Festival Program 
+engaged over 8,000 community attendees in the 
+arts through lectures and performances.
+• Opera Cultura’s La Llorona: In Silicon Valley, 
+Opera Cultura reinterpreted La Llorona (The 
+Weeping Woman), a legend that has been a part 
+of Hispanic culture in the U.S. Southwest since 
+the 16th century.
+• Shanghai Traditional Arts & Culture Programs: 
+Charyou Y outh Volunteer Service Center’s 
+programming inspires ethnic minority children to 
+develop their talent and share traditional arts and 
+culture.
+• Rockport Music’s Jazz Ensemble Residency 
+Y outh Programs: A jazz program for children 
+in Gloucester and the surrounding North Shore 
+Massachusetts area, offering workshops, 
+presentations, and community performances.
+• Y oung Audiences of Oregon: Performances of 
+traditional Latin American music centered on the 
+music’s Native American, European, and African 
+influences.
+• Heard Museum’s Día Del Niño 2019: A free 
+youth- and family-centered community event 
+celebrating Native American and other cultural 
+arts in Phoenix, Arizona.
+Applied families worked on the banks of the Sile River near T reviso, Italy with 
+nonprofit Legambiente to learn about ecology and take action to improve the 
+environment.Community ImpactSustainability Report 201968Promoting Civic Engagement
+Civic engagement grants from Applied and the Foundation 
+strengthen the ability of NGOs and the non-profit sector 
+to address community challenges and help people 
+find stability in difficult times. Areas of focus include 
+supporting affordable housing, building collaborative 
+approaches to ending homelessness, and improving 
+access to nutritious food and clean water. We also 
+contribute to relief and recovery efforts when natural 
+disasters affect our communities around the world. In 
+FY2019, $1.9 million in grants funded 81 organizations.
+Promoting Housing Stability
+In 2019, we supported organizations in Silicon Valley; 
+Gloucester, Massachusetts; and Austin, T exas; all of these 
+organizations are dedicated to providing at-risk individuals 
+and families with access to affordable housing, reduced 
+rent, family stabilization services, emergency financial 
+assistance, and financial management training and 
+support. Other highlights included:
+• Building Homes with Habitat for Humanity:  
+We funded the building of one new, high-quality, 
+energy-efficient home in Austin, T exas, and four 
+affordable homes for low-income families in 
+Montana’s Flathead Valley. 
+• Supporting Victims of Childhood Illness: 
+In Munich, Germany, Stiftung Ambulantes 
+Kinderhospitz provides support to families with 
+newborns, infants, children, and adolescents 
+suffering severe and life-threatening illness.
+• Caring for Orphaned & Abandoned Children: 
+Through SOS Children’s Villages, we sponsor 
+family homes, personalized care, and a nurturing, 
+stable environment for orphaned and abandoned 
+children in Bangalore, India. 
+• Promoting Affordable Housing: Through Silicon 
+Valley organizations such as SPUR, SV@Home, 
+and Catalyze SV, we fund collaborative efforts to 
+raise public awareness and inspire action around 
+affordable housing.
+Fight Against Hunger
+For decades, Applied Materials has conducted a Fight 
+Against Hunger campaign across communities in North 
+America where our employees work and live. In November 
+and December 2019, employees raised $2.35 million 
+(including matching funds from the Applied Materials 
+Foundation) for 40 food banks across the country.  
+The year also saw Fight Against Hunger expand for the 
+first time to include Applied Materials communities 
+around the world, with efforts tailored to the communities’ 
+specific needs.• Israel: Through Latet Israel Humanitarian Aid 
+and Leket, Applied Israel distributed food to 
+economically disadvantaged families over the 
+Passover holiday.
+• India: Employees in India supported local 
+agencies with donations raised through group 
+workouts, food festivals, and hosting a farmer’s 
+market.
+• China: Employees packed 500 boxes of food for 
+distribution to families in need and created a quiz 
+to raise awareness of food waste and encourage 
+individual behavior change.
+• Japan: An employee team packed boxes of 
+groceries for distribution through Second Harvest 
+Japan, to benefit students who lose access to 
+school-provided lunches during summer.
+Turkey Trot Supports Vulnerable Populations
+The largest timed Thanksgiving Day race in the U.S., the 
+Applied Materials Silicon Valley T urkey T rot has raised 
+$9.6 million for charities over its 15-year history. In 2019, 
+438 Applied employees participated in the event, which 
+generated $800,000 for local charities providing food, 
+shelter, and healthcare for vulnerable populations. 
+Community ImpactSustainability Report 201969Employee-Led Giving
+Employee engagement amplifies Applied Materials’ 
+positive community impact, often via company-initiated 
+events that connect our people with local non-profits. 
+Employees volunteer for a variety of causes of interest and 
+can also maximize their personal charity support through 
+our Matching Gift and Volunteer Time Grant programs.
+Employee Giving & Matching Gifts 
+The Foundation’s Employee Giving Program matches 
+regular full-time employees’ donations to eligible 
+non-profit organizations and K-12 schools up to $3,000 
+per year. During CY2019, employee-selected giving 
+accounted for more than 30% of Foundation grants, 
+benefitting 1,949 non-profit organizations including St. 
+Jude Children’s Research Hospital, Second Harvest of 
+Silicon Valley, Central T exas Food Bank, and Doctors 
+Without Borders USA.
+Volunteer Time Grants 
+The Foundation also makes donations in recognition of 
+employee volunteerism at community organizations of 
+their choosing, at a rate of $100 per ten hours of personal 
+volunteer time, per calendar quarter. In CY2019, our 
+employees logged 15,174 volunteer hours, which led to a 
+total annual Foundation contribution of $49,000.Employee Resource Groups 
+Applied’s Employee Resource Groups (ERGs) allow our 
+people to engage with the communities where they live 
+and work, reflecting their own values and those of the 
+company. ERGs help foster diversity and inclusion; provide 
+information sharing, support, educational opportunities, 
+and career development; and promote cultural awareness 
+and volunteerism in community activities. Click here for 
+more details about Applied’s ERGs and their impact.
+Applied employees in Alzenau, Germany present a charitable grant to 
+Wunsch am Horizont to fulfill wishes of terminally ill patients.
+In CY2019, our employees logged 15,174 
+volunteer hours, which led to a total annual 
+Foundation contribution of $49,000.Community ImpactSustainability Report 201970
+At Applied Materials, ethical business conduct is more 
+than rules and policies. It is ingrained in our values and 
+reflected in our employees’ actions, every day.Ethical LeadershipSustainability Report 201971
+Applied Materials’ reputation for honesty and fairness is one of our 
+greatest assets and reflects our culture of ethics and integrity. Corporate 
+governance provides the foundation for that culture. Our Standards of 
+Business Conduct set expectations and provide guidance for upholding 
+the highest ethical standards in our work, with clear corporate policies, 
+procedures, and reporting structures in place to assure implementation.Corporate Governance
+ESG Oversight & Management
+Our company-wide strategy on Environment, Social & 
+Governance (ESG) is focused on integrating sustainability 
+into our operations and company culture through 
+initiatives aligned to our corporate strategy. Applied’s 
+ESG strategy is led primarily at the vice president level 
+or by business group leadership, with our Board of 
+Directors providing oversight. In 2020, we announced the 
+appointment of a director of ESG, corporate sustainability, 
+and reporting.
+Reporting on our ESG efforts is segmented by focus 
+area:
+Environmental Health & Safety (EHS): The Board receives 
+a quarterly report on EHS and sustainability matters, and 
+the Corporate Governance and Nominating Committee 
+receives more in-depth environmental and sustainability 
+updates covering emissions, energy, water, waste, health, 
+and safety on an annual basis. Supply Chain & Conflict Minerals: The Board reviews 
+material supply chain issues. The Audit Committee 
+reviews our annual conflict minerals report filed with  
+the SEC.
+Our People & Workplace: The Board’s Human Resources 
+& Compensation Committee (HRCC) oversees corporate 
+culture and human capital management programs, 
+including our diversity and inclusion practices and 
+initiatives. The HRCC has approved ESG objectives for 
+our annual bonus program to incentivize leadership to 
+improve employee safety, engagement, and learning 
+and development; to promote a Culture of Inclusion; 
+and to accelerate the representation of women and 
+underrepresented minorities in our workforce. 
+Community Engagement: Much of our community 
+engagement and grantmaking is led by the Applied 
+Materials Foundation, which has its own board and is 
+independently audited annually. 
+All Applied Materials corporate governance documents  
+are publicly available here. The 2020 Proxy Statement  
+is available here. See the Report Annex for additional information on Applied’s corporate governance structures and policies.Sustainability Report 201972Ethical Leadership
+Ethics & Compliance
+Applied is committed to being a good corporate citizen 
+and a trusted partner to our customers, suppliers, and 
+shareholders. Each member of our workforce plays a 
+part in this commitment by acting with responsibility and 
+integrity throughout every workday, and our executives 
+and managers are expected to lead by example.
+T o help instill integrity in our culture, Applied maintains 
+a Global Ethics and Compliance Program with strong 
+leadership and engagement from senior management.  
+The Board’s Audit Committee is responsible for 
+overseeing overall program design and implementation, 
+including mechanisms for confidentially and anonymously 
+reporting potential violations of law or company policy, 
+and reviewing and investigating matters relating to the 
+integrity of executive officers. Employee-engagement 
+efforts include ethics training and awareness campaigns, 
+campus fairs, information tables, and an annual Ethics Week. 
+See the Report Annex for additional details about our ethics 
+policies and governance structures.Standards of Business Conduct
+Applied Materials’ Standards of Business Conduct 
+(SBC) applies to our entire global workforce and trusted 
+partners, ensuring the highest ethical standards in our 
+interactions with customers, suppliers, internal and 
+external shareholders, colleagues, and the communities 
+where we work and live. Updated in 2019 and 
+currently being refreshed for a 2020 relaunch, the SBC 
+communicates our values and standards of behavior, 
+promotes employee trust in management’s commitment 
+to our values, empowers employees to speak up without 
+fear of retaliation, and provides comprehensive guidance 
+about risks, laws, policies, and reporting processes, 
+including key areas such as:
+• Conflicts of Interest: Conflicts of interest are 
+defined as placing or appearing to place personal 
+interests ahead of the company’s interests. All 
+potential conflicts of interest must be disclosed 
+before and during employment, and employees 
+are encouraged to seek guidance when in doubt. 
+• Bribery & Corruption: Applied Materials is 
+committed to winning business based on the 
+merits and integrity of our products, services, 
+and people. Consistent with our core values, we 
+prohibit any form of bribery or corruption and 
+require compliance with anti-corruption policies 
+throughout our global operations. 
+T o enable real-time data analytics and insights on 
+compliance with our Standards, we maintain a global 
+dashboard for tracking gifts, meals, and entertainment, 
+and are in the process of digitizing employee reporting 
+around conflicts of interest, third-party due diligence, 
+and charitable donations. We are also completing an 
+independent anti-corruption risk assessment, the results 
+of which will be used to enhance our program with  
+best-in-class processes and practices.
+Responsible Business Alliance Code of Conduct
+Applied Materials sets clear expectations for social 
+responsibility in our supply chain, requiring our vendors 
+and suppliers to comply with both our own Standards 
+and the Responsible Business Alliance (RBA) Code of 
+Conduct. The RBA Code covers labor, health and safety, 
+environment, management systems, and ethics standards, 
+including standards for Responsible Minerals Sourcing.
+Sustainability Report 201973Ethics & Compliance Training
+T o support our people’s obligations around ethics and 
+compliance, we require all newly hired employees to 
+complete an SBC training course within their first three 
+weeks of employment. Existing employees must renew 
+their SBC training on a biannual basis. In 2019, 94.6% of 
+our employees completed SBC training. In 2018, the SBC 
+recertification rate was 99%. Employees also have access 
+to ongoing training in specific ethics and compliance 
+areas. In 2019, those included:
+• In-person or webinar overviews during  
+new-hire orientation
+• A conflict of interest course, offered annually, 
+to deepen employees’ policy knowledge and 
+educate managers on explaining the policy and 
+expectations to staff 
+ • Live ethics training for Applied managers, to 
+drive a greater understanding of our policies, 
+expectations, and compliance investigation 
+process (this training will become an online 
+course in 2020)
+• An online module on insider trading, embedded 
+within our “Standards of Business Conduct 101” 
+course
+Anti-Corruption Training  
+Around the WorldApplied’s 2019 Ethics Week
+Applied Materials’ Ethics & Compliance team 
+hosted our annual Ethics Week in the U.S. in 
+February 2019, while our international locations 
+held regional Compliance Weeks throughout the 
+year. Hosted by company leaders, these well-
+attended events raise employee awareness of 
+resources and best practices that support our 
+culture of integrity. At our 2019 Santa Clara event, 
+employees participated in an interactive polling 
+survey to illustrate our gift and entertainment 
+policies, as well as policies regarding the 
+protection of confidential information. The event 
+also included an interactive game show on doing 
+business the right way.
+96.2%
+Europe, Middle East 
+and Africa88.7%
+Americas
+98.7%
+Asia and 
+the PaciﬁcCompleted
+IncompleteEthical LeadershipSustainability Report 201974
+Reporting Ethics Concerns
+Applied Materials prides itself on providing a positive, 
+diverse work environment where every employee’s voice 
+can be heard. Numerous channels are available through 
+which employees and suppliers may speak up, either 
+anonymously or by name, if they become aware of 
+conduct inconsistent with our values or policies. 
+Our Open-Door Policy encourages employees to approach 
+their manager, human resources representative, or our 
+Legal or Ethics & Compliance functions to report ethics 
+concerns, seek counsel, or offer ideas and suggestions. 
+Supervisors are expected to maintain a welcoming 
+environment to encourage employee comfort with such 
+reporting. We also maintain a 24-hour Ethics Helpline run 
+by an independent third party. 
+Our Non-Retaliation Policy protects employees who have 
+lodged good-faith reports of possible ethics or other policy 
+violations, or participated in any investigation, proceeding, 
+or hearing. Employees who retaliate or attempt to retaliate 
+are subject to disciplinary action, up to and including 
+termination of employment. 
+Our Ethics & Compliance (E&C) Dashboard maintains 
+information from the helpline and other channels, 
+providing case and inquiry data for internal case 
+management and data analytics. Y early and quarterly, 
+we use this information to examine trends in total case/
+inquiry numbers versus cases referred for investigation, 
+litigation, or closure. 
+Applied raises awareness about these reporting channels 
+and policies through our Standards of Business Conduct 
+and related trainings. Oversight for reporting and 
+investigations resides with the Audit Committee of 
+Applied’s Board of Directors.
+Ethics & Compliance Recognition Program
+Applied Materials’ Above and Beyond Heroes program 
+recognizes employees who demonstrate great corporate 
+citizenship by championing our ethics policies and 
+procedures. In 2017, we introduced the program’s  
+mascot “Chuck,” based on the electrostatic chuck used  
+in semiconductor manufacturing. Chuck continues to 
+serve as a champion for going “above and beyond” in 
+workplace integrity.Employee Ethics Survey
+On a biannual basis, Applied Materials conducts a 
+company-wide employee survey on ethics, administered 
+by a third party. The survey captures employees’ 
+perceptions of Applied’s culture, climate, and compliance 
+program resources by assessing five key attributes most 
+strongly connected to reducing misconduct risk: comfort 
+speaking up, organizational justice, tone at the top, clarity 
+of expectations, and openness of communication. The 
+report benchmarks our results against industry peers, 
+identifies opportunities for improvement, and helps gauge 
+the impact and effectiveness of past and current programs 
+and campaigns.
+Political Engagement
+Applied Materials participates in hearings, meetings, 
+trade association advocacy, and other efforts to inform 
+policymakers about current and future issues and 
+challenges critical to our company, our customers, and 
+our end users. We are continuously working to advance 
+policy changes in areas such as corporate tax, human 
+resources and labor, international competition, trade 
+barrier removal, technology regulation, and R&D issues.
+Sustainability priorities also figure prominently in our 
+interactions with policymakers and regulators, including:
+• Fostering partnerships with public research 
+institutions and research programs to share 
+knowledge and identify future technology 
+development needs
+• Advocating for government R&D funding and 
+other incentives to meet growing technology 
+demands, including for AI- and battery-related 
+technologies and applications
+• Seeking policy consensus around AI-related 
+security and privacy concerns
+• Advocating for immigration reform that 
+embraces the valuable role immigrants play in the 
+U.S. economy
+• Advocating for fairness, diversity, and inclusion, 
+including LGBTQ rights
+In 2019, Applied Materials joined the Business Coalition 
+for the Equality Act, publicly expressing our support 
+and helping to advocate on Capitol Hill for a bill (H.R. 
+5) adding LGBTQ rights to a federal statute against 
+discrimination.Ethical LeadershipSustainability Report 201975Oversight & Standards
+Applied is committed to transparency and disclosure 
+about our political engagement, and maintains 
+robust internal oversight processes to govern political 
+contributions and other political expenses.
+Our Government Affairs (GA) group leads our public 
+policy efforts, including recommending contributions 
+to political candidates. GA coordinates with Applied’s 
+executive-level head for each issue area and reports to the 
+vice president of Community & Public Affairs for decisions 
+on adopting positions as a company.
+Applied Materials’ Standards of Business Conduct 
+provides guidance on permissible financial contributions 
+to government officials. 
+Political Contributions
+Within the bounds of applicable laws, Applied makes 
+contributions to support issues of strategic importance 
+to the company and candidates advancing those issues 
+in U.S. states/districts in which Applied has a significant 
+presence.
+The Applied Materials, Inc. Political Action Committee 
+(AMPAC) disburses contributions to federal candidates 
+and political action or political party committees, while 
+our State Contributions Committee oversees corporate 
+political spending at the state and local levels. Officers of 
+these committees review all Government Affairs group 
+contribution recommendations to ensure they align with 
+company priorities. Contributions are subject to approval 
+by Applied senior management and are reported to our 
+Chief Legal Officer and Corporate Secretary and the Chair 
+of AMPAC. Additionally, prior to issuance, contributions 
+are reviewed by outside counsel to confirm compliance 
+with current regulations. Regular compliance-system 
+reviews also examine all contributions for compliance with 
+the law and company policies.Contributions are based solely on corporate objectives, 
+without regard for committee members’ private political 
+preferences. No contribution may be made in return for, 
+or in anticipation of, an official act. All contributions 
+are reported in filings with the U.S. Federal Elections 
+Commission or the appropriate state agency, as 
+applicable. Applied’s total political contributions are 
+publicly disclosed biannually and can be viewed on our 
+website. During 2019, political contributions made by 
+AMPAC and the State Contributions Committee totaled 
+$84,000.
+See the Report Annex for additional details on Applied’s 
+political donation policies, mechanisms, and compliance 
+practices.
+Business & Trade Associations
+Applied Materials belongs to various business and 
+trade associations representing issues that align with 
+our corporate strategy and the needs of our company, 
+industry, employees, and communities. Our membership 
+in a group does not imply that we endorse the entirety of 
+that group’s policy positions.
+In 2019, Applied paid approximately $540,000 in trade 
+association membership dues, 19% of which was 
+specified by the associations as non-deductible lobbying 
+expenditures. This total does not include conference or 
+event sponsorships, programming activities, or similar 
+costs. Applied Materials reports on federal lobbying 
+through the Lobbying Disclosure Act Database. We file 
+periodic reports with the federal and state agencies as 
+appropriate.
+Our U.S. Trade and Business Associations membership list 
+can be found here.
+CY2019 CY2018 CY2017 CY2016
+T otal value of financial and in-kind 
+contributions to political parties, 
+candidates, and related institutions  
+by Applied Materials $0 $10,000 $5,000 $30,000
+T otal value of financial and in-kind 
+contributions to political parties, 
+candidates, and related institutions  
+by AMPAC $84,000 $47,000 $85,500 $68,500Political Spending Ethical LeadershipSee	our	Sustainability Report 2019 Annex	for	key	quantitative	data	
+compiled	in	accordance	with	the	GRI	and	SASB	frameworks	and	
+standards,	along	with	additional	details	on	our	workforce,	revenues,	
+sales,	stakeholders,	locations,	and	EHS	certifications.
+©  2020 Applied Materials, Inc., Applied Materials and the Applied Materials logo are trademarks of Applied Materials, Inc. and/or its affiliates in the 
+U.S. and other countries. Third party trademarks mentioned are the property of their respective owners.

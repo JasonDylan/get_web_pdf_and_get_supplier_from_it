@@ -1,0 +1,1106 @@
+Environmental, Social 
+& Governance Report
+Year-End 201922Table of Contents
+Priorities  ................................................................ 3
+A Message from Tony Thomas  ......................................... 4
+Our Mission, Vision & Core Values  .................................. 5
+About Windstream  .............................................................. 6
+Community  ............................................................ 7
+Community Engagement & Philanthropy  ...................... 8
+Lifeline Program  ................................................................ 11 
+Data Security and Privacy .................................. 12
+Customer Privacy  .............................................................. 13
+The GDPR & U.S. Law  ...................................................... 14
+PCI DSS Compliance  ........................................................ 15
+HIPAA & HITECH ................................................................ 16
+Environment  ........................................................ 17
+Environmental Compliance  ............................................ 18
+Environmental Stewardship & Sustainability  ............. 19
+Sustainability Efforts – Reduce, Reuse and Recycle  .21
+Living & Sharing Our Values and Expectations  ......... 28Commitment to Our Employees ....................... 29
+Diversity & Inclusion  ........................................................ 30
+Employee Resource Groups  .......................................... 32
+Veteran Employees and Vendors  ................................. 35
+Occupational Health & Safety  ...................................... 38
+Safety Training & Awareness  ......................................... 39
+Health & Wellness  ............................................................ 40
+Governance .......................................................... 42
+Corporate Ethics and Compliance  ............................... 43
+Human Rights  .................................................................... 45
+Anti-Bribery and Fair Competition  ................................ 46
+Political Contributions ..................................................... 47
+Supply Chain ........................................................ 48
+Supplier Diversity .............................................................. 49
+Responsible Minerals Sourcing  ..................................... 50
+Supplier Sustainability Efforts  ........................................ 513
+QUICK 
+NAV
+IN THIS SECTION
+A Message from Tony Thomas  .................... 4
+Our Mission, Vision & Core Values  ............. 5
+About Windstream  ......................................... 6Priorities
+4
+QUICK 
+NAVWindstream is committed to making a positive difference in the 
+world and especially in the communities that we serve. This 2019 
+Environmental, Social & Governance Report highlights some of the 
+efforts we are making across a broad range of issues – including 
+supporting diversity in the workplace and in our supplier chain, 
+protecting the environment, and conducting business with high 
+ethical standards.
+We fully understand that we succeed when our communities 
+are growing and our customers are prospering. As a provider of 
+critical communications and technology solutions, we are used to 
+addressing today’s challenges while planning for long-term success. 
+At the local level, that dual focus leads us to support STEM initiatives 
+that prepare the next generation of innovators, food drives that 
+fight hunger, and conservation programs that protect wild places 
+and creatures.
+At the corporate level, we celebrate the authenticity and uniqueness 
+of our people and their ideas. We are increasing the number of 
+women in customer-facing technician roles and providing them with 
+mentors to ensure their success. Our award-winning program to 
+attract and support military veterans and their spouses recognizes 
+the invaluable skills they bring to our industry. And we are actively 
+seeking diverse job candidates, including men and women of color. 
+We are equally committed to the inclusion of small, minority, 
+veteran and women-owned businesses as part of our supply base. Windstream expects every employee to conduct business in a 
+manner that is ethical and promotes the best interests of all of our 
+stakeholders, including customers and employees. Annual required 
+training reinforces these principles.
+Protecting our customers’ privacy is fundamental to our business, 
+especially as Americans spend more and more of their lives online. 
+As spelled out in our Privacy Statement, we do not sell any 
+customer data to third parties.
+Windstream works to ensure the long-term health of the 
+environment. Our initiatives include promoting energy efficiency, 
+minimizing waste through reduction, re-use and recycling, and 
+strictly complying with all applicable laws and regulations.
+Uniting all of these initiatives is our fundamental drive to be a good 
+corporate citizen. It is an important responsibility as well as a rare 
+opportunity, and we strive every day to give back in meaningful ways 
+to the communities that we are privileged to serve. 
+Thank you for your interest in our efforts.
+A Message from  
+Tony Thomas
+5
+QUICK 
+NAV
+Take ownership . Be responsive 
+and transparent. Fulfill 
+your obligations to your 
+customers, team members  
+and the company .ACCOUNTABILITY
+Be nimble. Seek out 
+opportunities to improve. 
+Think and act in a way that 
+embraces change.
+AGILITY
+Serve others. Cultivate a 
+climate of dignity , trust and 
+respect for all. Consider 
+others’ opinions equal to  
+your own.RESPECT
+ COLLABORATION
+Come together. Work with 
+others to achieve shared 
+goals. Foster an environment 
+of teamwork.CORE VALUES
+OUR MISSION
+OUR VISIONConnect people and empower business  
+in a world of infinite possibilities.
+To provide innovative software and network solutions while 
+consistently delivering an amazing customer experience.6
+QUICK 
+NAV
+About Windstream
+Windstream provides data networking, core transport, 
+security, unified communications and managed services to 
+mid-market, enterprise and wholesale customers across 
+the U.S. The company also offers broadband, entertainment 
+and security services for consumers and small and medium 
+sized businesses primarily in rural areas in 18 states. 
+Windstream services are delivered over multiple network 
+platforms including a nationwide IP network, our proprietary 
+cloud core architecture and on a local and long-haul fiber 
+network spanning approximately 150,000 miles. 
+To accomplish these technological advances, Windstream 
+employs over 11,000 exceptional employees located across 
+the U.S. and Canada. Windstream supports the work/
+life balance of employees by facilitating remote working 
+arrangements for more than 30% of its workforce and 
+maintains several large work locations in various cities 
+including Little Rock, Arkansas, Charlotte, North Carolina, 
+Greenville, South Carolina, Rochester, New York, Hiawatha, 
+Iowa and Twinsburg, Ohio. 
+7
+QUICK 
+NAV
+IN THIS SECTION
+Community Engagement & Philanthropy  .....8
+Lifeline Program  ............................................... 11Community
+8
+QUICK 
+NAV
+At Windstream, we understand the important role 
+we play in society as a corporation. We support 
+various charities and nonprofit organizations 
+throughout our service territory and partner with 
+them to enhance lives and build stronger and 
+more vibrant communities. We support numerous 
+charitable causes, including hunger relief, domestic 
+violence awareness, breast cancer research and 
+STEAM (science, technology, engineering, arts and 
+mathematics) initiatives.
+Additionally, employees from varying organizations 
+across the company volunteer in the company’s 
+Culture Crews to lead activities and events that 
+demonstrate and celebrate our cultural values. We 
+have 19 Culture Crews across the U.S. comprised of 
+180 employees that help coordinate events such as 
+employee picnics and various fundrasiers across our 
+employee base. Employees also coordinate drives for 
+school supplies and food for local pantries.Community Engagement 
+& Philanthropy9
+QUICK 
+NAVGirls Learn Tech Skills at Coding Camp  
+Presented by Windstream
+Sixteen rising eighth- and ninth-grade girls in the University 
+of Arkansas at Little Rock’s Girls Coding Camp learned 
+skills over the summer that will come in handy for future 
+STEM careers. This year’s participants were selected from 
+schools statewide based on essay, grades, test scores, and 
+recommendations. 
+The Girls Coding Camp, made possible with a sponsorship 
+from Windstream, is a one-week annual residential camp 
+that aims to motivate academically prepared females to 
+enter the fields of computer science, information science, 
+or web design. The program is free to participants.
+The campers took a field trip to Windstream’s campus and 
+new Network Lab where they learned how to provision 
+a communication system, participated in binary coding 
+exercises, and toured the lab.
+Sara Lary, manager of the Law Enforcement Support 
+Center at Windstream, led the communication provisioning 
+exercise for the students. “As a parent of a former 
+participant of this camp, I got to witness firsthand how 
+my daughter’s experience sparked a level of confidence, 
+interest and motivation in her education and career path that she didn’t have previously. Once she was given the 
+opportunity to learn cool, relevant things with technology 
+in a healthy environment, she became excited about her 
+future!” 
+ 
+“We can do this for all young girls,” added Lary. “By fostering 
+an interest in STEAM topics at a young age and working on 
+the negative connotations and barriers that girls face today; 
+educators, parents, and mentors can work together to 
+help girls maintain confidence and curiosity in STEAM. We 
+need to keep that enthusiasm going for generations and 
+continue to work to provide more opportunities for young 
+girls to succeed at an early age.”10
+QUICK 
+NAVWindstream Partners with Pack Shack to Fight Hunger
+Windstream, in partnership with our Culture Crews and The Pack Shack, packed 
+more than 200,000 meals in 2019 to donate to local hunger-relief organizations.
+Since 2015, employees have packed approximately half a million meals through 
+“Feed the Funnel” events in partnership with The Pack Shack. 
+Not familiar with The Pack Shack? The non-profit organization was established in 
+2013 to increase awareness about hunger, provide food, and encourage people 
+to get involved with the local nonprofits serving their community. They accomplish 
+their mission of addressing food insecurity by setting up super-fun Feed The 
+Funnel parties that encourage people to come together to sing, dance, and 
+laugh…but more importantly, pack meals. 
+Windstream hosted nine Feed the Funnel parties in 2019 in our largest  
+employee locations.
+Supporting Our Veterans
+Our Veteran Employee Resource Group participates in Toys for Tots, 
+prepares care packages for our deployed Guard and Reserve service 
+members and places flags and wreaths at our military cemeteries. 
+Windstream recognizes Memorial and Veterans Day by hosting special 
+events throughout our footprint.
+11
+QUICK 
+NAV
+Lifeline Program
+We believe it is important for everyone to 
+stay connected. Lifeline is a program of 
+the Federal Communications Commission 
+that helps qualified individuals lower their 
+monthly cost of telecommunications 
+services. Windstream is a participant in this 
+program, and eligible customers can apply 
+their monthly Lifeline discount to either 
+their phone or Internet service. Residents 
+of federally recognized tribal lands may 
+receive an additional reduction. Additional 
+state support may be available, depending 
+on a customer’s location.
+All information about the Lifeline  
+discount program can be found at  
+www.lifelinesupport.org .
+12
+QUICK 
+NAV
+IN THIS SECTION
+Customer Privacy  ........................................ 13
+The GDPR & U.S. Law  ................................ 14
+PCI DSS Compliance  .................................. 15
+HIPAA & HITECH .......................................... 16Data Security 
+and Privacy
+13
+QUICK 
+NAV
+Customer Privacy
+Protecting the privacy of our customers is fundamental 
+to Windstream’s business. In the course of ordering 
+services from us, sending us an e-mail, or responding to 
+a Windstream survey, among other ways, customers may 
+provide personally identifiable information (PII) to us. We 
+want our customers to use our services with confidence, 
+and therefore we employ a number of security 
+techniques designed to protect customer information 
+from unauthorized access. Windstream employees with 
+access to customer information are required to comply 
+with all applicable laws regulating disclosure of such 
+information.
+Windstream’s Privacy Statement describes how we 
+collect information from or about our customers, how 
+we use the information collected, and the choices 
+customers have concerning the collection and use of 
+such information.
+14
+QUICK 
+NAV
+The GDPR & U.S. Law
+The General Data Protection Regulation 2016/679 (GDPR) regulates data 
+protection and privacy for all individual citizens of the European Union and the 
+European Economic Area (EU), as well as the transfer of personal data outside the 
+EU. While there is currently no comprehensive federal law in the U.S. that governs 
+the collection and use of personal data, several states have recently enacted 
+privacy legislation that, in many cases, may resemble the provisions of the GDPR. 
+These state laws provide individuals broad rights with regard to access and control 
+of their personal data and impose new technical and notice obligations on affected 
+businesses that use, process or store such personal data. 
+Windstream is continually investing in our security infrastructure and our 
+Information Security Organization, together with the Legal Department, performs 
+risk assessments for compliance with all applicable privacy laws, identifies 
+compliance gaps to be remediated, and executes on comprehensive remediation 
+plans to ensure compliance within an evolving regulatory landscape. We continue 
+to work diligently toward gaining and maintaining compliance with all applicable 
+privacy laws, as well as enhancing our policies, procedures and training programs 
+to ensure that all Windstream employees understand and adhere to these laws. 15
+QUICK 
+NAV
+PCI DSS Compliance
+Protecting customer credit card data is important to 
+Windstream, as security threats are becoming increasingly 
+sophisticated and severe. Launched in 2006, the Payment 
+Card Industry Data Security Standard (PCI DSS) is a set of 
+security standards designed to ensure that all companies 
+that accept credit cards from one of the 5 members of 
+the Payment Card Industry Security Standards Council 
+(American Express, Discover, JCB, MasterCard and Visa) 
+as payment for goods and/or services maintain a secure 
+environment. Any company that processes, stores or 
+transmits cardholder data is referred to as a “merchant” 
+and must be PCI DSS compliant.
+As a merchant, Windstream maintains PCI DSS compliance 
+when handling our customers’ credit card information should they choose to pay for services with a credit 
+card, and we require PCI DSS compliance of any vendor 
+processing, storing or transmitting or impacting the 
+security of the cardholder data environment of our 
+customers as part of the services they provide to us. 
+Additionally, Windstream offers services to assist our 
+business customers in achieving and maintaining their 
+own PCI DSS compliance by helping identify gaps for 
+remediation, and providing added network security and 
+ongoing business support. We are also able to provide 
+Attestation of Compliance (AOC) reports covering certain 
+Windstream services to business customers that are using 
+one of those services and are required to demonstrate 
+their own PCI DSS compliance as a merchant.16
+QUICK 
+NAVFor our healthcare customers, we know protecting 
+sensitive patient data is vital. With the Health Insurance 
+Portability and Accountability Act of 1996 (HIPAA) Final 
+Omnibus Rule, the U.S. Department of Health and Human 
+Services set the standard for protecting sensitive patient 
+data, referred to as “protected health information” (PHI). 
+Additionally, the Health Information Technology for 
+Economic and Clinical Health Act (HITECH) addresses 
+privacy and security concerns associated with the 
+electronic transmission of health information. Service 
+providers that provide transmission services to healthcare 
+entities subject to HIPAA, including temporary storage 
+of PHI incidental to the transmission services, are not 
+required to comply with HIPAA’s requirements. However, 
+this doesn’t mean that Windstream doesn’t take steps to 
+ensure such information is protected. Should customers provide PHI to Windstream, or we 
+otherwise obtain access to such information in the course 
+of providing services to our customers, we commit to 
+not using, disclosing, selling or renting PHI to any third 
+party without our customers’ consent, except to the 
+extent we are required by law to disclose it. Additionally, 
+Windstream’s OfficeSuite UC® product has achieved 
+HIPAA and HITECH compliance, and healthcare customers 
+using OfficeSuite UC can leverage our compliance report, 
+“Opinion on the Design & Operating Effectiveness of 
+HIPAA and HITECH Controls over OfficeSuite Services”, as 
+part of their overall compliance strategy. We also work 
+closely with customers who request a Business Associate 
+Agreement (BAA) to confirm compliance with the HIPAA 
+requirements, and will agree to execute a BAA when 
+appropriate.
+HIPAA & HITECH17
+QUICK 
+NAV
+IN THIS SECTION
+Environmental Compliance  .............................................. 18
+Environmental Stewardship & Sustainability  ............... 19
+Sustainability Efforts – Reduce, Reuse and Recycle  ...21
+Living & Sharing Our Values and Expectations  ........... 28Environment
+18
+QUICK 
+NAV Windstream is dedicated, and has strong desire, to be above the curve when it comes to environmental 
+performance, not just minimally compliant.
+ Windstream maintains an inventory database of all assets (such as generators, fuel tanks, boilers, and batteries 
+located at Windstream facilities) potentially subject to EPA regulation. This database also includes permits, 
+inspections, and other pertinent environmental information for tracking and monitoring to ensure compliance. 
+In addition, Windstream completes approximately 800 Emergency Planning and Community Right-to-Know Act 
+(EPCRA) filings annually to ensure compliance of all reportable Windstream facilities with federal, state, and local 
+regulations.
+ 
+With respect to final storage tank compliance, Windstream maintains a robust inspection program for leak 
+detection and walk-through inspections in compliance with federal guidelines. The leak detection procedures 
+were implemented well in advance of the federal deadline. To provide enhanced protection, we are in the process 
+of implementing a centralized monitoring system for all tanks and replacing aging underground storage tanks 
+(UST) with more environmentally conscience solutions. Windstream maintains Spill Prevention, Control, and 
+Countermeasure (SPCC) plans for all applicable sites that are renewed every 5-years.
+ As a result of Windstream’s preventive stance toward compliance, Windstream has not had any significant chemical 
+spills and only minor environmental violations. As reflected by our actions and results, Windstream is dedicated 
+and has a strong desire to be above the curve, not just minimally compliant for environmental related issues. 
+Environmental Compliance19
+QUICK 
+NAV
+Windstream is committed to environmental stewardship. We believe that corporations have a significant role to play 
+when it comes to reducing our society’s environmental impact to our planet. At Windstream, sustainability efforts are an 
+obligation, not a choice. Our corporate sustainability program combines common sense strategies with more ambitious 
+long-term initiatives to continuously become more resource-efficient. This approach allows us to make improvements 
+while balancing the needs of our customers, employees and shareholders.
+To hold ourselves accountable, set goals and measure our performance, we began voluntarily participating in CDP’s 
+global environmental disclosure system in 2008. CDP, formerly known as the Carbon Disclosure Project, is a not-profit 
+organization that operates a disclosure system for investors, companies, cities, states and regions to manage their 
+risks and opportunities on climate change, water security and deforestation. CDP’s aim - and Windstream’s - is to make 
+environmental reporting and risk management a business norm, and drive disclosure, insight and action towards a 
+sustainable economy.
+Environmental Stewardship  
+& Sustainability20
+QUICK 
+NAVBuilding & Other  
+10,794 | 3%
+Vehicle Fuels  
+49,824 | 13%
+Electricity  
+325,553 | 84%
+Windstream is currently reviewing opportunities for independent external assurance of greenhouse gas 
+(GHG) emmissions and carbon intensity. Our 2019 restults will be shared later in 2020.All direct sources of emissions owned or controlled 
+by Windstream, with the main categories being fuel 
+to power our fleet, heat our buildings and power 
+back-up generators.
+Indirect emissions sources generated offsite, but 
+purchased by Windstream. The main category is 
+electricity to power our networks and data centers, 
+plus a small amount of steam and heat purchased to 
+heat our buildings.
+Emissions from corporate business travel (air and 
+rail) based on travel reservations.21
+3SCOPE OVERVIEWCO2e Metric Tons (MT)
+Emmissions 2017 2018 2019% Change 
+2018-2019
+Scope 1 62,810 64,239 60,618 -5.9%
+Scope 2 331,537 334,776 325,554 -2.7%
+Total 1 & 2 394,347 399,015 386,171 -3.2%
+Scope 3*— — — —
+Emissions: Breakdown by Scope 
+Emissions Profile 2019  
+(CO2e metric tons)
+*2019 GHG emissions and carbon intensity totals subject to adjustment through additional review and    
+  external assurances.  21
+QUICK 
+NAV Business Travel
+ Windstream was an early provider and adopter of Unified 
+Communications as a Service (UCaaS) solutions, which supports 
+a geographically dispersed workforce with video and voice 
+conferencing and chat functions. Leveraging our own OfficeSuite® 
+UCaaS solution, we’ve reduced corporate business travel by 44% 
+through 2019 . We continue to quantify the effect of UCaaS on our 
+environmental impact and are excited to share those results in 
+future disclosures.
+Sustainability Efforts –  
+Reduce, Reuse and Recycle22
+QUICK 
+NAV Real Estate
+  Increased adoption and use of UCaaS solutions internally has also allowed us to reduce our real estate footprint by 
+increasing the number of our associates working remotely from home. This, coupled with a strategic rationalization 
+initiative led by our Corporate Real Estate team, has allowed us to consolidate and reduce the number of 
+facilities we lease and own by 32% since 2017, equal to a 36% reduction in rentable square feet (RSF) by 
+the end of 2019.
+ 
+ Windstream IT and Network Real Estate continues to leverage new technologies with improved energy efficiencies 
+and optimization to improve operations and footprint. Since 2018, we’ve consolidated network operations & Data 
+Center locations by 59 facilities. The combined improvements equate to a target  reduction of 17,610 Mwh of 
+electricity, or 2.3% carbon emission reduction of our total Scope 2 into 2020.
+ The benefits of a smaller footprint include reductions in the miles driven, and gallons of fuel consumed by our 
+employees who no longer commute to an office, elimination of the electricity needed to power and heat those 
+buildings, and the water and chemicals consumed to clean and maintain the facilities and landscaping.
+ The combined efforts in Real Estate and Network is expected to reduce Scope 2 emissions by 3.5%, or 26,847 Mwh 
+of electricity.
+Real Estate  
+Facility ReductionsNetwork  & DCs  
+Facilities ReductionsEstimated Electrical 
+Reduction (Mwh)Estimated Carbon 
+Reduction (MT CO2)
+2018 35 25 7,063 3,656
+2019 62 34 19,784 10,243
+26,847 13,89923
+QUICK 
+NAV Fleet
+ Windstream has reduced the size of its fleet by 13% and replaced 
+54% of our vehicles since 2014  that are, on average, 10-15% more fuel 
+efficient. We have also established a 2025 goal to improve fuel efficiency 
+by 20%, to be accomplished by optimizing our assets for the roles they 
+perform, including a continued shift from V8 to V6 engines for a portion 
+of our fleet. As we replace aerial lifts, we are including systems that 
+run solely on electric power or allow alternative powering sources so 
+technicians can operate the vehicle without running the main engine, 
+reducing idling. 
+ Additionally, our Field Operations teams have invested in new smartphone application technologies that allow 
+technicians to communicate directly with customers, improving installation windows and shortening routes with 
+improved turn-by-turn directions. Windstream is also hyper-focused on reducing truck rolls by investing in new 
+solutions that allow for better remote diagnostics and repairs, and on solutions that allow our customers to self-
+install next generation modems. 
+Goal Improve fuel efficiency by 
+20% 
+by 202524
+QUICK 
+NAVBusiness Travel
+44% ReductionReal Estate 
+36% Reduction in 
+Rentable RSFFleet 
+13% Reduction Paper
+59% Reduction Reduce Paper & Printers
+ Across all of Windstream, we have reduced printed materials by more 
+than 59% since 2016 , and our goal is to achieve a 75% reduction by 2025. 
+As we reduced and refreshed our printer counts, we did so with more 
+energy efficient multi-function machines, and reset the printer defaults to 
+double-sided and black-and-white print.
+ Next Generation Equipment & Solutions
+ Windstream has, and will continue to, explore and test new technologies that both improve our network performance 
+and customer experience, AND reduce our environmental impact. Examples of our past and on ongoing efforts 
+include:
+• A 40% reduction in energy consumption for our next generation core router solution
+•  Installation and testing of new products for HVAC systems to boost efficiency and reduce overall electricity 
+consumption 
+•  Conducting solar trials in Texas to power certain gear and elements of our network
+•  Examining the benefits of a shift to natural gas and propane fired generators versus diesel to reduce the stationary 
+combustion component of our CDP disclosure
+•  Running low voltage for remote switch in lieu of having a powered meter at a central office/hut on the side of the 
+road
+•  Creating business cases for the increased use of LED lighting in our warehouses and facilitiesPaper Reduction Goal 
+75% 
+by 202525
+QUICK 
+NAV
+Refurbishing , Redeploying & Reusing Equipment & Materials to 
+Avoid Waste
+At Windstream, we believe that we have an obligation to avoid waste.  
+Not only is this a good business practice that directly benefits our 
+customers and stakeholders, but it also decreases our environmental 
+impact by reducing landfill and carbon emissions.  Here are some 
+highlights from our recent efforts:
+ Modems 
+ New supply chain software and processes have allowed Windstream 
+to not only reduce overall modem shipments by 11% through 
+tighter inventory management, but to repair and refurbish returned 
+modems and redeploy them. This, coincidentally, has resulted in 11% 
+of our 2019 modem deployments being “redeployments” using 
+this refurbished equipment
+26
+QUICK 
+NAV Network Equipment & Sparing Hardware
+ As Windstream continues to invest in network improvements, we are upgrading and/or decommissioning some 
+of our locations.  Project Harvest was launched to ensure we refurbished and redeployed equipment from these 
+locations.  Through 2019, we have successfully recovered over 45k units and redeployed or repurposed over 
+9,800  pieces of network equipment
+ Pallets & Packing Materials
+ Despite a 20% rise in shipments in 2019 tied to increased investments in our Kinetic business unit around 
+broadband, fixed-wireless, and fiber-to-the-premise solutions, our Warehouse teams have reduced our 
+consumption of new materials by reusing those coming inbound to properly pack and ship outbound freight. 
+Through 2019, new pallets are down 3%, product packaging is down 45% and shipping supplies are down 17% 
+from the previous year.
+27
+QUICK 
+NAVRecycling  What We Cannot Reuse Ourselves
+When we cannot reuse, we recycle.  Our objective is to divert customer 
+modems, set-top boxes and other electronic devices from landfills, 
+either to be used by someone else or recycled.  We also seek to 
+properly dispose of and recycle network equipment, batteries, poles, 
+scrap metal and other internal supplies.
+Windstream launched a Consolidated Waste Program with a third-
+party solutions provider in 2018 designed to help us improve our 
+sustainability reporting in this area, improve our practices, take 
+advantage of more recycling opportunities, and ensure we continue to 
+meet or exceed regulatory mandates and requirements.  
+ Over the past three years, Windstream has avoided sending 39,000 
+e-waste assets to the landfill, equivalent to 276,000 pounds of 
+equipment, 43% of which was reused and 56% recycled, avoiding 
+70,000 pounds of hazardous waste being send to landfills.
+ We have been able to recycle more than 6,000 pieces of network 
+gear and electronics through enhanced supply chain visibility and 
+Project Harvest by selling this unneeded gear to other companies in 
+the gray market.  
+28
+QUICK 
+NAVIn 2015, Windstream launched a dedicated program to help 
+employees expand their understanding of sustainability and their 
+responsibilities, and contribute and participate in our journey.  The 
+BGreen program includes an online social area where employees 
+can share suggestions, success stories, information on local 
+sustainability events, generate and facilitate greater program 
+awareness and interest, and volunteer to help.
+Living & Sharing Our Values 
+and Expectations 29
+QUICK 
+NAV
+IN THIS SECTION
+Diversity & Inclusion  .................................... 30
+Employee Resource Groups  ...................... 32
+Veteran Employees and Vendors  ............. 35
+Occupational Health & Safety .................... 38
+Safety Training & Awareness  ..................... 39
+Health & Wellness  ........................................ 40Commitment  
+to Our  
+Employees
+30
+QUICK 
+NAVAt Windstream, we are embracing the challenge to 
+advance our diversity and inclusion. Windstream’s leaders 
+are tasked with managing a diverse, mobile and multi-
+generational workforce. To recruit top talent, we embrace 
+and promote a culture of inclusion and civility. This means 
+taking affirmative steps to create a workplace free of 
+discrimination, harassment and retaliation. 
+In March, Windstream proudly accepted the inaugural 
+Olivia Farrell Gender Equity Leadership Award for our 
+efforts to foster equality in the workplace. The award was 
+presented to Windstream at the 31st annual Arkansas 
+Business of the Year awards dinner.Windstream has a Diversity and Inclusion Strategic Council 
+led by CEO Tony Thomas and our Senior Leadership 
+Team. The goal of the Strategic Council is to prioritize the 
+company’s diversity and inclusion efforts, raise awareness 
+throughout the organization and educate leaders and 
+employees on its importance.
+Windstream’s Diversity & Inclusion Operational Committee 
+fulfills the goals and practices set forth by the Strategic 
+Council. The Committee consists of a diverse group of 
+25 employees who possess a wide range of industry and 
+leadership experience. Of the 25 Operational Committee 
+members, 19 are female and nine are ethnically diverse. Windstream’s Statement on Diversity & Inclusion (D&I): 
+Connecting people in a world of infinite possibilities. At Windstream, we celebrate the authenticity and 
+uniqueness of our people and ideas. The diverse voices of our employees fuel our innovation and the 
+inclusive culture we are building empowers each one of us to create amazing customer experiences. 
+Diversity & Inclusion 31
+QUICK 
+NAVThe Operational Committee diligently works to reach the 
+goals set forth by the Strategic Council. The Committee’s 
+priorities for 2019 have included the reinvention of 
+Windstream’s D&I Statement, a focused effort on 
+increasing women in technician positions, the expansion 
+of the Women of Windstream (WOW) program, targeted 
+talent acquisition plans and training and awareness 
+on unconscious biases. These activities are reported 
+quarterly to the Governance Committee of the Board of 
+Directors. Current activities include: 
+ Providing managers with a D&I Toolkit to help them 
+speak to the company’s initiatives and actively support 
+them;
+ Increasing the number of women in customer service 
+technician roles and providing them with mentorship 
+to ensure success; Providing networking and leadership training 
+opportunities for women across the company; 
+ Advertising Windstream careers in minority-focused 
+print publications; and
+ Ensuring that Windstream careers are posted on 
+websites that target a diverse audience
+We expect our efforts to grow the current 17% diverse 
+employee base by attracting a more diverse applicant 
+pool and improving our female representation beyond 
+the current 31%. In fact, in the second quarter of this 
+year, hiring outpaced the employee base in both diversity 
+(28%) and female hires (39%). We strive to continue 
+this positive trajectory and are working hard to assure 
+everyone feels included, valued, and respected at 
+Windstream.
+32
+QUICK 
+NAV
+Employee Resource Groups
+Employee Resource Groups Support Inclusion in the Workplace 
+Windstream currently has three internal Employee Resource Groups (ERGs).  Our Veteran Employee Resource 
+Group (VERG) assists veterans and veteran spouses, our Women of Windstream (WOW) group supports women 
+in the workplace, and our WINPride group supports LGBTQ+ employees within Windstream.
+WINDSTREAM
+EMPLOYEE RESOURCE GROUPS
+VERGVERG
+VETERAN EMPLOYEE □
+RESROUCE GROUPPRIDEPRIDE
+WINDSTREAM LGBTQ+ EMPLOYEE □
+RESOURCE GROUP
+WINDSTREAM BLACK □
+PROFESSIONALS NETWORKWBPNWBPN
+WOMEN OF WINDSTREAM
+WOWWOWWINDSTREAM
+EMPLOYEE RESOURCE GROUPS
+VERGVERG
+VETERAN EMPLOYEE □
+RESROUCE GROUPPRIDEPRIDE
+WINDSTREAM LGBTQ+ EMPLOYEE □
+RESOURCE GROUP
+WINDSTREAM BLACK □
+PROFESSIONALS NETWORKWBPNWBPN
+WOMEN OF WINDSTREAM
+WOWWOWWINDSTREAM
+EMPLOYEE RESOURCE GROUPS
+VERGVERG
+VETERAN EMPLOYEE □
+RESROUCE GROUPPRIDEPRIDE
+WINDSTREAM LGBTQ+ EMPLOYEE □
+RESOURCE GROUP
+WINDSTREAM BLACK □
+PROFESSIONALS NETWORKWBPNWBPN
+WOMEN OF WINDSTREAM
+WOWWOW33
+QUICK 
+NAV
+Women of Windstream (WOW)  
+Mission: To connect and empower women by creating an inclusive environment 
+for forming supportive relationships and realizing career enhancing experiences. 
+Windstream’s Women of Windstream (WOW) program is designed to recruit, retain, 
+promote, develop and to support Windstream’s women both professionally and personally.
+WOW provides quarterly opportunities for networking, mentorship, professional and 
+personal growth for women across the company. WOW also sponsors attendance to an 
+Arkansas women’s leadership conference, which gives female employees the ability to 
+further develop leadership skills. We host virtual and live events featuring female leaders within the company, including 
+members of Windstream’s Board of Directors, that provide insights into work/life balance and career advice, among 
+other topics. Our goal is to create a community where women can connect and learn from the experience of others.WINDSTREAM
+EMPLOYEE RESOURCE GROUPS
+VERGVERG
+VETERAN EMPLOYEE □
+RESROUCE GROUPPRIDEPRIDE
+WINDSTREAM LGBTQ+ EMPLOYEE □
+RESOURCE GROUP
+WINDSTREAM BLACK □
+PROFESSIONALS NETWORKWBPNWBPN
+WOMEN OF WINDSTREAM
+WOWWOW34
+QUICK 
+NAVWIN Pride                                             
+Mission: The Windstream Pride employee resource group seeks to increase 
+LGBTQ+ cultural awareness to foster an environment of inclusion for all 
+Windstream Employees. The ERG provides a venue for networking, socialization, 
+professional development, and discussion of LGBTQ+ issues and concerns. WIN 
+Pride encourages and assists Windstream in its efforts to achieve greater market 
+share among the LGBTQ+ community.
+Veteran Employee Resource Group (VERG)                          
+Mission: Windstream’s Veteran Employee Resource Group (VERG) program is 
+designed to support Windstream’s initiative regarding outreach, recruitment, and 
+retention efforts in the military and veteran communities. Our mission is to be 
+the pillar for our veterans, military spouses and active Guard & Reserve members; 
+by providing networking opportunities, empowering information, and career 
+development that equips each individual to excel in their new career paths.
+A detailed onboarding program outlines what occurs within the first 30, 60, 90 days of 
+employment so employees know what to expect as a Windstream new hire. The VERG 
+provides a road map to success agreed to by both the recently hired veteran employee and their first line supervisor, 
+with touch points in place to monitor the progress of the new hire, and a mentor is assigned to help guide them 
+through the integration process. The VERG also hosts orientation for all newly hired veterans and veteran spouses. 
+The VERG works to ensure that every new veteran and veteran spouse feels welcomed and set up for success at 
+Windstream. WINDSTREAM
+EMPLOYEE RESOURCE GROUPS
+VERGVERG
+VETERAN EMPLOYEE □
+RESROUCE GROUPPRIDEPRIDE
+WINDSTREAM LGBTQ+ EMPLOYEE □
+RESOURCE GROUP
+WINDSTREAM BLACK □
+PROFESSIONALS NETWORKWBPNWBPN
+WOMEN OF WINDSTREAM
+WOWWOW
+WINDSTREAM
+EMPLOYEE RESOURCE GROUPS
+VERGVERG
+VETERAN EMPLOYEE □
+RESROUCE GROUPPRIDEPRIDE
+WINDSTREAM LGBTQ+ EMPLOYEE □
+RESOURCE GROUP
+WINDSTREAM BLACK □
+PROFESSIONALS NETWORKWBPNWBPN
+WOMEN OF WINDSTREAM
+WOWWOW35
+QUICK 
+NAVAt Windstream, we walk the talk when it comes to hiring veterans, veteran spouses and veteran-
+owned businesses, and Windstream has been consistently recognized for our veteran friendly 
+approach.  Here are some of our recent accolades:
+2020 Military Friendly Employer Gold Certification – Windstream was recognized as #6 in 
+the top 10 employers for our commitment to veterans and members of the armed forces through 
+recruitment and support programs. In 2019 we received Gold level recognition as #8 in the top 10 
+employers. In 2018 we received Gold level recognition as #2 in the top 10 employers.
+2020 Military Friendly Spouse Employer – Windstream was ranked #3 as a Military Friendly 
+Spouse Employer for our commitment to military spouses and promoting workforce development 
+policies that acknowledge the unique challenges of military life and skills learned through those 
+challenges.
+2019 Best for Vets, US Veterans Magazine – Windstream was named one of the Top Veteran-
+Friendly Companies by U.S. Veteran’s Magazine for the third straight year for our efforts in hiring and 
+retaining veterans.
+U.S. Veterans Magazine polled hundreds of Fortune 1000 companies for this year’s Best of the Best 
+evaluations. The annual review is an evaluation of the nation’s employers, initiatives, government 
+agencies and educational institutions. These non-biased studies are valuable resources for 
+jobseekers, business owners, students, consumers, senior management, business associations, 
+employment agencies and consumer groups.
+Veteran Employees  
+and Vendors36
+QUICK 
+NAV2019 DOL Hire Vets Medallion Platinum Award  – Windstream won the Platinum award 
+in 2019 and Gold for 2018. In 2019, Windstream ranks among the 239 award recipients 
+ranging from small businesses and community-based non-profits to leading Fortune 500 
+companies from 42 states, the District of Columbia, and Puerto Rico. Recipients demonstrated 
+a commitment to veteran hiring and retention, and provided veteran-specific resources, 
+leadership programming, dedicated human resources, and compensation and tuition 
+assistance programs, according to the Department of Labor. The HIRE Vets Medallion Program 
+is the only federal-level award that recognizes job creators who successfully recruit, hire, and 
+retain America’s veterans.
+2019 Military Times Best for Vets  – Windstream was recognized among the Best for Vets 
+Employers, #15, based on recruiting strategies and hiring of military personnel, veterans, and 
+their families, as well as company culture and policies supporting valued veterans. In 2018 
+Windstream was #12 and in 2017 Windstream was #14.
+2020 Military Friendly® Supplier Diversity Award  – Windstream was among 91 companies 
+identified that demonstrate their commitment to the veteran community by the extent to which 
+they include veteran owned businesses in their supplier diversity programs. These corporations 
+are eager to do business with entrepreneurs because it is good for their own bottom line.
+ 
+The Military Friendly Supplier Diversity Program list is created each year based on extensive 
+research using public data sources for more than 8,800 employers nationwide, and responses 
+to the proprietary, data-driven Military Friendly® Companies survey from participating 
+companies.
+37
+QUICK 
+NAVThe survey questions, methodology, criteria, and weighting were developed with the assistance of 
+an independent research firm. Ernst & Young, a global leader in assurance, tax, transaction, and 
+advisory services, independently evaluated the scoring methodology used for the Military Friendly 
+Supplier Diversity Program list using the criteria set forth by VIQTORY. The services performed by 
+Ernst & Young are limited to advisory procedures and do not provide assurance over the scoring 
+methodology.
+2020 Military Friendly® Company – Windstream was selected for the first time as a 2020 
+Military Friendly® Company List by VIQTORY. Companies on the list are considered by VIQTORY to 
+provide the best opportunities for veterans and military spouses. The Military Friendly Company 
+list is based on extensive research using public data sources and responses to the proprietary, 
+data-driven Military Friendly Employers, Spouse, Supplier Diversity and Brands survey from all 
+participating companies.
+This year, Windstream was included in three of the four Military Friendly lists: Military Friendly 
+Employer (#6), Military Friendly Spouse Employer (#3), and Military Friendly Supplier Diversity 
+Program. As a result, Windstream qualified for the 2020 Military Friendly Company list.
+38
+QUICK 
+NAV
+Occupational Health & Safety
+Occupational Health and Safety 
+Windstream provides a safe, healthy, and alcohol- and 
+drug-free work place for its employees and for visitors to 
+Windstream’s facilities. We are committed to complying 
+with all applicable environmental laws and regulations. 
+Employees are trained to identify and immediately report 
+unsafe or hazardous conditions or suspected violations 
+of the law, and are expected to follow all applicable safety, 
+health, and environmental laws, as well as any related 
+Windstream policies.
+Environmental, Health & Safety (EH&S) Committees in 
+our local offices play an important role in keeping our 
+workplace safe. These Committees provide opportunities 
+for employees and management to provide feedback on 
+local safety related problems and weigh in on resolution of those problems. Each Committee selects a Safety 
+Representative who meets on a monthly basis with the 
+Corporate EH&S team to provide updates on items 
+such as accidents and injuries in the local office, safety 
+awareness, training initiatives, and equipment issues.
+Additionally, each facility participates in the development 
+and implementation of their own sites’ specific emergency 
+procedures based on guidelines from the corporate 
+Emergency Action Plan (EAP). Facility managers and 
+employees adopt steps to ensure safe evacuation of 
+employees and visitors in the event of actual emergencies. 
+Responsible parties are identified, based on facility 
+needs and periodic evacuation drills are held to ensure 
+understanding of individual roles and compliance with 
+conforming standards.39
+QUICK 
+NAV
+Safety Training
+and Awareness
+ Windstream’s EH&S and Risk Management teams continually 
+provide guidance on safety policies and procedures. Our overall 
+plan of action is to continuously improve and implement change 
+that will result in an enhanced safety environment and reduce 
+incidents. The goal is to provide effective safety training courses 
+to ensure employees are protected from injuries and prevent 
+incidents. To achieve this goal, Windstream employees receive over 
+45,000 hours of safety and environmental related training annually. 
+Windstream is committed to the safety of our employees and we 
+expect our employees to share in this commitment.
+“In 2018-2019, we implemented a program to identify and 
+reduce ladder weight. The EH&S team worked diligently to 
+identify industry ladders that would perform the desired 
+function at reduced weight. By providing lower weighted 
+ladders to our employees, we expect to improve their day-
+to-day work environment and reduce the frequency and 
+severity of ladder related injuries.”40
+QUICK 
+NAV
+Health & Wellness
+In addition to providing a comprehensive benefits package to employees that includes medical, dental, vision, 
+Health Savings and Flexible Spending accounts, life insurance, disability benefits, maternity and paternity 
+leave benefits, and a 401(k) retirement plan with company matching contributions, Windstream supports the 
+overall health and well-being of our employees with a full menu of activities and resources to assist them with 
+maintaining and improving their overall health. 41
+QUICK 
+NAVEmployees can take advantage of the following ongoing wellness programs:
+Tobacco Cessation  The Magellan Clickotine program offers app and coaching based tobacco cessation support. 
+Tobacco cessation supplements are also included in the medical plan. Visit MagellanAscend.com for more information 
+and to register.
+Windstream’s Employee Assistance Program (EAP) Windstream offers an Employee Assistance Program through 
+Magellan. From online information to confidential consultations with licensed behavioral health professionals, employees 
+and their families have access to a wealth of practical, solution-focused resources to help them reduce stress, strengthen 
+relationships, increase productivity and improve quality of life.
+Progyny Progyny specializes in offering families a variety of options for infertility treatment – with proven success. With 
+over 450 clinics, Progyny offers a wide network of specialists.
+Weight Watchers Windstream partners with Weight Watchers® to change employees’ relationship with food, for good. 
+Try their proven weight-loss approach and powerful group support at a 50% discount. Windstream will pay half the 
+membership cost of online access or online plus in-person meetings (meetings available to those living in non-franchise 
+locations). Weight Watchers is a validated program and approach that supports millions of people in their weight 
+management goals. 
+Livongo Livongo offers assistance for members seeking support for diabetes, hypertension and weight management. 
+These programs are available at no cost to medically enrolled employees and spouses who meet clinical requirements.  
+Participants receive the Latest Technology to Simplify Living with Diabetes including the Livongo connected glucometer 
+blood pressure cuff, and scale which automatically upload readings, making log books and sync cables a thing of the 
+past.  Livongo enrollees also receive real-time support from coaches that includes personalized support provided from 
+the Livongo mobile app, secure website, and certified diabetes educators.  Participants also benefit from unlimited test 
+strips at no cost that are shipped directly to the employee’s home with the click of a button.42
+QUICK 
+NAV
+IN THIS SECTION
+Corporate Ethics and Compliance  ........... 43
+Human Rights  ................................................ 45
+Anti-Bribery and Fair Competition  ............ 46
+Political Contributions ................................. 47Governance
+43
+QUICK 
+NAVIntegrity is one of our most valuable assets. Windstream is committed to 
+conducting business in a manner that is ethical and promotes the best interests 
+of its stakeholders, employees, and customers and complying with all applicable 
+laws and regulations. Windstream expects every employee and member of the 
+Board of Directors to be ethical and honest, comply with the law, and avoid any 
+appearance of impropriety or conflict of interest. Understanding, embracing 
+and performing our individual jobs in compliance with laws, regulations and 
+our policies is not only the right thing to do, but it also has a real impact on our 
+financial performance and the character of our organization. 
+Our Working with Integrity  Guidelines (the “Guidelines”) are the foundation 
+of our Ethics and Compliance Program, and provide a basic road map to assist 
+employees and board members in identifying activities and behaviors that 
+are appropriate in important areas of business conduct. Windstream expects 
+employees, and employees have an obligation, to uphold and carry out our 
+commitment to lawful and ethical business conduct at all times. The Guidelines 
+build on our cultural beliefs by outlining expected ethical behaviors for our 
+employees, board members, and other company representatives. Annual 
+Working with Integrity  training required of all employees reinforces the principals 
+outlined in these Guidelines.
+Corporate Ethics
+and Compliance44
+QUICK 
+NAVOther policies supplement the Guidelines. Every 
+Windstream employee (as well as third-party consultants, 
+agents, independent contractors, subcontractors, and 
+partners) who serve government clients are responsible 
+for understanding the legal requirements and restrictions 
+that apply to their work, and must strictly adhere to 
+the principles contained within our Code of Business 
+Ethics and Conduct in Governmental Contracting . 
+Additionally, Windstream’s Supplier Code of Ethics 
+provides basic guidelines to assist suppliers in meeting our 
+expectations that suppliers be ethical and honest, comply 
+with all laws and regulations, and avoid the appearance of 
+impropriety and conflicts of interest. 
+Windstream’s Chief Compliance Officer leads our Ethics 
+and Compliance function and reports directly to the Audit 
+Committee of the Board of Directors, with administrative 
+reporting to the company’s Chief Financial Officer. The Audit 
+Committee has risk oversight responsibility for ethics and 
+compliance for the company. 
+One of the most important responsibilities Windstream 
+employees have is the obligation to report possible 
+workplace violations of law or the guidelines. Windstream 
+encourages employees to fulfill this responsibility and to 
+seek advice when in doubt about the best course of action 
+in a particular situation. We offer several alternatives for obtaining compliance advice and reporting possible 
+violations of applicable law or these guidelines, including 
+the Working with Integrity  helpline and website, which are 
+staffed by an independent third party twenty-four hours per 
+day, seven days a week. Employees may report violations 
+anonymously and Windstream prohibits any employee from 
+taking retaliatory action against anyone for making a good 
+faith report or assisting in an investigation of a possible 
+violation. 
+Information reported is promptly transmitted to 
+Windstream and investigated. Windstream maintains a 
+case management system, and when a matter is reported 
+to the helpline or website, it is assigned a unique tracking 
+number that enables the individual to receive updates on 
+the complaint or provide additional information. 
+All ethics investigations are managed by the Ethics and 
+Compliance function and examination results are reported 
+on a quarterly basis to the Audit Committee, as well as the 
+company’s Compliance Committee, which is comprised 
+of the Chief Compliance Officer, Chief Financial Officer, 
+General Counsel and Chief Human Resources Officer. 
+Windstream’s Working with Integrity  Helpline  
+1-888-898-3990. Windstream’s Working with Integrity  
+Website www.tnwgrc.com/webreport .45
+QUICK 
+NAV
+Human Rights
+A commitment to human rights can be found throughout the Guidelines, as well as the Supplier Code of Ethics. The 
+Guidelines address topics such as customer and employee privacy, diversity and inclusion, health and safety and 
+harassment in the workplace. Further, we expect our suppliers to treat their employees with respect and dignity and 
+not to use corporal punishment, threats of violence, physical abuse or other forms of physical coercion, harassment 
+or intimidation. Suppliers’ employment, wage and benefits practices should not be based upon grounds of sex, race, 
+age, color, religion, national origin, marital status, veteran status or disability, in accordance with state and federal 
+law. Windstream also expects suppliers to respect the legal rights of their employees to join or not to join worker 
+organizations, including trade unions or similar external representative organizations. Suppliers must implement hiring 
+practices to accurately verify the age of all workers and workers’ legal right to work prior to employment.
+46
+QUICK 
+NAV
+Windstream prohibits any offer, payment, 
+promise, or gift that is intended or appears 
+to influence any person or entity to award 
+business opportunities to Windstream or to 
+make a business decision in Windstream’s 
+favor. In accordance with the Guidelines 
+and Supplier Code of Ethics, employees and 
+suppliers are required to comply with all 
+applicable anti-bribery ad anticorruption laws 
+of the United States, including the Foreign 
+Corrupt Practices Act, and countries in which 
+operations are being conducted. Additionally, as 
+a government contractor, it is important that we 
+conduct business with government entities in 
+compliance with applicable laws and regulations; 
+accordingly, Windstream prohibits employees 
+from giving anything of value to government 
+employees and officials for any reason.
+Anti-Bribery and
+Fair Competition47
+QUICK 
+NAVWindstream encourages employees to participate in the 
+political process by voting or otherwise being involved 
+in political activity. Windstream maintains a political 
+action committee, known as WINPAC, for the purpose of 
+supporting political candidates and issues that support 
+and advance Windstream’s business interests, and eligible 
+employees have the opportunity to make voluntary 
+contributions to WINPAC. 
+Windstream is committed to transparency in its political 
+activity. Our Political Spending Policy is available on the 
+Investor Relations page of our corporate website, along 
+with an accounting of Windstream’s efforts, and is updated 
+annually. Additionally, we comply with federal and state 
+regulatory reporting requirements, including required 
+filings made with the Federal Election Commission and 
+analogous state entities. This information is supplemented 
+by disclosures on the Investor Relations page, offering 
+stakeholders and the public a comprehensive view of 
+Windstream’s political activity.
+Political Contributions48
+QUICK 
+NAV
+IN THIS SECTION
+Supplier Diversity .......................................... 49
+Responsible Minerals Sourcing  ................. 50
+Supplier Sustainability Efforts  .................... 51
+ Supply Chain
+49
+QUICK 
+NAVAt Windstream, we value the diversity of our customers, 
+employees and suppliers who are key partners
+in our success. Windstream is committed to the inclusion 
+of small, minority, veteran, women and LGBTQ-owned 
+businesses in our supply base. We believe that diverse and 
+small businesses contribute capabilities to Windstream 
+that make us a leader in the telecommunications industry, 
+and we believe our supply base should reflect the 
+communities and customers we serve.
+Our Supplier Diversity Program promotes the 
+development of small, minority, veteran, service 
+disabled veteran, HUBZone, 8(a), LGBTQ and women-
+owned businesses, with the goal of empowering 
+these organizations to be better able to compete with 
+other established companies for supplier relationship 
+opportunities with Windstream. While a supplier’s ultimate 
+ability to deliver value for our customers is paramount, 
+certified diverse vendor status is identified during the RFP process and is considered in our supplier selection. Our 
+goal to ensure a level playing field for all vendors. 
+As a federal contractor, Windstream is required to report 
+spend with diverse suppliers on an annual basis to the 
+General Services Administration. Over the past three 
+years, Windstream has reported a total spend of more 
+than $400 million with 500 diverse suppliers. We are 
+proud of these efforts and continue to seek out more 
+opportunities to work with diverse suppliers.
+Supplier Diversity 50
+QUICK 
+NAV
+Responsible Minerals
+Sourcing
+Any connection between the materials used in 
+Windstream’s products and armed violence or human 
+rights abuses is unacceptable, and we have an internal 
+team that oversees the design, development and 
+implementation of our conflict minerals compliance 
+program. Every year, Windstream files its Form SD and 
+Conflict Minerals Report with the Securities and Exchange 
+Commission disclosing our due diligence efforts and 
+results; see our current SEC Conflict Minerals Report . 
+Windstream also expects its suppliers to take steps to 
+ensure that their products do not include materials that either directly or indirectly benefit armed groups in the 
+Democratic Republic of the Congo (or in any neighboring 
+country). As part of their master purchasing agreements 
+with Windstream, suppliers agree to provide us with 
+information regarding the country of origin and source 
+of conflict minerals used, if any, in the supplier goods 
+sold to us. If a supplier is found to not be in compliance 
+with these objectives, the supplier is expected to 
+develop, implement and document plans to remedy 
+the non-compliance, and Windstream has the right to 
+terminate its relationship with the supplier in the event of 
+continued non-compliance. 51
+QUICK 
+NAV
+Supplier Sustainability
+Efforts 
+It is Windstream’s policy to work with supply 
+partners that share our commitment to 
+sustainable practices. We expect our suppliers to 
+comply with applicable environmental laws and 
+have their own sustainability programs in order 
+to support our goals. This expectation is a key 
+evaluation criteria during our supplier selection 
+process and is incorporated into every supplier 
+contract and purchase order. It is also a crucial 
+component of our Supplier Code of Conduct.  

@@ -1,0 +1,1449 @@
+2020 Environmental, Social  
+and Governance Report2020 Environmental, Social  
+and Governance Report
+Table of Contents  
+Letter from the President and CEO 2
+About Killam and Killam’s Strategy 3
+Sustainability Policy  4
+2020 Goals and Performance 4
+2020 Highlights and Achievements 5
+Killam’s ESG Targets  6
+United Nation’s Sustainable  
+ Development Goals (SDGs) 7
+ESG Methodology  8
+Commitment to the Environment 9
+ Energy Management  9
+ Greenhouse Gas Emissions  11
+ Climate Change 13
+ Water Management  14
+ Recycling and Waste Management 14Commitment to Social  15
+ Culture  15
+ COVID-19  16
+ Employees  17
+ Residents  20
+ Communities  21
+ Supply Chain Responsibility 22
+Commitment to Governance  23
+ Board Structure  23
+ Independence  23
+ Ethics 23
+ Diversity and Inclusion  24
+ Risk Management & Cyber Security 25
+ Stakeholder Engagement  26
+Killam's ESG Performance Data 27
+ESG Disclosure Indexes  33
+About this Report
+Killam’s ESG report focuses on the 2020 reporting period. The report’s ESG disclosures were 
+prepared in accordance with the Global Reporting Initiative (GRI) Standards (core), the Sustainability 
+Accounting Standards Board (SASB) standards, and the Task Force for Climate-related Financial 
+Disclosure (TCFD) framework. The inclusion of SASB and TCFD disclosure is new to the 2020 report 
+and has enhanced the disclosure for energy, waste and climate-related risk management.
+Killam’s greenhouse gas (GHG) emissions and associated energy data has been externally verified(1) 
+by Quinn & Partners Inc. using International Organization for Standardization (ISO) 14064-3:2019, 
+the standard for GHG verification.
+(1) Quinn & Partners verified the GHG emissions and energy data to a limited level of assurance using ISO 14064-
+3:20191, the ISO standard for GHG verification. Verification activities applied in a limited level of assurance verification 
+are less extensive in nature, timing and extent than an audit. The review found no material discrepancy, error or 
+omission that would conclude that Killam’s 2020 GHG emissions inventory and associated energy data are not fairly 
+stated and prepared in all material respects in accordance with the standards and principles of the GHG Protocol.2 KILLAM APARTMENT REIT | 2019  
+We are pleased to present our 2020 report 
+which details how we incorporate environmental, 
+social and governance (ESG) principles into our 
+operations and business strategy. 
+The COVID-19 pandemic had a significant 
+global impact in 2020 and continues to affect our 
+stakeholders in many ways. Killam’s top priority 
+throughout the pandemic continues to be the 
+health and safety of its residents and employees. 
+We implemented a Pandemic Illness Plan and a 
+wide range of policies and procedures to reduce or 
+mitigate the spread of the virus and maintain the 
+continued health of all stakeholders. 
+We recognize the financial hardships that many 
+Canadians are facing and have offered resources 
+and financial flexibility, such as offering zero rent 
+increases on lease renewals, waiving late fees and 
+creating payment plans if needed. Our committed 
+employees across the country adapted quickly to 
+the changing circumstances, and I am very grateful 
+for their dedication and steadfast work during 
+this time. We support them by offering additional 
+flexibility in work schedules and increased 
+compensation for our front-line employees.
+Despite the pandemic, we successfully achieved 
+a wide variety of ESG objectives in 2020. With a 
+strong focus on reducing our carbon footprint, we 
+began installing photovoltaic (PV) solar panels at 
+a number of properties, and continued to retrofit 
+our buildings with energy management systems 
+and LED lighting. We reported our greenhouse gas 
+emissions and commit to renewable energy and 
+emissions-reduction targets.We advanced our culture of diversity and 
+inclusion by partnering with the Canadian Centre 
+for Diversity and Inclusion (CCDI) and required 
+mandatory diversity training for all management 
+employees, as well as a host of additional training 
+for our entire team. 
+We recognize the housing affordability issues 
+in Canada, and we are a part of the solution, 
+providing more than 750 subsidized affordable 
+housing units across our portfolio. In addition, we 
+donate furnished suites to hospitals in our markets 
+and contribute financially to an array of community 
+organizations. 
+Our Board’s Governance and ESG Committee 
+oversees our ESG progress and reviews our 
+performance towards Killam’s ESG goals. 
+Participating in our second annual GRESB 
+assessment, we achieved a 15 point or 32% 
+improvement over our initial submission in 2019. 
+This earned us a green star designation, and we 
+target further improvements in the coming years. 
+We believe in being a strong corporate citizen and 
+recognize it as a vital component to Killam’s long-
+term success.
+Sincerely,
+Philip Fraser, President and CEOLetter from the President and CEO
+2 KILLAM APARTMENT REIT | 2020  (1) Funds from operations (FFO) is a non-IFRS financial measure. Please refer to page 3 of Killam’s 2020 Management’s 
+Discussion and Analysis for the definition of this measure.About Killam and Killam’s Strategy
+[GRI 102-1, 102-2, 102-3, 102-4, 102-6, 102-7, 102-56]
+Killam Apartment REIT (“Killam” , or the “Trust’’), based in Halifax, Nova Scotia (NS), is one of 
+Canada’s largest residential landlords, owning, operating, managing and developing a $3.8 billion 
+portfolio of apartments, manufactured home communities (MHCs) and commercial properties across 
+seven provinces. Killam was founded in 2000 to create value through the consolidation of apartments 
+in Atlantic Canada and MHCs across Canada. Killam entered the Ontario (ON) apartment market in 
+2010, the Alberta (AB) apartment market in 2014, and the British Columbia (BC) apartment market in 
+2020. Killam broke ground on its first development in 2010 and has completed twelve projects to-
+date, with a further six projects currently under construction.
+Net Operating Income Contribution by Market (%)
+Killam’s strategy to increase funds from operations(1) (FFO), net asset value (NAV) and 
+maximize unitholder value is focused on three priorities:
+• Increase earnings from existing portfolio.
+• Expand the portfolio and diversify geographically through accretive acquisitions,  
+ targeting newer properties.
+• Develop high-quality properties in Killam’s core markets.
+NL | 4% 
+St. John’sBC | 2% 
+Victoria AB | 7%
+Calgary | Edmonton
+ON | 23% 
+Ottawa | London  
+Toronto | KWC
+NB | 19% 
+Moncton
+Fredericton
+Saint JohnNS | 39% 
+HalifaxPE | 6% 
+Charlottetown
+3 KILLAM APARTMENT REIT | 2020Sustainability Policy
+Killam is a leader(1) in ESG practices within the Canadian multi-residential real estate sector, 
+and its sustainability policy formalizes this commitment and is included in the Killam employee 
+handbook. The policy is approved by the Board of Trustees and monitored by the Governance 
+and ESG Committee. The following outlines Killam’s commitment to ESG:
+• Invest in technology and new initiatives to increase sustainability and lower its carbon 
+footprint across the portfolio, with a focus on waste management as well as energy and 
+water consumption.
+• Support and invest in its employees through training and development.
+• Enhance diversity and inclusion policies and practices to continue to foster a safe, inclusive, 
+and equitable workplace. 
+• Provide outstanding customer service and build an inclusive community at its properties.
+• Support initiatives in the communities in which Killam operates, with an emphasis on 
+affordable housing through community partnerships, subsidized rents and discounts.
+• Establish and implement measurable governance policies and practices.
+• Report annually on its ESG programs, highlighting new initiatives, and Killam’s performance 
+against targets.
+• Review its annual ESG benchmark ratings(2) and target areas for improvement each year.
+(1) Killam is the first publicly traded Canadian multi-family REIT to submit to GRESB as well as the first to issue a stand 
+alone ESG report in accordance with ESG reporting standards. 
+(2) Currently the benchmark rating focus is GRESB.
+2020 Goals and Performance
+  
+ ENERGY CONSUMPTION
+GOAL
+Invest up to $7M in  
+energy-efficiency initiatives 
+including 1,000 kW of new 
+PV solar panel installations.
+PERFORMANCE
+$5.2M invested in energy-
+efficiency projects including 
+880 MWh of PV solar panels 
+at 11 properties in PEI and 
+NS.SOCIAL INITIATIVES
+GOAL
+Increase employee  
+volunteer days by 25%.
+PERFORMANCE 
+Due to COVID-19  
+pandemic, volunteer 
+opportunities were  
+minimal. Defer goal to  
+post pandemic.RATING PARTICIPATION
+GOAL
+Increase GRESB rating  
+by 15 percentage points.
+PERFORMANCE 
+Increased GRESB rating by 
+15 percentage points or  
+32% improvement over its 
+initial submission in 2019 
+as well as received a green 
+star designation.
+4 KILLAM APARTMENT REIT | 2020ESG 2020 Highlights and Achievements 
+E
+S
+G
+Killam installed photovoltaic solar panels at  
+11 properties, generating 880 MWh  
+of renewable energy(1) annually.
+Implemented a green cleaning policy  
+for procurement and use throughout  
+its properties.
+Donated over 
+$375,000  in cash, in-kind 
+gifts and Trustee donations to 
+support organizations across 
+Canada.Completed an independent review of 
+its 2020 greenhouse gas  
+inventory.
+Supported affordable housing with 
+more than 750 subsidized 
+units through community 
+partnerships.
+Formed a 
+Diversity  
+and Inclusion 
+Committee 
+to assess and make 
+improvements to 
+Killam’s current 
+practices and policies. 
+Completed its second GRESB submission, 
+achieving a green star rating  and 
+a 32% increase  from its initial score.Installed two 
+beehives  at one 
+of Killam’s properties 
+as a pilot project.(2) 
+Partnered  with the 
+Canadian Centre 
+for Diversity and 
+Inclusion .Achieved an 84% employee 
+satisfaction  score.
+Enhanced 
+emergency 
+response 
+preparedness plans 
+at all properties. 
+Developed longer-term 
+sustainability  targets. Reported in accordance with  
+GRI reporting standards .
+Began monitoring 
+suppliers’ 
+compliance  with  
+Killam’s internal ESG  
+minimum standards.Aligned Killam’s strategy and 
+targets with the  
+UN’s Sustainable  
+Development  Goals.Achieved an 87% resident 
+satisfaction  score.
+(1) Equivalent to GHG emissions from 72 homes’ energy use for one year.
+(2) Killam’s urban beehive pilot included an educational workshop and honey for the residents at its Toronto property, 
+along with increased awareness about sustainable practices in the community.
+5 KILLAM APARTMENT REIT | 20206 KILLAM APARTMENT REIT | 2019  
+Killam’s ESG Targets
+[TCFD 9, TCFD 11] 
+Killam has committed to ambitious but realistic ESG targets to work towards in the medium-term. 
+These goals aim to mitigate Killam’s carbon footprint, maintain good corporate citizenship and 
+create long-term value for its stakeholders. Management reviews these periodically to confirm 
+alignment with its materiality assessment (see page 8). Killam is scoping out its long-term carbon 
+emission targets and developing a plan to move to net-zero carbon emissions and will disclose 
+details as technology and innovation evolve.
+ENVIRONMENTAL
+•  Reduce GHG emissions 
+by 15%(1)  by 2030.
+•  Produce a minimum 
+of 10% of electricity(2) 
+through renewable 
+energy sources by 2025.
+•  Pursue building 
+certifications across a 
+minimum of 20% of 
+Killam’s portfolio by 
+2025.SOCIAL
+•  Increase employee 
+volunteer hours by 25% 
+by 2025.
+• Increase number of 
+affordable housing units 
+by 20% by 2025.
+• Maintain resident 
+satisfaction score above 
+85% annually.GOVERNANCE
+•  Continue to participate 
+in GRESB survey 
+annually, targeting a 
+minimum increase of 
+5% each year to reach 
+GRESB 4 Star ranking 
+by 2025 and continue to 
+expand ESG disclosure.
+• Increase the diversity of 
+employees, including 
+a 25% increased 
+representation of 
+employees who identify 
+as racialized, as persons 
+with a disability, and as 
+LGBTQ2+ by 2025.
+(1) Scope 1 and 2 emissions from 2020 levels.
+(2) Operational controlled electricity.
+6 KILLAM APARTMENT REIT | 2020  United Nation’s Sustainable  
+Development Goals (SDGs)
+In September 2015, Canada and all other 192 United Nations Member States adopted the 2030 
+Agenda for Sustainable Development at the UN General Assembly. This initiative is a global call 
+to action to end poverty, protect the planet and ensure that all people enjoy peace and prosperity 
+by 2030. This 2030 Agenda is broken down into 17 global goals that countries, organizations, 
+businesses and individuals alike are working towards. Killam has assessed these goals and Killam 
+has aligned its corporate sustainability targets with the United Nation’s SDGs. Killam believes it 
+can make the most impact on the following four goals and associated action items:
+United Nation’s  
+Sustainable Development Goals Killam’s Goals
+Ensure reliable, sustainable  
+and modern energy for all.Produce a minimum of 10% of electricity  (1) through 
+renewable energy sources by 2025. (2020 – negligible)
+Invest in geothermal heating and cooling systems in 
+new developments.
+Promote inclusive and 
+sustainable economic  
+growth, employment  
+and decent work for all.Increase the diversity of employees, including 25% 
+increased representation of employees who identify as 
+racialized, as persons with a disability, and as LGBTQ2+ 
+by 2025.
+Make cities inclusive, safe, 
+resilient and sustainable. Pursue building certifications across a minimum of 20% 
+of Killam’s portfolio by 2025.
+Annually invest a minimum of $5 million in energy-
+efficient upgrades.
+Ensure sustainable  
+consumption and  
+production patterns. Annually monitor, analyze and verify water and energy 
+consumption, along with targeted reductions in 
+greenhouse gas emissions.
+(1) Operational controlled electricity.
+7 KILLAM APARTMENT REIT | 2020ESG Methodology
+[GRI 102-16, 102-19, 102-20, TCFD 4, TCFD 9, TCFD 11] 
+Incorporating ESG initiatives into Killam’s overall business strategy helps 
+drive innovation, augment its operating results, and maximize long-term 
+value for all its stakeholders.
+To ensure Killam is focused on the most significant ESG issues for its 
+business, its materiality assessment identifies and prioritizes the ESG 
+topics that are most significant to the organization, its employees and 
+the external stakeholders, which include Killam’s lenders, residents, 
+investors, analysts, trustees, peers and communities. 
+The approach evaluates all material ESG topics and identifies 
+opportunities for improvement in each area. This evaluation includes 
+goal setting, resource allocation, performance management, and reporting to achieve 
+improvements. The methodology is also underlined by two of Killam’s Core Values of Build 
+Community and Do the Right Thing. 
+Killam’s internal ESG Oversight Committee, consisting of the President and CEO, and a select 
+interdisciplinary group of senior management from across Killam, provides guidance and ensures 
+the integration of ESG into its strategic objectives. This committee champions the ESG action 
+items throughout the year and regularly reports progress against ESG targets to the Board’s 
+Governance and ESG Committee.
+Materiality Assessment
+[GRI 102-46, 102-47]
+The following matrix shows the top right-hand quadrant of Killam’s Materiality Assessment, which 
+are the ESG factors that are most important to Killam. This report focuses on the topics that are of 
+highest importance and most relevant to internal and external stakeholders. 
+IMPORTANCE TO KILLAMIMPORTANCE TO STAKEHOLDERS
+Supply Chain ResponsibilityResident Satisfaction
+Health, Wellbeing  
+& Safety
+Employee Engagement,  
+Training & DevelopmentSustainable CommunitiesBoard Composition  
+& Governance
+Regulatory Compliance
+Data & Cyber Security
+EthicsInsurance & Risk 
+Management
+Risk of Climate 
+ChangeSustainable Development  
+Design & Product Quality
+Waste ManagementEnergy & Water ManagementDiversity & Inclusion Governance      Environmental      Social  
+Greenhouse Gas  
+EmissionsKillam works proactively
+and diligently to monitor  
+and reduce our 
+environmental footprint, to  
+ensure effective and ethical 
+governance and to invest in  
+ways that stimulate 
+sustainable economic 
+growth.
+8 KILLAM APARTMENT REIT | 2020Commitment to the Environment
+[GRI 103-1, 103-2, 103-3 for GRI 302] 
+At Killam, resources are used in a responsible manner to preserve and protect the environment 
+and reduce the impact on climate change. Killam has a long history of investing in energy 
+efficiencies. Starting in 2016, Killam commenced a five-year, $25 million energy-efficiency program 
+focused on reducing its GHG, gaining operating efficiencies and lowering operating costs. In 
+the past five years, Killam’s green projects included the installation of PV solar panels, air-sealing 
+apartment units, conversions from heating oil to natural gas, installation of low-flow toilets and 
+LED lighting retrofits across the entire apartment portfolio. Killam is committed to continuing its 
+minimum $5 million annual investment in energy efficiencies going forward.
+Energy Management
+[SASB IF-RE-130a.5, SASB IF-RE-410a.3]
+Killam’s energy management strategy has evolved over the past five years. Killam has 
+extended its energy investments to include a wider range of projects, testing different 
+ways to reduce consumption and lower emissions. This includes converting fossil 
+fuel based buildings to electric heat pumps, sub-metering electricity, water and heat, 
+reinsulating exterior walls and attics to reduce heat loss, installing boiler economizers 
+to recover wasted exhaust heat, and switching heating fuel from oil to natural gas and 
+propane. As Killam continues to enhance its energy management, it plans to implement real-time 
+peak demand monitoring at select properties and monthly consumption tracking for all properties in 
+2021 to monitor energy consumption and detect spikes in usage.
+More than $300 million in new developments have been designed 
+and built over the last 10 years using strategies aimed at improving 
+performance across important metrics, including energy savings, 
+water efficiency, the stewardship of resources and sensitivity to their 
+environmental impact. Killam focuses its development activity in urban 
+cores and in highly walkable suburban sub-markets. Technology and 
+renewable resources are used whenever feasible with the intent to create 
+green and sustainable homes for its residents. From LED lighting and 
+motion-sensing technology, to geothermal heating and in-suite green 
+switches, energy conservation and a low-carbon footprint are important components of Killam’s 
+development designs.
+Killam aims to acquire newer, more energy-efficient buildings where possible. During the acquisition 
+due diligence process, Management analyzes and considers the potential acquisition’s  features 
+and ability to contribute to sustainability and the long-term value of its unitholders. Along with 
+energy efficient buildings, there is demand for upgraded units across the portfolio. Killam’s extensive 
+suite renovation program allows it to improve energy efficiency and sustainability throughout the 
+apartment portfolio, while delivering upgraded amenities to its residents. Energy savings, 
+water efficiency and 
+the stewardship of 
+resources were top 
+of mind in the more 
+than $300 million in 
+developments Killam 
+has built to date.
+9 KILLAM APARTMENT REIT | 2020LED Lighting
+Throughout 2017-2019 Killam retrofitted its portfolio with LED lighting, which results in more than 
+5,000 MWh of electricity being saved annually. Killam benefits from improved lighting levels and 
+reduced maintenance costs.
+Solar Power
+Killam has solar domestic hot water heating systems at five properties. These systems together save 
+approximately 1,800 gigajoules (GJ)(1) of natural gas annually.  
+During 2020, Killam installed PV solar panels at 11 of its properties in Halifax and Charlottetown, which 
+are expected to generate 880 MWh of renewable energy annually. Killam expects to invest $2.0 million 
+in PV solar projects in 2021, which are estimated to produce 1,200 MWh of electricity annually. As the 
+cost of solar continues to decline, Killam expects to increase PV solar throughout its portfolio. Killam will 
+also explore purchasing offsetting renewable electricity if a property is not suitable for onsite solar or 
+has limited roof areas to meet energy needs.
+(1) Equivalent to GHG emissions from 41 homes’ energy use for the year.
+Shorefront, Killam’s recently completed  
+78-unit Charlottetown development features 
+PV solar panels, sub-metered water, energy 
+efficient appliances and EV charging stations. 
+PV solar power is expected to cover 30% of 
+Killam’s operating energy cost.
+Killam Community | Shorefront, Charlottetown
+Commitment to the Environment
+10 KILLAM APARTMENT REIT | 202011 KILLAM APARTMENT REIT | 2019  Renewable Resources
+Killam is committed to increasing its investment in geothermal heating and cooling and 
+incorporates these into its new developments where feasible. Frontier, phase one of an 840-unit 
+development, opened June 2019 in Ottawa, and incorporates geothermal heating and cooling. 
+Killam has three developments currently under construction, totaling 505 units, in Ottawa, 
+Mississauga and Kitchener, which have geothermal heating and cooling systems being installed. 
+Electric Vehicle Chargers and Sustainable Transportation 
+Killam has 10 properties with on-site electric vehicle (EV) charging 
+stations. Killam plans to install more than 400 EV charging stations 
+throughout its portfolio in the next two years and will install 
+EV charging stations in 50% of its existing properties over the 
+next five years. All new developments being built by Killam will 
+incorporate EV chargers. In addition to supporting electrification of 
+transportation, Killam is developing in urbanized environments that 
+support direct access to public transportation. An example of this 
+is the new Frontier and Latitude developments in Ottawa, which 
+are adjacent to the city’s newly expanded light-rail transit network.
+Greenhouse Gas Emissions
+[GRI 103-1, 103-2 and 103-2 for GRI 302 and 305, TCFD 5] 
+Operating a multi-residential portfolio of more than 17,000 apartment units across Canada 
+requires a significant amount of energy, and consequently generates GHG emissions. These 
+emissions contribute to the global climate crisis faced today, as well as the shifts in the world’s 
+climate and extreme weather conditions. The burning of fossil fuels like coal, oil, and natural gas 
+for electricity, heat, and transportation is the primary source of human-generated emissions.
+Killam has established GHG emissions reduction targets as part of its long-term sustainability 
+strategy and strives to seek operational efficiencies to reduce resource consumption and 
+dependence on fossil fuels, therefore reducing its carbon footprint. Killam is helping to combat 
+global warming by changing the way it develops and operates its portfolio. 
+Killam compiles its GHG Inventory annually in accordance with The Greenhouse Gas Protocol. 
+Killam engaged Quinn & Partners to complete an independent verification review of its 2020 GHG 
+inventory, in accordance with ISO 14064 – Part 3, for its greenhouse gas data.Frontier, the 228-unit 
+residential building in 
+Ottawa, has a geothermal 
+heating and cooling 
+system designed to save 
+an estimated 300,000 kWh 
+of electricity and 46,000 
+cubic meters of natural 
+gas, which is more than 
+100 tons of CO2 emissions 
+annually.Commitment to the Environment
+11 KILLAM APARTMENT REIT | 2020  Commitment to the Environment
+   GHG Intensity (kgC O2e/sf )
+2020                29,194
+2019                   30,542
+2018           27,407GHG Emissions (tC O2e)
+           Scope 1 
+           Scope 2 
+2020                 18,168
+2019                   18,651
+2018               20,6372020              3.83
+2019              4.06
+2018                     4.15
+For the past four years, calculating the energy the portfolio consumes has been 
+important to Killam. This data helps support the efficiency initiatives to better 
+manage the properties, making them more resource efficient. It aligns with the 
+United Nation’s SDG 7: Affordable and Clean Energy.Killam’s GHG emission sources include: electricity, natural gas, propane, 
+oil, petrol and steam.
+Note: Killam has committed to measure scope 1 and 2 GHG 
+emissions, in compliance with ISO 14064-1. Scope 1 includes all direct 
+emissions generated and managed by Killam, including building fuel 
+consumption and fleet-vehicles. Scope 2 includes indirect emissions, 
+purchased steam and electricity paid for by Killam. Killam has 
+excluded scope 3 emissions, which take into account all other indirect 
+emissions, including tenant-controlled electricity. Killam’s scope 1 
+and 2 GHG emissions exclude refrigerant leakage, upstream and 
+downstream activities associated with its business operations, new 
+developments and off-site waste management. 
+Define CO2 footprint
+Increase efficiency of buildings
+Increase clean energy supply
+Invest in on-site energy generation
+Consider off-site energy generation
+Review CO2 offset programsKillam’s Path to Decarbonization 
+DECREASE
+CO 2
+12 KILLAM APARTMENT REIT | 202013 KILLAM APARTMENT REIT | 2019  Climate Change 
+[GRI 103-1, 103-2, 103-3 for GRI 302, GRI 201-2, SASB IF-RE-450a.2, TCFD 1, TCFD 2, TCFD 3, TCFD 4, TCFD 5, TCFD 6, TCFD 7,  
+TCFD 8, TCFD 9, TCFD 11]
+Killam recognizes it faces a variety of different operational risks, including climate change 
+impact on its physical assets. To improve the resiliency of its portfolio, Killam is updating and 
+implementing sustainable policies, investing in technology, and switching to greener forms of 
+energy. 
+Historically, Killam has had minimal review of its climate-related risk. Its climate risk work was 
+limited to analysis completed through its annual insurance renewal, assessing each individual 
+asset based on location. Killam also considered climate change risk at the time of acquisition. In 
+2020, Killam began to further integrate climate-related risks and opportunities into its overall risk 
+management strategy. 
+The Trust’s ESG oversight committee, including the President and CEO, members of senior 
+management and other key staff members across the organization’s departments, meets bi-
+monthly to discuss environmental, social and governance related topics, including climate-related 
+risks and opportunities. The topics discussed in 2020 related to climate change include: asset 
+resiliency, Killam’s environmental impact, emergency preparedness, GHG emission monitoring and 
+reduction, sustainability policies, sea-level rise, flood risk, heat stress and extreme weather events. 
+The oversight committee provides regular updates to the Board of Trustees’ Governance and ESG 
+Committee. The Board of Trustees has oversight responsibility for all risk management policies 
+and practices. 
+Throughout 2020 and in early 2021, Killam assessed and implemented several risk management 
+practices as part of its short-term climate-related risk management plan. Killam’s property 
+management and operations teams assessed and updated emergency preparedness plans 
+for each property to ensure they are prepared for extreme weather events including flooding, 
+extreme temperatures and fire. Killam’s operations team is implementing emergency flood kits 
+across the portfolio and has begun training property management staff on how to use the kit in 
+response to a water event. 
+In the long-term, Killam plans to work towards operating its portfolio with net-zero carbon emissions 
+to combat its impact on climate change. Killam is in the process of developing a more robust long-
+term investment strategy for risk management planning with respect to flood risk, extreme weather 
+and sea level rise, as well as other areas of environmental impact Killam can reduce or eliminate. 
+Commitment to the Environment
+13 KILLAM APARTMENT REIT | 2020  14 KILLAM APARTMENT REIT | 2019  
+Water Management
+[GRI 103-1, 103-2 and 103-2 for GRI 303, GRI 303-1, SASB IF-RE-140a.4, SASB IF-RE-410a.3]
+Killam’s properties use two million cubic metres of water each year and reducing 
+water consumption across its portfolio is a priority. Aligning with the United Nation’s 
+SDG 12: Responsible Consumption and Production, the Trust implemented 
+solutions in both common areas and apartment units to help conservation efforts.
+Water conservation initiatives focus on reducing both interior and exterior water consumption, by 
+installing more efficient appliances and water fixtures and implementing environmentally friendly 
+landscaping practices. Killam has completed the installation of low-flow toilets in more than 
+11,500 units in its portfolio. Since the program started in 2015, over 700 million litres of water have 
+been saved by Killam and its tenants. As well, newer developments such as Saginaw Park, Frontier 
+and Shorefront, which opened in 2018-2020, are submetering water usage. Killam is in the process 
+of evaluating existing properties for submetering to mitigate Killam’s exposure to water costs and 
+promote conservative water usage by residents.
+Recycling and Waste Management
+Killam seeks to continuously improve and maintain its buildings, with a focus on reducing waste, 
+energy and water. To achieve this, Killam has been finding practical solutions for different properties 
+that make the highest impact in reducing its environmental footprint. Recycling, composting and 
+waste management programs are available at the majority of its properties with a concentrated 
+effort by employees and residents to reduce waste that ends up in landfills. Commitment to the Environment
+14 KILLAM APARTMENT REIT | 2020  15 KILLAM APARTMENT REIT | 2019  
+(1) 2020 employee survey resultsCommitment to Social
+Culture
+[GRI 102-16] 
+The foundation of Killam’s culture is its five Core Values, which are 
+an active part of the everyday work and are embodied at all levels 
+of the organization.  
+Killam’s Core Values serve as important criteria in the recruitment and selection process, where 
+there are specific questions and discussions used to assess individual alignment to Killam’s values 
+and culture. This alignment is incorporated in Killam’s annual performance management process. 
+Cultural alignment continues with every employee event, typically held several times a year,  
+where content references the values. Employees are also recognized for demonstrating 
+exceptional cultural alignment through a formal recognition 
+program.
+Killam’s annual employee survey is another tool to review 
+employee feedback and monitor engagement. Here are some 
+employee comments about Killam’s culture(1):91%  of employees 
+believe Killam leaders 
+care about their 
+employees’ wellbeing.83%  of employees 
+believe senior leaders 
+live the core values of the 
+organization.
+“I am respected and not just a number.” 
+“Killam tries to respect all.  They have a strong  
+business model with a strong social consciousness.”
+“Killam is forward thinking and ahead of trends. They respect their 
+employees and look after customers better than the competitors."
+“It is the best company that I have ever worked for. We are  
+treated fairly and respected. I enjoy going to work every day.”
+15 KILLAM APARTMENT REIT | 2020  Killam’s exceptional culture has also been recognized publicly. Killam was named one of Canada’s 
+Most Admired Corporate Cultures for 2020, earning this distinction for a second three-year period, 
+as well as being honoured with the Company Culture Award of Excellence by the Federation of 
+Residential Housing Providers of Ontario. Other recent employer distinctions include:
+2018
+COVID-19
+Killam is firmly committed to the health and safety of its 
+employees, residents, and communities as it continues to 
+navigate COVID-19. Provincial and regional Public Health 
+guidelines continue to be followed to ensure the safe operation 
+of its properties. Killam created a dedicated webpage for 
+residents and community members to reference for COVID-19 
+updates, procedures and protocols.
+Support for Employees Support for Residents & Communities
+• COVID-19 section added to employee 
+portal to ensure employees are up to date 
+with safety protocols and measures.
+• Increased compensation allocated to public-
+facing employees.
+• Remote work encouraged wherever 
+reasonable.
+• Safety guidance provided including: 
+adjusted operations to limit risk, required 
+personal protective equipment (PPE), and 
+specific safety protocols for those unable to 
+work remotely.
+• Enhanced leave policy to ensure employees 
+who are ill, required to self-isolate, or have 
+other COVID-19-related challenges have 
+access to paid leave.• Mask requirement in common areas of all 
+properties.
+• Increased frequency of cleaning of all 
+high-touch areas at its properties.
+• Closed amenity spaces at its properties in 
+accordance with public health guidelines.
+• Rent deferral programs provided for 
+residential and commercial tenants.
+• Temporary deferral of rental increases.
+• Virtual investor meetings and property 
+tours conducted to ensure adherence to 
+Public Health guidelines.92%  of employees feel 
+safety is a top priority at 
+Killam.Commitment to Social
+16 KILLAM APARTMENT REIT | 2020Employees
+[GRI 102-8, GRI 103-1, 103-2, 103-3 for GRI 401, 404 and 405] 
+Killam’s employees are integral to its success and as such are 
+supported to do their best work, through a variety of programs. 
+Diversity and Inclusion 
+In 2020, Killam partnered with the Canadian Centre for Diversity & Inclusion (CCDI) to assist in its 
+pursuit of a robust diversity and inclusion (D&I) program. This partnership provides employees 
+access to expert advice, including a monthly newsletter, a knowledge repository, and free monthly 
+webinars. Mandatory D&I training was completed by 100% of Management in 
+2020.
+Killam’s recruitment process includes electronic postings on a variety of 
+platforms, word-of-mouth referrals, attending community job fairs, and seeking 
+creative solutions to recruit in rural or under represented communities. Killam’s 
+Management engage with community and not-for-profit organizations to both increase the 
+candidate pool and to help seek a diverse and representative group.
+Diversity and inclusion remains important throughout employment. Killam’s position on D&I 
+is formalized through its D&I policy, and on-going training ensures continuous learning and 
+awareness. An open culture that encourages the sharing of information allows Killam to take full 
+advantage of the collective knowledge of its team.
+Killam’s first bi-annual Employee D&I Survey was completed in 2019. The goal was to create a 
+baseline for representation of diverse groups, as well as, employee’s perceptions about inclusion 
+and current practices. The annual employee engagement survey is another way Killam measures 
+its D&I efforts and in 2020 Killam saw an increase in the number of ethnic groups identified in 
+the survey results. With future surveys, Killam will continue to measure its success in ensuring its 
+workforce represents the communities in which it operates.
+Employee Demographics
+   GENDER – SELF-IDENTIFICATION
+FEMALE |   MALE | NON-BINARY1%48% 51%
+GENERATIONAL MAKEUP
+SILENT GEN.  | B. BOOMERS | GEN X 
+GEN Y/MILLENNIALS  | GEN Z2% 5%35%
+36% 22 %
+EMPLOYEE TENURE
+<1 YEAR  | 1<5 YEARS | 5<10 YEARS 
+10<15 YEARS | 15+ YEARS18%43%
+23%
+9%
+6%
+As per our 2019 D&I survey:
+9%  self-identify as  racialized | 6%  self-identify  as being a person  
+with a disability  | 6%  self-identify as LGBTQ2+90%  of employees feel 
+their supervisor treats 
+them fairly.Commitment to Social
+17 KILLAM APARTMENT REIT | 2020Training and Development
+[GRI 103-1, 103-2, 103-3 for GRI 404, GRI 404-2] 
+Killam’s commitment to ongoing education, training, and 
+development increases employee skills, the quality of work 
+produced, and their personal connection to Killam. Employees 
+are provided with safety, job 
+specific and other required training upon being hired.
+ Ongoing opportunities are provided in the areas of diversity, 
+leadership, and enhanced safety and wellness training. 
+Industry-specific training, such as the Certified Property 
+Manager program and a tuition reimbursement program 
+are also available. Training is provided through a mix of 
+external and internal resources. Employee summits, internal 
+conferences and training sessions allow for sharing and 
+storytelling. Many employees work alone or in very small 
+groups daily, so these gatherings provide an important 
+opportunity they may not otherwise have due to the nature of their work. 2020 has highlighted 
+the need to be flexible with training and development. Killam has leveraged technology to bring 
+people “together” despite not being able to meet in person. 
+Killam’s success in providing career advancement opportunities is measured through internal 
+promotion rates, recorded and reported internally on a monthly basis. In 2020, Killam saw more 
+than 20 permanent employees progress into more senior positions.
+2000+   
+mandatory  
+training  
+courses  
+completed  
+in 20202700+  
+hours of 
+mandatory 
+training 
+completed in 
+202025%   
+of open  
+positions  
+were filled  
+with internal  
+candidates90%+ 
+completion of 
+assigned  
+training  
+in 2020
+Rewards and Recognition
+Killam understands the strong connection between rewards, recognition, and retaining top talent 
+and is focused on this in several ways. The Scorecard program is Killam’s annual incentive plan for all 
+employees. Scorecard measures at all levels of the organization support Killam’s strategic goals.
+“Core Value Champions” are nominated for exemplifying Killam’s Core Values. Most recently, 
+these stories have focused on kindness and caring during the pandemic. These stories are 
+celebrated with all staff through Killam’s employee newsletter. All nominees receive a signed card 
+from Killam’s President and CEO, and winners receive a framed certificate and gift card. 
+Ongoing education and training, as mentioned in the previous section, is yet another way Killam 
+rewards and recognizes its employees.Through training and 
+development, we 
+continually reinforce our 
+culture and Core Values.
+Commitment to Social
+18 KILLAM APARTMENT REIT | 2020Informally, employees receive gift cards, personal correspondence, along with acknowledgment 
+from their supervisors, rewarding them for a job well done. Typically, annual employee events such 
+as summer BBQs and holiday celebrations have shown appreciation for Killam’s teams. However, 
+the global pandemic has highlighted the importance of flexibility, and Killam has adjusted 
+its recognition plan to include rewarding front-line employees with increased pay during the 
+pandemic. 
+Compensation and Performance Management
+Killam is committed to delivering employee benefits and competitive compensation including 
+strategic incentive plans. Killam employees are measured quarterly on targets that are tied 
+directly to corporate goals, ensuring compensation and results are clearly linked. This practice 
+increases the commitment of Killam’s employees to its success in meeting its strategic targets.
+Quarterly scorecard reports for Property Managers and on-site employees are part of the regular 
+performance management feedback program. The program includes probationary, quarterly 
+and annual reviews, all offered through a user-friendly interactive employee portal and in-
+person meetings. Performance management includes career development and long-term goal 
+discussions.
+Employee Benefits
+The performance and compensation plans are reviewed annually to ensure they align with market 
+influences and internal requirements. Components of Killam’s compensation and benefits package 
+include:
+FLEXIBLE 
+BENEFITS  
+PLANSEMPLOYEE 
+& FAMILY 
+ASSISTANCE 
+PROGRAMPAID 
+VOLUNTEER 
+TIMEPAID TIME OFF 
+(VACATION & 
+PERSONAL)PAID SICK 
+LEAVE 
+ANNUAL 
+INCENTIVE 
+PLANEMPLOYEE 
+UNIT  
+PURCHASE  
+PLANPAID 
+PROFESSIONAL  
+ASSOCIATION   
+FEESREFERRAL 
+BONUSESSHORT-TERM 
+AND LONG-
+TERM  
+DISABILITY 
+COVERAGE 
+SCHOLARSHIPSTUITION 
+REIMBURSE-  
+MENTDISCOUNT 
+ON KILLAM 
+APARTMENT 
+RENTSKILLAM PERKS 
+(DISCOUNTS AT 
+PARTNERS) PARENTAL 
+LEAVE PAY Commitment to Social
+19 KILLAM APARTMENT REIT | 2020Employee Engagement
+Killam’s annual engagement survey is completed by an independent third-party and has provided 
+insight into employee satisfaction and engagement levels for more than 10 years. 
+In 2020, the timing of the annual employee survey remained unchanged and was released mid-
+June. At this time, Killam’s team had been through the first wave of the pandemic, taking place 
+in March through May of 2020. Despite the additional challenges brought about by COVID-19, 
+Killam is pleased to share its overall satisfaction score of 84%, which is in line with Killam’s 5-year 
+average of 83%. 
+94% OF 
+EMPLOYEES LIKE 
+THE WORK  
+THEY DO(1)95% OF 
+EMPLOYEES ARE 
+WILLING TO GIVE 
+EXTRA EFFORT 
+TO HELP KILLAM 
+SUCCEED(1)94% OF 
+EMPLOYEES ARE 
+PROUD TO WORK 
+FOR KILLAM(1)90% OVERALL 
+ENGAGEMENT (1)
+Residents
+[GRI 103-1, 103-2, 103-3 for GRI 416] 
+Killam aims to provide outstanding customer service and fosters a sense of community at its 
+properties. Residents are surveyed annually to measure Killam’s success in meeting expectations 
+and to identify areas for improvement. In 2020, Killam received a satisfaction rating of 87%. 
+Killam’s satisfaction rating has been greater than 86% for the 8 years Killam has participated in 
+this survey. The third-party that manages the survey advises Killam that ratings above 80% are 
+considered very strong for the industry. 
+Providing exceptional customer service to prospective tenants and residents is key to ensuring Killam 
+is their sustainable choice of residence, today and tomorrow. In 2020, Killam continued to advance 
+online leasing in response to COVID-19 and provided a mix of virtual and in-person showings. The 
+resident portal and associated mobile app, corporate website, and online pre-authorized payments 
+(PAP) proved valuable in ensuring social distancing and remote work were possible.
+Creating a sense of community is a priority at Killam. Its team provided Creative Solutions to 
+ensure properties maintained a sense of community while adhering to Public Health guidelines. 
+In-person events were replaced with contact-free engagements such as door hangers, drive-by 
+events, coloring contests, and gift basket draws. 
+Resident wellness and safety are at the forefront of Killam’s operations. This is demonstrated 
+through first-aid training, fire and life safety training for on-site staff. Comprehensive fire plans and 
+monthly safety inspections further support this commitment.Commitment to Social
+(1) 2020 Employee Survey Results
+20 KILLAM APARTMENT REIT | 20202020 Resident Survey Results
+87%  satisfied with Killam as Landlord
+89%  satisfied with current apartment overall
+83%  satisfied with Resident Manager
+87%  would recommend to friends and family
+Communities
+As a leading organization with an exceptional culture, Killam has a responsibility to maximize the 
+social impact alongside earnings by supporting the community. 
+As part of Killam’s effort to Build Community, its experienced community investment committee 
+oversees a budget of approximately $300,000 of community giving each year. The committee is 
+focused on making the workplace a caring environment, and it encourages, celebrates and shares 
+the individual community giving projects of Killam’s employees, in addition to corporate giving. 
+Killam’s giving strategy is centred on charities and causes which support family and shelter. It 
+also has allocations for employee-led giving, Killam family scholarships, and tenant relief. Killam 
+understands affordability concerns and is part of the solution by providing more than 750 subsidized 
+affordable housing units. For many years, Killam has donated furnished suites to hospitals across its 
+markets, with 11 units currently available to families in need. Contributions are made to a variety of 
+community organizations, influenced by their alignment with our community investment strategy. 
+Killam strongly believes in supporting charitable causes that its employees value.
+Killam employees are active community members and are provided with paid volunteer time each 
+year. Employees give back to their communities by volunteering with numerous organizations such 
+as the Canadian Ski Patrol, the YMCA & YWCA, minor hockey associations, the Canadian Lung 
+Association, and the Salvation Army, to name a few.
+$172k   
+in suite donations$103k   
+in cash donations$340k   
+in tenant relief$90k   
+in trustee donationsCommitment to Social
+21 KILLAM APARTMENT REIT | 202022 KILLAM APARTMENT REIT | 2019  Supply Chain Responsibility
+[GRI 102-9] 
+Supply chain management is important. Killam’s major suppliers and service providers include 
+skilled tradespersons for maintenance and major renovations in its buildings, and suppliers for 
+building materials, cleaning and office supplies. Killam fosters relationships with suppliers and 
+service providers that commit to green environmental policies, as well as those that have a history 
+of strong ethical and social practices. 
+Killam has a mandatory checklist that is signed by the vendor prior to commencing work. This 
+checklist includes proof of both workers compensation and liability insurance, as well as disclosure 
+of any health and safety infractions, fines, and documentation of proper safety training, and that 
+the supplier will adhere to Killam’s sustainability policy. This ensures business is conducted ethically 
+in accordance with Killam’s policies, and reduces third-party risk.
+Commitment to Social
+22 KILLAM APARTMENT REIT | 2020  Board Structure
+[GRI 102-18] 
+Killam believes that effective corporate governance is critical to its continued and long-term 
+success and helps maximize unitholder value. The Trustees strongly believe their commitment to 
+sound governance practices is in the best interest of the Trust and its unitholders and contributes 
+to effective and efficient decision making. Each Trustee of the Board brings their unique 
+background, experience and skill set, including expertise in corporate governance.
+The Board carries out its responsibilities with the support of several Board committees. The 
+Governance and ESG Committee is responsible for the oversight of Killam’s ESG mandate and 
+initiatives. For more information on Killam’s Board Committees, visit:  
+killamreit.com/investor-relations/corporate-governance.
+Independence
+In 2020, Killam’s Board of Trustees comprised of ten Trustees, seven of whom are considered to be 
+independent. Killam believes that separating the position of Chair of the Board and the position 
+of the CEO is key in effectively providing independent Board oversight and in holding senior 
+management accountable to the Board for the Trust’s operations. Killam has an independent, 
+non-executive Chair of the Board, and all Board committee members are independent. It is the 
+Board’s policy for non-management Trustees to hold regularly scheduled meetings without the 
+attendance of Management of the Trust (in-camera meetings). Time is specifically reserved for 
+in-camera meetings at the beginning of the Board, Audit, Compensation and Governance & ESG 
+Committee meetings.
+Ethics
+[GRI 102-16, 102-17] 
+Killam is a good corporate citizen and maintains a high standard of integrity in conducting 
+business. Killam’s Code of Business Conduct and Ethics (the Code) establishes a framework of 
+guidelines and principles to oversee and foster ethical behaviour in all business activities. The 
+principles in the Code are intended to: 
+• Establish ethical and fair practice in all business relationships, dealings and activities. 
+• Ensure compliance with all laws, regulations and Killam policies. 
+• Facilitate a safe working environment with respect for people and a commitment to diversity, 
+equal opportunity and freedom from exposure to improper conduct and discrimination. 
+• Maintain professional integrity in all business dealings. 
+• Protect Killam’s assets, ensuring only proper use for Killam’s benefit. 
+• Safeguard the use of confidential information and maintain proper reporting procedures. 
+• Provide additional, practical insight into applying Killam’s Core Values, specifically Do the Right 
+Thing, to Killam’s everyday operations.Commitment to Governance
+23 KILLAM APARTMENT REIT | 2020Killam has a Whistleblower Policy to encourage individuals and businesses to report any harmful 
+activity without fear of retribution. The Whistleblower Policy underscores Killam’s commitment to 
+operating at the highest standards of accountability and transparency.
+Through Killam’s corporate website, any individual can complete a confidential form to report any 
+harmful activity that they may have witnessed. Reports are sent directly to the Chair of the Audit 
+Committee and all information submitted remains confidential. 
+Diversity and Inclusion
+[GRI 103-1, 103-2, 103-3 for GRI 405] 
+Killam is committed to providing a 
+supportive and inclusive workplace for all 
+employees. Employees are encouraged 
+to develop their full potential and use 
+their unique talents, maximizing the 
+efficiency of the team. Killam recognizes 
+the benefits which arise from employee 
+diversity, including a strengthened 
+corporate culture, improved employee 
+retention, access to different perspectives 
+and ideas and the benefit of all available 
+talent. Killam is an equal opportunity employer. All decisions regarding recruitment, hiring, 
+promotion, compensation, employee development and all other terms and conditions of 
+employment are made without regard to race, nationality or ethnic origin, colour, religion, age, 
+sex, sexual orientation, gender orientation, marital status, civil status, physical or mental disability 
+or any other protected ground, as set out in Killam’s Code of Business Conduct and Ethics and 
+applicable human rights legislation. Killam’s commitment to a diverse and inclusive workplace is 
+apparent in the following initiatives, policies and practices: 
+• Killam has both employee and Board of Trustees diversity policies to promote inclusiveness, 
+diversity and leadership opportunities. 
+• Three of ten Board positions and six of eleven senior management positions are occupied by 
+females. 
+• Killam’s commitment to diversity is evident in employee policies, handbooks, documents and 
+employee portal. More importantly, respect and fair treatment are an essential part of the culture. 
+• Respectful workplace training is provided to employees on a regular basis. 
+• Killam has partnered with the Canadian Centre for Diversity & Inclusion (CCDI) to assist in 
+delivering a strong D&I program.
+• Any discriminatory practices or behaviours in the workplace are not tolerated and are addressed 
+immediately.Commitment to Governance
+24 KILLAM APARTMENT REIT | 202025 KILLAM APARTMENT REIT | 2019  Risk Management & Cyber Security
+Killam’s risk management program ensures Management assesses the Trust’s largest risks as well as 
+stays informed on emerging issues. The safety of Killam’s residents 
+and staff are a top priority. Response to the COVID-19 pandemic 
+was a priority in 2020 and Killam quickly activated response to 
+the pandemic, and continues to closely follow provincial health 
+safety guidelines to keep employees, residents, partners and its 
+communities safe. 
+On a quarterly basis, Killam’s Risk Management Committee, including senior representatives 
+from all departments, addresses initiatives to improve the safety and security of Killam’s portfolio. 
+Initiatives implemented in 2020 included enhanced risk reporting through a cloud-based risk 
+management software solution rolled out in 2019, process improvements for managing tenant 
+and contractor insurance certificates, procurement of water loss kits to reduce damage from 
+water claims and piloting of a firestopping product. In addition, weekly and monthly property 
+inspections by Killam’s property management team identify and address risk mitigation.
+Cyber security is a risk facing all organizations and one Killam takes seriously. The protection 
+of Killam’s data is the foundation of its cyber security program and ensures the resident and all 
+proprietary data remain safe and secure. Killam works to reduce its cyber threat exposure and 
+continued to enhance its cyber capabilities in the past year by migrating all data to cloud-based 
+solutions with high-quality partners. Commitment to Governance
+Killam uses multi-factor 
+authentication for all 
+corporate emails and data, 
+with cloud-to-cloud backup 
+and recovery systems.
+25 KILLAM APARTMENT REIT | 2020  Educating employees in cybersecurity is a key priority that when coupled with robust firewall 
+software, provides maximum protection. As well, Killam has deployed software that simulates 
+phishing emails. Mandatory training is required if employees fail the random simulations. At Killam, 
+advanced email security servers lever artificial intelligence and machine learning algorithms as front-
+line defense for email security, multi-factor authentication is required for all employees to access all 
+corporate emails and data, and cloud-to-cloud backup and recovery systems are provided. Killam 
+continues to develop cyber defense through on-going investment in cyber technologies and driving 
+the education and awareness of employees.
+Stakeholder Engagement
+[GRI 102-40, 102-42, 102-43]
+Killam is committed to engaging with all its stakeholders on ESG issues. Killam engages with its 
+stakeholders in the following ways: 
+Residents – Killam surveys its residents annually and uses this feedback to action and focus on 
+areas of importance. 
+Employees – Killam surveys its employees annually for feedback on a variety of topics including 
+compensations and benefits, career opportunities and advancement, diversity and inclusion, as 
+well as safety and comfort in their workplace. This feedback is used to find areas of opportunity to 
+drive employee programming.
+Investors – Killam regularly meets with investors at conferences, private meetings and on property 
+tours to discuss a variety of topics including operations, strategy, corporate governance and 
+sustainability. 
+Communities – Killam is an active participant in the communities in which it operates and regularly 
+engages in dialogue with local groups on community activities. Killam also receives feedback on 
+its development projects. 
+In addition to effective stakeholder engagement, Killam responds to investor and ESG-related 
+emails and inquiries on an ongoing basis. Any inquiries or comments may be directed through the 
+VP of Investor Relations & Sustainability: Nancy Alexander, nalexander@killamreit.com.
+Further Information
+For further information about Killam’s sustainability program and performance, please refer 
+to Killam’s website at killamreit.com/esg. For governance-related disclosures, please refer 
+to Killam’s website at killamreit.com/investor-relations/corporate-governance, and Killam's 
+Management Information Circular and Annual Information Form available on sedar.com.
+If you have questions about this report, please email nalexander@killamreit.com.Commitment to Governance
+26 KILLAM APARTMENT REIT | 2020Killam’s ESG Performance Data 
+Killam's ESG Data Table
+2020 2019 Indicator
+Portfolio 
+Number of apartment properties                    206  199                     IF‐RE‐000.A
+Number of apartment units 17,048            16,325               IF‐RE‐000.A
+Leasable floor area (SF) 17,595,296    16,995,617       IF‐RE‐000.B
+Number of indirectly managed assets 1                       ‐                      IF‐RE‐000.C
+Occupancy Rate 96.5% 97.0% IF‐RE‐000.D
+Number of MHC properties 39                     38                        IF‐RE‐000.A
+Number of MHC sites 5,875               5,786                 IF‐RE‐000.A
+Acres of land 1,707               1,643                 IF‐RE‐000.B
+Number of indirectly managed assets ‐                    ‐                      IF‐RE‐000.C
+Occupancy Rate 97.8% 97.8% IF‐RE‐000.D
+Number of commercial properties 8                       7                          IF‐RE‐000.A
+Leasable floor area (SF) 749,661          771,715             IF‐RE‐000.B
+Number of indirectly managed assets 1                       2                          IF‐RE‐000.C
+Occupancy Rate 91.0% 89.6% IF‐RE‐000.D
+Environmental Performance 
+Energy consumption data coverage as a percentage of total floor  area, by 
+property subsector 100% 100%IF‐RE‐130a.1
+Consumption from non‐renewable resources (MWh)
+Electricity consumption 188,818          174,316             IF‐RE‐130a.2 and GRI 302‐1
+Natural gas, oil, propane, petrol and steam consumption 156,555          162,761             IF‐RE‐130a.2 and GRI 302‐1
+Total 345,373          337,077            IF‐RE‐130a.2 and GRI 302‐1
+Total energy generated from renewable consumption (MWh) 7                       ‐                      IF‐RE‐130a.2
+Percentage grid electricity 99.998% 100.0% IF‐RE‐130a.2
+Percentage renewable 0.002% −% IF‐RE‐130a.2
+Like‐for‐like percentage change in energy consumption (1.0)% 2.4% IF‐RE‐130a.3
+Percentage of tenants that are separately metered or submetered  for grid 
+electricity consumption 85.9% 85.3%IF‐RE‐410a.2
+Gross direct (Scope 1) GHG emissions (tCO2e) 29,194            30,542               GRI 305‐1 and TCFD 10
+Gross direct (Scope 2) GHG emissions (tCO2e) 18,168            18,651               GRI 305‐2 and TCFD 10
+Gross direct (Scope 3) GHG emissions (tCO2e) 49,370            48,135               TCFD 10
+GHG intensity ratio (tCO2e/sf) 3.83                 4.06                    GRI 302‐3 and 305‐4
+Water withdrawal data coverage as a percentage of total floor area 95.2% 94.9%IF‐RE‐140a.1
+Water withdrawal data coverage as a percentage of floor area in regions 
+with High or Extremely High Baseline Water Stress 100% 100%IF‐RE‐140a.2
+Total water withdrawn (m3) 2,031,768       1,942,232         GRI 303‐5 and IF‐RE‐140a.2
+Percentage of total water withdrawn in regions with High or Ext remely 
+High Baseline Water Stress 10.4% 7.8% IF‐RE‐140a.2
+Like‐for‐like percentage change in water withdrawn for portfoli o area 
+with data coverage 3.5% ‐1.3%IF‐RE‐140a.3
+Percentage of tenants that are separately metered or submetered  for 
+water withdrawal 2.3% 2.5%IF‐RE‐410a.2Apartments
+Greenhouse Gas Emissions
+WaterEnergyCommercialManufactured Home Communities
+27 KILLAM APARTMENT REIT | 2020Killam’s ESG Performance Data 
+2020 2019 Indicator
+Board of Directors  GRI 102‐8 and 405‐1
+Female 30% 20%
+Male 70% 80%
+Senior Management ¹ 
+Female 50% 55%
+Male 50% 45%
+Overall Employees ²
+Female 48% 49%
+Male 51% 51%
+Non‐binary ³ 1% −%
+Permanent Employees 
+Female 292 (48%) 306 (49%)
+Male 313 (51%) 317 (51%)
+Non‐binary 6 (1%) ‐                     
+Temporary Employees 
+Female 24 (56%) 11 (28%)
+Male 19 (44%) 28 (72%)
+Non‐binary ‐                      ‐                     
+Full‐time Employees 
+Female 228 (48%) 244 (49%)
+Male 239 (51%) 251 (51%)
+Non‐binary 6 (1%) ‐                     
+Part‐time Employees 
+Female 88 (49%) 73 (44%)
+Male 93 (51%) 94 (56%)
+Non‐binary ‐                      ‐                     
+Self‐identified BIPOC  11% 11% GRI 405‐1
+Persons with a Disability 6% 6%
+LGBTQ2+ 6% 6%
+Senior Management GRI 405‐1
+Under 30 years old −% −%
+30‐50 years old 50% 45%
+Over 50 50% 55%
+Overall Employees ²
+Under 30 years old 13% 10%
+30‐50 years old 36% 38%
+Over 50 51% 52%
+¹ Includes Killam's C‐suite, Executive Vice President, Senior Vic e Presidents' and Vice Presidents'.
+² Total employee count as at December 31 (2020 ‐ 654; 2019 ‐ 662) .
+³ Non‐binary includes employees who do not identify as male or fe male. 
+4 Killam completes an employee diversity survey bi‐annually, whic h was last completed in 2019. 4Gender RepresentationSocial Performance 
+Diversity Representation 4
+Age Representation 
+28 KILLAM APARTMENT REIT | 20202020 2019 Indicator
+Total Employee Hires GRI 401‐1
+As a percentage of total employees 19% 24%
+Number of people 121 161
+Employee hires by age group
+Under 30 years old 33 (25%) 37 (19%)
+30‐50 years old 53 (40%) 78 (40%)
+Over 50 46 (35%) 80 (41%)
+Employee hires by gender
+Female 64 (48%) 92 (47%)
+Male 67 (51%) 96 (49%)
+Non‐binary ¹ 1 (1%) 7 (4%)
+Total Employee Turnover GRI 401‐1
+As a percentage of total employees 22% 23%
+Number of people 145 154
+Employee turnover by age group
+Under 30 years old 27 (19%) 31 (20%)
+30‐50 years old 59 (41%) 63 (41%)
+Over 50 59 (40%) 60 (39%)
+Employee turnover by gender
+Female 73 (50%) 78 (51%)
+Male 71 (49%) 75 (49%)
+Non‐binary 1 (1%) 1 (1%)
+Average hours of training by gender ² GRI 404‐1
+Female 4                          5
+Male 4                          6
+Non‐binary 6                          18
+Average hours of training by employee category
+Senior Management ³ 8                          1                         
+Resident Managers 4                          6                         
+Maintenance Staff 5                          9                         
+Other 3                          3                         
+Average hours of training per employee 4                          5                         
+Employee's receiving regular performance reviews GRI 404‐3
+Female Employees 90% 95%
+Male Employees 90% 96%
+Non‐binary Employees 100% 100%
+Senior Management 11% 100%
+Resident Managers 94% 97%
+Maintenance Staff 88% 100%
+All Other Employees 85% 91%
+Overall Employees 88% 95%
+¹ Non‐binary includes employees who do not identify as male or  female. 
+² Average training hours are calculated using the total employe e count. 
+³ Includes Killam's C‐suite, Executive Vice President, Senior V ice Presidents' and Vice Presidents'.Social Performance 
+Employee Hires
+Employee Turnover
+Employee Training 
+Performance ReviewsKillam’s ESG Performance Data 
+29 KILLAM APARTMENT REIT | 2020Killam’s ESG Performance Data 
+2020 2019 Indicator
+Social Performance 
+Resident satisfaction score (%) 87% 88%
+Portfolio assets for which health and safety impacts are assess ed for 
+improvement 100% 100% GRI 416‐1
+Full Time Employees GRI 102‐8
+Halifax                            209                              224 
+Moncton                              49                                47 
+Fredericton                              34                                42 
+Saint John                              34                                35 
+Ottawa                              25                                26 
+Southwest Ontario                              52                                54 
+Prince Edward Island                              26                                25 
+Newfoundland                              22                               25  
+Alberta                              22                                17 
+BC                                2                                 ‐   
+Part Time/Temporary Employees
+Halifax                              62                                68 
+Moncton                              33                                27 
+Fredericton                              16                                14 
+Saint John                                7                                  7 
+Ottawa                                6                                  3 
+Southwest Ontario                              14                                13 
+Prince Edward Island                              27                                22 
+Newfoundland                              10                                12 
+Alberta                                2                                  1 
+BC                                2                                 ‐   
+Total                            654                              662 
+Governance Performance 
+Board oversight on ESG Strategy Yes Yes GRI 102‐18
+Executive level responsibility on ESG strategy and performance
+President and Chief Executive Officer Yes Yes GRI 102‐20
+Chief Financial Officer Yes Yes GRI 102‐20
+Reporting level of Executives for ESG strategy and performance B oard of Trustees Board of Trustees GRI 102‐20
+Independent Non‐executive Trustees 89% 75% GRI 102‐22
+Non‐Independent Non‐executive Trustees 11% 25% GRI 102‐22
+Self‐identified female/male  30% / 70% 20% / 80% GRI 102‐22
+ ¹ Total employee count as at December 31 (2020 ‐ 654; 2019 ‐ 662) .Resident health, safety and satisfaction 
+Board CompositionEmployees by Region ¹
+Board Governance
+30 KILLAM APARTMENT REIT | 2020Global Reporting Initiative Content Index
+Global Reporting Initiative Content Index
+Indicator Description Explanation/Section
+102‐1 The name of the organization Killam Apartment REIT ("Killam ")
+102‐2 Activities, brands, products and servicesKillam is a growth‐oriented Canadian real estate investment tru st owning, operating 
+and developing apartments and manufactured home communities. Ki llam owns a $3.8 
+billion real estate portfolio, located in Atlantic Canada, Onta rio, Alberta and British 
+Columbia.
+102‐3 Location of headquartersKillam's corporate head office is located in Halifax, Nova Scot ia, with property 
+management offices in all our major regions. 
+102‐4 Location of operationsKillam's operations are within Canada, for details on Killam's  specific operating regions 
+see About Killam and Killam's Strategy pg. 3
+102‐5 Ownership and legal formKillam is an open‐ended real estate investment trust ("REIT") f ormed under the laws of 
+the Province of Ontario pursuant to an amended and restated dec laration of trust 
+dated November 27, 2015 (the "Declaration of Trust"). The Decla ration of Trust is 
+available on SEDAR at www.sedar.com.
+102‐6 Markets served About Killam and Killam's Strategy, pg. 3
+102‐7 Scale of the organizationAs of December 31, 2020, Killam had approximately $3.8 billion  in portfolio assets and 
+approximately 700 employees across seven provinces within Canad a.
+About Killam and Killam's Strategy, pg. 3 and Employees, pg. 17
+102‐8 Information of employees and other workers Employees, pg. 1 7
+102‐9 Supply chain Supply Chain Responsibility, pg. 22
+102‐10 Significant changes to the organization and its supply ch ainKillam did not undergo any significant changes to the organizat ion or its supply chain in 
+2020. 
+102‐11 Precautionary principle or approach Killam does not currently use the Precautionary Principal to pr otect against 
+environmental degradation. The SASB and TCFD indexes below refe rences further 
+discussions on Killam's climate change risk management practice s.
+102‐12 External initiatives United Nations Sustainable Developmen t Goals ("SDGs") pg. 7
+102‐13 Membership of associationsBuilding Owners and Managers Association (BOMA)
+Calgary Residential Rental Association (CRRA)
+Canadian Federation Apartment Association (CFAA)
+Eastern Ontario Landlord Organization (EOLO)
+Federation of Rental Housing Providers in Ontario (FRPO)
+Greater Toronto Apartment Association (GTAA)
+Investment Property Owners Association of Nova Scotia (IPOANS)
+London Property Management Association (LPMA)
+Real Property Association of Canada (REALPAC) 
+Waterloo Region Home Builders Association (WRHBA)
+102‐14 Statement from senior decision‐maker Letter from the Presi dent & CEO, pg. 2
+102‐16 Values, principals, standards, and norms of behaviourESG Methodology, pg. 8
+Social, pg. 15
+Ethics, pg. 23
+102‐17 Mechanisms for advice and concerns about ethics Ethics, pg . 23
+102‐18 Governance structureGovernance, pg. 23. Please also refer to Killam's 2020 Manageme nt Information 
+Circular, Governance Practices pg. 54.
+102‐19 Delegating authorityESG Methodology, pg. 8, Social, pg. 15, Ethics, pg. 23. Please  also refer to Killam's 2020 
+Management Information Circular for additional governance infor mation.
+102‐20Executive‐level responsibility for economic, environment and so cial 
+topicsESG Methodology, pg. 8
+Killam's President & Chief Executive Officer, Executive Vice Pr esident and Chief 
+Financial Officer all have individual performance targets linke d to compensation to 
+enhance Killam's ESG Program. Killam has a Vice President of In vestor Relations and 
+Sustainability who champions Killam's ESG initiatives along wit h the executive team 
+members. In 2020, Killam executives met their target to expand  Killam's ESG program 
+which was supported by a 15 point or 32% improvement in Killam' s 2020 GRESB 
+submission over its initial submission in 2019. The President &  CEO reports into the 
+Board of Trustee's Governance and ESG Committee who oversee Kil lam's ESG practices 
+and initiatives. 
+102‐22 Composition of the highest governance body and its commit teesESG Data table, pg. 27. Please also refer to Killam's 2020 Mana gement Information 
+Circular , Governance Practices  pg. 54 and Committees  pg. 67.GRI  
+Organizational Profile
+Strategy
+Ethics and integrity
+Governance
+31 KILLAM APARTMENT REIT | 2020Global Reporting Initiative Content Index
+Global Reporting Initiative Content Index
+Indicator Description Explanation/Section
+102‐40 List of stakeholder groups Stakeholder Engagement, pg. 26
+102‐41 Collective bargaining agreements non‐unionized; 0%
+102‐42 Identifying and selecting stakeholders Stakeholder Engagem ent, pg. 26
+102‐43 Approach to stakeholder engagement Stakeholder Engagement,  pg. 26
+102‐44 Key topics and concerns raised Nothing material to note.
+102‐45 Entities included in the consolidated financial statement sKillam Apartment REIT and its principal subsidiaries as listed  in Killam's Annual 
+Information Form on sedar.com
+102‐46 Defining report content and topic boundaries Materiality A ssessment, pg. 8
+102‐47 List of material topicsKillam's material topics addressed in this report include Board  Composition and 
+Governance, Regulatory Compliance, Data and Cyber Security, Eth ics, Health Wellbeing 
+and Safety, Employee Engagement Training and Development, Green house Gas 
+Emissions, Resident Satisfaction, Sustainable Development desig n and product quality, 
+Energy and Water Management, Insurance and Risk Management, Div ersity and 
+Inclusion, Risk of Climate Change, Waste Management, Sustainabl e Communities and 
+Supply Chain Responsibility. Please also refer to Materiality A ssessment, pg. 8
+102‐48 Restatements of information No material restatements.
+102‐49 Changes in reporting No material changes. 
+102‐50 Reporting periodAll information in the report covers the year ended December 31, 2020, unless 
+otherwise stated.
+102‐51 Date of most recent reportKillam's 2019 ESG Report provides comparable information to 202 0, and was prepared 
+in accordance with GRI Core Standards. 
+102‐52 Reporting cycle Annual
+102‐53 Contact point for questions regarding the reportNancy Alexander, Vice President of Investor Relations & Sustain ability; 
+nalexander@killamreit.com
+102‐54 Claims of reporting in accordance with the GRI Standards T his report has been prepared in accordance with the GRI Standar ds: Core Option
+102‐55 GRI content index GRI Content Index, pg. 31
+102‐56 External assurance Killam's management was responsible for preparing Killam's 2020  ESG Report, and for 
+maintaining effective internal control over the data and inform ation disclosed. Various 
+internal reviews were undertaken to ensure the accuracy and com pleteness of the 
+information and data disclosed in this report. Killam's 2020 GH G Inventory was 
+independently verified by Quinn and Partners.
+103‐1 Explanation of the material topic and its boundary 2020 Ann ual Report, Strategy pg. 2
+103‐2 The management approach and its components 2020 Annual Repo rt, Strategy pg. 7
+103‐3 Evaluation of the management approach 2020 Annual Report, p g. 6
+201‐1 Direct economic value generated and distributed2020 Annual Report, Financial and Operational Highlights, pg. 4  and Distribution 
+Reinvestment Plan and Net Distributions Paid, pg. 64
+201‐2Financial Implications and other risks and opportunities due to  
+climate chan geClimate Change, pg. 13
+103‐1 Explanation of the material topic and its boundary Commitme nt to the Environment, pg. 9 and Green House Gas Emissions, pg.  11
+103‐2 The management approach and its components Commitment to th e Environment, pg. 9 and Green House Gas Emissions, pg. 11
+103‐3 Evaluation of the management approach Commitment to the Env ironment, pg. 9 and Green House Gas Emissions, pg. 11
+302‐1 Energy consumption within the organization ESG Data table,  pg. 27
+302‐3 Energy Intensity ESG Data table, pg. 27
+103‐1 Explanation of the material topic and its boundary Water Ma nagement, pg. 14
+103‐2 The management approach and its components Water Management , pg. 14
+103‐3 Evaluation of the management approach Water Management, pg.  14
+303‐1 Interactions with water as a shared resource Water Manageme nt, pg. 14
+303‐5 Water Consumption ESG Data table, pg. 27Water and effluents GRI  
+Stakeholder engagement
+Reporting practice
+Economic Performance
+Energy
+32 KILLAM APARTMENT REIT | 2020Global Reporting Initiative Content Index
+Global Reporting Initiative Content Inde x
+Indicator Description Explanation/Section
+103‐1 Explanation of the material topic and its boundary Greenhou se Gas Emissions, pg. 11
+103‐2 The management approach and its components Greenhouse Gas E missions, pg. 11
+103‐3 Evaluation of the management approach Greenhouse Gas Emissi ons, pg. 11
+305‐1 Direct (Scope 1) GHG emissions ESG Data table, pg. 27
+305‐2 Energy indirect (Scope 2) GHG emissions ESG Data table, pg.  27
+305‐4 GHG emissions intensity ESG Data table, pg. 27
+103‐1 Explanation of the material topic and its boundary Employee s, pg. 17
+103‐2 The management approach and its components Employees, pg. 1 7
+103‐3 Evaluation of the management approach Employees, pg. 17
+401‐1 New employee hire and employee turnover ESG Data table, pg. 27
+103‐1 Explanation of the material topic and its boundary Training and Development, pg. 18
+103‐2 The management approach and its components Training and Dev elopment, pg. 18
+103‐3 Evaluation of the management approach Training and Developm ent, pg. 18
+404‐1 Average hours of training per year per employee ESG Data table, pg. 27
+404‐2Programs for upgrading employee skills and transition assistanc e 
+programs Training and Development, pg. 18
+404‐3Percentage of employees receiving regular performance and caree r 
+development reviews ESG Data table, pg. 27
+103‐1 Explanation of the material topic and its boundary Diversity and Inclusion, pg. 17 and 24
+103‐2 The management approach and its components Diversity and In clusion, pg. 17 and 24
+103‐3 Evaluation of the management approach Diversity and Inclusi on, pg. 17 and 24
+405‐1 Diversity of governance bodies and employees ESG Data table, pg. 27
+103‐1 Explanation of the material topic and its boundary Residents, pg. 20
+103‐2 The management approach and its components Residents, pg. 2 0
+103‐3 Evaluation of the management approach Residents, pg. 20
+416‐1Assessment of health and safety impacts of product and service 
+categoriesESG Data table, pg. 27GRI  
+EmploymentEmissions
+Training and Education
+Diversity and Equal Opportunity
+Resident Health and Safety
+33 KILLAM APARTMENT REIT | 2020SASB Index
+SASB Index
+SASB 
+Indicator Description Explanation/Section
+IF‐RE‐130a.1Energy consumption data coverage as a percentage of total floor  
+area, by property subsector ESG Data table, pg. 27
+IF‐RE‐130a.2(1) Total energy consumed by portfolio area with data coverage,  
+(2) percentage grid electricity, and (3) percentage renewable,  by 
+property subsector ESG Data table, pg. 27
+IF‐RE‐130a.3Like‐for‐like percentage change in energy consumption for the 
+portfolio area with data coverage, by property subsector ESG Dat a table, pg. 27
+IF‐RE‐130a.4Percentage of eligible portfolio that (1) has an energy rating  and 
+(2) is certified to ENERGY STAR, by property subsector0.4% of Killam's portfolio has an energy rating, and 0% is cert ified 
+to Energy Star.
+IF‐RE‐130a.5Description of how building energy management considerations 
+are integrated into property investment analysis and operationa l 
+strategy Energy Management, pg. 9
+IF‐RE‐140a.1Water withdrawal data coverage as a percentage of (1) total flo or 
+area and (2) floor area in regions with High or Extremely High 
+Baseline Water Stress, by property subsector ESG Data table, pg.  27
+IF‐RE‐140a.2(1) Total water withdrawn by portfolio area with data coverage 
+and (2) percentage in regions with High or Extremely High 
+Baseline Water Stress, by property subsector ESG Data table, pg.  27
+IF‐RE‐140a.3Like‐for‐like percentage change in water withdrawn for portfoli o 
+area with data coverage, by property subsector ESG Data table, pg. 27
+IF‐RE‐140a.4Description of water management risks and discussion of 
+strategies and practices to mitigate those risks Water Managemen t, pg. 14
+IF‐RE‐410a.1(1) Percentage of new leases that contain a cost recovery clause 
+for resource efficiency related capital improvements and (2) 
+associated leased floor area, by property subsector0% of Killam's new leases contain a cost recovery clause for 
+efficiency related capital improvements.
+IF‐RE‐410a.2Percentage of tenants that are separately metered or 
+submetered for (1) grid electricity consumption and (2) water 
+withdrawals, by property subsector ESG Data table, pg. 27
+IF‐RE‐410a.3Discussion of approach to measuring, incentivizing, and 
+improving sustainability impacts of tenants Energy Management, p g. 9 and Water Management, pg. 14
+IF‐RE‐450a.1Area of properties located in 100‐year flood zones, by property  
+subsector Killam does currently not disclose this data.
+IF‐RE‐450a.2Description of climate change risk exposure analysis, degree of  
+systematic portfolio exposure, and strategies for mitigating ri sks Climate Change, pg. 13
+IF‐RE‐000.A Number of assets, by property subsector Refer to pg. 27 for number of assets, by property subsector.
+IF‐RE‐000.B Leasable floor area, by property subsector Refer to p g. 27 for leasable floor area, by property subsector.
+IF‐RE‐000.C Percentage of indirectly managed assets, by property subsectorRefer to pg. 27 for percentage of indirectly managed assets, by 
+property subsector.
+IF‐RE‐000.D Average occupancy rate, by property subsectorRefer to pg. 27  for average occupancy rate,  but property 
+subsector. Energy Management
+Water Management
+Management of Tenant Sustainability Impacts
+Climate Change Adaptation
+Activity Metrics
+34 KILLAM APARTMENT REIT | 2020TCFD Index
+TCFD Index
+TCFD
+Indicator Description Explanation/Section
+1Describe the board’s oversight of climate‐related risks and 
+opportunities. Climate Change, pg. 13
+2Describe management’s role in assessing and managing climate ‐
+related risks and opportunities. Climate Change, pg. 13
+3Describe the climate‐related risks and opportunities the 
+organization has identified over the short, medium, and long 
+term. Climate Change, pg. 13
+4Describe the impact of climate‐related risks and opportunities 
+on the organization’s businesses, strategy, and financial 
+planning. ESG Methodology, pg. 8 and Climate Change, pg. 13
+5Describe the resilience of the organization’s strategy, taking 
+into consideration different climate‐related scenarios, includi ng 
+a 2°C or lower scenario.Killam is actively working towards reducing GHG emissions, 
+and is establishing a long‐term plan to move to net‐zero 
+carbon emissions. Refer to Greenhouse Gas Emissions, pg. 
+11 and Climate Change, pg. 13 for more information. 
+6Describe the organization’s processes for identifying and 
+assessing climate‐related risks. Climate Change, pg. 13
+7Describe the organization’s processes for managing climate‐
+related risks. Climate Change, pg. 13
+8Describe how processes for identifying, assessing, and 
+managing climate‐related risks are integrated into the 
+organization’s overall risk management. Climate Change, pg. 13
+9Disclose the metrics used by the organization to assess climate ‐
+related risks and opportunities in line with its strategy and r isk 
+management process. Killam's ESG Targets, pg. 6 and Climate Chan ge, pg. 13
+10Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 
+greenhouse gas (GHG) emissions, and the related risks. ESG Data  table, pg. 27
+11Describe the targets used by the organization to manage 
+climate‐related risks and opportunities and performance 
+against targets.2020 Goals and Performance, pg. 4, Killam's ESG Targets, pg. 
+6 and Climate Change, pg. 13Governance
+Strategy
+Risk Management
+Metrics and Targets
+35 KILLAM APARTMENT REIT | 2020Killam Apartment REIT
+Suite 100, 3700 Kempt Road
+Halifax, Nova Scotia  B3K 4X8
+1.866.453.8900  |  killamreit.com  
+TSX: KMP .UN

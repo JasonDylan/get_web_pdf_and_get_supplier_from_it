@@ -1,0 +1,1906 @@
+SUSTAINABLE ENERGY, ENGINEERED SUSTAINABLY
+ENVIRONMENTAL, SOCIAL AND 
+GOVERNANCE REPORT, 2020
+ITM
+P
+20EWO
+RENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2020ITM POWER ESG REPORT  2020
+SUSTAINABLE ENERGY, ENGINEERED SUSTAINABLY
+ENVIRONMENTAL, SOCIAL AND 
+GOVERNANCE REPORT, 2020
+Letter from our CEO 1 
+About this Report 2
+ITM Power at a Glance 3
+Our ESG Framework: Sustainable Energy, 
+Engineered Sustainably5
+Our Products 7
+Case Study: Creating the World’s 
+Largest PEM Electrolyser8
+Our Influence
+Case study: Decarbonising the Gas Grid 
+Case Study: COP26 Education Programme9ENVIRONMENTAL ISSUES
+Material Uses
+Energy and Greenhouse Gas Emissions 
+Toxic Emissions, Waste and Water
+Opportunities in Clean Technology11
+SOCIAL ISSUES
+Procurement Practices
+Human Rights, Child Labour and Forced Labour
+Customer Health and Safety14
+Employee Health and Safety
+Local Community Engagement
+Labour and Management Relations
+Diversity and Inclusion  16
+Employment Practices
+Employee Training and Education19
+GOVERNANCE ISSUES
+Responsible Governance
+Tax
+Anti-Corruption20
+Data Security
+Resilience and Risk Management
+Stakeholder Engagement21“
+ITM POWER ESG REPORT  2020We’re at a new stage in our development and robust 
+ESG activity will be a critical part of our growth over 
+the years ahead. 
+That’s why, in 2021, we are launching our new ESG 
+strategy: Sustainable Energy, Engineered Sustainably . 
+This strategy represents a major step-change in our 
+ambitions as a business. It is designed to ensure 
+long-term growth that sustains, rather than harms, 
+people and the planet, and helps us to deliver the 
+best value for our shareholders in the years to come. 
+We realise we have a lot to do, but we are determined 
+to deliver on our ambitions and excited about what 
+lies ahead.  
+This report sets out our progress so far, including our 
+partnership with Linde to create the world’s largest PEM 
+electrolyser and our ambitious pilot with Keele University 
+to decarbonise the gas grid. But, crucially, it also lays out 
+our plans for the future, including our commitment to 
+measure, report and set targets for our greenhouse gas 
+emissions and to accelerate our investment in our 
+employees and our local community through our new 
+ITM Nurture and ITM Academy programmes. 
+We’re still at the beginning of our journey – and we have 
+a long way to go. But I know that through the power 
+of our product, our people, and our business, we can 
+work towards a world that our children and grandchildren 
+will be proud of.LETTER FROM OUR CEO
+King Willem Alexander opens HyStock, where ITM Power Plc supplied the electrolyser to Gasunie
+I’m pleased to introduce ITM Power’s first 
+Environmental, Social and Governance (ESG) report. 
+My parents were environmental activists. Ever since 
+I was a teenager, I’ve cared deeply about protecting our 
+planet. I’ve worked in the power industry since 1989 
+and watched the climate crisis rise up the global agenda.  
+Today, we are at a turning point. If we act now, it is still 
+possible to avoid heating our planet beyond the 1.5°C 
+limit set out in the Paris Agreement – and avoid 
+catastrophic consequences for people across the world. 
+But if we continue emitting carbon at the current rate, 
+we will run out of time. We have to make a choice 
+about the kind of world we want our children and 
+grandchildren to inherit. 
+ITM Power’s mission is to help the world reach net zero 
+through the power of green hydrogen. Our electrolysers 
+use renewable energy and water to produce green, 
+clean hydrogen that can be released into the gas grid, 
+used as a clean vehicle fuel or in a host of industrial 
+processes, with oxygen as the only by-product. 
+We unlock the power of renewables to decarbonise the 
+electricity grid and replace the polluting hydrogen that 
+the market currently relies on. In doing so, we also help 
+to deliver progress in line with several of the UN 
+Sustainable Development Goals . 
+Through our products, we can change the world. 
+But we also need to be a responsible corporate citizen. 
+This means bringing the same ambition we put into our 
+products to developing our people, building links with 
+our communities and suppliers, minimising the 
+environmental footprint of our operations, and 
+implementing strong governance processes to manage 
+risks and secure the future of our business. We can’t 
+just focus on sustainable energy. We have to engineer 
+it sustainably too.
+ITM Power has grown rapidly over the past five years, 
+and continues to do so. At the start of 2021, we moved 
+into our new 1GW per annum Gigafactory in Sheffield 
+and announced the sale of the world’s largest Proton 
+Exchange Membrane (PEM) electrolyser plant to Linde. THROUGH THE POWER 
+OF GREEN HYDROGENITM POWER ESG REPORT  2020LETTER FROM OUR CEO
+SUSTAINABLE ENERGY
+“
+DR GRAHAM COOLEY
+CEO, ITM POWERITM POWER’S MISSION IS TO  
+HELP THE WORLD REACH NET ZERO  ABOUT THIS REPORT  
+THIS IS ITM POWER’S FIRST ESG REPORT.    
+All data covers the calendar year January to December 2020, unless otherwise 
+specified. This report is designed to reflect our ESG ambitions set out in our new 
+ESG strategy, launched in April 2021. Our next ESG report will be published in 
+2022, and will cover the period from January 2021 to April 2022, to align with our 
+financial reporting cycle.   
+For questions about the report, please contact James Collins, 
+Head of Investor Relations, at JCOLLINS@ITM-POWER.COM .ITM POWER ESG REPORT  2020
+ABOUT THIS REPORT
+SUSTAINABLE ENERGYPEOPLE COME TO  
+WORK AT ITM POWER ,  
+BECAUSE THEY WANT  
+TO MAKE THE WORLD 
+A BETTER PLACE.   
+ THAT’S WHAT 
+BROUGHT ME HERE 
+AND IT’S WHAT’S 
+KEPT ME HERE 
+FOR THE PAST 
+TWENTY YEARS.  
+ 
+ DR RACHEL SMITH 
+EXECUTIVE DIRECTOR, ITM POWERFor the past twenty years, ITM Power has been designing and 
+manufacturing electrolyser systems that generate hydrogen 
+gas based on Proton Exchange Membrane (PEM) technology. 
+Our electrolysers run on renewable electricity and water, with 
+oxygen as the only by-product. We are a globally recognised 
+expert in green hydrogen. 
+In recent years, we’ve seen interest in green hydrogen increase 
+rapidly worldwide. To meet potential demand and help accelerate 
+global progress towards net zero, we have scaled up at speed. 
+In 2021, we opened our new Gigafactory in Bessemer Park, 
+Sheffield: the world’s largest electrolyser production factory. 
+This represents a step-change in our ambition and capacity as 
+a business, enabling us to cut the cost of electrolysers by almost 
+40% in the next three years, from increased automation and 
+economies of scale. 
+We also work strategically with partners to scale our impact.
+In 2019, we concluded a strategic investment and joint venture 
+agreement with Linde Engineering, a global expert in engineering, 
+procurement and construction for large industrial projects. 
+The agreement, and our 50% investment in ITM Linde Electrolysis 
+GmbH, allows us to focus solely on our prime source of competitive 
+advantage: the efficient manufacture and supply of best-in-class 
+PEM electrolysers. Linde will provide its world leading EPC services 
+for the projects won through the new company. 
+We also have a £30m strategic investment from, and a commercial 
+partnership agreement with, Snam, one of the world’s leading 
+energy infrastructure operators. 
+For more details on our partnerships, see our 2020 Annual Report . ITM POWER ESG REPORT  2020
+“ “ITM POWER 
+AT A GLANCE
+ITM Power plc (our holding company)
+ITM Power (Research) Limited 
+ITM Power (Trading) Limited 
+ITM Power Inc. (which serves the US market)
+ITM Power GmbH (which serves the German market)A
+B
+C
+D
+ETHE ITM GROUP CONSISTS 
+OF FIVE MAIN COMPANIES
+SUSTAINABLE ENERGYITM POWER AT A GLANCEITM POWER ESG REPORT  2020
+ITM POWER AT A GLANCE
+1 GW
+A YEAR
+ 20+OUR GIGAFACTORY COULD 
+ENABLE AN ADDITIONAL  
+2 MILLION TONNES OF CO TO BE SAVED EVERY YEARFACTORY CAPACITYYEARS OF  
+EXPERIENCE
+THAT'S EQUIVALENT 
+TO THE CO   EMISSIONS 
+OF CHARGING 255 BILLION 
+SMARTPHONES*22
+*Assumes a typical conversion efficiency of 70%. Based on 
+CertifHy analysis of carbon footprint of grey hydrogen.
+SUSTAINABLE ENERGY
+215+NUMBER OF EMPLOYEES
+AND GROWING THE LARGEST  
+IN THE WORLDSUSTAINABLE  
+ENERGY
+Help the world reach 
+net zero through the power 
+of green hydrogen
+ENGINEERED
+SUSTAINABLY
+Protect people and 
+the planet through 
+how we do business
+ENVIRONMENTAL
+Calculate and report scope 1, 2 and 3 
+greenhouse gas emissions and set emissions 
+targets to reach net zero before 2050
+SOCIAL
+Develop and roll out 
+ITM Nurture and ITM 
+Academy programmes 
+to support employees, 
+communities and 
+the environmentGOVERNANCE
+Invest in future-fit  
+governance processes  
+for sustainable growth ““WE WANT ITM POWER  
+TO BE A BUSINESS THAT 
+IS SUSTAINABLE FOR THE 
+LONG-TERM , THAT SUPPORTS 
+THE ENERGY SECTOR 
+FOR OUR CHILDREN 
+AND GRANDCHILDREN.   
+ULTIMATELY, ACTING 
+RESPONSIBLY AND 
+ETHICALLY WILL ALSO 
+HELP US GENERATE 
+THE BEST RETURNS FOR  
+OUR SHAREHOLDERS.  
+ 
+KATHERINE ROE
+NON-EXECUTIVE DIRECTOR 
+AND ESG COMMITTEE CHAIRIDENTIFYING OUR MATERIAL ISSUES  
+In 2020, we conducted a light-touch materiality process with internal 
+stakeholders from different functions across our business, in order 
+to identify the ESG issues where we have the biggest impact. We also 
+reviewed feedback from external stakeholders, including investors, 
+to make sure our ESG report and strategy reflected their views, and 
+conducted a peer review to identify best practice within comparable 
+organisations. The results were used to inform the development of 
+this report and of our ESG strategy: Sustainable Energy, Engineered 
+Sustainably . We plan to review and strengthen this process over time, 
+so that we can structure our approach to ESG in a way that maximises 
+the social and environmental impact of our approach. Before our next 
+ESG report in 2022, we will also conduct a full materiality assessment 
+of all our ESG impacts, consulting with internal and external 
+stakeholders and benchmarking against comparable organisations.
+ESG GOVERNANCE AT ITM POWER  
+Our newly established ESG Committee is responsible for delivering 
+and accelerating progress in line with our strategy: Sustainable Energy, 
+Engineered Sustainably . The Committee is responsible for monitoring 
+performance on ESG issues and providing feedback from across the 
+business to external stakeholders, with the aim of continually 
+progressing towards our targets. This Committee also reviews and 
+approves our annual ESG report.
+The Committee is chaired by our Non-Executive Director, Katherine Roe. 
+Other members are Dr Graham Cooley, CEO, and Dr Rachel Smith, 
+Executive Director. Our Head of Investor Relations and our Head of HR 
+also attend committee meetings. The Committee meets at least twice 
+a year for formal meetings, with additional ad-hoc discussions on 
+specific projects being convened as required.  OUR ESG  
+FRAMEWORKITM POWER ESG REPORT  2020
+SUSTAINABLE ENERGYOUR ESG FRAMEWORKThe 17 UN Sustainable Development Goals (SDGs), and the targets 
+within each one, offer a blueprint for achieving a more peaceful and 
+prosperous world by 2030. To deliver effectively on the UN SDGs, 
+every organisation needs to focus their efforts where their actual 
+and potential impact is greatest.
+In developing our ESG strategy, we identified the four SDGs where  
+we can have the greatest effect as a business. ITM POWER ESG REPORT  2020
+ITM Power aims to cut the commercial cost 
+of electrolysers over the next three years and 
+thereby facilitate the widespread adoption 
+of green hydrogen. 
+This will directly contribute to ensuring 
+access to affordable, reliable, sustainable 
+and modern energy for all, addressing target 
+7.2: to substantially increase the share of 
+renewable energy in the global energy mix.By helping to decarbonise industrial processes 
+through green hydrogen, our electrolysers 
+support goal 9 and, particularly, target 9.4: 
+to upgrade infrastructure and retrofit 
+industries to make them sustainable, with 
+increased resource use efficiency and greater 
+adoption of clean and environmentally sound 
+technologies and industrial processes.Through our hydrogen refuelling stations, 
+which provide zero emissions fuel for mass 
+transit systems, we contribute towards 
+target 11.2: by 2030, to provide access 
+to safe, affordable, accessible and sustainable 
+transport systems for all.By helping to replace hydrogen produced 
+directly from fossil fuels with green, 
+emissions-free hydrogen, our electrolysers 
+support target 12.2: by 2030, to achieve the 
+sustainable management and efficient use 
+of natural resources.SUSTAINABLE DEVELOPMENT GOALSOUR ESG FRAMEWORK
+SUSTAINABLE ENERGYTHE CARBON FOOTPRINT  
+OF GLOBAL HYDROGEN   
+PRODUCTION IS 
+“Hydrogen is a storable, lightweight, energy-dense fuel source with no direct greenhouse gas emissions. 
+It has a host of industrial and chemical applications, and can also be released directlyinto the gas grid or used 
+as a fuel for transport. Approximately 70 million tonnes of hydrogenare produced worldwide each year. “OUR PRODUCTS
+CLEAN FUELS: 
+Hydrogen has widespread application as a transport 
+fuel for fuel cell electric vehicles. Our rapid response 
+electrolyser systems can refuel a fuel cell electric 
+vehicle in minutes, providing an emissions-free method 
+of transportation. Our portfolio currently consists of 
+fifteen wholly-owned hydrogen refuelling stations; 
+nine of which are open to the public, and six in various 
+stages of construction. Run by our ITM Power subsidiary, 
+ITM Motive, these stations are targeted primarily at 
+truck and bus fleets, which are significant contributors 
+to CO2 emissions. ITM Motive aims to be the leading 
+operator in this area in the UK, with the ambition to run 
+a hundred fuelling stations within the next five years.
+INDUSTRIAL HYDROGEN:  
+Hydrogen has a range of applications in industrial 
+chemistry. These include the production of ammonia 
+fertiliser and as a means of improving the quality of 
+fractional distillation products. 15% of the total CO2 
+emissions from the European refinery sector can 
+currently be attributed to hydrogen production. Our 
+electrolysers provide a green alternative to the ‘grey 
+hydrogen’ produced through steam reformation (with 
+high CO2 emissions), which currently powers the vast 
+majority of these processes. 
+Once it is at full capacity, our new Gigafactory in 
+Bessemer Park will have a factory electrolyser capacity 
+of one gigawatt per year. If all our electrolysers are 
+powered entirely on renewable energy, and the 
+resulting green hydrogen is used to displace existing 
+grey hydrogen use, these electrolysers could prevent up 
+to two million tonnes CO2 from being emitted every year 
+that they operate. That’s equivalent to the carbon 
+emissions from charging 255 billion smartphones, 
+or the carbon sequestered in one year by 2.6 million 
+acres of forest.*
+We want to minimise the environmental footprint of our 
+electrolysers – including at the end of their life. 
+Wherever possible, we aim to recover and reuse 
+materials from our electrolysers (particularly precious 
+metals), and currently recover approximately 80% of the 
+precious metals in our electrolysers where we retain 
+ownership of the products.  ITM POWER ESG REPORT  2020
+HYDROGEN PRODUCED 
+THROUGH PEM ELECTROLYSIS 
+AND POWERED BY RENEWABLE 
+ENERGY IS THE ONLY ZERO 
+CARBON FUEL.
+ALSO, UNLIKE OTHER FUELS,
+IT DOESN’T REMOVE OXYGEN 
+FROM THE ATMOSPHERE , 
+OR ADD MORE WATER VAPOUR 
+TO THE ATMOSPHERE THAN IT 
+CONSUMES DURING 
+PRODUCTION, WHICH HELPS 
+RETAIN THE EARTH’S EXISTING 
+OXYGEN AND WATER BALANCE. 
+AND IT HAS NO NEGATIVE 
+IMPACT ON AIR QUALITY.  
+DR GRAHAM COOLEY
+CEO, ITM POWER
+96%OF THE WORLD'S HYDROGEN IS  
+CURRENTLY MADE FROM FOSSIL FUELSOUR  
+PRODUCTS
+SUSTAINABLE ENERGYThe vast majority (96%) of the hydrogen currently 
+produced globally is generated from fossil fuels. 
+This gives hydrogen production a large carbon footprint: 
+approximately 830 million tonnes of CO2 each year, 
+which is roughly equivalent to the carbon footprints 
+of the UK and Indonesia combined. 
+Our products provide a solution. ITM Power designs and 
+manufactures electrolysers, which generate hydrogen 
+gas, based on PEM technology. Our electrolysers are 
+designed to be powered effectively by renewable 
+electricity and tap water to generate hydrogen gas 
+on-site. This ‘green hydrogen’ can be used in several 
+ways as follows. 
+POWER-TO-GAS: 
+Hydrogen gas provides a means of storing excess 
+renewable energy at the point when it is generated, so 
+it can be used when it is needed. This overcomes a 
+major barrier to the mass adoption of renewable 
+energy: energy generation from renewables can be 
+intermittent and unpredictable, depending on natural 
+variables, such as wind speed and daylight hours. 
+By using excess renewable energy to generate hydrogen 
+gas, ITM Power electrolysers produce zero carbon 
+hydrogen that can be released into the gas 
+grid whenever demand exists. This also helps to balance 
+the grid without the need to ramp up a gas 
+or coal power plant. PEM electrolysers are particularly 
+well-suited to using renewable energy, due to their 
+ability to respond rapidly to fluctuations in energy 
+generation and to generate hydrogen at a pressure, 
+flow-rate and purity appropriate to its application.
+“OUR ELECTROLYSERS CAN RESPOND 
+INCREDIBLY FAST – CHANGING LOAD IN LESS 
+THAN TWO SECONDS. 
+THIS MEANS THEY CAN REACT QUICKLY TO 
+FLUCTUATING PATTERNS IN RENEWABLE 
+ENERGY, SO WE CAN CAPTURE MORE OF THE 
+POWER AVAILABLE.”  
+DR ANDREW ELLIS B  
+HEAD OF SALES N
+830  
+MILLION 
+TONNES
+*Assumes a typical conversion efficiency of 70%. Based on 
+CertifHy analysis of carbon footprint of grey hydrogen.
+ROUGHLY EQUIVALENT 
+TO THE CARBON 
+FOOTPRINTS OF THE 
+UK AND INDONESIA 
+COMBINEDCREATING THE WORLD’S 
+LARGEST PEM ELECTROLYSER  
+At the start of 2021, we announced the sale of the world’s 
+largest PEM Electrolyser to Linde, the global industrial gases 
+and engineering company. 
+The 24-megawatt electrolyser, to be installed at Linde’s Leuna 
+Chemical Complex in Germany, will use renewable electricity 
+to produce green hydrogen for Linde’s industrial customers, 
+as well as to refuelling stations and other industrial customers 
+in the region.
+It will produce enough green hydrogen to fuel approximately 
+600 fuel cell buses driving 40 million kilometres – saving up to 
+40,000 tonnes of carbon dioxide tailpipe emissions per year.
+We will start production in 2022 through our joint venture with 
+Linde: ITM Linde Electrolysis GmbH. This success is the result of 
+a long-term, close working relationship between the ITM Power 
+engineering team and Linde Engineering in Dresden.
+This electrolyser was the first sale in our joint venture with 
+Linde, and demonstrates the increasing levels of commitment 
+from industry to use green hydrogen produced by electrolysis 
+to decarbonise production processes.CASE STUDY: OUR ELECTROLYSER 
+WILL PRODUCE ENOUGH 
+GREEN HYDROGEN 
+TO POWER 600 FUEL 
+CELL BUSES DRIVING 
+40 MILLION KILOMETRESCASE STUDY: CREATING THE WORLD'S  
+BIGGEST PEM ELECTROLYSERITM POWER ESG REPORT  2020
+SUSTAINABLE ENERGYCOP26 EDUCATION PROGRAMME 
+Using the 2021 United Nations Climate Change Conference 
+(COP26) in Glasgow as a focal point, we are working with not-for-
+profit education specialist, Arcola Energy Education, to launch an 
+ongoing education programme for the promotion of hydrogen and 
+fuel cell technologies.
+The project will deliver hydrogen-based STEM workshops across 
+seven Scottish cities, with 100+ participating schools and over 
+7,000 young people joining ‘design, build, race’ workshops to build 
+their own hydrogen vehicle. Teams will be challenged to create the 
+most energy efficient, hydrogen-powered vehicle possible using 
+LEGO components and custom miniature fuel cells.
+It will also include a ‘Hydrogen Hack’ challenge, which introduces 
+young people aged 12-18 to hydrogen fuel cell technology by 
+challenging them to build a device using a hydrogen fuel cell.
+Our goal is to raise awareness and increase understanding of 
+hydrogen through high-quality, hands-on education and to build 
+advocacy among young people, future policy-makers and industry 
+professionals who will power the energy transition.CASE STUDY: 
+Copyright Arcola Energy, Commercial ConfidentialLondon - The Crystal
+2
+ITM POWER ESG REPORT  2020
+CASE STUDY: To help the world reach net zero by 2050, we have to act beyond 
+our own supply chain. We participate actively in industry bodies 
+that champion sustainable power and guide policy, as well as 
+working with schools and universities to help inspire the next 
+generation about green hydrogen (see case study).
+We are members of a number of industry associations in different 
+territories, including (in the UK) the UK Hydrogen Fuel Cell 
+Association and Renewables UK, (in France) Association Française 
+de l'Hydrogène et des Piles à Combustible and (in Germany) 
+Bundesverband Energiespeicher. For a full list of our industry 
+associations, see our 2021 QCA Code Statement of Compliance . 
+Our CEO, Dr Graham Cooley, joined the UK Government’s 
+Hydrogen Advisory Council in 2020. ITM Power has also responded 
+to and provided input into relevant Government consultations, 
+including on hydrogen for heat and hydrogen mobility.
+In addition, we work with research partners, including Keele 
+University (see case study) on pioneering pilots to support the 
+transition to net zero.OUR  
+INFLUENCE
+IF THIS PILOT WERE ROLLED OUT ACROSS 
+THE UK, THE CARBON SAVINGS COULD 
+BE EQUIVALENT TO TAKING
+2.5   
+MILLION CARS 
+OFF THE ROAD
+WITH EDUCATION AND 
+ACTIVITIES ABOUT THE 
+POWER OF HYDROGEN
+SUSTAINABLE ENERGY
+Copyright Arcola Energy, Commercial ConfidentialLondon - The Crystal
+2
+7000
+YOUNG PEOPLEWE AIM TO REACHOUR INFLUENCE
+In 2020, ITM Power launched HyDeploy: a ground-breaking green 
+energy trial at Keele University, Staffordshire, that could help 
+Britain cut its carbon emissions and open the door to a low-carbon 
+hydrogen economy.
+The HyDeploy demonstration is injecting up to 20% (by volume)  
+of hydrogen into Keele University’s existing natural gas network, 
+feeding 100 homes and 30 faculty buildings. The 20% hydrogen 
+blend is the highest in Europe, together with a similar project 
+being run by Engie in Northern France.
+As a zero emissions gas, green hydrogen provides a means  
+of heating homes without producing carbon dioxide. This will  
+be essential to achieving global emissions reductions in line with 
+the Paris Climate Agreement, and helping the UK achieve its 
+ambitious climate change obligations.
+Heating for domestic properties and industry accounts for half 
+of the UK’s energy consumption and one-third of its carbon 
+emissions, with 83% of homes using gas to keep warm. The 20% 
+volume blend means that customers can continue to use their  
+gas supply as normal, without any changes being needed to gas 
+appliances or pipework, whilst still cutting carbon emissions.
+If a 20% hydrogen blend were rolled out across the country, 
+it could save around 6 million tonnes of carbon dioxide emissions 
+every year, the equivalent of taking 2.5 million cars off the road.DECARBONISING 
+THE GAS GRIDITM POWER ESG REPORT  2020
+ENGINEERED SUSTAINABLYENGINEERED SUSTAINABLY
+The following table sets out our progress, targets and 
+future plans for managing the most material ESG issues 
+for ITM Power. Addressing these issues is an essential 
+part of being ‘engineered sustainably’. Links to further 
+information are provided where relevant.MATERIAL USES ENERGY AND GREENHOUSE GAS EMISSIONSTOXIC EMISSIONS, 
+WASTE AND WATEROPPORTUNITIES IN 
+CLEAN TECHNOLOGY
+Importance 
+for ITMThe quality of the materials we use is 
+essential to the success of our electrolysers. 
+Being a sustainable, responsible business 
+means  taking all possible action to mitigate 
+any risks related to the sourcing and disposal 
+of our materials.Our mission as a business is to help the 
+world reach net zero through the power 
+of green hydrogen. 
+Our products run on renewable energy, 
+converting it into green hydrogen that can be 
+used as clean fuel, released into the gas grid 
+or used in industrial processes. Manufacturing our electrolysers can 
+affect the environment in which we operate, 
+and we have a duty to protect natural 
+resources and reduce waste through the way 
+we do business. To achieve net zero global emissions by 
+2050, the world needs to transition away 
+from fossil fuels and towards emissions-
+free fuels such as green hydrogen, 
+produced from renewable energy.   
+Offering engineering solutions that 
+contribute to a more environmentally 
+sustainable economy and reduce global 
+reliance on fossil fuels is at the core 
+of our mission as a business.
+Approach 
+and policiesThe EU Conflict Minerals Regulation 
+applies to four minerals of high concern 
+for human rights abuses: tin, tantalum, 
+tungsten and gold. We do not buy these 
+raw materials to manufacture our 
+electrolysers. We also do not use cobalt, 
+the extraction of which contributes 
+to eutrophication and global warming. 
+Where possible, we aim to reuse existing 
+materials for creating our electrolysers, 
+rather than sourcing new ones. We aim 
+for the majority of our product materials 
+to be recyclable where possible.All of our products are designed to reduce 
+global reliance on fossil fuels. 
+The electrolysers we produce use 
+renewable energy and water to produce 
+green hydrogen, with oxygen as the only 
+by-product. This fuel can then be stored 
+for release into the gas grid, used as 
+a clean vehicle fuel or in a host of industrial 
+processes. This green hydrogen serves 
+as an alternative to the 96% of hydrogen 
+worldwide that is currently produced 
+directly from fossil fuels, with a carbon 
+footprint of approximately 830 million 
+tonnes of CO2 annually.
+Indicators
+PROPORTION OF  ELECTRICITY IN OUR NEW 
+GIGAFACTORY AND HEAD OFFICE PROCURED  
+FROM RENEWABLE SOURCES:  
+  *Data as of March 2021 
+100%*ITM POWER ESG REPORT  2020
+Powering our own operations sustainably 
+is another way in which we can deliver 
+on our mission. 
+pollution, and complying with all applicable 
+environmental legislation, codes of practice 
+and any other compliance obligations 
+to which we subscribe. 
+Beyond our own operations, our Supplier 
+Code of Conduct also includes requirements 
+for all ITM Power business partners to use 
+energy and natural resources efficiently,
+and to continually look for ways to minimise 
+waste, emissions and discharge from their 
+operations, products and services.
+38 ,551 KG TOTAL WASTE  
+FROM OPERATIONSToxic emissions in particular are an area 
+of high importance to our stakeholders.
+metals in our electrolysers where we retain 
+ownership of the products. Where we do not 
+own products, we aim to remain responsible 
+for maintaining and repairing our 
+electrolysers, allowing us to reduce waste 
+by proactively maintaining components 
+before they need to be replaced, and 
+recovering waste materials once components 
+reach end-of-life. 
+We use deionised water to flush our 
+manufacturing systems of imperfections and 
+ensure our stacks are free of pollutants. 
+We use significant quantities of water during 
+the manufacturing process, but our only 
+water discharge is in the form of vapour. 
+Our Gigafactory is not based in a water-
+stressed area. 
+Beyond our own operations, our Supplier 
+Code of Conduct also includes requirements 
+for all ITM Power business partners to use 
+energy and natural resources efficiently, 
+and to continually look for ways to minimize 
+waste, emissions and discharge of their 
+operations, products and services. 
+100%PROPORTION OF  
+REVENUES THAT 
+COME FROM  CLEAN 
+TECHNOLOGY:Unlike battery manufacturers, our 
+electrolysers are produced in a benign 
+manufacturing environment with small 
+volumes of acids being used. The emissions 
+from our manufacturing do not pose 
+a significant risk to our local environment. 
+Our Environmental Policy, endorsed by our 
+CEO, sets out our commitment to identifying 
+all our environmental risks and managing 
+their significant impacts on the environment; 
+providing all employees with resources, 
+equipment, information, instruction and 
+training to fulfil this Policy; reducing waste, 
+utility and resource use wherever possible; 
+protecting the environment and preventing 
+pollution, and complying with all applicable 
+environmental legislation, codes of practice 
+and any other compliance obligations 
+to which we subscribe.
+In 2019, we established a programme for full 
+recycling of all waste materials from our 
+operations wherever possible, working with 
+Approved Authorised Treatment Facilities 
+(AATFs) and environmentally aware recycling 
+partners. To reduce the waste created by our 
+products, we also aim for the majority of 
+our product materials to be recyclable. 
+We seek to recover and reuse materials from 
+our electrolysers (particularly precious 
+metals) wherever possible, and currently 
+recover approximately 80% of the precious Our Environmental Policy, endorsed by our 
+CEO, sets out our commitment to identifying 
+all our environmental risks and managing 
+their significant impacts on the environment; 
+providing all employees with resources, 
+equipment, information, instruction and 
+training to fulfil this Policy; reducing waste, 
+utility and resource use wherever possible; 
+protecting the environment and preventingENVIRONMENTAL 
+ISSUES
+ENGINEERED SUSTAINABLYPROPORTION OF  ELECTRICITY IN OUR NEW 
+GIGAFACTORY AND HEAD OFFICE PROCURED  
+FROM RENEWABLE SOURCES:  
+  *Data as of March 2021 MATERIAL USES ENERGY AND GREENHOUSE GAS EMISSIONSTOXIC EMISSIONS, 
+WASTE AND WATEROPPORTUNITIES IN 
+CLEAN TECHNOLOGY
+Indicators
+(Continued)
+Supporting 
+actions and 
+initiativesIn addition to manufacturing these clean 
+technology products, we also collaborate 
+on research projects to increase the 
+capacity of existing clean technology 
+products. In 2020, we worked with Keele 
+University on a pilot to inject up to 20% 
+(by volume) of hydrogen into the natural 
+gas network. If this blend were rolled out 
+across the country, it could save around six 
+million tonnes of carbon dioxide emissions 
+every year (see case study for more 
+information). 
+In 2020, we were granted the London Stock 
+Exchange Green Economy Mark, awarded 
+to listed companies and funds, which 
+derive 50% or more of their revenues from 
+environmental solutions.
+Future plans We will continue working towards our 
+goal to reuse existing materials in creating 
+new electrolysers, and to make product 
+materials recyclable where possible Our new 1GW plant in Sheffield will cut the 
+cost of electrolysers by 37.5% over the next 
+three years, due to increased automation 
+and economies of scale. Our ambition is 
+to make this clean technology available on 
+a mass scale, and thereby support a mass 
+transition towards green hydrogen.
+Link to more 
+informationCode of Conduct for ITM Power’s
+Business Partners Code of Conduct for ITM Power’s Business Partners
+2021 QCA Code Statement of ComplianceCode of Conduct for ITM Power’s Business Partners   
+2021 QCA Code Statement of ComplianceITM Power WebsiteWe will also implement an internal audit 
+programme to measure compliance 
+with the requirements of ISO 14001. 
+Informed by the ISO 14001 requirements, 
+we will set and review additional 
+environmental objectives, targets and 
+management programmes.ITM POWER ESG REPORT  2020
+accreditation includes wide staff 
+participation and consultation with 
+employees and also auditing processes 
+in the pursuit of zero harm to people 
+or products.We will also implement an 
+internal audit programme to measure 
+compliance with the requirements of ISO 
+14001. Informed by the ISO 14001 
+requirements, we will set and review 
+additional environmental objectives, 
+targets and management programmes.We have set a target to reach net zero 
+greenhouse gas emissions before 2050. 
+To help us achieve – and exceed – this target, 
+we will calculate our full Scope 1, 2 and 3 
+greenhouse gas emissions, and report these 
+figures in our next ESG report (to be published 
+in 2022). We will use these calculations to set 
+additional greenhouse gas emissions targets. 
+To better manage our energy use, we are 
+working towards establishing a UKAS-
+accredited environmental management 
+system to the specifications outlined in the 
+International Standard, ISO 14001:2015. 
+This is expected to be in place by August 
+2021. The programme for accreditation 
+includes wide staff participation and 
+consultation with employees, as well as 
+auditing processes in the pursuit of zero 
+harm to people or products.Before May 2022, we will calculate the 
+waste volumes from all ITM Power 
+operations broken down by disposal 
+route, and publish this information in our 
+next ESG report. Based on this information, 
+we will set targets to reduce the proportion 
+of our waste being sent to less sustainable 
+disposal routes, such as landfill.  
+To better manage our waste and emissions, 
+we are working towards establishing 
+a UKAS-accredited environmental 
+management system to the specifications 
+outlined in the International Standard ISO, 
+14001:2015. This is due to be in place 
+by August 2021. The programme for 
+ENGINEERED SUSTAINABLYENVIRONMENTAL 
+ISSUES
+WASTE  
+BREAKDOWN
+GENERAL WASTE
+17,842 KGMIXED  
+RECYCLING
+12,318 KG
+OTHER
+8,381 KG BATTERIES
+10 KGITM POWER ESG REPORT  2020
+ENGINEERED SUSTAINABLYACTION TO ADDRESS SCOPE 1 
+GREENHOUSE GAS EMISSIONSACTION TO ADDRESS SCOPE 2  
+GREENHOUSE GAS EMISSIONSACTION TO ADDRESS SCOPE 3  
+GREENHOUSE GAS EMISSIONS
+Calculate and report scope 1 greenhouse gas emissions 
+(to be published in next ESG Report)Calculate and report scope 2 greenhouse gas emissions 
+(to be published in next ESG Report)Calculate and report scope 3 greenhouse gas emissions
+(to be published in next ESG Report)
+Set targets for scope 1 greenhouse gas emissions Set targets for scope 2 greenhouse gas emissions Set targets for scope 3 greenhouse gas emissions
+Continue driving internal improvements through 
+ITM Power Environmental Policy, establishment 
+of UKAS-accredited environmental management 
+system and internal audit programmeContinue driving internal improvements through 
+ITM Power Environmental Policy, establishment 
+of UKAS-accredited environmental management 
+system and internal audit programmeContinue driving internal improvements through 
+ITM Power Environmental Policy, establishment 
+of UKAS-accredited environmental management 
+system and internal audit programme
+Continue driving supply chain improvements through 
+Supplier Code of Conduct
+Before May 2022, assess 100% of our critical suppliers 
+and 50% of our other direct material suppliers according
+to ESG criteria, using this information to develop action 
+plans with assessed suppliers to improve ESG performance 
+where necessary
+Before May 2022, develop an action plan for assessing 
+100% of our direct material suppliers according to ESG 
+criteria and improving ESG performance across our 
+supply chainENERGY AND GREENHOUSE GAS EMISSIONS 
+Future plansENVIRONMENTAL 
+ISSUES 
+PROCUREMENT PRACTICESHUMAN RIGHTS, CHILD LABOUR  
+AND FORCED LABOUR 
+CUSTOMER HEALTH AND SAFETY
+Importance 
+for ITMAs well as measuring and managing our 
+own social and environmental impacts, 
+we need to support our suppliers to act 
+responsibly through our procurement 
+of materials, and have a positive impact 
+on the local and national communities
+in which we operate.Slavery is more common today than at any 
+point in history. Being a responsible business 
+means taking every possible effort to identify 
+and eliminate exploitative working practices 
+wherever they occur, paying particular 
+attention to higher-risk materials, 
+including precious metals.Keeping our customers safe is critical for the 
+success of our business. As we produce large 
+industrial equipment, there are inevitable 
+risks associated with the malfunctioning of our 
+electrolysers, and we take every possible step 
+to mitigate these.
+Approach 
+and policies
+IndicatorsITM POWER ESG REPORT  2020
+*Management of health and safety is led by 
+our Board, which sets the direction of travel, 
+our health and safety objectives and the 
+framework for monitoring performance and 
+compliance. The Board monitors health 
+and safety performance and each meeting 
+receives a regular performance update 
+on action taken to promote health and 
+safety throughout our business. Separately, 
+we also have a monthly Health and Safety 
+Committee, which includes representatives 
+from each function in ITM Power. This helps 
+ensure prompt reporting of concerns 
+and rapid implementation of improvement 
+plans.  
+Quality control is at the core of our product 
+manufacturing. We operate management 
+systems in accordance with ISO 9001 2015, 
+ISO 14001 2015 and OHSAS 18001 2007, 
+and are planning to incorporate all our 
+management systems under one UKAS-
+accredited integrated management system 
+in 2021 at the same time as upgrading the 
+safety management system to ISO 45001. 
+We conduct risk assessments for the full 
+lifecycle of all products and operate 
+a multistage testing process to ensure 
+the safety of everything we produce. 
+We implement a stage-gate process at the 
+design stage of our products, with line 
+manager sign-off required at each stage to 
+minimise the risk of error. 
+Once manufactured, we conduct Factory 
+Acceptance Testing, vigorously testing all 
+equipment before shipment. We then 
+conduct additional Site Acceptance Testing 
+with customer oversight in the field to 
+further reduce the risk of any malfunction. 
+Once our products are onsite, we solicit 
+ongoing feedback from customers, through 
+channels including an email reporting 
+system, a support centre in Sheffield and an 
+out-of-hours service. Customer feedback is 
+built into the ‘lessons learnt’ process within ITM Power’s quality system and used to 
+identify areas for further improvement. 
+ITM Power has a service and maintenance 
+capability either built into the commercial 
+contract or done as an aftermarket sales 
+opportunity. We offer a wide range of 
+services across the UK and global network 
+working hand-in-hand with our clients and 
+their representatives. Any issues arising 
+from these site activities are reported 
+locally, as well as being reported and 
+investigated through the ITM Power UK 
+Health, Safety and Environment Department 
+and Executive Team representative.
+We maintain our hydrogen refuelling 
+stations through fully trained and qualified 
+personnel. 
+Each ITM Power hydrogen station has 
+undergone significant planning and testing 
+before being opened for use, and we 
+maintain this high level of operational 
+visibility at all times. Our stations are 
+monitored 24 hours a day, 365 days a year 
+by fully trained staff in our global Control 
+room in Sheffield. All stations have 
+emergency plans, specific to the station 
+layout and design. Fuel customers also have 
+access to a 24-hour helpline and from our 
+mobile support team.
+Our Head of Quality is responsible for 
+working with suppliers to continually 
+improve the quality of our materials and 
+oversee the implementation of our quality 
+control procedures. 
+To monitor the implementation of our 
+procedures, we collect data on near misses, 
+positive observations, product leaks and 
+non-conformances. We hold weekly 
+meetings to review any near misses 
+and monthly meetings to assess progress 
+against other indicators, as well as urgent 
+meetings wherever necessary.
+100%We seek to establish and maintain close 
+working relationships with suppliers. 
+We have a longstanding supply base, and 
+the majority of our direct suppliers have 
+been working with us for over ten years.
+Wherever possible, we aim to use local 
+suppliers, and the majority of our direct 
+suppliers are based in the UK. 
+We have a Supplier Code of Conduct, 
+which we require all direct suppliers to 
+comply with. This sets out our expectations 
+for all our business partners, including 
+contractors, vendors, service providers, 
+agents and contingent labour, their 
+employees and their suppliers. It is publicly 
+available on our website and includes 
+minimum criteria around bribery and 
+corruption, environmental and social 
+performance, human rights and modern 
+slavery, non-discrimination and freedom 
+of association, and whistle-blowing. 
+In addition to our Code of Conduct, 
+all new direct material suppliers are 
+required to complete our Supplier 
+Qualification Questionnaire, which 
+includes questions on health and safety, environmental management systems in 
+place, training and development, corruption 
+and human rights, including labour rights. 
+Responses are then reviewed by our health 
+and safety, quality and procurement teams 
+who approve or reject suppliers based 
+on their responses to certain areas within 
+the questionnaire.
+All material contracts are also required to 
+be reviewed and signed by a director of ITM 
+Power and are reviewed by our legal team.
+Where direct suppliers are providing ITM 
+Power with higher-risk products (such as 
+those that require us to share intellectual 
+property), we conduct supplier visits to 
+inspect the premises and perform quality 
+spot checks.
+We aim to be a responsible and supportive 
+business partner, and to help our suppliers 
+continually develop and improve. This 
+brings benefits to both us and our suppliers.
+PROPORTION OF NEW 
+DIRECT MATERIAL 
+SUPPLIERS ASSESSED 
+USING OUR  SUPPLIER 
+QUALIFICATION 
+QUESTIONNAIRE: 
+100%To guard against the risk of human 
+rights abuses, our Code of Conduct also 
+mandates that direct suppliers provide 
+their own employees, suppliers and 
+business partners with a dedicated 
+whistle-blowing mechanism whereby 
+they can log a grievance if they see 
+something that is unsafe, unethical or 
+potentially harmful involving either their 
+or ITM Power’s businesses or activities. 
+Suppliers are required to comply with 
+any applicable laws and regulations 
+on freedom of association and collective 
+bargaining. Our Supplier Qualification 
+Questionnaire, which all new direct 
+material suppliers are required 
+to complete, includes questions 
+on human rights, child labour, forced 
+labour and employee provision to 
+confirm compliance with our Code 
+of Conduct.The EU Conflict Minerals Regulation applies 
+to four minerals of high concern for human 
+rights abuses: tin, tantalum, tungsten 
+and gold. 
+We do not buy these raw materials to 
+manufacture our electrolysers. 
+Our Supplier Code of Conduct, which all 
+direct suppliers are required to comply with, 
+refers directly to human rights and modern 
+slavery. This sets out our expectations 
+for all ITM Power business partners to 
+meet the responsibilities set out in the UN 
+Universal Declaration of Human Rights and 
+the core conventions of the International 
+Labour Organisation, including no use of 
+child, forced, prison or compulsory labour; 
+no restriction of the free movement of 
+employees and no payment of recruitment 
+fees by workers. All direct suppliers are 
+required to pay wages and benefits that 
+meet or exceed the national legal standards, 
+comply with all applicable laws and 
+regulations on working hours, and provide 
+a safe, secure and healthy workplace.SOCIAL
+ISSUES
+PROPORTION OF NEW DIRECT 
+MATERIAL SUPPLIERS REQUIRED 
+TO PROVIDE INFORMATION ABOUT HUMAN RIGHTS, 
+CHILD LABOUR AND FORCED LABOUR  AS PART 
+OF THE PROCUREMENT PROCESS: 
+ENGINEERED SUSTAINABLYITM POWER ESG REPORT  2020
+PROCUREMENT PRACTICESHUMAN RIGHTS, CHILD LABOUR  
+AND FORCED LABOUR CUSTOMER HEALTH AND SAFETY
+Supporting 
+actions and 
+initiatives
+Future plans
+Link to more 
+informationCode of Conduct for ITM Power’s Business Partners
+2021 QCA Code Statement of ComplianceCode of Conduct for ITM Power’s Business Partners 2021 QCA Code Statement of Compliance
+2020 Annual Report and Financial Statements 
+ITM Power WebsiteIn 2020, we developed our Supplier 
+Qualification Questionnaire, which all 
+new direct material suppliers are required 
+to complete before being approved by 
+ITM Power. We are now in the process 
+of risk-assessing our existing supply base 
+and using these results to determine the 
+order in which our existing suppliers are 
+required to complete the questionnaire. In 2020, we also created a supplier 
+development procedure to help our 
+suppliers continually develop and improve 
+their own operations. This consists 
+of a number of stages, including an onsite 
+visit, developing an action plan to address 
+priority issues, and ongoing monitoring 
+of this plan’s implementation through 
+a quality rating system.To better address our needs and risks as 
+we scale up our manufacturing, in 2020, 
+we appointed a new Head of Health and 
+Safety, a new Head of Quality and a new 
+Head of After-Sales Support.
+We also created a new safety induction 
+process for employees as part of the move 
+to our new headquarters in Bessemer Park.
+Before May 2022, we will assess 100% 
+of our critical suppliers and 50% of our 
+other direct material suppliers according 
+to ESG criteria, to help us map the ESG 
+performance of our current supply base. 
+We will use this information to develop 
+action plans with assessed suppliers 
+to improve ESG performance where 
+necessary. Before May 2022, we will 
+also develop an action plan for assessing 
+100% of our direct material suppliers according to ESG criteria and driving ESG 
+improvements across our supply chain.Before May 2022, we will assess 100% 
+of our critical suppliers and 50% of our 
+other direct material suppliers according 
+to ESG criteria, to help us map the ESG 
+performance of our current supply base. 
+We will use this information to develop 
+action plans with assessed suppliers to 
+improve ESG performance where necessary. 
+Before May 2022, we will also develop 
+an action plan for assessing 100% of our 
+direct material suppliers according to ESG 
+criteria and driving ESG improvements 
+across our supply chain.As ITM Power progresses towards attaining 
+ISO 45001 and ISO 14001 UKAS accreditation 
+later in 2021, we have external support 
+in conducting gap analysis to identify 
+improvement opportunities to meet and, 
+where possible, exceed the expectations 
+of the accreditation. The programme for 
+accreditation includes wide staff participation 
+and consultation with employees and also 
+auditing processes in the pursuit of zero 
+harm to people or products.
+ENGINEERED SUSTAINABLYSOCIAL
+ISSUESEMPLOYEE HEALTH 
+AND SAFETYLOCAL COMMUNITY 
+ENGAGEMENTLABOUR AND  
+MANAGEMENT RELATIONSDIVERSITY 
+AND INCLUSION
+Importance 
+for ITMAs we move into our new Gigafactory at 
+Bessemer Park in Sheffield, building good 
+relationships with the local Sheffield 
+community will help us gain the trust and 
+support of potential employees and customers, 
+as well as local stakeholders. Dedicated 
+community engagement is also an important 
+part of being a socially responsible and 
+innovative business and will form part of our 
+ITM Nurture strategy.Attracting, retaining and supporting employees 
+from diverse backgrounds helps our business 
+better reflect and understand the customers 
+we serve, and the Sheffield community in 
+which we operate. It reduces risk, facilitates 
+employee retention and wellbeing, and 
+promotes wider social equality and mobility.
+Approach 
+and policiesWe actively engage with the local community 
+around our Bessemer Park factory, including 
+through local events focused on encouraging 
+alternative forms of travel (such as hydrogen 
+vehicles), events for students and local 
+schools and by taking part in local events 
+showcasing apprenticeships. We also support 
+charitable causes in our local area.Our Equal Opportunities Policy sets out 
+our commitment to promoting equality of 
+opportunity for all staff and job applicants. 
+We aim to create a working environment 
+in which everyone is able to make the best 
+use of their skills, free from discrimination 
+or harassment, and in which all decisions are 
+based on merit. The Policy includes specific 
+clauses relating to employee recruitment and 
+selection, training and development, 
+opportunities for promotion, conditions 
+of service and termination of employment, 
+including redundancy.
+In our recruitment practices, we positively 
+encourage applications from suitably qualified 
+and eligible candidates, regardless of disability. ITM POWER ESG REPORT  2020
+All ITM Power employees, including 
+managers, are provided with a copy 
+of our employee handbook. This sets out 
+the main policies and procedures that 
+employees need to be aware of, whilst 
+employed by ITM Power. Employees are 
+notified of any changes in these policies 
+through our HR system, including 
+contractual changes. We comply with 
+all relevant labour laws and, in most areas, 
+our employment practices exceed 
+statutory minimums. Our policies recognise 
+trade unions, but we do not currently 
+have a specific policy on unionisation.
+We place real value on the involvement 
+of our employees and continue to keep 
+them informed on matters affecting them, 
+and on the performance of ITM Power. This 
+is achieved through formal and informal 
+meetings. Employee representatives are 
+consulted regularly on a wide range of 
+matters affecting their current and future 
+interests. Company-wide emails, an 
+employee newsletter and suggestion boxes 
+are also utilised for wider participation. 
+Every year, the Executive Directors present 
+the annual results to the workforce 
+and ITM Power employees are able to 
+engage and ask questions. 
+We operate an open-door management 
+policy, which enables regular feedback, and 
+we also solicit employee feedback through 
+mechanisms, such as regular electronic Management of health and safety is led by 
+our Board, which sets the direction of 
+travel, our health and safety objectives and 
+the framework for monitoring performance 
+and compliance. The Board monitors health 
+and safety performance and each meeting 
+receives a regular performance update on 
+action taken to promote health and safety 
+throughout our business. Separately, 
+we also have a monthly Health and Safety 
+Committee, which includes representatives 
+from each function in ITM Power. This helps 
+ensure prompt reporting of concerns and 
+rapid implementation of improvement 
+plans.  
+Our Health and Safety Policy is provided 
+to all employees as part of our employee 
+handbook. It sets out our commitment
+to maintaining safe and healthy working 
+conditions through control of the health 
+and safety risks arising from our work 
+activities; provision and maintenance 
+of safe plant and equipment; ensuring 
+the safe handling and use of substances; 
+consulting with our employees and 
+providing appropriate information, 
+instruction, training and supervision; and 
+taking steps to prevent accidents and cases 
+of work-related ill health.
+Employee accidents and injuries are 
+a particular risk in our factory. To guard 
+against this, we conduct planned 
+preventative maintenance of all our 
+equipment, ensuring that machinery 
+and services are regularly maintained 
+before problems occur. 
+Training and development is an important 
+part of upholding health and safety 
+standards, and this starts at the top. 
+Our Board has undertaken a course on 
+leading health and safety based on the 
+Institute of Directors and Health and Safety 
+Executive guidance on Leading Safely. surveys (for example, consulting on the 
+move to our new premises and on our 
+health and safety culture).
+To reward employee efforts, we have 
+a recognition scheme in place whereby 
+they can nominate their colleagues for 
+excellent work or providing support. 
+We had over 100 nominations in the first 
+twelve months of the scheme’s inception.
+Within our supply chain, we also take 
+steps to promote freedom of association, 
+collective bargaining and a ‘speak up’ 
+culture. Our Supplier Code of Conduct 
+includes a section on Freedom of 
+Association, in which we mandate that 
+any ITM Power business partner must 
+comply with all applicable laws and 
+regulations on freedom of association 
+and collective bargaining. We also 
+mandate that direct suppliers provide 
+their own employees, suppliers and 
+business partners with a dedicated 
+whistle-blowing mechanism whereby 
+they can log a grievance if they see any 
+unsafe, unethical or potentially harmful 
+activity involving either their or ITM 
+Power’s businesses or activities.Keeping our employees safe is our first 
+priority – and has remained so throughout 
+the Covid-19 pandemic. Workers at our 
+new factory are required to operate 
+powerful and complex machinery in 
+order to manufacture our electrolysers. Strong relationships and consultative 
+practices between employees and 
+managers help to contribute towards 
+a positive, healthy working environment 
+at ITM Power. This is also an area of 
+particular focus for our stakeholders, 
+as poor labour and management 
+relations pose a risk to the sustainability 
+of our business.
+We also employ dedicated safety 
+professionals who are all NEBOSH trained. 
+We have a three-tiered structure for staff 
+health and safety training, through which 
+we encourage employees to assess and 
+improve their competency.
+In addition to our Health and Safety 
+Policy, all new employees are provided 
+with our Occupational Health Policy. 
+This includes our requirement that all 
+new employees complete a medical 
+questionnaire and a medical examination 
+to identify whether any reasonable 
+adjustments need to be made to their 
+working conditions. These checks are 
+repeated on an annual basis or at any 
+point when a change in an employee’s 
+health makes it necessary.
+To ensure our Policies are being 
+implemented, we collect data on near 
+misses, positive observations, incidents 
+and cases of employee ill health, which 
+are reported back to the Board and in 
+our weekly health and safety meetings. 
+In addition, each function has key 
+performance indicators for health and 
+safety performance.
+Beyond our business, our Supplier Code 
+of Conduct also includes requirements 
+that all ITM Power direct suppliers have 
+a systematic approach to health, safety 
+and security designed to ensure 
+compliance with all applicable health 
+and safety laws and regulations. Direct 
+suppliers must also seek to continually 
+improve performance by encouraging 
+their workforce and any suppliers to 
+report any accident, injury, illness, or 
+unsafe condition immediately, and to 
+cease any work that could be unsafe so 
+that appropriate action can be taken.
+ENGINEERED SUSTAINABLYSOCIAL
+ISSUES
+Therefore, correct risk mitigation and 
+training are essential to guard against 
+injury.ITM POWER ESG REPORT  2020
+GENDER BREAKDOWN 
+EXECUTIVE BOARD EXCLUDING 
+NON-EXECUTIVE DIRECTORS*GENDER BREAKDOWN  
+(ALL EMPLOYEES)*ETHNICITY BREAKDOWN  
+(ALL SURVEY RESPONDENTS)**AGE BREAKDOWN  
+(ALL SURVEY RESPONDENTS)**72.4%
+MALE54.14%
+BETWEEN 30-50 
+YEARS OLD27.6%
+FEMALE25% 
+FEMALE
+75%
+MALE24.86%
+OVER 50 
+YEARS OLD19.89%
+UNDER 30 
+YEARS OLD1.11%
+PREFER NOT TO SAY
+84.5% 
+WHITE 
+ETHNIC GROUPS15.5%
+ALL OTHER ETHNIC 
+GROUPS COMBINEDDIVERSITY AND INCLUSION 
+Indicators
+ENGINEERED SUSTAINABLYSOCIAL
+ISSUES
+*DATA AS OF YEAR END, 2020**In March 2021, we conducted a baseline monitoring survey 
+to help shape our new diversity and inclusion strategy. 
+74.2% of employees responded. This provided additional data 
+on our current workplace diversity. The level of data granularity 
+is reflective of the size of our employee community.EMPLOYEE HEALTH 
+AND SAFETYLOCAL COMMUNITY 
+ENGAGEMENTLABOUR AND  
+MANAGEMENT RELATIONSDIVERSITY 
+AND INCLUSION
+Indicators 
+Supporting 
+actions and 
+initiativesIn 2020, we provided Christmas charity 
+donations to two local charities: Sheffield 
+Children’s Hospital and the Archer Project 
+in Sheffield city centre, which provides 
+food to homeless people over the winter 
+period. To celebrate the opening of our new 
+factory, we also supported local learning 
+charity, Autism Plus, providing office 
+equipment and PCs to support the creation 
+of a comfortable, well-equipped learning 
+environment for job-seekers with autism.
+To encourage employees to raise funds 
+for charitable causes in their own time, in 
+2020 we established a charity committee 
+to match funds raised by employees for 
+charitable causes. The charity committee 
+and community engagement both sit within 
+our new ITM Nurture strategy.
+Future plans We are currently developing our ITM 
+Nurture and ITM Academy programmes, 
+which aim to support the lives of ITM 
+people and enhance the communities 
+in which we operate. These will include 
+plans for increased employee engagement 
+with local schools, charity support within 
+our local community and employee 
+volunteering programmes to work with local 
+charities and organisations. One particular 
+aim is to widen our reach within our local 
+community to promote environmental and 
+educational events, and to share knowledge 
+and understanding about green hydrogen.In 2021, we will launch a new and more 
+engaging intranet platform for the 
+communication of non-confidential 
+employment matters to employees. Monitoring and improving workplace diversity 
+will be an essential part of our new HR strategy 
+for 2021-22.
+Link to more 
+information2021 QCA Code Statement of Compliance  
+2020 Annual Report and Financial Statements 
+ITM Power Website  2021 QCA Code Statement of Compliance Code of Conduct for ITM Power’s Business Partners
+2021 QCA Code Statement of Compliance2021 QCA Code Statement of ComplianceDue to the risks posed to staff health by 
+Covid-19, in 2020 our factory was 
+temporarily reduced to a skeleton staff 
+between March and June for the welfare
+of staff, whilst changes were implemented 
+to ensure the premises were considered 
+Covid-secure. In early June, we began the 
+process of returning people to the 
+factory. This required risk assessments of 
+the areas to make them suitable for work 
+under new social distancing rules, close 
+liaison with shop floor personnel over 
+abilities to return to work and skillset 
+requirements to further the production 
+process at the correct times, as well as 
+return to work inductions to explain the 
+new PPE and location requirements for 
+safe effective working.
+In 2020, we rolled out a new safety 
+observation system across the business 
+to better capture observations and near 
+misses and therefore reduce the number 
+of injuries incurred by employees. We also upgraded our requirements 
+regarding robust investigations and trained 
+key staff in 8D (8 Disciplines) Root Cause 
+Analysis in order to systematically identify 
+and prevent any underlying health and 
+safety issues. In December 2020, our Board 
+undertook training based on the Institute 
+of Directors and Health and Safety 
+Executive Leading Safely guidance, as part 
+of its commitment to leading safety from 
+the top.
+To monitor employees’ mental, as well 
+as their physical, health, we introduced 
+ten mental health first aiders within our 
+business, all of whom had received 
+external training. 
+In 2020, we appointed a new Head of 
+Health and Safety, a new Head of Quality 
+and a new Head of After-Sales Support. 
+We also created a new safety induction 
+process, as part of the move to our new 
+headquarters in Bessemer Park.In 2020, we launched a new long-term 
+incentive plan for all Group staff and a share 
+incentive plan (enabling staff to buy shares 
+on a tax-efficient basis and receive matching 
+shares from ITM Power). The range of 
+staff benefits also includes childcare 
+vouchers and a cycle purchase scheme,
+ as well as accessing training courses 
+relevant to employees’ roles. 
+In 2021, we will continue to target zero 
+lost time days from injury and zero 
+workplace accidents. As ITM Power 
+progresses towards attaining ISO 45001 
+and ISO 14001 UKAS accreditation later 
+in 2021, we have external support in 
+conducting gap analysis to identify 
+improvement opportunities to meet and, 
+where possible, exceed the expectations 
+of the accreditation. The programme for 
+accreditation includes wide staff 
+participation and consultation with 
+employees, as well as auditing processes in the pursuit of zero harm to people
+or products. A further employee survey 
+on health and safety is expected in Q1 
+of 2021.
+We will continue to monitor the impact 
+of Covid-19 on our operations and act 
+quickly and decisively to protect the 
+health and wellbeing of staff.
+We also plan to roll out 8D training to 
+reach more of our staff in 2021. 
+20TOTAL 
+INCIDENTSITM POWER ESG REPORT  2020
+ENGINEERED SUSTAINABLYSOCIAL
+ISSUES
+215NUMBER OF 
+EMPLOYEES
+35LOST TIME DAYSITM POWER ESG REPORT  2020
+EMPLOYMENT PRACTICES EMPLOYEE TRAINING AND EDUCATION
+Importance 
+for ITMThe specialist and technical skills of our 
+employees are essential to maintaining the 
+quality of our products. Keeping our employees 
+motivated and supported is, therefore, a major 
+priority. It increases employee retention and 
+development, improves the quality of our 
+outputs as a business and results in a more 
+positive work environment for everyone.  As a business within the new technologies 
+market, our vast knowledge of our employees 
+is one of our greatest assets. Improving this 
+knowledge base, as well as ensuring high levels 
+of technical competence, helps us to continually 
+improve the innovation and quality of our work.
+Approach 
+and policies
+Indicators
+Supporting 
+actions and 
+initiatives
+Future plans A full review of employment practices will be 
+a fundamental part of the formal HR strategy 
+to ensure all working practices reflect the 
+direction of travel for ITM Power.
+Link to more 
+information2021 QCA Code Statement of Compliance  
+2020 Annual Report and Financial Statements 2021 QCA Code Statement of ComplianceOur employee handbook sets out our 
+employee benefits and policies, many of 
+which exceed statutory minimums. We offer 
+enhanced maternity, paternity and adoption 
+pay, as well as shared parental leave, 
+allowing parents to take up to 52 weeks’ 
+leave in total on the birth or placement 
+for adoption of a child. To protect and promote staff wellbeing, we 
+also have a detailed Anti-Harassment and 
+Bullying Policy, which sets out examples of 
+the types of conduct that may constitute 
+harassment or bullying and our commitment 
+to eliminating such conduct. Our Stress 
+Policy lists our actions for identifying, 
+tackling and preventing the causes of work-
+related stress and to providing appropriate 
+support and consideration to employees 
+suffering from stress, on a confidential basis We actively encourage training and 
+Continuing Professional Development (CPD) 
+for all our employees. As part of this, we offer 
+financial support for employees to support 
+them through further training and 
+qualifications when the training relates  
+to a business need. Recent examples of 
+financial support provided include MBA 
+sponsorship, leadership and management 
+training, as well as technical training.Employee training needs are identified 
+through regular employee appraisals and 
+competency review. All employees are given 
+appropriate access to relevant training to 
+enable them to progress within the 
+organisation.
+ITM Power offer apprenticeships in all areas 
+of our business. We are currently training six 
+apprentices, across various sub-departments 
+within production and quality functions. We work closely with the Advanced 
+Manufacturing Research Centre at Sheffield 
+University to ensure we support our 
+apprentices to be the best they can be.
+In 2020, we launched a new long-term 
+incentive plan for all Group staff and a share 
+incentive plan (enabling staff to buy shares 
+on a tax-efficient basis and receive matching 
+shares from ITM Power). 
+The range of staff benefits also includes 
+childcare vouchers and a cycle purchase 
+scheme as well as accessing training 
+courses relevant to the employee’s role. We also appointed a new Head of Human 
+Resources and increased the size and reach of 
+the HR function to provide strategic and 
+operational service delivery. We have put in 
+place an industry-leading Employee Assistance 
+Programme run by Health Assured. 
+The Employee Assistance Programme is a wide 
+range of services that any ITM Power 
+employee can access without cost, and totally confidentially. This includes unlimited 
+access to counselling, legal information, 
+bereavement support, medical information 
+and online Cognitive Behavioural Therapy. 
+During the ongoing Covid-19 pandemic,  
+we interacted regularly with employees to 
+ensure that staff have been able to work 
+effectively and flexibly, whilst impacted by 
+school closures and lockdowns.In 2021, we will begin monitoring a range 
+of key performance indicators related to 
+training and development. These will include 
+the number of training hours completed per 
+department and the number of professional 
+qualifications undertaken. 
+We will also launch the ITM Academy. 
+This will be the home for learning and 
+development across ITM Power and aims 
+to significantly expand the development opportunities and support for all ITM Power 
+staff. It will become a hub for developing 
+staff, providing a structured induction 
+programme alongside technical and 
+leadership training. We want the Academy 
+to become a global centre of excellence 
+for training our team members, as well as 
+providing training opportunities for our 
+partners who work with us. In addition, 
+our HR team will also update our 
+performance management system for 
+supporting staff development.As part of our ITM Academy programme, 
+we will explore the potential for further 
+apprenticeships within our business. 
+We will also begin inviting industrial 
+placement students to join the business 
+for a 12-month placement. These 
+placements provide students with an 
+opportunity to gain  insight into a possible 
+industry of choice for them, as well as 
+giving us access to future graduate talent.where appropriate. These include ensuring 
+that risk assessments include or specifically 
+address workplace stress; maintaining an 
+appraisal process to ensure the suitability 
+of workloads, supported by a capability 
+procedure; and facilitating requests for 
+flexible working where reasonably 
+practicable in accordance with our Flexible 
+Working Policy. 
+ENGINEERED SUSTAINABLYSOCIAL
+ISSUESITM POWER ESG REPORT  2020
+RESPONSIBLE GOVERNANCE TAX ANTI-CORRUPTION
+Importance 
+for ITMCompanies have a responsibility to contribute 
+to the countries wherein they do business. 
+For ITM Power, we believe that this is part 
+of being a responsible business that is accountable 
+to ourselves, to society and to future generations. 
+Approach 
+and policiesWe are transparent in our tax reporting and 
+disclose information about our tax position in our 
+Annual Report. 
+Indicators
+Supporting 
+actions and 
+initiativesDetails of our corporate governance activities
+in 2020 can be found on our website and in our 
+Annual Report .
+Future plans Once profitable, we will comply not only with the 
+letter of the law, but also the underlying intent to 
+ensure that we pay the right amount of tax, on 
+time, in the countries wherein we operate. We will 
+cooperate with the authorities in the countries 
+wherein we operate to support effective tax 
+systems. 
+Link to more 
+information2021 QCA Code Statement of Compliance  
+2020 Annual Report and Financial Statements 2020 Annual Report and Financial Statements 2021 QCA Code Statement of Compliance   
+Code of Ethics (once published)
+0As our business has grown over the past two 
+years, we’ve strengthened our corporate 
+governance procedures to ensure our business 
+is fit for the future.
+Our Board is ultimately responsible for our 
+strategy and direction. Our Board consists of 
+nine members, five of whom are Non-Executive 
+Directors. We consider all our Non-Executive 
+Directors to be independent in character and 
+judgement and each provides us with valuable 
+advice and challenge to stay on track with 
+our strategy. In 2018, we adopted the Corporate Governance 
+Code for Small and Mid-Size Quoted Companies 
+from the Quoted Companies Alliance (the ‘QCA 
+Code’). More details of our approach to corporate 
+governance and how we apply the ten principles of 
+the QCA Code in support of our growth are publicly 
+available on our website and in our Annual Report.Good governance is vital for making ITM 
+Power a sustainable organisation as we scale 
+up, reducing risk and adding value to our Corruption and fraud are internationally 
+recognised as significant threats to both social 
+development and the market economy, 
+because of the disruptive effect on competitive 
+markets and the misallocation of resources. 
+Our Anti-Corruption and Bribery Policy sets 
+out our ‘zero tolerance’ approach to corruption 
+and bribery in any form. It summarises our 
+commitments to ensuring a systematic 
+approach to risk assessment of the nature and 
+extent of bribery risk associated within the 
+construction industry and global market, and 
+training employees to recognise, avoid and 
+report the use of bribery by themselves and 
+others. All employees receive this Policy as part 
+of their employee handbook upon joining the 
+business.Beyond o ur own supply chain, we also include 
+clauses in our contracts and our Supplier 
+Code of Conduct to prevent corruption. Our 
+Qualification Questionnaire for new direct 
+material suppliers also includes questions 
+on whether suppliers have a policy and/or 
+an employee training programme relating to 
+anti-corruption, as well as whether they have 
+been subject to litigation or criminal charges 
+regarding bribery and corruption.
+Our newly created ESG Committee ensures that
+ESG matters remain high on the business agenda. 
+The Committee is responsible for setting our ESG 
+strategy and policy, monitoring performance and 
+providing feedback from across the business to 
+external stakeholders, with the aim of continually 
+progressing towards our targets.
+The Committee is chaired by our Non-Executive 
+Director Katherine Roe with additional members 
+consisting of Dr Graham Cooley, CEO, and Dr 
+Rachel Smith, Executive Director. It is also 
+attended by our Head of Investor Relations and our Head of HR. The Committee meets at least 
+twice a year for formal meetings, with additional 
+ad-hoc discussions on specific projects being 
+convened as required.  
+We are cur rently reviewing the inclusion of ESG 
+KPIs for our Executive Board to link remuneration 
+with ESG performance. As part of our increased 
+focus on diversity and inclusion, we will also seek 
+to improve the diversity of our Board. In 2021, we will be launching a Code of Ethics 
+and a revised anti-fraud and bribery 
+programme, reflecting the growth in our 
+operations and numbers of staff. As part 
+of this process, we will be developing KPIs to 
+track the success of our programme, and will 
+also undertake a programme of training for 
+100% of staff on the Code of Ethics and the 
+updated anti-fraud and bribery programme. 
+This training will also be built into inductions 
+for new starters.TOTAL SIGNIFICANT FINES AND 
+NON-MONETARY SANCTIONS 
+FOR NON-COMPLIANCE WITH 
+LAWS AND/OR REGULATIONS: GOVERNANCE
+ISSUES
+ENGINEERED SUSTAINABLYThey also undermine the rule of law, and public 
+trust in public servants and business leaders. 
+As our business scales up, we need robust 
+policies in place to eliminate these practices.business. Strong governance is also essential 
+for delivering on our business values: working 
+with integrity, embracing innovation and 
+creating value for our customers, people, 
+suppliers and shareholders. 
+DATA SECURITYRESILIENCE AND RISK 
+MANAGEMENT 
+STAKEHOLDER ENGAGEMENT 
+Importance 
+for ITMThere are a number of risks and uncertainties 
+that have the potential to impact the execution 
+of our strategy, as well as our short-term results. 
+Proactively identifying, managing and mitigating 
+these risks is essential to the success of our 
+business.
+Approach 
+and policiesThe Executive Directors review the risks facing 
+ITM Power, including financial risks, and the Board 
+identifies and publishes our principal risks in our 
+Annual Report, along with our governance 
+processes to mitigate these risks. Key business 
+risks and mitigations are considered to be related 
+to Covid-19, Brexit, Technology and IP , Markets, 
+Traction and Growth Trajectory, People, Safety, 
+Partnerships, and Legal and Statutory Risks.
+The Board is responsible for the risk framework 
+and aims to ensure that the Group’s ability to 
+achieve its objectives outweighs its risk exposure. 
+The Executive Directors are responsible for 
+identifying, managing and mitigating the risks to 
+the Company. We have a monthly review process 
+to assess risks at corporate level and project-
+specific risks are reviewed at project level. The 
+Audit Committee reviews the processes and 
+controls for ensuring material business risks are 
+identified and managed appropriately.
+We take ESG considerations into account when 
+reviewing the risks facing ITM Power, and our ESG 
+committee has particular responsibility for 
+reviewing these.
+More details on our risk management approach 
+can be found in our Annual Report and in our 2021 
+QCA Code Statement of Compliance.
+Indicators
+Supporting 
+actions and 
+initiativesIn 2020, we introduced additional limitations 
+on hardware (including USB sticks) to increase 
+our protection of personal data and 
+intellectual property.In 2020, Covid-19 and its impacts were identified 
+by management as heightening some of the short-
+terms risks across the business. This includes 
+risks relating to reliance on key personnel, the 
+increased risk of suppliers and customers’ default, 
+and revenue risk, as our product requires capital 
+commitments from customers when many 
+businesses are calling for conservatism. However, 
+in the mid-term, the possibility of a greener 
+recovery strategy is very positive for ITM. Keeping our employees’ and customers’ 
+personal data safe is a legal and ethical 
+obligation for us. In addition, the design and 
+manufacture of our electrolysers is critical 
+to the success of our business, so keeping 
+this intellectual property safe and secure 
+is highly important.
+Our Data Protection Policy sets out our 
+commitments to processing all personal data 
+legally and responsibly. Our website sets out our 
+privacy policy for the use of third-party data and 
+we inform employees and other personnel of our 
+data privacy practices through our employee 
+privacy notice. We inform all staff of our security 
+procedures for minimising the risk of data 
+breaches. Where appropriate, we conduct data 
+protection impact assessments (DPIAs) to ensure 
+that new and updated data processing 
+procedures are conducted proportionately and 
+with adequate safeguards in place.
+We also have a dedicated Intellectual Property 
+Management Policy to reduce the risk of 
+inappropriate information-sharing of ITM Power 
+trade secrets and proprietary technology. We are 
+currently training staff across our business on 
+this Policy.
+We operate a Patent Steering Committee, 
+which is responsible for the development and 
+protection of ITM’s Intellectual Property Policy and Intellectual Property Portfolio. We recognise 
+the importance of identifying innovation and 
+capturing it in a timely fashion. 
+We conduct regular PSC meetings in which 
+innovation 
+can be identified and captured. In order to have a 
+structured approach to the ‘innovation capture’ 
+process, research in key areas of the business is 
+reviewed for new inventions (involving the 
+research scientists, 
+as appropriate) and these are evaluated in detail.
+Our Social Media Policy also includes clauses on 
+intellectual property, specifying that employees 
+should not do anything to jeopardise our valuable 
+trade secrets and other confidential information 
+and intellectual property through the use of 
+social media. Our CEO is ultimately responsible for ensuring 
+effective communication with investors. 
+Shareholder communication is coordinated by our 
+Head of Investor Relations, together with Investec 
+and Tavistock. 
+We are committed to maintaining good dialogue 
+with shareholders through proactively organising 
+meetings and presentations with fund managers, 
+retail brokers and analysts, as well as responding 
+to a wide range of enquiries. We also recognise the 
+importance of communicating appropriately any 
+significant company developments.  
+Beyond our shareholders, we also proactively seek 
+feedback to enable us to make improvements and 
+changes to our products and processes. Our newly 
+formed ESG Committee is a core part of our work 
+to respond to stakeholder priorities, particularly 
+around sustainability.
+More details on our stakeholder engagement 
+approach can be found in our 2021 QCA Code 
+Statement of Compliance.Engaging with and learning from employees’, 
+customers’ and other stakeholders’ feedback is 
+an integral part of what we do and how we are 
+developing the business. Seeking to understand 
+and meet shareholders’ needs and expectations, 
+and taking into account wider stakeholder and 
+In 2020, we strengthened our investor relations 
+management through the appointment of our first 
+Head of Investor Relations. We also launched a 
+new website to keep shareholders up to date with 
+our activity. Our joint venture with Linde GmbH, 
+ITM Linde Electrolysis GmbH, also launched its 
+own website in 2020.
+As Covid-19 prevented us from presenting results 
+to shareholders in person, we held our Annual 
+General Meeting and two Extraordinary General Meetings virtually. We utilised a specialist 
+shareholder platform to maximise attendance 
+at the events. The AGM and the EGM were well 
+attended with nearly 400 meeting attendees.
+Our investor roadshows in October 2020 and 
+January 2021 were also presented virtually. This 
+has enabled much broader engagement. ITM POWER ESG REPORT  2020
+ENGINEERED SUSTAINABLYGOVERNANCE
+ISSUES
+social responsibilities, are core principles within 
+the Quoted Companies Alliance Corporate 
+Governance Code 2018 with which ITM Power 
+complies.ITM POWER ESG REPORT  2020
+ 
+DATA SECURITYRESILIENCE AND RISK 
+MANAGEMENT 
+STAKEHOLDER ENGAGEMENT 
+Supporting 
+actions and 
+initiatives
+(Continued)We successfully moved most of its operations to 
+work on a remote basis and we have now resumed 
+operations, which has mitigated this risk.
+Future plans We will continue to regularly assess and publicise 
+the main risks facing our business, and will take 
+ongoing action to monitor and mitigate these.
+Link to more 
+information2020 Annual Report and Financial Statements  2020 Annual Report and Financial Statements
+2021 QCA Code Statement of Compliance  2021 QCA Code Statement of Compliance  Our new ESG Committee is responsible for setting 
+our ESG strategy and policy, taking into account 
+stakeholder requirements and providing feedback 
+from across the business to external stakeholders, 
+with the aim of continually progressing towards 
+our targets. In 2021, we will launch our first ‘tech talk’ 
+training session, to increase employee 
+awareness and confidence in dealing with data 
+protection and cyber security issues online. 
+The first training session will be held with 
+heads of department at ITM Power, and will 
+then be rolled out to the full staff team.
+ENGINEERED SUSTAINABLYGOVERNANCE
+ISSUES
+In 2020, we conducted a light-touch materiality 
+process with internal stakeholders from different 
+functions across our business, in order to identify 
+the ESG issues where we have the biggest 
+impact. We also reviewed feedback from external 
+stakeholders, including investors, to make sure our 
+ESG report and strategy reflected their views, and 
+conducted a peer review to identify best practice 
+within comparable organisations. The results were 
+used to inform the development of this report and of our ESG strategy: Sustainable Energy, 
+Engineered Sustainably. Before our next ESG 
+report in 2022, we will conduct a full materiality 
+assessment of all our ESG impacts, consulting 
+with internal and external stakeholders and 
+benchmarking against comparable organisations.
+We are looking at how to utilise online investor 
+events, in addition to in-person events in the 
+future, to enable broader investor engagement. 
+We plan to review and strengthen our 
+stakeholder engagement process over time, 
+so that we can structure our approach to ESG 
+in a way that maximises the social and 
+environmental impacts of our approach.
+ESG Consultants: Good Business
+Design: Ginger Root 
+SUSTAINABLE ENERGY, ENGINEERED SUSTAINABLY
+ENVIRONMENTAL, SOCIAL AND 
+GOVERNANCE REPORT, 2020
+ITM
+P
+20EWO
+R

@@ -1,2 +1,2 @@
 COMPLETION_MODEL = "gpt-3.5-turbo-16k"
-API_KEY = "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"
+API_KEY = "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"

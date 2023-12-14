@@ -1,0 +1,3015 @@
+2009
+Qualcomm Social Responsibility Report
+Our Company Commitment to Our Workplace, Our Community and Our EnvironmentMESSAGE FROM OUR CHAIRMAN AND CHIEF EXECUTIVE OFFICER
+As we celebrate our 25th anniversary, the people at Qualcomm can take 
+pride in knowing their creative ideas have changed the lives of people 
+everywhere. Through innovative thinking and a determination to make 
+a difference, we have grown from a handful of people in San Diego to a 
+global organization of more than 16,000 diverse individuals in over
+30 countries. As we reflect back on our journey, it is fitting that we 
+celebrate not just our achievements, but the principles that have guided
+us along the way and now serve as the foundation of our corporate
+social responsibility platform.
+Our Mission Is Global And So Is Our Responsibility
+Today, Qualcomm is focused on leading the wireless revolution and 
+creating mobile technologies that positively transform life for people all 
+around the world. The impact we have not just on the mobile industry but 
+our global community is significant—and carries with it great responsibility. 
+That’s why throughout our heritage, we have endeavored to build a 
+company that conducts business in a responsible and ethical manner, 
+while enabling a culture that embraces diversity, respects the environment 
+and supports the communities in which we work and live.
+Responsibility In Action
+Year after year we put our commitment toward these principles into 
+action through a deliberate focus on our business, our workplace, our 
+communities and the environment. In fact, we’ve made over $150 million 
+in donations over the past ten years through our corporate giving and 
+matching grants programs, and every member of our executive team is 
+active in the community. Our investments in energy efficiency yield nearly 
+$3 million in savings annually and our conservation efforts result in
+17.8 million gallons of water saved each year. And with nearly 1,800
+work/life balance programs, services and events available to our 
+employees, along with close to 50,000 enrollments in training courses 
+each year, we strive to create a supportive workplace for our employees. 
+These are just a few of the highlights that demonstrate our commitment
+to making a difference as an employer and global citizen. 
+To find out more about Qualcomm’s social responsibility story I invite
+you to review this year’s report. I believe it reflects the strength 
+of character of our people and our ongoing belief in our founding 
+principles. Most importantly, you’ll see firsthand our dedication to 
+supporting our employees and working together to make a difference 
+in our global community. On behalf of all of us here at Qualcomm, I’m 
+pleased to reaffirm our commitment to continuing that tradition over
+the next 25 years.
+ 
+—Dr. Paul E. Jacobs
+Chairman of the Board and Chief Executive Officer
+2009 Qualcomm Social Responsibility Report   I   3REPORT PARAMETERS
+I   2009 Qualcomm Social Responsibility Report 4Reporting Period
+Qualcomm has produced social responsibility reports on an  
+annual reporting cycle since 2006. Our 2009 Social Responsibility 
+Report covers events and highlights occurring from September 
+29, 2008 to September 27, 2009 and coincides with our corporate 
+fiscal year. This report builds upon data previously reported in our 
+2008 Social Responsibility Report, which covered the timeframe 
+of October 1, 2007 to September 28, 2008. In some instances, 
+data is collected and reported on a calendar rather than fiscal  
+year basis. Such exceptions, as well as any other exceptions to  
+the reporting period, will be noted within the report.
+Report Scope & Boundary
+This report includes Qualcomm and its subsidiaries. Financial  
+data is reported in U.S. dollars. There have been no significant 
+changes from previous reporting periods in the scope, boundary 
+or measurement methods applied in the social responsibility 
+report. We anticipate that multiple stakeholders, ranging from 
+the general public to current and future Qualcomm employees, 
+investors, customers and suppliers, will access and use our 2009 
+Social Responsibility Report. As such, we carefully considered 
+what information to include and disclose in this report, taking 
+into account what issues and topics are materially relevant to our 
+business operations. Data and content determined to have the 
+highest priority have been included in this report. More detailed 
+information regarding our stakeholder engagement is located on 
+page 13 of this report.
+Report Guidelines
+This report voluntarily complies with the Global Reporting 
+Initiative (GRI) G3 Sustainability Reporting Guidelines. The GRI is 
+the world’s most widely used sustainability reporting framework, 
+setting the principles and indicators that organizations use to 
+measure and report their economic, environmental and social 
+performance. For more detailed information on the GRI, please 
+visit: www.globalreporting.org
+This report complies with the GRI’s C+ Application Level and it  
+has been third-party verified for accuracy. A GRI Content Index 
+is provided at the end of this report as a cross-reference to the 
+report content.
+Any questions or feedback regarding this report or its contents 
+should be sent to:
+Allison Kelly
+Qualcomm Incorporated
+5775 Morehouse Drive  I  San Diego, CA 92121
+Phone: 858-651-4027  I  Fax: 858-845-4119
+Email: allison@qualcomm.com
+TABLE OF CONTENTS
+2009 Qualcomm Social Responsibility Report   I   5 Message From Our Chairman and Chief Executive Officer  .................................................................... 3
+ Report Parameters  .................................................................................................................................................. 4
+Our Company
+ Company Overview ................................................................................................................................................. 7
+ Operational Structure  ............................................................................................................................................ 8
+ Scale of Organization.  ............................................................................................................................................ 9
+ Corporate Governance & Ethics  ......................................................................................................................... 10
+ Customer Privacy Protection.  ............................................................................................................................. 12
+ Stakeholder Engagement.  .................................................................................................................................... 13
+ Product Responsibility.  .......................................................................................................................................... 14
+ Supplier Diversity.  .................................................................................................................................................... 17
+ Locations.  .................................................................................................................................................................... 18
+ Awards & Recognition.  .......................................................................................................................................... 19
+Our Workplace
+ Survey of the Corporate Climate  ....................................................................................................................... 21
+ Workplace Data  ........................................................................................................................................................ 22
+ Human Rights  ............................................................................................................................................................ 22
+ Workplace Safety  .................................................................................................................................................... 23
+ Education & Training  .............................................................................................................................................. 24
+ Global Workforce Inclusion  .................................................................................................................................. 25
+ Work/Life Balance  ................................................................................................................................................... 27
+Our Community  
+ Community Involvement  ....................................................................................................................................... 29
+ Volunteerism  .............................................................................................................................................................. 30
+ Matching Grant Program ....................................................................................................................................... 31
+ Community Involvement Highlights  ................................................................................................................. 32
+ Wireless Reach .......................................................................................................................................................... 36
+ Global Emergency Management  ....................................................................................................................... 38
+Our Environment
+ Energy Efficiency & Energy Cost Savings  ...................................................................................................... 41
+ Greenhouse Gas Emissions  .................................................................................................................................. 42
+ Water Conservation & Reuse ............................................................................................................................... 43
+ Green Cleaning  ......................................................................................................................................................... 44
+ Sustainable Kitchen Practices.  ............................................................................................................................ 44
+ Recycling & E-waste  ............................................................................................................................................... 46
+ Sustainability Highlights  ........................................................................................................................................ 47
+GRI Content Index   ................................................................................................................................... ............................. 50I   2009 Qualcomm Social Responsibility Report 6Our Company
+Qualcomm’s Leadership & Organizational Structure
+Qualcomm is a global company who is the world-leading provider of wireless 
+technology and services.  We strive to meet and exceed industry standards for 
+ethical business practices, product  responsibility, supplier diversity, environmental 
+stewardship and workplace safety.IT’S WHO WE ARE.
+Company Overview
+Qualcomm Incorporated (Nasdaq: QCOM) is the world leader in 
+next-generation mobile technologies. Qualcomm serves the 
+global wireless industry with breakthrough technologies that are 
+enabling the convergence of mobile communications and consumer 
+electronics, making wireless devices and services more personal, 
+affordable and accessible to people everywhere. The Company’s 
+technical advancements are driving the evolution of mobile networks, 
+providing the speed and capacity necessary to effectively deliver 
+data services such as mobile Internet access, music, games, video 
+and more. Through its commitment to innovative research and 
+development, Qualcomm has been at the forefront of providing 
+solutions and services that enable operators to deploy, grow and 
+capitalize on their 3G and 4G networks. 
+Since 1985, Qualcomm’s visionary technology leadership has been 
+carrying the world forward, changing it by improving the way 
+people live, learn, work and play. The Company’s current intellectual 
+property portfolio includes approximately 68,000 United States and 
+international patents and patent applications. Headquartered in
+San Diego, California, Qualcomm is included in the S&P 100 Index,
+the S&P 500 Index and is a 2009 FORTUNE® 500 company. 
+For more detailed information, please visit: www.qualcomm.com
+2009 Qualcomm Social Responsibility Report   I   7As the world leader in next generation 
+mobile technologies, Qualcomm is 
+driving wireless growth and helping 
+to connect people to information, 
+entertainment and one another 
+through our ideas and innovations.
+We believe that our success is the
+result of a ripple effect—a radiating
+effort formed from the solid 
+partnerships we create with our 
+employees, customers, suppliers
+and global communities. 
+As Qualcomm expands our influence,
+so does our dedication to contributing 
+to the well-being of the people that 
+inspire us, the communities that 
+support us and the world that allows 
+us to make it all happen. 
+The 2009 Qualcomm Social 
+Responsibility Report reflects the 
+spirit behind our company culture. It 
+highlights the diversity of our workplace 
+and the contributions we make to the 
+communities in which we live.
+For us, corporate citizenship and 
+sustainability is much more than a 
+responsibility. It’s who we are.
+Our Company
+Qualcomm’s Leadership & Organizational Structure
+I   2009 Qualcomm Social Responsibility Report8Operational Structure 
+From our beginnings in 1985, Qualcomm has grown from seven individuals meeting in a den to a world-leading provider of wireless 
+technology and services. Qualcomm is a global company, a firm with many facets, with each business division changing the way we live 
+and work through its own unique contributions. But no matter what each Qualcomm business does, all are united by a single, driving 
+passion: to continue to deliver the world’s most innovative wireless solutions.
+QCT
+QUALCOMM
+CDMA
+TECHNO LOGIES
+The world ’s largest  
+provider of wireless 
+chipset technology  
+Cellular Products 
+Group (CPG)
+Wireless modems  
+with multimedia ,
+GPS, application 
+processors, RF ,
+power management 
+and CSM.
+ 
+Connectivity & 
+Wireless  
+Modules (CWM)
+Embedded modules,  
+Bluetooth®, WLAN,  
+broadcast an d
+tracking de vices.
+Computing & 
+Consumer
+Products (CCP)
+Conv erged modem & 
+GHz pr ocessor fo r
+new class of mobile  
+computing de vices.Manages Qualc omm ’s 
+extensiv e intellectual  
+property portfoli oQTL
+QUALCOMM
+TECHNO LOGY
+LICENSINGQWI
+QUALCOMM
+WIRELES S
+AND INTERNET
+FLO Technologies  
+The mobile br oadcast 
+platform for the 
+delivery of high-quality  
+entertainment and 
+information.  
+Qualc omm Flarion
+Technologies 
+Focused on the 
+creation of inno vative 
+next gener ation air 
+interface technologies 
+including Femtocell 
+Station Modem™
+(FSM™) .
+Qualc omm MEMS  
+Technologies, Inc. 
+The industry's first 
+color mic ro electrical/ 
+mechanical systems 
+(MEMS) displa y
+for mobile de vices.
+ • mirasol®OTHER
+BUSINES SESMakes strategic
+investments in
+early -stage and other 
+companies, including 
+licensed de vice 
+manuf acturers, that
+we belie ve open ne w 
+mark ets for adv anced 
+wireless technologies.
+Qualcomm Technology
+& Ventures
+Strategic in vestments  
+in priv ately- owned 
+startup ventures to 
+promot e adv anced 
+wireless.
+FLO TVTM
+The world’s largest 
+mobile br oadcast 
+netw ork, deli vering
+TV and data to
+mobile de vices. QSI
+QUALCOMM
+STRATEGI C
+INITIA TIVES
+Corpor ate R& D
+Explor es and de velops 
+next-gene ration 
+wireless technologies  
+and solutions .
+Qualc omm Corpor ate 
+Engineering Servic es
+Accelerates the  
+adoption of Qual comm 
+technologies thr ough 
+industry initiativ es, 
+professional servic es, 
+technical education,  
+product engineering 
+and regulatory 
+approvals.CORPORA TE
+ACTIVITIES
+Qualc omm
+Internet Servic es
+Next-gener ation 
+wireless data 
+applications,  
+technologies and 
+value-added servic es.
+ • Brew®
+ • QPointTM
+ • Xiam®
+ • Plaza Suit e
+ • QChat®
+ 
+Qualc omm Go vernment
+Technologie s
+Secu re communications 
+solutions and servi ces 
+for feder al, stat e and 
+local agencies.
+Qualc omm Ent erprise  
+Servic es
+Integrated wireless 
+systems and servic es 
+for businesses.
+Qualc omm Fi rethorn 
+Holdings, LL C
+The pr emier wir eless 
+technology for mobile 
+commer ce.2009 Qualcomm Social Responsibility Report   I   9Qualcomm’s current intellectual property portfolio includes approximately 
+68,000 United States and international patents and patent applications.
+Scale of Organization
+91% Regular Empl oyees
+Over 175 CDMA Lic ensee s
+More than 105 WCDMA Lic ensee s9% Tempor ary Empl oyeesBreakout by Empl oyee TypeUnited Stat es
+Non-Unit ed Stat esNumber of Empl oyees
+09
+08
+07
+0612,800
+12,600
+10,70 0
+9,4003,300
+2,800
+2,100
+1,80016,100
+15,400
+12,800
+11,200
+South Korea
+China
+Japan
+United Stat es
+Other Countries$3,655
+$2,378
+$1,098
+$632
+$2,65 3$13,406$15,83 5$17,944$20,316
+06070809Total Capitalization in millions — St ockholde r’s Equity
+Quantity of Pr oducts Pr ovided in FY09
+QESFY09 Re venues in millions – $10 ,416
+QCT     $6,135
+QTL    $3,605
+QWI    $641
+QSI      $29
+OTHER   $6*The Compan y distinguishes re venues from external customers by  
+geog raphic areas based on the location to which its products, soft ware 
+or servic es are deli vered and, for QTL’s licensing and ro yalty re venues, 
+the in voiced addresses of its lic ensees.
+Total  $10 ,416
+43,700 terrestrial-based and
+satellite-based telematics units shipped
+QCT 317 million mobile station modem
+(MSMTM) integrated cir cuitsNumber of Lic ensees as of Sept. 27 , 2009FY09 T otal Consolida ted Re venues
+by Region in millions*Our Company
+Qualcomm’s Leadership & Organizational Structure
+I   2009 Qualcomm Social Responsibility Report10Corporate Governance & Ethics  
+Qualcomm’s Board of Directors provides sound corporate 
+governance and sets high standards for our employees, officers 
+and directors. It is the duty of the Board of Directors to serve 
+as a prudent fiduciary for our stockholders and to oversee the 
+Company’s management. The Board of Directors periodically 
+evaluates the size and structure of the Board. The Board has four 
+committees consisting of Audit, Compensation, Governance and 
+Finance. With the exception of the Finance Committee, members 
+of all committees are “independent” under applicable guidelines. 
+The Board considers its committee structure to be appropriate, 
+but the number and scope of committees may be revised as 
+needed to meet changing conditions and needs.
+Qualcomm is committed to abiding by all applicable laws and 
+regulations regarding political contributions throughout the world. 
+At the Federal level, Qualcomm does not make in-kind 
+contributions to federal candidates or political committees.  
+Federal contributions are made by the Qualcomm Political Action 
+Committee (QPAC). Information regarding contributions by QPAC 
+is publicly reported and available on the website of the Federal 
+Election Commission. At the State level, Qualcomm has made 
+contributions to candidates, ballot initiatives and political parties.  
+At the local level, Qualcomm has made contributions to local 
+parties and ballot initiatives.
+Qualcomm also adheres to the Foreign Corrupt Practices Act 
+(FCPA), a U.S. law that prohibits the providing of improper 
+gifts to foreign officials.  In addition, Qualcomm adheres to the 
+Honest Leadership and Open Government Act (HLOGA), a U.S. 
+law prohibiting any registered lobbyist, or any organization that 
+employs a lobbyist (such as Qualcomm), from providing certain 
+gifts to Congressional employees. HLOGA requires companies that 
+employ lobbyists to certify semiannually that they have read the 
+gift rules, and that no gifts that were known to be in violation of 
+the Congressional gift rules have been given.
+Employees may participate in political activities of their choice 
+on an individual basis, with their own money and on their own 
+personal time, subject to all applicable laws and company policies.
+Corporate Governance Highlights
+• Qualcomm generally files our 10-K and 10-Q SEC filings
+ concurrently with our earnings release.
+• We do not maintain a defined benefit pension plan.
+• Our 401(k) employee retirement plan does not have direct 
+ ownership in Qualcomm stock.
+Executive Roles
+The roles of Chairman and Chief Executive Officer are one 
+function. The Board elects the Chairman and Chief Executive 
+Officer in the manner, and based on the criteria, that it deems 
+appropriate and in the best interests of the Company given the 
+circumstances at the time of such election.
+Board of Directors
+The Company has 10 out of 12 independent directors. The 
+independent directors are not employees (or employees within 
+the last three years) and do not have any business or consulting 
+arrangements with the Company. We have a Presiding Director 
+who is an independent director. The Presiding Director also serves 
+as the chairperson of one of the three standing committees of the 
+Board of Directors comprised solely of independent directors—
+Audit, Compensation and Governance. The Presiding Director 
+presides at all meetings of the Board of Directors at which 
+the Chairman of the Board is not present, including Executive 
+Sessions of the independent directors. 2009 Qualcomm Social Responsibility Report   I   11
+Code of Ethics
+Qualcomm’s Code of Ethics was created to ensure the 
+preservation of our high standards for workplace integrity, 
+conduct and ethics. Theft, fraud and other dishonest or unethical 
+behaviors are not tolerated. Qualcomm relies on our employees to 
+report unethical behavior and encourages them to seek assistance 
+and direction on any workplace concerns from their manager, 
+Human Resources, the Legal Department or any other appropriate 
+person in the Company. 
+Code of Ethics Awareness Campaign
+As part of a continuing education campaign, our CEO sends out 
+twice a year a company-wide email restating the responsibility 
+of all employees to uphold our ethics standards and encouraging 
+employees to take our online ethics training.
+Code of Ethics Hotline
+If employees do not feel comfortable coming forward with a 
+concern, we have established the Code of Ethics Hotline, which 
+allows employees to make anonymous reports.
+Open Door Policy
+Our open door policy provides support to employees and a 
+process for raising concerns, complaints and suggestions to 
+management. Open communication is encouraged and expected 
+among all levels of our staff.
+Protection Against Retaliation
+In order to encourage an environment of open, honest 
+communication, Qualcomm does not tolerate any retaliation for 
+reporting a concern or initiating or assisting in any action resulting 
+in an investigation. Discipline for violating this policy includes 
+potential termination.
+For the most recent information regarding Qualcomm Governance 
+and Ethics and our complete documents for our Code of Ethics, 
+Governance Principles and Practices and Board committee 
+charters, please visit our Investor Relations website
+http:/ /investor.qualcomm.com/governance.cfmStockholder Communications
+We have adopted a formal process for stockholder 
+communications with the Board. Stockholders who wish 
+to communicate to the Board may do so in writing to the 
+Company’s General Counsel. Our General Counsel logs all such 
+communications and forwards those not deemed frivolous, 
+threatening or otherwise inappropriate to the Chair of the 
+Governance Committee for distribution.
+In accordance with the procedures in the Company’s Bylaws, 
+stockholders may also submit proposals for consideration at the 
+Company’s annual stockholders’ meeting.
+Corporate Ethics
+Qualcomm was founded with a commitment to the highest 
+standards of integrity, workplace conduct and business ethics, and 
+we are proud to operate under those principles today. In the spirit 
+of this commitment, we have succeeded in creating a productive 
+and positive environment where employees can freely share their 
+ideas, opinions and concerns.
+One hundred percent of our business units are evaluated for 
+risks related to corruption. There has never been any legal case 
+for corruption brought against our employees or us. Qualcomm 
+achieves this by regularly training one hundred percent of 
+employees who are deemed relevant to anti-corruption concerns 
+on applicable policies and procedures such as our Code of 
+Business Conduct, Sarbanes-Oxley Act requirements and U.S. 
+Foreign Corrupt Practices Act.Our Company
+Qualcomm’s Leadership & Organizational Structure
+I   2009 Qualcomm Social Responsibility Report12Customer Privacy Protection
+Qualcomm is committed to protecting personal information 
+and privacy of the consumers who benefit from our innovations 
+in wireless technology and services. Respect for privacy helps 
+Qualcomm build and maintain the trust of our business partners 
+and customers, protects our brand and reputation, provides 
+business advantages by distinguishing our products and services 
+and helps ensure legal compliance. Qualcomm has not received 
+any complaints regarding breaches of customer privacy or data 
+in 2009 or the prior two years. We established a cross-divisional 
+privacy steering committee to help guide the activities of the 
+Company that impact privacy.It is the policy of Qualcomm, our subsidiaries and 
+divisions, to comply with anti-corruption laws, 
+including the U.S. Foreign Corrupt Practices Act 
+(FCPA), other applicable U.S. laws and the
+anti-corruption laws and regulations of the 
+countries where we do business. It is the 
+Company’s policy to obey laws, including those 
+laws that regulate our conduct in the marketing 
+of our products, services and technologies in the 
+international marketplace. 
+All employees, agents, consultants and 
+representatives, wherever they are located, who 
+are deemed relevant to anti-corruption concerns 
+and FCPA-type risks are expected to review, 
+understand and follow Qualcomm’s FCPA Policy 
+in their daily activities. These individuals annually 
+certify that they understand this Policy and are 
+aware of no violations of the Policy.  
+In the most recent certification process, we 
+identified active employees who might implicate 
+Qualcomm to FCPA-type risks (46 percent of our 
+workforce) and 99.9 percent of those employees 
+certified the Policy.Qualcomm’s Foreign
+Corrupt Practices Act Policy
+2009 Qualcomm Social Responsibility Report    I   13Employees  • Open Door polic y.
+  • Regular executive breakfasts open to all employees.
+  • Regular Qualcomm employee climate surveys and other division specific surveys.
+  • Semi-annual employee all-hands meetings, which are webcast globally and include employee  
+   Q&A sessions.
+  • Daily internal e-newsletter “QC Daily News”.
+  • Employee Resource Groups formed around a common interest or shared background and used as open
+   forums for discussion and dialogue on relevant topics.
+  • Monthly internal presentation series helps employees understand what’s happening in various parts of
+    the Company .
+  • Internal communication vehicles and programs provide the opportunity for leadership to communicate   
+   any type of news or business information to employees around the world.
+  • Annual on-site fairs/tradeshows for employees to learn about our company, benefits and technology, such
+   as the product demonstration tradeshow, QLife festival and Sustainability Fair. These events are available for
+   viewing company-wide via our internal intranet.
+  • Annual Qualcomm Innovation Network Venture Fest, a competition to encourage innovation by our
+   employees and provide a mechanism for senior leadership to review their ideas.
+Investors  
+  • Securities and Exchange Commission filings.
+  • Quarterly earnings conference calls and communications.
+  • Annual stockholder meeting.
+  • Annual analyst meeting.
+  • Presentations and participation at various financial investor conferences and tradeshows.
+  • Non-deal roadshows and in-house investor group meetings with management.
+  • Hosting investor meetings and investor outreach.
+  • Quarterly employee earnings videos presented by CFO.
+Customers & Suppliers
+  • Active participant at key industry association conferences and tradeshows.
+  • Online diverse supplier registry portal.
+  • Voluntary involvement with local supplier development councils and participation and support to share 
+   Qualcomm’s supplier diversity practices at various outreach events.
+Government
+  • Host subject specific informational sessions and conferences.
+  • Participate in working groups and agency taskforce initiatives.
+  • Work with government stakeholders, as part of our Wireless Reach initiative, to assist in using wireless
+   technology to implement programs.
+Communities  
+  •  Host semi-annual community involvement workshops.
+  •  Anonymous feedback mechanisms available .
+  •  Engagement with nonprofit organizations through various Qualcomm community involvement programs.
+  •  Participate in philanthropic collaboratives with other grantmaking entities, public-private alliances and
+    information exchanges with nonprofit sector to ensure open dialogue amongst our colleagues.
+  •  Programs with educational institutions worldwide.Stakeholder Engagement
+Qualcomm works diligently to foster clear and transparent communication with all of our global stakeholders. We feel that it is 
+the best way to educate, inspire and learn from the people who are connected to us. Below are our stakeholders and the ways we 
+engage with them:A His tory of Qualc omm’ s Product Responsibilit y
+99
+Initia ted
+lead 
+elimination
+exploration03
+Bega n
+bromine/ chlorine
+elimination
+program06
+EU began 
+restricting 
+haza rdous 
+substanc es 
+(RoHS )09
+Introduc ed 
+bromine/
+chlorine-fr ee 
+laminat e- 
+based IC  
+products10
+Release of
+bromine/
+chlorine-fr ee
+Gobi03
+Introduc ed 
+lead-fr ee chip  
+level package 
+(CSP) pr oducts 04
+Began designing 
+with br omine-fr ee 
+molding 
+compounds 03
+Bega n
+limiting us e
+of haza rdous
+substanc es
+Our Company
+Qualcomm’s Leadership & Organizational Structure
+I   2009 Qualcomm Social Responsibility Report14Product Responsibility
+Qualcomm continuously monitors the processes and materials that 
+go into our products in order to find opportunities to improve them 
+and make them as sustainable as technically and commercially 
+possible. Through our environmental management system (EMS) 
+and various hazardous substance elimination programs, we address 
+the environmental, health and safety impacts of all our products. 
+One hundred percent of our products are subject to our EMS and 
+various Qualcomm environmental requirements.
+Environmentally &  
+Socially Conscientious Chip Design
+Qualcomm’s commitment to responsible product design has a 
+long history. We began exploring elimination of lead from our 
+integrated circuit (IC) products in 1999—long before the European 
+Union’s Restriction on Hazardous Substance (RoHS) Directive 
+came into force in July 2006. In 2003, we became one of the 
+leading IC manufacturers that successfully introduced the
+lead-free chip level package (CSP) products.
+In 2003, we began prohibiting the use of various hazardous 
+substances (22 substances as of 2009) in our IC product 
+designs. Although legislation does not require elimination of all 
+halogenated flame retardants and polyvinyl chloride (PVC)
+from our products, Qualcomm has been proactive in eliminating 
+these substances. 
+We began our bromine/chlorine elimination program in 2003, 
+starting with incorporation of bromine-free mold compounds. All 
+new IC products designed beginning January 2009 incorporate 
+the bromine/chlorine-free package design strategy. 
+Our bromine/chlorine-free design will also extend to our non-IC 
+products, including embedded Gobi, 3G module for notebooks 
+and netbooks designed to untether users from Wi-Fi hotspots. 
+New Gobi designs introduced from January 2010 will be 
+bromine/chlorine-free.As a fabless manufacturer of IC products, Qualcomm’s 
+partnership with our manufacturing suppliers plays an integral 
+role in our commitment to providing environmentally and socially 
+conscientious products. In addition to requiring that each IC 
+manufacturing supplier has an ISO14001 certified environmental 
+management system, Qualcomm CDMA Chip Technologies (QCT) 
+works with each IC manufacturing supplier in all stages of design to 
+ensure compliance with applicable global environmental legislation 
+and various industry and Qualcomm environmental initiatives.
+Qualcomm is concerned about the social and environmental 
+conditions associated with the electronics industry supply chain, 
+including mining activities in regions of conflict. It is Qualcomm’s 
+intent not to contribute to financing of armed conflict, human 
+rights violations and environmental degradations in such regions. 
+Qualcomm recognizes the importance of cooperation and 
+commitment from the supply base and, thus, is working with 
+suppliers to ensure greater transparency of certain metals present 
+in our products, in particular those metals which are known to 
+come from regions of conflict.
+2009 Qualcomm Social Responsibility Report    I   15Qualcomm has been proactive at eliminating halogenated flame 
+retardants and polyvinyl chloride from our products.
+Enabling Energy Efficiency
+of Wireless Consumer Electronics
+Qualcomm’s efforts to design environmentally sustainable 
+products also extend to the groundbreaking SnapdragonTM 
+platform, targeted for mobile wireless computing devices. 
+Our Snapdragon chipsets are industry-leading in their power 
+consumption optimizations. Snapdragon chipsets make wireless 
+devices more environmentally sound by enabling the battery to 
+last longer, increasing the amount of time the device can be in use 
+before needing recharging.Exemplary Environmental Governance
+All of our IC, Gobi and new European fleet management 
+products are in compliance with the EU RoHS Directive and 
+perfluorootanoic acid/perfluorootanoic sulfonate (PFOA/PFOS) 
+Directive. No EU REACH Substance of Very High Concern (SVHC) 
+is used in the manufacture of our IC products, Gobi or commercial 
+vehicle telematics products. Additionally, QES products 
+manufactured and shipped for the European market are Waste 
+Electrical and Electronic Equipment (WEEE) Directive compliant.
+QCT products fully comply with Phase 1 of China’s Management 
+Methods on control of Pollution from Electronic Information 
+Products (also known as China RoHS). Qualcomm chipsets will 
+comply with the material restriction requirements that apply to 
+the draft Catalogue listed products.
+Additionally, Qualcomm had no significant fines for non-compliance 
+with laws and regulations concerning the provision and use of 
+products and services. 
+For more detailed information on Qualcomm’s responsible 
+product design, please visit our website at www.qctconnect.com  
+Qualcomm has a robust packaging material control program 
+that is applicable to all Qualcomm IC business operations and 
+the entire supply base. All Qualcomm IC business operations and 
+the supply base are required to use packaging materials that are 
+on the approved packaging materials list. The listed materials 
+meet Qualcomm’s packaging program objectives which include 
+addressing environment, health and safety legislation requirements 
+and concerns. The program resulted in elimination of formaldehyde 
+from pallets used by Qualcomm IC operations and the supply 
+base. All pallets used today are made from 100 percent recyclable 
+material, either corrugated cardboard and/or compressed wood 
+chips. We were able to successfully convince over 65 percent of our 
+IC customers to accept loose carton shipments that require much 
+less packaging materials.
+Furthermore, Qualcomm continues to look for opportunities to 
+reduce and eliminate unnecessary packaging materials. Through 
+calculating and tracking the amount of packaging material 
+used per shipment over the last three years, Qualcomm has 
+implemented a new packaging inner box which is 40 percent 
+less in volume and has a reduced material density which has 
+eliminated the use of bubble wraps within the inner box. As a 
+result, Qualcomm is able to pack more product within the same 
+outer cartons thereby consolidating shipments and reducing the 
+size of the carbon footprint caused by our products.mirasol Technologies
+Qualcomm’s mirasol 
+displays are a technology 
+breakthrough that deliver 
+substantial performance 
+benefits. The reflective 
+displays, based on 
+interferometric modulation 
+technology, offer a 
+significant reduction in 
+power consumption as compared 
+to other display technologies, 
+while extending device battery 
+life, enabling new features and reducing environmental 
+impact. Moreover, these displays require no supplemental 
+lighting in most ambient lighting environments and can be 
+viewed in bright sunlight. Improving energy efficiency is 
+an essential first step in creating greener mobile devices. 
+Pike Research’s analysis indicates that reflective display 
+technologies such as interferometric modulator displays 
+(IMOD) provide a significant energy efficiency advantage 
+over incumbent technologies such as LCD or OLED. In Pike’s 
+analysis, a mobile device using an IMOD display would 
+consume 33.7 percent less energy, which extends the battery 
+life by 51 percent, when compared with a similar mobile device 
+that uses a conventional LCD display. Based on a simple 
+lifecycle analysis, this would result in 94 percent less carbon 
+dioxide emitted in the use phase for the display. In addition, 
+this efficiency advantage results in about 58 fewer recharge 
+cycles over the course of a year and would extend the life of 
+the battery for an additional 1.25 years.
+www.mirasoldisplays.com/greenOur Company
+Qualcomm’s Leadership & Organizational Structure
+I   2009 Qualcomm Social Responsibility Report16Sustainability Helps Qualcomm Lead the Wireless Industry
+There is also increasing scrutiny on substances used within 
+electronic devices and heightened restrictions on their 
+usage, with bromine-based flame retardants one key focus 
+for mobile devices.
+“Brominated flame retardants have played an important 
+role in ensuring that electric equipment does not ignite 
+while being used by a consumer, but there has been 
+considerable pressure to remove bromine and chlorine 
+from our chipsets,”  Lee said. “We need to be green, and 
+that means removing brominated flame-retardants. Our 
+engineering team has been working diligently to ensure 
+our chips contain no or little environmentally adverse 
+substances.”
+As of January 2009, Qualcomm started designing all of its 
+products without bromine and chlorine, and has committed 
+to introducing a bromine- and chlorine-free Gobi module by 
+January 2010.Being socially responsible isn’t only good for the 
+environment, it’s good for business. The “greening” of the 
+mobile phone was a major theme at the 2009 Mobile World 
+Congress in Barcelona, with more efficient and renewable 
+power sources dominating the environmental agenda.
+For many wireless manufacturers “going green” has taken 
+incentives from the marketplace, but for Qualcomm, it has 
+always been a core corporate value. We’ve been working 
+towards a more “green” mobile device since the 1990’s—long 
+before sustainability was fashionable.
+It’s this innovative attitude that has kept us ahead of the 
+curve. When the Mobile World Congress focused on power 
+saving solutions, Qualcomm already had an answer. For 
+Qualcomm, the development of enhanced chipsets, such as 
+Snapdragon, is playing a considerable role in reducing the 
+power demands placed on mobile devices.
+“Snapdragon chips allow low-power consumption on 
+mobile devices and electronic equipment, ” said Michelle 
+Lee, Staff Engineer for environmental management systems 
+at Qualcomm CDMA Technologies. “From a sustainability 
+perspective, Snapdragon is making devices more 
+environmentally sound by enabling the battery to last longer, 
+thereby increasing the amount of time that the device can 
+be used before requiring a recharge.”
+What’s more, Snapdragon, like all of Qualcomm’s integrated 
+circuit and module products, is RoHS (Restrictions on 
+Hazardous Substances) compliant. It meets the European 
+Parliament and Council of the European Union requirements, 
+enabling extensive roll out of Snapdragon-based devices 
+across the continent. 
+2009 Qualcomm Social Responsibility Report   I   17Supplier Diversity
+Diversity is a strong component of Qualcomm’s unique culture. 
+In accordance with this, the Small Business Administration’s 
+subcontract reporting requirements to the government and 
+reporting requirements to our commercial customers, Qualcomm 
+established the Supplier Diversity Program. The program 
+ensures that we maintain our commitment and obligations to all 
+classifications of small and diverse business suppliers.
+The Supplier Diversity Program procedures are in full compliance 
+with public laws, and both the Federal and Defense Acquisition 
+Regulations as imposed upon us by the United States government. 
+Since implementing the Supplier Diversity Program at the end of 
+2006, Qualcomm continually strives to increase the amount we 
+spend with small and diverse businesses.
+Improved Supplier Database Resources
+Qualcomm has an online registration where small and diverse 
+suppliers can register their company profiles. This database may 
+be used by all internal employees when seeking new suppliers.
+Our Supplier Diversity Program ensures 
+that we maintain our commitment  
+and obligations to small and diverse 
+business suppliers.Supplier Diversity Program Policy
+Qualcomm’s company-wide Supplier Diversity Program policy 
+has been established to promote participation of United States 
+small and diverse business concerns when sourcing suppliers 
+to fulfill subcontracting requirements. Recognizing the value 
+of supplier diversity, it is our intent to place a fair proportion of 
+our total purchases of goods and services with all classification 
+types of diverse business concerns. These include small, 
+minority, disadvantaged, woman-owned, veteran-owned and 
+disabled-owned businesses situated in a HUBZone and all
+other related socio-economic subsets.
+Our Supplier Diversity Program has been established in 
+accordance with these guidelines:
+• In the acquisition of supplies and services, a good faith effort 
+ shall be made to encourage participation by such small and 
+ diverse business concerns.
+• In dealing with established and potential suppliers, small 
+ and diverse business concerns shall be afforded an equitable 
+ opportunity to compete for contracts that are within their 
+ capabilities to perform.
+• Guidelines established under our negotiated contracts, 
+ including our Corporate Procurement Policies and
+ Procedures, ensure full compliance with public laws that 
+ relate to all classification types of small and diverse
+ business concerns.
+New Training Outreach Efforts
+During 2009, Qualcomm’s Supplier Diversity Program offered 
+a unique value-add to many business units by providing 
+comprehensive in-house training with presentations including 
+aspects from both the Company’s and the diverse supplier’s 
+perspective. Numerous outreach efforts are incorporated to 
+increase management and company-wide awareness about the 
+benefits of utilizing diverse suppliers.
+Program managers and procurement personnel receive 
+personalized assistance from having business classifications 
+added to their preferred supplier bid lists, thus resulting in 
+recommended diverse supplier selections qualified to fulfill 
+subcontracting requirements.Number of Div erse Suppliers Regis tered
+(United States Only)
+09
+08
+07
+07 08 09439
+342
+108
+Spending on Go vernment Subc ontract W ork
+Small Businesses (United States Only)
+34%38% 38%
+Government ’s Minimum Requir ement:  23 percentOur Company
+Qualcomm’s Leadership & Organizational Structure
+I   Qualcomm 2009 Corporate Social Responsibility Report18Our Locations: Over 140 Offices Worldwide
+NORTH AMERICA
+Headquart ers
+San Diego , CA
+Canada
+Ottawa
+Toronto
+Mexico
+Mexico Cit y
+Tijuana
+United Stat es
+Atlanta, GA
+Austin, TX
+Boulder , CO
+Bridge water, NJ
+Chandler , AZ
+Chicago , IL
+Conc ord, MA
+Las V egas, NV
+New York, NY
+Portland, OR
+Portsmouth, NH
+Raleigh, NC
+Santa Clar a, CA
+Seattle, WA
+Washingt on, DCASIA
+China
+Beijing
+Shanghai
+Shenzhen
+Hong Kong
+Hong K ong
+India
+Bangalor e
+Hyderabad
+Mumbai
+New Delh i
+Indonesia
+Jakarta
+Israel
+Haifa
+Japan
+Osak a
+Tokyo
+Phillipines
+Manilla
+Singapor e
+Singapor e
+South Korea
+Gumi
+Seoul
+Taiwan
+Hsinchu
+Longtan
+Taipei
+Thailand
+Bangk ok
+United Ar ab Emir ates
+Dubai
+VietnamAFRICA
+South A frica
+Johannesbur gEUROPE
+Belgium
+Brussels
+Finlan d
+Espoo
+Noormarkk u
+France
+Paris
+Germa ny
+Munich
+Muns ter
+Nurembe rg
+Sulzbach am Taunus
+Ireland
+Dubli n
+Italy
+Milano
+Rome
+Netherland s
+Breukelen
+Wallre
+Russia
+Mosc ow
+Spain
+Madrid
+Sweden
+Malmo
+Stockhol m
+Switz erlan d
+Magen wil
+United Kingdo m
+Cambridge
+Farnbor ough
+London
+PooleAUSTRALIA
+Austr ailia
+Melbourne
+Sydney
+SOUTH AMERICA
+Brazil
+Brasilia
+São PauloQualcomm 2009 Corporate Social Responsibility Report   I   19Qualcomm has been ranked on FORTUNE’s list of
+“100 Best Companies to Work For” for 11 years in a row.
+Corporate Success
+ •  BusinessWeek Infotech 100
+ • Forbes “Global 2000”
+ •  FORTUNE 500
+ •  Financial Times “Most Valuable Global 500 Companies”
+ •  Financial Times “Top 500 U.S. Companies”
+ •  Industry Week: U.S. 500
+ •  Information Week “Top 500 Technology Companies”
+ •  Institutional Investor “Best CEO & Best CFO, Telecom Equipment/Wireless”
+ •  Institutional Investor “Most Shareholder Friendly, Telecom Equipment/Wireless”
+Company Culture
+ •  2008 California Fit Business Award
+ •  Computerworld “100 Best Places to Work in IT”
+ •  FORTUNE “100 Best Companies to Work For”
+ •  FORTUNE “World’s Most Admired Companies”
+ •  Great Place to Work® Institute India “Best Workplaces in India”
+ •  Hewitt Best Places to Work Korea 2009
+ •  Outside Magazine “Best Places to Work”
+Human Resources
+ •  “Best Place to Work for New Grads” Experience.com
+ •  Executive Excellence Magazine “Top Leadership Development Program”
+ •  FORTUNE “Most Diverse Company List”
+ •  Institute for Corporate Productivity “2009 Productivity Pioneer Award”
+ •  Training Magazine “Training Top 125”
+ •  Urban League of San Diego County President’s Award
+Environmental Stewardship
+ • American Lung Association of California “Clean Air Award”
+ •  City of San Diego “Recycling Award”
+ •  Computerworld “Top 12 Green IT Companies”
+ •  FTSE4Good Index
+ • Industrial Environmental Association “Environmental and Sustainability Award”
+ •  San Diego Coast Keeper: Coastal Champion Business Award
+ •  Uptime Institute Global Green 100
+ •  US Green Building Council LEED Gold Award
+Technology & Innovation
+ •  2008 Heavy Duty Trucking “Nifty Fifty” Award
+ •  Bank Technology News “The Innovators” – Firethorn
+ •  Electronic Design News: Innovation Award
+ •  PC Magazine “25th Annual Technical Excellence Awards”
+ •  Wall Street Journal Technology Innovation Award
+For a full list of awards and recognition, please visit: www.qualcomm.com/news/awards/index.html
+Awards & Recognition
+Qualcomm’s most important resource is our people.  We are proud to be an 
+award-winning diverse, inclusive and inspiring place to work. We provide a 
+safe and healthy work environment with opportunities for training, growth 
+and advancement.Our Workplace
+Qualcomm’s People & Culture
+I   2009 Qualcomm Social Responsibility Report20We are a high-energy company filled with people who want to 
+be challenged and rewarded for meeting those challenges. Our 
+continuing commitment to diversity, education and work/life 
+balance fosters a well-rounded, innovative culture that leads
+our industry.
+Survey Of The Corporate Climate
+An essential element of Qualcomm’s culture is our open flow of 
+communication. Employee feedback has always been critical to 
+our ongoing success and is encouraged on a day-to-day basis 
+as well as through more formal channels, such as the bi-annual 
+Qualcomm Climate Survey. The survey is used to gauge employees’ 
+perceptions toward the Company’s management, performance, 
+operations and workplace environment. 
+Employees realize that their input is valued; 90 percent of the 
+Company responded to our most recent Climate Survey. As 
+has been the trend for years, the feedback was overwhelmingly 
+positive. Our next Climate Survey will take place in early 2010.2009 HIGHLIGHTS
+Workplace Safety
+Qualcomm is 20 percent below our industry 
+peers in total injury and illness incident rate.
+Work/Life Balance
+QLife offered 1,789 programs, events and 
+services to our employees to ensure a 
+healthy work/life balance.Global Workforce Inclusion
+102 nationalities are represented and
+66 languages and dialects are spoken in 
+our diverse workplace.Education & Training
+Qualcomm recorded over 48,400 enrollments 
+in classroom training courses.Workplace Data
+Our employee voluntary turnover rate is 
+2.5 percent, roughly 5 percent lower than the 
+industry average. 
+2009 Qualcomm Social Responsibility Report   I   2197
+94
+91
+91Survey Highlights
+percent of employees surveyed are 
+committed to the success of Qualcomm 
+percent believe Qualcomm provides a 
+working environment that is accepting
+of cultural and ethnic differences
+percent believe Qualcomm provides a 
+working environment that is accepting
+of gender differences
+percent feel proud to work
+for Qualcomm
+07 08 09Empl oyee Voluntary T urno ver Ra te
+(In Pe rcent)
+Industry
+Qual comm6.0
+4.9
+2.510.412.2
+7.9I   2009 Qualcomm Social Responsibility Report22
+Our Workplace
+Qualcomm’s People & Culture
+Human Rights
+Qualcomm has reviewed our operations to identify those that 
+are at significant risk for incidents of child labor and forced or 
+compulsory labor, or where the right to exercise freedom of 
+association and collective bargaining may be at significant risk. 
+For these, as well as all Qualcomm operations, the Company 
+provides a workplace environment that is safe, hygienic and 
+humane and which upholds the dignity of all our employees. 
+As an employer we encourage diversity in our workplace. We 
+respect the freedom of association and have a number of effective 
+grievance redressal systems that are available to employees, 
+vendors and customers.
+Equal opportunities
+Through our employment practices and adherence 
+to local statutes in all jurisdictions throughout 
+India, as well as effective vendor due diligence and 
+contractual safeguards, we ensure that no child 
+labor are employed or forced labor encouraged. 
+Qualcomm India is proud to provide and maintain 
+equal opportunities without any discrimination on 
+any grounds ranging in recruitment and during 
+the course of employment. Our philosophy and 
+adherence in practice extends to all our suppliers 
+and partners.Qualcomm IndiaWorkplace Data 
+Employee Wage Level
+For all positions and locations, our standard entry
+level wage is higher than the local minimum wage.
+Employee Benefits
+Our benefits package is very competitive and comprehensive, 
+providing regular employees with extensive protection and 
+security, along with quality, life-enhancing programs. We offer 
+medical, dental and prescription drug programs as well as 
+other benefits. Currently, we do not offer benefits to temporary 
+employees. We pro-rate various full-time employee benefits 
+for our part-time employees, which are calculated based upon 
+their standard work hours. 
+Collective Bargaining Agreements
+There are no United States employees covered by collective 
+bargaining agreements. Less than 3 percent of our total 
+employee population are covered by collective bargaining 
+agreements in countries other than the United States. We 
+insure that we are compliant to all collective agreements 
+regarding significant operational changes as required by 
+country law/regulation.
+Trade Union Agreements
+Qualcomm does not have formal agreements with trade unions.
+Employee Performance Reviews
+Qualcomm’s Total Rewards Review Cycle allows for 
+performance and development reviews/discussions twice 
+a year. Eighty percent of employees receive regular formal 
+performance and career development reviews with the 
+opportunity to provide feedback to management. 
+Employment Claims
+Qualcomm has never been found to have unlawfully 
+discriminated against any of our employees.
+OFCCP Audit 
+As a government contractor, Qualcomm is required to have 
+an affirmative action plan and is subject to random audits. 
+Qualcomm recently completed the “Glass Ceiling Review” 
+audit performed by the Office of Federal Contract Compliance 
+Programs (OFCCP) and received exemplary results with no 
+negative findings.
+Ratio of Basic Salary of Men to Women 
+During salary reviews, performance, years of experience and 
+level are considered. We continue to maintain an equal ratio 
+between male and female salaries.
+Safety Training
+Qualcomm’s commitment to environmental, health and safety 
+(EHS) is demonstrated through a variety of safety related 
+trainings with the goal of reducing our environmental footprint, 
+preventing injury and promoting business continuity. Last  
+year, 1,344 EHS trainings were offered and 2,290 employees  
+participated in these trainings. Training topics included: 
+Hazardous Waste Operations and Emergency Response, Driver 
+Safety, New Hire EHS Orientation, Forklift Operation, Lab Safety 
+and Warehouse Safety. 
+Our comprehensive ergonomics program includes one-on-one 
+training and ergonomic assessments of work environments. 
+Our EHS team performed 659 ergonomic assessments in 
+2009. Qualcomm’s light duty work program has successfully 
+accommodated many employees so they may continue working 
+while recovering from injury. Qualcomm experienced no
+work-related fatalities in 2009.
+2009 Qualcomm Social Responsibility Report   I   23
+2,290
+1,3442009 Workplace Safety Training
+Employees Trained
+Training Sessions OfferedWorkplace Safety
+Qualcomm assigns high priority to safety in the workplace 
+as evidenced by our total injury and illness incidence rate. 
+Qualcomm’s safety performance outperforms our peers in
+the telecom industry thanks to a proactive safety
+management system.
+Safety Committee
+At Qualcomm, we have a safety committee comprised of volunteers 
+from all 40 buildings at our San Diego location. Representatives 
+from each building accompany our Health and Safety department 
+during building safety inspections, participate in building 
+evacuations and attend monthly safety committee meetings.
+07 08 09Total Injury & Illness Incident Ra te*
+(Per 100 Full -Time Emplo yees)
+Total Lost Time Injury & Illness Ra te*
+(Per 100 Full -Time Emplo yees)U.S. Average
+Qualc omm U .S.1.61.7
+1.21.5
+09U.S. Average
+Qualc omm U.S.0.10.4Qualc omm is  20 percent
+below industry peers in ’0 9
+Qualc omm is  75 percent
+below industry peers in ’0 9
+*Work-related injury that resulted in da ys away  from work, restricted work activity and/ or job tr ansfer .(Compared to Telecommunications Industry with 1000 or More Empl oyees)
+*Work-related injury that required treatment be yond first aid or resulted in lost time or restricted job duties
+for one or more work ers as defined by the U.S. Occupational Safety and Health Administr ation.Qualcomm provides a workplace environment that is safe, hygienic and 
+humane and which upholds the dignity of all our employees.I   2009 Qualcomm Social Responsibility Report24
+Our Workplace
+Qualcomm’s People & Culture
+Learning Center
+Qualcomm offers two mandatory training programs: Sexual 
+Harassment for managers and Secure Code for software 
+developers. The company offers the following annual per person 
+hours of training.Education & Training
+Qualcomm continues our best-in-class approach to learning. 
+Our Learning Center’s new initiatives focused on identifying 
+and nurturing our future leaders as well as expanding project 
+management best practices. The Company’s library, which is part
+of the Learning Center, continued to expand its research and 
+database capabilities to provide the latest in-depth engineering, 
+business and marketing reports and analysis to our employees.
+Emerging Leader Program
+For years, Qualcomm has provided management at all levels with 
+thorough management and leadership training. In response to 
+senior management’s request to identify and grow future leaders, 
+the Learning Center created an innovative blended learning 
+program called the Emerging Leader Program. This invitation-
+only program was designed specifically for Qualcomm’s individual 
+contributors who have the potential and desire to be future 
+leaders of Qualcomm. Over a 12-week span, participants take part 
+in a combination of instructor-led virtual, classroom and team 
+learning sessions. The program includes a 180-degree assessment 
+of the participant to help him/her assess those skills that are 
+critical for their success in a future leadership role.
+Project Management
+Good project management can make or break a budget and 
+product timelines. It can mean the difference between being the 
+market leader or losing your competitive edge. To find project 
+management best practices, the Learning Center decided that 
+some of the best role models were to be found within our own 
+company. As a result, a new project management web site was 
+developed where new and current project managers can read 
+and watch interviews of their peers who describe their best 
+practices. The interviews put their best practices into the context 
+of real work situations, making it easier for learners to make the 
+connection to their own situations. The web site also includes links 
+to updated articles on project management that enhances the 
+overall program.
+48,400 enrollments
+Qualcomm recorded over 48,400 enrollments in 
+classroom training courses.2009 Training Highlights
+360 sessions | 700 courses
+The Learning Center offered over 360 instructor-led 
+sessions and 700 online courses.
+Enterprise 2.0 Series
+Social media programs have not only become a primary means 
+for communicating among friends, they are also becoming an 
+increasingly important channel for internal collaboration and 
+reaching out to a company’s partners and customers. To keep 
+Qualcomm’s employees ahead of the curve on social media, the 
+Learning Center’s Learning Technology team created a series of 
+popular lectures that brought to Qualcomm some of the field’s 
+most influential experts on this topic. They also worked closely 
+with Qualcomm’s IT department to help implement an internal 
+social media channel which allows employees to communicate 
+globally with other employees in a more open and dynamic way.
+2009 Annual Hours of Training Offer ed
+(Per Person)  
+Technical/IT
+Professional
+Management
+Sales/ Account Management
+Supervisor y
+Senior Management
+Administr ation/ Support743
+168
+82
+67
+29112
+442009 Qualcomm Social Responsibility Report   I   25
+Women’s Initiatives
+Qualcomm developed a Women’s Mentoring Program to
+promote professional development of female employees to build 
+their professional skills and networks.
+ • 100 percent of mentees stated that mentorship created
+  problem solving opportunities.
+ • 91 percent of mentees stated that they benefitted from
+  the program.
+ • 91 percent of mentees recommended mentorship to others.
+ • 90 percent of mentors and mentees committed to continue
+  their relationship beyond the formal program.
+Qualcomm has partnered with National Center for Women 
+and Information Technology (NCWIT) on initiatives to increase 
+women’s participation in technology along the entire pipeline, 
+from K-12 through industry. We are creating opportunities and 
+providing tools for female employees because we believe gender 
+diversity means a larger and more competitive workforce. We 
+are demonstrably committed to advancing women. Qualcomm’s 
+Board of Directors is comprised of 23 percent women. In 2009, 
+Catalyst figured women constituted only 14 percent of Fortune 
+500 company board seats, and 40 percent of Fortune 500 
+companies have no women on their boards. We are proud to have 
+many women leaders within our senior executive ranks. In 2009, 
+there were over 100 women promoted and 20 hired into Director 
+or above roles.
+Disability Initiatives
+2009 marked the 6th year Qualcomm was one of the presenting 
+sponsors for the San Diego Jobtoberfest Job Fair for people 
+with disabilities. We have also been actively involved on the job 
+fair planning committee as a member of the San Diego Committee 
+on the Employment of People with Disabilities. Additionally, 
+we have included disability service providers in our on-site 
+employee resource fair to integrate disability awareness into 
+our corporate culture.
+Qualcomm has been involved in the U.S. Business Leadership 
+Network (USBLN) by having an employee serve on their Board 
+of Directors and sponsoring their 2009 Conference. The USBLN 
+recognizes and promotes best practices in hiring, retaining 
+and marketing to people with disabilities. The USBLN uses a 
+“business to business” approach to educate about the imperative 
+of including people with disabilities in the workforce. As a lead 
+employer for the San Diego BLN Chapter, Qualcomm hosted an 
+employer forum with the former U.S. Assistant Secretary of the 
+Office of Disability Employment policy to raise awareness to other 
+employers in the San Diego region regarding the business case
+for employing people with disabilities.Global Workforce Inclusion 
+Our innovative workforce consists of people with a unique blend 
+of talents, backgrounds and experiences all working together to 
+create some of the best technology in the world. Through our 
+Global Workforce Inclusion initiatives we provide a wide variety
+of opportunities for all employees.
+Veterans’ Initiatives
+Qualcomm takes many proactive steps to attract qualified 
+veterans through job placement associations. 
+To advance, educate and prepare transitioning veterans for 
+the job market, Qualcomm recruiters and human resource 
+representatives have worked with the State of California’s 
+Employment Development Department (EDD), Veterans Affairs 
+(VA) and Transition Assistance Program (TAP). Our Company has 
+participated in a number of outreach events this year including:
+• Employers Panel presented by the EDD and TAP.  This panel
+ helped over 100 transitioning military veterans gain insight to
+ job opportunities at Qualcomm, learn how to successfully
+ present themselves for consideration and build confidence in 
+ their transferable skills and experiences. 
+• Presented to the San Diego VA office staff.
+ This event trained the VA staff on ways to help veterans
+ seek and prepare for jobs at Qualcomm and other 
+ Fortune 500 companies. 
+66
+102
+641
+57
+18-752009 Cultural and Diversity Facts
+Languages & Dialects Spoken
+Nationalities Represented
+U.S. Military Veterans Employed
+Percent of Employees are Engineers
+Years of Age Represented
+I   2009 Qualcomm Social Responsibility Report26
+Our Workplace
+Qualcomm’s People & Culture
+Staffing Programs
+National Consortium for Graduate Degrees in Engineering
+and Science (GEM)
+Qualcomm is a proud member of the National GEM Consortium. 
+This collaboration between industry and university seeks to address 
+the critical shortfall in production of engineering and scientific 
+talent by providing graduate fellowships in engineering and science 
+to highly qualified individuals from underrepresented engineering 
+populations. In 2009, Qualcomm supported fellowships to three 
+students providing them with the funding to seek an advanced 
+degree coupled with an engineering internship with the Company.
+Qualcomm Career Experience
+Since 1994, the Qualcomm Career Experience has exposed 
+minority high school students to high tech careers and the paths 
+needed to achieve them. The experience provides students with 
+an overview of life at Qualcomm and exposure to the types of 
+opportunities a career in the high tech industry can provide. 
+The experience typically includes a corporate overview, a panel 
+discussion with six to eight Qualcomm employees, group  
+breakout sessions with individual employees and a tour of 
+our facilities. 
+Our participation is focused on high schools with the most diverse 
+populations. At the heart of the Career Experience is the panel 
+discussion. Volunteer employees range from high-level executives 
+to recent college graduates, and we strive to recruit a volunteer 
+panel that accurately reflects our highly diverse employee 
+population. Employees from a variety of backgrounds share 
+insight on their careers, including job description, career paths, 
+educational background and lessons learned. Students break out 
+into focus groups with individual employees to learn more about 
+careers of particular interest.
+Targeted Recruiting on University Campuses
+Through our participation at minority and female-centered career 
+fairs, we observed that a large percentage of visitors were college 
+students. In efforts to reach this diverse student population, 
+we increased our interaction and sponsorships with on-campus 
+diversity engineering chapters of the National Society of Black 
+Engineers, the Society of Women Engineers and the Society of 
+Hispanic Professional Engineers at key universities.
+Qualcomm experience
+To provide a “day in the life” business experience
+to young adults.Workforce Development 
+Lab Highlights
+Career explorations
+To help young adults understand the concept of
+career exploration and how they can be innovative
+when assessing their career paths.
+Resumes & interviews skills
+To assist students and adult professionals in 
+sharpening their interview and resume writing skills.
+Networking & job search
+To provide individuals with effective networking 
+and job search skills.
+Professional communication
+To help young adults understand the concept of 
+professional communication and how it can impact 
+their future success in the business world.Workforce Development Lab
+Qualcomm’s Staffing team launched the Workforce Development 
+Lab Program during 2009 with a purpose of expanding workforce 
+development through community engagement. There are five 
+different types of labs the Workforce Development Lab’s team is 
+using as teaching tools to help build career development skills for 
+community organizations and schools and the clients they serve. 
+Hire-a-Youth Program
+This summer, our Workforce Development Lab’s team 
+collaborated with the San Diego Workforce Partnership to provide 
+low-income youth with the opportunity to work in the business 
+sector and build work experience and leadership skills through 
+the Hire-a-Youth Program. Fifteen Qualcomm managers from 
+seven divisions worked with 21 high school students at Qualcomm 
+during the summer for six weeks. Each Monday, students 
+attended a two-hour Workforce Development Lab, hosted by 
+our Staffing team. Topics covered included resume writing and 
+interview skills, networking and job search and professional 
+and effective communication. 
+2009 Qualcomm Social Responsibility Report   I   27
+On-the-go banking made easy
+To make our busy employees’ lives easier, Qualcomm 
+offers mobile banking from Firethorn Holdings, LLC, 
+a Qualcomm company. As a single, secure platform 
+for managing multiple financial relationships, 
+Firethorn provides Qualcomm employees the ability 
+to manage their banking needs on-the-go, including 
+checking, savings and credit card accounts with 
+more than 3,700 United States-based financial 
+institutions from one mobile application. Employees 
+and consumers can visit www.mobilebanking.com ,
+download the latest application and enroll their 
+accounts directly from their mobile devices, 
+including iPhone, Blackberry and Android as well 
+as other handsets supported by AT&T, Verizon and 
+other wireless carriers.Firethorn® Technology
+  Qualcomm’s culture is fueled by a
+  diverse offering of innovative workplace
+  programs that inspire our employees to 
+succeed in work, life and the community in which they live. 
+In 2009, QLife offered 1,789 programs, events and services to
+our employees. 
+Commuter Benefits
+Commuters are encouraged to explore any number of alternatives 
+to the one car/one driver mode. Our United States employees 
+are eligible to receive a 25 percent subsidy and pre-tax purchase 
+of transit passes and vouchers for bus passes, train tickets or 
+vanpools. Over the course of 2009, our employees purchased a 
+total of 4,360 transit passes from 16 different transit authorities in
+9 separate regions of the United States.
+Group Exercise Classes
+A key ingredient to a healthy life is to lead an active life. To that 
+end, several Qualcomm locations across the globe offer group 
+activity fitness classes on-site. From Cardio-Challenge to Yoga, 
+Boot Camp workouts to Zumba and nearly everything in between, 
+classes are provided by professional, certified instructors. In 2009,
+2,862 classes across 7 Qualcomm locations worldwide recorded 
+28,132 participants.2,453 
+ Seasonal flu shots at 8 locations worldwide.
+200 
+ Kids across the United States and Canada participated
+ in Take Your Kids to Work Day.
+137
+ Participants in Bike to Work Day across five 
+ United States locations.
+3 
+  Years of participation in the San Diego Asian
+ Film Festival.
+10,000
+ Health clubs accessible at discounted rates through 
+ GlobalFit in the United States.
+157
+ Reimbursements for health club memberships.2009 QLife Highlights
+Work/Life Balance
+LifeCare
+QLife recognizes the importance of balancing work and personal 
+life to meet the needs of our dedicated and diverse employees. 
+QLife’s online referral service called LifeCare® offers work/life 
+assistance with eldercare/child care, finance, legal, adoption, 
+emotional health and mothers at work. In 2009, over 8,000 
+employees across all offices in the United States utilized LifeCare 
+for specialist requests, educational material and webinars. This 
+year also saw the first extension of these offerings outside the 
+United States to our Canadian employees.
+QLife Campaigns
+QLife’s monthly global campaigns strive to provide a theme 
+for overall work/life effectiveness year around. Via parenting 
+workshops, blog responses or events, QLife facilitates 
+conversations and engages employees directly in managing their 
+work and life challenges 365 days-a-year by featuring topics such 
+as Do One Good Thing for Your Health, Managing Holiday Budgets 
+and Taking Control of Your Commute. A unique feature of these 
+campaigns are the comments shared by Qualcomm employees 
+from around the globe. It is fascinating to see how the common 
+themes unite us and the similarity of approaches used
+by employees in vastly different parts of the world.Qualcomm is a global company that has deep, local roots. We are committed 
+to growing our relationships with a wide range of local groups, organizations and 
+programs that build strong communities.Our Community
+Qualcomm’s Contributions & Emergency Operations
+I   2009 Qualcomm Social Responsibility Report282009 HIGHLIGHTS
+Community Involvement
+Over the past 10 years, Qualcomm has donated 
+over $150 million through our corporate giving 
+and matching grant programs.
+Volunteerism
+One hundred percent of our executive 
+leadership team is active in the community.
+Matching Grant Program
+Qualcomm made 5,330 matching grants to 
+1,416 nonprofit organizations.
+Wireless Reach
+Qualcomm’s Wireless Reach has collaborations 
+with 100 partners on 56 projects in 28 countries.
+Global Emergency Management
+The Qualcomm Emergency Operations Team
+helps protect our people, business and
+assets through effective emergency planning, 
+response and recovery. 
+2009 Qualcomm Social Responsibility Report   I   29Community Involvement
+The mission of Qualcomm’s community involvement is to develop 
+and strengthen communities worldwide. Qualcomm invests its 
+human and financial resources in inspirational, innovative programs 
+that serve diverse populations. Specifically, Qualcomm aims 
+to create:
+Educated Communities  Qualcomm is committed to improving 
+science, technology, engineering and math education for
+students during their primary, secondary and higher education 
+years, and to expanding educational opportunities for
+under-represented students.
+Healthy Sustainable Communities  Qualcomm supports 
+initiatives that result in clean, safe, healthy places to live and work. 
+We strive to better the livelihood of underserved populations by 
+providing basic human needs, with a focus on enhancing the welfare 
+of children. Qualcomm is committed to being a positive and creative 
+force in the protection and enhancement of our global environment.
+Culturally Vibrant Communities  Through Qualcomm’s
+support of arts education and outreach programs, the company 
+helps young people develop innovative minds, and expands 
+cultural enrichment opportunities to in-need populations. 
+Qualcomm’s community involvement is primarily targeted in 
+geographic regions where the Company has a business presence.95
+26
+8million donated to educational programs 
+and institutions
+million donated to help promote the 
+health and well-being of our community 
+and to protect our global environment
+million donated to arts and cultural 
+organizationsOver the last ten years, Qualcomm has supported a broad range of 
+nonprofit organizations in the following areas:
+2009 Corpor ate Giving By Pr ogram Ar ea
+Educated Communitie s
+Health y Sustainable Communitie s
+Cultur ally V ibrant Communitie s68 percent
+26 percent
+6 percentI   2009 Qualcomm Social Responsibility Report30
+Our Community
+Qualcomm’s Contributions & Emergency Operations
+Board Service  
+Qualcomm’s board and committee service program engages 
+our employees in skills-based volunteer opportunities by placing 
+employees of all levels on nonprofit Boards of Directors and 
+Advisory Committees. Through board/committee service, 
+Qualcomm executives and employees bring a breadth of 
+experience and knowledge that not only expands a nonprofit’s 
+ability to achieve its mission, but also builds their capacity to create 
+a sustainable, financially-sound organization. Simultaneously, 
+employees develop and hone new business skills while giving back 
+to our communities. 
+QCares actively solicits board and committee service needs from 
+nonprofit organizations which are posted to our internal database 
+of available opportunities. Employees search to identify an 
+opportunity that best fits their interests and skill set. Additionally, 
+QCares hosts quarterly board service classes, provides board 
+service responsibility books through our library and financially 
+supports qualifying organizations where an employee serves on
+the governing board.    QCares, Qualcomm’s community
+   involvement program, enables our 
+workforce to grow professionally and personally by connecting 
+employees with nonprofit organizations worldwide. By 
+participating in a variety of volunteer projects, employees
+enhance their leadership and communications skills and learn to 
+work collaboratively with others. Whether an employee serves 
+on a nonprofit’s Board of Directors or coordinates a volunteer 
+project, they gain invaluable experience in leading others and 
+managing projects—qualities that are directly applicable to
+any career at Qualcomm.
+Volunteerism
+At Qualcomm, volunteerism starts at the top. One hundred 
+percent of our executive leadership team is active in the 
+communities where we live. This leadership inspires a commitment 
+from all Qualcomm employees to contribute their time and 
+energies to causes, programs and organizations that are 
+important to them.  
+Qualcomm Human Resource Representative Judy 
+Sandweiss identified Outdoor Outreach’s board 
+opportunity through our searchable database. 
+Outdoor Outreach is a San Diego-based nonprofit 
+organization whose mission is to empower at-risk 
+and underprivileged youth to make positive, lasting 
+changes in their lives through comprehensive outdoor 
+programming. Judy has been on their Board of 
+Directors for over two years and now leads their 
+Human Resources (HR) Committee. Her expertise 
+has helped create new systems to assist Outdoor 
+Outreach as they continue to expand, including a new 
+organizational structure and several HR programs to 
+support employees. 
+“To hear the kids rave about their experiences 
+on a rock or in the surf, and to see the hope and 
+excitement in their eyes—it’s truly incredible,” says 
+Judy. “This organization is changing kids’ lives, 
+enabling them to break out of the negative cycles 
+of poverty, drugs, gangs, and violence and become 
+healthy members of our community.”Employee Spotlight
+Peggy Johnson, Executive Vice President for the 
+Americas and India, exemplifies our executive 
+commitment to the community. 
+In 2009, during a business trip to India, Peggy joined 
+Mumbai employees and Kanwalinder Singh, Senior Vice 
+President and President, Qualcomm India, to inaugurate 
+Save the Children India’s new classrooms and build the 
+Qualcomm—Save the Children India Wall of Partnership. 
+Qualcomm has helped this organization over the 
+past few years by funding ten community centers 
+that provide life skills training to underprivileged girls 
+and Mumbai employee volunteers set up a library for 
+underprivileged children. Per Mana Shetty, Trustee, 
+Save the Children India, “Qualcomm India has been 
+more than just a funding partner—their involvement 
+has always been holistic and one filled with genuine 
+concern for growth and development.”
+“Qualcomm and our employees collectively work to 
+support and improve the societies in which we live 
+and work,” said Peggy Johnson. “Constant endeavors 
+are made through our human, financial and technical 
+resources to support various services and ongoing 
+projects. We applaud and appreciate all the efforts 
+put in by Save The Children India to empower 
+underprivileged children with education and social 
+skills, and we are glad to support this cause.”Executive Spotlight2009 Qualcomm Social Responsibility Report   I   31
+Youth Sports Sponsorships
+Qualcomm provides sponsorships for community youth sports 
+leagues. A team that an employee is coaching or an employee’s 
+child is participating on may be eligible.Used Computer Donations
+Qualcomm regularly donates used laptop and desktop 
+computers to local nonprofit organizations and schools where 
+our employees are involved.
+070809
+135145136
+Over62,000 hours v olunt eered by our emplo yees07Used Comput ers &
+Equipment Dona ted
+Nonpr ofit Recipients25119
+0833187
+0934270
+$35,000Over
+dona ted
+in 2009
+070809
+135145136
+Over62,000 hours v olunt eered by our emplo yees07Used Comput ers &
+Equipment Dona ted
+Nonpr ofit Recipients25119
+0833187
+0934270
+$35,000Over
+dona ted
+in 2009 Over 62,000 hours were volunteered by
+our employees in 2009.
+Matching Grant Program
+Qualcomm offers its employees a dollar-for-dollar matching grant 
+program with a typical annual benefit of $1,000. The program’s 
+broad parameters—matching grants to a wide variety of nonprofit 
+organizations—reflect Qualcomm’s respect for employees’ 
+interests in diverse community causes. 
+2009 Ma tching Gr ants By Pr ogram Ar ea
+070809Number Of Gr ants
+3,7704,7155,330
+070809Number Of Emplo yees Participatin g
+2,3622,3462,311
+070809Number Of Or ganizations Helpe d
+1,1371,2451,416Educated46%
+Healt hy
+Sustainable46% 8%
+Cultur ally
+Vibrant
+Healthy Sustainable Communities
+India: MV Foundation 
+The MV Foundation (MVF) strives to eradicate child labour by 
+enrolling children into the mainstream education system through 
+residential bridge camps thereby leading to successful integration 
+into the school system. MVF was founded in 1981 and has 
+positively impacted close to 600,000 children by mainstreaming 
+them into regular schools. Relying mainly on community 
+initiatives, MVF aims at motivating the community, parents and 
+children to utilize the formal school as a medium for the child’s 
+advancement. Qualcomm has joined with MVF to set up their 
+first residential bridge camp in the city of Hyderabad and aims to 
+enroll 2,500 children.  
+Taiwan: St. Joseph Social Welfare Foundation
+The St. Joseph Social Welfare Foundation offers a variety of 
+programs to train and assist physically and mentally disabled 
+adults and children. Qualcomm’s donation purchased new devices 
+to replace old and insufficient equipment in order to better serve 
+the Foundation’s clients. These new devices will be used at their 
+Sunshine Development Center, which is located within walking 
+distance of Qualcomm’s Hsinchu office in Taiwan and will offer 
+volunteer projects in the coming year to engage
+our employees.
+I   2009 Qualcomm Social Responsibility Report32
+Our Community
+Qualcomm’s Contributions & Emergency Operations
+2009 Community Involvement Highlights
+United Kingdom: Julia’s House
+Julia’s House is the only hospice in Dorset, England dedicated to 
+enriching the quality of life for children and young people with 
+life-limiting or life-threatening conditions. They provide support 
+from diagnosis to death and beyond for the whole family and 
+offer multi-disciplinary end of life care onsite or in the family’s 
+home. Qualcomm’s contributions to Julia’s House have provided 
+the organization with the ability to provide additional respite 
+care services, necessary equipment and nurse/caregiver training 
+required to give the children and their families the best quality of 
+life. Qualcomm employees also support the organization through 
+various fundraising efforts and in June 2009, employees ran in the 
+Poole Festival of Running which solely benefits Julia’s House. 
+2009 Qualcomm Social Responsibility Report   I   33
+United States: Museum of Contemporary Art San Diego 
+(MCASD)
+To develop young arts enthusiasts and cultivate future museum 
+members and supporters, Qualcomm was instrumental in the 
+development of the Free Under 25 program at the Museum. 
+The Company’s lead sponsorship of this new initiative provides 
+free admission to all visitors ages 25 and under. It has been 
+very successful, with over 35,000 young people enjoying free 
+admission since 2007 and a 124 percent increase in attendance by 
+18- to 25-year olds since its inception.
+“We recognize that young adults often have limited disposable 
+income, and through Qualcomm’s leadership and generosity, we 
+are able to eliminate any challenges this group may have with 
+admission. The program has been a tremendous success and 
+would not have been possible without Qualcomm’s commitment 
+to corporate philanthropy,” says Dr. Hugh Davies, The David C. 
+Copley Director of MCASD.Culturally Vibrant Communities 
+Israel: Tirat Carmel Conservatory 
+Qualcomm has supported the Tirat Carmel Conservatory for the 
+past five years. During this time, our financial contributions have 
+enabled low-income students in grades 7-9 to participate in two 
+choirs and an orchestra at no charge. The aim of the “Musicomm” 
+program, as named by the children, is to support each musical 
+group for three consecutive years so that the participating 
+students are able to truly experience the joy of artistic expression.  
+Twice a year, the kids present their accomplishments to our 
+employees and their families by performing at an evening concert. 
+South Korea: Kok-Tae-Marl Learning Center
+World Vision Korea’s Kok-Tae-Marl Learning Center provides 
+much needed educational and artistic opportunities to low-
+income children in Taebaek city, Kang Won province. Located in a 
+remote area of South Korea, Taebaek offers few cultural activities 
+and events to its citizens. Qualcomm’s funding will support the 
+Center’s Nanta performance project, which will teach students 
+this Korean, non-verbal percussion dance, as well as teamwork 
+and improved self confidence. It will also purchase much needed 
+resources for the school such as musical instruments, bookshelves 
+and computer equipment. The year-long project will culminate 
+with a public performance by the students that Qualcomm 
+employees will be invited to attend with their families. A variety of 
+volunteer activities will be offered to our employees throughout 
+the upcoming school year. 
+I   2009 Qualcomm Social Responsibility Report34
+Our Community
+Qualcomm’s Contributions & Emergency Operations
+Educated Communities
+China: Lizhi Rehabilitation Kindergarten
+Lizhi Rehabilitation Kindergarten is a new school that provides 
+services to mentally disabled children ages 0-7 in Beijing, China. 
+Qualcomm’s charitable contribution purchased essential items
+for establishing the new school such as furniture, musical 
+instruments, books, outdoor toys, hygiene equipment and 
+computer equipment. In February 2009, over forty employees 
+from our Beijing offices volunteered their time to paint and 
+decorate the kindergarten. 
+United Kingdom: Prince’s Trust 
+The Prince’s Trust’s Business Program, which offers young 
+entrepreneurs loan funding, advice and the support of a business 
+mentor, has helped over 70,000 disadvantaged young people to 
+set up in business. In 2009, Qualcomm helped implement changes 
+to the model which will now offer support to more young people 
+by helping them choose the next appropriate step which is best 
+for them, rather than assuming they are ready to start a business.  
+The Trust will help those ready to start a business to plan and 
+test their ideas more thoroughly, improving the quality of their 
+business propositions and therefore increasing their chances of 
+success. Qualcomm is also an active supporter of The Prince’s 
+Trust’s Technology Leadership Group which brings together 
+leaders from the technology industry to share best practices, 
+network and engage with this cause. Staff from each Qualcomm 
+UK office have volunteered as ‘Charity Champions’ to help 
+promote the partnership and to encourage others to get involved. United States: Promoting Math and Science Education
+for Young People
+Qualcomm is committed to improving science, technology, 
+engineering and math education for students during their 
+primary, secondary and higher education years, and to expanding 
+educational opportunities for under-represented students.  
+Research shows that a declining number of American students are 
+pursuing college degrees in technological fields, and that there is 
+a critical misalignment between K-12 science and math education 
+programs and the knowledge and skills needed to perform jobs 
+in the high tech industry. Qualcomm addresses this problem by 
+focusing on community involvement opportunities that support 
+our commitment to cultivating a qualified workforce, such as:
+Encorps Teachers Program
+Qualcomm is proud to support the Encorps Teachers Program,
+a nonprofit organization that was developed with guidance from
+the California Governor’s Committee on Educational Excellence.
+Encorps recruits retiring math, science and technology 
+professionals to teach at California’s under-resourced public 
+high schools. Recently released national test scores place 
+California near the bottom in science and math education. 
+In light of these scores and consistent research demonstrating 
+teacher quality as the most important factor in student 
+achievement, radical new thinking is needed to improve math 
+and science teaching. EnCorps tackles this crisis in California 
+public education, by tapping the knowledge of experienced 
+math and science professionals to teach a new generation. 
+In 2009, EnCorps attracted over 1,100 applicants and recruited 
+over 100 math and science professionals. 
+EnCorps addresses educational disparities by attracting 
+individuals with a dramatically different perspective of math  
+and science connections in the real world: professionals with 
+math and science expertise. EnCorps believes mathematicians, 
+scientists, engineers and technology experts with years of 
+applied knowledge have unique abilities to show children how 
+their fields work and inspire them to pursue similar careers. 
+With the help of EnCorps, professionals can become teachers in 
+as little as a year. EnCorps also provides assistance, support and 
+mentoring to these new teachers for the first two years of their 
+teaching careers.
+2009 Qualcomm Social Responsibility Report   I   35
+Qualcomm Institute for Innovation and Educational Success
+We established the Qualcomm Institute for Innovation and 
+Educational Success at San Diego State University (SDSU) with 
+a contribution of $14.5 million in 2004 and have continuously 
+supported its four main programs, including: 
+• Project Lead The Way (PLTW)
+ Operated by SDSU’s College of Engineering, this program trains
+ middle and high school teachers to implement problem-based,
+ pre-engineering coursework into their classes. PLTW is a 
+ national nonprofit organization that has developed a sequence 
+ of courses that emphasizes hands-on, rigorous and relevant 
+ experiences in Science, Technology, Engineering and 
+ Mathematics (STEM) and biomedical sciences in an effort to 
+ prepare students for academic and professional success in these
+ disciplines. PLTW aims to encourage an increasingly diverse 
+ group of students to consider careers as scientists, technology 
+ experts, engineers, mathematicians, healthcare providers 
+ and researchers. Students who move through PLTW curriculum 
+ are well-prepared for college engineering programs and more 
+ likely to be successful in pursuing engineering as a career.
+ The PLTW program has been endorsed by the National 
+ Academies of Engineering and Science as the exemplary 
+ program for K-12 curriculum modeled on world-class standards. 
+ PLTW will serve over 12,000 students in 160 California schools 
+ in the upcoming year. 
+• Improving Student Achievement in Mathematics (ISAM) 
+ Administered by SDSU’s College of Education, ISAM improves
+ students’ mathematics understanding and achievement by 
+ enhancing teachers’ content knowledge of mathematics and 
+ mathematics teaching effectiveness in grades K-12. Since 
+ 2000, ISAM has served 2,370 teachers and 208,930 students 
+ throughout San Diego County. Over 400 teachers have earned a 
+ math specialist certificate. The results have been amazing— 
+ record numbers of students are now passing state mathematics 
+ exit exams and enrollment in mathematics courses is soaring. University of California at San Diego’s 
+COSMOS Program 
+For the past five years, Qualcomm has supported COSMOS—
+a month-long residential program at University of California at 
+San Diego for California high school students who have a 
+demonstrated interest and achievement in math and science. 
+COSMOS provides students with the opportunity to participate 
+in an intensive academic experience delivered by distinguished 
+educators and scholars. Qualcomm hires COSMOS alumni as 
+summer interns to further grow their education and interest 
+in STEM fields. In addition, Qualcomm employees speak at 
+COSMOS events to encourage students to continue their 
+education and interest in these critically important subjects. 
+I   2009 Qualcomm Social Responsibility Report36
+Our Community
+Qualcomm’s Contributions & Emergency Operations
+India: vBay, Real-Time Mobile Classifieds for Agri-Entrepreneurs
+India’s population is roughly 1.15 billion people and more than half 
+of the work force is in agriculture.1 According to the Indian Society 
+of Agribusiness Professionals (ISAP), most of the agriculture 
+population lives in rural areas with minimal access to market 
+information. To help support the agriculture industry and reach 
+the rural population, Wireless Reach engaged in a pilot project 
+with ISAP and United Villages Networks to develop vBay, a BREW-
+enabled mobile classifieds application for rural agri-entrepreneurs 
+to be deployed in the villages of Orissa and Rajasthan. Providing 
+a convenient online hub for market, product and service 
+information on mobile phones, vBay will offer entrepreneurs 
+in rural communities the ability to post and browse across a 
+network of villages and improve their productivity by providing 
+daily commodity price updates in addition to job postings. This 
+is rural India’s first mobile-enabled classified system designed to 
+empower entrepreneurs by broadening their access to market 
+information. Training for entrepreneurs is also part of the project, 
+helping them to successfully grow their businesses while using 
+the vBay system. 
+1 https:/ /www.cia.gov/library/publications/the-world-factbook/geos/in.htmlIndia: Fisher Friend, Bringing Helpful Information to Rural Fishermen
+In 2007, fishermen in the tsunami-affected Tamil Nadu region of 
+India were provided mobile phones with a BREW® application called 
+Fisher Friend, which gave them instant access to helpful information 
+such as weather conditions, where they can and cannot fish and 
+market prices—all in their local language. Today the application is 
+commercially available on Tata’s CDMA network for approximately 
+US$.60/month. Local fishermen reported that the application 
+has made them more efficient, feel safer in the water and has 
+improved their daily revenue. One fisherman said his income has 
+gone from US$3-$6/day to $10-$16/day. The program is the result 
+of a collaboration with M.S. Swaminathan Research Foundation 
+(MSSRF), a non-profit organization that is instrumental in providing 
+information about the fishing communities; Tata Teleservices; Astute 
+Systems Technology, the BREW developer; and Wireless Reach. 
+Indonesia: Village Phone Microfranchising Program Gives 
+Entrepreneurs New Tools for Success
+For the last three years, Wireless Reach and the Grameen 
+Foundation have collaborated with Indonesian organizations 
+to evaluate, test and build the foundation for a Village Phone 
+Microfranchising Program in the country. The initiative combines 
+the power of microfinance with the benefits of expanding access 
+to communications, generating broad positive economic and social 
+returns that can bolster an entire community. Village Phone helps 
+Indonesians in two important ways: (1) by extending affordable 
+telecommunication access to people who cannot afford their own 
+mobile device and (2) by offering a profitable business opportunity 
+to the base of the pyramid by eliminating barriers to entry: primarily 
+in the areas of financing, confidence building, training and access 
+to the supply chain. The project demonstrates an innovative and 
+sustainable solution that meets the growing demand for affordable 
+access to telecommunication services through a microfranchise 
+model that is market-oriented and builds on the strength of 
+microfinance, one of the most robust poverty alleviation strategies 
+in existence today, according to the Grameen Foundation. The core 
+concept is simple, effective and sustainable: a local small-business 
+entrepreneur purchases a pre-packaged kit that includes a mobile 
+phone with a microfinance loan and then retails the “minutes” to 
+neighbors. The program provides a business opportunity for the 
+base of the pyramid in underserved communities.  
+Wireless Reach
+With 56 projects in 28 countries, Qualcomm’s Wireless Reach 
+initiative is a strategic program that demonstrates how access to 
+advanced wireless technology improves people’s lives. Wireless 
+Reach supports programs and solutions that bring the benefits of 
+3G connectivity to communities globally. Collaborating with more 
+than 100 partners from governments, nonprofit organizations 
+and the private sector, Wireless Reach invests in projects that 
+foster the growth of entrepreneurs, aid in public safety programs, 
+enhance the delivery of health care, enrich teaching and learning 
+in classrooms and help the environment. 
+ITU: Providing Disaster Relief Telecommunications Services
+Wireless Reach donated a Qualcomm Deployable Base Station 
+(QDBS) to the International Telecommunication Union (ITU) to 
+improve emergency communications for disaster preparedness 
+and to coordinate relief activities in the aftermath of a disaster.  
+The base station allows relief organizations to communicate 
+and coordinate with each other, when there is no other means 
+of telecommunications. Based on 3G CDMA technology, the 
+QDBS is a compact, quickly deployable and easy to operate 
+mobile solution with 50 phones providing first-responder 
+communications. The QDBS will be housed at ITU’s headquarters 
+in Geneva until it is deployed again.2009 Qualcomm Social Responsibility Report   I   37
+United States: Project K-Nect, Wireless Social
+Networking and Teaching Enhances Student Achievement
+Working with the North Carolina Department of Public Instruction 
+and Digital Millennial Consulting, Project K-Nect is a Wireless 
+Reach funded pilot program that began during the 2007-2008 
+school year to discover if 24/7 connected smartphones could play 
+a role in enhancing student engagement and learning. The project 
+addresses the need to improve math skills among at-risk students 
+in North Carolina who scored poorly in math and did not have 
+access to the Internet at home. Algebra I digital content aligned 
+with the teacher’s lesson plan was created and students were 
+encouraged to learn from each other in and out of the classroom 
+using collaborative learning applications, as well as other Internet 
+resources such as algebra.com. In 2009, Project K-Nect was 
+incorporated into algebra II, geometry and biology classes. The 
+project also added two more school districts, including an eighth 
+and tenth grade class totaling 150 students. For two consecutive 
+years, the project has shown success in students’ achievement. 
+In classes participating in Project K-Nect, student proficiency 
+rates on the state end of course exam increased 30 percent 
+when compared to classes taught by the same teacher but not 
+participating in the project. And these numbers have not gone 
+unnoticed. Based on positive results from Project K-Nect, the 
+Department of Defense Education Activity granted a participating 
+school district $2.5 million to expand Project K-Nect to all 
+algebra I students. 
+Vietnam: Transforming the Future Workforce
+Vietnam’s Prime Minister Nguyen Tan Dung is focused on 
+making the country strong in the development of information 
+technology and communication. He has asked the Information 
+and Communication Ministry of Vietnam to map out a master plan 
+to prioritize the further integration of technology in various areas 
+including developing a labor force competent to compete globally.2 
+In order to support the government’s goal of boosting 21st century 
+skills within its labor force, Wireless Reach is focusing on Vietnam’s 
+future group of skilled workers. Collaborating with Room to Read, a 
+non-profit dedicated to promoting and enabling global education, 
+and S-Fone, a local 3G CDMA operator, Wireless Reach is supporting 
+a project that has established computer labs in six secondary 
+schools throughout southern Vietnam in the Can Tho province. 
+Through the project, the Room to Read computer labs were each 
+equipped with 20-25 computers and EV-DO connectivity using 
+wireless modems. S-Fone is providing the schools with free Internet 
+access until 2012. Along with training sessions for teachers, students 
+are now able to attend classes where they learn how to use various 
+computer applications and basic skills using the Internet. With most 
+of the student population at the participating schools coming from 
+low income families, and one school in a region where there is no 
+landline connectivity, the computer labs and access to the Internet 
+has been a welcome change in their lives. 
+2Tong, Xiong. “Vietnamese PM Calls for Developing IT.” China View. 15 Jan 
+2010. http:/ /news.xinhuanet.com/english/2010-01/15/content_12816987.htm
+Portugal: Mobile Solutions for People with Disabilities
+In Portugal, Wireless Reach is working with Portugal Telecom 
+Foundation and local hospitals and rehabilitation clinics on a 
+three-pronged project that helps connect people with disabilities, 
+mainly focused on those with paralysis and Cerebral Palsy. Each of 
+the three projects addresses a different group of people in need 
+with specially developed text-to-speech software and hardware 
+to provide them with connectivity and the ability to communicate. 
+Portugal Telecom’s GRID software is used on mobile phones and 
+laptops that can be attached to wheelchairs, which allows people 
+to type using symbols and communicate with care givers and 
+loved ones. For the severely paralyzed, special eye-tracking devices 
+and control buttons used with one’s cheek are helpful, allowing 
+participants to type using the GRID and text-to-speech capabilities. Kenya:  Timely Medicine Helping People with HIV/AIDS
+Wireless Reach has teamed with partners to develop a technology 
+intervention program that creates a more efficient process in the 
+supply management of antiretroviral medicines (ARVs) using 
+3G wireless connectivity.  As part of the project, participating 
+antiretroviral therapy (ART) sites in Nairobi, Kenya, have been 
+equipped with computers, software and support equipment for 
+wireless connectivity on Telkom Kenya’s 3G CDMA EV-DO Rev. 
+A network. The software developed in the project is designed to 
+automate the manual reporting system for managing ARVs. These 
+newly converted electronic reports can reach the Kenya Medical 
+Supplies Agency (KEMSA) quickly and efficiently, providing a 
+more accurate inventory of ARVs in clinics and pharmacies.  The 
+project provides a simple, practical solution to a real problem 
+that can be greatly improved using wireless technology. With 
+the immediate increased efficiency and more accurate reporting, 
+pharmacists are able to concentrate on more in-depth tracking of 
+ART adherence and patient care.I   2009 Qualcomm Social Responsibility Report38
+Our Community
+Qualcomm’s Contributions & Emergency Operations
+Global Emergency Management
+The Qualcomm Emergency Operations Team’s (EOT) mission 
+is to protect our people, business and assets through effective 
+emergency planning, response and recovery. The team consists of 
+cross functional representation from IT, HR, Employee & Corporate 
+Communications, Safety, Security, Legal and Facilities. The EOT 
+has a number of on-going initiatives and tools to ensure that we 
+can uphold the duty of care which our employees expect. 
+Qualcomm Community Emergency Response Team (QCERT)
+This program trains employees to respond to a disaster during 
+working hours; trainings have been conducted in San Diego, CA
+and Raleigh, NC. Several employees in Santa Clara, CA have 
+taken the training on their own time. The QCERT members are 
+trained in search and rescue, fire suppression, first aid/triage 
+and on the Incident Command System. Annually, the San Diego 
+team participates in a full scale exercise to refresh their skills. The 
+QCERT members are also invited to participate in the CPR/First 
+Aid and AED training and other disaster exercises.  Qualcomm 
+has a total of 126 trained employees, with 93 in San Diego, 30 in 
+Raleigh and 3 in Santa Clara. Many of the QCERT members join 
+and get involved with their local community teams, assisting
+local first responders when requested.  
+Personal Emergency Training Classes
+• Creating a Family Survival Plan
+ The objectives of this training, held quarterly in San Diego and
+ in other Qualcomm locations such as India, Singapore, Atlanta, 
+ Santa Clara and Portland offices, are to educate employees on 
+ how to prepare themselves and their families for a disaster.  
+ The training covers how to create a communication plan, how 
+ to document and practice evacuation plans and how to a 
+ build a disaster survival kit. Over the past two years, over 
+ 370 employees have completed the training.
+• Ready or Not Survival Training 
+ Local San Diego survivalists, Tom Beasley and Susan Conniry, 
+ presented their Ready or Not Survival training at Qualcomm in 
+ 2009; a total of 88 employees attended this interactive and 
+ engaging program. This training goes above and beyond the 
+ Family Survival Plan training, teaching employees how to build a 
+ shelter, collect and filter drinking water, start a fire and store 
+ food. This training will be offered twice a year at our 
+ San Diego facilities.
+Emergency Operations Toolset
+The EOT employs the use of several cutting edge software 
+systems (or tools) to ensure they are kept informed of worldwide 
+events and emergencies.
+• Emergency Notification System
+ This system communicates with employees during an 
+ emergency.  This automated, two-way system delivers messages 
+ in a variety of formats (cell phone, home phone, email, SMS 
+ text) and confirms message delivery and acknowledgement
+  from the recipient. 
+• Operational Risk Management
+ An automated system sends SMS pages and emails to the EOT,
+ alerting the team in near real time about emergencies or events 
+ such as fire, terrorism or extreme weather that are occurring  
+ close to our facilities worldwide.
+• Employee Traveler Location System
+ A system to locate travelers during an emergency; flight and 
+ hotel information is loaded into the system from our global 
+ travel providers. This allows the EOT to act immediately during 
+ a critical event by identifying at-risk travelers.
+• Emergency Supply Kits
+ EOT procures and maintains emergency supply kits for the 
+ San Diego offices and assists with the procurement of the kits 
+ for our regional and international offices. The kits are intended 
+ to be used during a disaster when employees must seek shelter
+ at Qualcomm facilities. 
+Mumbai Terrorist Attack Response 
+In November 2008, both our Corporate EOT and our India EOT 
+were activated for several days when the city of Mumbai was 
+attacked by a group of terrorists. During the activation, we 
+contacted Mumbai employees to ensure their safety as well as 
+employees traveling to Mumbai to provide factual information and 
+ascertain status and to ensure their security. We also launched a 
+comprehensive internal communication campaign to inform our 
+employees about the safety of their co-workers.
+Red Cross Ready When the Time Comes 
+The program trains and certifies employees to help out the 
+American Red Cross during a disaster in the San Diego area.  
+Employees have been trained in two disciplines—Sheltering and 
+Response Center Enterprise (assisting with the American Red 
+Cross national call center). The training program, which started in 
+2008 and continued in 2009, added an additional 47 employees 
+to bring our total trained volunteers to 63 employees. 
+Sorrento Valley Consortium 
+The Consortium, co-founded and led by Qualcomm, is a group 
+of 14 Sorrento Valley-based companies who meet monthly to 
+discuss emergency scenarios, share emergency plans, discuss 
+available resources and resource sharing and determine how we 
+can improve our partnership with city and county governments 
+during a regional disaster. In 2009, one of the Consortium’s 
+significant accomplishments was strengthening their relationship 
+with the San Diego County Office of Emergency Services (OES). 
+This relationship will improve communication between OES 
+and Consortium members, allowing members to receive early 
+notification when the OES activates their Emergency Operation 
+Center. The Consortium was proud to receive a proclamation 
+from the County of San Diego Board of Supervisors, which 
+recognizes them for their extraordinary efforts in advancing 
+disaster preparedness and their continuous commitment to 
+the community.
+2009 Qualcomm Social Responsibility Report   I   39
+A quick response
+At the end of April, the Corporate EOT activated 
+for the influenza outbreak of H1N1 in Mexico City. 
+We held daily conference calls to actively monitor 
+the quickly evolving situation, which required 
+flexibility and quick decision making from the team. 
+As H1N1 spread, we instituted visitor screening at 
+Qualcomm facilities worldwide. As the uncertainties 
+regarding the mortality rates and the actual death 
+toll from the outbreak continued, the team instituted 
+restrictions on non-essential travel to Mexico and 
+finally restricted all travel to Mexico including a full 
+ban effective for three days. From an educational 
+perspective, the team launched a mini influenza 
+campaign, much like our normal fall influenza 
+campaign, including the distribution of posters 
+and hand sanitizers. We also increased cleaning 
+of all facilities and distributed masks to several of 
+our international locations who were impacted by 
+government restrictions and public fear.  2009 H1N1 Influenza
+Pandemic Mobilization
+Qualcomm health center
+Our on-site medical clinic was involved with the 
+Corporate EOT from the outset providing guidance 
+and advice from a medical perspective. Our Medical 
+Director was instrumental in guiding policy and 
+procedures applicable to Qualcomm employees 
+across the globe. She participated in the production 
+of a video addressing those concerns with the best 
+information available. Posted on the Qualcomm 
+intranet, it was viewed over 1,784 times from 37 
+different Qualcomm locations worldwide. The team 
+continues to meet and monitor the worldwide 
+situation with a goal of ensuring our employees are 
+informed and exposure to H1N1 is kept at a minimum 
+at our facilities.Since 2004, Qualcomm has donated more than $4.5 million 
+to benefit victims of natural disasters around the world.
+At Qualcomm, sustainability is a core business value.  As we expand globally, we 
+continue to be an industry leader in energy conservation and climate protection. 
+Qualcomm is committed to growing our operations while consciously minimizing 
+our carbon footprint, conserving water and reducing our waste.Our Environment
+Qualcomm’s Sustainability Initiatives
+I   2009 Qualcomm Social Responsibility Report402009 HIGHLIGHTS
+Water Conservation & Reuse
+17.8 million gallons of water saved annually 
+through conservation efforts.
+Recycling & E-waste
+1.4 million pounds of total recycled 
+materials and recycled 77 percent of our 
+hazardous waste.Sustainable Kitchen Practices
+Served 22,000 lbs organic line-caught salmon, 
+55,000 lbs organic hormone-free chicken, 
+15,000 lbs organic vegetables and 8,500 lbs 
+organic lettuces.
+2009 Qualcomm Social Responsibility Report   I   41Green Cleaning
+Reduced number of cleaning products used 
+from 29 to 4 and generated a $2.2 million year 
+over year savings for Qualcomm.
+Qualcomm is committed to protecting and enhancing our 
+environment. As a Company, we consistently strive to minimize 
+hazardous materials and reduce consumption of our natural 
+resources. Using education and administrative controls, we 
+continuously assess our processes and practices to identify 
+opportunities for reducing energy, waste and toxic emissions. We 
+have implemented best management practices and engineering 
+controls to reduce the risk of chemical spills. As a result of the 
+prevention measures implemented, Qualcomm experienced 
+no significant spills last year. During 2009, Qualcomm had no 
+significant fines for non-compliance with environmental laws 
+and regulations. Environmental information about our products 
+is detailed in the Product Responsibility section of this report, 
+beginning on page 14.
+Energy Efficiency & Energy Cost Savings
+Qualcomm invests in highly efficient energy, lighting, HVAC 
+(heating, ventilation and air conditioning) systems, cogeneration 
+and renewable energy (photovoltaics) to reduce energy 
+consumption, lower building operating expenses and minimize 
+greenhouse gas (GHG) emissions. The cost savings continue for 
+years to come as the energy saved translates into dollar savings
+on our monthly utility bills. 
+To date, Qualcomm’s energy efficiency investments in over four 
+million square feet of building space in California alone have 
+saved more than 22.5 million kilowatt hours of electricity annually, 
+valued at over $2.92 million savings each year. This is equivalent 
+to avoiding 7,390 metric tons of GHG emissions or eliminating the 
+annual emissions of 1,343 cars.
+U.S. Green Building Council
+In August 2009, Qualcomm joined the U.S. Green Building Council 
+(USGBC), reaffirming our commitment to energy and water 
+efficient green buildings. The USGBC is a member-driven nonprofit 
+organization best known for the development of the LEED 
+(Leadership in Energy and Environmental Design) green building 
+rating system. Qualcomm’s one million square foot W Campus
+was certified LEED Gold last year and the Company continues 
+to implement LEED methodology in our ongoing construction 
+projects. Our W Campus represents what we are doing
+company-wide to build energy efficiencies and optimize resource 
+conservation in our facilities, which ultimately reduces our 
+operating costs and contributes to the financial bottom line.Energy Efficiency & Cost Savings
+Our energy efficiency investments have 
+saved more than 22.5 million kilowatt hours 
+of electricity annually, valued at over 
+$2.92 million savings.I   2009 Qualcomm Social Responsibility Report42
+Our Environment
+Qualcomm’s Sustainability Initiatives
+Air Emissions
+Qualcomm was recognized for our 2009 efforts to improve air 
+quality. We are the first company to be given the new Blue Sky 
+Leadership Award, an honor created by the San Diego County 
+Air Pollution Control District in partnership with the Industrial 
+Environmental Association to highlight a local company that 
+demonstrates a commitment to improving air quality and provides 
+inspiration for others to do the same. The Blue Sky Leadership 
+Award is given to the top performer among local companies and 
+organizations named as Clean Air Champions throughout the year.
+ 
+Qualcomm’s two newest cogeneration turbines are fueled by 
+natural gas and are highly efficient. These units produce electricity 
+for our operations, and the heat generated by them is used to run 
+two large chillers for our air conditioning system. The turbines 
+reduce airborne pollutants by 35 percent compared to the ones 
+they replaced.
+Qualcomm further improves air quality through our energy 
+conservation efforts. We have installed solar panels on building 
+rooftops, own a fleet of hybrid vehicles and encourage and 
+incentivize our employees to utilize alternative modes of 
+transportation for their daily commute, such as offering transit 
+subsidies, shuttle services and bike lockers.08 07 06 05 04CO2 Metric Tons of Emissions
+Per Gr oss Squar e Foot of F acilities Spac e*
+.0220.0219.0207.0205
+.0189
+*Figures represent 2008 calendar year for California facilities only which ma ke up roughly 72 percen t
+of our global square footage.
+29,34819,879
+37,10824,241
+41,52235,590
+46,69443,921
+38,50253,633
+08 07 06 05 04Total Dir ect and Indir ect GHG Emissions
+By Weight (CO2 Metric T ons)*Direct
+Indir ect
+08 07Significant Air Emissions
+By Type and Weight (T ons Per Y ear)
+NOx
+Source: San Diego Air Pollution Control District Annual Emissions Report on
+Qualcomm San Diego , CA F acilities .SOx
+VOC42.3
+<.1.1
+0.81.028.508 07 06 05 04CO2 Metric Tons of Emissions
+Per Gr oss Squar e Foot of F acilities Spac e*
+.0220.0219.0207.0205
+.0189
+*Figures represent 2008 calendar year for California facilities only which ma ke up roughly 72 percen t
+of our global square footage.
+29,34819,879
+37,10824,241
+41,52235,590
+46,69443,921
+38,50253,633
+08 07 06 05 04Total Dir ect and Indir ect GHG Emissions
+By Weight (CO2 Metric T ons)*Direct
+Indir ect
+08 07Significant Air Emissions
+By Type and Weight (T ons Per Y ear)
+NOx
+Source: San Diego Air Pollution Control District Annual Emissions Report on
+Qualcomm San Diego , CA F acilities .SOx
+VOC42.3
+<.1.1
+0.81.028.5
+08 07
+08 07Direct Ene rgy Consumption
+By Primary Energy Source
+Jet Fue l
+Gallons748,86 3809,707
+Indir ect Ener gy Consumption
+By Primary Energy Source
+Electricity
+(Purchased )
+Mega watt Hour s111,080115,881Diesel Fuel
+(Cars/T rucks )
+Gallons5,854
+3,6705,616
+Diesel Fuel
+(Generators )
+Gallons3,887
+Natur al Ga s
+MMBtu699,78 4851,408
+Vehicle Ga s
+Gallons32,23046,358
+Greenhouse Gas Emissions
+Since 2002, Qualcomm has been a member of the California Action 
+Registry, a nonprofit voluntary registry for GHG emissions and has 
+earned the distinction of “Climate Action Leader” for our early and 
+voluntary participation in reporting GHG emissions in California. 
+Our overall emissions (per square foot of our facilities space) have 
+continued to decrease. While some of our direct and indirect 
+consumption metrics have increased, this is a reflection of continued 
+growth in our operations and revenues. We do our best to minimize 
+the impact our operations have on our global environment.
+2009 Qualcomm Social Responsibility Report   I   43
+2,684,000 gallons
+Continued to invest in reclaimed water projects, such 
+as converting one of our San Diego office building’s 
+cooling towers to reclaimed water in May 2009,
+thus saving over 2,684,000 gallons of potable
+water annually.2009 Water Reduction &
+Reuse Highlights
+14,703,000 gallons
+Saved 14,703,000 gallons of potable water
+by using reclaimed water for irrigation. 
+Drought-resistant plants
+Maintained our facilities’ landscape with drought-
+resistant plants and drip irrigation where possible.
+80,000 gallons
+Initiated pilot project for waterless urinals which save 
+40,000 gallons of potable water per unit annually. We 
+currently have 2 units and are expanding this project
+in the coming year.
+Reduced water consumption
+Reduced our water consumption by 128,700 gallons 
+year over year by implementing a water broom 
+wash-down system for cleaning exterior surfaces.Water Conservation & Reuse
+Communities worldwide are experiencing an unprecedented 
+water supply crisis. Qualcomm is proactively doing our part to 
+conserve scarce water resources. We have incorporated water 
+saving fixtures and drought resistant plants at our various building 
+sites, as well as drip irrigation and the use of reclaimed water 
+for irrigation. In May 2009, Qualcomm converted our San Diego 
+Building AA cooling towers from potable water to reclaimed water 
+which will save over 2,684,000 gallons of potable water annually. 
+Qualcomm is striving to reduce potable water use and maximize 
+the use of reclaimed water wherever possible. 
+As shown in the chart below, reclaimed water utilized for both 
+cooling towers and irrigation comprises 13% of Qualcomm’s water 
+usage. Plans began in 2009 to convert another cooling tower to 
+reclaimed water that will save over 29 million gallons of potable 
+water annually. Additionally, Qualcomm carefully manages our 
+cooling tower cycles to optimize operations and use less water. 
+In 2009, we saved 17.8 million gallons of water from our cooling 
+tower operations and from our low flow restroom fixtures, as well 
+as other conservation programs.
+Our two newest cogeneration turbines are highly efficient 
+and reduce airborne pollutants by 35 percent.
+2009 Water Usage = 131.2m gallons
+(San Dieg o, CA f acilities only )
+Regular Water
+23.0 million gallons
+Cooling T ower
+67.8 million gallonsReclaimed Cooling T ower
+2.7 million gallonsReclaimed Irrigation
+14.7 million gallons
+17.818
+511811
+million gallons of water saved
+through conservation efforts annuall ypercent2Irrigation
+23.0 millio n
+gallonsI   2009 Qualcomm Social Responsibility Report44
+Our Environment
+Qualcomm’s Sustainability Initiatives
+Sustainable Kitchen Practices
+In 2009, Qualcomm cafés achieved Charter Membership 
+Certification and are now Certified Green Restaurants™. Through 
+diligent work toward bettering the environmental impact of our 
+cafés, our Food Services team has completed a rigorous 18-step 
+process that has improved our water efficiency, implemented a 
+full-scale recycling program, introduced chlorine-free paper 
+products and made a commitment to sourcing local, sustainable 
+and organic foods. We are proud of our environmental efforts in our 
+kitchen facilities and look forward to improving and implementing 
+even more “green” efficiency in the years to come.
+Green Cleaning
+Qualcomm’s dedication to a greener, safer environment extends 
+into all aspects of day-to-day operations. In 2007, Qualcomm’s 
+Building Services team instituted a new cleaning system, 
+ManageMen’s® Operating System 1 (OS1)®, as part of our Green 
+Cleaning Program. Since then, we have transitioned all our San 
+Diego buildings to the OS1 cleaning system, which encompasses 
+approximately 4.3 million square feet and services over
+10,000 employees. By instituting this new cleaning regimen, 
+we have:
+ • Reduced the number of cleaning products used from 29 to 4. 
+ • Cut chemical use from 3,335 active cleaning units to 303. 
+ • Decreased the volume of chemical containers sent to
+  landfills by 97 percent.
+ • Reduced our annual water and electricity usage.
+ • Reduced the amount of paper towel disposal sent to landfills
+  by 11.47 tons per year and cut consumption by 16 percent
+  by replacing paper towels with microfiber cloths.
+ • Generated a $2.2m year over year savings for the Company.
+ • Improved worker’s compensation costs by 91 percent.
+ • Achieved a 98.8 percent customer satisfaction rate in
+  office cleaning requests.
+In 2010, we will expand this initiative to include the OS1 Floor care 
+cleaning system at our San Diego office buildings. Restaurants throw
+away 100,000 pounds
+(per location) of
+garbage per year.
+Restaurants use
+300,000 gallons
+(per location) of
+water per year.
+The average United 
+States food product
+is shipped 1,500 miles
+before it reaches
+our plates.
+Styrofoam is made
+from petroleum, an 
+unsustainable and heavily 
+polluting resource. 
+Waste reduction can be 
+about breaking bad habits 
+like grabbing too many 
+packets of ketchup or 
+taking too many napkins.+
+Qualcomm is reducing our 
+garbage output by implementing 
+a full-scale recycling program so 
+that waste can now be reduced, 
+reused and recycled.
+Qualcomm installed low-flow 
+faucet aerators and pre-rinse spray 
+valves in our kitchens that use 
+about a half a gallon of water per 
+minute, which is over 75 percent 
+more efficient than most faucets.
+Qualcomm is proud to source 
+local, sustainable and organic 
+foods from our own community, 
+helping to significantly reduce 
+our environmental impact and 
+support local growers.
+Qualcomm is proud to not use 
+any styrofoam in our food
+service operations.
+Qualcomm is reducing waste
+by ordering condiments in bulk
+sizes, eliminating the use and 
+waste of individually packaged 
+items and encouraging diners
+to only use what they need.-Averages QualcommMaking A Difference
+2009 Qualcomm Social Responsibility Report   I   45
+50 percent
+Qualcomm significantly reduces its carbon footprint 
+by using Ecoflame warming gels at all our
+Food Services’ caterings, cutting our carbon dioxide 
+emissions by at least 50 percent in comparison
+to other available fuels.2009 Sustainable Kitchen
+Highlights
+Buying bulk
+Bulk purchasing of food and condiments has 
+greatly reduced the waste associated with our café 
+operations, conserving scarce landfill space. 
+135,000 gallons
+Our Food Services purchased and installed low flow
+spray valves, sink faucet aerators and kitchen aerators 
+to further reduce our water consumption in Qualcomm’s 
+kitchens. By installing the low flow spray valves, which 
+run at 1.28 gallons per minute, our Food Services saves 
+135,000 gallons of water a year, as well as reduces the 
+amount of energy used to heat the water. 
+Biodiesel
+100 percent of all oil and grease used at Qualcomm’s
+San Diego cafés—which was over 1,200 gallons last year—
+is converted into biodiesel, reducing toxic emissions by 
+75 percent on average compared to petroleum diesel. 
+4 kilowatts
+Qualcomm continues to use Melink VFD (variable 
+frequency drives for commercial kitchen ventilation 
+systems), which works with UV light to reduce 
+chlorofluorocarbons (CFCs). These eco-friendly 
+solutions enable Qualcomm to reduce high energy 
+consuming HVAC. The Melink VFD utilizes an average 
+of 4 kilowatts per hour, versus 14 kilowatts per hour 
+for standard systems.  
+660,000 gallons
+Qualcomm’s air-cooled ice machines use less energy 
+and water and make ice more quickly and efficiently 
+than standard ice machines. By installing these new 
+machines, the Company saves roughly 660,000 
+gallons of water each year. 90 percent
+Air curtains are installed at Qualcomm kitchen 
+facilities’ doorways in an effort to save energy and 
+maintain employee comfort. These curtains prevent 
+up to 90 percent of the energy loss that occurs at an 
+opening, compared to an open door. 
+Reduce cold loss
+All walk-in refrigerators and freezers at Qualcomm 
+have strip curtains to cover the doorway. Strip 
+curtains reduce cold loss by approx 50 to 60 percent, 
+significantly cutting down on Qualcomm’s walk-in 
+refrigerator and freezer energy consumption.
+Organic food
+Qualcomm aims to serve as much organic food as 
+possible. In 2009, we served 22,000 lbs of organic 
+line-caught salmon, 55,000 lbs of organic
+hormone-free chicken, 15,000 lbs of organic 
+vegetables and 8,500 lbs of organic lettuces.I   2009 Qualcomm Social Responsibility Report46
+Our Environment
+Qualcomm’s Sustainability Initiatives
+Recycling & E-waste
+Since 2007, the California Integrated Waste Management Board 
+has used the per capita disposal measurement system to measure 
+waste diversion and recycling efforts. Qualcomm’s per capita 
+disposal rate of 1.12 pounds/person/day (PPD) is evidence of our 
+environmental stewardship. The average San Diego business per 
+capita disposal rate is 11.4 PPD in 2008. Qualcomm was able to 
+achieve our ongoing goal of remaining in the lower 10 percentile 
+of per capita disposal rate relative to other San Diego businesses.
+69 tons
+In 2009, Qualcomm’s employee shuttle service 
+experienced a 10 percent increase in miles driven 
+with over 400,000 miles driven across the San Diego 
+campus. By selecting hybrid vehicles to replace 
+gasoline powered vans, approximately 69 tons of 
+greenhouse gases were prevented. Nearly half of the 
+shuttle fleet is comprised of hybrid vehicles with plans 
+on replacing older vans with Ultra Low Emissions 
+Vehicles in 2010.2009 Recycling & Source
+Reduction Highlights
+Reusable water bottles
+Adminstrative Services distributed reusable water 
+bottles to all Qualcomm employees in San Diego 
+followed by a campaign asking employees
+to reduce consumption of disposable plastic
+water bottles.
+100% e-waste recycling
+Our San Jose facility has implemented an aggressive 
+e-waste recycling program that involves a 100 percent 
+recycling program for all silicon and glass wafers. 
+This recycling program also includes proprietary 
+destruction and recycling of electronic components, 
+wafer cassettes and storage boxes, product wrappings 
+and containers used for consolidation.Qualcomm’s hazardous waste is processed at a California EPA 
+registered Treatment, Storage and Disposal Facility. Qualcomm 
+performs due diligence audits to ensure hazardous waste 
+is managed responsibly and is recycled when possible. Our 
+hazardous waste is recycled using solvent recovery and fuel 
+blending methods.
+1.8
+2007Total Recycled Material  (In Millions of Pounds)
+1.4
+20081.4
+2009> >2009 Hazar dous Waste Recy cled*
+(Pound s) 
+Recy cled77%
+73,970 95,82 7
+Gener ated
+*Figures represent 2008 calendar year for California facilities only which ma ke up roughly 72 percen t
+of our global square footage.
+070809Materials Recy cled*
+Cardboar d (Pounds ) 
+552,000546,800357,334
+070809Aluminum Cans & Plastic Bottles (Pounds ) 
+27,900116,320177,730
+070809Office Paper (Pounds ) 
+313,000317,385274,370
+070809Elect ronic Waste (Pounds ) 
+120,000312,133252,514
+*Figures represent 2008 calendar year for California facilities only which ma ke up roughly 72 percen t
+of our global square footage.Total W eight of Waste & Disposal Method* (In Tons)
+Solid Waste
+Gener atedLandfill
+WasteRecy cled
+Material0809
+709680
+0809
+1,1421,200
+0809
+1,8511,880
+*Figures represent 2008 calendar year for California facilities only which ma ke up roughly 72 percen t
+of our global square footage.2009 Qualcomm Social Responsibility Report   I   47
+Singapore  
+Our Singapore Distribution Center has fully embraced 
+Qualcomm’s commitment to sustainability. Some of the Singapore 
+Distribution Center’s efforts include reusable cages or trolleys, 
+which are used for in-country transport from suppliers in order 
+to reduce packaging material and improve operational efficiency. 
+We also led an initiative to reduce the packaging material required 
+for Qualcomm’s finished goods, resulting in 15,000 pounds less 
+cardboard used per year. 
+Taiwan  
+Qualcomm made a donation to Longtan Elementary School 
+to assist in transforming the school’s campus into a butterfly 
+habitat. The donation will provide a complete butterfly ecosystem 
+and encourage students to observe and record the lifecycle of 
+butterflies by following scientific methods. Taiwan was renowned 
+for being a butterfly kingdom in the past and this donation will 
+create a very unique place in Longtan. The park helps to promote 
+environmental awareness and appreciation of the country’s
+natural resources to Taiwan’s youth.
+2009 Sustainability Highlights
+Hong Kong 
+Our Hong Kong office implemented a recycling program to 
+collect mixed paper and other materials in recycling bins, as well 
+as copier toners and batteries. Program guidelines were based 
+on United States recycling guidelines. An employee education 
+campaign was conducted about the program to encourage 
+greater involvement and participation.
+India 
+Our local employees are encouraged to initiate sustainable 
+environmental practices; Mumbai employees are moving away from 
+the use of packaged water bottles to reusable bottles thus reducing 
+environmental waste and conserving resources. Additionally, 
+Qualcomm’s employee volunteer program promotes projects 
+that improve our natural surroundings and we financially support 
+nonprofit organizations that support sustainable environmental 
+programs. For example, Qualcomm supports TERI’s Light a Billion 
+Lives Campaign, which brings solar energy to villages which would 
+otherwise be in the dark for another decade.
+Designing greener facilities with renewable energy sources is an 
+important practice followed by the Company; this is especially 
+important because buildings account for 40 percent of the world’s 
+energy use (Source: World Business Council for Sustainable 
+development, “Transforming the Market: Energy Efficiency in 
+Buildings”). Qualcomm aims to seek an India Gold “Leadership in 
+Energy and Environmental Design (LEED)” certification for the 
+new building under construction in Bangalore, our solely-owned 
+property in India. The Company is leveraging best practices from 
+the construction of our United States Gold LEED certified facility 
+in San Diego. 
+Korea
+Twenty-two Korean employees and their families volunteered to 
+clean-up the YangJae stream in Seoul, Korea by removing invasive 
+species along the stream. This will enable beneficial reeds to 
+flourish in this area, resulting in a healthier ecosystem.
+San Diego employees recycled 14,110 pounds of electronic waste in 
+one day during Qualcomm’s on-site collection event.I   2009 Qualcomm Social Responsibility Report48
+Our Environment
+Qualcomm’s Sustainability Initiatives
+Achievements
+With critical support from Qualcomm and other
+donors in the community, the Climate Initiative has 
+made many achievements over the past 18 months:
+Providing technical assistance for nine cities and the 
+County of San Diego to develop greenhouse gas 
+emissions inventories, to provide the basis for future 
+climate action planning.
+Partnering with the City of Chula Vista to develop a 
+local climate adaptation plan, to provide a model for 
+other cities.
+Supporting five university students to work as
+Climate Fellows with the nonprofit organization,
+ICLEI Local Governments for Sustainability.
+Supporting innovative research as a scientific 
+foundation for effective public policy, including The 
+San Diego Foundation’s Focus 2050 Study: Climate 
+Change Related Impacts in the San Diego Region by 
+2050 (www.sdfoundation.org) and the Energy Policy 
+Initiatives Center’s San Diego County Greenhouse
+Gas Emissions Inventory and Policy Reports
+(www.sandiego.edu/epic/publications).
+Convening public officials to identify crucial areas for 
+regional coordination.
+Building public awareness through educational outreach.The San Diego Foundation’s 
+Climate Initiative
+Support
+Qualcomm’s support will allow The Foundation to build 
+on these recent achievements and to promote more 
+comprehensive regional action on climate change by 
+working with key policy-makers in a high-level “Regional 
+Collaborative” around climate change, regional 
+transportation, conservation and land-use planning. The 
+Foundation is complementing this process by convening 
+the region’s relevant nonprofit community to enhance 
+partnerships, inform public policy and identify pressing 
+unmet needs to accompany government actions. “We are incredibly pleased to be 
+partnering with Qualcomm to speak 
+to the community about solar energy, 
+clean air and renewable lifestyles.” 
+—Irene Stillings, California Center for Sustainable Energy 
+Executive DirectorUnited States
+Qualcomm supported a variety of events to better educate
+both our employees and the community as a whole about
+various environmental issues, highlighting actions that
+individuals, companies and governments can take to make a 
+difference including: 
+• San Diego Earth Fair
+ Qualcomm employees presented the Fair’s 75,000
+ attendees with information about the Company’s many
+ sustainability programs. 
+• Employee Sustainability Fair
+ To coincide with Earth Day, Qualcomm set up a Sustainability
+ Fair on our San Diego campus with representatives from 
+ divisions company-wide as well as presentations by local 
+ sustainability experts. The Fair engaged our employees
+ globally via recorded environmental lectures and a 
+ ‘green ideas’ contest.
+• San Diego Solar Energy Week 2009
+ Activities focused on bringing together residents and business 
+ owners with solar experts, suppliers and installers to explore 
+ the benefits of using sunlight for electricity and water heating.
+ Hundreds of visitors checked out the 30+ companies and 
+ organizations that exhibited solar-related products and services.
+• Coastal Cleanup Day 
+ Qualcomm adopted a site as part of California’s Coastal Cleanup
+ Day. Over 85 employees, families and friends cleaned 6 miles
+ near Qualcomm’s campus, collecting 3,200 pounds of trash and
+ 75 pounds of recyclables. 
+• Qualcomm Recycling Day 
+ Qualcomm hosted a free on-site recycling collection day, 
+ giving San Diego employees the opportunity to recycle personal 
+ electronics, donate used eyeglasses and cell phones and 
+ exchange inefficient light bulbs for energy saving compact 
+ fluorescent light bulbs.Qualcomm provided financial support for The
+San Diego Foundation’s regional Climate Initiative. 
+Launched in 2006, this initiative is dedicated to 
+advancing comprehensive action throughout
+San Diego County to reduce local greenhouse gas 
+emissions and enhance the region’s resilience to 
+climate change.2009 Qualcomm Social Responsibility Report   I   49I   2009 Qualcomm Social Responsibility Report 50
+Global Reporting Initiative (GRI)
+Content Index
+Standard Description Pages Further Explanation
+Disclosure   
+1      Strategy and Analysis
+     
+1.1 Statement from the most senior decision-maker of the  3   
+ organization.
+    
+2     Organizational Profile
+     
+2.1 Name of the organization. 7   
+2.2 Primary brands, products, and/or services.  7, 8 Additional information available in our Corporate Overview .
+2.3 Operational structure of the organization, including main 8 Additional information available on our corporate structure
+ divisions, operating companies, subsidiaries, and joint  and businesses .
+ ventures.  
+2.4 Location of organization’s headquarters. 7, 18 
+2.5 Number of countries where the organization operates, 18
+ and names of countries with either major operations or
+ that are specifically relevant to the sustainability issues
+ covered in the report. 
+2.6 Nature of ownership and legal form. 7  
+2.7 Markets served (including geographic breakdown, 9 Additional information available in 10-K/Annual Report .
+ sectors served, and types of customers/beneficiaries).   
+2.8 Scale of the reporting organization. 9 Additional information available in 10-K/Annual Report .  
+2.9 Significant changes during the reporting period regarding 4
+ size, structure, or ownership.    
+2.10 Awards received in the reporting period. 19 Current list of awards .
+   
+     
+3     Report Parameters
+     
+3.1 Reporting period (e.g., fiscal/calendar year) for 4
+ information provided.    
+3.2 Date of most recent previous report (if any). 4   
+3.3 Reporting cycle (annual, biennial, etc.). 4   
+3.4 Contact point for questions regarding the report or 4
+ its contents.    
+3.5 Process for defining report content. 4   
+3.6 Boundary of the report (e.g., countries, divisions, 4
+ subsidiaries, leased facilities, joint ventures, suppliers).   
+  
+3.7 State any specific limitations on the scope or boundary 4
+ of the report.     
+3.8 Basis for reporting on joint ventures, subsidiaries, leased  4
+ facilities, outsourced operations, and other entities that
+ can significantly affect comparability from period to
+ period and/or between organizations. 2009 Qualcomm Social Responsibility Report   I   51
+*Partially covered in report.ECStandard Description Pages Further Explanation
+Disclosure   
+3     Report Parameters (continued)
+     
+3.10 Explanation of the effect of any re-statements of 4
+ information provided in earlier reports, and the reasons
+ for such re-statement (e.g.,mergers/acquisitions, change
+ of base years/periods, nature of business, measurement 
+ methods).    
+3.11 Significant changes from previous reporting periods in 4
+ the scope, boundary, or measurement methods applied
+ in the report.    
+3.12 Table identifying the location of the Standard Disclosures 50-54
+ in the report.     
+4     Governance, Commitments, and Engagement
+4.1 Governance structure of the organization, including 10 Additional information available on our corporate governance . 
+ committees under the highest governance body  
+ responsible for specific tasks, such as setting strategy or
+ organizational oversight.  
+4.2 Indicate whether the Chair of the highest governance 10 Additional information available on our corporate governance .
+ body is also an executive officer.  
+4.3 For organizations that have a unitary board structure, 10 Additional information available on our corporate governance .
+ state the number of members of the highest governance  
+ body that are independent and/or non-executive members.  
+   
+4.4 Mechanisms for shareholders and employees to 11 Additional information available on our corporate governance . 
+ provide recommendations or direction to the highest  
+ governance body.  
+4.14 List of stakeholder groups engaged by the organization.  13 
+  
+4.15 Basis for identification and selection of stakeholders with 4, 13
+ whom to engage.  
+   
+4.16 Approaches to stakeholder engagement, including 13
+ frequency of engagement by type and by stakeholder group.  
+          
+       Economic
+    
+EC1* Direct economic value generated and distributed, including 9, 29 Additional information available in 10-K/Annual Report .
+ revenues, operating costs, employee compensation,  
+ donations and other community investments, retained
+ earnings, and payments to capital providers and governments. 
+   
+EC3 Coverage of the organization’s defined benefit plan obligations. 10 
+EC5* Range of ratios of standard entry level wage compared to 22 General entry wage level information provided.
+ local minimum wage at significant locations of operation. 
+  
+EC6 Policy, practices, and proportion of spending on locally- 17
+ based suppliers at significant locations of operation. 
+    
+EC8* Development and impact of infrastructure investments 32-37  General public benefit information provided.
+ and services provided primarily for public benefit through
+ commercial, in-kind, or pro bono engagement. 
+  
+EC9* Understanding and describing significant indirect 32-37  General indirect economic impact information provided. 
+ economic impacts, including the extent of impacts.   
+  
+Content Index
+I   2009 Qualcomm Social Responsibility Report 52*Partially covered in report.Standard Description Pages Further Explanation
+Disclosure   
+       Environmental   
+EN1* Materials used by weight or volume.  14-15
+ 
+EN2* Percentage of materials used that are recycled input materials.   14-15  
+EN3 Direct energy consumption by primary energy source.  42 
+EN4 Indirect energy consumption by primary source. 42 
+EN5 Energy saved due to conservation and efficiency 41, 45
+ improvements.  
+EN6 Initiatives to provide energy-efficient or renewable energy 15-16
+ based products and services, and reductions in energy
+ requirements as a result of these initiatives.   
+EN7 Initiatives to reduce indirect energy consumption and 27,
+ reductions achieved.  45-46
+ 
+EN8* Total water withdrawal by source.  43 Water usage for Headquarters provided. 
+EN10* Percentage and total volume of water recycled and reused.  43 Recycled water and reusage for Headquarters provided. 
+EN13* Habitats protected or restored.  47-48  
+EN16 Total direct and indirect greenhouse gas emissions by weight.  42 
+EN18 Initiatives to reduce greenhouse gas emissions and
+ reductions achieved. 41-48  
+EN20 NOx, SOx, and other significant air emissions by type 42
+ and weight.   
+EN22 Total weight of waste by type and disposal method.  46 
+EN23 Total number and volume of significant spills.  41 
+EN26 Initiatives to mitigate environmental impacts of products 14-16
+ and services, and extent of impact mitigation.  
+EN28 Monetary value of significant fines and total number of 41
+ non-monetary sanctions for non-compliance with
+ environmental laws and regulations.   
+   
+       Social: Labor Practices and Decent Work 
+LA1* Total workforce by employment type, employment 9 Total workforce by region and employment type provided. 
+ contract, and region.  
+LA2* Total number and rate of employee turnover by age group,  21 General information on voluntary turnover provided.
+ gender, and region.   
+LA3 Benefits provided to full-time employees that are not 22
+ provided to temporary or part-time employees, by
+ major operations.   
+LA4 Percentage of employees covered by collective 22
+ bargaining agreements.
+  
+LA5* Minimum notice period(s) regarding significant operational 22 General information provided.
+ changes, including whether it is specified in collective
+ agreements. LAEN
+Global Reporting Initiative (GRI)
+Content Index2009 Qualcomm Social Responsibility Report   I   53
+*Partially covered in report.Standard Description Pages Further Explanation
+Disclosure   
+       Social: Labor Practices and Decent Work (continued) 
+ 
+LA6* Percentage of total workforce represented in formal joint 23 General information provided. 
+ management-worker health and safety committees that
+ help monitor and advise on occupational health and
+ safety programs.  
+LA7 Rates of injury, occupational diseases, lost days, and 23
+ absenteeism, and number of work-related fatalities
+ by region. 
+ 
+LA8 Education, training, counseling, prevention, and risk-control 23, 38
+ programs in place to assist workforce members, their
+ families, or community members regarding serious diseases.  
+LA9 Health and safety topics covered in formal agreements 22
+ with trade unions.  
+ 
+LA10 Average hours of training per year per employee by 24
+ employee category.  
+ 
+LA11 Programs for skills management and lifelong learning that 24, 25,
+ support the continued employability of employees and 30
+ assist them in managing career endings.   
+LA12 Percentage of employees receiving regular performance 22
+ and career development reviews. 
+ 
+LA13* Composition of governance bodies and breakdown of 25 Breakdown of employees provided by gender, age group,
+ employees per category according to gender, age group,   minority group membership, and other indicators of diversity.
+ minority group membership, and other indicators of diversity. 
+LA14  Ratio of basic salary of men to women by employee 22
+ category.   
+       Social: Human Rights    
+HR4 Total number of incidents of discrimination and 22
+ actions taken.  
+ 
+HR5 Operations identified in which the right to exercise 22
+ freedom of association and collective bargaining may be
+ at significant risk, and actions taken to support
+ these rights.  
+ 
+HR6 Operations identified as having significant risk for incidents 22
+ of child labor, and measures taken to contribute to the
+ elimination of child labor. 
+  
+HR7 Operations identified as having significant risk for incidents 22
+ of forced or compulsory labor, and measures to contribute
+ to the elimination of forced or compulsory labor.   
+  
+       Social: Society   
+SO2 Percentage and total number of business units analyzed 11
+ for risks related to corruption.  
+ 
+SO3 Percentage of employees trained in organization’s 12
+ anti-corruption policies and procedures.  
+ HR
+SOLA
+Global Reporting Initiative (GRI)
+Content Index
+I   2009 Qualcomm Social Responsibility Report 54*Partially covered in report.PRStandard Description Pages Further Explanation
+Disclosure   
+       Social: Society (continued)   
+SO4 Actions taken in response to incidents of corruption. 11
+ 
+SO5* Public policy positions and participation in public policy 10 General information for United States provided.
+ development and lobbying.  
+SO6* Total value of financial and in-kind contributions to political  10 Detailed information for United States provided.
+ parties, politicians, and related institutions by country. 
+       Social: Product Responsibility    
+PR1* Life cycle stages in which health and safety impacts of 14-15  General discussion of our product responsibility reported. 
+ products and services are assessed for improvement, and  Percentage of significant products subject to procedures 
+ percentage of significant products and services categories  reported.
+ subject to such procedures.   
+   
+PR3 Type of product and service information required by 14-15
+ procedures, and percentage of significant products and
+ services subject to such information requirements. 
+  
+PR6* Programs for adherence to laws, standards, and voluntary 12 General information provided.
+ codes related to marketing communications, including 
+ advertising, promotion, and sponsorship. 
+ 
+PR8 Total number of substantiated complaints regarding breaches 12
+ of customer privacy and losses of customer data.   
+PR9 Monetary value of significant fines for non-compliance 15
+ with laws and regulations concerning the provision and
+ use of products and services.  SO
+2009 Qualcomm Social Responsibility Report   I   552009
+Qualcomm Social Responsibility Report
+Copyright© 2010 Qualcomm Incorporated. All rights reserved. Qualcomm, BREW, Femtocell Station Modem, FLO TV, Gobi, Mobile 
+Station Modem, OmniTRACS, QPoint, Snapdragon and Wireless Reach are registered trademarks of Qualcomm Incorporated. 
+CDMA2000 is a registered certification mark of the Telecommunications Industry Association. Used under license. All other 
+trademarks are the property of their respective owners.Qualcomm Headquarters
+5775 Morehouse Drive, San Diego, CA 92121  |  Phone: 858-587-1121  |  Fax: 858-658-2100
+www.qualcomm.com

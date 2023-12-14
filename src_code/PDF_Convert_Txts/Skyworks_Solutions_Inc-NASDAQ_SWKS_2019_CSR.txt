@@ -1,0 +1,591 @@
+Sustainability Report 2019  |  1
+2019 Sustainability Report2  | Sustainability Report 2019Commitment to Sustainability
+Letter from the CEO
+At Skyworks, we remain as confident as ever in our vision of Connecting Everyone and Everything, 
+All the Time . Throughout my nearly twenty years at the company, Skyworks has proven itself a 
+market leader through sustained investments in next-generation technology, partnerships with 
+the most impactful mobile device innovators and an incredibly talented workforce.
+Our customers rely on us to overcome their most challenging problems by resolving complexity 
+and delivering unique, customized, systems-based solutions. By positioning these trusted 
+partners to win, we continue to grow as a company.
+Despite a challenging market environment in 2019, Skyworks delivered tremendous value not only 
+to our customers and stockholders, but also to our employees and their communities around the 
+globe. We successfully weathered substantial uncertainty during the year by improving factory 
+efficiency, managing our operating expenses and maintaining a healthy balance sheet—with no 
+debt—demonstrating the resilience and sustainability of our business model.
+This report marks the eleventh consecutive year in which Skyworks has voluntarily published 
+a report on the company’s sustainability and corporate responsibility initiatives. Our ongoing 
+improvement efforts over multiple years, as highlighted in the report, demonstrate our 
+commitment to operating a safe, accountable and responsible business.
+Throughout 2019 we continued to promote sustainability programs in our global supply chain, 
+holding our suppliers accountable to the same standards to which we hold ourselves. We remain 
+a leader in sustainable sourcing, in part by contributing to cooperative, industry-wide efforts as a 
+full member of the Responsible Business Alliance.
+Supporting further transparency, we have incorporated into this year’s report certain elements 
+recommended by the Sustainability Accounting Standards Board (SASB). We recognize the 
+importance of standardized reporting and intend in future years to continue aligning our 
+sustainability disclosures with SASB’s industry-specific standards.
+We are proud to share with you some of our many accomplishments. Looking forward, we remain 
+committed to creating value for our many stakeholders as we empower the wireless networking 
+revolution.
+Liam K. Griffin  
+President and Chief Executive Officer  
+Skyworks Solutions, Inc.
+Sustainability Report 2019  |  3Skyworks is empowering the wireless networking revolution, connecting people, places and things around the world. As the demand for ubiquitous, “always-on” connectivity 
+increasingly expands, our innovative, high-performance analog semiconductors are enabling breakthrough communication platforms from global industry leaders – changing 
+the way we live, work, play and learn. Through our broad technology expertise and one of the most extensive product portfolios in the industry, we are Connecting Everyone and 
+Everything, All the Time .
+Skyworks is a global company with engineering, marketing, operations, sales and support facilities located throughout Asia, Europe and North America and is a member of the  
+S&P 500 ® and Nasdaq-100 ® market indices (Nasdaq: SWKS).Our Company
+Major Manufacturing Locations
+Woburn, MA
+GaAs HBT, pHEMT, GaN FabNewbury Park, CA 
+GaAs HBT Fab
+Kadoma, Japan  
+SAW Filter FabSingapore  
+SAW / BAW Filter WL -CSP FabOsaka, Japan  
+SAW / BAW Filter FabMexicali, B.C., Mexico
+Back End Assembly and Test
+4  | Sustainability Report 2019Enabling a Connected World
+Our Sustainable Business Practices 
+Through our established Sustainability Management Systems and in alignment of these programs with our Sustainability Policy, we consistently leverage existing programs and 
+develop new initiatives to drive continuous improvement. Skyworks also engages in an annual systematic review to further enhance the processes, demonstrating  our commitment 
+to operate under sustainable business practices.
+15,900 Megawatt Hours
+Energy savings
+52.8 Million Gallons  
+Water usage saved19,017 Metric Tons  
+CO2 equivalent emissions averted4,519,000 Pounds 
+Municipal waste recycledISO 14001 Certification 
+Maintained at all manufacturing locations worldwide
+8 Years 
+Active membership in the Responsible Business Alliance (RBA)5 Years 
+Consecutive reporting DRC Conflict-Free2019 Highlights
+Sustainability Report 2019  |  5
+2019 Annual Report
+Notice of 2020 Annual Meeting 
+and Proxy StatementClean Energy
+At our factory locations, Skyworks meets or exceeds the ever-increasing state and local 
+clean-energy sourcing requirements. In 2018, Skyworks made a three-year purchase 
+of U.S.-based Energy Credit totaling more than 93 million kilowatt hours (kWh) of clean 
+electricity. This annual offset of 31 million kWh means Skyworks sourced approximately 
+51% of the energy for its U.S. manufacturing facilities from clean-energy sources. 
+Sustainability Policy
+Since becoming ISO 14001 certified in 2002, Skyworks has operated according to 
+established policies. In 2012 our Environmental Policy expanded to become what is 
+now our global Sustainability Policy. We believe in fostering awareness of the policy 
+to promote sustainable business practices in all that we do. In 2019, we continued our 
+practice of distributing the Sustainability Policy to all employees globally, in their local 
+language, in an ID-badge format. Worn daily, these badges serve as a constant reminder 
+that operating sustainably is everyone's responsibility.
+Annual Reports
+In March 2019, Skyworks for the first time distributed its 2019 Proxy Statement and 2018 
+Annual Report to its stockholders utilizing the “notice and access” format, by which the 
+majority of stockholders are notified that such materials are available electronically. 
+This implementation significantly reduced the environmental impact of our annual 
+distribution of proxy materials, eliminating the printing of almost 70,000 printed 
+reports—equivalent to more than 31,000 pounds of paper—an 87% overall reduction.
+2018 Annual Report
+Notice of 2019 Annual Meeting
+and Proxy Statement
+6  | Sustainability Report 2019
+All Skyworks factory locations adhere to a 
+standardized process for setting targets and 
+internally reporting the corresponding results. 
+This process allows sites to regularly report 
+their progress during established management 
+reviews and consider corrective actions when 
+targets are missed. In addition, standardized 
+reporting enables Skyworks to evaluate its 
+performance globally and at any given factory 
+location.  Below is a look at our progress at the 
+company level over three years, considering 
+both gross values and efficiency rates, where 
+applicable. Where possible, our improvement 
+targets are set using efficiency rates which we 
+believe to be the best measure of our progress.  Water Management
+In 2019, Skyworks' factories used a combined 438,358,000 gallons of water (165,934 
+thousand cubic meters), 100% of which was sourced from municipal water suppliers. 
+Two of our factories reside in extremely high water stress1 areas, accounting for 
+approximately 50% of our total water usage worldwide.
+While our gross water usage has increased slightly year-over-year, our water use 
+efficiency (as measured by the volume of water used per unit of production) has steadily 
+improved (decreased). In 2019, we realized an 11% year-over-year improvement. As a 
+result, approximately 52.8 million gallons of water usage was averted --that's enough 
+water for approximately 480 households for one year3.
+Energy Management
+Skyworks evaluates its global energy usage as electricity and natural gas consumed. We 
+achieved a 4% year-over-year efficiency improvement resulting in approximately 15,900 
+megawatt hours in energy savings -- enough to power 1,475 homes' electricity use for 
+one year4. Improvements at Our Facilities
+Percent of Total Usage by Water Stress1  Category
+Factory2 Water Use and Efficiency
+Factory2 Energy Use and Efficiency
+2017 2018 2019
+Gallons / 1k Product Units Gallons  
+(in Millions)Extremely High 
+>80%Medium-High  
+20-40%Low-Medium  
+10-20%Low  
+<10%2017 2018 2019
+kWh / 1k Product Units kWh  
+(in Millions)50%402 431 438
+18%
+20%
+12%86
+69
+6267
+54
+52306337368Sustainability Report 2019  |  7Waste Management
+Hazardous Waste
+For this report, hazardous waste is defined as waste which is required to be handled and 
+managed as hazardous waste in the region in which it was generated. Accordingly, in 
+2019, Skyworks’ factory locations generated a total of approximately 5,197,000 pounds 
+(2,357 metric tons). 
+Increased factory activity in 2019 led to the generation of higher quantities of hazardous 
+waste, in comparison to 2017 and 2018. In 2019, there was a modest 2% year-over-year 
+waste generation rate increase. Since 2017, hazardous waste generation is down by 
+nearly 9% overall.
+Municipal Waste
+Skyworks' facilities have continued their implementation of local recycling practices  
+to reduce the overall municipal waste going to landfill. While the gross volume of waste 
+increased marginally in 2019 to a total of 6,880,000 pounds (3,125 metric tons), the 
+percentage of total municipal waste that went to landfill fell to 34% in 2019, down from 
+37% in 2017. CO2 Management
+Historically, Skyworks reported its Scope 1 direct CO2 emissions from our factory 
+locations. For 2019 we are expanding our reporting to include Scope 2 emissions (i.e. 
+off-site emissions from electricity consumption). In 2019, we saw a 12% year-over-
+year emissions rate reduction resulting in the avoidance of more than 19,000 tons of 
+CO2 equivalent emissions. Since 2017, our emissions rate has significantly improved 
+(decreased) by approximately 33%.
+Notes:
+1.  WRI Baseline Water Stress - Aqueduct 2019.
+2.  Manufacturing Facilities - Woburn, MA, Newbury Park, CA, Mexicali, MX, Japan (Kadoma and Osaka), 
+and Singapore.
+3.  Based on U.S. EPA WaterSense average of 300 gal per household per day.
+4.  Reference U.S. Energy Information Administration 2016 annual household energy use average of 
+10,766 kWh
+Factory2 Hazardous Waste Generation and Rate
+Factory2 Municipal Waste to Landfill
+Factory2 Scope 1 and 2 CO 2 Net Emissions
+2017 2018 2019
+Pounds per 1k  
+production unitsPounds  
+(in Millions)2017 2018 2019
+% of Municipal 
+Waste to LandfillPounds  
+(in Millions)2017 2018 20193.75.7139
+4.56.61415.2 6.9141
+0.80
+0.73
+0.7237
+34360.030
+0.0200.023
+Net Emissions Rate Tons / 
+1k Product UnitsMetric Tons  
+(in Thousands)8  | Sustainability Report 2019
+Understanding Our Global Supply Chain
+As a global organization, Skyworks designs, develops and manufactures products 
+around the world and is supported by an extensive supply chain network. Through these 
+partnerships, we have a unique opportunity to amplify the reach of our sustainability 
+programs and affect hundreds of facilities and thousands of employees. Our tier-one 
+supply chain spans 17 countries and multiple regions, with 20 subcontracted product 
+assembly facilities and 138 finished-goods materials suppliers. 
+Supply Chain
+Supplier Responsibility
+Skyworks partners with suppliers around the world to manufacture high-quality, low-
+cost products that meet our customers’ needs. Foundational to these partnerships 
+are supplier commitments to operate according to sustainable business practices. 
+Skyworks Supplier Sustainability Specification (found here: www.skyworksinc.com/
+SuppliersDownloads ) incorporates the RBA Code of Conduct which requires suppliers to 
+develop programs in conformance with these standards.
+Key Skyworks suppliers must undergo an onboarding process and periodic evaluation 
+during which supplier conformance is verified. That process consists of:
+1. Communication 
+Sustainability requirements are communicated to our suppliers via the 
+Supplier Sustainability Specification. Here, suppliers are informed of the 
+obligations that all qualified supply chain partners must meet.
+2. Qualification 
+Suppliers are closely evaluated and qualified based on a strict set of 
+criteria associated with product quality, performance, price, sustainability 
+programs and more.
+3. Identification
+Major suppliers are identified. These suppliers represent 80% of our 
+expenditures and include subcontractor assembly facilities and labor 
+agencies (i.e. recruiting companies).
+4. Risk Assessment 
+All major suppliers complete an industry standardized Self-Assessment 
+Questionnaire (SAQ) developed and implemented by the RBA. Risk rankings 
+are identified based on the SAQ scores.
+5. Audit  
+Supplier facilities that are ranked as high risk, in addition to any others 
+specifically requested by Skyworks, must complete an on-site industry 
+standard RBA Validated Audit Process (VAP). VAP is a third-party, risk-
+based audit process where suppliers are objectively evaluated and their 
+sustainability performance is scored.
+6. Continuous Improvement 
+Suppliers initiate corrective action plans (CAPs) for any issues identified in 
+the VAP. Skyworks collaborates with its suppliers in tracking the CAPs to 
+closure and provides further assistance at our supplier locations as needed.
+Sustainability Report 2019  |  9
+Supply Chain
+Responsible Minerals Sourcing
+Skyworks continues to operate a responsible minerals sourcing program, developed 
+to ensure our conformance to the SEC Conflict Minerals rule, as well as the 
+Organization for Economic Co-operation and Development (OECD) Due Diligence 
+Guidance for Responsible Supply Chains. Reporting year 2019 marks our fifth 
+consecutive year of declaring DRC Conflict-Free, a testament to the strength of our 
+supply chain outreach and due diligence efforts.
+Identified Smelters % RMAP Conformant
+Tantalum 37 100%
+Tin 44 100%
+Tungsten 40 100%
+Gold 101 100%
+Total 222 100%
+Throughout 2019, Skyworks remained an active and participating member of the 
+Responsible Minerals Initiative (RMI). Founded in 2008 by the members of the RBA 
+and the Global e-Sustainability Initiative, the RMI helps companies make informed 
+decisions on their supply chains. Skyworks utilizes the RMI’s flagship Responsible 
+Minerals Assurance Process (which provides independent, third-party smelter / 
+refiner audits) and works with our supply chain partners to drive towards a 100% 
+RMAP-audited and conformant supply chain.
+Five-Step Framework for Risk-Based Due Diligence in the Mineral Supply Chain
+Our Policy
+Skyworks is committed to the responsible sourcing of minerals. We have established 
+programs aligned with the internationally recognized OECD due diligence framework5 to 
+regularly evaluate our supply chain and require our suppliers to do the same. Suppliers 
+are prohibited from supplying Skyworks with materials known to be derived from the  
+Democratic Republic of the Congo (DRC)  or adjoining countries that have not been 
+confirmed as “DRC Conflict-Free” via a recognized and credible third-party process 
+such as the Responsible Minerals Initiative’s Responsible Minerals Assurance Process 
+(RMAP), the LBMA Good Delivery List, and/or the Chain of Custody (CoC) program from the 
+Responsible Jewellery Council (RJC).
+This policy along with current and past Conflict Minerals Reports are available to the 
+public on our external website at: www.skyworksinc.com/en/Sustainability .
+5.  “OECD due diligence framework” refers to the Organization for Economic Co-Operation and 
+Development’s guidance titled “OECD Due Diligence Guidance for Responsible Supply Chains of Minerals 
+from Conflict- Affected and High-Risk Areas.”
+Establish strong company management systems
+Identify and assess risk in the supply chain
+Design and implement a strategy to respond to identified 
+risks
+Carry out independent third-party audit of supply chain due  
+diligence at identified points in the supply chain
+Report on supply chain due diligence10  | Sustainability Report 2019
+The safety of our employees is of utmost importance. Skyworks is committed to 
+operating all facilities in a responsible manner and providing safe and healthy working 
+conditions. In keeping with this commitment, we maintain an Occupational Health and 
+Safety (OH&S) management system to ensure we consistently:
+•  Remain in compliance with all applicable safety and health regulatory requirements
+• Integrate safety considerations into strategic business decisions, engineering design, 
+procurement, facilities' management and production
+• Cultivate safety responsibility by employees at all organization levels
+• Promote continuous improvement of the OH&S management system and objectives
+Skyworks continues to drive key health and safety initiatives globally through a 
+management review process. The review process allows Skyworks to evaluate key 
+performance indicators of a management system, locally and globally, for their 
+continuing effectiveness. Further, it gives Skyworks the ability of ensuring programs 
+remain focused and on-track with established objectives and targets. Skyworks will 
+continue to leverage this approach to promote improvements across the organization 
+and create safe and healthy work environments. Health and Safety
+6. All Skyworks locations.
+Skyworks is Committed to Cultivating a Safe, Healthy and Productive Work Environment0.9
+20172017
+0.4
+201720170.8
+20182018
+0.3
+201820180.7
+20192019
+0.3
+20192019Total Cases per 200,000 Hours Worked6
+Lost Time Days per 200,000 Hours Worked6Lost Time Incident Rate (LTIR)Total Recordable Incident Rate (TRIR)Sustainability Report 2019  |  11At Skyworks, we strive for perfect quality while abiding by our principles of sustainable business practices. Our management systems manuals and policies are available to the public via 
+our website and are certified to internationally recognized standards for quality and environmental management, including ISO 9001 and 14001. Furthermore, our systems are designed 
+and operated in accordance with the RBA Code of Conduct. To learn more, the following resources are available online: Sustainability Systems Manual, ISO Certifications, and the RBA 
+Code of Conduct.
+In 2019, Skyworks continued its active membership in the RBA, which is a nonprofit coalition of electronics manufacturers and other affiliated companies committed to supporting 
+the rights and well-being of workers and communities worldwide who are affected by the global electronics supply chain. RBA members commit and are held accountable to a 
+common Code of Conduct and utilize a range of RBA training and assessment tools to support continuous improvement in the social, environmental, and ethical responsibilities 
+of their supply chains. Skyworks has been an active member of the RBA since 2011. A full list of members can be referenced by 
+visiting: www.responsiblebusiness.org/about/members .
+Skyworks also maintained its “full member” status within the RBA. "Full" members demonstrate the highest level of 
+commitment and accountability to the RBA Code of Conduct.
+Skyworks is dedicated to conducting business in compliance with both the 
+letter and the spirit of applicable laws, rules and regulations and consistent 
+with the highest standards of business ethics. Our sound business 
+principles and practices foster our strong commitment to ethical behavior, 
+accountability and transparency.
+We aim to lead by example—guided by good corporate governance and 
+principles as defined in our Code of Business Conduct and Ethics (the 
+"Code"). The Code outlines broad principles of ethical business conduct 
+embraced by Skyworks. In order to establish an effective ethics and 
+compliance program and to develop trust, employees must be able to raise 
+concerns without fear of retaliation. Our employees have a duty to report 
+any known or suspected violation of the Code, or of any rules or regulations 
+applicable to the Company. Employees are trained annually on the contents 
+of the Code. 
+The Code, along with other corporate governance information, is available 
+on our website: investors.skyworksinc.com/corporate-governance .Management Systems
+Ethics
+12  | Sustainability Report 2019
+Culture and Diversity
+Our greatest and most valuable resource is our people. Skyworks promotes inclusion 
+in the workplace and is proud that our employee population represents more than 
+70 nationalities worldwide. We make every effort to create a culture where everyone 
+feels welcomed, valued and respected —fostering an environment that is free of bias, 
+prejudice and harassment. We scrupulously adhere to all laws and regulations that 
+are applicable in the countries where we operate, as well as local, state, federal and 
+international child labor and safety laws. We do not employ anyone under the age of 
+18. In addition, Skyworks employees are provided high-quality benefits, compensation 
+packages, training, staffing and general human resources support. Our employment 
+programs and policies address the RBA Code elements of:
+• Freely Chosen Employment
+• Young Workers
+• Working Hours
+• Wages and BenefitsEmployees
+Working Hours
+Excessive working hours are associated with risks to employee health, safety and 
+work performance. Skyworks has programs to monitor and limit working hours at our 
+factories to <60 hours/week in accordance with the RBA standard. Days of rest are also 
+monitored so that employees get no less than one day off every seven days. Working-
+hour metrics for our factories are regularly reviewed with management. 
+In 2019, Skyworks achieved a greater-than 99% compliance rate for both the 
+<60-hour workweek standard and the day-of-rest standards for full-time, direct 
+employees. Additionally, Skyworks expanded its tracking and reporting of this data 
+to include on-site contractors.Talent Management
+As part of Skyworks’ long-term strategy to maintain high levels of workforce 
+engagement and our ability to attract and retain the best talent, we continue to increase 
+opportunities that impact both employee growth and development as well as employee 
+recognition and rewards. 
+Skyworks continues to strengthen its learning and development programs so that 
+employees have the training and tools to enhance performance, develop skills and foster 
+rewarding careers. Our global curriculum houses thousands of hours of live training 
+focused on professional growth, leadership development and compliance education. Pulse Survey
+As a follow up to our 2017 Employee Engagement Survey, we launched a brief company-
+wide “Pulse Survey” in April 2019.  The survey covered topics related to overall employee 
+engagement and sought feedback to gauge progress to date in relation to Growth and 
+Development and Recognition and Rewards, both of which were identified during the 
+2017 survey as areas for improvement.  2019 Pulse results indicated Skyworks is on par 
+with, or above, the global benchmark for both indices. 
+Skyworks Global Benchmark
+Growth and Development Index 66.4% 63.7%
+Recognition and Reward 61.4% 62.0%
+The following questions, which are part of these indices, show a positive trend in 
+favorability from 2017 and 2019.
+FavorableChange  
+since 2017
+I am satisfied with the training I receive for my present job 70.2% 3.0%
+My Manager supports my skill and career development 74.5% 0.8%
+When I do an excellent job, my accomplishments are 
+recognized62.0% 0.7%
+Additionally, 80.1% of employees recommend Skyworks as a good place to work, putting 
+Skyworks in the 80th percentile.
+Following the results, leaders across Skyworks updated and created action plans 
+detailing their engagement focus. Sixty-four percent of action plans are focused on 
+continuing improvement within these two indices.
+9,041 16,100 71 >99%
+total Skyworks  
+employeesrewards given to 
+employees via  
+recognition programnationalities compliance rate  
+to the ≤ 60 hour 
+ workweek standard
+Skyworks is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual 
+orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.• Humane Treatment
+• Non-Discrimination
+• Freedom of AssociationSustainability Report 2019  |  13
+STEM Workforce Diversity Top 50 Employers
+In 2019, Skyworks was named a Top 50 Employer by publication Workforce Diversity for Engineering & IT Professionals  in their 18th 
+annual ranking of U.S. firms. Based on the magazine's reader survey, the list recognizes the top companies who provide a positive work 
+environment for diverse groups and people with disabilities in the science, technology, engineering and math professions.
+Frederick County Office Top 50 Workplaces
+Skyworks was named one of the Top 50 Workplaces by the Frederick County Office of Economic Development (OED) in Maryland. Skyworks’ 
+RF Ceramics business unit is located in Adamstown, Maryland. 
+The winners were selected based on anonymous employee testimonials about the workplace experience, as well as the company's ability 
+to attract and retain top talent, benefits offered, professional growth opportunities and community involvement.
+CSO50 Award
+With cybersecurity a top priority at Skyworks, it’s no surprise that the company received the CSO50 Award recognizing the top 50 
+organizations (and their respective teams) for demonstrating outstanding business value and thought leadership in cybersecurity. The 
+panel of judges included security leaders, industry experts and academics who reviewed various initiatives based on a uniform set of 
+criteria to identify security excellence. 
+Commercial 5G Solution of the Year
+In 2019, our Sky5® platform was named winner of the "Commercial 5G Solution of the Year" by Mobile Breakthrough, a leading independent 
+market intelligence organization that recognizes top companies, technologies and products in the global wireless and mobile market. 
+Skyworks was chosen from more than 2,500 nominations representing companies from all around the world. Awards were evaluated by an 
+autonomous panel of senior-level Mobile professionals.
+IoT Breakthrough Awards
+Our SKY66430-11 Mobile IoT system-in-package was named “IoT Semiconductor Product of the Year” in 2019 by IoT Breakthrough. IoT 
+Breakthrough is an independent organization that recognizes the top companies, technologies and products in the global IoT market.  
+Skyworks was selected from more than 3,500 nominations representing companies all over the world and awards were evaluated by an 
+autonomous panel of experienced IoT professionals.
+Supplier Recognition
+Skyworks has received numerous supplier awards from customers over the past decade. In 2019, Skyworks was named “Best Strategic 
+Partner” by Xiaomi for supplying advanced front-end solutions. ZTE also awarded Skyworks as a “Global Excellent Partner” in 2019 for 
+providing the best technology, service and supply.
+Recognition / Awards
+2019IoT
+Breakthrough  
+Awar d
+14  | Sustainability Report 2019With employees around the globe, Skyworks calls many countries " home". Our employees support projects relevant to local efforts and are committed to investing their time, expertise 
+and resources to help develop and maintain vibrant, sustainable local communities. Skyworks and its employees are proud to be members of the global community, lending a helping 
+hand where possible.Stewardship
+Skyworks Supports Holiday Toy Drives
+Skyworks employees in Mexicali collected a record 
+number of donations for their tenth annual Food and 
+Toy Drive which helps the less fortunate in surrounding 
+areas. In 2019 more than 1,800 food baskets, 1,140 
+toys and 690 blankets were collected, benefiting 
+24 communities and 12 institutions. More than 200 
+employees and family members volunteered to pack, 
+transport and deliver the goods to the areas of the 
+city where they were most needed, including several 
+shelters, foster homes and nursing care facilities.
+CASA Toy Drive in Irvine, CA
+Employees donated toys and gift cards for children 
+in need at Court Appointed Special Advocates, a non-
+profit organization committed to improving the lives 
+of children in the foster care system in Orange County 
+through quality mentoring and advocacy services. The 
+children were presented these gifts at their holiday 
+party where more than 250 children took photos with 
+Santa, danced, played games, mingled with friends, 
+and enjoyed great food.
+Employees Support Toy Drive for Jamie’s Joy
+Skyworks employees from Andover and Woburn joined 
+efforts to participate in Jamie's Joy -- a local charity 
+which helps Woburn families in need. With a generous 
+spirit, employees donated toys, clothing and books -- 
+fulfilling 150 childrens' holiday wishes.
+Skyworks Donates to Cedar Rapids' Non-Profit
+Sleep in Heavenly Peace is a U.S. non-profit 
+organization that strives to help children in need 
+sleep better. With contributions from individuals, 
+businesses and organizations, a group of dedicated 
+volunteers with the Cedar Rapids' chapter of the 
+organization helped to build, assemble and deliver 
+bunk beds to low-income children and families. 
+Cedar Rapids Participates in Bowling Charity
+A team of employees participated in the Big Brothers 
+Big Sisters “Bowl for Kids' Sake” event. The annual 
+fundraiser benefits at-risk youth and helps them reach 
+their potential through a mentoring program where 
+they are paired with a caring Big Brother or Big Sister.Skyworks Donates to Breast Cancer Research
+Skyworks donated funds to The Angela Andrade 
+Foundation, a non-profit organization that aims 
+to improve the quality of life of metastatic breast 
+cancer patients and support their caregivers 
+and families. The foundation has given grants to 
+35 women since 2015. Grants have contributed 
+to medical bills, mortgage payments, and 
+dependent tuition, providing financial aid during 
+difficult times. 
+ 
+Mexicali Holds Fourth Annual Run and Bike Ride Event
+Skyworks’ Mexicali facility hosted its fourth annual run 
+and bike event to promote health and wellness among 
+employees and their families. The event embodies the 
+“Vive Bien” (or “Live Healthy”) theme, which in addition 
+to the races, consisted of exhibits with information about 
+fitness and nutrition, staying healthy and bicycle safety. 
+Approximately 500 employees plus their family members 
+participated in the 2K and 5K run, as well as 2K bike ride. Sustainability Report 2019  |  15Adamstown Supports "Stuff the Bus" Campaign
+Employees participated in the "Stuff the Bus" 
+campaign organized by United Way of Frederick 
+County. The annual school-supplies donation 
+drive helps K-12 students experiencing hardship 
+or homelessness by providing them with basic 
+classroom necessities. Now in its tenth year, the 
+community-wide effort supports more than 7,500 
+students across the county. These contributions not 
+only enable a positive start to a school year, but also 
+promote learning, build self-esteem and help ensure 
+that our youth stay in school.
+ 
+Skyworks Sponsors Bike Race Benefiting MS Research
+Employees from Skyworks’ Woburn and Andover 
+offices along with their families participated in a cycling 
+fundraiser to benefit the National MS Society — a non-
+profit organization that funds research and advocates 
+for individuals with multiple sclerosis. Skyworks’ team 
+of riders participated in either a one-day 75-mile or 
+two-day 150-mile ride.
+Skyworks' National Intern Day Luncheon Appreciation
+As part of National Intern Day, luncheon events were 
+held to recognize our interns, who are recognized 
+as valuable contributors to the Skyworks team. Our 
+interns work alongside our talented teams and gain 
+real-world experience while simultaneously completing 
+their university studies. In 2019, Skyworks had more 
+than 85 students participate in our University Relations 
+program. The interns worked across ten business units 
+and 11 sites.
+Skyworks Sponsors Engineering Summer Camps and 
+Mentoring Programs 
+The University of Massachusetts Lowell holds two 
+summer camps,  Engineering a Connected World  and a 
+womens' Engineering for Sustainability  camp, for juniors 
+and seniors in high school. The camps provide a fully 
+immersive, week-long experience that includes guest 
+lectures and visits to local companies to observe real-
+world engineering projects in progress.
+Skyworks also sponsored the university's Research, 
+Academics and Mentoring Pathways (RAMP), a 
+jumpstart program which supports incoming female 
+students who have been accepted into the College 
+of Engineering. The program is designed to engage 
+students and provide them with a strong foundation 
+prior to beginning their first semester in college. 
+The program focuses on building skills including 
+programming, technical writing, and critical thinking 
+to help bridge the gap for key STEM skills. In addition 
+to receiving lab and classroom training, students meet 
+with advisors and mentors and have the opportunity to 
+consider research programs as an undergraduate.
+Japan Participates in Earth Day Events
+Employees in Osaka, Japan participated in a cleanup 
+effort organized by the city. Skyworks' volunteers 
+filled several bags with trash and debris collected 
+in the areas surrounding Skyworks' facility and 
+neighboring streets. This effort marks the 44th 
+environmental-cleanup activity our Osaka facility 
+employees have contributed to in the last five years.Skyworks Sponsors Astounding Inventions Fair   
+Now in its 32nd year, the Astounding Inventions 
+Fair sparks creativity and interest in children in 
+the fields of science, technology, engineering 
+and math. The event featured 350 inventions 
+created by kindergarten through eighth-grade age 
+students from Orange County, CA school districts 
+who competed for prizes and an opportunity to 
+patent their innovations. 
+One of Skyworks' engineers served as a judge at 
+the competition where inventions ranged from a 
+highway wind farm, to a pollution catcher, smart 
+watering system, double-drink thermos and more!
+Skyworks Supports Skills Gap Initiative  
+Skyworks contributed to the University of California 
+Irvine Foundation in support of the School of 
+Engineering's "Closing the Skills Gap" initiative.
+The program supports students with their future career 
+opportunities and professional advancement by sharing 
+development plans and conducting on-site workforce-
+readiness training. Students are offered career plans 
+based on their interests, guidance on building their 
+professional networks, information on how to secure 
+internships and to seek out potential job prospects, 
+as well as soft-skills training in time management, 
+effective workplace communication, and managing 
+one's social media presence.  SingaporeShenzhen
+Hong KongTaipeiShanghaiBeijingSeoul Gyeonggi-do  
+Tokyo
+OsakaGreensboroBishop’s StortfordHelsinki
+Paris Cedar 
+RapidsOttawa
+Andover
+Woburn
+MexicaliIrvine
+Newbury ParkSan JoseHillsboroMilpitas
+Sales Offices
+Design Centers
+ManufacturingAdamstownCork
+USA: 949-231-3000 • Asia: 886-2-2735 0399 • Europe: 33 (0)1 43548540 • BRO398-19A   
+Skyworks Solutions, Inc. • Nasdaq: SWKS  • www.skyworksinc.com • sales@skyworksinc.com

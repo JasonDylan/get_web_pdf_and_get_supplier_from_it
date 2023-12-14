@@ -1,0 +1,1371 @@
+CONTENTS
+2 CHAIRMAN’S STATEMENT
+5 ABOUT CHINA TELECOM
+5 Company Profile
+5 Company Strategy
+6Executive Directors and Management 
+of the Company
+7 Shareholding Structure
+7 Organisational Structure
+8THE STATEMENT OF THE BOARD 
+OF DIRECTORS
+60 RESPONSIBILITY MANAGEMENT
+62 Management Structure
+63 Reporting Scope
+63 Reporting Principles
+63 Communications with Stakeholders
+66 Analysis of Material Issues
+68 TABLE OF THE INDICATORS
+74INDEPENDENT PRACTITIONER’S 
+ASSURANCE REPORT
+77 INDEX36 REFINING ACTIONS TO PROMOTE 
+GREEN DEVELOPMENT ON ALL FRONTS
+38 Practicing Green Operation
+42 Empowering Green Development
+43 Addressing and Mitigating Climate 
+Change
+44 Promoting Responsible Supply Chain20 OPTIMISING SERVICES AND CREATING 
+A BETTER LIFE TOGETHER
+22 Enjoying Digital Life
+25 Empowering Digital Transformation
+29 Supporting Rural Revitalisation
+31 Providing Heartfelt Services to 
+Customers
+34 Promoting Social Welfare10 REINFORCING INNOVATION TO 
+CONSOLIDATE THE BASE OF THE DIGITAL ECONOMY
+12 Accelerating the Construction of New 
+Infrastructure
+15 Maintaining Network and Information 
+Security
+17 Strengthening Sci-Tech Innovation
+46 DEEPENING REFORM AND ENHANCING 
+CORPORATE GOVERNANCE CAPABILITY
+48 Motivating Vitality Through Reform
+50 Caring for Employees
+57 Strengthening Compliance 
+ManagementCHAIRMAN’S STATEMENT
+2China Telecom Corporation LimitedIn 2021, the great changes of the world unseen in a century have accelerated its evolution, while the new round 
+of technological revolution and industrial transformation sped up its development. Meanwhile, the wave of digitalisation has swept the world and the Covid-19 Epidemic has further expedited the process of these changes in trend. The new generation information and communications technologies have been increasingly permeated into all parts and the whole process of the economy and society, ushering the society towards an intelligent and digital age. Seizing the rare development opportunities, China Telecom implemented its “Cloudification and Digital Transformation” strategy, strengthened sci-tech innovation, upgraded its products and services, promoted green development and enhanced corporate governance, with an aim to inject intelligence and energy into the sustainable development of the economy and society.
+Ke Ruiwen
+Chairman and Chief Executive Officer33  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Chairman’s Statement
+Reinforcing innovation to consolidate the base of the digital economy.  We adhered to driving development 
+through sci-tech innovation, and enhanced the layout of the research and development (R&D) system, promoted independent control of core technologies, expedited the transformation of sci-tech achievements. We continued to build intelligent integrated digital information infrastructure that is “high-speed and ubiquitous, aerial-ground in one, cloud-network integrated, intelligent and agile, green and low-carbon, secure and controllable” and built the world’s largest 5G SA co-built and co-shared network, with approximately 690,000 5G base stations in use, and the 5G network covering all cities and counties and certain developed towns across the country. We implemented the all-fibre network upgrade plan and built a new metropolitan network, with the gigabit network covering 160 million residential homes. With the cloud as the core, we made every effort to promote “East-to-West Computing Resource Transfer” and formed the “2+4+31+X+O” resource layout, and built the largest telco-operated cloud in the world. We also consolidated the security foundation of information infrastructure, provided intelligent security services, and built a network security ecosystem.
+Optimising services and creating a better life together.  We adhered to the “customer-oriented” principle, 
+expanded our portfolio of scene-based integrated intelligent information services, strived to upgrade digital entertainment and digital family businesses, vigorously promoted the construction of Smart Communities and Digital Villages, and continued to enrich the digital life services. We strengthened the innovative application of digital information technology to empower thousands of industries, creating more than 200 use cases, on 5G + smart city, 5G + smart manufacturing, 5G + smart healthcare, and so on. We supported more than 1,400 support points to consolidate and expand the achievements of poverty alleviation and effective connection with rural revitalisation, and continued to promote universal service, for which we were awarded with “Advanced Group for Poverty Alleviation” and other national-level honors. We continuously strengthened service awareness, carried out in-depth activities to solve difficult problems for customers, narrowed the “digital divide” of the elderly, enhanced intelligent service capabilities, and earnestly built the reputation and  
+image that “China Telecom is trustworthy”. We were keen to contribute to social welfare, and we encouraged employees to carry forward the spirit of volunteerism to participate in various forms of volunteer service activities. We have built over  
+6,000 “Caring Stations” to provide warm public welfare services.
+Refining actions to promote green development on all fronts.  Adhering to the ideals of green development, 
+we put into action the fulfilling of the national “Dual Carbon” goals and green and low-carbon requirements of the industry, by releasing the “1236” action plan for carbon dioxide peaking and carbon neutrality, integrating the green ideals and green capacities into the “Cloudification and Digital Transformation” strategy, to implement comprehensive policies to promote green development. We actively implemented green operation, carried out energy conservation and emission reduction throughout the whole process of production and operation, continuously promoted the co-building and co-sharing of 4/5G base stations, by which carbon dioxide emissions were reduced by more than 6 million tons per year. We carried out energy conservation and emission reduction through network architecture optimisation, cloud-network integration deployment, construction model innovation, new technology application, AI empowerment and other means, by which the overall energy consumption per unit of information flow decreased by 8.3% as compared with the last year. We continuously empowered the green development of economy and society, developed solutions for smart production and intelligent services, with an aim to reduce energy consumption and carbon emissions. We actively built a green supply chain, incorporated green and low-carbon criteria into the supplier assessment system, carried out cost management throughout the life cycle of the supply chain, and increased the deployment and usage of energy-saving and low-carbon products, promoted green production, green packaging and green warehousing and logistics of suppliers, to support low-carbon production and green life.4China Telecom Corporation LimitedChairman’s Statement
+Deepening reform and enhancing corporate governance capability.  We fully implemented the three-year 
+action for the reform of state-owned enterprises, established a market-oriented incentive mechanism, achieved leading cadres can be promoted or demoted, compensation can be raised or reduced as well as employees can be hired or let go, with an aim to stimulate employees’ vitality for pursuing innovation and development. We continued to deepen reforms in areas such as cloud and industrial digitalisation, and enhance the modernisation level of corporate governance systems and capabilities. Implementing the people-oriented philosophy, we cared deeply for employees by protecting their rights and interests in accordance with the law, focusing on building harmonious labor relations, encouraging employees to participate in management, and helping them enhance their competence, thus realising the concurrent growth of employees and the Company. We continued to enhance compliance management, cultivate a compliance-based culture, carried out education on integrity, discipline and law, conscientiously developed integrity systems and conducted anti-corruption work, prevented and resolved significant risks, focused on enhancing the ability and quality of corporate governance according to the law, so as to continuously consolidate the foundation for high-quality development of the Company.
+In the future, China Telecom will seize the precious opportunity of the development of the digital economy, adhere 
+to its original aspiration and mission, step up our undertaking of responsibilities, fully implement the “Cloudification and Digital Transformation” strategy, accelerate digital transformation, strive to build a service-oriented, technology-oriented and secured enterprise, to continuously meet the people’s growing needs for a better life, and to make greater contributions to the sustainable development of economy and society.
+Ke Ruiwen
+Chairman and Chief Executive Officer
+Beijing, China
+March 2022ABOUT CHINA TELECOM
+55 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021COMPANY PROFILE
+China Telecom Corporation Limited (“China Telecom” or the “Company”) is a leading large-scale full-service, 
+integrated intelligent information services operator in the world, providing wireline & mobile telecommunications services, Internet access services, information services and other value-added telecommunications services primarily in the PRC.
+As a leading large-scale full-service, integrated intelligent information services operator, China Telecom actively 
+embraces the opportunities of digital transformation by cultivating customer needs and use cases, fully implementing the “Cloudification and Digital Transformation” strategy, building new information infrastructure based on cloud-network integration, operation support system and sci-tech innovation core strength with 5G and cloud as the core, deepening the reform of systems and mechanisms, and creating differentiated advantages through innovation and convergence. China Telecom is committed to providing flexible and diversified, converged and convenient integrated intelligent information services with quality experience, security and reliability for individual (To C), household (To H), and  
+government/enterprise (To B/G) customers.
+COMPANY STRATEGY
+Adhering to the mission and vision of “Becoming the main force for building Cyberpower, Digital China and 
+maintaining network and information security” and “becoming a leading integrated intelligent information service operator”, China Telecom comprehensively implements the “Cloudification and Digital Transformation” strategy. With a customer-oriented mindset, China Telecom strengthens the core capabilities of sci-tech innovation, speeds up the construction of new information infrastructure based on cloud-network integration, greenness and security. It consolidates the foundation of green development and network and information security, builds a digitalised platform hub, creates a win-win cooperation ecosystem, deepens the system and mechanism reform, and makes every effort to build a service-oriented, technology-oriented and secured enterprise, to strive to become a world’s first-class enterprise.Company Profile and Company Strategy
+Customer-orientedSci-tech innovation 
+as the core
+New technologies, products, business forms and models
+Digitalised platform as the hubInternal and external digitalisationCloud-network 
+integration as the foundationNetwork around, Cloud central, Network adaptive to cloud, Cloud and network as one
+Ecological 
+cooperation as the keyCapital, platform and turnkey cooperation
+System and 
+mechanism reform as the driverOrganisational layout, corporate governance, human resources, and incentive mechanismsGreen and security 
+as the supportGreen and low-carbon, network and information security6China Telecom Corporation LimitedAbout China Telecom
+Executive Directors and Management of the Company
+Li Zhengmao
+Executive Director, President 
+and Chief Operating Officer
+Liu Guiqing
+Executive Director and Executive Vice PresidentShao Guanglu
+Executive DirectorTang Ke
+Executive Director andExecutive Vice PresidentKe Ruiwen
+Executive Director, Chairman and Chief Executive Officer
+77 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021About China Telecom
+Shareholding Structure and Organisational Structure
+China Telecommunications 
+Corporation
+Guangdong Rising Holdings 
+Group Co., Ltd.
+Zhejiang Provincial Financial 
+Development Co., Ltd.
+Fujian Investment & 
+Development Group Co., Ltd
+Jiangsu Guoxin Group Limited
+OthersA Shares 84.83%63.20%
+6.14%
+2.34%
+1.06%
+1.05%
+11.04%H Shares 15.17%
+China Telecom Corporation Limited
+Data as of 31 December 2021
+Shareholders’ 
+Meeting
+Supervisory 
+Committee
+Nomination 
+CommitteeRemuneration 
+CommitteeAudit Committee
+President
+Executive Vice 
+President
+Major branches Headquarters Major branches and subsidiaries
+China Telecom Research InstitutesChina Telecommunications InstituteValue-Added Service Operation CentreProcurement Department Omni-Channel Operation CentreEnterprise Information Services Business Group
+China Telecom Global Limited
+China Telecom Best Tone Information 
+Service Co., Ltd.
+Tianyi Telecom Terminals Company Limited
+E-surfing Digital Life Technology Co., Ltd. 
+E-surfing Internet of Things Technology Co., Ltd.Chairman and 
+Chief Executive 
+OfficerBoard of Directors
+China Telecom Group Finance Co., Ltd.E-Surfing Security Technology Co., Ltd. China Telecom Cloud Technology Co., Ltd.China Telecom System Integration Co., Ltd.Tianyi Capital Holding Co., Ltd.China Telecom branches in provinces, 
+autonomous regions and municipalities (31)ORGANISATIONAL STRUCTURESHAREHOLDING STRUCTURETHE STATEMENT OF THE BOARD OF DIRECTORS
+8China Telecom Corporation LimitedThe Board of China Telecom oversees environmental, social and governance (ESG) matters with the assistance of the 
+Audit Committee. The Company has established a dedicated internal working group and authorised the working group to be responsible for implementation of the Company’s environmental, social and governance strategies, promote the ESG performance management, information disclosure and related fundamental work, regularly report to the Audit Committee on the revision, information collection and monitoring of the Company’s ESG indicator system, and make recommendations in this regard.
+The Board of the Company is responsible for formulating the Company’s ESG management policies and strategies, 
+including evaluating, prioritising and managing the Company’s ESG-related matters, to ensure that the Company has established an effective ESG risk management and internal control system. By regularly listening to the Company’s reports on ESG-related work, reviewing the Company’s performance, providing the management and internal working group opinions on optimising ESG matters (such as the Company’s ESG indicator system, key performance indicators, etc.), and reviewing the disclosures of the Company’s ESG report, the Board and the Audit Committee ensure the continuous enhancement of the Company’s performance in ESG aspects.
+The Board of the Company has participated in the assessment, prioritisation and management of ESG-related issues, 
+including risks of the Company’s business. During the Reporting Period, the Board reviewed the Company’s original ESG indicator system and the level of completion of key performance indicators, considered the working group’s suggestions on the adjustment of various original indicators in accordance with the relevant requirements of the Listing Rules of the Hong Kong Stock Exchange, and finally approved the 2021 version of the ESG indicator system and the disclosure plan of key performance indicators. The Board attaches great importance to risk management and has incorporated key ESG risks into the Company’s comprehensive risk management system. The Company regularly keeps track of negative indicators and leverages risk assessment, risk process management and control, and response to risk incidents to promote comprehensive risk management and control covering all processes and all employees. The Board has reviewed various negative indicators, noted relevant management measures adopted by the Company and made recommendations on effectiveness of the management measures.99  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021The Statement of the Board of Directors
+With reference to United Nations Sustainable Development Goals (SDGs) and the Global Reporting Initiative (GRI), the 
+Company has evaluated important ESG issues related to the Company’s business operations from two dimensions, i.e. the degree of concern of stakeholders and the degree of impact of such issues on the Company’s business operations based on the characteristics of the industry in which it operates, and set ESG-related goals relevant to business operations. The Board has reviewed and discussed the selected material topics, the establishment and progress of ESG-related goals.
+This report has strictly complied with relevant requirements of the ESG Reporting Guide set out in Appendix 27 to the 
+Listing Rules of the Hong Kong Stock Exchange. Please refer to the index of this report for the compliance of the relevant reporting guide.
+This report has been reviewed and approved for publication by the Board.10 China Telecom Corporation LimitedREINFORCING INNOVATION
+50$0/40-*%"5&5)&#"4&0'
+5)&%*(*5"-&$0/0.:1111  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021China Telecom takes sci-tech self-reliance 
+as strategic support for the Company’s growth, and accelerates the construction of intelligent integrated digital information infrastructure that is “high-speed and ubiquitous, aerial-ground in one, cloud-network integrated, intelligent and agile, green and low-carbon, secure and controllable”.REINFORCING INNOVATION TO CONSOLIDATE 
+THE BASE OF THE DIGITAL ECONOMY12 China Telecom Corporation LimitedReinforcing Innovation to Consolidate the Base of the Digital Economy
+ACCELERATING THE CONSTRUCTION OF NEW INFRASTRUCTURE
+China Telecom adheres to the cloud-network integration development direction of “Network around, Cloud central, 
+Network adaptive to cloud, Cloud and network as one”. With the key attributes of “security and controllability” and “green and low-carbon”, China Telecom actively builds digital information infrastructure and continuously consolidates the foundation of digital economic development.
+Adhering to network around
+Thoroughly implementing new development philosophy, the Company carried out 5G network co-building and co-
+sharing with China Unicom across the country, and accelerated the construction of 5G network capabilities. The number of 5G base stations in use reached approximately 690,000, with the 5G network covering all cities and counties and certain developed towns across the country, resulting in the world’s largest 5G SA co-building and co-sharing network. China Telecom constructed a 320,000-kilometre four-region, six-axle, eight-hub multi-channel optical cable network artery. CN2-DCI (multi-service carrying network) and OTN (optical transmission network) for government and enterprises cover all eight hub nodes and datacentres in major cities across the country. The backbone network bandwidth exceeds 300Tbps. The Company implemented the all-fibre network upgrade plan, and completed the ROADM (Reconfigurable Optical Add/Drop Multiplexer) all-fibre transmission network covering the whole country with the world’s largest capacity. The Company expanded deployment of the new metropolitan network to 17 provinces across the country around business development. It strengthened gigabit-led strategy and 300Mbps popularisation, and newly built 1.47 million 10G PON (Passive Optical Network) ports, with the gigabit network covering 160 million households. The traffic cleaning capacity of Cloud Dam exceeds 5Tbps, and the security capability pool covers more than 50 nodes in key cities across the nation, which continuously enhanced the intelligent network operation capability and operational efficiency.
+Hefei branch has completed full coverage of 5G signal in the city’s subways
+In late 2021, Hefei branch successfully completed 5G communications system renovation projects on Hefei Metro Lines 1, 
+2, and 3. Following the 5G coverage of Metro Lines 5 and 4, Hefei branch enabled full coverage of 5G signals in the subways in Hefei.
+1313 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Reinforcing Innovation to Consolidate the Base of the Digital Economy
+Shanghai branch took the lead in launching 
+2000Mbps home broadband
+On 22 November 2021, Shanghai branch officially 
+launched a 2000Mbps home broadband package, bringing users a high-quality experience such as millisecond-level network latency and ultra-gigabit high bandwidth.
+Adhering to cloud central
+The Company proactively positions itself as the source of original cloud computing technology, continues to 
+strengthen the construction and deployment of cloud, and enhances problem-tackling efforts in the key core technologies of cloud computing. It can provide customers with full-stack cloud services such as public cloud, private cloud, dedicated cloud, hybrid cloud, and edge cloud, and built the largest telco-operated cloud in the world. In November 2021, China Telecom released e-Surfing Cloud 4.0, which is distributed, independent, controllable, secure and trustworthy.
+Fully leveraging the edge in cloud-network resources, the Company continuously optimises the “2+4+31+X+O” 
+cloud resources and datacentre layout around China’s “East-to-West Computing Resource Transfer” initiative and the project for an integrated big data centre. The Company has more than 700 IDC sites, over 6,000 edge facility rooms and over 50,000 integrated access offices, and has built a distributed cloud with more than 250 cloud resource pool nodes and 430 edge cloud nodes covering 270 cities in 31 provinces. The total scale of computer power reaches 2.1EFLOPS.
+Official launching of the first phase of China 
+Telecom Beijing-Tianjin-Hebei Big Data Intelligent Computing Power Centre
+The China Telecom Beijing-Tianjin-Hebei Big Data 
+Intelligent Computing Power Centre project covers an area of 246 acres, with a planned total gross floor area of 372,000 square metres and a total investment of approximately RMB10.2 billion. The first phase of the project was officially launched at the end of 2021.14 China Telecom Corporation LimitedReinforcing Innovation to Consolidate the Base of the Digital Economy
+China Telecom launched e-Surfing Cloud 4.0
+On 12 November 2021, the e-Surfing Cloud Forum of the 
+2021 International Digital Technology Exhibition cum e-Surfing Intelligent Ecology Expo was held in Guangzhou. At the expo, China Telecom launched a fully upgraded e-Surfing Cloud 4.0, featuring polymorphism, multiple chip architectures in one cloud, one layer of cloud and network, unified bottom architecture, centralised coordination and maintenance. Meanwhile, the upgrading of products and technologies has brought an overall enhancement in computing power, storage, and network of the e-Surfing Cloud, enabling the cloud migration of social management, public services, ecological environment and other industries leveraging “5G + industry cloud + AI”, helping the digital transformation of thousands of industries.
+Adhering to network adaptive to cloud, cloud and network as one
+In accordance with the three principles of network resources allocation as required by cloud, network configuration 
+adaptive to cloud, network and cloud deployed as one, the Company actively promoted network cloudification, and achieved “network deployment following cloud” and one-stop service acceptance. The cloud-network POP (network service provision point) is built adaptive to cloud to achieve simultaneous launch of the standardisation and modularisation of cloud-network capabilities. The backbone core nodes in Beijing-Tianjin-Hebei, Yangtze River Delta, Guangdong-Hong Kong-Macau, Guizhou and other regions are migrated to large-scale parks, and key parks are enabled with direct access to the backbone network. With new metropolitan network pilot, large-capacity CUPS vBRAS is deployed in Shanghai, Jiangsu, and Zhejiang, where the control plane of service access equipment became cloud-based and the forwarding plane became pool-based to achieve centralised service management and network efficiency enhancement. The Company completed the industry’s first 5GC (5G core network) three-layer decoupling pilot based on its proprietary CT cloud deployment in Shanghai and Sichuan. As cloud-based deployment of traditional network was being promoted, the mastery of cloud-network core technology was also significantly enhanced.
+Chengdu branch commenced the operation of the first MEC intelligent edge datacentre in China
+In 2021, the first MEC intelligent edge datacentre in 
+China independently built by Chengdu branch was put into operation in the Future Medical City, Eastern New District, Chengdu and the network edge sank to the user park synchronously with cloud to realise the localisation of business application data with low latency, so as to enhance the network experience of users.1515 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Reinforcing Innovation to Consolidate the Base of the Digital Economy
+Sichuan branch completed the pilot deployment 
+of 5GC three-layer decoupling
+Based on the proprietary CT cloud resource pool, 
+Sichuan branch completed the cloud deployment of 5GC network elements, realising agile and elastic expansion of the 5G core network, which effectively enhanced resource utilisation efficiency.
+MAINTAINING NETWORK AND INFORMATION SECURITY
+China Telecom has always been at the forefront of network development and security. With the vision of 
+“safeguarding network security and providing first-class services”, it consolidates the security foundation of information infrastructure, enhances intelligent security services and builds a network security ecology.
+Maintaining the security of network and information
+In compliance with the Cybersecurity Law of the People’s Republic of China  and other laws and regulations, the 
+Company conscientiously implements relevant requirements of the Ministry of Industry and Information Technology, the Ministry of Public Security and other ministries and commissions on network and information security, and cooperates with government departments to combat network crime and other work.
+The Company continued to increase investment in the research and development of security technologies in 
+cloud-network, quantum, and others. It plans to build a security core with architectural and logical unity, thus increasing cloud-network security protection capabilities. The Company actively expands the industry-leading portfolio of products and services such as DDoS attack protection, e-Surfing Security Brain, Graded Protection Assistant, Trusted Communications, and Internet Fraud Prevention.
+China Telecom released “Security Brain” service
+China Telecom e-Surfing Security Brain provides 
+standardised security services such as traffic control, intrusion prevention, attack blocking, virus detection and removal, and online behavior auditing, which would help government and enterprise customers to build a cloud-network-terminal coordinated protection system, i.e. cloud-side operation analysis, edge-side threat blocking, and terminal-side personal protection.16 China Telecom Corporation LimitedReinforcing Innovation to Consolidate the Base of the Digital Economy
+Maintaining smooth communications
+The Company faithfully fulfills its mission of ensuring secured and smooth communications, with coordinated efforts 
+on the normalised prevention and control of Covid-19 Epidemic. It makes every effort to fight against natural disasters such as earthquakes, typhoons, floods and landslides and provides communications assurance of major activities. China Telecom provided disaster relief and communications assurance against floods and typhoons in Henan, Zhejiang, Shanxi, Fujian, Hubei, Shaanxi, Guizhou and other provinces. The Company focuses on key regions and coordinates the whole network, and conducts online and offline coordination and put equal effort on communications assurance and Epidemic prevention. Communications assurance work for 8 major events including the Shanghai International Import Expo, the Boao Forum for Asia and the 14th National Games was successfully completed. In 2021, more than 670,000 personnel, 180,000 vehicles, and 110,000 sets of communications equipment were dispatched for emergency communications.
+All-out effort on communications assurance by Xiamen branch for the prevention and control of the Epidemic in Xiamen
+In July 2021, an overseas import-related Covid-19 
+infection case occurred in Xiamen City. Xiamen branch quickly established a service assurance team to actively connect with the city’s big datacentre and district health bureaus, assuring communications for the nucleic acid diagnostic of all people in the city.
+Shanghai branch assisted the successful 
+convening of the 4th CIIE
+On 10 November 2021, the 4th China International 
+Import Expo (“CIIE”) concluded in Shanghai. From 5G communications assurance to digital network escort, Shanghai branch once again participated in the CIIE with various 5G innovative applications.1717 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Reinforcing Innovation to Consolidate the Base of the Digital Economy
+China Telecom supported “In-Fa” typhoon 
+rescue and disaster relief through cross-regional coordination
+In 2021, Typhoon No. 6 “In-Fa” came furiously and 
+severely affected Zhejiang Province. Soon after the disaster happened, China Telecom launched a cross-regional emergency communications assurance plan, in which it organised Guangdong branch’s backbone team of the air emergency communications platform, taking 17 hours of non-stop overnight travel. By using the air emergency communications platform, the team provided the Ningbo emergency command centre and the surrounding victims with an air emergency communications network consisting of high-throughput satellite routing networks, supporting disaster relief.
+Henan branch made every effort to assure 
+smooth communications in heavy rain
+In July 2021, wide-area extreme heavy rainfall occurred 
+in many places of Henan. Henan branch overcame difficulties 
+such as the shortage of communications equipment and 
+materials, and immediately established a flood prevention and rescue team to transport communications materials to the frontline of disaster relief as soon as possible. It made every effort to repair facility rooms and base stations for sound communications and ensure unimpeded communications for people.
+STRENGTHENING SCI-TECH INNOVATION
+China Telecom attaches great importance to the key role of sci-tech innovation in promoting high-quality 
+development of the economy, society and enterprise. It regards the self-reliance and self-enhancement of sci-tech as the strategic support for enterprise development, and focuses on four major R&D directions, namely forward-looking research, cloud-network integration, network and information security and digitalised platform. Systematically, China Telecom promotes sci-tech innovation in aspects such as strengthening the layout of sci-tech innovation system (RDO), independent control of core technologies, increasing and optimising innovation achievements, enhancing the building of sci-tech talent team, deepening the innovation of systems and mechanisms, and promoting the construction of R&D ecology, as substantial steps towards the goal of “becoming a technology-oriented enterprise that independently controls key core technologies and becoming first-tier national sci-tech innovation enterprises”.18 China Telecom Corporation LimitedReinforcing Innovation to Consolidate the Base of the Digital Economy
+Strengthening independent sci-tech innovation
+The Company strengthens the strategic supporting role of sci-tech innovation to the enterprise, and continues 
+to enhance the transformation of sci-tech achievements and strives to expand its influence in the industry. More than 220,000 units of the proprietary 5G frequency-shifting MIMO (Multiple-Input Multiple-Output Technology) indoor distribution systems have been deployed in 31 provinces, representing a decrease of approximately 55% in the comprehensive energy consumption per unit area as compared with that of the digital indoor distribution systems. The proprietary lightweight UPF (User Plane Functions) is the first in the world to complete N4 interface open verification, and has been included in the first batch of the  “Recommended List for Sci-tech Innovation Achievements of Central 
+Enterprises”  issued by State-owned Assets Supervision and Administration Commission (“SASAC”) of the State Council. 
+The proprietary base station smart energy-saving system has been deployed in 2,010,000 fan areas in 31 provinces, saving over 100 million kwh of electricity annually.
+The Company strives to achieve breakthroughs in sci-tech awards, patents and international standards. The 
+ultra high capacity intelligent backbone router developed jointly with partners won the second prize of the National Science and Technology Progress Award. “Tiantong One” satellite mobile communications application system project was selected as “2021 World Leading Internet Technology Achievements”. Authorised invention patent “Multimode Antennas and Base Stations” won excellence award of the 22nd China Patent Award. In 2021, the number of domestic invention patents and PCT (Patent Cooperation Treaty) applications of the Company increased by 2 times and 8 times respectively, and the Company led and jointly led the completion of 46 international standards throughout the year. 981 of its manuscripts were accepted by the International Organisation for Standardisation. At present, 47 employees of the Company hold managerial positions such as directors, chairman and reporters of the International Organisation for Standardisation.
+Lightweight UPF included in the Recommended 
+List for Sci-tech Innovation Achievements of Central Enterprises issued by SASAC
+The lightweight UPF independently developed by the 
+China Telecom Research Institute addresses the problem of unified access to new fixed-mobile integrated edge bearing equipment, supports data diversion, security enhancement services, and capacity opening. It has advantages such as 100 Gbps ultra-high throughput, extremely low latency at microsecond level, flexible adaptation of software and hardware decoupling, and customisation for enterprise customers.1919 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Reinforcing Innovation to Consolidate the Base of the Digital Economy
+The R&D team of the ultra-large-capacity 
+intelligent backbone routers won the second prize of the National Science and Technology Progress Award
+Promoting scientific cooperation and ecological construction
+The Company enhances industry-academia-research ecological cooperation, and strengthens the integration of 
+upstream and downstream innovative resources. China Telecom cooperates with national laboratories, well-known universities and scientific research institutes as well as industrial chain partners to carry out joint technology problem-tackling and propels the deployment and application of major problem-tackling achievements such as quantum, cloud network, security and AI.
+In terms of quantum communications, the Company promotes the application of quantum communications 
+technology and domestic commercial password technology, achieving commercial debut of the first quantum-encrypted call product by a telecom operator.
+In terms of fundamental network, the Company promotes joint research and development in network equipment 
+and operation platform, explores the transformation from traditional order-based procurement model to new embedded cooperation model, and accelerates replacement and upgrade of self-developed domestic products.
+In terms of cloud computing, China Telecom carries out strategic cooperation in hardware chips, software systems 
+and other technologies, and creates an upgraded innovative consortium.
+Strengthen intellectual property management
+The Company continued to establish a sound intellectual property management system and strengthened 
+the protection of intellectual property rights. The Company organised training and promotion for the protection and requirements of use of intellectual property rights in respect of pictures, fonts and audiovisual materials used in corporate operation and management, and issued relevant work guidelines. The Company organises activities to promote the rule of law and governance, such as the “World Intellectual Property Day” and the “National Intellectual Property Rights Promotion Week”, to raise the awareness on intellectual property rights among all employees. In 2021, the Company continuously stepped up the application for invention patents concerning 5G, cloud-network integration, network and information security etc., increased efforts on the patent protection for key core technologies and products, and strengthened the layout and application of overseas patents, to enhance the international influence and competitiveness of intellectual property rights, and build a moat for intellectual property rights.20 China Telecom Corporation LimitedOPTIMISING 
+SERVICES AND
+$3&"5*/("#&55&3
+-*'&50(&5)&32121  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021OPTIMISING SERVICES AND 
+CREATING A BETTER LIFE TOGETHER
+Insisting on the “customer-oriented” principle, 
+China Telecom facilitated the development of digital life, empowered the digital transformation of 
+the economy and society, pressed on the effective 
+connection between consolidating and expanding 
+the achievements of poverty alleviation and rural 
+revitalisation, served customers with heart and 
+enthusiastically participated in social welfare 
+activities, so as to create a better life together.22 China Telecom Corporation LimitedOptimising Services and Creating a Better Life Together
+ENJOYING DIGITAL LIFE
+Riding on the advantages of cloud-network integration capabilities, China Telecom upgraded digital entertainment 
+business to provide whole-home intelligent customised service, and to serve the community intelligent management with applications such as intelligent access control and property management platform, and promoted the construction of digital villages based on applications such as rural governance.
+Digital entertainment
+Relying on the advantages of 5G technology, the Company aggregated high-quality content to create applications 
+such as e-Surfing Ultra HD, e-Surfing Cloud Games and e-Surfing Cloud VR, enabling 4K/8K Ultra HD, 360° live streaming, VR video, VR games and other cross-terminal experience scenarios, and bringing users new digital entertainment audio-visual experience.
+e-Surfing Ultra HD
+• Relying on China Telecom’s 5G technology advantage, aggregating high-quality content to create an 
+integrated video platform that integrates 4K, ultra-high-definition screen projection and 360° live streaming scenarios, the “new 5G view” brings a brand new audio-visual experience to users.
+e-Surfing Cloud Games
+• Relying on China Telecom’s 5G network with large bandwidth, low latency, edge computing and other 
+cloud-network integration technology advantages, the well-established service platform provides high-quality content and cross-terminal experience for 5G users, allowing gamers to experience the fun of gaming quickly and conveniently through an instant click-to-play approach.
+e-Surfing Cloud VR
+• Relying on China Telecom’s 5G network and VR technology integration capabilities, the super 
+entertainment artifact created for users in the 5G era provides VR video, VR games and other entertainment services, allowing users to better enjoy the immersive VR entertainment experience through the powerful 5G network.
+Guangxi branch’s “5G Cloud Tour in Guangxi” slow live streaming 
+attracted 8 million viewers
+In March 2021, coinciding with the ethnic festival “3 March of Zhuang” in 
+Guangxi, Guangxi branch launched a slow live streaming service of scenic spots based on new media forms such as “cloud live streaming, short video and VR live streaming”.2323 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Optimising Services and Creating a Better Life Together
+Digital family
+Whole-home WiFi
+• Committed to providing users with high-speed, full-coverage and a scene-based home WiFi 
+networking solutions, it solves the users’ pain points in using WiFi such as slow speed, poor coverage, difficult networking and difficulty in connecting smart devices.
+e-Surfing HD
+• Based on China Telecom’s ultra-fast broadband network, with set-top boxes and TV sets as 
+receiving terminals, it provides users with audio-visual products including video, education, games, reading, informatisation services and other content services.
+e-Surfing Webcam
+• Based on China Telecom’s efficiently-centralised video operation platform and e-Surfing cloud 
+storage capability, it provides users with home security monitoring products that allow them to view live and cloud-stored historical footage of their homes anytime and anywhere, enabling them to look after the elderly and children in a remote way.
+Whole-home intelligence
+• Based on China Telecom’s cloud-network integration advantages, it integrates various types of 
+pan-intelligent terminals for household, integrates the product resources of ecological partners, realises the interconnection of digital home and smart community, digital village and other platforms, and provides customers with whole-home integrated informatisation solutions.
+China Telecom’s whole-home intelligence “lighting up” digital life
+With the help of WiFi, Internet of Things, 4G, 5G and other terminals and communications methods, whole-home 
+intelligence realises seamless coverage of users’ networks, remote network control by smart devices, security monitoring, home entertainment and other diversified and intelligent application scenes.
+24 China Telecom Corporation LimitedOptimising Services and Creating a Better Life Together
+Smart community
+Through intelligent network connection and device management, the Company realised real-time automatic 
+communications between residents, home smart devices and public facilities in the community, enhancing the scientific, intelligent and refined level of community management and services.
+Guiyang branch actively built a smart community 
+platform
+The intelligent community platform built by Guiyang 
+branch is based on intelligent front-end devices and Big Data, by which the intelligent analysis effectively curbs uncivilised behaviour of throwing objects from height and enhances the sense of safety and satisfaction of residents in the community.
+Digital village
+Based on safe village, the Company integrated Village Sharing app, Internet of Things and other capabilities to build 
+a “digital village platform” to enable the digitalisation of rural governance and smart life.
+Zhejiang branch’s “Digital Village Cloud Platform” 
+lighting up the dream of “beautiful villages”
+Based on the video capabilities of e-Surfing Webcam, and 
+leveraging the advantages of 5G, AI, Internet of Things, video and cloud-network integration, Zhejiang branch established a “Digital Village Cloud Platform” to build villages featured with strong organisation, thriving economy and rural beauty.2525 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Optimising Services and Creating a Better Life Together
+EMPOWERING DIGITAL TRANSFORMATION
+China Telecom strengthened the innovative application of digital information technology, launched a series of 
+cloud-network integration digital capability platforms, opened more than 2,000 “fundamental capabilities” such as communications, cloud and security to the industry, introduced 50 AI core capability algorithms and over 300 scenario algorithms, and joined forces in the industry to build a digital capability ecology to inject intelligence into and empower the transformation and upgrade of the economy and society.
+In 2021, the Company took the lead in establishing the e-Surfing IoT Industry Alliance and the 5G Industry 
+Innovation Alliance, jointly explored 5G empowerment for thousands of industries, and formed 5G application solutions covering more than 200 scenarios in 20 industries. The 5G customised network commercial projects covered all 15 key industries under the 5G application “Raising the Sail” Action Plan, with more than 1,200 projects implemented throughout the year.
+China Telecom’s 5G empowerment for thousands of industries
+5G+smart 
+cities
+• 21
+5G+smart 
+cultural 
+tourism
+• 75G+smart 
+manufacturing
+• 71
+5G+smart 
+power
+• 13
+5G+smart 
+education
+• 25G+smart 
+mines
+• 14
+5G+smart 
+ports
+• 11
+5G+smart 
+finance
+• 25G+smart 
+agriculture
+• 3
+5G+smart 
+steel
+• 8
+......5G+smart 
+healthcare
+• 10
+5G+smart 
+chemicals
+• 1326 China Telecom Corporation LimitedOptimising Services and Creating a Better Life Together
+5G+ smart cities
+The Company utilises the Internet of Things, cloud computing, Big Data, blockchain, artificial intelligence, 5G and 
+other new information technology tools, and promotes the deep integration of informatisation, industrialisation and urbanisation to build smart cities.
+China Telecom building “Smart Shenzhen”
+Leveraging “5G+AIoT digital twin capabilities”, Shenzhen 
+branch, CT Wing together with the Shenzhen Municipal Government jointly built “Smart Shenzhen”, which can coordinate the construction of a city-level smart city and digital government, and help Shenzhen become a benchmark for new digital twin city.
+5G+ smart manufacturing
+The Company is committed to promoting the digital transformation of industrial enterprises, relying on “5G + 
+cloud-network integration + AI” to empower the manufacturing industry, continuously promote the level of industrial digitalisation, networking and intelligentisation, and actively build an industrial powerhouse.
+Yunnan branch helped Yuxi Xinxing Steel to build 
+a digital twin transparent factory
+Yunnan branch used 5G, Big Data, Internet of Things and 
+other technologies to build a digital twin transparent factory. Based on the twin body, the information not flowed between IT, CT and OT domains can now be exchanged in the twin space, allowing data to be circulated in the entire factory area, and successfully realising the remote visibility, control and management of the production in the factory.2727 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Optimising Services and Creating a Better Life Together
+5G+ smart mines
+The Company leverages its technological advantages to build digital and informatised mines, realise active 
+perception, automatic analysis and rapid processing of mine production, occupational health and safety, technical support and logistical assurance, to build smart mines.
+Shaanxi branch built 5G smart mines for Shendong Coal Group
+Shaanxi branch made full use of new technologies such as the Internet of Things, Big Data, cloud computing, artificial 
+intelligence and digital twins to integrate the various systems of smart coal mines, and to achieve intelligent access of massi ve 
+coal mine equipment, circulation and integration of system data, and unification of the network system, promoting man-free and less-manpower production in the coal mines, and improving the overall safety level of the mines.
+5G+ smart agriculture
+The Company makes use of new information technologies such as cloud computing, Big Data and the Internet of 
+Things to provide real-time monitoring data, transaction data, planting guidance, agricultural product management and intelligent equipment management to promote the modernisation of agriculture and rural villages.
+5G+MEC of Shanghai branch helped fully intelligent digital rice growing
+Shanghai branch, Shanghai Tramy Group and Wuhan University jointly set up an industry-academia-research team to build 
+a 5G+MEC fully intelligent digital rice growing showcase area for real-time monitoring of crop growth, data analysis and decisi on-
+making, which enabled water-saving by 10%-35%, usage reduction of nitrogen fertiliser by 10%-30%, and yield increase by 5%-20%.
+28 China Telecom Corporation LimitedOptimising Services and Creating a Better Life Together
+5G+ smart healthcare
+The Company takes advantage of cloud-network integration to drive the intelligent transformation of traditional 
+health management and elderly care industries through the integration and innovation of 5G, cloud computing, Big Data and health and medical industries.
+Sichuan branch built the province’s first 5G + 
+medical robot + VR visitation system
+On 8 February 2021, the first 5G+ medical robot + VR 
+visitation system in Sichuan Province was officially launched in the SICU ward of West China Hospital of Sichuan University, enabling remote visitation.
+5G+ smart cultural tourism
+Relying on the unique cultural tourism resources, the Company uses a variety of advanced technologies such as 
+cloud computing, Internet of Things and mobile communications to launch smart cultural tourism solutions to enhance the quality of tourism services.
+Wuxi branch launched “VR Cherry Blossom Viewing”
+In March 2021, Wuxi branch launched the “5G Cherry 
+Blossom, Meeting the Beauty” activity through VR technology, allowing citizens and tourists to experience “VR Cherry Blossom Viewing” anytime and anywhere.2929 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Optimising Services and Creating a Better Life Together
+SUPPORTING RURAL REVITALISATION
+China Telecom is committed to the effective connection between consolidating and expanding the achievements of 
+poverty alleviation and rural revitalisation, so as to achieve stable and continuous resource investment, assistance efforts and work initiatives. In 2021, the Company won four national honors such as the National Poverty Alleviation Summary and Commendation Outstanding Individuals and Advanced Groups.
+Stable and continuous support efforts
+Vigorously providing special assistance
+• The Company is dedicated to the rice public welfare project and education assistance project for 
+Kaschin-Beck disease patients in Banbar County. The Company organises its staff to donate 200 tons of rice every year, directly benefiting 24,000 people. Nearly all of young people under the age of 15 in Banbar County no longer suffer from Kaschin-Beck disease.
+• The Company renewed the Education Assistance and Donation Agreement  for a term of three years with 
+the “4 + 2” poverty alleviation counties, and would organise its staff to donate RMB2.0 million of education assistance funds to the “4 + 2” poverty alleviation counties every year to support the students and teachers.
+• The Company established 10 group-level digital rural showcase sites in the “4 + 2” poverty alleviation 
+counties, which created a telecommunications model for digital empowerment to facilitate “five revitalisations” in rural areas.
+• The Company continued to promote the task of universal service construction, and completed the 
+construction of the sixth batch of approximately 4,900 4G base stations, providing solid network support for rural revitalisation.• The management of the Company went to “4 + 2” poverty alleviation counties of China 
+Telecommunications Corporation for investigation and research, introduced the free assistance funds of RMB17.26 million, provided training for 16,100 cadres and talents, and carried out poverty alleviation through consumption, helping the “4 + 2” poverty alleviation counties and more than 1,400 poverty alleviation sites of enterprises at all levels to consolidate and expand the achievements of poverty alleviation, and achieving effective connection with rural revitalisation. It has achieved remarkable results.
+Making efforts in effective connection between consolidating the achievements of poverty alleviation 
+and rural revitalisation
+In October 2021, Mr. Ke Ruiwen, the Chairman of China 
+Telecom, went to Yanyuan in Sichuan to investigate the rural revitalisation work.In September 2021, Mr. Li Zhengmao, the President of 
+China Telecom, went to Banbar in Tibet to visit and express greetings to the people who got rid of poverty.30 China Telecom Corporation LimitedOptimising Services and Creating a Better Life Together
+Network revitalisation
+Improving network quality and supporting rural 
+revitalisation
+China Telecom took the lead in network poverty 
+alleviation. It opened up the “information expressway” for poverty alleviation in poverty-stricken areas, provided a solid network foundation for better implementation poverty alleviation by industries, employment and consumption.
+Consumption revitalisation
+“Wings” up through consumption assistance of 
+TYFO.COM
+Chongqing branch and BestPay have jointly developed 
+and established the “Rural Pavilion”, an e-commerce platform to help the sales of rural agricultural products, which effectively promoted the establishment of a sound three-party cooperation ecological cycle among the government, telco and enterprises.
+Cultural revitalisation
+Anhui branch revitalised rural education
+Anhui branch actively integrated IPTV ecological chain 
+resources, and joined forces with various partners such as Best Tone and Doushen Education to build a standardised basketball court and a plastic runway for the Yanghe Village Banqiao Primary School.3131  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Optimising Services and Creating a Better Life Together
+PROVIDING HEARTFELT SERVICES TO CUSTOMERS
+China Telecom adheres to the philosophy of “Customer First, Service Foremost” and strengthens service awareness 
+to protect customers’ rights in accordance with the law, enhances customer experience, and comprehensively fosters a brand image of “China Telecom is trustworthy”.
+Protecting the rights of customers in accordance with laws
+The Company conscientiously implements the national laws and regulations on protecting customers’ rights and 
+interests and data security, and solidly carries out the comprehensive governance of communications fraud, harassing phone calls and spam short messages.
+Strictly conform to the Law of the People’s Republic of China on 
+Protection of Consumer Rights and Interests  and the  Advertising 
+Law of the People’s Republic of China
+• Dedicate to provide products and services in compliance with laws and regulations, perform strict 
+compliance checks on advertisement campaigns and continuously standardise business tariff management.
+• Revise the Administrative  Measures for China Telecom on Brand Publicity to further strengthen the 
+standardised management of advertising and publicity, prevent advertising and publicity management risks, and clearly stipulate that false publicity, exaggerated publicity, and comparative publicity are strictly prohibited, thus maintaining a good reputation in the industry.
+Actively conform to the Data Security Law  and the Personal Information 
+Protection Law
+• Implement internal systems such as the Administrative Measures of China Telecom on Data Security 
+and the Administrative Measures of China Telecom on Personal Information of Users .
+• Enhance the data security management system, further enhance data security management rules, 
+promote data classification and grading, important data identification, and the implementation of standards for data security compliance assessment; conduct data security compliance assessments for key businesses and core systems to identify and remedy risks in a timely manner.
+• Deepen the protection of personal information of users based on different scenarios, promote the 
+establishment of  a risk monitoring platform for protection of personal information of users, and enhance the ability to independently discover risks.
+Solidly carry out comprehensive control
+• Strengthen the prevention and control of phone numbers involved in crimes and frauds.
+• Continue further with the control of harassing calls and spam text messages, and extensively promote 
+the harassing call interception service that can be set up by individual users. The reported number of harassing calls and spam text messages decreased by 31.7% and 19.7% respectively compared with 2020, maintaining a low level in the industry.32 China Telecom Corporation LimitedOptimising Services and Creating a Better Life Together
+Ningxia branch fully cooperated with the public 
+security department in anti-GOIP programs
+On 26 September 2021, the Ningxia branch cooperated 
+with the Anti-Fraud Centre of Yinchuan Public Security Bureau, which successfully destroyed a group of criminal gangs that provided overseas online fraudsters with tools to commit crimes, and arrested 5 suspects involved in the case, involving an amount of approximately RMB830,000.
+Shandong branch carried out anti-fraud live 
+broadcast activities
+Shandong branch and the Public Security Department of 
+Shandong Province jointly carried out the special live broadcast activity of “joint action between police and enterprises for fraud alert by the whole public”. The total number of viewers of the live broadcast reached 190,000, with 12,000 clicks of “like” and reviews and nearly 50,000 online sharing.
+China Telecom launched “e-Surfing Anti-
+harassment” service
+China Telecom’s “e-Surfing Anti-harassment” adopts 
+Big Data and cloud-based intelligent interception protection technology to provide users with self-help interception management services. In 2021, the cumulative number of registered users reached 200 million, 71.6 billion calls were secured, and 560 million harassing calls were intercepted.3333 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Optimising Services and Creating a Better Life Together
+Improving customer experience
+The Company adheres to the customer-oriented principle. In response to customers’ feedback on services, 
+the Company makes serious analysis and research, regards each complaint as a valuable opportunity for service enhancement, and actively promotes problem solving, so as to promote the digital transformation of services and continue to enhance smart service capability and service quality.
+Carrying out dedicated programs for increasing customer satisfaction
+• Promote solutions to repeatedly reported problems by users, such as insufficient mobile network 
+coverage in certain areas, long queues and processing times for services, and difficulty in speaking with human representatives in customer service hotlines, etc.
+• Implement efficiently-centralised operation of government and enterprise service hotlines, with 
+government and enterprise service hotlines for 31 provinces in place.
+• Carry out key capacity building of Hotline 10000, and 65-year-old customers can access manual 
+customer service with one click, so as to strengthen the service commitment of “if you need anything, please call Hotline 10000”.
+• Continue to enhance the elder-friendly adaption to provide convenient communications services for the 
+elderly.
+Regulating product publicity
+Promoting digital transformation of services
+• In-depth exploration of intelligent voice services, expand digital service methods such as remote 
+counter and video customer service, allowing customers to enjoy warm services of “watching the screen as if meeting in person” without leaving home.• Continuously optimise the service registration displayed to customers.
+• Standardise product names, remarks and reminders, and unify the order in which the contents of 
+service registration are displayed.
+“Elder-friendly experience” to provide convenient 
+services for the public
+Lanzhou branch delivered the “timely rain” of sci-tech 
+services to the elderly through the innovative parallel delivery of traditional services and intelligent and informatisation services, as well as the combination of online services and offline channels, so as to solve the “digital divide” issue in communications for the elderly.34 China Telecom Corporation LimitedOptimising Services and Creating a Better Life Together
+“Watching the screen as if meeting in person and 
+conducting formalities online”
+Hubei branch’s “Hotline 10000 Remote Counter” has 
+enabled 30 service functions in 6 categories, including replacing of SIM cards for customers who ported in their mobile phone numbers in other places, the reporting and dismissing of mobile phone loss, mobile phone shutdown and resumption, PUK code query, call transfer, remote tutoring of broadband setting, providing the majority of users with one-
+stop and efficiently-centralised customer service of “Going 
+through Formalities without Leaving Home”.
+PROMOTING SOCIAL WELFARE
+China Telecom enthusiastically participates in social welfare activities. We implement the Welfare Donations Law of 
+the People’s Republic of China  and other laws and regulations and the Administrative Measures for Donation of China 
+Telecommunications Corporation  under the principles of “voluntariness, clear responsibility, action within capabilities, 
+honesty and trustworthiness”, support the development of technology, education, culture, sports and healthcare through various ways, and actively help the vulnerable, disabled and disadvantaged. The Company encourages its employees to carry forward the spirit of volunteerism, and actively participates in volunteering activities of different kinds.
+The Company, together with the All-China Federation of Trade Unions, held the opening ceremony of the “Caring 
+Stations” program, becoming the first co-build brand enterprise in the industry to receive its recognition. The “Caring Stations” provide the elderly, the disabled, sanitation workers, couriers and other groups of people with smart technology popularisation and resting/supply places, demonstrating the social responsibility and mission of a telecommunications enterprise. In 2021, we built more than 6,000 “Caring Stations”, and 83 of them were rated by the All-China Federation of Trade Unions as the “2021 Most Beautiful Trade Union Service Station for Outdoor Workers “, ranking first among all enterprises in terms of the number of awards received.
+“Caring Stations” warming hearts in winter
+On 26 December 2021, 16 “Caring Stations” of Yili 
+branch simultaneously carried out the thematic activity of “Warm Winter Solstice at Caring Stations – A Tribute to City Beauticians” in the whole region, inviting sanitation workers, police and empty nesters, etc., to spend a warm time in this cold winter.3535 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Optimising Services and Creating a Better Life Together
+Jingdezhen branch’s “Caring Stations” built a 
+civilised city
+Jingdezhen branch provided sanitation workers, couriers 
+and other outdoor workers with free resting places, drinks and free charging equipment at “Caring Stations”, which were also equipped with emergency medical-grade gauze and band-aids for the public in case of emergency, contributing to the construction of national civilised city in Jingdezhen through 
+warm-hearted services.
+Voluntary blood donation for the people, warming 
+the old city through mutual assistance
+On 9 November 2021, Baoding branch called on more 
+than 300 cadres and employees to take the initiative to participate in voluntary blood donation activities to show their love to society and demonstrate the great love of the enterprise and the selfless dedication of employees.
+Warming the lonely with love
+For five consecutive years, the customer service 
+department of Hainan branch has actively organised actions to care for disabled children with autism before and after the Autism Day.36 China Telecom Corporation LimitedREFINING ACTIONS
+TO PROMOTE GREEN DEVELOPMENT ON ALL FRONTS3737  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021REFINING ACTIONS TO PROMOTE GREEN 
+DEVELOPMENT ON ALL FRONTS
+China Telecom insists on the green 
+development principles, implements the national “dual-carbon” goal and the industry’s green and low-carbon requirements, releases the “1236” action plan of China Telecom for carbon dioxide peaking and carbon neutrality. We comprehensively promote the implementation of “dual-carbon” work, and fully demonstrate the leading role of a central state-owned enterprise in undertaking social responsibilities and empowering the green development of the whole society.38 China Telecom Corporation LimitedRefining Actions to Promote Green Development on All Fronts
+PRACTICING GREEN OPERATION
+Promoting energy conservation and emission reduction
+The Company complies with the Environmental Protection Law of the People’s Republic of China , the Energy 
+Conservation Law of the People’s Republic of China  and other laws and regulations related to environmental protection, 
+and implements the systems such as the Administrative Measures for China Telecommunications Corporation on Energy 
+Conservation and Emission Reduction . The Company applies energy conservation and emission reduction requirements 
+to link through various operational activities such as network planning, procurement, construction, operation and office administration. The Company strengthened its efforts in developing a sound measuring and monitoring system on energy consumption, organised training and exchanges on energy conservation and emission reduction, constantly raised the professional level of grassroots personnel, and continued to promote innovation in energy conservation and emission reduction management.
+The Company refined the evaluation, reward and punishment system, strictly controlled the growth of total energy 
+consumption and the PUE (power usage effectiveness) value of large-size and mega-size datacentres. While ensuring the orderly development of energy conservation and emission reduction using its self-owned special funds, the Company actively introduced social capital and technology to realise the technical upgrade through the continuous use of the energy management contracting mode. The Company vigorously promoted the scale application of the 4/5G base station intelligent shutdown technology, such as self-developed AI energy saving technology to enhance the energy consumption efficiency of base stations. In 2021, the cumulative electricity saving is about 500 million kWh, saving electricity costs of about RMB375 million. The Company made constant efforts in retiring inefficient equipment and facility rooms, promoting the configuration optimisation of basic ancillary facilities of facility rooms, so as to minimise power consumption and enhance power efficiency. Through the co-building and co-sharing of 4/5G base stations with China Unicom, annual electricity savings exceeded 10 billion kWh and CO
+2 emissions were reduced by over 6 million tons. In 
+2021, the overall energy consumption per unit of information flow was 0.0344 MWh/TB, representing a decrease of 8.3% over last year.
+Guangdong branch vigorously promoted green and low-carbon new operation of mobile base stations
+Guangdong branch took the lead in the industry to independently develop the AI+ Big Data base station smart energy-
+saving platform, self-developed smart algorithm for energy consumption prediction and 4/5G shared coverage algorithm, etc. In 2021, it saved more than 88 million kWh of energy, and saved electricity costs of RMB57 million.
+3939  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Refining Actions to Promote Green Development on All Fronts
+The Company promotes water conservation, strives to reduce the water consumption per unit operating revenue, 
+actively promotes and advocates water conservation by posting reminders regarding water conservation near water facilities and appliances. The Company continually strengthens the management on water usage, carries out sewage disposal and treatment, promotes the reuse of water, actively uses reclaimed water as an alternative source of water in place of tap water while meeting the requirements on use of water, promotes and popularise the use of water-saving appliances and performs regular checks and repairs on each part of the water supply system to prevent occurrences of water leakage and water wastage. In 2021, the total water consumption decreased by 1.21 million tons over last year, representing a decrease of 3.4% compared to last year while the water consumption per unit operating revenue decreased by 13.5% over last year. In 2022, the Company sets the target of total water consumption not to exceed the average water consumption from 2019 to 2021.
+The Company encourages paper saving by actively promoting reduction of paper use in operation and office 
+facilities sites. The Company, from the perspectives of technology and systems, encourages paper saving and reduces paper use. We accelerated the digital transformation of the procurement supply chain, vigorously promoted the application of electronic procurement and electronic orders to realise the paperless operation of the whole process of the supply chain, and continually promoted electronic accounting files management, VAT electronic invoice, e-reimbursement and filing of e-invoice and paperless operation, and promoted automatic process of tax declaration in order to reduce the use of paper.
+The Company enhances the recycling, disposal and utilisation of waste and used materials in order to conserve 
+resources as much as possible and reduce environmental pollution. The Company specified the guidelines, division of responsibilities and management of the recycling and disposal of waste materials and the qualifications of recyclers, standardised the forms and procedures of disposal, and refined the approval authority and process of disposal decisions. The Company carried out clean-up of hazardous and non-hazardous wastes and exchange of experience in this respect in an efficient manner, to effectively prevent disposal risks.
+In 2021, the Company continually enhanced the professional management of waste, promoted the recycling, 
+utilisation and harmless disposal of waste and old materials such as batteries, cable cords and devices. Since waste and old batteries contain large amounts of heavy metal, waste acid, waste alkali and other electrolyte solutions, the batteries will pollute the environment if handled inappropriately.
+Within centralised procurement, the bidder is required to be an enterprise on the list of green factories or 
+the list of clean production demonstration enterprises announced by the Ministry of Industry and Information Technology. The bidder shall meet the Lead-acid Battery Industry Entry Requirements , and 
+pass the review of the regulatory department, and shall promise to recycle and dispose waste batteries.
+Establish a recycling and disposal management system for waste batteries, and hand over waste copper cables to professional third parties for recycling and disposal. Extend the useful life of lead-acid batteries and enhance battery efficiency by promoting the development of optical fibres and increasing investment in network operation and maintenance.40 China Telecom Corporation LimitedRefining Actions to Promote Green Development on All Fronts
+In 2022, the Company will continue to carry out professional management of wastes, adhere to the principle of 
+“recycling as much as possible”, recycle and dispose of waste and old batteries, cables and devices in an open manner, and actively enhance the efficiency of disposal through an integrated disposal process and continuous standardisation of disposal operations.
+Protecting the ecological environment in engineering construction
+The Company has formulated the Administrative Measures for China Telecom on Electromagnetic Environmental 
+Protection of Telecommunications Base Stations (Trial Version) , and has taken various proactive environmental protection 
+measures such as environmental assessment regarding issues in telecommunications engineering construction responding to concerns of the government and the public, such as farmland protection, equipment pollution, construction impact and electromagnetic radiation to ensure compliance with the government’s regulatory requirements and to actively communicate with the public.
+ • The existing houses and barren land will be preferred in site selection for base stations, in 
+order to do a good job in the protection of farmland.
+h Areas such as mineral reserves, forest, grasslands, wildlife habitats, natural and cultural 
+relics, natural reserves and scenery areas are intentionally avoided when conducting routing roll-out deployment for fibre cables, so as to avoid changing the surrounding environment as much as possible.
+h The Company monitors and assesses the electromagnetic radiation around the base station, 
+enhances communications with the community, opens itself to public scrutiny, strictly controls the quality of network equipment by imposing controls from the source and actively takes advanced technical means to refine the layout of base station, ensuring the emission standard is stricter than the national emission standards.h Non-polluting equipment with no noise and no electromagnetic radiation and free of 
+pollutants is preferred.
+Equipment Pollution
+Construction Impact
+Electromagnetic RadiationFarmland Protection4141 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Refining Actions to Promote Green Development on All Fronts
+Promoting co-building and co-sharing of communications infrastructure
+The Company earnestly implemented the implementation measures of promotion of co-building and co-sharing of 
+telecommunications infrastructure promulgated by the Ministry of Industry and Information Technology and the State-owned Assets Supervision and Administration Commission of the State Council. The Company actively promoted the co-building and co-sharing of communications infrastructures such as base stations, pipelines and pole lines, to effectively reduce duplicate construction in order to protect the natural environment and landscape, and to reduce the land use, energy, and raw materials consumption. The Company promoted the co-building and co-sharing with China Unicom, and created a new model of 5G construction and operation, laying a solid foundation for a new pattern of collaborative development in the domestic industry, and contributing Chinese solutions and Chinese wisdom to the win-win cooperation of large global enterprises.
+In 2021, the Company has comprehensively deepened the co-building and co-sharing with China Unicom in various 
+fields, accelerating the construction of 5G and overcoming the impact of the Epidemic and the difficulties in procurement and supply. The Company newly installed more than 300,000 5G base stations. We fully leveraged the complementary advantages of both parties’ network resources. The Company strengthened the coordination of 4/5G, actively carried out the co-building and co-sharing of 4G network, accelerated the consolidation of 4G existing resources and the demolition and reuse of old stations. During the year, approximately 460,000 base stations were installed for co-sharing, with a cumulative number of over 600,000 4G base stations were installed for co-sharing by both parties. The Company provided more than 19,800 kilometres of co-shared pole line and more than 1,200 kilometres of co-shared pipeline.
+China Telecom and China Unicom 
+comprehensively deepened the co-building and co-sharing
+On 6 December 2021, China Telecom and China Unicom 
+entered into the Memorandum of Strategic Cooperation on 
+Comprehensively Deepening Co-building and Co-sharing .42 China Telecom Corporation LimitedRefining Actions to Promote Green Development on All Fronts
+EMPOWERING GREEN DEVELOPMENT
+China Telecom made full use of the new generation of information and communications technologies to build smart 
+production and smart service solutions to meet the digital transformation needs of various industries, reduce energy consumption and carbon emissions, and promote low-carbon production and green life.
+China Telecom released a “dual carbon” action 
+plan to explore and form a “1236” green and low-carbon development model
+On 25 August 2021, the National Low-carbon Day, China 
+Telecom held the press conference of “Energy Conservation and Carbon Reduction for Green Development – China Telecom’s Carbon Dioxide Peaking and Carbon Neutrality Action Plan” in Beijing.
+“Cloud Brain” helped the construction of 
+“Two-mountain Bank ( ՇʆვБ )”
+Changshan branch built a smart Cloud Brain platform, 
+integrated and aggregated ecological resource source data, to enhance the efficiency of ecological resource utilisation, enhance the attractiveness of ecological resources to capital, drive the growth of village collective economy, and increase the income of the main body of ecological resources.4343  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Refining Actions to Promote Green Development on All Fronts
+ADDRESSING AND MITIGATING CLIMATE CHANGE
+In response to the national requirements of “carbon dioxide peaking and carbon neutrality”, China Telecom 
+established a special team for green development, formulated the Interim Measures for China Telecommunications 
+Corporation on the Management of Carbon Dioxide Peaking and Carbon Neutrality , the “ 14th Five-Year” Special Plan 
+of China Telecom on Carbon Dioxide Peaking and Carbon Neutrality  and other internal systems, and comprehensively 
+considered regulatory, compliance, market, finance and other factors to assess the main risks of climate change.
+Risk type Risk description Response measures
+Regulatory risk Some branches have been included in the 
+carbon trading pilot, and carbon emission quota will become a constraint factor for the Company’s development.To strengthen internal management, manage 
+and check energy consumption, and actively pursue relevant policies.
+Legal risk The risk of administrative penalties or litigation 
+arises from failure to avoid or mitigate the adverse effects on the climate or failure to adapt to climate change.To comply with the relevant national laws 
+and regulations, and make environmental assessment of base stations to avoid being criticised and penalised by government authorities.
+Market risk Co nsumers and business customers are 
+increasingly moving towards products and services less vulnerable to climate change.To accelerate the green transformation of 
+the Company and comprehensively build green and low-carbon new infrastructure; and to strengthen the promotion of green and sustainable development of the Company.
+Reputational risk It is difficult to attract and retain customers, 
+employees, business partners and investors if 
+the Company has a disruptive impact on the climate.To comply with relevant national laws and 
+regulations, and avoid being criticised and 
+penalised by government authorities.
+Financial risks If the Company increases its efforts to 
+purchase renewable energy, it may cause the increase of energy costs.To pay close attention to national policies 
+and market trends, and purchase low-priced renewable energy to the greatest extent.44 China Telecom Corporation LimitedRefining Actions to Promote Green Development on All Fronts
+The Company integrates green concepts and green capabilities into the whole process of the “Cloudification 
+and Digital Transformation”, converts energy dual control into carbon dual control, and strictly controls the total carbon emissions and carbon emission intensity. In the future, the Company will accelerate the adjustment of energy consumption structure, increase the proportion of clean energy consumption, and clarify the energy consumption intensity control target of continuously reducing 8% of the overall energy consumption per unit of information flow in 2022. During the “14th Five-Year” period, we will reduce greenhouse gas emissions by not less than 27 million tons through co-building and co-sharing and various energy-saving measures, and strive to build new green and low-carbon information infrastructure to empower the green development of the digital economy.
+PROMOTING RESPONSIBLE SUPPLY CHAIN
+China Telecom strictly follows the Bidding Law of the People’s Republic of China  and other procurement-related 
+laws and regulations, implemented regulations such as the Administrative Measures for China Telecommunications 
+Corporation on Procurement , actively responded to the adjustment of national policies, and continuously enhanced the 
+construction of supply chain system. In 2021, the Company formulated or optimised the management systems such as the Administrative Measures for China Telecommunications Corporation on Group-level Procurement Evaluation and 
+Testing (Provisional)  and the Interpretation of the  Administrative Measures for China Telecommunications Corporation 
+on Procurement (2021 Edition) . The Company consistently adhered to supply chain management concepts focusing on 
+value-added, transparent and green procurement, committed to a trusted relationship with suppliers to achieve win-win situations and actively communicated with and encouraged its suppliers to fulfill social responsibilities together.
+In 2021, China Telecom constantly promoted open procurement and tendering, and took multiple measures 
+according to the internal management system requirements to encourage the suppliers to enhance their performance and services. The Company carried out the information sharing mechanism of illegal and discredited suppliers with major domestic infrastructure telecommunications operators. For outstanding suppliers, the Company adopted incentive measures, and for unqualified suppliers, the Company took disciplinary measures. During the year, 109 cases of suppliers’ misconduct involving bid rigging, false bidding, refusal to perform contracts, and disciplinary violations were dealt with. Through the listing of management methods, the objectification of identification standards and the openness of processing rules, the Company has gradually built a supplier management system integrating positive incentive and negative punishment for enhancing suppliers’ performance awareness of services, and promoting suppliers’ good faith in cooperation.4545 CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Refining Actions to Promote Green Development on All Fronts
+China Telecom released the first batch of 
+strategic cooperation suppliers and A-grade product suppliers
+On 12 November 2021, China Telecom and 36 well-
+known enterprises in the industry jointly held the first e-Surfing Supply Chain Ecological Development Forum in Guangzhou, during which China Telecom released the first batch of strategic cooperation suppliers and A-grade product suppliers, and commended the relevant suppliers.
+The Company has encouraged suppliers to jointly respond to climate change by preferentially purchasing resource 
+saving and environmentally friendly products. To build a green supply chain, the Company incorporates green and low-carbon into the supplier evaluation system, carries out full lifecycle cost management of the supply chain, and increases the application of energy-saving and low-carbon products. The Company promotes the application of green procurement indicators in the procurement process, and includes environmental impact factors into the procurement evaluation scoring, so as to encourage suppliers to enhance their awareness and capability of environmental protection. In 2021, China Telecom employed first-class energy-efficiency air-conditioning products and transformers as defined by the national standard, to increase the inspection of electricity cost during the life cycle, thus the weighted score increased by about 30% compared with the previous batch. It pushed forward green production, green packaging and green warehousing and logistics, carrying out pilot projects of new energy freight vehicles in urban areas, and increasing the ratio of applying green recyclable packaging in the supply chain. Regarding the investigation of suppliers, production wastes and others are incorporated into the scope; in the management of suppliers’ misconduct, the environmental problems are included in the management of suppliers’ misconduct, covering all suppliers.46 China Telecom Corporation LimitedDEEPENING REFORM AND
+ENHANCING CORPORATE 
+GOVERNANCE CAPABILITY4747  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021DEEPENING REFORM AND ENHANCING 
+CORPORATE GOVERNANCE CAPABILITY
+China Telecom fully implemented the three-year 
+action plan for SOE reform, continued to deepen reforms in key areas, cared for employees, stimulated the vitality of the Company and employees, strengthened compliance management, and continuously consolidated the foundation for high-quality development.48 China Telecom Corporation LimitedDeepening Reform and Enhancing Corporate Governance Capability
+MOTIVATING VITALITY THROUGH REFORM
+Taking the advantage of returning to mainland China for listing its A shares as starting point, China Telecom fully 
+implements the three-year action of state-owned enterprise reform, promotes the reform in the fields of government and enterprise, cloud, and sci-tech innovation, enhances the modern enterprise system and market-oriented operation mechanism, thus promoting the modernisation of corporate governance system and governance capability.
+Strengthening corporate governance
+Based on the corporate positioning of “service-oriented, technology-oriented and secured”, the Company 
+introduces strategic investors in key areas such as cloud-network, security and industrial digitalisation, further enhances the corporate governance and market-oriented operation mechanism. The Board of Directors determines strategies, makes decisions and prevents risks, and the management devotes to operation, implementation and strengthening management to enhance authorisation and delegation, so as to turn enterprises at all levels into internal market-oriented entities with matching responsibilities, rights and rewards, and form a corporate governance mechanism of “legal rights and responsibilities, transparent rights and responsibilities, coordinated operation, and effective checks and balances”.
+Promote the construction of board of directors in subsidiaries at all levels that meet the 
+relevant requirements of establishing board of directors, standardise the operation of the board of directors, realising the majority of external directors, and implementing the functions and powers of the board of directors.
+Promote by layers and category the authorisation of the board of directors of subsidiaries 
+at all levels to the management, and implement the working mechanism that the general manager of the subsidiary is responsible to and reports to the board of directors.
+In December 2021, China Telecom organised the employee representative congress. Before the congress, we 
+carefully organised the collection of proposals. The employee representatives collected more than 100 proposals reflecting the status of the grassroots and the voices of employees, promoting the orderly participation of employee representatives in corporate governance.4949  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Deepening Reform and Enhancing Corporate Governance Capability
+Promoting organisational reform
+The Company seized the opportunities of digital development, accelerated the construction of a new customer-
+oriented organisational system, built a vertically integrated government and enterprise business group, established and enhanced the organisation, mechanism and process of research and development, integrated delivery, platform operation, and repeated computing services, and continued to deepen the professional company reform so as to enhance the supply capability of digital products such as cloud-network, security, industrial digitalisation, family DICT, explore new markets, open up new tracks, and strengthen the leading advantages of integrated intelligent information services.
+Deepen government and enterprise service structure reform by setting up 13 government and 
+enterprise business departments, and promoting the establishment of industry research institutes, and establish supporting budget accounting, investment management, and incentive mechanisms.
+Deepen the reform of professional companies by setting up a digital life company, a digital village 
+company, and a security technology company, enhance the competitiveness and influence in the field of digital life and network and information security; complete the work of “branch transformation to subsidiary” of cloud companies, improving the sci-tech strength and market competitiveness in the field of cloud computing.Deepen the reform of regional companies by setting up Xiong’an Digital City Company ( ඪτ
+ᅰο̹۬ʮ̡ ) and Shanghai Lingang Hashpower Company ( ɪऎᑗಥၑɢʮ̡ ), and carry 
+out a comprehensive pilot reform of authorisation and authority delegation of Shenzhen branch.50 China Telecom Corporation LimitedDeepening Reform and Enhancing Corporate Governance Capability
+Stimulating corporate vitality
+The Company established and enhanced the market-oriented mechanism with equal emphasis on incentives and 
+restraints, fully implemented the tenure system and contractual management at the management level, and perfected the market-oriented employment system with labour contract management as the core and position management as the basis. We enhanced the distribution mechanism for determining remuneration based on performance and contribution, took advantage of sufficient policies to carry out medium and long-term incentives in various ways, and guided enterprises at all levels to achieve reasonable personnel turnover, in order to truly realise the promotion of competent employees, the reward of excellent ones, the demotion of mediocre ones and the removal of unqualified ones, and fully stimulate the enthusiasm, initiative and creativity of employees.
+Promulgate the Administrative Measures for Tenure System and Contractual Management for Managerial 
+Members of Enterprises Affiliated to China Telecommunications Corporation  (ʕ਷ཥڦණྠϞࠢʮ̡ה᙮Άุ
+຾ଣᄴϓࡰ΂ಂՓձߒ۰ʷ၍ଣ፬ج ) and the Administrative Measures for Professional Managers of 
+Enterprises Affiliated to China Telecommunications Corporation  (ʕ਷ཥڦණྠϞࠢʮ̡ה᙮Άุᔖุ຾ଣɛ၍
+ଣ፬ج ). These measures are implemented comprehensively in branches and subsidiaries at all levels in 
+provinces, cities and counties. The annual performance contractual signing rate of management at all levels reached 100%, and the tenure signing rate reached 95%.
+Sort out and carry out equity incentive, dividend incentive and other medium and long-term incentives as 
+planned, to ensure that qualified enterprises should do their best to build a new pattern of incentives.With the tenure system and contractual management of managerial members as the starting point, 
+promote the three system reforms, so as to achieve leading cadres can be promoted or demoted, compensation can be raised or reduced as well as employees can be hired or let go, and promote the market-oriented operation mechanism. More than 5% of leaders at all levels with the Company were transferred or dismissed if incompetent, which further stimulated the vitality of teams.
+CARING FOR EMPLOYEES
+China Telecom protects the rights and interests of employees in accordance with the law, focuses on establishing 
+harmonious labour relations, supports the labour union to perform its functions, encourages employees to participate in management, and actively helps employees to enhance their capabilities, striving to achieve the common growth of employees and the enterprise.5151  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Deepening Reform and Enhancing Corporate Governance Capability
+Promoting employees’ development
+The Company continues to promote the development of talent team, strengthens employee’s training, and 
+enhances the skills and values of workforce, in order to demonstrate the elegant demeanour of the model workers and promote the spirit of model workers.
+• Based on the “Cloudification and Digital Transformation” strategy, the Company reinforced the staffing of the provincial 
+branches, and accelerated the implementation of tenure system and contractual management of managerial members.
+• The Company further broadened the vision of selecting and appointing candidates, actively explored a new selection and 
+appointment mechanism in the innovation units, and piloted the “nomination system” and “open competition mechanism”.
+• The Company continued to improve the selection and training of high-quality and professional young cadres.Strengthening the development of management talent team
+• The Company cultivated and selected excellent young cadres. Among the newly promoted cadres this year, the 
+“post-70s” second-level officers accounted for 68%; the second-level deputies aged 45 and below accounted for more than 1/3.
+• The proportion of outstanding young cadres aged 45 and below in senior management exceeded 25%.Valuing excellent young cadres
+• The Company actively introduced leading talents in Big Data, cloud computing and other fields to build a team of Big 
+Data, AI, IT cloudification and industry experts.
+• The Company vigorously recruited graduates in the field of transformation.• The Company cultivated professional and high-level talents through the constant implementation of projects such as 
+“Spark Program” and “Prairie Fire Program”.Strengthening the development of professional talent team
+• The Company carried out large-scale vocational skills training to improve the professional capabilities of employees, 
+strengthen the transformation and upgrading of skills in key groups, and enhance the skills training for employees in new business segments and new models.
+• Skill certification was carried out in a large scale to empower front-line employees. In 2021, a total of 96 levels of 
+certification in 30 categories were carried out, with a total of 342 examinations, covering 180,000 person-times.Strengthening the construction of front-line skilled talents team
+• The Company actively organised and carried out employee training, focusing on improving the knowledge and skills of 
+employees to perform their duties.
+• The Company continued to strengthen the development of internal trainers, with more than 14,000 internal trainers at all 
+levels.
+• The Company carried out online learning and training held by its online college. More than 220,000 people studied in the 
+online college and the average learning time per employee reached 40.73 hours.Strengthening employees’ training
+• The Company vigorously carried out labour skill competition and organised 15 competition activities to explore innovative 
+talents for “Cloudification and Digital Transformation”.
+• The Company continued to build innovation workshops and recommended 10 innovation workshops in total to the 
+National Defense Posts and Telecommunications Union. Guangdong branch explored and established an innovation workshop alliance of model workers to focus on innovation and research.Actively facilitating employees to develop skills and increase their values
+• The Company won 30 national-level honors and 117 ministerial and provincial-level honors in 2021.• 3 groups won the National May Day Labour Award, 7 individuals won the National May Day Labour Medal, and 12 groups 
+won the title of National Worker Pioneer, ranking first in the telecommunications industry.
+• The “May Day” commendation symposium was held to publicise national model workers and other advanced models by 
+means of Lunar New Year ringtones and TikTok short videos, so as to promote the spirit of model workers, work spirit and craftsmanship spirit.Vigorously promoting and encouraging the spirit of model workers52 China Telecom Corporation LimitedDeepening Reform and Enhancing Corporate Governance Capability
+Vigorously promoting the spirit of model workers 
+by recognising advanced models
+In 2021, China Telecom selected 72 group-level 
+advanced groups and 258 group-level model workers.
+China Telecom held the “Tengyun Cup” IT 
+Cloudification Skills Competition
+On 14 May 2021, the final round of the “Tengyun Cup” 
+IT Cloudification Skills Competition was held in a live Q&A mode, with six players representing Hubei, Jiangsu second team, Hebei, Jiangsu first team, Sichuan and Fujian in the final showdown.
+5353  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Deepening Reform and Enhancing Corporate Governance Capability
+Caring for employees’ well-being
+The Company continues to strengthen communications with its employees, understands their needs and increases 
+its care for them to enhance their sense of gain, happiness and safety.
+• The Company perfected the closed-loop management mechanism from gathering, analysing, processing and giving 
+feedback to employees’ needs, and established communications channels such as face-to-face communications, reception visits and handling email, striving to enhance communications and to thoroughly understand the thoughts, working and living conditions of employees as well as the hot topics and problems that the employees most care about.
+• The Company actively helped the employees solve practical problems or difficulties, provided convenient services to 
+employees, and strengthened the care for retired old members, model workers, sci-tech innovation workers, young employees, poverty alleviation cadres and their family members, overseas employees and their family members, and employees with difficulties in family life.Strengthening communications with employees
+• The Company arranged special construction funds to further improve the long-term mechanism of construction costs 
+for “Four-Smalls”, namely small canteens, small bathrooms, small washrooms and small activity rooms, and continued to focus on high-quality construction of “Four-Smalls”.
+• The Company constructed oxygen supply facilities for 135 grassroots units at an elevation of 3,000 metres or above in 
+6 provinces or regions, namely Tibet, Qinghai, Gansu, Sichuan, Yunnan and Xinjiang, so as to continuously improve the working and living conditions of employees in high altitude areas.Improving the working environment for employees
+• The Company implemented the “Water Purification Project” to improve the quality of drinking water for employees. More 
+than 8,000 grassroots units have used water purifiers and other equipment, realising the transformation from “having water to drink” to “drinking quality water”.
+• The Company continually built mother and baby rooms according to the special needs of female employees.• The Company organised cultural and sports activities in which the employees were interested, assisting employees in 
+achieving work-life balance and increasing their well-being.Enhancing the quality of life for employees
+• In response to the local Epidemic in Jiangsu, Hunan, Henan, Hubei, Yunnan, Sichuan, Shaanxi and other provinces, the 
+earthquakes that occurred in Yunnan, Qinghai and Sichuan, heavy rain in Henan, Hubei and Shanxi, snowstorm in Liaoning, Jilin, Heilongjiang and Inner Mongolia, and typhoon “In-Fa” in relevant provinces, the Company guided and urged the provincial labour unions to carry out assistance and condolence work.
+• Continued to increase care for overseas employees. Carried out the activities of “caring for the children studying abroad, 
+we are in action”, set up a remote medicine consultation platform for 225 children studying abroad, and helped 11 expatriate employees and children studying abroad to solve emergencies.Strengthening the assistance and condolence work54 China Telecom Corporation LimitedDeepening Reform and Enhancing Corporate Governance Capability
+Yunnan branch carried out cultural and sports 
+activities
+Yunnan Telecom Public Information Industry Co., Ltd. 
+(ථیཥڦʮ଺ࢹڦପุϞࠢʮ̡ ) vigorously carried out a 
+variety of cultural and sports activities that were enjoyable for employees, such as badminton, table tennis and basketball competitions, to enhance friendship and increase the well-being of employees.
+Zhejiang branch built a mother and baby room to 
+care for pregnant female employees
+In 2021, Zhejiang branch carried out the construction 
+of mother and baby room, and provided care services for pregnant female employees to enhance the well-being of employees.
+Hunan branch held the “leading e-Surfing” 
+marathon
+On 18 April 2021, Hunan branch held the second 
+marathon of “leading e-Surfing” at Orange Island, Changsha. 1,000 runners gathered at Orange Island to participate in the half marathon, which promoted sportsmanship and enhanced corporate cohesion.5555  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Deepening Reform and Enhancing Corporate Governance Capability
+Caring for safety and occupational health
+The Company conscientiously and strictly implements the Work Safety Law of the People’s Republic of China , 
+coordinates the safety production work under the normalised Epidemic prevention and control, and continually solidifies the foundation of safety production management. The Company fully fulfills the core responsibilities for corporate safety production, develops sound safety production accountability systems for all employees, strictly implements the safety production assessment, widely promotes training and publicity of safety production regulations and safety knowledge, continuously strengthens the supervision and inspection of safety production, reinforces the early warning and risk prevention and control of meteorological disasters and their secondary hazards, strictly implements licences obtaining system for special operation employees, and continuously enhances the quality construction of the safety production team.
+Strengthening system construction
+• The Company attaches great importance to occupational health and safety management of its 
+employees and formulated management systems related to occupational safety and protective supplies.
+• The Company organises supervision and inspections on the work sites of the employees regularly, 
+supervises the design and installation units to design and install in accordance with the standards including for indoor lighting, noise, temperature and humidity.
+Improving the working environment
+• The Company continuously improves the workplace environment and work conditions of its 
+employees, thus effectively eliminating the occurrences of occupational illness.
+• The Company conducts on-site inspections from time to time, urges units to allocate necessary 
+protective supplies for workers in accordance with the relevant requirements and standards and supervises workers to wear and use the protective supplies properly.
+Paying attention to the physical and mental health of employees
+• The Company provides free health checkup for all employees every year, and continuously conducts 
+counselling activities concerning mental health of the employees and assistance work. The Company has opened a psychological service hotline to proactively help the employees reduce their stress and pressures.
+• In response to the Covid-19 Epidemic, the Company strengthens nucleic acid screening and 
+promotes the vaccination of employees.56 China Telecom Corporation LimitedDeepening Reform and Enhancing Corporate Governance Capability
+Peixian branch carried out a series of publicity 
+activities for the “Safety Production Month”
+In June 2021, Peixian branch launched various forms of 
+publicity activities during the Safety Production Month.
+Fuzhou branch launched the Health Room for 
+employees
+In 2021, the Health Room for employees of Fuzhou 
+branch was officially opened. It is equipped with health monitoring instruments, psychological therapy chairs, and regular expert consultation. Employees can operate the equipment by themselves and conduct daily indicator monitoring and early warning according to their own situation.
+Tibetan branch organised the psychological 
+counseling and training namely “Snow Region Mental Oxygen ( ௛ਹːः )” for employees
+High-cold and hypoxia in Tibet have been severely 
+affecting the health of employees. In order to better care for employees, Tibet branch carried out psychological counseling and training for employees in Shigatse, Shannan, Linzhi and Naqu based on the actual needs of employees and the physical and mental conditions of employees in production and operation.5757  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Deepening Reform and Enhancing Corporate Governance Capability
+STRENGTHENING COMPLIANCE MANAGEMENT
+China Telecom persists in operating in compliance with laws and integrity through abidance by relevant laws and 
+regulations and industry regulations, and establishes an efficient and coordinated legal compliance system for internal control management, audit supervision, discipline inspection and supervision, and risk management. We continued to enhance the compliance management system, strengthen organisational leadership, enhance the management system, perfect the operating mechanism, and cultivate the compliance culture. Meanwhile, with its focus on key areas, the Company implemented laws and regulations related to network and information security protection, including the Data 
+Security Law of the People’s Republic of China  and the Personal Information Protection Law of the People’s Republic of 
+China , strengthened the compliance management in the fields of anti-monopoly and anti-unfair competition, network and 
+information security, overseas operation, and digital integrated information service (DICT), and promoted the integration of compliance management into the Company’s production and operation, and provided enterprises with “safety belts” and “protective clothing” to ensure the sustainable and healthy development of the Company.
+Operation in compliance with laws and regulations
+The Company continued to promote the legal and compliant operation and enhance the governance capability 
+and level. The Company amended the articles of association and the rules of procedures for the three committees, and enhanced 21 management systems in respect of fund raising, external guarantees, related party transactions and information disclosure. The Company continued to enhance its internal control manual and authority list, advanced the work of “smart finance”, “smart legal affairs” and “smart audit”, and exploited artificial intelligence and other new technological means to enhance its risk prevention capacity, so as to ensure the legal compliance of corporate operation and management, asset security, and the authenticity and completeness of financial reports and relevant information. The Company comprehensively carried out risk identification and assessment, and continued to strengthen risk tracking and control. During the year, the Company maintained a stable operation with controllable risks, and no major violations occurred.58 China Telecom Corporation LimitedDeepening Reform and Enhancing Corporate Governance Capability
+China Telecom actively promoted the implementation of the Data Security Law of the People’s 
+Republic of China  and the Personal Information Protection Law of the People’s Republic of China
+China Telecom, taking into account the actual situation of the Company, carried out systematic study and propaganda 
+in five aspects, including system, specification, process, protocol and system, so as to identify problems and hidden dangers, effectively prevent legal risks, and comprehensively enhance the level of network security and personal information protection of China Telecom.
+Guangdong branch was awarded “Observing 
+Contract and Valuing Credit” for ten consecutive years
+Guangdong branch has always been adhering to the 
+concept of integrity management. It has established and enhanced the internal contract management system and process, standardised contract signing, strictly performed contracts, effectively protected and safeguarded the interests of customers, suppliers and the Company, created a sound market environment for integrity management, and consciously accepted the supervision and management of administrative authorities such as industry and commerce department, and demonstrated a good image of lawful and honest operation to the society.5959  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Deepening Reform and Enhancing Corporate Governance Capability
+Employment in compliance with laws and regulations
+The Company protects the rights and interests of employees with respect to labour rights, democracy rights 
+and spiritual culture rights in accordance with the laws, enhances labour management, and conducts workforce employment in accordance with laws and regulations. The Company adheres to the principles of equality, voluntariness and consensus, and has formulated and implemented the Notice on Issuing of the Labour Contract of China 
+Telecommunications Corporation (Template)  and other documents in accordance with the relevant laws and regulations 
+regarding labour and protection of the employees’ rights and interests including the Civil Code of the People’s Republic 
+of China , the Law of the People’s Republic of China on Labour Contracts  and the Trade Union Law of the People’s 
+Republic of China . The Company enters into written labour contracts with employees to protect their basic rights, perform 
+the obligations of both parties, specify working hours, rest and vacation, implement a standard working hour system, and pays their remunerations and social security insurances in full and in a timely manner. The Company has specified in detail the circumstances under which employees may terminate labour contracts and implement them in accordance with laws and regulations. The Company continually enhances the business operation models and job role classification of labour dispatch, clearly determines the employment form of each role, standardises the designated agreements signed with agency workers, checks and supervises these dispatch units and dispatch workers to sign employment contracts, and pays remuneration and social security insurances in a timely manner in order to protect the rights and interests of contract or agency workers.
+The Company adheres to principles of gender equality and equal pay for equal work, and provides employees 
+with promotion in their positions. The Company handles and uses employees’ personal information in accordance with the law, strictly protects employees’ privacy and information security, and implements the paid leave system to protect employees’ rights to rest and vacation.
+The Company strictly implements the relevant requirements of the Regulations on the  Prohibition of Using Child 
+Labour , prohibits child labour and forced labour in accordance with laws, and specifies the age requirements of 
+candidates in accordance with the recruitment management measures to avoid child labour. In 2021, no child labour or forced labour was found.
+Promoting integrity governance and anti-corruption
+The Company earnestly executed the laws and regulations on integrity governance and anti-corruption such as 
+the Supervision Law of the People’s Republic of China , formulated internal systems such as the Notice on Further 
+Strengthening the Prevention and Control of Integrity Risks , and strengthened the development of systems, mechanisms 
+and culture and other aspects in order to strictly prohibit the occurrence of any forms of corruption such as bribery, extortion, fraud and money laundering. The Company established and optimised five major mechanisms including anti-corruption education and prevention, system monitoring, discipline and accountability, fault tolerance and correction, and inspection and check. We formulated our code of conduct, which includes an integrity manual, and opened a public WeChat account called “China Telecom with Integrity”. We conducted integrity and discipline education for management and employees, and distributed training materials related to international anti-corruption compliance to all directors. We set up a whistleblowing postal mailbox, emails and hotline to address any report of whistleblowing, allegations and relevant complaints against our employees as well as relevant criticism, opinions and recommendations on integrity construction and anti-corruption work. The Company strictly implemented the Work Rules for Discipline and Supervision 
+Organs Investigation  and Handling of Reports and Accusations , handled related accusations and charges in accordance 
+with the rules, disciplines and regulations and strictly put the confidentiality requirements into effect, so as to effectively  
+safeguard the rights of accusers.60 China Telecom Corporation LimitedRESPONSIBILITY 
+MANAGEMENT6161  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021The Board of Directors of China Telecom attaches great importance to 
+the supervision and control over the Environmental, Social and Governance (ESG), supervises ESG issues with the assistance of the Audit Committee, and is responsible for developing ESG-related policies and strategies, including evaluating, prioritising and managing ESG issues to guarantee that effective ESG risk management and internal control systems are in place. The Board and the Audit Committee also regularly receive briefings from the Company on ESG issues, conduct the performance review on the Company, present advices and instructions to the management and relevant departments on ESG issues and review and approve the disclosure of ESG reports to ensure the Company’s performance in fulfilling ESG responsibility is continuously improving. We reported the work plan to the Board during the preparation stage of this report and also reported to the Board upon the finalisation of this report. This report was reviewed and approved by the Board.RESPONSIBILITY MANAGEMENT62 China Telecom Corporation LimitedResponsibility Management
+MANAGEMENT STRUCTURE
+China Telecom establishes an ESG working group which is managed by senior management, while our 
+Corporate Strategy Department coordinates with relevant departments in the headquarters, provincial branches, professional companies and units directly under the headquarters participating in ESG reporting work. ESG working group is authorised to be responsible for implementing the Company’s ESG strategies, promoting ESG performance management and monitoring information disclosure and relevant fundamental work, regularly report to the Audit Committee on the revision of the Company’s ESG indicator system, ESG information collection and monitoring, and make recommendations.
+Provincial branches, professional companies, 
+units directly under the headquartersBoard of Directors of the Company
+Senior management of the Company
+Corporate Strategy Department coordinates 
+with related functional departments
+ESG Working Group
+The Company established its own system of ESG Indicators, set up the information statistics system for ESG 
+performance, refined procedures on ESG data’s collection, review and application, prepared the disclosure plan for key performance indicators, perfected its information disclosure and regulated the disclosure of detailed information on how the Company fulfills its responsibility in the aspect of ESG. During the reporting period, the Board regularly tracked the progress of work, listened to the reports on ESG issues, environmental objectives, amendments to the indicator system, and completion of key performance, etc., reviewed the performance of the Company, considered the working group’s suggestions on the adjustment of various original indicators, and finally approved the 2021 version of the ESG indicator system and the disclosure plan of key performance indicators.6363  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Responsibility Management
+REPORTING SCOPE
+The Report is a yearly report which covers the policies, measures and performance on the ESG-related issues of 
+the Company and its subsidiaries (branches) for the period from 1 January to 31 December 2021 (reporting period).
+REPORTING PRINCIPLES
+The Report actively complies with the reporting principles of “materiality”, “quantitative”, “balance” and “consistency” 
+of ESG information disclosure. Based on the materiality principle, the Board of the Company determined the importance of ESG issues, and this report disclosed our communications with stakeholders, the identification process of the material issues and the materiality matrix. Based on the quantitative principle, the Company strived to quantify its ESG performance indicators as much as possible. The statistical standards, methodology, assumptions and calculation tools, as well as the sources of conversion factors for quantifying the key performance indicators are all disclosed in this report. Based on the balance principle, this report strived to provide an unbiased picture of the Company’s ESG performance during the reporting period and avoided selection, omissions or presentation formats that may inappropriately influence the decision or judgment of the readers. Based on the consistency principle, the Company kept the statistical methods used for the data disclosed in this report consistent, and if there was any inconsistency, explanations were made.
+COMMUNICATIONS WITH STAKEHOLDERS
+The Company promotes communications with its investors, customers, employees, government and regulatory 
+authorities, communities and other stakeholders through various channels including announcements, reports, meetings, seminars, visits, service hotlines, questionnaires and events. The Company earnestly listens to the expectations and needs of the stakeholders, sorts out the opinions and suggestions from all parties and actively responds to the concerns raised.64 China Telecom Corporation LimitedResponsibility Management
+STAKEHOLDERS’ EXPECTATIONS ON THE COMPANY AND OUR RESPONSE
+StakeholdersCommunications 
+Mechanism and MethodsExpectations on China 
+Telecom Our Response
+Investors • Statements and 
+announcements
+• Reports and visits• Daily communications• Investor conferences• Asset value retention and 
+appreciation
+• Regulating corporate 
+governance
+• Operational risk prevention• Regulating information 
+disclosure• Operate steadily and continue to create value for 
+shareholders
+• Enhance corporate governance level and continuously 
+enhance internal control system
+• Protect the rights of investors, especially small and 
+medium investors, in accordance with laws
+• Strictly comply with the disclosure requirements of 
+corporate information
+Customers • Customer service hotline
+• Customer manager’s visits• Customer surveys• Customer communications 
+activities• Suitable and good business 
+products
+• Enhancement of service 
+quality
+• Tariff reduction• Harmful information 
+prevention
+• Personal privacy protection• Promote business and products innovation
+• Promote transparent consumption• Set reasonable and preferential tariff• Regulate value-added service cooperation management• Protect customer information in accordance with 
+laws
+Employees • Employee representative 
+congress
+• Employee-management 
+conversations
+• Employee opinion surveys• Complaints and grievances• Legal rights protection
+• Realisation of professional 
+development
+• Management participation• Caring for employees• Regulate labour management
+• Optimise income distribution and welfare protection 
+mechanism
+• Reinforce employee training and enhance career 
+development
+• Count on the function of employee representative 
+congress
+• Enhance work conditions6565  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Responsibility Management
+StakeholdersCommunications 
+Mechanism and MethodsExpectations on China 
+Telecom Our Response
+Government 
+and Regulatory Authorities• Meetings
+• Statements or reports• Reports and visits• Compliance with laws and 
+regulations
+• Government 
+management requirement implementation
+• Facilitation of industry 
+development
+• Promotion of employment• Govern the corporate in accordance with laws, and 
+operate with integrity
+• Pay taxes in accordance with laws, and foster 
+employment opportunities
+• Provide innovative informatisation products 
+and services, promote high-quality economic development
+• Actively provide advice and suggestions
+Supply Chain • Business communications
+• Business trainings• Seminars or forums• Equal and mutually 
+beneficial cooperation
+• Co-creation of value• Promotion of industry 
+development• Cooperate with integrity, create mutual benefit and 
+achieve win-win
+• Actively create an industrial ecosphere and promote 
+industry development
+Peers • Forums or conferences
+• Dispute coordination and 
+resolution
+• Special topic working 
+groups
+• Visits• Lawful and fair competition
+• Reinforce communications 
+and cooperation
+• Promotion of healthy 
+development of the industry• Actively communicate and exchange experience
+• Promote inter-connection and inter-communications• Actively engage in co-building and co-sharing
+Community • Community 
+communications activities
+• Community co-building 
+activities
+• Social welfare activities• Environment protection
+• Telecommunications 
+universal services
+• Emergency 
+communications assurance
+• Assisting vulnerable groups• Implement energy conservation and emission 
+reduction as well as environmental protection measures
+• Actively fulfill universal services obligation• Maintain smooth communications
+• Promote poverty alleviation and help the disabled 
+and people in need66 China Telecom Corporation LimitedResponsibility Management
+ANALYSIS OF MATERIAL ISSUES
+In accordance with the ESG subject areas contained in the Environmental, Social and Governance Reporting Guide 
+as set out in Appendix 27 to the Listing Rules of the Hong Kong Stock Exchange, with reference to the United Nations SDGs and the GRI Standards, while taking into consideration the expectations and needs of stakeholders based on the characteristics of our business and the industry as well as the impact of our business operations on the economy, environment and society, China Telecom assesses ESG issues that are relevant and material to the Company’s business operations from the dual perspectives of its importance to stakeholders and its impact on the Company’s business operations, and selects and establishes a materiality matrix (see below) as the basis for this report’s disclosure.
+Operating in compliance 
+with laws and regulations
+Promoting energy conservation 
+and emission reduction
+Addressing and mitigating climate change
+Caring for employees’ well-beingEmployment in compliance 
+with laws and regulationsMaintaining network and
+information security
+Enjoying digital life
+Empowering digital 
+transformation
+Protecting ecological environment 
+with engineering construction
+Promoting social welfareProviding heartfelt 
+services to customers
+Caring for safety and 
+occupational healthPromoting the co-building 
+and co-sharing of 
+communications 
+infrastructure Promoting integrity 
+governance and anti-corruptionMaintaining smooth communications
+Strengthening 
+sci-tech innovation
+Accelerating the 
+construction of new infrastructure
+Promoting employees’ 
+development
+Supporting rural revitalisation
+Promoting responsible 
+supply chainHigh Importance to stakeholders
+High Impact on the Company’s business operations6767  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Responsibility Management
+The main issues of this report are presented in the following table:
+With reference to the environmental, social and 
+governance areas listed in the Environmental, 
+Social and Governance Reporting Guide of the Hong Kong Stock ExchangeMain environmental, social and governance 
+issues for the Company
+A Environmental
+A1 EmissionsA2 Use of ResourcesA3 The Environment and Natural Resources
+A4 Climate ChangePromoting energy conservation and emission reduction
+Promoting energy conservation and emission reductionProtecting ecological environment with engineering constructionPromoting the co-building and co-sharing of communications infrastructureAddressing and mitigating climate changeMaintaining smooth communicationsPromoting responsible supply chain
+B Social
+B1 Employment
+B2 Health and Safety
+B3 Development and TrainingB4 Labour StandardsB5 Supply Chain ManagementB6 Product Responsibility
+B7 Anti-corruption
+B8 Community InvestmentEmployment in compliance with laws and regulations
+Caring for employees’ well-beingCaring for safety and occupational healthPromoting employees’ developmentEmployment in compliance with laws and regulationsPromoting responsible supply chainStrengthening sci-tech innovationAccelerating the construction of new infrastructureMaintaining network and information securityEnjoying digital lifeEmpowering digital transformationProviding heartfelt services to customersOperating in compliance with laws and regulationsPromoting integrity governance and anti-corruptionSupporting rural revitalisationPromoting social welfareTABLE OF THE INDICATORS
+68 China Telecom Corporation LimitedIssues No. Name of Indicators Unit Year 2021 Year 2020
+Emissions 1. Scope 1: Direct greenhouse gas emissions1million tons CO2e 0.28 0.21
+2. Scope 2: Indirect greenhouse gas emissions1million tons CO2e 15.18 13.55
+3. Total greenhouse gas emissions1million tons CO2e 15.46 13.76
+4.Greenhouse gas emissions per unit operating 
+revenue1tons CO2e/RMB million 35.18 34.96
+5. Sewage emissions2million tons 29.55 30.57
+6. SO2 emissions3tons 26.86 55.75
+7. Non-hazardous waste produced4tons 23,243.50 23,526.40
+8.Non-hazardous waste produced per unit 
+operating revenuetons/RMB million 0.05 0.06
+9. Hazardous waste produced4tons 17,760.76 18,378.93
+10.Hazardous waste produced per unit operating 
+revenuetons/RMB million 0.04 0.05
+11. Electronic waste produced4tons 39,343.05 53,982.39
+12.Electronic waste produced per unit operating 
+revenuetons/RMB million 0.09 0.14
+Use of Resources 13. Electricity consumption5MWh 25,870,117.27 22,833,000.00
+14. Natural gas consumption5MWh 95,563.15 83,263.48
+15. Coal consumption5MWh 14,644.36 30,040.47
+16. Gasoline consumption5MWh 756,017.63 499,519.67
+17. Diesel consumption5MWh 233,367.88 204,035.00
+18. Purchased heat consumption amount5MWh 367,109.87 343,830.71
+19. Overall energy consumption5MWh 27,336,820.16 23,993,689.33
+20.Overall energy consumption per unit of 
+information flowMWh/TB 0.0344 0.0375
+21. Overall energy consumption per unit operating revenue MW h/RMB million 62.19 60.97
+22.Power consumption per carrier frequency at
+ base stationskwh/carrier frequency 1,391.04 1,254.81
+23. Water consumption6million tons 34.76 35.97
+24. Water consumption per unit operating revenue tons/RMB million 79.08 91.3925. Reclaimed water consumption
+6tons 61,332.93 253,980.386969  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Table of the Indicators
+Issues No. Name of Indicators Unit Year 2021 Year 2020
+The Environment and 
+Natural Resources26.Investment in energy saving and environmental 
+conservation7RMB million 764.19 614.09
+Product 
+Responsibility27.Countries and regions of mobile data 
+international roaming and roaming in Hong Kong, Macau and Taiwan– 248 248
+28.Domestic administrative village fibre 
+broadband coverage%9 7 9 6
+29.Domestic administrative village 4G network 
+coverage%9 6 9 5
+30.Internet backbone network interconnection 
+bandwidthGbps 17,705.00 12,305.00
+31. International interconnection bandwidth Gbps 10,792.00 9,985.26
+32. Call drop rate of mobile communication
+8% 0.03 0.05
+33.Call completion rate of mobile communication 
+network8% 99.14 99.07
+34. Call completion rate for access line % 92.25 93.0535.Packet loss rate of broadband Internet 
+ChinaNet backbone network% 0.03 0.06
+36. Mobile service user satisfaction
+9points 81.56 –
+37. Wireline Internet access user satisfaction9points 80.95 78.90
+38. Wireline voice user satisfaction9points 87.44 87.60
+39.Percentage of in-time response to international 
+customer repair reports% 99.68 99.64
+40. International customer satisfaction points 93.40 92.30
+41. Number of new patents granted – 505 400
+42. Number of new invention patents granted – 481 38343. Number of phishing and fraud websites blocked – 2,925 9,08044. Number of customer complaints
+10person-times 64,492 –
+45. Customer complaint rate10person-times/million users 96.20 –
+Anti-corruption 46. Number of anti-corruption education activities – 24,997 31,135
+47.Attendance of anti-corruption education and 
+trainingsperson-times 1,170,320 1,041,420
+48. Number of corruption cases15–0 –70 China Telecom Corporation LimitedTable of the Indicators
+Issues No. Name of Indicators Unit Year 2021 Year 2020
+Supplier 49. Total number of suppliers11– 18,520 –
+50. Number of suppliers in Mainland China11– 18,515 –
+51.Number of suppliers in regions of Hong Kong, 
+Macau and Taiwan of China11–3 –
+52.Number of suppliers from other countries and 
+regions11–2 –
+Employment 53. Proportion of female managers % 20.89 20.33
+54. Total number of employees12– 278,922 281,192
+55. Number of full-time employees12– 272,157 274,298
+56. Number of part-time employees12– 6,765 6,894
+57. Number of employees under the age of 30 – 37,728 36,47158. Number of employees aged 30-49 – 176,572 186,00859. Number of employees aged 50 and above – 64,622 58,71360. Number of male employees – 189,461 191,09861. Number of female employees – 89,461 90,09462. Number of employees in Mainland China
+15– 276,781 –
+63.Number of employees in Hong Kong, Macau, 
+Taiwan and overseas branches15– 2,141 –
+64. Percentage of ethnic minority employees12% 6.81 6.62
+65. Number of new employees12– 12,016 11,936
+66. Percentage of female among new employees12% 36.81 38.91
+67. Turnover rate of employees under the age of 30 % 5.18 5.3868. Turnover rate of employees aged 30-49 % 1.13 1.1369. Turnover rate of employees aged 50 and above % 0.71 1.0670. Turnover rate of female employees % 1.64 1.8671. Turnover rate of male employees % 1.55 1.5872. Turnover rate of employees in Mainland China % 1.59 1.67
+73.Turnover rate of employees in Hong Kong, Macau, 
+Taiwan and overseas branches% 0.47 0.507171  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Table of the Indicators
+Issues No. Name of Indicators Unit Year 2021 Year 2020
+Safety and Health 74. Serious injury rate per 1,000 employees13number of serious 
+injuries/thousand0.00 0.00
+75. Loss of working days due to work-related injury13days 0.00 0.00
+76. Number of participants in safety emergency drills person-times 244,619 261,08777. Number of participants in health and safety trainings person-times 353,057 385,30578. Participation rate of employee health checkup
+12% 90.40 89.82
+79. Number of work-related fatalities13–0 1
+80. Fatality rate per 1,000 employees13number of deaths/
+thousand0.0000 0.0036
+Training and 
+Development1481. Training expenses per employee RMB/person 2,693.82 2,242.15
+82. Number of internal trainers – 14,289 13,054
+83. Total number of participants trained 10,000 person-times 45.79 46.5384. Number of senior management trained person-times 499 48785. Number of middle-level management trained person-times 61,343 58,99986. Number of general employees trained person-times 396,054 405,83587. Number of male employees trained person-times 270,768 297,18088. Number of female employees trained person-times 187,128 168,141
+89.Number of employees passed skill certification 
+examsperson-times 20,794 26,680
+90. Number of employees enrolled in online college 10,000 persons 22.69 22.12
+91. Average training time per employee hours/person 43.16 29.49
+92. Average training time per senior management hours/person 87.94 58.3093. Average training time per middle-level management hours/person 52.74 43.4094. Average training time per general employee hours/person 41.95 27.7595. Average training time per male employee hours/person 37.75 28.9796. Average training time per female employee hours/person 54.56 30.5997. Average training time in online college per employee hours/person 40.73 50.18
+98.Proportion of senior management 
+participating in training% 83.20 80.21
+99.Proportion of middle-level management 
+participating in training% 74.70 58.44
+100.Proportion of general employees participating 
+in training% 57.80 51.44
+101.Proportion of male employees participating 
+in training% 58.70 51.35
+102.Proportion of female employees participating 
+in training% 61.90 54.7772 China Telecom Corporation LimitedTable of the Indicators
+Issues No. Name of Indicators Unit Year 2021 Year 2020
+Community 103. Total service time of volunteers 10,000 hours 65.13 74.14
+104. Number of participants in volunteering activities 10,000 persons 13.74 14.00105. Number of volunteering activities sessions 12,754 10,195106. Volunteer service activities input amount RMB million 19.02 18.83
+107. Number of participated pole line co-built kilometres 3,488 5,217
+108. Number of provided pole line co-shared kilometres 19,829 11,946109. Number of co-built pipelines participated kilometres 8,076 8,901110. Number of co-shared pipelines provided kilometres 1,210 1,399
+111.Number of co-built indoor distribution 
+systems participated– 42,476 24,865
+112.Personnel involved in emergency 
+communication supportperson-times 676,075 146,397
+113.Number of emergency communication 
+equipment dispatchedset-times 110,731 29,342
+114.Number of emergency communication 
+vehicles dispatchedvehicle-times 182,773 55,428
+115.Number of emergency public service 
+messages sentmillion pieces 17,911.36 2,489.73
+Notes:
+1. Greenhouse gas is measured based on the Greenhouse Gas Protocol – Enterprise Accounting and Reporting Standards  of World Resources Institute 
+(WRI) and World Business Council for Sustainable Development (WBCSD), the 2006 IPCC Guidelines for National Greenhouse Gas Inventories  of 
+Intergovernmental Panel on Climate Change (IPCC) and the Fourth Assessment Report 2007  of Intergovernmental Panel on Climate Change (IPCC), 
+etc.;
+Scope I: direct greenhouse gas emission includes the greenhouse gas emission from use of natural gas, coal, gasoline and diesel ;
+Scope II: indirect greenhouse gas emission includes the greenhouse gas emission from purchased electricity and heating power, w here the electricity 
+emission factors shall refer to the base line emission factors of regional power grids in China released by Ministry of Ecology  and Environment, 
+Department of Climate Change; and the emission factor for heat shall refer to the Guidelines for Calculation Methods and Reporting of Greenhouse 
+Gas Emissions from Industrial and Other Industries Enterprises (Trial)  (ʈุՉ˼БุΆุ๝܃ं᜗રࣨ׳ၑ˙جၾజѓیܸ ༊Б) issued by the 
+General Office of National Development and Reform Commission of the PRC;
+Total greenhouse gas emission shall be the sum of Scope I (direct greenhouse gas emission) and Scope II (indirect greenhouse ga s emission).
+2. The quantity of sewage emission is measured based on water consumption, and the wastewater discharge coefficient shall be ba sed on GB50318-
+2017 Code of Urban Wastewater Engineering Planning of the National Standards of the PRC  and relevant documents of National Bureau of Statistics 
+of the PRC.
+3. SO2 emissions are calculated with the method of the State-owned Assets Supervision and Administration Commission of the State Coun cil of the 
+PRC.
+4. Non-hazardous waste includes domestic waste. The quantity of domestic waste produced is measured based on the per capita hou sehold waste 
+output coefficient as specified in the guidance released by the State Council of the PRC. Hazardous waste includes waste storag e batteries. 
+Electronic wastes include waste telecommunications equipment, waste cables, waste terminals.7373  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Table of the Indicators
+5. Statistics on electricity consumption, natural gas consumption, coal consumption, gasoline consumption, diesel consumption, purchased heat 
+consumption and overall energy consumption cover the Company’s headquarters and 31 provincial branches; the conversion coeffici ent for 
+each energy consumption shall refer to GB/T 2589-2020: the National Standardised General Principles for Calculation of Comprehensive Energy 
+Consumption of the PRC  (ʕശɛ͏΍ձ਷਷࢕ᅺ๟ၝΥঐঃࠇၑஷۆ ).
+6. The water source used by the Company comes from municipal tap water supply or purchased reclaimed water, and there is no pro blem in obtaining 
+water source.
+7. Investment in energy saving and environmental conservation comprises of two categories: the Company’s contribution and contr actual energy 
+management.
+8. VoLTE data was used for call drop rate of mobile communication and call completion rate of mobile communication network afte r the full commercial 
+launch of VoLTE (based on 4G network calls) business in 2019.
+9. The data sources of user satisfaction for the year of 2021 are from the Ministry of Industry and Information Technology. In 2021, the Ministry of 
+Industry and Information Technology optimised the Telecom Customer Satisfaction Index (TCSI) model, combining handset Internet access user and 
+mobile voice user satisfaction into mobile service user satisfaction, and the optimised model includes the mobile service user satisfaction, wireline 
+Internet access user satisfaction and wireline voice user satisfaction.
+10. The data sources of number of customer complaints and customer complaint rate in 2021 are from the Ministry of Industry and Inf ormation 
+Technology. The data sources of the number of customer complaints and customer complaint rate in 2020 were not disclosed.
+11. The total number of suppliers, number of suppliers in Mainland China, number of suppliers in regions of Hong Kong, Macau an d Taiwan of China, 
+number of suppliers from other countries and regions in 2021 refer to the group-level of China Telecommunications Corporation a nd provincial 
+centralised procurement suppliers. The total number of suppliers disclosed in 2020 was 277, and the data source was the central ised procurement 
+suppliers at the group-level of China Telecommunications Corporation. In the same year, the number of suppliers in Mainland Chi na, number of 
+suppliers in regions of Hong Kong, Macau and Taiwan of China, number of suppliers from other countries and regions were not dis closed.
+12. The total number of employees includes the number of contract workers, part-time employees, dispatched employees and other employees, of 
+which, contract workers are counted as full-time employees, whereas dispatched employees, part-time employees and other employe es are counted 
+as part-time employees;
+The statistics on the percentage of ethnic minority employees cover the branches in Mainland China, and the statistical calibre  is consistent with the 
+total number of employees;
+Number of new employees, percentage of female among new employees and participation rate of employee health checkup are calcula ted based on 
+contract employees.
+13. Serious injury rate per 1,000 employees, loss of working days due to work-related injury, number of work-related fatalities  and fatality rate per 1,000 
+employees are the number of work-related injuries and fatalities of employees on contract terms resulting from safety liability  accidents. In the year of 
+2019, number of work-related fatalities was 0, the fatality rate per 1,000 employees was 0.0000 deaths per thousand employees.
+14. Among the training and development indicators, the statistical methodology for calibre of training expenses per employee an d the number of internal 
+trainers are consistent with that of the total number of employees, and the statistical calibre of other indicators (serial num bers 83-102) are consistent 
+with contract employees and dispatched employees.
+15. In 2020, the number of corruption cases, the number of employees in Mainland China, and the number of employees in Hong Kon g, Macau, Taiwan 
+and overseas branches were not disclosed.INDEPENDENT PRACTITIONER’S 
+ASSURANCE REPORT
+74 China Telecom Corporation Limited
+2022/SH-0099
+(Page 1/3)
+Independent Practitioner’s Assurance Report
+English Translation for Reference OnlyTo the Board of Directors of China Telecom Corporation Limited
+We have been engaged to perform a limited assurance engagement on the selected 2021 key data as defined below in 
+the 2021 Corporate Social Responsibility Report (“CSR report”) of China Telecom Corporation Limited (the “Company”).
+Selected key data
+The selected key data in the Company’s 2021 CSR Report that is covered by this report is as follows:
+• Countries and regions of mobile data international roaming and 
+roaming in Hong Kong, Macau and Taiwan• Number of employees in Mainland China
+• Mobile service user satisfaction (points) • Number of employees in Hong Kong, Macau, Taiwan and overseas 
+branches
+• Wireline Internet access user satisfaction (points) • Percentage of ethnic minority employees (%)
+• Wireline voice user satisfaction (points) • Number of new employees
+• International customer satisfaction (points) • Percentage of female among new employees (%)• Number of new patents granted • Turnover rate of employees under the age of 30 (%)
+• Number of new invention patents granted • Turnover rate of employees aged 30-49 (%)
+• Number of customer complaints (person-times) • Turnover rate of employees aged 50 and above (%)• Customer complaint rate (person-times/million users) • Turnover rate of female employees (%)
+• Number of anti-corruption education activities • Turnover rate of male employee (%)
+• Number of corruption cases • Turnover rate of employees in Mainland China (%)• Total number of suppliers • Turnover rate of employees in Hong Kong, Macau, Taiwan and 
+overseas branches (%)
+• Number of suppliers in Mainland China • Serious injury rate per 1,000 employees (number of serious injuries/
+thousand)
+• Number of suppliers in regions of Hong Kong, Macau and Taiwan of 
+China• Loss of working days due to work-related injury (days)
+• Number of suppliers from other countries and regions • Participation rate of employee health checkup (%)
+• Proportion of female managers (%) • Number of work-related fatalities
+• Total number of employees • Fatality rate per 1,000 employees (number of deaths/thousand)
+• Number of full-time employees • Number of internal trainers• Number of part-time employees • Number of employees passed skill certification exams (person-times)
+• Number of employees under the age of 30 • Number of employees enrolled in online college (10,000 persons)
+• Number of employees aged 30-49 • Average training time in online college per employee (hour/person)• Number of employees aged 50 and above • Training expenses per employee (RMB/person)
+• Number of male employees • Number of co-built pipelines participated (kilometres)
+• Number of female employees • Number of co-shared pipelines provided (kilometres)
+౷ശ͑༸ʕ˂ึࢪࠇԫਕה तࣿ౷ஷΥྫ
+PricewaterhouseCoopers Zhong Tian LLP, 11/F PricewaterhouseCoopers Center Link Square 2, 202 Hu Bin Road, Huangpu District, Shanghai 200021, PRCT: +86 (21) 2323 8888, F: +86 (21) 23238800, www.pwccn.com7575
+  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Independent Practitioner’s Assurance Report
+2022/SH-0099
+(Page 2/3)
+Our assurance was with respect to the year ended 31 December 2021 information only and we have not performed any 
+procedures with respect to earlier periods or any other elements included in the 2021 CSR Report.
+Criteria
+The criteria used by the Company to prepare the selected key data in the 2021 CSR report is set out in notes to the “Table of Indicators” of the 2021 CSR report (the “basis of reporting”), which is based on the “ESG Reporting Guide”, Appendix 27 to the Rules Governing the Listing of Securities on The Stock Exchange of Hong Kong Limited (“Listing Rules”) by Hong Kong Exchanges and Clearing Limited (“HKEx”).
+The Board of Directors’ Responsibilities
+The Board of Directors of the Company is responsible for the preparation of the selected key data in the 2021 CSR report in accordance with the “ESG Reporting Guide”, Appendix 27 to the Rules Governing the Listing Rules by HKEx and the basis of reporting. This responsibility includes designing, implementing and maintaining internal control relevant to the preparation of the selected key data in the 2021 CSR report that is free from material misstatement, whether due to fraud or error.
+Our Independence and Quality Control
+We have complied with the independence and other ethical requirement of the International Code of Ethics for Professional Accountants (including International Independence Standards) issued by the International Ethics Standards Board for Accountants, which is founded on fundamental principles of integrity, objectivity, professional competence and due care, confidentiality and professional behaviour.
+Our firm applies International Standard on Quality Control 1 and accordingly maintains a comprehensive system of quality 
+control including documented policies and procedures regarding compliance with ethical requirements, professional standards and applicable legal and regulatory requirements.
+Practitioner’s Responsibilities
+It is our responsibility to express a conclusion on the selected key data in the 2021 CSR report based on our work.
+We conducted our work in accordance with the International Standard on Assurance Engagements 3000 (Revised) 
+“Assurance Engagements Other Than Audits or Reviews of Historical Financial Information”. This standard requires that we plan and perform our work to form the conclusion.76 China Telecom Corporation Limited
+Independent Practitioner’s Assurance Report
+2022/SH-0099
+(Page 3/3)
+The procedures performed in a limited assurance engagement vary in nature and timing from, and are less in extent 
+than for, a reasonable assurance engagement. Consequently, the level of assurance obtained in a limited assurance engagement is substantially lower than the assurance that would have been obtained had a reasonable assurance engagement been performed. Accordingly, we do not express a reasonable assurance opinion about whether the Company’s 2021 selected key data in the 2021 CSR report has been prepared, in all material respects, in accordance with the basis of reporting. Our work involves assessing the risks of material misstatement of the selected key data in the 2021 CSR report whether due to fraud or error, and responding to the assessed risks. The extent of procedures selected depends on our judgment and assessment of the engagement risk. Within the scope of our work, we have performed the following procedures in the Headquarter, Shanghai Branch and Beijing Branch of the Company (we have not conducted work on other locations):
+1) Interviews with relevant departments of the Company involved in providing information for the selected key data 
+within the CSR Report; and
+2) Analytical procedures;3) Examination, on a test basis, of documentary evidence relating to the selected key data on which we report;4) Recalculation; and5) Other procedures deemed necessary.
+Inherent Limitation
+The absence of a significant body of established practice on which to draw to evaluate and measure non-financial information allows for different, but acceptable, measures and measurement techniques and can affect comparability between entities.
+Conclusion
+Based on the procedures performed and evidence obtained, nothing has come to our attention that causes us to believe that the 2021 selected key data in the 2021 CSR report is not prepared, in all material respects, in accordance with the basis of reporting.
+Restriction on Use
+Our report has been prepared for and only for the board of directors of the Company and for no other purpose. We do not assume responsibility towards or accept liability to any other person for the content of this report.
+PricewaterhouseCoopers Zhong Tian LLP
+Shanghai, China 
+March 17, 2022INDEX
+7777  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Environmental, Social and Governance Reporting Guide  in Appendix 27 of the Listing Rules of the Hong Kong Stock 
+Exchange
+Aspects Content Location in the Report
+Mandatory Disclosure 
+RequirementsThe Statement of the Board of DirectorsFor details, please refer to 
+“The Statement of the Board of Directors”
+Reporting Principles Responsibility managementReporting Scope Responsibility management
+A1 Emissions General Disclosure
+Information on:(a) the policies; and(b) compliance with relevant laws and regulations that have a 
+significant impact on the issuer relating to air and greenhouse gas emissions, discharges into water and land, and generation of hazardous and non-hazardous waste.Practicing green operation
+Addressing and mitigating climate change
+A1.1 The types of emissions and respective emissions data. Table of the Indicators
+A1.2 Direct (Scope 1) and energy indirect (Scope 2) greenhouse gas 
+emissions (in tons) and, where appropriate, intensity (e.g. per unit of production volume, per facility).Table of the Indicators
+A1.3 Total hazardous waste produced (in tons) and, where appropriate, 
+intensity (e.g. per unit of production volume, per facility).Table of the Indicators
+A1.4 Total non-hazardous waste produced (in tons) and, where 
+appropriate, intensity (e.g. per unit of production volume, per facility).Table of the Indicators
+A1.5 Description of emission target(s) set and steps taken to achieve 
+them.Addressing and mitigating climate 
+change
+A1.6 Description of how hazardous and non-hazardous wastes are 
+handled, and a description of reduction target(s) set and steps taken to achieve them.Promoting energy conservation and 
+emission reduction78 China Telecom Corporation LimitedIndex
+Aspects Content Location in the Report
+A2 Use of Resources General Disclosure
+Policies on the efficient use of resources, including energy, water and other raw materials.Promoting energy conservation and 
+emission reduction
+A2.1 Direct and or indirect energy consumption by type (e.g. electricity, 
+gas or oil) in total (kWh in ’000s) and intensity (e.g. per unit of production volume, per facility).Table of the Indicators
+A2.2 Water consumption in total and intensity (e.g. per unit of 
+production volume, per facility).Table of the Indicators
+A2.3 Description of energy use efficiency target(s) set and steps taken 
+to achieve them.Promoting energy conservation and 
+emission reductionAddressing and mitigating climate change
+A2.4 Description of whether there is any issue in sourcing water that 
+is fit for purpose, water efficiency target(s) set and steps taken to achieve them.Promoting energy conservation and 
+emission reduction
+ A2.5 Total packaging material used for finished products (in tons) and, 
+if applicable, with reference to per unit produced.No significant correlation
+ 1
+A3 The Environment and 
+Natural ResourcesGeneral Disclosure
+Policies on minimising the issuer’s significant impacts on the environment and natural resources.Protecting the ecological environment 
+in engineering construction
+A3.1 Description of the significant impacts of activities on the 
+environment and natural resources and the actions taken to manage them.Protecting the ecological environment 
+in engineering constructionPromoting co-building and co-sharing of communications infrastructure
+A4 Climate Change General Disclosure
+Policies on identification and mitigation of significant climate-related issues which have impacted, and those which may impact, the issuer.Addressing and mitigating climate 
+changeMaintaining smooth communications
+A 4.1 Description of the significant climate-related issues which have 
+impacted, and those which may impact, the issuer, and the actions taken to manage them.Addressing and mitigating climate 
+changeMaintaining smooth communications7979  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Index
+Aspects Content Location in the Report
+B1 Employment General Disclosure
+Information on:(a) the policies; and(b) compliance with relevant laws and regulations that have a 
+significant impact on the issuer relating to compensation and dismissal, recruitment and promotion, working hours, rest periods, equal opportunity, diversity, anti-discrimination, and other benefits and welfare.Caring for employees’ well-being
+Employment in compliance with laws and regulations
+B1.1 Total workforce by gender, employment type (e.g. full-time or 
+part-time), age group and geographical region.Table of the Indicators
+B1.2 Employee turnover rate by gender, age group and geographical 
+region.Table of the Indicators
+B2 Health and Safety General Disclosure
+Information on:(a) the policies; and(b) compliance with relevant laws and regulations that have a 
+significant impact on the issuer relating to providing a safe working environment and protecting employees from occupational hazards.Caring for safety and occupational health
+B2.1 Number and rate of work-related fatalities occurred in each of the 
+past three years including the reporting year.Table of the Indicators
+B2.2 Lost days due to work injury. Table of the Indicators
+B2.3 Description of occupational health and safety measures adopted, 
+and how they are implemented and monitored.Caring for safety and occupational health80 China Telecom Corporation LimitedIndex
+Aspects Content Location in the Report
+B3 Development and Training General Disclosure
+Policies on improving employees’ knowledge and skills for discharging duties at work. Description of training activities.
+Note: Training refers to vocational training. It may include internal and external 
+courses paid by the employer.Promoting employees’ development
+B3.1 The percentage of employees trained by gender and employee 
+category (e.g. senior management, middle management).Table of the Indicators
+B3.2 The average training hours completed per employee by gender 
+and employee category.Table of the Indicators
+B4 Labour Standards General Disclosure
+Information on:(a) the policies; and(b) compliance with relevant laws and regulations that have a 
+significant impact on the issuer relating to preventing child and forced labour.Employment in compliance with 
+laws and regulations
+B4.1 Description of measures to review employment practices to avoid 
+child and forced labour.Employment in compliance with 
+laws and regulations
+B4.2 Description of steps taken to eliminate such practices when 
+discovered.Employment in compliance with 
+laws and regulations
+B5 Supply Chain Management General Disclosure
+Policies on managing environmental and social risks of the supply chain.Promoting responsible supply chain
+B5.1 Number of suppliers by geographical region. Table of the Indicators
+B5.2 Description of practices relating to engaging suppliers, number of 
+suppliers where the practices are being implemented, and how they are implemented and monitored.Promoting responsible supply chain
+B5.3 Description of practices used to identify environmental and social 
+risks along the supply chain, and how they are implemented and monitored.Promoting responsible supply chain
+B5.4 Description of practices used to promote environmentally 
+preferable products and services when selecting suppliers, and how they are implemented and monitored.Promoting responsible supply chain8181  CORPORATE SOCIAL RESPONSIBILITY REPORT 2021Index
+Aspects Content Location in the Report
+B6 Product Responsibility General Disclosure
+Information on:(a) the policies; and(b) compliance with relevant laws and regulations that have a 
+significant impact on the issuer relating to health and safety, advertising, labelling and privacy matters relating to products and services provided and methods of redress.Accelerating the construction of 
+new infrastructureMaintaining network and information securityProviding heartfelt services to customersEnjoying digital lifeEmpowering digital transformationOperation in compliance with laws and regulations
+B6.1 Percentage of total products sold or shipped subject to recalls for 
+safety and health reasons.No significant correlation
+ 2
+B6.2 Number of products and service-related complaints received and 
+how they are dealt with.Table of the Indicators
+Improving customer experience
+B6.3 Description of practices relating to observing and protecting 
+intellectual property rights.Strengthen sci-tech innovation
+B6.4 Description of quality assurance process and recall procedures. No significant correlation 2
+ B6.5 Description of consumer data protection and privacy policies, and 
+how they are implemented and monitored.Protecting the rights of customers 
+in accordance with laws
+B7 Anti-corruption General Disclosure
+Information on:(a) the policies; and(b) compliance with relevant laws and regulations that have a 
+significant impact on the issuer relating to bribery, extortion, fraud and money laundering.Promoting integrity building and 
+anti-corruption
+B7.1 Number of concluded legal cases regarding corrupt practices 
+brought against the issuer or its employees during the reporting period and the outcomes of the cases.Table of the Indicators
+B7.2 Description of preventive measures and whistle-blowing 
+procedures, and how they are implemented and monitored.Promoting integrity building and 
+anti-corruption
+B7.3 Description of anti-corruption training provided to directors and 
+employees.Promoting integrity building and 
+anti-corruption82 China Telecom Corporation LimitedIndex
+Aspects Content Location in the Report
+B8 Community Investment General Disclosure
+Policies on community engagement to understand the needs of the communities where the issuer operates and to ensure that its business activities take into consideration the communities’ interests.Supporting rural revitalisation
+Promoting social welfare
+B8.1 Focus areas of contribution (e.g. education, environmental 
+concerns, labour needs, health, culture, sport).Supporting rural revitalisation
+Promoting social welfare
+B8.2 Resources contributed (e.g. money or time) to the focus area. Table of the Indicators
+Notes:
+1. There is no significant correlation between the indicator of “packaging materials used for the finished products” and the Co mpany’s business. 
+Through the identification of material issues, the Company mainly reported the recycling and reusing of the main resources such  as storage batteries, 
+cables, terminals that are used in operations and services. For more details, please refer to the “Promoting energy conservatio n and emission 
+reduction” section.
+2. There is no significant correlation between the indicator of “recalling products” and the Company’s business. Through the id entification of material 
+issues, the Company mainly reported on maintaining network information security, assuring smooth communications and protecting the rights of 
+customers in accordance with laws. For more details, please refer to the “Maintaining network and information security” and “Pr oviding heartfelt 
+services to customers” sections.

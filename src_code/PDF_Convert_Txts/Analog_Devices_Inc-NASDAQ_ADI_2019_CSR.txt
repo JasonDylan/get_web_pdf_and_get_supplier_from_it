@@ -1,0 +1,2230 @@
+print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+ENGINEERING GOOD.
+ CORPORATE RESPONSIBILITY REPORT2019
+PUBLICATION DATE: MAY 2020
+ 12-MONTH PERIOD ENDING DECEMBER 31, 2019print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+PROTECTING AND REGENERATING THE ENVIRONMENT
+COMPANY INITIATIVES
+OUR GOALS
+GREENHOUSE GAS EMISSIONS REDUCTION
+ENERGY EFFICIENCY
+W ATER CONSERV ATION
+W ASTE GENERATION
+SYSTEMS AND COMPLIANCE
+OFFICE EFFICIENCYOUR SUSTAINABILITY APPROACH
+OUR STRATEGY AND PRIORITIES
+INNOV ATING FOR THE ENVIRONMENTPROMOTING GOOD GOVERNANCE
+CORPORATE GOVERNANCE
+DIRECTOR PROFILE
+SHAREHOLDER ENGAGEMENT  
+COMPLIANCE AND BUSINESS ETHICSABOUT OUR COMPANY
+WHO WE ARE
+AW ARDS AND RECOGNITION
+OUR IMPACT
+RESPONDING TO COVID-19
+IMPACT THROUGH ENGAGEMENT
+APPENDIX
+ABOUT THIS REPORT
+GRI INDEX
+UN SUSTAINABILITY GOALS 
+FORW ARD-THINKING STATEMENTMESSAGE FROM OUR CEO EMPOWERING PEOPLE
+MESSAGE FROM OUR CPO
+DIVERSITY AND INCLUSION
+WORKFORCE DATA SNAPSHOT
+COMPENSATION AND BENEFITS
+TALENT DEVELOPMENT
+WORKER SAFETYTABLE OF CONTENTS
+2 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+MESSAGE FROM OUR CEO 
+Throughout ADI’s 55-year history, we have successfully navigated 
+and adapted to changing global dynamics. Our ability to do so—and 
+our commitment to solving the world’s toughest problems while we 
+engineer a better future—has become even more evident during the 
+unprecedented challenges faced as a result of the COVID-19 pandemic.
+ 
+For example, ADI stepped in to help meet the needs of the medical 
+community by shifting towards technologies that support the global 
+response to the crisis. This included increasing the production of 
+components for critical point-of-care solutions, such as ventilators, 
+infusion pumps and diagnostic imaging systems.
+ 
+And our impact extends beyond our own capabilities and facilities. 
+The Analog Devices Foundation made donations of $4 million to the 
+World Health Organization’s COVID-19 Solidarity Response Fund and 
+was a key supporter of the Global Citizen “One World: Together At 
+Home” campaign. Additionally, the foundation donated $500,000 to 
+Massachusetts General Hospital’s Vaccine and Immunotherapy Center, 
+which will further advance the importance of testing and vaccine 
+research at the center.Combined, these efforts underscore our shared purpose and 
+commitment to our role as corporate citizens and are a testament  
+to what we can achieve when we align around solving complex  
+problems together.
+ 
+As we look beyond the immediate challenges  
+of our current environment, we believe  
+there is much more we can do to leverage  
+our expertise to make a positive impact  
+on the world around us. 
+VINCENT ROCHE
+CHIEF EXECUTIVE  
+OFFICER
+3 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+ADI is driven by the opportunity to play an important 
+role in the transition towards a more stakeholder-
+centric world. Our company goals revolve around having 
+a solid, yet adaptable business model that meets 
+the needs of our end customers, while maintaining 
+consistency between our values and our actions.
+ 
+This means reducing the negative environmental 
+impact of our business, while striving to deliver 
+solutions that can actually make a positive impact and 
+support regeneration goals. We are also focused on our 
+social impact, ranging from the empowerment of our 
+own people, to making a positive impact on the world 
+and communities around us.
+ 
+In fiscal 2019, we made significant progress against 
+each of our sustainability priorities. We made 
+significant strides toward our goal of reducing our 
+global direct and indirect greenhouse gas emissions by 
+50% by 2025 compared to our 2015 baseline. We also 
+continued our longstanding support of STEM education 
+initiatives, which has included FIRST Robotics since 
+1965. We are proud to be delivering meaningful results 
+as we work towards our goals.And we are off to a strong start in fiscal 2020,  
+building on last year’s progress. We established the  
+ADI Foundation to formalize the company’s philanthropy  
+and charitable giving. In April, ADI announced the 
+successful issuance of the company’s inaugural green 
+bond—the first in our industry— to help finance or 
+refinance eligible projects that offer environmental 
+sustainability benefits.
+ 
+This is all possible due to our talented employees, 
+who bring their ingenuity and energy to trailblazing 
+new sustainability solutions every day. Together, 
+we will continue to find new ways to leverage our 
+leading technology, domain expertise and customer 
+relationships to deliver a more sustainable future for 
+generations to come.
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT 4VINCENT ROCHE
+CHIEF EXECUTIVE OFFICERProtect and Regenerate the Environment  
+We will deliver solutions that reduce our 
+carbon and environmental footprint, as 
+well as restore and replenish our natural 
+resources and ecosystems.
+Empower People
+We aim to create opportunities for people and 
+make a meaningful impact on their lives—both 
+at ADI and in the broader community.
+Impact Through Engagement
+We will leverage the ingenuity of our  
+people to drive positive change and help  
+solve real-world problems that benefit our 
+lives, our communities and our planet.MESSAGE FROM OUR CEO print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddABOUT OUR COMPANY
+5 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.inddABOUT OUR COMPANY
+WHO WE ARE
+Our Values
+Innovate with Impact  
+We use innovation, continuous learning and  
+customer success to deliver value faster than  
+our competition.
+Create the Future  
+We form long-term, win-win alliances with our 
+customers, partners, employees and the communities  
+we serve.Maximize Our Potential  
+We achieve extraordinary things when we bring  
+together diverse voices and foster a culture of 
+inclusivity and invention.
+Execute with Excellence
+We deliver the highest quality, easy-to-use and 
+sustainable technologies that solve our customers’ 
+greatest challenges.Move with Agility
+We empower our people with the freedom to act with 
+courage, disrupt, experiment, take calculated risks and  
+be decisive.
+Share Our Success
+We celebrate achievements, create prosperity  
+and share our success with our people, community  
+and investors.
+We are insatiably 
+curious problem 
+solvers who 
+transform  
+people’s lives.
+Our Purpose  
+To invent and deliver the innovations behind the 
+world’s most advanced technologies.
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+6print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddBY-THE-NUMBERS SNAPSHOT
+Technologies for Today and Tomorrow
+Consumer
+34%  United States
+23%  Europe
+22%  China11% Japan
+9% Rest of Asia
+1% Rest of North/South America
+ABOUT OUR COMPANY
+13
+16
+21
+5013%
+16%
+21%
+50%Automotive
+Communications
+Industrial Autonomous Transportation  
+and MachinesAutomotive  
+Electrification5G and Next-Gen  
+ConnectivityDigital Health Industry 4.0  
+and Smart EnergyImmersive Consumer  
+Experiences
+Background  
+Founded: 1965
+Headquarters: Norwood, MA
+Employees: 16,000+
+Countries: 30+
+Worldwide sales, field applications, engineers,  
+distribution, design and technical support
+Products: ~45,000 SKUs
+Customers: 125,000+
+Publicly Listed—NASDAQ: ADI
+Design Centers: ~44
+Global Manufacturing: 
+U.S. (Massachusetts, California, Washington)
+Ireland | Philippines | Malaysia2019 Revenue: $6 Billion 2019 Revenue by Regions:
+Copyright © F ree Vector Maps.com
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+7print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddCorporate Reputation
+Employer AwardsAnalog Devices CEO, Vincent Roche  | Awarded to corporate leaders based on essential  
+leadership qualities
+Rankings based on employee evaluations
+Rankings based on employee satisfaction
+Ranked one of the top 15 largest Bay Area employers The world's top three-year performing companies in revenues, profits and stock
+Awarded to the world’s most innovative organizations which successfully develop  
+patented inventions that also have strong commercialization potential Performance based on matters related to corporate justness
+The top 100 public companies that are shaping the digital economy Index of the most sustainable corporations of the worldAW ARDS AND RECOGNITIONABOUT OUR COMPANY
+Forbes’ 100 Most Innovative Leaders Fortune 100 Fastest-Growing Companies
+The Boston Globe’s Top Places to WorkForbes America’s Best Large Employers 
+Silicon Valley Business Journal’s Best Places to Work 2019 2019
+2017-
+2020
+2017-
+2020
+2018-
+2019
+2017-
+20192020
+2019
+2019Derwent Top 100 Global Innovators™
+Forbes’ Top 100 Global  
+Digital CompaniesJust Capital Just 100
+Global 100 Most Sustainable Corporations  
+in the World by Corporate Knights
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+8print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+OUR SUSTAINABILITY APPROACH
+9 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.inddOUR SUSTAINABILITY APPROACH
+OUR STRATEGY AND PRIORITIES
+We believe that sustainability is about delivering holistic solutions to ensure we are making a real, 
+demonstrable impact in the world.
+Protect and Regenerate  
+the Environment  
+While we are focused on reducing our carbon footprint 
+and our impact on the environment today, we also 
+strive to deliver an even greater environmental impact. 
+Our goal is to make meaningful progress against 
+environmental regeneration efforts and partner with 
+our customers to help them solve their sustainability 
+challenges. We leverage our expertise to develop new 
+solutions to help restore natural resources, regenerate 
+the quality of our biosphere and reduce carbon. Empower People
+We are committed to helping our employees thrive 
+through education, inclusion and support. We are 
+focused on building programs within ADI to enhance  
+our diverse and accepting workplace culture, while  
+also broadening availability to STEM education, training 
+and employment to impoverished communities across 
+the globe.Impact Through Engagement
+ADI takes an active role in addressing problems that 
+impact our employees, our communities and our planet. 
+We stand behind our employee engagement efforts and 
+are proud to contribute to their causes, including our 
+recent donation-matching program for The World Health 
+Organization’s COVID-19 Solidarity Response Fund.
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+10print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddStakeholder Engagement
+We periodically evaluate  
+our sustainability priorities  
+outlined in this report to  
+ensure alignment with our  
+long-term strategy. As part 
+of this process, we regularly 
+engage with key stakeholders 
+to ensure we continue to focus 
+on the most important issues.Sustainability Agenda
+Our sustainability agenda is led and managed by our  
+Chief Executive Officer alongside a senior management 
+team that includes our Chief People Officer, Chief 
+Financial Officer, General Counsel, Senior Vice President  
+of Industrial and Consumer, and newly appointed  
+Director of Social Purpose. In addition, our Board of 
+Directors is fully engaged and receives updates from 
+senior management about our progress against our 
+sustainability initiatives.  
+Reporting and Disclosures
+We  utilize third-party disclosure initiatives to inform 
+our sustainability activities and reporting. Our 2019 
+Sustainability Report is prepared in accordance with  
+the Global Reporting Initiative: Core Option and we  
+also report separately to the CDP Climate Change and 
+Water Security projects. Our sustainability activities  
+and reporting are appropriately aligned with the  
+UN Sustainable Development Goals. Going forward,  
+we plan to review other evolving ESG disclosure 
+frameworks (e.g., TCFD and SASB) to better inform  
+our sustainability reports. Our Shareholders 
+We actively engage with our shareholders around topics 
+of interest, including sustainability reporting and human 
+capital management.
+Our Workforce  
+Through employee-led Green Teams, our employees  
+focus on improving sustainability at local offices and 
+provide feedback through our quarterly ADI Pulse 
+engagement survey.
+Our Suppliers  
+ADI is a proud member of the Responsible Business Alliance 
+and ensures our suppliers adhere to its code of conduct.
+Our Communities  
+ADI continues to fund and support STEM education and 
+local environmental initiatives across the globe.
+HOW WE MANAGE SUSTAINABILITYOUR SUSTAINABILITY APPROACH
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+11print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddINNOV ATING FOR THE ENVIRONMENT
+We are dedicated to using our expertise to make an enduring impact on people’s lives and the world around us. At their core, the 
+technologies and solutions we develop are supporting our environmental sustainability goals by reducing emissions, increasing 
+efficiency and enabling greater use of renewable energy sources. 
+Going the Distance with Electric Vehicles  
+EV battery systems are significant drivers of vehicle 
+cost. ADI’s battery management solutions (BMS)  
+reduce overall costs while improving battery 
+performance, range and safety. ADI’s BMS accurately 
+monitors the battery’s current and voltage profiles to 
+prevent over- and undercharging, while maximizing 
+battery life. This technology is supporting increased 
+adoption of EVs, which could prevent up to 60 million 
+tons of CO 2 from entering the atmosphere—  
+the equivalent of 70 million acres of forest.Maximizing Renewable Energy
+Maximizing power from wind and solar sources is 
+critical to driving the renewable energy revolution. 
+Our Energy Storage Systems provide a more reliable 
+supply of renewable energy sources, greatly enhancing 
+the viability of smart grids. Our power and isolation 
+technologies convert electricity from solar panels for 
+electrical power, and our data acquisition and signal 
+processing technologies ensure wind turbines operate 
+safely and effectively. These technology improvements 
+make power alternatives more viable as primary energy 
+sources in the future.Greener Data Centers
+Data centers are considered to be among the most 
+energy-intensive buildings and are estimated to account 
+for 2% of all electricity used in the U.S. alone.* The 
+ability to reduce data centers’ energy consumption is 
+necessary to help reduce their environmental impact. 
+ADI’s intelligent sensing systems can activate an entire 
+temperature, pressure and humidity sensing network 
+without disruption to data center operations, greatly 
+optimizing energy efficiency while maintaining reliability.
+ 
+*Source: U.S. Department of Energy  OUR SUSTAINABILITY APPROACH
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+12print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddMaking Factory Floors Safer
+Modern factories have robots and humans working 
+alongside each other. In the past, this proximity would 
+have posed potential dangers. ADI’s advanced robotics 
+technologies, such as drive and inverter control, LIDAR-
+based position sensing and 3D Time of Flight all improve 
+sensing capabilities, reduce collision and mitigate other 
+safety risks. And, variable speed motors deliver both motor- and process-efficiency 
+improvements to significantly reduce energy usage across the factory floor. 
+Connecting the World with 5G
+Analog Devices has been planning, designing and building core technologies that 
+make today’s 5G network infrastructure possible. ADI’s expertise in radio frequency 
+and microwave communications enables increasingly high-speed data conversion 
+and communication that are critical to the deployment of new 5G networks  
+opening the door to the exciting new opportunities 5G brings, including improved 
+access to healthcare, fully autonomous vehicles and improved 
+robotic connectivity.Tackling Healthcare Challenges 
+ADI’s critical measurement and control technologies are used in medical equipment 
+essential for diagnostics and treatment including ventilators, respirators, tests and 
+imaging systems—which has played an integral role in helping contain the COVID-19 
+pandemic and treating patients. And we remain committed to doing everything we 
+can to ensure critical medical supplies are getting to the front lines.
+We are also leveraging our domain expertise in partnership with biosensor 
+companies, research hospitals and the international Open Source Ventilator  
+project to deliver breakthrough technology and provide design assistance where  
+it is needed.IMPROVING LIVES THROUGH TECHNOLOGY
+OUR SUSTAINABILITY APPROACH
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+13print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+PRODUCT LIFECYLE
+Our customers rely on our products  
+for years, or even decades. We take 
+pride in the longevity of our designs,  
+and producing the same products 
+decade after decade is a cornerstone  
+of our business that we monitor as a  
+key performance metric. 
+We believe the best products are those that are useful  
+in the long term, and we purposefully design them to 
+avoid obsolescence as long as possible. All of our product 
+designs go through our Product Life Cycle program  
+to extend their useful life and incorporate a  
+design-for-environment concept to minimize needed 
+materials for manufacturing and packaging.
+14OUR SUSTAINABILITY APPROACH
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+14print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+15 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+ADI is committed to protecting the 
+environment and ensuring the health 
+and safety of employees, customers  
+and the public .
+We take this commitment seriously. As a company rooted 
+in technology and innovation, our products are often 
+implemented to further other companies’ or individuals’ 
+sustainability efforts. And so we choose to lead by example 
+in our activities as well. It’s why we purposefully design 
+our operations to minimize our environmental impact 
+and conserve resources, which we continually monitor 
+to help us improve resource efficiency and enhance our 
+sustainability efforts.COMPANY INITIATIVES
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+16print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd2025 TARGETS
+2030 TARGETSCO2 Emissions (Scope 1+2) Water Use Power Use
+Waste GenerationOUR GOALS
+At ADI, we’re proud of the progress we’ve made in reducing our 
+environmental impact . But we still have more to do, and so as good 
+corporate citizens, we have set these ambitious 2025 environmental 
+goals for our operations.
+50% 
+CO2 Reduction from 2015
+50% 
+  Recycling Rate
+0% 
+     Waste to Landfill100% 
+   Renewable EnergyPROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+17print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGreenhouse Gas Emissions Reduction 
+Greenhouse Gas (GHG) emissions are categorized into “scopes” based on their source. ADI monitors Scope 1 and Scope 2 emissions and consolidates  
+GHG emissions from which it has operational control: wafer fabrication facilities, and assembly and test facilities.  
+Emissions from sources owned or controlled by ADI,  
+including fossil fuels used on site.
+Indirect emissions from electricity, heating and cooling  
+generated offsite but purchased by ADI.
+Purchased goods and services; fuel and energy related activities 
+not included in Scope 1 or 2; waste generated in operations; 
+business travel; employee commuting; downstream transportation 
+and distribution and end-of-life treatment of sold products.SCOPE 
+1
+SCOPE 
+2
+SCOPE 
+3GREENHOUSE GAS EMISSIONS REDUCTION
+GHG Emissions, Tons  
+Improvements in our abatement system as well as shifting 
+to renewable energy sources have driven the decrease in our 
+Scope 1 + 2 by 37% from 2015 GHG Emissions, Tons
+Shift to
+Renewable
+Energy
+2015 2016 2017 2018 2019219,057 217,769
+146,567 145,036GHG Emissions,
+Tons,
+137,321
+Source and Associations
+SCOPE 1: Stationary combustion and process emissions: 
+Perflourocarbons (PFCs), SF6, NF3  
+(from wafer fabrication processes)  
+SCOPE 2: Purchased electricity  
+SCOPE 3: Business travelSince 2013, our Scope 1 and 2 emissions and our Scope 3 
+emissions from business travel have been verified by a  
+third party. We also report our emissions to the CDP, formerly  
+Carbon Disclosure Project.Emissions are measured and estimated using the Greenhouse 
+Gas Protocol and GWP from the IPCC Fifth Assessment report. 
+Emission factors used from US-EPA Climate Leadership 
+Emissions Factors for Greenhouse Gas Inventories and 
+market-based factors where available; otherwise, location-
+based emission factors were used.We exceeded the previous 2.5% intensity based Scope 1  
+reduction goal and we are moving to a more ambitious  
+absolute reduction goal of 50% Scope 1 + 2 emissions by  
+2025 from our 2015 baseline.PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+18print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddScope 1 & 2 Emissions
+ADI has achieved a 37% reduction in Scope 1 + 2 GHG emissions since 2015  
+due to renewable energy sourcing and more efficient abatement systems.
+ENVIRONMENTAL SPOTLIGHT: 
+Thanks to Renewable Energy
+68% 
+Reduction in site  
+Scope 2 GHG emissionsSCOPE 1 & 2
+The ADI Philippines site’s sources of greenhouse gas emissions include fuel, process gases and 
+purchased electricity. In 2017, the site shifted to a renewable energy supplier source, driving down 
+the sites’ Scope 2 emission by 68%. 
+The site also installed solar photovoltaic panels that will supply 25% of power needed for Building 4 
+and will provide cost savings after 10 years. PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+19print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddScope 3  
+We follow the Greenhouse Gas Protocol: A Corporate Accounting and Reporting 
+Standard in accounting for our emissions. Currently, ADI is only able to account 
+emissions from Business Travel under Scope 3.  ADI’s Scope 3 emissions saw  
+an upward trend since 2015, resulting from unique travel needs due to corporate 
+acquisitions and integration activities. However, ADI has implemented programs  
+to educate employees about GHG emissions associated with travel and commuting, 
+and we encourage employee carpooling or use other alternatives whenever possible. 
+For example, our Philippines site provides free commuting shuttle buses, and 
+ADI’s Wilmington, MA campus facilitates employee carpooling by providing prime 
+parking spots as incentives. ADI is also working to increase teleconference and 
+videoconference usage when possible to reduce emissions from business travel.
+Scope 3 Emissions (Business Travel)
+2015 2016 2017 2018 20196,9897,939
+4,5787,0319,616SCOPE 3
+Scope 3 Emissions (Business Travel) (Metric Tons CO 2)
+ENVIRONMENTAL SPOTLIGHT: 
+A Greener Commute
+ADI Wilmington supports electric vehicle (EV) drivers with onsite charging 
+stations. Availability started at six spaces in 2018, but is projected to  
+grow to 21 spaces by summer 2020 as the campus expands to become the 
+Analog Devices Global Headquarters.
+To help build interest in electric vehicles among employees, the 
+Wilmington Environmental Health and Safety department brought teams 
+together in two events to learn about growing demand for electric vehicle 
+variety, quality and how to make the switch from conventional cars. 
+The Green Energy Consumers Alliance shared information on annual fuel 
+savings, addressed “range anxiety” about battery capacity and provided 
+useful information about rebates and incentives for purchasing an electric 
+vehicle through their Drive Green Program. There was also a panel of four 
+electric vehicle-owning ADI employees who answered questions from  
+the audience like how EV S cars handle winter weather and why they made  
+the switch.PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+20 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+ENVIRONMENTAL SPOTLIGHT: 
+EVs at HQAs battery improvements continue, EVs are becoming more and more feasible for daily driving 
+needs. And ADI is constantly promoting their use among employees.
+In November 2018, ADI Wilmington—along with six other companies—pledged to participate in the 
+inaugural year of the MassEVolves program, which is a public/private partnership initiated by the 
+Massachusetts Executive Office of Energy and Environmental Affairs. The goal is to replace  
+300,000 fossil-fuel vehicles with electric alternatives by 2025. ADI is unique among the participants 
+in that our products directly improve EV efficiency and lower their costs, therefore making this 
+option more economical and environmentally friendly.EMBRACING ELECTRIC ALTERNATIVESPROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+21print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddENERGY EFFICIENCY
+Green design, better efficiency 
+and conservation initiatives 
+have helped us maintain 
+essentially the same electricity 
+usage (in million kWh) year over 
+year, even as we continue to 
+grow. In late 2016, we began 
+rapidly increasing our use of 
+renewable energy, and by 2019, 
+renewable sources supplied  
+52% of our energy needs.
+2015 2016 2017 2018 2019361 360 365 364 368
+7156190
+152
+Electricity Used (Million kWh) Electricity (Renewable Source) (Million kWh)Electricity Used (Million kWh)We exceeded the previous 2.5% intensity based electricity use reduction goal and we are 
+moving  to a more ambitious goal of using 100% Renewable Energy in all our manufacturing 
+sites by 2025.PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+22print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+Responsible Usage  
+Water is an essential part of ADI’s operations, and our water comes from public 
+sources. We treat a significant portion of that water to produce the high purity 
+deionized (DI) water necessary for our manufacturing operations. We carefully 
+monitor our water usage (in millions of gallons) at each of our operating facilities.  
+We have exceeded our previous 2.5% normalized reduction goal on water and  
+are now setting a new goal of doubling our water recycling/reuse rate by 2025  
+from our 2015 baseline. 
+Water conservation initiatives at our manufacturing sites have significantly 
+contributed to lowering our overall water usage despite the company’s 74% growth: 
+Our 2019 water usage (in million gallons) decreased by 6% from 2015, while water 
+recycling rates increased to 25%  from 15% in 2015.
+Water Used
+2015 2016 2017 2018 2019
+632633633 Total Water Used,
+596646
+15%19%25%% Recycled Water,
+25%28%W ATER CONSERV ATION
+Water UsedENVIRONMENTAL SPOTLIGHT: 
+Using Our Water Smarter
+100% 
+replacement of raw water use  
+by using reclaimed water30% 
+average reduction in B1’s  
+raw water consumption
+108,000 m³ /year  
+measured reduction in  
+water conservation $143,000 
+annual cost avoidanceOn the ADI Philippines campus, just one building (B1) consumes 71% of the  
+site’s water supply. Water is mainly used for Cooling Towers, Deionized Water (DI) 
+production and domestic purposes. Knowing how much this building stands out 
+as a high-usage case, we put our minds to devising an opportunity to reduce our 
+resource impact—and decided to start by recycling B1’s used DI water for Cooling 
+Tower use.
+A Cooling Tower is a heat exchanger that uses air to help cool water, which is  
+then used to cool the refrigerant of HVAC chillers. But if water from the heat 
+exchange is exposed to open air, there’s a chance for contamination, cooling 
+inefficiencies, scaling, algae growth and the like. So the water regularly needs  
+to be flushed and simultaneously replaced with fresh water.
+Instead of continuing to pull water from a public source, we installed a filtration 
+system to use DI water as an alternative source for our Cooling Tower’s flushing 
+system. This meant that there was no net new water needed to refresh the 
+Cooling Tower, saving  9,000 cubic meters per month.
+Project results:PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+23print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddReducing Landfill Waste  
+At ADI, we constantly look for better ways to reduce the amount of waste we 
+generate, and more so the amount of waste we send to the landfill. However,  
+the recent growth of our production resulted in an increase in waste generation.  
+As a result, we did not meet our previous goal of 2.5% normalized reduction. We 
+remain committed to going beyond our current performance. Hence, we are now 
+moving to a goal of 0% waste to landfill.
+Solid waste generated (in tons) increases an average of 5% annually. In 2019, 60% of our  
+solid waste was recycled. 
+Solid WasteW ASTE GENERATION
+Solid Waste
+1,7391,7892,244 Solid Waste 
+Generated, Tons,
+2,0722,03155%56%60%% Recycled 
+Solid Waste,
+60%64%
+2015 2016 2017 2018 2019
+Hazardous Waste
+1,051 1,0661,150 Hazardous Waste 
+Generated, Tons,
+1,204
+1,19037%41%39%
+Waste Recycled,
+34%40%
+2015 2016 2017 2018 2019
+ENVIRONMENTAL SPOTLIGHT: 
+Leading by Example
+24““ADI Wilmington celebrated a huge milestone in 2018 when it received the 
+Sustainability Award from the Associated Industries of Massachusetts (AIM), 
+which recognizes companies for excellence in environmental stewardship, 
+promotion of social well-being and contributions to economic prosperity.  
+The award specifically acknowledged ADI’s efforts to reduce its environmental 
+footprint at its Wilmington, MA facility, which is the site of the future global HQ.
+Expounding on the ADI strategy, Vince Roche, President and CEO, said,
+At ADI, we’re building solutions for a better 
+tomorrow, and that goes beyond what we 
+build to how we build them. We’ve made a 
+concerted effort to reduce waste and minimize 
+the environmental impact in our operations 
+to create a safer, healthier future for our 
+employees, customers and neighbors. We’re 
+constantly working to achieve our ambitious 
+sustainability goals and are honored to be 
+recognized by AIM for our efforts.PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+Hazardous waste generation (in tons) increases by 4% annually but more than a third is  
+sent to recycling facilities.
+Hazardous Waste
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+24print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddStormwater Pollution Prevention Plan 
+Locations of materials and industrial activities that 
+are potentially exposed to rainwater and snowmelt are 
+included in our stormwater prevention plan to promote 
+application and improvement of appropriate pollution 
+prevention and best management practices. We have 
+built enclosures to protect transportation-associated 
+loading and unloading activities, waste roll-off 
+containers and solid waste/recycling compactors.  
+Our inspection program includes visual monitoring  
+and sampling to promote effectiveness of the plan.Hazardous Materials Contingency Plan 
+This plan is designed to prevent and minimize hazards  
+to public health; safety; or welfare of the environment  
+by fires, explosions, spills; or any other unplanned 
+release of hazardous wastes, hazardous waste 
+constituents, or hazardous materials to the air, soil, 
+surface water, or groundwater. This plan is incorporated 
+in the emergency preparedness and response 
+requirements in the ADI ISO 14001/OHSAS 18001 
+environmental, health, and safety management system.Oil Spill Prevention Control and Countermeasures 
+(SPCC) Plan 
+This plan features prevention and control technology  
+to reduce the likelihood of a discharge of oil from a site  
+or facility.POLLUTION PREVENTION
+Environmental Management  
+A key component of ADI’s 
+approach to environmental 
+management is pollution 
+prevention and we have 
+incorporated relevant 
+practices and plans into our 
+manufacturing operations.
+PROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+25print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+Analog Devices responds to the  
+CDP Climate Change Programme module 
+annually to disclose how we’re managing the 
+potential impacts, risks and opportunities 
+brought about by climate change. 
+We also use this platform to disclose our Greenhouse Gas (GHG) emissions, our emissions reduction 
+initiatives and performance against our GHG goals. Our business strategy is largely influenced by climate-
+related regulations, customer requirements, product demand landscape and climate-related natural 
+disasters. We have set up a Business Continuity Plan (BCP) to ensure sustained supply of products despite 
+the challenges of the changing climate. More information is available in our 2019 public CDP response and  
+can be accessed through the  CDP.net portal . CDP-CARBONPROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+26print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddWater is essential to the operation of ADI facilities, and we are continuously exploring and implementing new recycling and conservation activities. These efforts are 
+published in our Corporate Responsibility webpage . In addition, we also respond to the CDP Water Programme module where we disclose the potential impacts, risks and 
+opportunities associated with water-related issues and concerns. We continue to work to maintain operations that comply with existing legal requirements and strive to 
+stay abreast of changes that affect those requirements or our operations. We monitor the occurrence of extreme weather events and natural disasters and evaluate their 
+potential impact to our operations. We have instituted business continuity plans and alternative sourcing arrangements to reduce impacts to the Company should these 
+events occur. 
+CDP-W ATERPROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+27print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddCommitment to Management Systems and Structure  
+ADI’s manufacturing sites are certified to internationally-recognized standards*  
+ensuring ADI’s Environmental Management System (EMS) and Occupational  
+Health & Safety (OH&S) are functioning to meet internal and external compliance 
+obligations and reduce risk.
+The EMS Director, who reports to the Senior Vice President of Global  
+Operations and Technology, is responsible for compliance with applicable EMS  
+legal requirements. EMS Management meets regularly with ADI’s in-house counsel 
+and with external counsel, advisors and financial personnel to discuss potential 
+environmental risks (including those related to climate change) and possible  
+impacts to ADI.
+ 
+*Manufacturing certification standards ISO 14001:2015 and 45001:2018 Environmental Compliance at ADI and Beyond
+ADI is committed to the exemplary environmental performance of our products 
+and operations. Each of our operating facilities maintains a regulatory register and 
+has programs to monitor and evaluate our EMS compliance status. We undergo 
+regular internal and independent third-party audits of our regulatory compliance 
+management system, and our facilities are inspected by government agencies to 
+ensure compliance with regulatory requirements. Employees receive EMS training 
+and participate in prevention and risk control activities associated with their work 
+and formalized within the EMS management system. ADI expects its suppliers to 
+adhere to the same environmental compliance standards ADI has set for itself.
+SYSTEMS AND COMPLIANCEPROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+28print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddSmarter building design helps us  
+reduce electricity consumption 
+and emissions associated with our 
+operations, which ultimately reduces 
+our impact on the environment 
+and climate. Since 2013, we have 
+certified three new buildings to the 
+LEED (Leadership in Energy and 
+Environmental Design) Standard, and 
+we continue to design, construct, 
+operate and maintain our buildings 
+in accordance with LEED and other 
+green standards in sustainable site 
+development, water efficiency, energy 
+efficiency, materials selection and 
+indoor environmental quality.ADI Philippines Campus LEED Features  
+Cavite, Philippines Office
+LEED-Gold certified
+• Reflective roof surfaces and exterior insulation 
+conserve energy for cooling
+• Stormwater management system prevents runoff 
+and reduces environmental impact
+• Efficient cooling system with underfloor air 
+distribution technology
+• 100% LED fixtures for internal lighting
+• Rainwater harvesting and water recycling for 
+landscaping and restroomsADI Ireland Campus LEED Features  
+European Research and Development Center in  
+Limerick, Ireland campus  
+LEED-Platinum certified
+• Central glass atrium reduces lighting needs  
+and increases employees’ connection with  
+the environment
+• Smart and high-efficiency lighting saves  
+100,000 kWh annually over typical systems
+• Solar panels generate ~9,400 kWh annually
+• Reflective roofing and efficient air conditioning 
+further reduce greenhouse gas emissions
+OFFICE EFFICIENCY 
+Running on Renewables  
+We now power core computing needs in our datacenters with enough  
+renewable energy to offset the power-related emissions of 50 U.S. homes. 50
+U.S. Homes worth  
+of power-related  
+emissions offsetPROTECTING AND REGENERATING  
+THE ENVIRONMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+29print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddSourcing Responsibly  
+Analog Devices is committed to sound ethical 
+practices and full compliance with all applicable 
+laws and regulations concerning sourcing of conflict 
+minerals. We are a member of the Responsible 
+Minerals Initiative (RMI) which was founded by the 
+Responsible Business Alliance to facilitate responsible 
+sourcing of conflict minerals in the electronics supply 
+chain. ADI adopted the framework of the Organisation 
+for Economic Co-operation and Development Due 
+Diligence Guidance for Responsible Supply Chains 
+of Minerals from Conflict-Affected and High-Risk 
+Areas to facilitate responsible sourcing and fulfill the 
+reporting obligations related to conflict minerals.
+Our Conflict Minerals policy is available on our website, and is a key component of our management system:
+It reflects ADI’s commitment to  
+ethical practices and compliance  
+with applicable laws and regulations.It includes ADI’s actions on  
+collaborating with other concerned 
+electronics companies, under the RMI,  
+in developing methods to track the  
+origin of tantalum, tungsten, tin  
+and gold (3TG) used in the manufacture  
+of electronic products.It reflects ADI’s support of the Responsible 
+Minerals Assurance Process (RMAP) 
+in assessing activities, processes and 
+systems used by the Smelter or Refiner 
+facility to conduct upstream supply chain 
+due diligence of minerals for conflict-
+affected and high-risk.It is communicated to ADI’s supply chain 
+with the expectation of compliance with 
+this conflict minerals policy, and for all 
+relevant suppliers to provide sourcing 
+information using the RMI Conflict 
+Minerals Reporting Template as standard.CONFLICT MINERALSRESPONSIBLE SOURCING
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+30print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+EMPOWERING PEOPLE
+31 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.inddIt’s the talent behind the tech that matters. We invest in you 
+so we succeed together at creating impactful technologies 
+that better the world, ahead of what’s possible.
+EMPOWERING PEOPLE
+LIFELONG LEARNING CULTURE
+Analog Devices was founded in 1965 on 
+the principles of innovation, excellence, 
+collaboration and lifelong learning.  
+We know that amazing talent is how we 
+will succeed as a company. That’s why 
+we’re committed to hiring great people, 
+investing in their potential and helping 
+them learn at every stage of their career.
+“ “
+MARNIE SEIF
+CHIEF PEOPLE  
+OFFICER
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+32print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddMESSAGE FROM OUR CHIEF PEOPLE OFFICER
+At our core, we are problem-solvers. 
+ADI employees are united in a shared 
+ambition to create solutions for the 
+world’s—and our customers’—most 
+complex problems. 
+This has become even more evident 
+during the COVID-19 pandemic; I am 
+struck by the unwavering commitment 
+and dedication from our employees  
+who want to help. 
+Similar to companies across many 
+different sectors, ADI’s operations have 
+been affected by disruptions and new 
+operating requirements. In an attempt to 
+maintain continuity, our colleagues have 
+focused on leveraging new technologies 
+that enable productivity while working 
+remotely, adopting new work protocols 
+for essential roles and creating new ways 
+to meet their ever-changing situations.
+Combined, these efforts have allowed  
+us to maintain operations and to 
+continue delivering solutions and 
+technologies that benefit our customers, 
+our communities and people across  
+the world.I am immensely proud of the 
+contributions made and ingenuity  
+I have seen from everyone here at ADI. 
+Our Approach to 
+Empowerment  
+and Inclusion 
+As we continue to evolve our business 
+offerings and innovate our designs, we 
+are also placing our environmental and 
+social responsibilities at the center of 
+our operations. The empowerment of  
+our people is a key focus area.
+Our empowerment strategy is led by our 
+new Social Purpose Governance Council, 
+made up of members from across our 
+business units who provide different 
+perspectives across age, gender and  
+sexual orientation.
+Core to our empowerment strategy 
+is embracing diversity and building 
+a culture of inclusion across the 
+organization. We achieve this by 
+expanding the diversity of our workforce, 
+creating growth and development 
+opportunities for our employees, 
+embracing different perspectives and 
+fostering an inclusive work environment 
+for all.I would like to thank our leaders for 
+continuing to drive our sustainable 
+business efforts forward, as well as 
+our employees for helping foster an 
+environment of inclusiveness in the 
+workplace and being actively involved  
+in the community beyond our offices. 
+I am confident in our ability to keep 
+pushing the boundaries of innovation  
+to achieve our sustainability goals while 
+also embracing new ways to support 
+the people here who make these 
+breakthroughs possible.Our strategy is anchored around  
+four key initiatives:
+2019 Highlights
+MARNIE SEIF  
+CHIEF PEOPLE OFFICERHeld unconscious bias training for  
+over 150 of our global leaders  Bro adening access  
+to digital economies
+Furthering education
+Prioritizing diversity  
+and inclusion (D&I)
+Expanding training and  
+professional development
+33Over 50% of women in our accelerated 
+development program have moved  
+into higher profile career roles
+EMPOWERING PEOPLE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+33print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddInnovate with Impact
+Innovation thrives in open environments and with teams built 
+from different backgrounds and experiences. We know 
+this to be true now, but we also knew it in 1974, when an 
+ADI design director wrote a widely circulated memo, 
+titled “Philosophy of Design Review,” which championed 
+diversity of thought and opinion as critical components 
+of an effective design process.  
+To enable a truly inclusive recruitment approach that drives results we have a  
+Master Class for Recruiters training program for our talent acquisition team to  
+help drive the diversity we know is needed to support a culture where innovation  
+can thrive.Create the Future
+Developing talent throughout the organization is essential for the 
+future of ADI. Our flagship Global Early Employee Challenge 
+(GEEC) is an example of how we engage employees across 
+functions and with different seniority levels to develop 
+business skills. The GEEC program is our business 
+competition for employees with five or fewer years of career 
+experience. Through the process, teams are assigned manager 
+mentors, engage with different functional areas, are offered 
+visibility with executives and receive recognition across the organization.Diversity & Inclusion Mission
+ADI is building a culture of inclusion — that values and leverages the 
+uniqueness and broad perspectives of each employee  — to develop a 
+talent base that makes us a leading innovation company in the world.
+D&I at ADI
+It’s important to bring diverse perspectives to every technology problem we try to solve, because more is achieved when we harness employee talent and bring together  
+people of diverse backgrounds. This commitment is the reason why diversity and inclusion is an important part of our company values.DIVERSITY AND INCLUSION
+EMPOWERING PEOPLE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+34print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddReach Our Full Potential
+Members of an organization who are underrepresented 
+need to feel free to contribute their unique backgrounds 
+and perspectives. Actively seeking out and engaging 
+with those diverse perspectives is needed to achieve 
+our full potential. We have a variety of Employee 
+Networks which are employee led, and that reach 
+across areas such as gender, age, sexual orientation 
+and veteran status. In fact, 17% of our total employee 
+population is a part of at least one employee-led 
+network. These networks play a critical role in helping 
+give employees a sense of inclusion. Execute with Excellence
+An environment in which employees excel requires 
+hearing all voices. That is why we implemented a  
+multi-year program around inclusion designed to  
+impact every employee. The 
+program started with training 
+on unconscious bias for 
+hundreds of ADI leaders 
+including our executive 
+team.  
+Our leaders are now 
+supported with conversation 
+guides to have discussions on 
+diversity and inclusion with their teams to ensure 
+conversations continue after training.
+Move with Agility
+We strive to foster an agile culture where adaptability 
+and transparency leads to expanding employee skills 
+and helping employees capitalize on new opportunities. 
+Our approach is to help employees proactively find 
+new career opportunities within the company through 
+development discussions, training and mentoring.Share Our Success
+We encourage our people to contribute and support 
+their passions inside and outside work. To foster this,  
+we have developed initiatives designed to give 
+employees avenues to share their experiences, gain 
+knowledge and expand their networks. One example 
+is our Pay It Forward program that works with high-
+performing female employees to support our diversity 
+initiatives, including mentoring interns and help  
+with outreach. 
+ 
+To support career development for women, we recently 
+launched the new Elevate program. Elevate focuses on 
+developing women of ADI, regardless of career level, 
+into leadership positions.
+WOMEN’S  
+LEADERSHIP 
+NETWORK
+LGBTQ 
+PROFESSIONAL
+NETWORKVETERAN’S
+NETWORK
+YOUNG 
+PROFESSIONALS
+NETWORKGREEN TEAM
+NETWORK
+EMPOWERING PEOPLE
+DIVERSITY AND INCLUSION
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+35print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd2019 GLOBAL WORKFORCE DATA SNAPSHOT
+Employees by Geography
+REGION # EMPLOYEES %
+AM 5,357 33%
+APAC 8,853 55%
+EMEA 1,872 12%
+Grand Total 16,082 100%POPULATION BY GEOGRAPHY
+Profile by Gender
+POPULATION BY GENDER AS % OF OVERALL ADI
+GENDER # EMPLOYEES %
+Female 6,748 42%
+Male 9,334 58%
+Grand Total 16,082 100%Hiring by Gender
+OVERALL ADI
+GENDER # HIRES % HIRES
+Female 504 34.9%
+Male 942 65.1%
+Grand Total 1,446 100%ADI does not rely on EE0-1 data for our annual report because ADI is a global company and the EE0-1 report only covers our US employees. 
+In addition, the band of EE0-1 categories are fixed and very broad in nature, and not reflective of ADI’s complex job structure. 
+Leadership by Gender
+SENIOR LEADERSHIP MANAGER
+11%89%23%77%Ethical Employment
+4% 
+2019 Employee Voluntary 
+Turnover RateEMPOWERING PEOPLE
+Female Female Male Male
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+36print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddTECHNICAL ROLE BY GENDER
+ TECHNICAL ROLE BY RACEEMPOWERING PEOPLE
+2019 GLOBAL WORKFORCE DATA SNAPSHOT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+37print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddEMPLOYEE COMPENSATION 
+Our Compensation Philosophy
+We strive to attract and retain the most talented 
+employees in the industry across the globe by offering 
+competitive compensation and benefits that support 
+their health, financial and emotional well-being. We are 
+also committed to providing fair wages to all workers 
+regardless of gender or race.
+Our compensation philosophy is based on rewarding 
+each employee’s individual contributions. We use  
+a combination of fixed and variable pay including  
+base salary, bonuses, performance awards and  
+stock incentives.
+The compensation we provide always meets or exceeds 
+local statutes, and we annually assess our pay ranges 
+to ensure we remain competitive. Our pay ranges apply 
+to new hires and existing staff, and we offer training 
+to managers to ensure fairness in all compensation 
+decisions, which are also reviewed by a higher-level 
+manager and HR.Pay Equity
+At Analog Devices, we have long been committed to 
+equal pay for equal work regardless of gender, race or 
+ethnicity. In support of this, we have designed checks 
+and balances into our compensation system, including 
+an in-depth annual analysis, to help ensure fairness. 
+Our goal is to attain 100% pay equity for people with 
+similar roles, skills and experience. We conduct equal 
+pay assessments at least annually, and our 2020 
+assessment and validation process showed that we 
+are close to attaining our pay equity goal in the U.S. 
+We have discontinued asking candidates their salary 
+history in the U.S. to support this.
+Our work in pay equity is never done, and we will 
+continue to assess compensation globally to close pay 
+gaps and strive to achieve pay equity worldwide, similar 
+to our U.S. achievements.EMPOWERING PEOPLE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+38print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddEMPLOYEE BENEFITS
+Benefits at ADI
+We owe our success to our  
+many employees. As such,  
+we work to take care of them  
+and ensure their needs  
+and goals are met beyond  
+just compensation.
+Our benefits vary by country and are designed to 
+meet or exceed local laws and to be competitive in the 
+marketplace. ADI is proud to provide benefits to the 
+majority of our employees around the world. 
+Examples of U.S. benefits include a 401(k) plan with 
+employer contributions; health benefits; life, business 
+travel and disability insurance; additional voluntary 
+insurance; paid time off and parental leave; education 
+assistance; paid counseling assistance; backup child 
+and adult care; adoption support and family  
+college planning.
+In 2020, U.S. benefits cover eligible employees working 20+ hours per week except for 
+disability, which requires 30 hours per week. Interns, co-ops and employees working 
+fewer than 20 hours are ineligible for most benefits.   Work-Life Balance
+A healthy work-life balance is essential for a fulfilled 
+and productive workforce, and we strive to provide our 
+employees with everything they need to establish the 
+balance they want. Both managers and employees are 
+empowered to make these arrangements as needed by 
+their roles and local laws.Tuition Assistance
+We’re proud to offer tuition assistance and help 
+employees further their education. Most employees  
+can get tuition help for a variety of programs and 
+certificates at accredited institutions to improve 
+themselves and build a better future.
+EMPOWERING PEOPLE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+39print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddTALENT DEVELOPMENT
+ADI encourages all employees to never stop learning through the 70-20-10 philosophy. By employees 
+growing through career experiences (70%), learning from others (20%) and education (10%), they can 
+continue to further their own growth and development.
+Engineering & Science 
+Helps employees leverage in-house 
+experts with topics including artificial 
+intelligence, data science and 
+machine learning.ADI Technical University
+Allows employees to share knowledge 
+with other employees. Topics 
+include Agile Methods for product 
+development and Software 101 for 
+hardware engineers.Management Courses
+Training for new and  
+experienced managers.   
+Topics include management 
+essentials, situational leadership  
+and project management skills.Learning & Networking
+Analog Devices General Technical Conferences for employees is dedicated to showcasing engineering talent and 
+innovation. The annual events consist of technical presentations, interactive workshops, hands-on demonstrations 
+and networking events. Multiple versions of the conference are scheduled globally in different locations, including in 
+the U.S., Ireland, India and China. 
+Education & Training
+ADI offers a variety of courses that can benefit its employees at every stage of their career.
+EMPOWERING PEOPLE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+40print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddTalent Engagement Programs
+GEEC
+Our Global Early Employee Challenge (GEEC) is  
+ADI’s organization-wide business competition 
+for employees with five or fewer years of career 
+experience. Participants form teams that compete  
+in a four-month challenge while focused on a  
+specific area (such as machine health or societal  
+need) that concludes with team presentations to  
+senior leadership.ADI Hackathon
+The ADI Hackathon, hosted by ADI Ireland, encourages 
+our best and brightest thinkers to apply ADI technology 
+in a novel way that benefits society. In 2020,  
+60+ technologists contributed ideas that led to the 
+winning team designing a headset that could help 
+opticians more easily monitor a patient’s eye health  
+for the theme of “Visual Impairment.”Talent Feedback
+ADI Pulse is our employee engagement survey that  
+allows us to get employee viewpoints on what we 
+are doing well and where we can improve across the 
+company. The survey is administered annually with 
+quarterly “Mini Pulses” surveys to get more more 
+frequent feedback. Survey topics include matters on 
+leadership, decision making and more. The survey is 
+administered by a third party to ensure anonymity and 
+results are shared with employees.
+Talent Development
+ADI works to ensure our employees are continuously 
+challenged and always developing their careers. We 
+conduct annual assessments that:
+• Review each division’s goals to identify talent needs
+• Assess how each division is positioned from a 
+talent perspective
+• Review the current state of talent vitality for  
+each division
+• Review key talent segments and prioritize actions  
+to identify and develop
+• Identify and agree on critical actions, next steps  
+and outcomes
+EMPOWERING PEOPLE
+TALENT DEVELOPMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+41print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddTALENT ACQUISITION
+We’re focused on finding the right people to ensure ADI can be 
+successful in the future. We do so by finding new talent with 
+diverse backgrounds, and by promoting internal talent to help 
+grow their careers. We consider broad ranges of candidates for 
+experienced hires, new college graduates, interns and/or co-ops, 
+which each bring a unique perspective that adds to our culture 
+and capabilities.
+42Recruiting Diverse Perspectives
+ADI is committed to creating a strong pipeline of unique perspectives, skill sets and backgrounds to 
+fuel our innovation. In partnership with global diversity associations, we seek to identify the broadest 
+pipeline of talent and connect them with meaningful careers at ADI. 
+Internship & Co-Op Programs
+Our internship and co-op programs are proven methods of bringing new talent to ADI. Participants 
+gain experience via hands-on projects tied to ADI’s business initiatives, as well as networking and 
+mentorship opportunities.
+42EMPOWERING PEOPLE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+42print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddTREATING EMPLOYEES FAIRLY
+As a global manufacturer, ADI is committed to treating every single one of our employees fairly 
+and with dignity. We always comply with local laws, and often go above and beyond them to lead by 
+example in our communities with fair compensation and safe working conditions.
+Forced Labor
+Analog Devices does not use forced or involuntary labor. 
+All work must be voluntary, and workers are always 
+free to leave upon reasonable notice. Our workers 
+are not required to hand over government-issued 
+identification, passports or work permits to our facility 
+representatives as a condition of employment.
+ADI is a member of RBA and subscribes to the RBA 
+Code of Conduct. We also expect our key suppliers 
+to recognize the RBA Code as it contains standards 
+intended to eradicate slavery and human trafficking in 
+the electronics supply chain. These standards promote 
+best practices in a number of areas affecting human 
+rights. Modern Slavery Act StatementWe verify our conformance to the RBA Code by 
+engaging third party audit entities accredited by the 
+RBA to conduct Validated Audit Programs (VAP) at 
+our manufacturing facilities. Our employees receive 
+Training on the RBA Code, as well as training and 
+guidance on ADI’s values and ethics, specifically as it 
+relates to integrity and respect in the workplace.
+Child Labor Avoidance
+ADI does not use child labor at any stage of 
+manufacturing. We use the RBA Code of Conduct 
+definition of “child”: any person under the age of 15  
+(or 14 where the law of the country permits), or under 
+the age for completing compulsory education or under 
+the minimum age for employment in the country, 
+whichever is greatest. The use of legitimate workplace 
+apprenticeship programs, which comply with all laws  
+and regulations, is supported by ADI. Workers cannot 
+perform work that is likely to jeopardize their health  
+or safety. Freedom of Association
+ADI regards open communication and direct 
+engagement between workers and management 
+to be the most effective ways to resolve workplace 
+and compensation issues. ADI respects the rights of 
+workers to associate freely and seek to communicate 
+openly with management regarding working conditions 
+without fear of reprisal, intimidation or harassment. 
+Collective Bargaining Agreements
+Globally, approximately 1.2% of our employees belong  
+to unions.EMPOWERING PEOPLE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+43print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddWorker Safety
+At ADI, we make employee health and safety a priority. 
+Our manufacturing sites have EH&S committees 
+or work groups which include representatives from 
+different functional groups to ensure this commitment. 
+ADI workers do not participate in occupational activities 
+with high incidence or high risk of specific diseases, 
+which has resulted in no known or reported incidents  
+in this area. ADI's industrial hygiene surveillance program minimizes 
+and prevents exposures in the workplace and reduces 
+the risk of specific diseases. We use two industry 
+standard metrics to assess injury performance and 
+trends worldwide.
+All legacy ADI sites have ISO 45001 health and safety 
+certification, while sites from our acquisition of  Linear Technology are working towards certification  
+to the same standard.
+ADI incident rates and lost workday rates are better 
+than U.S. semiconductor and manufacturing industries.WORKER SAFETY
+INCIDENT RATE PER 100 WORKERS
+LOST WORKDAY RATE  PER 100 WORKERS 0.001.002.003.004.005.00
+0.380.903.40
+Analog Devices (Global)U.S Semiconductor IndustryU.S Manufacturing Industry
+0.000.400.801.20
+2010 2011 2012 2013 2014 2015 2019 2018 2017 20160.2
+0.13 Analog Devices (Global)0.9 U.S Manufacturing Industry
+U.S Semiconductor Industry
+2010 2011 2012 2013 2014 2015 2019 2018 2017 2016INCIDENT RATE PER 100 WORKERS
+LOST WORKDAY RATE  PER 100 WORKERS 0.001.002.003.004.005.00
+0.380.903.40
+Analog Devices (Global)U.S Semiconductor IndustryU.S Manufacturing Industry
+0.000.400.801.20
+2010 2011 2012 2013 2014 2015 2019 2018 2017 20160.2
+0.13 Analog Devices (Global)0.9 U.S Manufacturing Industry
+U.S Semiconductor Industry
+2010 2011 2012 2013 2014 2015 2019 2018 2017 2016EMPOWERING PEOPLE
+Workplace Injury/Fatality Incident Rate
+Incident rate:  Number of reportable incidents per 100 employees working a full year. Lost workday case rate:  Number of incidents requiring time away from work  
+per 100 employees working a full year.
+44 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTOUR IMPACT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT 45print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddIMPACT THROUGH ENGAGEMENT
+We’re proud of the impact our employees 
+have on their communities through all 
+of our volunteer efforts. Collectively, ADI 
+employees spend countless hours each year 
+on education, outreach and conservation 
+efforts to better the world around them. 
+The following pages will share just a few  
+of the ways our employees engage with  
+the world around them.
+46
+OUR IMPACT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+46print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddRESPONDING TO COVID-19
+Protecting Health and Safety
+Teams across our organization made tremendous  
+efforts to ensure business continuity and put processes 
+in place to ensure the safety of our 16,000 global 
+employees. The efforts of our entire workforce enable 
+the company to continue operating remotely, as well as 
+the frontline workers who have kept our factories open  
+to produce essential technologies and equipment.
+Prioritizing Critical Customer Needs
+In response to the growing need for our technologies in healthcare devices such as 
+ventilators, respirators, diagnostic test systems and imaging systems, we worked 
+with customers to prioritize shipments of critical equipment. This includes dedicated 
+manufacturing lines to increase production, enhancing safety in our manufacturing 
+environments and working with local governments worldwide to ensure facilities 
+could remain in operation.Supporting Global and Local Efforts
+World Health Organization (W.H.O.) COVID-19 Solidarity Response Fund
+Analog Devices Foundation, Analog Devices and our employees—through an 
+accelerated employee match—donated a combined $4 million to the W.H.O. COVID-19 
+Solidarity Response Fund and supported Global Citizen on its televised and streamed 
+special “One World: Together At Home.” The special brought the world together 
+through music and raised $55 million towards the W.H.O.’s Solidarity Response Fund  
+to prevent, detect and respond to the pandemic.
+Massachusetts General Hospital Vaccine and Immunotherapy Clinic (VIC)
+The Analog Devices Foundation donated $500,000 to fund research for the VIC at 
+Massachusetts General Hospital. The donation directly supports work to develop a 
+vaccine and novel point-of-care testing technologies for COVID-19, which is critical 
+to start opening up the economy and increase safety of healthcare workers and their 
+patients. Analog Devices and the VIC are supporting a trial to deploy new diagnostic 
+testing to identify those infected with COVID-19 and confirm which individuals  
+have developed an immune response and are virus negative.As the coronavirus outbreak has continued its global spread, governments, companies, communities and individuals are facing a health and economic crisis of 
+unprecedented nature. Throughout this crisis, ADI and our team of 16,000 employees have been united in our commitment to support global response efforts,  
+providing a reminder of what we can achieve when we come together in our mission to solve the world’s toughest challenges—and engineer a better future.
+OUR IMPACT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+47print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+COVID-19 Case Study:  
+Fulfilling Critical Needs From the Philippines
+In line with our commitment 
+to maximizing our impact 
+beyond our own capabilities 
+and facilities, ADI partnered 
+with several organizations to 
+further our reach and support 
+additional response efforts.Problem:
+While the facility was given exemption to stay open by the Philippine 
+government due to the critical technology we produce, broader quarantine 
+measures and transportation suspensions presented challenges for employees 
+needing to travel to and from the facility. 
+Solution:
+ADI partnered with the Philippine government to find alternative 
+accommodation solutions. Together they were able to identify housing  
+for nearly 400 employees, across local hotels and within plant facilities. 
+In addition, the team provided significant relief efforts to local communities, 
+including the donation of protective equipment to hospitals, the donation of 
+groceries to the most vulnerable and at-risk people and holding a donation 
+drive that raised more than $12,000 towards the acquisition of PPE for local 
+healthcare workers and first responders.
+This is just one example where our employees, management and leaders joined 
+in their commitment to overcome obstacles so they could continue to supply  
+the technologies and equipment to customers in need and contribute to the 
+global COVID-19 response efforts.RESPONDING TO COVID-19OUR IMPACT
+48 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.indd35 Years of STEM Education
+Since our founding in 1965, ADI has devoted time, resources and steadfast support 
+to promote STEM education. We rely on the next generation of engineers to fuel 
+our success in the future, and we’re constantly working to broaden access to STEM 
+education across the world.
+Many of our employees volunteer their time to mentor schools, teams and clubs in 
+engineering to help shape the next generation of STEM pioneers. We’re proud of  
+the impact we can have on these students.Having Fun with FIRST
+ADI has been a proud sponsor of FIRST Robotics since 2003. We provide funding and 
+mentoring to help inspire young people to become science and technology leaders 
+and innovators.
+Our employees support their competitions, like Robotics, Technology and Lego 
+Leagues, by volunteering as team mentors, competition judges and parent 
+volunteers. Our sponsored teams have received numerous accolades and awards 
+rewarding them with invitations to several national and international opens. 
+This is one of the most rewarding and fun ways our employees give back to their 
+communities while also supporting the next generation of technology leaders.
+IMPACT THROUGH ENGAGEMENTOUR IMPACT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+49print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+ADI PHILIPPINES  
+Academe Linkage
+Our Philippines office created the Academe Linkage program more than  
+20 years ago to forge long-term, collaborative relationships with local higher 
+education institutions. The program promotes STEM education with college 
+students in an effort to develop potential engineering talent. 
+Activities include factory visits, scholarship programs, sponsorships  
+and internships. The program has helped inspire many students to pursue 
+engineering degrees and dramatically aided our Philippines recruiting efforts.ADI IRELAND
+Inspiring a Generation
+Since 2014, our Limerick, Ireland office has hosted a Robotics Showdown 
+for 5th grade students. We put their engineering skills to the test by asking 
+them to design, build, test and program their own robot for a final  
+“Robotics Sumo Showdown.” The event encourages teamwork,  
+and creativity, and is an overall  blast for the 30+ schools and 900+ students 
+who participate annually.
+This competition is a great opportunity 
+for these young competitors to see the 
+tremendous opportunities that a career 
+in STEM could offer. The skills shown by 
+the competitors today are exactly the 
+ones that will be valued by the workplace 
+of the future.““
+BRENDAN O’DOWD  
+GENERAL MANAGER, INDUSTRIAL AUTOMATION
+OUR IMPACT
+IMPACT THROUGH ENGAGEMENT
+50 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+Boosting Biodiversity  
+In 2010, ADI Philippines launched a local biodiversity conservation program for the 
+14 hectare-campus. Their efforts help foster a community that cares about their 
+environment and will lead to a better campus for all. A wide range of results has 
+come quickly, including: 
+Reforestation
+GLOBAL HQ 
+Watershed Protectors
+The Ipswich River provides drinking water to 14 communities along its path, 
+impacting a population of 350,000 residents and businesses, including our 
+global headquarters site in Wilmington, MA. Our long-standing partnership 
+helps provide much needed funds and volunteers to Ipswich River Watershed 
+Association, which brings together citizens, scientists, businesses and 
+municipal managers to work together to protect and restore the watershed.
+100+  native endangered 
+trees planted on campus6,100+  trees given to 
+employees to plant at  
+their own homes
+22+  bird species with protected  
+nesting sites on campus2,100+ trees planted in 
+local communities through 
+volunteer programs
+530+  sea turtle hatchlings  
+protected and released through  
+local partnershipsOUR IMPACT
+IMPACT THROUGH ENGAGEMENT
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+51print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+PROMOTING GOOD GOVERNANCE
+52 2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORTprint scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+We have long believed that good corporate governance is important to ensure Analog Devices is 
+managed for the long-term benefit of our shareholders. We review our corporate governance policies 
+and practices annually and compare them to those suggested by various authorities in corporate 
+governance and the practices of other public companies. As a result, we have adopted policies  
+and procedures that we believe are in the best interests of Analog Devices and our shareholders.  
+In particular, we have adopted the following policies and procedures:CORPORATE GOVERNANCE
+PROMOTING GOOD GOVERNANCE
+Corporate Governance Guidelines 
+Our Board of Directors has adopted Corporate 
+Governance Guidelines for our Company that establish 
+a common set of expectations to assist the Board and 
+its committees in performing their duties. The Board 
+reviews these Guidelines at least annually, and updates 
+them as necessary to reflect changing regulatory 
+requirements and evolving practices.Declassified Board of Directors
+We have a declassified Board of Directors, and our 
+bylaws provide that each director will serve for a term 
+ending on the date of the annual meeting following 
+the one at which such director was elected. All of our 
+directors will stand for election for terms expiring at  
+the next annual meeting of shareholders.Majority Voting for Election of Directors
+Our bylaws provide for a majority voting standard in 
+uncontested director elections, so a nominee is elected 
+to the Board of Directors if the votes “for” that director 
+exceed the votes “against” (with abstentions and broker 
+non-votes not counted as for or against the election). If a 
+nominee does not receive more “for” votes than “against” 
+votes, the director must offer his or her resignation.
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+53print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddMajority of directors  
+are independent
+Active Board engagement 
+in managing talent and 
+long-term succession 
+planning for executivesAnnual election of 
+directors of a  
+declassified board
+No supermajority  
+voting provisionsMajority voting for 
+directors in uncontested 
+director elections
+Annual Board and 
+Committee  
+self-evaluationsImplemented proxy  
+access bylawRegular executive  
+sessions of  
+independent directorsShare ownership 
+guidelines for  
+executive officers and 
+non-employee directors
+Oversite of 
+corporate activities 
+on environmental 
+sustainability and  
+social responsibility CORPORATE GOVERNANCE HIGHLIGHTSPROMOTING GOOD GOVERNANCE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+54print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddAnalog Devices Board of Directors and its 
+Nominating and Corporate Governance Committee 
+are committed to ensuring that the Board is 
+comprised of a highly capable group of directors 
+who collectively provide a significant breadth of 
+experience, knowledge and ability to effectively 
+represent the interest of shareholders, drive 
+shareholder value and reflect our corporate values 
+of integrity, honesty and adherence to high ethical 
+standards. The board also believes that having 
+directors with a mix of tenure helps transition the 
+institutional knowledge of the more experienced 
+directors while providing a broad, fresh set of 
+perspectives. The Nominating and Corporate 
+Governance Committee considers gender, racial, 
+ethnic and experiential diversity as part of its  
+search criteria, consistent with the requirement  
+for relevant and diverse experience, skills and 
+industry familiarity.Average Tenure  
+The Board of Directors believes that having directors with a mix of tenure on the board 
+helps transition the knowledge of the more experienced directors while providing a 
+broad, fresh set of perspectives and provides the Board of Directors with a diversity 
+of experiences and viewpoints. We have had three new directors join the Board of 
+Directors within the last two years. The average tenure of our independent directors 
+standing for re-election is approximately 6.5 years.0–4years
+5–9 years
+9+ years4
+3 3
+Diversity  
+Our Corporate Governance Guidelines provide that gender, racial and ethnic  
+diversity, consistent with the requirement for relevant and diverse experience, skills 
+and industry familiarity, are important search criteria. To this point, in addition to 
+strengthening our board from a skills and experience perspective, the Board’s newest 
+three directors have also increased the Board’s overall diversity profile.Gender  
+DiversityEthnic  
+DiversityWom en20% 20%
+Ethnically
+Diver seIndependence  
+Other than our founder and Chief Executive Officer, all of the members of our Board  
+are independent directors.
+8/10 Directors are 
+IndependentDIRECTOR PROFILEPROMOTING GOOD GOVERNANCE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+55print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddWhat we  DO
+• Our cash incentive bonus awards are based solely  
+on our financial performance
+• We have a specific policy regarding the grant  
+dates of stock options, RSUs and other stock-  
+based awards for our directors, executive officers  
+and employees
+• We have stock ownership guidelines for all officers 
+and directors
+• We prohibit hedging transactions and “short sales” 
+involving ADI securities 
+• We prohibit holding ADI securities in margin
+• We prohibit pledging ADI securities as collateral  
+for a loan
+• Annual “say on pay” voteWhat we DO NOT DO
+• We do not guarantee salary increases or non-
+performance-based bonuses
+• We do not modify our performance targets during 
+the performance period, even in challenging years
+• We do not provide new tax gross-ups for  
+executive officers 
+• We do not pay dividends on unvested equity awards *
+• We do not provide extensive perquisites to  
+our executives
+*Restricted Stock Awards assumed in connection with the Linear Technology  
+acquisition are the only exception to this statement.PAY FOR PERFORMANCE
+A significant portion of the total target compensation for our named executive officers, or NEOs, is variable and directly linked to Company performance in the form of 
+variable cash incentive bonus payments and equity awards. This approach provides our executives with an opportunity to earn above peer average compensation if ADI 
+delivers strong results. Conversely, our NEOs’ total compensation is reduced if our business results are below target.
+Pay and Governance Practices   
+Our pay and governance practices are designed to align our executives’ interests with our shareholders. For example:PROMOTING GOOD GOVERNANCE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+56print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+During fiscal 2019, in addition 
+to investor relations meetings, 
+we contacted stakeholders 
+representing more than 55% of 
+our shares outstanding, with 
+engagement invitations.
+In the spirit of continuous improvement, we have reviewed the key takeaways from shareholders meetings, with 
+the goal of continuing to evolve our corporate governance practices to best meet the needs of the Company and 
+our shareholders. This dialogue has led to enhancements made to our practices and disclosures, including:Board composition and risk oversight
+Board evaluation and refreshment
+Corporate governance trends
+Environmental, social and governance 
+considerations, including diversity and inclusion 
+and human capital management 
+Executive compensation policies and designSHAREHOLDER ENGAGEMENT BY THE NUMBERS
+WHAT WE HEARD WHAT WE DID
+Continue to refine our shareholder 
+engagement processIncreased communication on topics of interest including sustainability 
+and human capital management
+Update our Corporate Governance 
+DisclosureRevised our disclosure to include director qualification and skills,  
+the Board’s self-evaluation process and oversight of risk
+Expand CD&A Disclosure Revised to include disclosures relating to incentive performance targets
+Enhance D&I DisclosuresBegan disclosing management perspective and workforce data on 
+diversity and inclusion topics in CSR reportingThe topics covered during engagement with those 
+shareholders who accepted our invitation included:PROMOTING GOOD GOVERNANCE
+We intend to continue our shareholder outreach efforts on an on-going basis and look forward to continuing to 
+engage with our valued shareholders. 
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+57print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+Our Risk Management Framework defines how we identify, 
+manage and govern risk throughout our organization to promote 
+the thoughtful achievement of our financial and operational 
+goals in a compliant manner. It assigns accountability for risk 
+management to every Business Unit, based on the risks they 
+encounter as part of their day-to-day operations.
+Risk governance is managed by our General Counsel and Chief 
+Financial Officer in partnership with the Senior Leadership Team. 
+On a quarterly basis, issues of risk management are reviewed 
+by ADI’s Audit Committee and Nominating and Governance 
+Committees. Our General Counsel reports to our full Board 
+of Directors regarding our management of all enterprise and 
+operational risks and our Risk Management Framework annually, 
+with periodic updates on focus areas such as cybersecurity.RISK MANAGEMENTPROMOTING GOOD GOVERNANCE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+58print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+Governance and Ethical Sustainability
+Ethical behavior has been a core tenet of our Company’s 
+values since our earliest days. Our employees, across 
+all locations and job functions, have internalized the 
+value of ethical behavior, routinely going beyond mere 
+compliance with applicable laws and regulations. 
+Employees have a mandatory training on our Code of 
+Ethics and are then re-certified the following years. 
+It is reviewed for necessary changes or amendments 
+on an annual basis by the Nominating and Corporate 
+Governance Committee of our Board of Directors. Our 
+long history of leadership in the area of governance 
+and ethics has resulted in a trusted reputation among 
+our customers, investors and employees, as well as the 
+communities where we operate. Code of Business Conduct and Ethics
+We work to comply with all applicable anticorruption 
+and antibribery laws in all countries where we do 
+business (see Guidelines for Gifts and Business 
+Entertainment on page 9 within the ADI Code of 
+Business Conduct and Ethics ). We also assess our 
+manufacturing sites for corruption and ethics risks 
+using the Responsible Business Alliance’s (RBA, 
+formerly Electronic Industry Citizenship Coalition) self-
+assessment tools. We publicly report on breaches to or 
+waivers of the Company’s Code of Conduct for officers 
+or our controller on a Form 8-K in accordance with  
+SEC rules. 
+Supplier Code of Conduct
+We are members of the RBA and adhere to the RBA 
+Code of Conduct for our operations and as our Supplier 
+Code of Conduct. Our belief that ethical behavior is a 
+core company value and the RBA Code supports our 
+commitment to upholding the highest ethical standards 
+in how we conduct business.Voicing Concerns
+We have several avenues through which employees  
+and stakeholders can report potential violations of  
+ laws, rules, regulations and Company policies.  
+We have an open-door policy with regard to issues that 
+may arise under the Code or about potential violations. 
+Employees may bring these issues to their supervisors, 
+their supervisor’s managers, their human resources 
+representative, any member of human resources or  
+ADI’s Senior Vice President and General Counsel.  
+In addition, we have a toll-free and confidential  
+business ethics hotline operated by an independent 
+third party through which employees may anonymously 
+report any potential violation online or via a hotline. 
+Following a report, ADI’s Legal Department oversees an 
+investigation appropriate for the situation. Anonymous 
+reports and the results of any investigation are 
+reported to the Nominating and Corporate Governance 
+Committee. For more information regarding reporting 
+of violations, please view our  Code of Business Conduct 
+and Ethics .COMPLIANCE AND BUSINESS ETHICSPROMOTING GOOD GOVERNANCE
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+59print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddNo Retaliation
+We do not discipline, discriminate against  
+or retaliate against any employee who reports  
+a complaint or concern.
+Fair Competition and Pricing
+ADI and its employees do not discuss prices or 
+customers with our competitors except when  
+necessary in connection with legitimate sales or 
+purchase transactions. In addition, ADI and its 
+personnel do not fix or dictate resale prices to our 
+distributors or pressure resale price maintenance by 
+reprimanding or threatening distributors who reduce 
+their prices. We are fair in our dealings with our 
+distributors and do not restrict our distributors’ rights 
+to sell our products, nor do we seek to prevent our 
+distributors from selling our competitors’ products. We do not discriminate among similar distributors  
+when we offer price discounts. ADI had zero legal 
+actions related to anti-competitive behavior, anti-trust 
+and monopoly practices in the reporting period.
+Insider Trading
+Our policy regarding the trading of securities is 
+applicable to all ADI personnel, as well as our Board of 
+Directors. They are required to take a mandatory online 
+course covering our insider trading rules. Appropriate 
+employees are also reminded quarterly via email of their 
+obligations to refrain from trading in Company stock 
+during blackout periods.
+Anti-Corruption
+We work to comply with all applicable anticorruption 
+and antibribery laws in all countries where we do 
+business. Our Guidelines for Gifts and Business 
+Entertainment, which prohibit the giving of anything 
+of value to a government official with the purpose of 
+influencing his or her decision or gaining an improper 
+benefit, apply to all ADI personnel.
+See link under Governance Documents for full ADI Anti-Corruption Policy.Export Controls
+ADI monitors and strives to comply with the export 
+regulations of the United States and of other countries 
+where we conduct business. We provide training on 
+export laws, including the International Traffic in Arms 
+Regulations and the Export Administration Regulations, 
+to all appropriate employees. New hires receive export 
+awareness training within the first month of hire. 
+Export compliance training is delivered every two years 
+to all ADI employees and more frequently for certain 
+functional teams.
+Governance Documents Links:
+Download ADI Code of Conduct & Ethics
+Download ADI Related Person Transaction Policy
+Download ADI Privacy & Security Statement
+Download ADI Anti Corruption Policy
+PROMOTING GOOD GOVERNANCE
+COMPLIANCE AND BUSINESS ETHICS
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+60print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddSupply Chain Management
+Our goal is to develop a meaningful and lasting 
+relationship with ADI suppliers. Our products require  
+a wide variety of components, raw materials,  
+external foundry, assembly and test services—much  
+of which ADI purchases from third-party suppliers.  
+We have multiple sources for many of the components 
+and materials that are purchased and incorporated into 
+our products. However, a large portion of our external 
+wafer purchases and foundry services are from a limited 
+number of suppliers—primarily Taiwan Semiconductor 
+Manufacturing Company.Purchasing Responsibly
+The ADI Purchasing Organization has a procedure for 
+purchasing materials from its suppliers. Approximately 
+63 of the material suppliers are considered to be 
+key suppliers. Where appropriate, raw materials and 
+critical indirect materials are either dual sourced or 
+have an identified second source. The ADI Purchasing 
+Organization, in conjunction with the Subcontractor 
+Management Organization, oversees the work of Taiwan 
+Semiconductor Manufacturing Company and the test 
+and assembly subcontractors in Asia. ADI has developed 
+a series of specifications to define the ADI Supplier 
+Management Policy for materials and services.
+Ethical Suppliers
+ADI expects suppliers to adhere to the same business 
+ethics and human rights standards ADI has set for 
+itself. ADI’s policy is to perform FCPA (Foreign Corrupt 
+Practices Act) checks on all new suppliers being added 
+to ADI’s supplier master file, and ADI provides new 
+suppliers with a copy of the ADI ethics statement  
+and requests acknowledgment from the supplier.  
+The Agreement on Responsible Business Conduct which includes human rights clauses is implemented 
+broadly to all suppliers. All of our key raw materials 
+suppliers have signed an Agreement on Responsible 
+Business Conduct.
+Supplier Audits
+ADI suppliers must demonstrate proven quality,  
+effective process controls, financial stability, 
+competitive pricing, on-time delivery and commitment 
+to continual improvement in all aspects of their 
+business. Suppliers are audited for conformance with 
+ADI requirements and other purchasing conditions. 
+This audit schedule is determined based on a risk 
+management process. New key raw material suppliers 
+are audited prior to their acceptance.
+PROMOTING GOOD GOVERNANCE
+COMPLIANCE AND BUSINESS ETHICS
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+61print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+APPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+62print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddABOUT THIS REPORT
+Scope and Boundary
+The scope of this report covers the 12-month period ending December 31, 2019. Financial data covers our fiscal year ending November 2, 2019 and is reported in U.S. dollars.  
+This report is limited to our directly managed operations and wholly owned subsidiaries. The boundary of reported content includes operational data and management 
+performance for activities that have a significant impact, and in which ADI has direct control or significant influence. Financial statements were audited by Ernst & Young LLP.  
+Our sustainability report was reviewed by outside consultants and advisors with relevant expertise. Additionally, our greenhouse gas emissions calculations have been 
+independently verified and certified.
+Disclosure and Assurance
+ADI publicly reports greenhouse gas emissions through the CDP (formerly Carbon Disclosure Project).  We also respond to the CDP Water Programme module.  
+More information is available in our 2019 public CDP response and can be accessed through the CDP Portal .
+External Assurance Statement
+ADI’s sustainability reporting is in accordance with the Global Reporting Initiative Standards: Core Option. This report has been prepared in accordance with the GRI Standards: 
+Core Option. Use of external assurance is noted in the report where it is used, though the report as a whole has not been externally assured
+Comments and Feedback
+We welcome stakeholder comments and feedback, which provide important input for the continual improvement of our sustainability programs and performance.  
+Please direct any general comments or questions regarding environmental, health and safety (EHS) to ehs@analog.com. For any non-EHS related questions,  
+please contact Sustainability@analog.com.
+Additional Information
+Additional Information on Analog Devices financial statements and operations is available in our annual report: Analog Devices 2019 Annual Report  and Analog Devices 10-K .
+Learn more about our corporate responsibility efforts at analog.com/csrAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+63print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+GENERAL DISCLOSURES
+GRI 102:  
+GENERAL 
+DISCLOSURES102-1 Name of the organization Analog Devices, Inc.
+102-2 Activities, brands, products and services ADI Products
+102-3 Location of headquarters ADI Corporate Information, Regional Headquarters
+102-4 Location of operations ADI has manufacturing facilities in the USA, Ireland and the Philippines. 2019 Annual Report Page 20
+102-5 Ownership and legal form 2020 Proxy Statement
+102-6 Markets served Corporate Responsibility Report About Our Company Page 7
+102-7 Scale of the organization Corporate Responsibility Report  About Our Company Page 7
+102-8 Information on employees and other workers Corporate Responsibility Report  About Our Company Page 7
+102-9 Supply chainCorporate Responsibility Report  Promoting Good Governance Supply Chain  Page 61
+2019 Annual Report Pages 7-8
+102-10Significant changes to the organization and its 
+supply chain2019 Annual Report Pages 7-8 and Page 20
+102-11 Precautionary principle or approachADI applies the concepts of the precautionary approach by considering the long-term trajectory of climate change and its 
+potential impacts on ADI. Elements of that ongoing evaluation are reflected  in ADI's sustainability web content.
+102-12 External initiatives Corporate Responsibility Report Our Sustainability Approach Pages 9-14
+102-13 Membership associationsADI subscribes to, is a member of and/or has committed to the following external initiatives: Catatlyst, International 
+Standards Organization (ISO), Responsible Business Alliance (RBA), European Union’s Restriction of Hazardous 
+Substances (ROHS), Registration Evaluation Authorization and Restriction of Chemical Substances (REACH), and  
+End of Life (ELV) Directives in China RoHS.
+102-14 Statement from senior decision-maker Corporate Responsibility Report  CEO Letter Pages 3-4
+102-15 Key impacts, risks and opportunitiesCorporate Responsibility Report  CEO Letter Pages 3-4
+2019 Annual Report Page 10
+102-16 Values, principles, standards and norms of behaviorCorporate Responsibility Report Promoting Good Governance Pages 52-61
+ADI Code of Business Conduct and Ethics
+102-17 Mechanisms for advice and concerns about ethicsCorporate Responsibility Report  Promoting Good Governance Pages 52-6 1
+ADI Code of Business Conduct and Ethics Page 12GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+64print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+GRI 102:  
+GENERAL 
+DISCLOSURES102-18 Governance structureCorporate Responsibility Report  Promoting Good Governance Page 53  
+2020 Proxy Statement
+102-19 Delegating authority Corporate Governance Guidelines
+102-20Executive level responsibility for economic, 
+environmental and social topicsCorporate Responsibility Report  Promoting Good Governance Page 5 3
+102-21Consulting stakeholders on economic, 
+environmental and social topicsCorporate Responsibility Report  Our Sustainability Approach Page 11   
+Corporate Responsibility Report  Promoting Good Governance Page s 53-61
+102-22Composition of the highest governance body and  
+its committees2020 Proxy Statement Page 29
+102-23 Chair of the highest governance body 2020 Proxy Statement Page 29
+102-24Nominating and selecting the highest  
+governance bodyNominating and Corporate Governance Committee Charter
+102-25 Conflicts of interest ADI Company By Laws Page 20
+102-26Role of highest governance body in setting purpose, 
+values and strategyCorporate Governance Guidelines
+102-27 Collective knowledge of highest governance bodyCorporate Responsibility Report  Promoting Good Governance Pages 5 3-61  
+2020 Proxy Statement Page 7
+102-28Evaluating the highest governance body's 
+performanceCorporate Governance Guidelines
+102-29Identifying and managing economic, environmental 
+and social impacts2020 Proxy Statement Page 26
+102-30 Effectiveness of risk management processesCorporate Responsibility Report  Promoting Good Governance Page 5 8 
+2020 Proxy Statement Page 32
+102-31Review of economic, environmental  
+and social topicsCorporate Responsibility Report  Promoting Good Governance Page 5 3-61
+Corporate Governance Guidelines
+102-32Highest governance body's role in  
+sustainability reportingCorporate Responsibility Report  Promoting Good Governance Page 5 3
+2020 Proxy Statement Page 2 6
+102-33 Communicating critical concerns 2020 Proxy Statement Page 32GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+65print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+GRI 102:  
+GENERAL 
+DISCLOSURES102-34 Nature and total number of critical concerns ADI Code of Business Conduct and Ethics Page 12
+102-35 Remuneration policies 2020 Proxy Statement Page 40
+102-36 Process for determining remuneration 2020 Proxy Statement Page 40
+102-37 Stakeholder involvement in remuneration 2020 Proxy Statement Pages 2 and 25
+102-38 Annual total compensation ratio 2020 Proxy Statement Page 66
+102-39Percentage increase in annual total  
+compensation ratio2020 Proxy Statement Page 66 and Page 54 (for previous year compensation)
+102-40 List of stakeholder groupsADI Stakeholders include Employees, customers, investors, communities, governments, suppliers, media, shareholders 
+and financial analysts.
+102-41 Collective bargaining agreementsADI regards open communication and direct engagement between workers and management to be the most effective 
+ways to resolve workplace and compensation issues. ADI respects the rights of workers to associate freely and seek to 
+communicate openly with management regarding working conditions without fear of reprisal, intimidation or harassment. 
+Globally, approximately 1.2% of our employees belong to unions.
+102-42 Identifying and selecting stakeholdersCorporate Responsibility Report  Our Sustainability Approach Page 11
+Corporate Responsibility Report  Promoting Good Governance Page 5 7
+102-43 Approach to stakeholder engagementCorporate Responsibility Report  Our Sustainability Approach Page 11
+Corporate Responsibility Report  Promoting Good Governance Page 5 7
+102-44 Key topics and concerns raised Corporate Responsibility Report  Promoting Good Governance Page 59
+102-45Entities included in the consolidated  
+financial statements2019 Annual Report
+102-46Process for defining report content and  
+topic boundariesCorporate Responsibility Report  Our Sustainability Approach Pages 9-1 4
+Corporate Responsibility Report  CEO Letter Page 3 -4
+102-47 List of material topics Corporate Responsibility Report  Page 2
+102-48 Restatements of information There are no restatements applicable to the scope and boundary of this reporting content  at this time.
+102-49 Changes in reporting There are no significant changes in the list of material topics or boundaries at this time.
+102-50 Reporting period The reporting period is the 12-month period ending December 31, 2019.
+102-51 Date of most recent report This reporting period addresses the 2019 time frame. ADI's previous report addressed the 2016 to 2018 time frame.GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+66print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+GRI 102:  
+GENERAL 
+DISCLOSURES102-52 Reporting cycle Biennial Cycle—Transitioning to Annual
+102-53 Contact point for questions regarding the reportWe welcome—stakeholder comments and feedback, which provide important input for the continual improvement  
+of our sustainability programs and performance. Please direct any general comments regarding this report to  
+sustainability@analog.com.
+102-54Claims of reporting in accordance with the  
+GRI StandardsThe Sustainability Report has been prepared in accordance with the GRI Standards: Core Option. All relevant content is 
+referenced in the GRI Index and is available to locations indicated in the GRI Index.
+102-55 GRI content index This GRI Content Index Page 64-74  identifies the material sustainability topics addressed in this reporting.
+102-56 External assuranceThis report has been prepared in accordance with the GRI Standards: Core Option.  
+Use of external assurance is noted in the report where it is used, though the report as a whole has not been  
+externally assured.
+MANAGEMENT APPROACH
+GRI 103: 
+MANAGEMENT 
+APPROACH103-1 Explanation of the material topic and its boundary
+Corporate Responsibility Report  CEO Letter Pages 3-4 , Our Sustainability Approach Pages 9-14 ,  
+Protecting And Regenerating The Environment Page 15- 30, Empowering People Page 31- 44, Our Impact Pages 45-5 1,  
+Promoting Good Governance Pages 52-61 , About The Report Page 6 3103-2 The management approach and its components
+103-3 Evaluation of the management approach
+ECONOMIC STANDARDS
+GRI 201: 
+ECONOMIC
+PERFORMANCE201-1 Direct economic value generated and distributed 2019 Annual Report Page 48
+201-2Financial implications and other risks and 
+opportunities due to climate changeAdditional information available in Analog Devices 10-K Filing  and CDP Portal
+201-3Defined benefit plan obligations and other 
+retirement plansADI 10-K Filing Pages 79-80
+201-4 Financial assistance received from government 2019 Annual Report 
+GRI 203: 
+INDIRECT 
+ECONOMIC 
+IMPACT203-1 Infrastructure investments and services supported Omission: Information Unavailable Explanation: Site level investments not rolled up for tracking
+203-2 Significant indirect economic impactsCorporate Responsibility Report  Talent Development Page 40
+Corporate Responsibility Report  Impact With Engagement Pages 46-5 1GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+67print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+ANTI-CORRUPTION
+GRI 205:  
+ANTI- 
+CORRUPTION103Management Approach Disclosure: Explanation of 
+the material topic and its boundaryCorporate Responsibility Report  Compliance and Business Ethics Pages 59-6 1
+205-1 Operations assessed for risks related to corruption All operations are assessed for risks related to corruption. No significant risks have been identified.
+205-2Communication and  training about anti-corruption  
+policies and proceduresCorporate Responsibility Report  Compliance and Business Ethics Page 60
+205-3Confirmed incidents of corruption and  
+actions takenAnalog Devices 10-K Page 21
+Analog Devices 2019 Annual Report Page 21
+ANTI-COMPETITIVE BEHAVIOR
+GRI 206: ANTI-
+COMPETITIVE 
+BEHAVIOR103Management Approach Disclosure: Explanation of 
+the material topic and its boundaryCorporate Responsibility Report  Compliance and Business Ethics Pages 53-61
+206-1Legal actions for anti-competitive behavior,  
+anti-trust and monopoly practicesCorporate Responsibility Report  Compliance and Business Ethics Page 60GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+68print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+ENVIRONMENTAL STANDARDS
+GRI 302:  
+ENERGY 302 Management Approach Disclosure: Energy Corporate Responsibility Report  Protecting & Regenerating The Environment Company Initiatives Page16
+302-1 Energy consumption within the organization Corporate Responsibility Report  Energy Efficiency Page 22
+302-2 Energy consumption outside of the organization Corporate Responsibility Report  Energy Efficiency Page 22
+302-3 Energy intensity Corporate Responsibility Report  Energy Efficiency Page 22
+302-4 Reduction of energy consumption Corporate Responsibility Report  Energy Efficiency Page 22
+GRI 303: 
+W ATER303 Management Approach Disclosure: Water Corporate Responsibility Report  Water Conservation Page 23
+303-1 Water withdrawal by source Corporate Responsibility Report  Water Conservation Page 23
+303-2Water sources significantly affected by withdrawal 
+of waterCorporate Responsibility Report  Water Conservation Page 23
+303-3 Water recycled and reused Corporate Responsibility Report  Water Conservation Page 23
+GRI 304: 
+BIODIVERSITY304 Management Approach Disclosure: Biodiversity Corporate Responsibility Report  Our Impact Boosting Biodiversity Page 5 1
+304-3 Habitats protected or restored Corporate Responsibility Report  Our Impact Boosting Biodiversity Page 5 1GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+69print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+GRI 305: 
+EMISSIONS305 Management Approach Disclosure: Emissions Corporate Responsibility Report  Protecting & Regenerating The Environment Company Initiatives Page 16
+305-1 Direct (Scope 1) GHG emissions Corporate Responsibility Report  Scope 1 & 2 Page 1 8
+305-2 Energy indirect (Scope 2) GHG emissions Corporate Responsibility Report  Scope 1 &2 Page 1 8
+305-3 Other indirect (Scope 3) GHG emissions Corporate Responsibility Report  Scope 3 Page 18
+305-4 GHG emissions intensity Additional information available through CDP Portal
+305-5 Reduction of GHG emissions Corporate Responsibility Report  Greenhouse Gas Emissions Reduction Page 18
+305-6 Emissions of ozone depleting substances (ODS) Additional information available through CDP Portal
+305-7Nitrogen oxides (NOX), sulfur oxides (SOX) and other 
+significant air emissionsAdditional information available through CDP Portal
+GRI 306:
+EFFLUENTS & 
+WAST E306Management Approach Disclosure: Effluents  
+& WasteCorporate Responsibility Report  Protecting & Regenerating The Environment Company Initiatives Page 16
+306-1 Water discharge by quality and destinationCorporate Responsibility Report  Water Conservation Page 23
+Additional information available through CDP Portal
+306-2 Waste by type and disposal method Corporate Responsibility Report  Waste Generation Page 24
+306-3 Significant spills Corporate Responsibility Report  Pollution Prevention Page 25
+306-4 Transport of hazardous waste Corporate Responsibility Report  Waste Generation Page 24
+306-5Water bodies affected by water discharges  
+and/or runoffAdditional information available through CDP PortalGRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+70print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+ENVIRONMENTAL COMPLIANCE
+GRI 307: 
+ENVIRONMENTAL 
+COMPLIANCE307Management Approach Disclosure:  
+Environmental ComplianceCorporate Responsibility Report  Systems & Compliance Page 28
+307-1Non-compliance with environmental laws  
+and regulationsCorporate Responsibility Report  Systems & Compliance Page 28
+SUPPLIER ENVIRONMENTAL ASSESSMENT
+GRI 308: 
+SUPPLIER 
+ENVIRONMENTAL 
+ASSESSMENT308Management Approach Disclosure:  
+Supplier Environmental AssessmentCorporate Responsibility Report  Systems & Compliance Page 28
+308-1New suppliers that were screened using 
+environmental criteriaCorporate Responsibility Report  Systems & Compliance Page 28
+EMPLOYMENT
+GRI 401: 
+EMPLOYMENT401 Management Approach Disclosure: Employment Corporate Responsibility Report  CPO Letter Page 3 3
+401-1 New employee hires and employee turnover Corporate Responsibility Report  Global Workforce Data Snapshot Pages 36-3 7
+401-2Benefits provided to full-time employees that are 
+not provided to temporary or part-time employeesCorporate Responsibility Report  Employee Benefits Page 3 9
+401-3 Parental leave Corporate Responsibility Report  Employee Benefits Page 3 9
+OCCUPATIONAL HEALTH AND SAFETY
+GRI 403: 
+OCCUPATIONAL 
+HEALTH  
+AND SAFETY403Management Approach Disclosure:  
+Occupational Health and SafetyCorporate Responsibility Report  Systems & Compliance Page 28
+Corporate Responsibility Report  Worker Safety Page 4 4
+403-1Workers’ representation in formal joint 
+management—worker health and safety committeesCorporate Responsibility Report Worker Safety Page 4 4
+403-2Types of injury and rates of injury, occupational 
+diseases, lost days, absenteeism and number of 
+work-related fatalitiesCorporate Responsibility Report  Worker Safety Page 4 4
+403-3Workers with high incidence or high risk of  
+diseases related to their occupationCorporate Responsibility Report  Worker Safety Page 4 4GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+71print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+TRAINING AND EDUCATION
+GRI 404: 
+TRAINING AND 
+EDUCATION404Management Approach Disclosure:  
+Training and EducationCorporate Responsibility Report  Training and Development Pages 40-4 1
+404-2Programs for upgrading employee skills and 
+transition assistance programsCorporate Responsibility Report Training and Development Pages 40-4 1
+DIVERSITY AND INCLUSION
+GRI 405: 
+DIVERSITY AND 
+INCLUSION405Management Approach Disclosure:  
+Diversity and InclusionCorporate Responsibility Report  CPO Letter Page  33
+405-1 Diversity of governance bodies and employees Corporate Responsibility Report  Diversity and Inclusion Page  43
+405-2Ratio of basic salary and remuneration of  
+women to menCorporate Responsibility Report  Diversity and Inclusion Page  38
+NON DISCRIMINATION
+GRI 406: NON 
+DISCRIMINATION406Management Approach Disclosure:  
+Non-discriminationADI Code of Business Conduct and Ethics Page 4
+FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING
+GRI 407: 
+FREEDOM OF 
+ASSOCIATION 
+AND COLLECTIVE 
+BARGAINING407Management Approach Disclosure:  
+Freedom of Association and Collective BargainingCorporate Responsibility Report  Treating Employees Fairly Page 4 3
+407-1Operations and suppliers in which the right  
+to freedom of association and collective  
+bargaining may be at riskCorporate Responsibility Report Treating Employees Fairly Page 4 3
+CHILD LABOR
+GRI:408  
+CHILD LABOR408 Management Approach Disclosure: Child Labor Corporate Responsibility Report  Treating Employees Fairly Page 4 3
+408-1Operations and suppliers at significant risk for 
+incidents of child laborCorporate Responsibility Report  Treating Employees Fairly Page 4 3
+FORCED OR COMPULSORY LABOR
+GRI 409:  
+ FORCED OR 
+COMPULSORY 
+LABOR409Management Approach Disclosure:  
+Forced or Compulsory BehaviorCorporate Responsibility Report  Treating Employees Fairly Page 4 3
+409-1Operations and suppliers at significant risk for 
+incidents of forced or compulsory laborCorporate Responsibility Report  Treating Employees Fairly Page 4 3
+Corporate Responsibility Report  Compliance and Business Ethics Pages 5 9-61GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+72print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+SECURITY PRACTICES
+GRI 410: 
+SECURITY 
+PRACTICES410-1Security personnel trained in human rights  
+policies or procedures100% of security personnel are trained in ADI's human rights policies or procedures relevant to operations.
+HUMAN RIGHTS ASSESSMENT
+GRI 412: 
+HUMAN RIGHTS 
+ASSESSMENT412Management Approach Disclosure:  
+Human Rights AssessmentCorporate Responsibility Report  Empowering People Treating Employees Fairly Pages 43
+412-1Operations that have been subject to human rights 
+reviews or impact assessmentsCorporate Responsibility Report  Compliance and Business Ethics Pages 59-61
+412-2Employee training on human rights policies  
+or proceduresCorporate Responsibility Report  Compliance and Business Ethics Pages 59-61
+LOCAL COMMUNITIES
+GRI 413:  
+LOCAL 
+COMMUNITIES413Management Approach Disclosure:  
+Local CommunitiesCorporate Responsibility Report  Our Impact Pages 4 5-51
+413-1Operations with local community engagement, 
+impact assessments and development programsCorporate Responsibility Report  Our Impact Pages 45- 51
+413-2Operations with significant actual and potential 
+negative impacts on local communitiesAnalog Devices 10-K Page 18
+SUPPLIER SOCIAL ASSESSMENT
+GRI 414: 
+SUPPLIER SOCIAL 
+ASSESSMENT414Management Approach Disclosure:  
+Supplier Social AssessmentCorporate Responsibility Report  Compliance and Business Ethics Page 6 1
+414-1New suppliers that were screened using  
+social criteriaCorporate Responsibility Report  Compliance and Business Ethics Page 6 1
+414-2Negative social impacts in the supply chain  
+and actions takenAnalog Devices 10-K Page 17
+PUBLIC POLICY
+GRI 415:  
+PUBLIC POLICY415 Management Approach Disclosure: Public Policy Corporate Responsibility Report  Compliance and Business Ethics Pages 5 9-61
+415-1 Political contributions ADI Code of Business Conduct and EthicsGRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+73print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddGRI  
+STANDARDDISCLOSURE NUMBER AND TITLE RESPONSE
+CUSTOMER HEALTH AND SAFETY
+GRI 416: 
+CUSTOMER 
+HEALTH AND 
+SAFETY416Management Approach Disclosure:  
+Customer Health and SafetyAnalog Devices Quality & Reliability Program
+416-1Assessment of the health and safety impacts of 
+product and service categoriesAnalog Devices Quality & Reliability Program-Functional Safety
+416-2Incidents of noncompliance concerning the health 
+and safety impacts of products and servicesAnalog Devices 10-K Page 21
+MARKETING AND LABELING
+GRI 417: 
+MARKETING  
+AND LABELING417Management Approach Disclosure:  
+Marketing and LabelingAnalog Devices Quality & Reliability Program
+417-1Requirements for product and service  
+information and labelingAnalog Devices Quality & Reliability Program-Material Declarations
+417-2 Incidents of noncompliance concerning  product 
+and service information and labelingAnalog Devices 10-K Page 21
+CUSTOMER PRIV ACY
+GRI 418: 
+CUSTOMER 
+PRIV ACY418Management approach disclosure:  
+Customer PrivacyAnalog Devices Privacy and Security Statement 
+418-1Substantiated complaints concerning breaches of 
+customer privacy and losses of customer dataAnalog Devices 10-K Page 21
+SOCIOECONOMIC COMPLIANCE
+GRI 419: 
+SOCIOECONOMIC 
+COMPLIANCE419-1Non-compliance with laws and regulations in the 
+social and economic areaAnalog Devices 10-K
+Analog Devices 2019 Annual Report Page 21GRI INDEXAPPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+74print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddUNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS STATEMENT
+Analog Devices corporate responsibility strategy and initiatives are in alignment with the UN SDGS to support a better and more sustainable future for all.   
+More information on the initiatives in this report that align with the UN SDGS are noted below:
+Improving Lives Through Technology  Page 13 
+Technology solutions for diagnostic and testing medical equipment including  
+ventilators, respirators, test and imaging systems. 
+Responding To COVID-19   Pages 47-4 8
+Prioritizing healthcare customer shipments to support manufacturing of critical 
+medial equipment as well as supporting R&D initiatives with the W.H.O. and  
+Mass General Hospital.
+Improving Lives Through Technology  Page 13  
+Technologies to make factory floors safer and enabling the next generation of 
+wireless communications with core technologies for 5G network infrastructure.
+Diversity and Inclusion  Pages 34-3 5
+We’re committed to increasing diversity across the organization and nurturing  
+a culture of inclusion where every employee brings their best to their jobs. 
+Treating Employees Fairly  Page 4 3
+ADI is committed to treating every single one of our global employees fairly and 
+with dignity. We always comply with local laws, and indeed, often go above and 
+beyond them to lead by example.
+Impact Through Engagement-STEM Education  Page 49 
+Supporting science, technology, engineering and math programs in the U.S.,  
+Europe and Asia for over 35 years.
+Protecting and Regenerating the Environment  Page 24
+We implemented an audit of all waste streams to identify opportunities to  
+improve resulting in 60% of our solid waste being recycled in 2019.
+Ethical Supply Chain  Page 6 1
+ADI expects suppliers to adhere to the same business ethics and human rights 
+standards ADI has set for itself. 
+Protecting and Regenerating the Environment  Page 23
+Water conservation initiatives to reduce impact in our manufacturing and  
+office facilities.
+Protecting and Regenerating the Environment  Pages 18-19 
+We achieved a 37% reduction in Scope 1+2 GHG emissions since 2015 due to  
+renewable energy sourcing and more efficient abatement systems.
+Innovating for The Environment  Page 12
+Technology solutions for electric vehicles, energy storage systems and  
+improving power efficiency in data centers.
+Protecting & Regenerating The Environment  Pages 22 and 29
+Reducing usage of energy in our manufacturing and office facilities.
+Boosting Biodiversity  Page 5 1
+Support for biodiversity conservation programs at our facilities and in our  
+local communities. 
+Empowering People  Pages 31-4 4
+ADI believes the talent of our people is how we will succeed as a company, which 
+is why we are committed to creating a culture that invests in our people,  
+is inclusive and treats employees equitably and fairly.APPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+75print scale  None 16251_ADI_ESG_Report_FINAL_051220.indd
+76FORW ARD-THINKING STATEMENT
+This report may be deemed to contain forward-looking statements intended to qualify for the safe 
+harbor from liability established by the Private Securities Litigation Reform Act of 1995. These 
+forward-looking statements include, among other things, our statements regarding our future 
+results of operations and financial condition; our strategy and competitive advantages; and the 
+expected opportunities, benefits and developments associated with our diversity and inclusion 
+strategy and programs. The statements contained in this report are not guarantees of future 
+performance, are inherently uncertain, and involve certain risks, uncertainties and assumptions 
+that are difficult to predict. Therefore, actual outcomes and results may differ materially from 
+what is expressed in such forward-looking statements, and such statements should not be relied 
+upon as representing our expectations or beliefs as of any date subsequent to the date of this 
+report. Important factors that could cause actual results to differ materially from the results 
+described, implied or projected in any forward-looking statements include changes in global 
+economic conditions, difficulty or delay in the design, development, production and marketing of 
+our products, technologies and solutions, our ability to recruit or retain key personnel and other 
+risk factors described in our most recent filings with the Securities and Exchange Commission. 
+We do not undertake any obligation to update forward-looking statements made by us.APPENDIX
+2019 ANALOG DEVICES CORPORATE RESPONSIBILITY REPORT
+76print scale  None 16251_ADI_ESG_Report_FINAL_051220.inddAnalog Devices Headquarters
+One Technology Way
+P.O. Box 9106
+Norwood, MA 02062-9106
+U.S.A.
+Tel: 781.329.4700
+©2020 Analog Devices, Inc. All rights reserved. Trademarks and registered trademarks are the property of their respective owners.

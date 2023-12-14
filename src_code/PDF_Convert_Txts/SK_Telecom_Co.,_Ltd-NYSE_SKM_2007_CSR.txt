@@ -1,0 +1,1712 @@
+2007  Sustainability Report
+SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:8 PM  ˘ ` 4    2007  Sustainability Report
+It started out with a single invisible line.
+That line extended and spread.That is how the mobile world began.The world has become smaller.SK Telecom has widened the mobile world and is connecting yet another line. SK Telecom is building a happiness network.Witness the extension of happiness. SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:8 PM  ˘ ` 1    SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:8 PM  ˘ ` 2    13 Economic Impact
+14 Digital Inclusion15 Product and Service Development 16 Building Trust in Global Markets17 Voice of Customers18 Clear Pricing18 Responsible Marketing19 Service Quality and Reliability  19 Customer Privacy Protection 20 Sound Telecommunications Culture21 Talent Attraction and Retention 22 Innovative Corporate Culture23 Climate Change25 Electromagnetic Radiation around Base Stations25 Handset Recycling26 Environmental Impact of Our Services28 Corporate Governance29 Business Ethics29 Compliance30 Investment in Local Communities 31 Volunteer Activities34 Diversity 34 Human Resources Development 35 Employee Protection 35 Respecting Human Rights 36 Labor-Management Cooperation 36 Supporting Our Business Partners 37 Working with Business Partners for Sustainability 38 Telecom Technology and Sustainable Development 39 Public Policy Cooperation 39 Support for Sustainable Development 39 Managing Environmental Impact of Our Operation02 CEO Message
+Sustainability at SK Telecom
+05 Setting the Context
+09 Our Journey towards Sustainability11 Materiality Assessment
+Material Issues to Our Business and Society
+13 Inclusive Information Society17 Customer Care21 Innovative Workplace23 Green ICT28 Business Integrity30 Corporate Philanthropy
+Measuring Our Progress
+33 Reporting Principle34 Other Issues and Performance Data40 GRI Content Index
+44 Assurance Report
+46 Glossary
+■Index Numbers: We mentioned the indicator names
+with corresponding the GRI index number. For allothers, we used unique numbers starting with “SK.”
+■Additional Information: We included the websiteaddresses related to the contents of this report.
+Voiceye
+: For the benefit of the visually impaired, we
+converted text data to voice data and inserted voiceicons on the top right hand corner of each page.SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 5    This is SK Telecom’s second sustainability report and the first
+COP (Communication on Progress) published since we joinedthe UN Global Compact. Our first sustainability report wasissued in October 2006.  
+The 2007 Sustainability Report includes performance data from
+the period beginning January 1, 2007, and ending December31, 2007 (fiscal year 2007). However, it also covers the secondhalf of 2006 which was not covered in the previous report. Withmajor performance indicators, we included data from the pastthree to four years. The scope of the report is the domesticoperations of SK Telecom which account for a high proportionof our total revenues and personnel.
+This report draws on the G3 Reporting Guidelines set out by
+the GRI (Global Reporting Initiative). By faithfully reporting onthe Performance Indicators and Profile Disclosures, in additionto Materiality Assessment, we aimed to provide more usefulinformation to stakeholders. Our reporting also receivedexternal assurance for greater credibility. The result of the third-party assurance can be found in the assurance report attachedto this report.
+Contact Information
+Ethics Management Group, Management Supporting Division
+SK T-Tower, 11 Euljiro2-ga, Jung-gu, Seoul, KoreaTel: +82-2-6100-1712 
+Fax: +82-2-6100-7939Email: sustainability
+@sktelecom.com
+SK’s “wings of happiness” symbolize its commitment to create a happy world through the pursuit of happiness for
+stakeholders. Flying to new heights is possible when both wings achieve balance and harmony. In much the sameway, sustainable development will become reality when there is mutual happiness between a company and itscustomers, a company and its shareholders, management and employees, and a company and its business partners. SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 1    With cutting edge services, SK Telecom is working to
+enhance quality of life for people everywhere and create
+a happy and abundant world. “
+”CEO MESSAGE
+02SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 2    Dear Stakeholders,
+SK Telecom is contributing to enhancing quality of life and creating a
+richer and happier world by facilitating communication between people. 
+We strive to increase happiness for all our stakeholders by practicing
+sustainability management.
+Just as we understand that SK’s wings of happiness will take us to new heights when
+they achieve balance and harmony, we believe that mutual cooperation with ourcustomers, employees, shareholders and business partners is essential for balancedgrowth. We are convinced that growth is only possible when corporations andcommunities work together hand in hand. As part of our drive to deliver happiness toour customers, we have a firm commitment to enhancing corporate governance,upholding high ethical standards, promoting win-win partnerships, protecting theenvironment, and fulfilling our social responsibilities. 
+Being a good corporate citizen means interacting with the environment and society in
+a responsible manner in all facets of our operation. With that in mind, we publishedour first sustainability report in October 2006 and joined the UN Global Compact inMay 2007. Now we are issuing our second sustainability report. For this report, weadopted the materiality assessment to identify issues of major significance to SKTelecom and our stakeholders. These include the inclusive information society,customer care, innovative workplace, green ICT, business integrity, and corporatephilanthropy. SK Telecom will continue to engage with stakeholders to satisfy theirneeds and address the various challenges facing society.
+We are fully prepared to embrace the challenges 2008 brings upon us.
+We are extending our reach beyond Korea and taking our services to the globalmarkets to better the lives of people in all corners of the world. The support and trustof our stakeholders will be invaluable as we continue with our efforts to become acompany respected and admired by all people across the globe. 
+SK Telecom 2007  Sustainability Report  
+03
+Shin Bae Kim
+President and CEOSKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 3    SUSTAINABILITY AT SK TELECOM
+04We aim at being a global leader
+SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 4    SK Telecom 2007  Sustainability Report  
+05Sustainability at SK Telecom
+Rapid advances in technology are accelerating convergence, and competition is intensifying in the
+global marketplace. Moreover, businesses have to meet evolving customer needs and society’sexpectations on corporate roles and responsibilities. SK Telecom practices sustainability managementbased on SK’s philosophy of maximizing value for stakeholders. 
+Root of Sustainability Management - SKMS (SK Management System)
+As we celebrated our 20th anniversary in 2004, we unveiled our “new value management” strategy to
+prepare for next 20 years. In drawing up this strategy, we made a thorough review of corporate role andresponsibilities, value creation, and all other aspects of management approach towards customers,employees, shareholders and society. Along with the “new value management” strategy, SKMS servesas the foundation of our sustainability management. SKMS is SK Group’s underlying managementphilosophy introduced in 1979. We reaffirmed our commitment to sustainability management in March2008 as we reflected SKMS in our articles of incorporation. 
+SK Telecom website, “Management Philosophy” http://www.sktelecom.com/eng/
+Customer Happiness and Sustainability Management 
+SK Telecom encourages customer participation at every step, from planning to distribution, to deliver
+services that customers truly need. As a company that serves more than half the Korean population, SKTelecom is striving to ensure happiness for current and potential customers. The pursuit of customerhappiness holds the key to sustainability management at SK Telecom.
+Human-
+Centered
+Innovation
+Services that meet
+intrinsic customer
+needsCustomer
+Satisfaction
+Enhancing quality of
+life through customer
+satisfaction
+Web 2.0
+Engaging and
+sharing with
+customersCorporate
+Social
+Responsibility 
+Company respected
+and needed by
+society 
+●SKTizens’ Mission ●
+�Recognizing that customers are at the root of happiness, we will always
+think of customers’ needs and do our best to increase value for customers.
+�We will pursue SUPEX (Super Excellent Level) and corporate growth tomaximize shareholder value and maintain transparency to gain shareholders’trust.
+�Realizing that we are forging the future together with our business partners,we will do our best to promote cooperation and friendly relationships formutual prosperity. 
+�As proud SKTizens and representatives of our company, we will increasevalue for all stakeholders and fully meet our social responsibilities to createa happier world.Deliver Customer Happiness
+SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 5    06Global Convergence Innovator, SK Telecom
+The mobile telecom market in Korea is saturated with the number of subscribers standing at 43.5
+million (penetration rate of 89.8% relative to the total population) as of the end of 2007. SK Telecom isthe nation’s leading mobile communications company. Through continuous innovation, we havespearheaded advances in CDMA service not only in Korea but throughout the world and in the processplayed a key role in shaping Korea into a global IT powerhouse. We continue to lead the mobileevolution with cutting edge convergence services that break down the walls between different sectorssuch as mobile commerce, telematics, satellite DMB and digital home service. 
+Brand T
+Launched in July 2006, brand T aspires to go beyond technological leadership and appeal to customers’
+senses and forge a new culture. Brand T represents our resolve to add new value to our customers’lives by offering new and unique products. 
+The year 2008 saw the birth of the new logo for T, Dream Ribbon. The two
+ribbons that conjure up an image of the Mobius strip symbolize two-waycommunication and infinite potential. The logo is a representation of SKTelecom’s aspiration of being one with customers, realizing a reliable brand,and delivering consistent service quality. It is a portrait of a companycoexisting and communicating seamlessly with its customers.
+Overseas Business
+We launched our CDMA service in Vietnam in 2003 in conjunction with Saigon Postel, the nation’s
+second largest mobile telecom operator, after receiving approval from the local authorities in 2001. InChina, we began with technical consulting under a CDMA cooperation agreement with China Unicom in2001. At present, SK Telecom is participating in the Board of Directors of China Unicom as its secondlargest shareholder. Over in the US, we set up Helio, a joint venture with the US Internet serviceprovider EarthLink. Services were launched under the Helio brand in May 2006. 
+Major Overseas Investments (as of the end 2007)
+Country Company Name Ownership (%) Major Brand Remark
+Vietnam SKT Vietnam 73.3 S-FoneEstablished in April 2000 
+Subscribers reached 3.5 million in 2007··
+USA Helio 64.9 HelioLaunched MVNO (Mobile Virtual Network
+Operator) service in May 2006 Launched Ocean Phone in 2007
+China China Unicom 6.6 -Acquired equity stake in 2007
+Planning to launch various convergencebusinessesSKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 6    Category Unit 1984 1994 2004 2005 2006 2007
+Number of Subscribers Thousand 3 960 18,783 19,530 20,271 21,968
+Operating Revenue KRW billion 0.4 783 9,703 10,161 10,651 11,286
+Market Share % 100 100 51.3 50.9 50.4 50.5
+SK Group�
+POSCO
+National Pension ServiceInstitutional investors/
+minority shareholders
+Treasury stock
+�Majority shareholder (SK Corp.)
+and specially-related parties18,748,452
+(23.09)8,609,034
+(10.60)
+48,670,474
+(59.95)2,341,569
+(2.88)
+2,824,182
+(3.48)Key Operating Performance
+Share Ownership 
+Major Affiliates in Korea (as of the end 2007)
+Company Name Stake (%) Major Business Area Book Value (KRW thousand)
+SK Telink 90.8 International/Long-distance calls 97,136,429SK Communications 64.8 On-line portal 160,025,349TU Media 32.7 Satellite DMB service 5,527,008SK C&C 30.0 IT consulting service 1,037,604,000Number
+of Shares 
+(%)Company Profile
+Established Korea
+MobileTelecommunicationsServices Co., Ltd.(’84.3)Paging service
+subscribers
+surpassed 1 million
+(’92.4)
+Listed on 
+Korea Stock Exchange
+(’89.10)Launched CDMA
+cellular phone service(’96.1)
+Launched ‘TTL’
+(’99.7)Launched CDMA2000 
+1x EV-DO service Merged with Shinsegi Telecomm (’02.1)Launched Helio
+(’06.5)Declared
+‘New Value
+Management’(’04.3)SK Group
+became majorshareholder (’94.6)Changed CI
+(’97.3)
+Declared ‘Move 21’
+(’95.2)Established 
+‘Vision 2010’(’01.3)Introduced
+6 Sigma
+(’04.7)Launched commercial
+CDMA cellular service
+in Vietnam
+(’03.7)Commercialized
+3G
++(HSDPA)
+(’06.5)
+Signed MOU on
+TD-SCDMA
+cooperation with
+the Chinese
+government (’06.8)Began car phone
+service(’84.5)
+Acquisition of 
+Hanaro TelecomApproved (’08.2)As a public enterprise
+(1984~1993)Since privatization (1994~present)SK Telecom 2007  Sustainability Report  
+07Built nationwide
+3G+network
+(’07.3)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 7    081) Research fees, project fees, subsidies, etc. related to
+national R&D projects
+2) Temporary investment tax credit, tax deduction for
+investment in R&D and human resource development(HRD), tax deduction for investment to enhanceproductivity※Government regulations stipulate that telecommunicationsservice providers contribute to providing universaltelecommunications services, such as services for remoteislands and wireless services for ships. The 2007 figure isan estimate. For other payments made to the government,refer to provisions for income taxes, taxes and dues,external research and development costs, and frequencyusage in the table titled Economic Performance. Creation and Distribution of Economic Value
+Economic Performance
+2005 2006 2007
+Operating revenue 10,161,128,637 10,650,952,431 11,285,900,130
+Operating expenses 7,507,559,130 8,066,582,847 9,114,357,241
+Salaries and wages 342,761,120 358,225,595 379,537,717
+Provision for retirement and 37,622,226 37,921,155 30,346,097severance benefits
+Welfare 56,514,211 55,734,927 86,343,003
+Education and training 29,430,652 36,273,953 39,994,401 
+Taxes and dues 55,687,220 91,902,424 32,557,444
+Research and development 204,698,223 211,751,884 214,795,262
+Frequency usage 156,097,850 158,958,132 164,071,959
+Operating income 2,653,569,507 2,584,369,584 2,171,542,889
+Other income 409,793,044 311,100,477 851,414,147
+Other expenses 508,749,205 873,827,071 715,171,565
+Interest and discounts 252,463,623 237,534,542 215,856,126
+External research and development costs 68,525,662 66,055,467 73,724,601
+Donations 75,982,647 103,002,014 72,470,536
+Contribution to employee welfare fund  23,800,000 42,000,000 20,000,000within donations
+Income before income taxes 2,554,613,346 2,021,642,990 2,307,785,471
+Provision for income taxes 683,233,256 575,045,052 665,334,153
+Net income 1,871,380,090 1,446,597,938 1,642,451,318
+Dividends1)662,528,664 582,358,870 682,378,746(KRW thousand)
+Investment / Research & development grants1)
+Tax relief/Credits2)(KRW billion)74.6
+2004 2005 2006 20074.1
+94.1 4.9
+90.2 7.6
+106.0 3.8
+27.3
+29.2 
+27.3(KRW billion)
+2005 2006 2007Financial Assistance from Government Contribution to Universal Services   1) Stock buyback and retirement amounting to KRW 209.1 billion in 2006SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 8    Stakeholder Group
+Customers & Potential CustomersEmployeesShareholders (Investors) & Analysts
+Business Partners
+- Dealers
+- Handset Manufacturers- Operation & Maintenance
+Companies 
+- Network Construction Companies
+Local Governments & 
+Government AgenciesCommunication Channel (year round/periodic intervals)
+Customer Counseling Center, T Roaming Blog
+*, T World 2.0 *, etc.
+Ethics Helpline, T-Cafe *, My Counselor *, HR Forum, etc.
+Quarterly earnings conference (IR meeting), invitational seminars, etc. Partner satisfaction survey, one-on-one meeting, BR camp, with SK
+*, 
+PartnerOn *, etc.
+Outstanding dealer policy presentation, monthly publication, etc.Quality assurance meeting, etc.Meeting with business partners, presentation of outstanding quality 
+improvement cases, technical support workshop, PNET
+*, etc.
+Investment conference, CEO meeting, progress review meetings, etc. Happy Meal-local govt. conference, Win-win partnership executive council, 
+regional telecommunications council, base station-sharing workshop, etc.Communication Activities by Stakeholder Group
+�Online channel which is open year-round (T-Cafe is available on the intranet), Available only in Korea
+�T Roaming Blog http://troaming.tistory.com/             �T World 2.0  http://www.tworld.co.kr/ 
+�My Counselor  http://www.maumsarang.or.kr/sk/      �withSK  http://www.withsk.com/     
+�PartnerOn  http://partneron.sktelecom.com/Constant support from customers, the dedication and hard work of employees, and
+encouragement from shareholders and business partners played a vital role in poweringSK Telecom ’s growth over the years. Our vision is to create SK Telecom into the world ’s
+most admired company through the pursuit of sustainable business practices. 
+Sustainability Management(SM) Framework 
+SK Telecom has taken various measures aimed at enhancing value for customers, employees and
+shareholders and building trust with business partners, governments and regional communities. TheEthics Management Group, which is responsible for incorporating sustainability into business practices,appoints ethics management agents in 55 departments throughout the company. It operates taskforces and working groups to boost synergies between related departments. Sustainability issues thathave significant implications to our business, such as joining the UN Global Compact, are subject toreview and resolution by the SK Telecom Board of Directors. We plan to set up senior-level channels
+for closer inter-departmental cooperation to effectively respond to demands for greater accountabilityand changes in the operating environment.
+Stakeholder Engagement
+We conduct regular surveys to measure the satisfaction levels of participants and beneficiaries of
+social contribution programs, in addition to our customers and employees. The surveys are used tomake continuous improvements. We plan to add a regular survey targeting business partners in 2008.
+In preparation, we developed the survey index and carried out a preliminary assessment in 2007. Inaddition, the Social Contribution Advisory Group identifies local and international trends in corporatesocial responsibility and the needs of our communities. Comprised of related outside experts, thegroup was set up to ensure effective implementation of our social contribution activities. 
+We devoted substantial time and effort to step up our external communication activities in 2007. We
+took part in presentations and debates to gather stakeholders’ feedback on our sustainabilitymanagement and identify areas for improvement. A survey was also conducted targeting 210 opinionleaders and 500 persons of the general public to determine the prerequisites to becoming the world’smost admired company. In 2008, we plan to renew the company website and set up a new global-level
+consultative body to gather stakeholders’ opinions on sustainability management on a regular basisand to more effectively incorporate their views in how we conduct our business. SK Telecom 2007  Sustainability Report  
+09SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 9    In the wake of heightened interest in sustainability, investors, rating agencies and others are demanding
+greater disclosure of information regarding sustainability management. In 2007, SK Telecom responded
+to seven requests for such information, including Dow Jones Sustainability Index (DJSI) Questionnaireand the Carbon Disclosure Project survey.
+- The corporate sustainability research firm SolAbility released the results of an in-depth study on 130
+listed companies in 2007. The 130 were selected after a preliminary review of roughly 350 companieslisted on the Korea Stock Exchange. SK Telecom received the 5th highest score in the study. 
+- In December 2007, SK Telecom was honored in the first-time reporter category at the 2nd Grand
+Awards for Excellence in Sustainability Management. The awards are sponsored by the Ministry ofCommerce, Industry and Energy and jointly organized by the Korea Chamber of Commerce &Industry and the Institute for Industrial Policy Studies. 
+- SK Telecom was named one of the best sustainable companies by the local daily, MoneyToday, in
+2007. SK Telecom received 25 votes in a financial analyst survey on the best sustainable companiesconducted by the paper. 
+- In the Sustainability Yearbook 2008 released by Sustainable Asset Management (SAM), an asset
+management company based in Switzerland, SK Telecom was among the top 15% in the mobiletelecommunications sector along with Telenor, Bell Canada, Vodafone Group, and TeliaSonera.
+10Business Case in Sustainability
+SK Telecom regards sustainability management as a way of fulfilling its roles and responsibilities as a
+leader in the Korean mobile communications market. Sustainability management will contribute toenhancing long-term performance by promoting sound business practices, strengthening the ability tocope with rapid changes in the environment, and gaining trust from stakeholders. In addition, it will surely
+help lower funding costs, attract investment and raise shareholder value, given the expansion of sociallyresponsible investing. With the goal of becoming the world’s most admired company, we plan to extendour innovative services, social contribution and ethical management activities across the entire globe.
+Launched a “Mobile Phone Usage Education” program for the elderly 14
+Continued to provide solutions and services for enhancing social benefits 13Introduced payment plans specially designed for users with hearing or speech disability 14Launched Open Collaboration System 15Opened IT Training Centers in Ho Chi Minh (Vietnam) and Yanbian (China)/ 16Continued free surgeries for Vietnamese children with facial deformities
+Gained CCMS certification (first in telecom industry in Korea) 17Introduced a discount program between our subscribers and lowered the rates on text messaging 18Strengthened infrastructure for customer privacy protection 19(set up Security Operation Center/improved processes of subscription application)
+Implemented various programs to promote the proper use of mobile phones 20Introduced the Bilingual Program and Global Internship Program 22Installed natural air-conditioning systems/ Strived to reduce CO
+2emissions through efficient 24management of energy at offices
+Launched campaign for collecting discarded handsets at 4,000 schools 26Stressed the need for standardized mobile phone peripherals27(Established a standard 20 pin size for earphones)
+Reduced paper usage through expanding e-mail billing and upgrading M billing function 27Distributed ethical management handbooks to local staff in China, 29expanding the scope of education on ethical management
+Conducted beneficiaries and participants satisfaction surveys on major CSR programs 31such as 1318 Happy Zone and SK Happy Meal Box
+Increased the participation in volunteer activities 31(87% of all the employee enrolled in the volunteer group and participated in 18.6 hours on average) Highlights of Sustainability Management at SK Telecom in 2007 (Page of the Report)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 10    SK Telecom carried out the materiality assessment to determine issues that are of
+common interest to stakeholders and have a potentially significant impact on itsbusiness, and published the report centered on the findings.
+Materiality Assessment Process 
+We identified a total of 232 issues upon reviewing various sources of information including internal
+documents on company strategy, a study benchmarking global telecom operators, and media analysis.After categorizing the issues to determine their level of significance, we arrived at 35 issues for whichwe analyzed the social concerns and business impact. For social concerns, we used the results ofmedia analysis, global standards, reports from peer companies, and the results of a corporatereputation survey. For business impact, we performed an in-house evaluation for each issue based onstrategic correlation, financial impact, and impact on risk and reputation. 
+Major Issues Derived from Materiality Assessment
+The major issues are covered in the “Materiality Issues to Our Business and Society” section (pages
+13~31) of the report. Issues deemed to have a relatively lower significance are detailed in the “OtherIssues and Performance Data” section (pages 34~39) along with the GRI performance indicators. Weplan to report on the issues that have lower significance through the company website as we makefurther progress with materiality assessment. SK Telecom 2007  Sustainability Report  
+11
+Serving as the chair of the Federation
+of Korean Industries (FKI) KoreaEthics & Compliance Officer Councilfrom 2007, SK Telecom has beenleading the drive to promote corporatesocial responsibility (CSR) in Korea.
+SK Telecom attended the Business
+for Social Responsibility (BSR)Conference held in the US city ofSan Francisco in October 2007 andgave a presentation on its CSRactivities and the state of CSR inKorea.
+SK Telecom has supported efforts to
+launch UN Global Compact NetworkKorea and led its activities sincejoining the UN Global Compact inApril 2007. UN Global Compact Network
+Korea Korea Ethics & Compliance
+Officer Council BSR ConferenceAssessment Process
+Step1
+Issue Identification Social Concern Business Impact Materiality Chart Report FrameworkStep2 Step3 Step4 Step5
+Issue Pool
+Ⅰ1
+Ⅰ2
+Ⅰ3
+... .. ..Issue CategorizationEIRM
+Peer ...Ⅰ1
+Ⅰ2
+Ⅰ3
+... .. ..Materiality Test
+�Issue #1
+�Issue #2
+�Issue #3
+�Issue #4
+�Issue #5
+�...������
+����
+�Evaluation5
+4321
+1   2   3   4   5Social Concern
+Business Impact1st Priority
+��
+�
+��
+Decision of
+report
+frameworkM/A I/R
+StrategyCategory GS Peer M/A Category Strategy Finance RiskSKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:9 PM  ˘ ` 11    MATERIAL ISSUES TO OUR BUSINESS AND SOCIETY
+12We shape a better world 
+with steadfast steps
+SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 12    1998 2000 2003 2005
+Mobile telecom revenue          
+Current price GDP810,516
+17,670724,675
+578,665484,103
+5,32215,115
+11,983As Korea’s leading mobile telecom operator, we always look beyond the present. 
+We constantly delve into our role as a mobile telecom service provider and seek newgrowth drivers in order to realize an ‘inclusive information society’ in which thebenefits of advanced technology can be equally shared by all 6.4 billion people inthe world.
+Economic Impact  
+The local mobile telecom industry has grown at a higher rate than the country’s GDP growth rate.
+Between 1998 and 2000, the industry expanded at an average annual rate of 50.1%, helping to pull thelocal economy out of the throes of the foreign exchange crisis.
+SK Telecom offers a wide range of wireless services from mobile multimedia to global roaming and isadvancing into new business areas that combine wired and wireless technology. From location-basedservice to Mobile Cyworld, tossi, i’s box and 11th Street, our integrated wired and wireless services arehelping to create a ubiquitous environment in which people can conveniently enjoy social networking, UCCshopping and more without constraints in time or place. Solution service for corporate and public sector
+clients enhances their work efficiency while conserving energy and providing other social benefits.I   Socio-Economic Impact of the Mobile Telecom Sector   I
+Economic Impact Advances in mobile telecommunications paved the way toward convergence services
+like mobile games and m-commerce, which in turn created new business opportunities and spurredgrowth of the culture contents industry. They have also raised the efficiency of post-productionprocesses, such as logistics, sales, distribution and after-service, where mobility and swift response toconsumer demands are essential. Furthermore, mobile telecom services have fueled the development ofrelated systems and equipment, thereby contributing to advancing the IT equipment sector andenhancing Korea’s competitiveness on the global stage. 
+Consumers’ Utility According to a survey of 500 adults carried out by the Korea Institute for Industrial
+Economics and Trade (KIET), mobile telecom service provides value to customers in the aspects ofemotional connection, convenience, use of leisure time, the potential for acquiring information, andsafety. When converted to monetary terms, its value is equal to at least KRW 44,006 per month perperson.
+�Analysis of the Social and Economic Impact of Mobile Telecom, KIET (2007) 
+CAGR
+7.3%
+CAGR
+16.8%
+Handset production 
+Wireless telecom equipment production Contents service revenueSK2. Economic Impact of the Mobile Telecom
+Sector in KoreaSK1. Growth Rate Comparison
+(KRW billion) (KRW billion)
+1998 2000 2003 200526,097
+2,579
+1,80912,239
+2,373
+4946,345
+2,111
+88
+31,348
+1,580
+3,392SK Telecom 2007  Sustainability Report  
+13SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 13    Service
+TaxicallDescription
+GPS-based automated call serviceSocial Impact
+Contribute to easing traffic congestion and curbing
+fuel consumptionCreate rational transportation service environment 
+Public facilitymanagementsolutionRemote control solution for street
+lamps, reservoirs, etc. Increase worker productivity and efficiency in
+management of public facilities
+Bus informationsystemArrival and departure info for bus
+stops and destinations, work orderand notification serviceShorten waiting time and boost convenience for bus
+passengersEfficient driving for bus driversSafe phone Terminal with location control
+function to ensure safety of seniorcitizens living alone (in use inGyeonggi-do and Seoul)Enhance social welfare and protect senior citizens
+National Police
+Agency wirelesscheck serviceService using the wireless network
+to conduct real time checks onfugitives, vehicles, driver’s licenseinfo, photos, etc.Enhance public security, raise arrest rate SK Telecom’s growth and development has a direct impact not only on the company’s employees, but also
+on the people working at our business partners ranging from those which serve customers at branchoffices, customer centers and payment collection center, to those which handle maintenance and repair ofbase stations and our offices. Expansion of the social safety net and job creation are some of the ways inwhich we are sharing the fruits of success with the less fortunate in society. Our endeavors include the1318 Happy Zone for youths, Happy Meal Box for those in need, deploying education assistants to
+schools to help disabled students, and establishing the Public Funeral Service Center. 
+Refer to “Corporate Philanthropy” at page 30
+Digital Inclusion
+In the case of CDMA/WCDMA, our network already covers 99% of the Korean population and 89% of
+nationwide territory. We continue with efforts to extend network coverage to islands, mountainousregions and other areas with poor access. Moreover, we are carrying out projects that utilize ourtechnology and nationwide network to enhance the quality of life for residents of remote regionsthrough such services as “mobile hospitals” (vehicles or ships carrying medical equipment). SKTelecom participated in the mobile hospital project in Chungcheongnam-do province in 2007 inaddition to Busan.
+Our services are being continuously upgraded to meet the specific needs of different population
+groups. In 2007, we introduced a payment plan specially designed for senior citizens who mainly usetheir cell phones to receive incoming calls. We also offer a program called “Mobile Phone UsageEducation” for the elderly in conjunction with the Korea Association of Senior Welfare Centers. The
+program was launched in September 2007 with classes at five senior welfare centers in the Seoulmetropolitan area and was expanded nationwide in November. University students who are members
+of SK Telecom’s Sunny assisted the program.  
+Our customers include about 40,000 people with hearing or speech disability. In March 2007, we
+opened a video telephony center manned by agents who provide free consultation through sign
+language when a registered hearing impaired user makes a video call. We also lowered flat rates by35% for text messaging, multimedia messaging and video call, services which are widely used bypeople with hearing or speech disability. A special payment plan for users with such disabilities was
+introduced in August to alleviate their cost burden. SK Telecom introduced “SK Telecom IT
+Competition” for physically and mentally challenged youth in 1999 to enhance computer skills amongthe youth with various disabilities. A total of 1,235 youngsters from across the nation took part in the2007 competition, and 350 who passed the regional qualifiers competed in the final held in June.
+14Social Benefits of Major Solutions & ServicesSKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 14    Product and Service Development 
+Despite the aggravated business environment caused by severe competition in the industry, SK
+Telecom is investing steadily to develop products and services for future growth. We are engaged inefforts to commercialize Time Division-Synchronous Code Division Multiple Access (TD-SCDMA), 3Gmobile technology which is being developed in China. Related to this endeavor, we jointly set up anR&D center in Beijing with Datang Telecom of China in February 2007. In April of the same year, wesuccessfully completed a test of the world’s first international video conference based on TD-SCDMA.In particular, we set up the Human-Centered Innovation Team whose role is to analyze people’sbehavioral patterns by drawing on the discipline of anthropology in order to develop products andservices that satisfy consumer needs. 
+Open Collaboration System 
+SK Telecom will combine Web 2.0 spirit of openness, participation and sharing with win-win partnership
+to strengthen the capabilities of our business partners and promote strategic cooperation. In 2007, wedrew up a strategy for open collaboration whereby venture businesses propose new ideas and SKTelecom studies the commercial viability of those ideas. The strategy covers ways to select, foster andevaluate business partners. We plan to launch an information system to efficiently oversee the relatedprocesses in the first half of 2008.
+Open Idea+Festival 
+We launched the Open Idea+Festival in 2007 to promote win-win cooperation through joint
+commercialization of ideas from small- and mid-sized venture businesses. The festival was held in Aprilto uncover new ideas and business models from existing and potential business partners. The eventattracted 77 participants and a total of 42 ideas and business models were acknowledged. We arecurrently making a progress on joint commercialization for the Grand Prize winner and will continue withsuch endeavors in the future. 
+Collaborative R&D Program
+SK Telecom provides funding for joint research with outside research organizations and SME partners to
+support R&D and commercialization of viable new businesses. Since 2004, we provided a total of KRW17.5 billion in a wide range of areas including satellite broadcasting and protecting intellectual propertyrights for contents. In particular, KRW 1.6 billion was channeled toward the development of mobileconditional access solution between 2005 and 2006. Work is currently underway to commercialize thesolution in China and Thailand. Meanwhile, some 50 business partners are involved in our overseasoperations in the US, Vietnam and China. In addition, we help business partners reinforce their R&Dthrough a variety of programs.        
+Refer to “Supporting Our Business Partners” at page 36
+(persons) (units) (KRW trillion)
+2004 2005 2006 2007 2005 2006 200792 7
+Remote mountainous regions
+Hiking trails             Remote islands Office building maintenance business partnersOperation & maintenance business partnersBranch offices, customer centers and payment 
+collection centers
+54
+3115
+5,080
+2,068
+1,0134,9974,969 4,974
+1,778
+9641,926 1,923
+1,003 1,003
+Capital expenditure
+Marketing expenditure2004 2005 2006 20071.61
+1.86
+1.47
+1.75
+1.52
+2.19
+1.86
+2.85SK Telecom 2007  Sustainability Report  
+15
+SK3. Indirect Job Creation SK5. Capital Expenditure vs.
+Marketing ExpenditureSK4. Expanded Coverage 
+in Remote RegionsSKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 15    Aron Cramer �CEO, Business for Social Responsibility 
+Wireless communications are enabling us to be connected everywhere, all of the time, while the growth of
+Internet access over mobile phones opens up the opportunity to increase access to information and exchangeideas and opinions. With this increasing importance comes an opportunity for mobile companies to design newproducts, services and technologies that provide social, economic and environmental value. As SK Telecomgrows internationally in markets such as the US, Vietnam and China it will find itself in locations with their ownunique social, economic and environmental priorities. We would like to see SK Telecom explore where and howits operations and services can be used to advance education, healthcare and environmental goals in theselocations. Specifically, we hope that SK Telecom can explore how these sustainability priorities can best beintegrated into its core product, service and technology offerings and development processes. With growingattention to global resource scarcity, SK Telecom can be a leader in leveraging technology for a moresustainable world. Achieving this would place SK Telecom among the leaders in CSR.
+Expert CommentaryBuilding Trust in Global Markets
+SK Telecom has built up a strong presence in overseas markets such as Vietnam, the US and China
+based on strategies tailored to the needs of the respective regions. Community involvement programsform an integral part of our global operations. We carry out various social contribution activities prior tolaunching our local business. That has contributed to gaining trust from the local communities, which isvital for success. 
+Vietnam
+In conjunction with the Smile for Children, SK Telecom has been supporting free surgeries for Vietnamese
+children with facial deformities since 1996. A total of 2,495 children have been benefitted by the surgeriesby the end of December 2007. In 2006, we introduced the Thu-Vien SK Telecom project jointly with Global
+Civic Sharing to help develop the country’s educational infrastructure. Another milestone was the opening
+of the SKT-SSU IT Training Center in Ho Chi Minh in December 2007 to foster IT professionals.
+Outstanding trainees from the center will be given the opportunity to study and work in Korea. 
+China
+SK Telecom is also helping to improve the educational environment in China. In August 2007, we
+opened the Yanbian IT Center which provides IT training to teens and university students in Yanbian,
+an area where computer and Internet education is underdeveloped. In Urumqi, we set up the HopeElementary School which allows 240 children to continue their education. In January 2008, the SK
+Fund was created under an agreement between China and SK. The fund supports a program that
+provides training and business start-up assistance for university students as well as a programdesigned to promote science and creativity among middle/high school students. 
+16SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 16    SK Telecom is aiming to emerge as a leading telecommunication service provider in
+Korea and beyond. To this end, we are committed to improving service quality andsafety. In July 2006, we voluntarily stopped offering of adult contents. In 2007, wepioneered diverse privacy and security initiatives in Korea designed to protectcustomer information and youth customers and prevent spam messages. Our aim in2008 is to identify risks such as customer information leaks, wireless Internet billingerrors, and spam messages that can potentially hurt our strong legacy of customertrust. 
+Voice of Customers
+SK Telecom operates the VOC (Voice of Customers) management system to continuously monitor
+customers’ concerns and grievances and to make improvements as necessary. As part of our effortsfor complaint prevention, we incorporate customers’ opinions in drawing up our marketing policy, billingand pricing system, and other facets of operations. We also set up the necessary infrastructure toacquire CCMS (Customer Complaints Management System) certification which specifies the systemsneeded for the prevention of and follow-up to customer complaints. We became the first
+telecommunications company to gain CCMS certification from the Fair Trade Commission (FTC) inJanuary 2008. 
+We enhanced the VOC process in 2007 by introducing a new system whereby a customer who makes
+a repeat call within four days is connected to the same service agent. We also launched the Call Backservice. In August, we opened the Customer Complaint Department in the Customer CounselingCenter which serves as a channel for receiving customer opinions and addressing complaints.Customer service agents receive training at Rainbow Academy to obtain the skills required to satisfydiverse customer needs. 
+The number of complaints filed against SK Telecom with external organizations such as the Korea
+Communications Commission, Korea Consumer Agency and Consumer Union of Korea dropped 32%year-on-year to 7,223 in 2007. In addition, the company continued to rank first in the mobile telecomcategory in the three major customer satisfaction surveys conducted in Korea. 
+KCSI              KS-SQI              NCSI 
+(The years refer to when the survey results were released.)727471 71PR5. Major Customer Satisfaction Survey Results SK6. Rainbow Academy Participants 
+2004 2005 2006 200765.466.5 69.4 67.9
+57.760.857.860.9
+2005 2006 20072,881
+15,145
+26,138 �National Customer Satisfaction
+Index (NCSI): announced byKorea Productivity Center everyApril
+�Korean Customer SatisfactionIndex (KCSI): announced byKMAC every September
+�Korean Standards on ServiceQuality Index (KS-SQI):announced by Korean StandardsAssociation every AugustSK Telecom 2007  Sustainability Report  
+17(Points) (persons)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 17    Clear Pricing
+SK Telecom makes every effort so that our customers may use our services with peace of mind. We
+clearly inform customers of our pricing system, use of personal information, and other important factsthat customers need to know. To enhance billing accuracy, we review the billing details of allcustomers. When we detect an excessive jump in a customer’s monthly charge, we make a separatecheck to verify the figures. Since early 2007 we have utilized Product Life-cycle Management (PLM) tocheck the quality and possibility of billing errors before the launch of any new and promotionalproducts. 
+We have taken various steps to respond to demands to ease the cost burden of telecom services. We
+have been offering the caller identification (CID) service for free from January 2006 and we lowered
+rates on text messaging in January 2008. In 2007, we introduced a plan under which discounted rates
+are applied to calls made between SK Telecom service subscribers. This plan has been hugelypopular, attracting more than 2 million customers in just five months. We will expand this discount
+program between our subscribers and offer a family discount scheme in 2008 to help lower household
+telecom expenditures.
+In addition, we offer the Silver Plan for senior citizens, the i-Kids Plan for children aged 12 years or
+under, and a pricing plan to meet the needs of the disabled to alleviate the burden of customers whocannot easily use the mobile telecom services for economic reason. 
+Responsible Marketing 
+During the sales process, we pursue effective communication with customers to convey accurate
+product information. Through periodic analysis of marketing data and monthly onsite monitoring, weinspect whether our marketing policies are being properly implemented and take measures to addressany oversights. Through rigorous monitoring and supervision, we are working to prevent inappropriateand illegal marketing activities at our branches, dealers and other customer outlets. 
+SK7. Customer Complaints SK8. Provision of Customer
+Information to Legal Authorities
+2004 2005 2006 20074,716
+8,872
+10,607
+7,223
+2004 2005 2006 20071,111,699
+1,462,023
+1,215,674
+1,600,987
+18(cases) (cases)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 18    Duk-Seung Lee �President, Green Consumer Network in Korea
+Mobile telecom has become an essential part of life in Korea. However, its rapid growth has given rise to
+various consumer complaints. First, telecom expenditures are higher in Korea than in any other countrybecause the local market is not fully competitive. Another cause for criticism against mobile telecom operators isthe failure to prevent problems related to youth telecom spending by not taking into account that their servicesare used by a wide range of people. Recently, the premature launch of WCDMA without sufficient technologicalbacking has raised questions about possible loss for consumers. It is encouraging that SK Telecom is showinghigh levels of customer satisfaction after improvements to how it responds to consumer complaints. Butconsidering that SK Telecom is a company that serves half the population, it will face even greater demandsfrom consumers. The ability to respond appropriately to such demands will enhance SK Telecom’scompetitiveness.
+Expert CommentaryService Quality and Reliability  
+Customers are giving high marks to the quality of our basic services including call quality, as
+demonstrated by our top ranking in major customer satisfaction surveys such as National CustomerSatisfaction Index, Korean Customer Satisfaction Index and Korea Standards on Service QualityIndex. On the back of our world-class CDMA service featuring over a decade of operational know-how,we are now striving to secure the same level of quality service for WCDMA. In 2007, we launched ayear-long campaign to improve quality of our core services including wireless Internet by surveying andimproving quality within 220,000 major buildings and 200,000 underground repeaters. 
+We are also working to offer greater service reliability to our mobile phone users by curbing any health
+risks that may be associated with the use of mobile phones, both physical and mental. In regards toelectromagnetic radiation, we only support devices that have met the Radio Research Laboratory’sICNIRP (International Commission on Non-Ionizing Radiation Protection) standard. 
+Customer Privacy Protection 
+Fully complying with the Act on Promotion of Utilization of Information and Communication Network
+and Data Protection, we notify our customers of what and how we collect personal information andrequest their approval on our privacy policies released via subscription applications or on our website.In April 2007, we set up Korea’s first Security Operation Center to better safeguard customerinformation. Since the end of 2007, all subscription applications are scanned and transmitted to the
+customer database managed by the head office. The original paper forms are returned to theapplicants. This system prevents customer data leaks at dealers due to accidental misplacement. In
+cases of promotional events or service and system updates in which large amounts of customerinformation are handled, we conduct a Privacy Impact Assessment to counter leaks of valuableinformation due to internal errors or hacking attempts.
+Regarding criminal investigations and issues related to national security, SK Telecom provides
+customer data to national security agencies only after a strict procedure adhering to related regulationssuch as the Protection of Communications Secrets Act. Furthermore, customers can access identitytheft cases via an online system run in cooperation with the Association of Communications andInformation Industries. 
+For checks related to subscription records, http://www.msafer.or.kr (available only in Korean)SK Telecom 2007  Sustainability Report  
+19
+SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 19    Lockers were installed in selected
+schools to encourage students torefrain from phone use during class. 
+To promote the mobile phone as a
+messenger of happiness, SK Telecomsupported a pilot program for educationon mobile phone culture conducted at13 schools in Korea in 2007.Pilot Educational Program on
+Mobile Communications Culture Mobile Phone Locker 
+at a SchoolPoster for the 10
+Commandments of MobileCommunications Etiquette Sound Telecommunications Culture
+SK Telecom is constantly adding measures to protect minors who are at risk of running up excessive
+fees or becoming dependent on mobile services. In 2006, we introduced services to block their accessto wireless Internet, to notify guardians of minors’ monthly fees, and to block collect calls. In 2007, weadded a solution to block spam SMS, which enables access to harmful contents, and a ceiling systemon data usage fees that occur with each content download. We also introduced an exclusive contractfor teenagers and promoted a campaign for youths using mobile phones registered under their parents’names to switch to their own names. Even after we voluntarily discontinued our service of adultcontents in July 2006, we installed a system for adult certification when accessing adults contentsprovided through open network.
+Additionally, working with the Korea Association of School Social Workers, the Beautiful School
+Movement Headquarters, and Korea Agency Digital Opportunity & Promotion, SK Telecom implementsvarious programs to promote the proper use of mobile phones among the young. After conducting astudy on mobile phone use among teens from August 2007, we have been carrying out a piloteducational program at 13 schools from November. Campaigns such as “competition for making a fun
+mobile phone culture”, “delivering posters on mobile phone use etiquette” and “delivering mobile phonelockers in classrooms” was expanded to 11,000 schools nationwide by December. 
+Campaign Homepage, http://www.happymobile.or.kr/ (available only in Korean)
+Furthermore, SK Telecom has been taking the lead in reducing SMS spam. Since 2006, we erected a
+management system for companies that send out spam, and developed a system and service forblocking unwanted SMS spam. More recently, we developed a service to block a new form of voicespam through call pattern analysis and introduced an SMS spam filtering service in December 2007. Itwas the case that a filtering service had been applied to SMS. Previously, filtering services had beenlimited to emails. We applied for a patent for this service.
+20SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 20    LA1. Number of Employees LA11. Refresh Holiday
+2004 2005 2006 2007343 4,188
+Full-time employees
+Long-term part-time employeesDispatched employees from business partnersEmployees eligible for Refresh Holiday
+Employees who used Refresh Holiday368 4,130100
+152 120
+119
+710 4,4424,187 416
+2004 2005 2006 200747821
+397866
+6661,330
+599720With the ever-increasing speed of telecommunication technology developments and
+changing customer needs, innovation is emerging as a key competitive factor fortelecom companies. SK Telecom is building a system to allow our employees toexpress their full abilities in addition to fostering an innovative working environment.Our efforts have been recognized by Hewitt Associates, which named SK Telecom aBest Employer in Asia in 2007.
+Talent Attraction and Retention
+Securing good people makes good business sense, promoting positive business performances,
+customer value and loyalty. In addition to supporting legally mandated schemes including nationalpension, employment insurance, medical insurance and industrial accident compensation insurance,SK Telecom is trying to help employees to achieve work-life balance and long-term growth throughdiverse welfare benefits including medical services for the employees and their family,maternal/parental leave, and Refresh Holiday (for long-term employees) system.  
+Full-time employees who have been with the company for a long time can enjoy additional programs
+such as scholarships for their children and mortgage loans. In 2007, we were proud to share thecompany’s achievements with all employees by awarding them stock options through the EmployeeStock Ownership Plan. In addition, an array of opportunities for self-development and further learning isoffered to SK Telecom employees so that they may grow into MVPs (Most Valuable Biz Professionals). 
+Refer to “Human Resources Development” at page 34SK Telecom 2007  Sustainability Report  
+21※Full-time employees include
+those dispatched to overseassubsidiaries (137 as of the end of2007). When there arediscrepancies with the 2005Sustainability Report, this reportshall prevail.(persons) (persons)SKT¿ „ﬁ_SR_ˆ `   2008.6.10 11:4 AM  ˘ ` 21    Innovative Corporate Culture
+SK Telecom has been synonymous with success thanks to the devotion of its employees who embrace
+challenges, creativity and teamwork. SK Telecom defines and actively promotes those three qualitiesthat its employees must possess as T-DNA. In 2007, the TAP (T-DNA Acceleration Program) wascarried out for the 220 teams at SK Telecom from February to April. The program was designed toidentify and seek change necessary to enforce the concept of T-DNA. 
+Diverse measures are also being taken to build a creative and truly international organization befitting
+a global telecommunications company. First, to create a horizontal and creative organization, weunited various titles under the single “manager” moniker at the end of 2006. We also introduced theBilingual Program and Global Internship Program to create a working environment where people ofdiverse nationalities can work together seamlessly. In 2007, we implemented a trial run of concurrent
+Korean and English usage in 30 teams through our bilingual program. The number is being raised to77 teams in 2008 which represents roughly 30% of our organization. 
+To support an innovative corporate culture, we incorporated management methodologies such as 6
+Sigma, HCI (Human-Centered Innovation) and Knowledge Management to optimize company-wideprocesses, standardize and turn them into assets. Particularly in 2007, we carried out processoptimization and standardization for 10 key processes, such as developing new businesses andboosting customer value. To accumulate and better utilize these results of process innovation, weopened the “Work Portal” in October which strengthened our company knowledge-sharing system.Following an organizational reshuffle at the end of 2007 to ground a responsible management systemfor each business, we adopted a “Company In Company” system. This will enable us to moreefficiently conduct our process optimization work in 2008, in addition to internalizing innovativeactivities and strengthening organic ties between systems.
+Eric Fiedler �Asia Pacific Regional Director, Hewitt Associates 
+The major growth in Asia’s economy has created a seller’s labor market. The ability to find the right people,
+develop them, and then hold on to them, can potentially make the difference between an outstanding financialperformance for an organization and a merely passable one. The Hewitt’s Best Employers in Asia 2007 studyshowed The Best have outperformed The Rest in terms of revenue growth, improvement in productivity, betterHR efficiency and achieved consistently higher growth in profit. SK Telecom, one of the Best Employers in Asia2007 has activated open communication with employees and created flatter organizational structure. Thecompany is growing and diversifying, as it becomes a global company. SK Telecom’s next challenge is tomanage diversity and provide global employees with career opportunities to help achieve the goal of becominga global business.
+Expert Commentary
+22SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 22    Until now, customer and major stakeholder interest in the environmental aspect of
+our business has been relatively low compared to the manufacturing industry, as themobile telecommunications industry is known to have a lesser impact on theenvironment. However, interest is growing in our environmental management, led byglobal investment institutions and local NGOs. In response, we are expanding ourmanagement of environmental data and conducting environment managementactivities centering on issues of interest to stakeholders, such as electromagneticwave radiation from base stations, climate change and recycling used handsets. 
+Climate Change
+As Korea is not on the list of countries bound to reduce GHG emissions under the Kyoto Protocol,
+climate change-related regulations have received less attention. Nevertheless, SK Telecom has beenworking with various industry and academic institutions, including the Korea Business Council forSustainable Development (KBCSD) and Business Institute for Sustainable Development (BISD), tomonitor trends on related regulations and to participate in industry actions to counter climate change.Climate change is expected to lead to greater costs for many companies, due to extreme weatherconditions and higher oil prices. SK Telecom’s energy consumption structure leaves it more vulnerableto price hikes of indirect energy sources such as electricity, rather than primary energy sources. 
+Expert CommentarySK Telecom 2007  Sustainability Report  
+23(Information and Communications Technology)
+Luis Neves �Board Chair, GeSI (Global e-Sustainability Initiative) 
+Every industry sector, as well as every citizen of the world, has the opportunity and the responsibility to
+contribute to making the future more sustainable. Used in the right way ICT can function as an importantenabler of sustainable development, by improving citizens’ quality of life, supporting economic growth andinnovation as well as enabling competitiveness. If we are to be credible in delivering this message then we mustprove our point. ICT companies should be the first to apply the services they market to achieve sustainabilityimprovements. This requires a change of attitude that can only be driven by proper awareness-raising efforts.To fully exploit ICT benefits, cooperation and partnerships are needed with governments and NonGovernmental Organizations in particular, to create the conditions for deployment of technologically advancedproducts and services. I would therefore expect and recommend that SK Telecom take this direction and joinand benefit from global ICT cooperation initiatives.Environmental Management Activities at SK Telecom
+Supplier
+Supplier
+SupplierPartner Customer
+Partner
+PartnerSK TelecomCustomer contact
+point operationsNetwork
+operation 
+planning sales purchasing
+�Manage energy consumption at base stations
+�Measure electromagnetic waves at base stations
+�Manage visual impact of base stations
+�Manage environmental damage from base
+station installation
+�Operate environmentally-friendly vehicles foroperation and maintenance
+�Increase use of environmentally-friendlymaterials like lithium polymer batteries�Manage energy consumption at offices
+�Manage waterworks use 
+�Promote use of heavy water
+�Expand recycling of waste matter
+�Increase “green” purchasing like Eco-labelproducts�Develop and provide energy-efficient solutionservices 
+�Retrieve and responsibly dispose of oldhandsets
+�Standardize mobile phone peripherals
+�Develop remote handset solutions
+�Distribute email bills, M billsSKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 23    On the other hand, the availability of renewable energies in Korea remains extremely low, making it
+difficult to operate base stations using environmentally friendly energy sources that do not produceCO
+2emissions. As of the end of 2007, we have installed 66 small repeaters powered by solar cells for
+mainly mountainous regions where electricity supply is irregular. However, operations are hindered bya lack of sunlight and damages incurred by hikers. 
+Accordingly, SK Telecom is striving to reduce energy consumption levels, focusing on minimizing use
+at offices, as well as by pursuing efficient network operations, and replacing air-conditioners. At thebeginning of every year, all offices set a goal for reducing energy use and awards are given to thebest performers. We are introducing the use of natural air-conditioning systems to reduce electricityuse, as air-conditioning is a necessity in operating network equipment. We plan to only install natural
+air-conditioning systems when replacing old air-conditioners. SK Telecom is also encouraging the use
+of teleconferencing for business meetings to curtail energy use arising from business trips.
+SK Telecom conducts various R&D activities in response to society’s demands for efficient and
+environmentally friendly services and products. We provide such services as “T-MAP navigation” whichcalculates the best driving route by considering real-time traffic situations. These services allow ourcustomers to save on travel distance and energy costs. Approximately 400,000 customers subscribethe service at the moment. I   Preventing Global Warming with Natural Air-Conditioners   I
+Natural air-conditioners use water as their main coolant. When temperatures dip under a certain level,
+direct heat exchanges between water and the atmospheric energy cools the water, reducing the use ofthe large compressor, and thereby producing less energy consumption by more than 50% compared tothe conventional air-conditioning system. Additionally, our natural air-conditioners use water in thecoolant pipes between the indoor and outdoor units of air-conditioners, thereby decreasing the use ofcoolants compared to conventional cooling systems which entirely use chlorofluorocarbons (CFCs). Byreducing the risk and number of coolant leaks during the installation of the systems, we are contributingto not only preventing global warming but also working to reduce ozone-depleting substances.
+SK Telecom began testing systems related to natural air-conditioners in 2001 and supported efforts by
+manufacturers to improve their systems for use in base stations. Based on test results at our base
+stations collected from 2003 to 2005, we had invested a total of KRW 8.0 billion to install 570 units bythe end of 2007. The investment cost us KRW 4.3 billion more than it would have to install conventionalcooling systems. However, we estimate that environmental benefits for 2007 alone have amounted toreducing approximately 6,000 tons of CO
+2and 6 tons of CFCs. Once we replace all of our conventional
+systems with the natural air-conditioners, we believe this will translate to annual reductions of 145 GWhin electricity consumption, 61,000 tons in CO
+2and 100,000 tons of coolant.
+EN16.  GHG Emissions Breakdown
+Natural gas                Oil
+Electricity _ Office buildingsElectricity _ OtherIndex Unit 2004 2005 2006 2007
+EN16. Total greenhouse CO 2et 252,200 283,554 323,278 358,097gas emissions
+EN3.   Natural gas thousand Nm34,357 5,178 4,670 4,241consumption
+EN3.   Oil consumption thousand liters 548 598 545 487 
+EN14. Electricity consumption _GWh 205,564 238,600 246,069 260,294Office buildings 
+EN14. Electricity consumption_ GWh 360,144 395,917 485,460 556,253Other
+※Basis for calculation: Enforcement Regulations of the Framework Act on Energy, Revised IPCC
+Guidelines 1996, Study for mid- to long-term policy and strategy for responding toUNFCCC by Korea Energy Economics Institute (2005) (Year 3 of research)Energy Use and GHG Emissions
+110,365(30.8%)1,366(0.4%)10,515(2.9%)235,851(65.9%)
+358,097
+24(CO 2et)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 24    Recycling              Reuse              Export Reduction in electricity consumption
+Use of natural A/C       Office building maintenanceReduction in GHGEN5, EN18. Reduction in Electricity
+Consumption and GHGEN24. Disposal of Collected Handsets SK9. Sales vs. Collection of
+Handsets
+(MWh, CO 2et) (thousand units) (thousand units)
+2005 2006 2007
+4,752
+2005 2006 2007457 1,567
+199
+100
+127981
+56498511,7100 8,195
+3,475
+2,044 5,058
+3,024
+6,979
+New handset sales
+Old handset collection2004 2005 2006 20077,716
+4,079
+7,461
+2,105
+8,450
+1,264
+10,783
+676SK Telecom 2007  Sustainability Report  
+25SK Telecom also developed “D Home service” which allows remote control of home lights and gas
+valves to reduce energy use and minimize the risk of gas leaks, and “TPEG Service” which uses aDMB receiver for real-time information on traffic circumstances and accidents to provide the best routeguidance. SK Telecom is currently developing an intelligence building service using ZigBee technologywhich can integrate functions such as securing entrances, asset management, energy managementand monitoring internal environments. 
+Electromagnetic Radiation around Base Stations
+The enforcement decree and enforcement procedure of the newly revised Radio Waves Act of Korea
+took place in 2007. Accordingly, base stations that have transmitter devices with antenna radiating totalpower of over 30W on antenna towers measuring no more than 10m, and are installed near residential,commercial, industrial and management areas must regularly measure electromagnetic fields insurrounding areas. SK Telecom conducted 209 measurements in 2007, up from 47 in 2006, and allmeasurements were lower than levels mandated by the Ministry of Information and Communication.We plan on 828 electromagnetic field measurements in 2008.
+The effect of electromagnetic waves on the human body and our environment has not been sufficiently
+studied. According to an April 2006 survey of 400 SK Telecom customers living in Korea’s five largestcities, many respondents said that in addition to minimizing electromagnetic waves, they expect thegovernment and telecom operators to provide more objective and accurate information. From 2000 to2004, SK Telecom contributed KRW 750 million for phase one of the “Study on the Effect ofElectromagnetic Radiation on the Human Body”, an initiative led by the Ministry of Information andCommunication with the participation of the Electronics and Telecommunications Research Institute(ETRI) and Radio Research Laboratory (RRL). The joint study produced the expected results of settingstandards for protecting the human body from electromagnetic waves and of developing devices toprevent exposure to the radiation. However, it did not uncover the impact that mobile phoneelectromagnetic waves have on the body. We are committed to supporting related research and willcontribute a total of KRW 750 million toward the second phase of the five-year study which began in2007. Phase two will continue the epidemiologic study of electromagnetic radiation and influence onthe body, along with measuring the emission levels at base stations.
+Handset Recycling
+Mobile phones that are discarded without undergoing appropriate procedures pose a threat to the
+environment. SK Telecom is working toward the responsible collection and disposal of mobile phones.However, as we cannot demand that customers return handsets when replacing them, the amount ofcollected handsets has been steadily decreasing. SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 25    Base stations              Repeaters 2005 2006 200711 
+25
+12
+25
+19
+42
+No. of shared base stations 
+(including above-ground repeaters)
+Land occupation by shared base stations 
+(estimates)2004 2005 2006 20078,8503,795
+12,350
+17,343
+2004 2005 2006 200714,402
+248,7977,694
+138,055
+25,598
+422,952
+45,301
+668,805 
+26Meanwhile 83.4% of collected handsets in 2007 were exported mainly to China and CIS regions through
+SK Networks Co., Ltd. while 14.8% were sold to a qualified recycling center. As for domestic recyclingfirms, SK Telecom and SK Networks personally visit the businesses to oversee the entire recyclingprocedure for the handset body, battery and charger. In 2007, we made three visits to the recyclingcenter to regulate the disposal process. In August 2007, we launched an event awarding customers whoreturned their handsets with free concert tickets. We then expanded our efforts by launching a collection
+campaign with 4,000 schools and retrieved approximately 132,500 handset bodies. Since October 2007,
+SK Telecom engaged with other telecom operators in Korea and managed to collect 130,000 usedhandsets in just two months. Their sale raised about KRW 100 million which was then delivered to theCommunity Chest of Korea. In 2008, we plan to execute more efficient collection programs.
+Environmental Impact of Our Services
+Base Stations and Environment
+As of the end of 2007, we had 19 base stations and 42 repeaters installed in environmentally protected
+areas. In the process of erecting the nationwide WCDMA network, a number of new base stations andrepeaters were sometimes located in protected areas. Generally however, the total area used for abase station is less than 165m
+2and is very unlikely to damage the habitat of wild animals or
+endangered species. In the selection of candidate locations for base stations and discussions with landowners, SK Telecom comprehensively considered the opinions of nearby residents as well as theimpact on the ecology and scenery. In 2005, we formed the “Working Group for BuildingEnvironmentally-friendly Base Stations” and established our own standards regarding “green” wirelesssites. At a time when network coverage has reached saturation levels and new repeater installationsare increasing, the number of base stations shared among operators rose dramatically in 2007.
+I   Establishing a Standard Model for Eco-Friendly Wireless Sites Reflecting Customer Opinions   I
+As the number of antennas increased due to the expansion of new services such as WCDMA, SK
+Telecom applied 6 Sigma methodology to the development of an eco-friendly wireless site model whichwould satisfy customers. In 2006, we conducted a survey of 500 outside customers, 200 employees andbusiness partners about the qualities that an eco-friendly antenna must have, which was followed byevaluations by the general public and experts to produce ten standard models. A trial run was thenconducted on satisfaction levels regarding the antennas’ appearance and performance. In 2007, we alsoestablished six standard models for in-building antennas. The models will gradually be adopted beginningwith major city centers.
+EN11. No. of Base Stations and
+Repeaters in Eco-protected AreasEN14. No. of Eco-Friendly Wireless
+SitesSK10. No. of Shared Base Stations and
+Land Occupation
+(units) (sites) (stations, m2)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 26    Subscribers using email billing (year-end)
+Subscribers using M billing (year-end)2005 2006 20072,243,297 
+935,780 
+2,144,328 
+623,353 
+2,051,912 
+1,805,633 Examples of Eco-Friendly Wireless Site ModelSK Telecom 2007  Sustainability Report  
+27
+Vehicles Operated by Operation & Maintenance Business Partners
+To reduce harmful gas emissions from vehicles used by business partners in charge of operation and
+maintenance of our base stations, SK Telecom plans to stipulate in contracts that our partners usegasoline-run vehicles that comply with Euro 4 standards. In 2007, only eight out of 786 vehiclesoperated by our partners satisfied Euro 4 standards. Considering that Korea started introducing carsthat meet these standards only after October 2007, the ratio is expected to gradually increase.
+Reducing Hazardous Substances 
+Since 2006, SK Telecom has been using lithium polymer batteries for standby power in optical
+repeaters, with such batteries installed in 1,506 repeaters as of the end of 2007. Lithium polymerbatteries are easy to recycle and are more friendly to the environment than lead storage batteries. Inaddition, we intend to replace halogen-based fire extinguishers with more eco-friendly fireextinguishers in new base stations from the second half of 2008.  
+Saving Energy and Resources In Using Mobile Telecom Services
+Standardization of mobile phone peripherals not only contributes to customer convenience but also
+saves resources. Since SK Telecom began supplying standardized chargers in 2003, we haverepeatedly stressed the need for standardized peripherals. As a result, we established a standard 20
+pin size for earphones at the end of 2007 and new mobile phones featuring these standardizedearphones are set to be released in 2008.
+SK Telecom is also adopting DM (Device Management) technology that can remote control all data
+and software contained in a handset from a server. Once a comprehensive remote managementinfrastructure is set up for mobile phones using the technology, we expect to improve our ability toprovide consultations and services to customers, better protect personal data, in addition to reducingresources and energy used in maintaining mobile phones.
+We started the nation’s first M billing service in April 2005 which allows subscribers to download their
+bills onto their handsets through wireless Internet. In August 2005, we introduced M Customer CenterService to provide subscribers free mobile services such as checking their fees or applying foradditional services. In August 2007, SK Telecom further improved M billing functions, which resulted in3.85 million subscribers or about 20% of all our customers using e-mail and M billing, lowering annualpaper usage by 600 tons. In 2008, we will continue to make upgrades to M billing for greater
+convenience and carry on with PR activities to reach our target of having 25% or 5 million subscribers
+receive billing statements through their cell phones.
+EN26. No. of Subscribers using
+email and M Billing
+(persons)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 27    In July 2007, SK Group has implemented the holding company structure in answer to
+calls by investors, civic groups and other stakeholders for improved corporategovernance. With the re-organization, SK Telecom expanded its autonomous andresponsible management whose focal point is the BOD and has been working toenhance corporate transparency. In recognition of such effort, SK Telecom wasnamed Award of Excellence Winner in an assessment of corporate governance by theKorea Corporate Governance Service in 2007, following Award of Distinction in2005 and 2006.
+Corporate Governance
+SK Telecom has been working to raise the expertise and independence of the BOD through measures
+such as appointing outside directors after input from the Independent Director RecommendationCommittee, in addition to regularly holding Independent Directors Briefings and Independent DirectorsPreliminary Approval Meetings to boost the role of outside directors. Meetings attended by onlyindependent directors were held 33 times in 2006 and 31 times in 2007. Compensation of directors isapproved at the general shareholders’ meeting in accordance to the articles of incorporation andcompany performance.
+In 2007, five committees were operated under the BOD - the Audit Committee, the Independent Director
+Recommendation Committee, the Compensation Committee, the CapEx Review Committee and theGlobalization Committee. With the exception of the Independent Director Recommendation Committee,the other four committees were all chaired by independent directors. In 2007, the BOD comprised of 12members, eight of whom are independent. However, in March 2008, SK Telecom reduced the numberof directors to eight (three standing directors and five independent directors). 
+SK Telecom is promoting internal audit functions through an internal control system based on the
+Sarbanes Oxley Act. We are ensuring that the procedure of appointing members to the Audit Committeeis done in a transparent manner while audit operations are independent. We are also striving to reflectemployee and shareholder opinions on our management activities through the general shareholders’meeting and CEO IR activities. In 2007, we held about 430 meetings with external stakeholders to shareinformation on our business activities.
+Chul-Ki Ju �Vice President and Secretary General, Global Compact Network Korea 
+Numerous issues facing the global economy are highlighting the importance of corporate social responsibility
+and thereby spurring expansion of the UN Global Compact. The UN Global Compact represents a firmcommitment to realize sustainability management by promoting ten principles in the areas of human rights,labor, the environment and anti-corruption. Incorporating the ten principles in their core values will enablecompanies to enhance their corporate image and brand value while earning full support of the stakeholders. SKTelecom has been an active member of the Global Compact since 2007. I look forward to seeing SK Telecomgrow into a creative company that leads change and innovation in the era of globalization by embracing theGlobal Compact’s ten principles and pursuing ethical and transparent management.
+Expert Commentary
+28SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 28    Business Ethics
+To create a transparent and fair working environment, SK Telecom is establishing its ethical
+management infrastructure such as its Code of Ethics and Ethical Counseling Helpline. In 2007, wecontinued with our ethical management education and conducted EIRM (Ethical Issue Raising &Mapping) activities in 39 teams (979 participants). EIRM activities allow employees to select andmanage ethical risks which may arise in general business activities. In the future, SK Telecom plans to
+expand the scope of such activities for preventing ethical risks to include overseas subsidiaries. As part
+of such plans, we translated our ethical management handbooks into Chinese and distributed them to
+our local staff in China in 2007.
+When employees engage in unethical activities and instances of irrational work procedures occur
+despite such preventive measures, reports are filed through a direct reporting system to the AuditCommittee chair and the Ethical Counseling Center. Employees found to have clearly violated SKTelecom’s ethics regulations are subject to disciplinary action. The internal process is also beingimproved for a fundamental solution to the possible occurrence of similar cases. In 2007, the number ofdisciplinary actions taken against employees due to violating ethics regulations and other issues was 12. 
+Compliance 
+In April 2002, a ceremony took place in which all SK Telecom employees pledged to comply with the CP
+(Compliance Program). In August 2005, a compliance team was created to systematically manage anyrisks that may occur in various processes of establishing a business model, contracts, sales and PRactivities, such as inflicting damages on customers and limiting competition.
+Thanks to these efforts and changes in the regulatory environment which lifted a ban on mobile phone
+subsidies, SK Telecom paid a much smaller amount in penalties in 2007. Major causes for the penaltieswere the payment of subsidies, limiting mobile number portability and wrongful subscription to youth feeprograms. 
+2004 2005 2006 20071112
+12
+13
+2004 2005 2006 200720296
+122
+3437
+477
+2004 2005 2006 200736.644.3
+71.2
+8.6
+Penalty cases                   Paid penaltiesSK Telecom 2007  Sustainability Report  
+29
+SO4. Cases Submitted to 
+Ethical Counseling HelplineSO7. Penalties Imposed by Regulators SK11. No. of BOD Meetings
+(meetings) (cases) (cases, KRW billion)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 29    Bradley Googins �Executive Director, Boston College Center for Corporate Citizenship 
+As globalization ushers in a new set of expectations about the role and responsibilities of business in society, it
+has become very important for SK Telecom and other global companies to integrate philanthropy into a moreinclusive citizenship strategy. Leading companies are using philanthropy as a crucial asset in bridging businessand social needs and issues. Companies such as SK Telecom will be challenged in corporate philanthropy on anumber of fronts over the next decade. Transitioning from a more traditional giving platform to a more strategicand integrated philanthropy will require those in philanthropy to be more focused on linking philanthropy to  thebusiness, and to becoming more attuned to stakeholder needs and issues. Likewise expanding philanthropy intoa global initiative will be imperative for both the needs of business and society. And finally, companies will bechallenged to use philanthropy to create seeds of innovation, bringing their resources, to assist in addressingand resolving critical and persistent social issues, and linking it to other unique corporate assets of people,technology and business acumen.
+Expert CommentaryAt SK Telecom, we believe Corporate Social Responsibility (CSR) grounded on the
+principles of integrity is crucial to earning public support and trust, a vital element fora company’s sustainability and growth. For us, CSR means proactive socialinvestments needed to address the difficult challenges facing our communities. Thatis why SK Telecom is working with SK affiliates to achieve our corporate mission of“sharing happiness.” We strive to make a real difference in our communities and withthe underprivileged by delivering the benefits of our technology, knowledge andpassion. Our performances and future plans are reported in the SK CommunityInvolvement White Paper at the beginning of each year. 
+SK Community Involvement White Paper, http://www.sktelecom.com (available only in Korean)
+Investment in Local Communities 
+For our society’s less fortunate, SK Telecom is helping to expand welfare infrastructure, create jobs and
+support efforts for self-support and self-reliance through endeavors such as SK Happy Meal Box, 1318Happy Zone and Happy Music School. 
+SK Happy Meal Box
+We deliver nutritious lunchboxes to children and seniors who are at risk of going hungry. As of the end
+of 2007, we operate 29 provision centers across the country and provide more than 10,000 lunches aday. The program has also helped create 500 jobs. Our two centers in Seoul Gwanak and IncheonNam-gu were designated ‘social enterprises’ under the Social Enterprise Supporting Act which tookeffect in July 2007. More than a program that provides free meals and creates jobs, we plan to developSK Happy Meal Box to enrich communities and improve quality of life. 
+1318 Happy Zone 
+Happy Zone is the name of our support facilities for underprivileged teens between the ages of 13 and
+18 who slip through the social welfare safety net. Since the opening of the first center in November2006, 29 Happy Zones have been set up nationwide as of the end of 2007. The facilities offeracademic, cultural, college/crisis counseling programs as well as meal services to more than 1,000teenagers. 
+30SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 30    Happy Music School 
+SK Telecom provides quality music education for free to musically gifted youths from under-
+represented and disadvantaged backgrounds. A total of 60 students in three musical fields of piano,violin and cello receive one-on-one instructions from Korea’s top professors. The program is aimed atsupporting the students to realize their dreams.
+SK Telecom is striving to improve the quality and social impact of our philanthropic endeavors by
+regularly conducting satisfaction surveys of our major CSR program beneficiaries and participants. We
+have been surveying the health, nutritional state, eating habits and satisfaction rate of children whoreceive various free meals by service type, including SK Telecom’s Happy Meal Box. This comparativesurvey provides us with a basis for improving the health and nutrition of children who are receiving ourmeal service. An assessment index was also developed to measure the performance of 1318 HappyZone. It researches the development index for all teen participants and the results are used to devisemeasures to improve service.
+SK Telecom also invests in a wide range of programs aimed at enriching our communities including IT
+challenge for teens with disabilities and Habitat-SK Happy Village. We also dispatch teachingassistants to support the integration of disabled children into mainstream education.
+Volunteer Activities 
+Volunteering is a vibrant part of the SK Telecom culture that brings together employees and customers.
+The CEO and senior management take initiative and motivate others to take part in community service.We support employee involvement through several innovative programs including volunteering duringwork hours, family volunteering and year-end volunteering campaign. As of the end of 2007, members
+of SK Telecom’s volunteer group averaged 18.6 volunteer hours for the year. 
+SK Telecom’s collegiate volunteer group, Sunny, is the country’s largest group of its kind with 50,000
+members as of March 2008. Originally launched as a customer volunteer group in 2003, it has grown toinclude 13 chapters nationwide. With “Fun and Creative Community Service” as their motto, studentvolunteers use their unique skills in such programs as Hi Teacher (1:1 tutoring program at regionalchildren’s center) and Fly Super Sunny (library remodeling, performances, summer camp at schools inremote regions). They have also been taking part in overseas volunteer and cultural exchangeprograms in China, Vietnam and other countries since 2005. 
+Sunny Homepage, http://www.besunny.com (available both in Korean and in English) SK Telecom 2007  Sustainability Report  
+31
+2004 2005 2006 200775,78240,063
+73,756
+86,446
+2004 2005 2006 2007
+※Enrollment rate = No. of members of
+volunteer group / No. of employees as ofthe end of each year
+87.086.175.227.9
+SK12. Annual Volunteer Hours SK13. Enrollment Rate in Volunteer
+Group
+(hours) (%)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 31    MEASURING OUR PROGRESS
+32We share issues
+to enhance values for all
+SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 32    For the 2007 Sustainability Report, SK Telecom used the Global Reporting Initiative
+(GRI) G3 Guidelines as a basis for reporting. To fully comply with global standards,we referenced the newly presented G3 guidelines of Indicator Protocol andTelecommunications Sector Supplement.  
+Use of Reporting Principles 
+GRI G3 Guidelines define reporting principles that a company must comply with to validate the report
+scope’s selection process and quality of performance data. Based on these reporting principles, SKTelecom is streamlining the reporting process to obtain stakeholder confidence. In particular, we usedthe following GRI reporting principles to ensure the quality of this report: Materiality, StakeholderInclusiveness, Sustainability Context and Completeness. The procedure for Materiality Assessment isdetailed in “Materiality Assessment” at page 11. 
+In 2008, we plan to refine our reporting process by setting up an internal protocol to calculate accurate
+data per performance index in accordance with data quality assurance principles. After consideringfuture business competency and outside stakeholders’ demands, we will expand our Report Boundaryby including domestic and overseas invested firms over which SK Telecom exerts significant influence.As part of efforts to facilitate communication with stakeholders in overseas markets where we operate,we will publish a summarized version of our 2007 sustainability report in Chinese and Vietnamese. Wewill continue to strengthen Materiality Assessment competency through active stakeholder engagementand strive to raise the usability and value of the report. 
+G3 Application Level
+SK Telecom conducted an internal application level assessment for the 2007 Sustainability Report and
+received independent, third-party assurance. We assess our application of the GRI reporting frameworkto be at level B+.
+GRI Application Level CriteriaStandard DisclosuresReport Applicaiton
+Report Externally Assured
+Report Externally Assured
+Report Externally AssuredCB A C+B+A+
+Report on:
+1.12.1-2.103.1- 3.8, 3.10- 3.124.1- 4.1, 4.14- 4.15
+Not Required
+Report on a minimum
+of 10 PerformanceIndicators, includingat least one fromeach of: social,economic, andenvironment.Report on all criteria
+listed for Level C plus:1.23.9, 3.134.5-4.13, 4.16-4.17
+Management Approach
+Disclosures for eachIndicator Category
+Report on a minimum of
+20 PerformanceIndicators, at least onefrom each of: economic,environment, humanrights, labor, society,product responsibility.Same as requirement for
+Level B
+Management Approach
+disclosed for eachIndicator Category
+Respond on each core G3
+and Sector Supplement
+�
+indicator with due regardto the materiality Principleby either: a) reporting onthe indicator or b)explaining the reason forits omission.
+�Sector supplement in final version
+OUTPUTG3 Profile
+Disclosures
+OUTPUTG3
+Management
+Approach
+Disclosures
+OUTPUTG3
+Performance
+Indicators &
+Sector
+Supplement
+Performance
+IndicatorsSK Telecom 2007  Sustainability Report  
+33
+SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 33    2004 2005 2006 2007187 
+248
+790 
+883 2004 2005 2006 2007
+2004 2005 2006 200712 73 
+Female                      Male 
+※Female retirees increased in 2006 due to
+one-time early retirement program.
+16 133
+106 
+15 158 177 
+Employees   18 24 31 38with disabilities
+Foreign  
+11 14 18 41employees
+Female  586 553 586 565employees
+34LA13. Diversity LA10. No. of In-house Training
+Courses for EmployeesLA2. No. of Retirees
+(persons) (courses) (persons)Diversity 
+We have declared our firm commitment to respect human rights in our Code of Ethics which stipulates
+that “SK Telecom does not discriminate on the basis of race, religion, gender or disability.” For the pastfour years, the proportion of our female workforce remained at around 13%. As of April 2008, we,however, do not have any female representation on the board, and there are only three women in thetop posts. 
+With the expansion of our overseas operations, we are pursuing a strategy to reduce the number of
+employees dispatched from Seoul headquarters and increase local hires. As of the end of 2007,overseas offices recruited some 900 local talents. We are also gradually increasing employmentopportunities for disabled persons and foreigners.
+Human Resources Development 
+SK Telecom has developed training programs that reflect the changing business environment and the
+multi-faceted needs of diverse stakeholders. All employee draw up an “Individual Development Plan”based on the company’s annual training plan after an assessment of individual skills. We offer in-houseand outside education courses and monetary incentives to promote personal and professional growth.In 2007, the average training hours completed per person reached 118 for team leaders and 105 formanagers. 
+For efficient development and management of individual careers within the organization, we operate the
+innovative “Job-Person Fit System.” It allows employees to track their past duties and career history, setup a mid-to-long term career path and identify their transfer aspiration according to that goal. The resultsare reflected in regular personnel changes aimed at promoting professional growth. All employees arerequired to formulate individual KPI (Key Performance Indicator) before each periodic evaluationthrough the “People Review and Coaching System.” The outcome is included in the personnelperformance report.
+To ensure economic security after retirement, SK Telecom offers various support programs including a
+class that helps employees adapt to changes after leaving the company. In December 2005, the Koreangovernment introduced the retirement pension system to stabilize the retirement pension. SK Telecomhas yet to implement this system, but we have accumulated a sufficient amount of reserves (outsidereserve ratio of 63.5% in 2007). We plan to introduce the retirement pension system in 2009 in line withthe government policy and broaden the investment scope of our retirement fund. Employees will begiven the option of choosing between defined benefits plan and defined contribution plan. SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 34    2004 2005 2006 20071,124 
+1,631
+1,605
+1,728
+2005 2006 2007933
+748
+697
+Family members receiving medical checkup
+benefitEmployees receiving medical checkup benefit 2004 2005 2006 20071,235 3,9981,076 4,012 
+1,402 
+1,562 3,974 3,913 SK Telecom 2007  Sustainability Report  
+35
+LA8. No. of Annual Counseling 
+at My CounselorLA8. Medical Checkup LA7. Annual Days Lost due to Illnesses,
+Injuries & Industrial Accidents
+(cases) (persons) (days)Employee Protection 
+SK Telecom set up an outside consultation program called “My Counselor” in 2003 which offers
+professional support both online and offline to employees and their family members. It covers a widerange of topics from workplace conflict including sexual harassment to personal matters such asphysical and mental health, and financial planning. 
+My Counselor Homepage, http://www.maumsarang.or.kr/sk/ (available only in Korean)
+Held four times a year, an equal number of labor and management representatives at the IndustrialSafety and Health Committee discuss issues at hand and their decisions are applied to all employees.The committee sets up industrial disaster prevention plan, surveys industrial accidents and devisespreventive measures and discusses employee medical checkups. In 2007, expanding test items andhospitals for medical checkups was included in their discussion agenda. In 2007, 1,728 work days werelost to workplace injuries, illnesses and accidents. 
+Respecting Human Rights  
+SK Telecom is strictly adhering to domestic and international laws that ban child and forced labor such
+as the Labor Standards Act. SK Telecom is demonstrating an unwavering commitment to building acorporate culture of mutual respect through ethical management and sexual harassment preventioneducation (annual online training for all employees). The number of human rights related counselingcases reported through My Counselor and Ethical Counseling Helpline is very low at about one caseevery year. To create a safe environment for everyone who visits our worksites in addition to ouremployees, we conduct safety accident prevention and customer response procedure training for oursecurity personnel on a regular basis. In 2007, we added CS training for security personnel to enhancecustomer satisfaction. We also commission special agencies such as Korea Security Association to trainour new security personnel. 
+Heightened awareness on human rights in Korea is expected to lead to an increased interest in the
+subject in our daily lives and developing countries. To further our goals of strengthening and promotinghuman rights principles in business management, we joined the UN Global Compact in 2007. Weconstantly monitor potential human rights violations upon entering new markets and overall globaltrends. In addition, we are expanding exchanges and partnership with related groups. In 2007, wesupported the Korea Center for UN Human Rights Policy program that offers information to Vietnamesewomen marrying Korean males and Amnesty’s Toy Gun Redemption Campaign, which offered books tochildren in exchange for toy weapons. For the month of May, we initiated the “Thank You” campaign tofight the social stigma attached to AIDS and to offer practical help to AIDS patients. The money raisedfrom the campaign was donated to Korea Federation for HIV/AIDS Prevention. SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:10 PM  ˘ ` 35    2004 2005 2006 20073,7952137581009,351
+12,302
+17,264
+2005 2006 20076.35
+10.06
+17.79
+Number of classes opened 
+Annual participants 2004 2005 2006 20073,531 
+2,888 
+3,570 
+2,851 
+3,408 
+2,761 
+3,309 
+2,673 
+Employees qualified for union membership
+Employees who joined the labor union 36LA4. Labor Union Membership 
+(year-end)SK14. Supporting Business Partners
+through PartnerOn AcademySK15. Annual Result of Future Flow
+Collateralized Loans
+(persons) (persons, classes) (KRW billion)Labor-Management Cooperation
+Annual union membership rate (the actual participation rate among employees eligible for membership)
+at SK Telecom remains unchanged at 80%. Based on the labor union agreement, eligibility requirementsfor union membership undergo a slight adjustment every year according to changes in the organization. 
+SK Telecom holds prior discussions with the labor union regarding changes in operations that may
+negatively affect employees. In 2007, we addressed issues such as changes in employee benefits andwelfare policies, improvements in working conditions and employee stock ownership payment. Anychanges in the company’s articles of incorporation, company name, organizational structure and laborconditions are immediately notified to the labor union. In 2007, we gave post-notification on topicsincluding investment in foreign firms, BOD meeting agenda and changes in organizational structure. 
+Supporting Our Business Partners
+Our business partners include global electrical and electronics companies supplying main network
+equipment, SMEs supplying supplementary equipment such as antennas and repeaters, engineeringand construction companies in charge of facility installation, R&D firms, small-scale contents providersand dealers. We offer a wide array of programs to help our business partners build up their financial,R&D and management capabilities which can in turn enhance their competitiveness. 
+Financial Assistance
+SK Telecom provides diverse financial assistance for business partners such as fund contributions,
+loans secured by future payment streams (Future Flow Collateralized Loan), and loans for dealers. In2007 alone, we extended financial support worth KRW 110 billion to some 360 business partners. 
+Reinforcing R&D
+We provide idle IT equipment to our SME partners without any charge (worth a total of KRW 2.8 billion
+during 2004~2007) to help them reinforce their R&D infrastructure. We operate the Nate BusinessCenter to help reduce our partners’ cost burden associated with the development of new technologyand contents. We are also strengthening our support for SME partners wishing to enter overseasmarkets. In April 2006, we deployed personnel who provide assistance with international businessmatters. Other forms of assistance include free test rooms and infrastructure. In 2007, we providedcontents-related services on 17,000 occasions through the Nate Business Center as well as test bedsand technology consulting.SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 36    We signed an agreement with the
+Korean Red Cross in January 2007 tohelp secure urgently needed bloodsupplies. 
+We have been awarding outstanding
+business partners since 2006. Wemake diverse efforts to buildhorizontal relationships and trust withour business partners. Partners’ Day Mobile Search for Missing
+PersonsAgreement for Mobile BloodDonation Service
+The service has helped to locate 16
+missing children since its launch inMay 2004 through the end of 2007. SK Telecom 2007  Sustainability Report  
+37
+Enhancing Management Capabilities 
+SK Telecom offers some 100 online courses on diverse subjects including management, finance,
+marketing and technology via the SK Win-Win Partnership Academy, as well as offline lectures ontopics such as business insight and management training. In 2007, more than 17,000 partner firmmembers participated in our training programs. We also introduced 6 Sigma methodology to ourbusiness partners. In 2007 alone, six business partners carried out eight 6 Sigma tasks. Currently, weoperate a mini-MBA course specialized for the information and communication field with YonseiUniversity and plan to expand the 6 Sigma Management course. 
+SK Telecom business partner portal, http://partneron.sktelecom.com (available only in Korean)
+Rewarding Outstanding Business Partners
+Every year, SK Telecom holds Partners’ Day to show appreciation to our suppliers. We evaluate major
+business partners’ contribution to our overall operations and their potential competencies and rewardoutstanding suppliers. In February 2008, 26 business partners were recognized, up from 24 firms theprevious year. The contributions by outstanding firms are disclosed to all employees through internalbroadcasts and newsletters to instill a sense of pride in our win-win partnerships.
+Working with Business Partners for Sustainability 
+As many of SK Telecom’s business partners are small-scale enterprises, it has been difficult to request
+their uniform participation in social responsibility activities that incur additional costs. To help these firmspursue sustainability management, we are expanding our social responsibility training program tobusiness partners. Since 2006, SK Telecom has been providing free sexual harassment preventioneducation to our business partners via PartnerOn Academy. The program has been well received by oursuppliers with the number of participants growing dramatically. In 2007, 2,181 people from 53 firmssigned up for the class, up from 550 participants from 12 firms in 2006. 
+We plan to strengthen our support for building business partners’ sustainability management capacities
+by providing free ethics management education in 2008. Moreover, we will take further steps toencourage suppliers to fulfill their responsibilities to society. For instance, we plan to include a socialaccountability clause in the Fair and Transparent Transaction Agreement, which suppliers will berequired to sign, and the annual partner evaluations. SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 37    [  International  ]
+�Bridge Mobile Alliance
+�Business for Social Responsibility
+�CDMA Development Group  
+�Center for Telecom Management
+�GSM Association
+�International Telecommunication Union
+�Keio Research Institute
+�Khronos Group�Mobile VCE
+�Next Generation Mobile Network
+�Open Mobile Alliance
+�Open Mobile Terminal Platform
+�Telemanagement Forum
+�WiMAX Forum
+�World Economic Forum
+38Telecom Technology and Sustainable Development 
+We are working to apply our innovation technologies to address social concerns. They include
+development of remote villages by delivering reliable wireless network, support for efficient use ofenergy through a wide range of solution services, and reduction of social costs from heavy trafficcongestion and pollution. 
+Refer to “Digital Inclusion” at page 14, “Economic Impact” at page 13 
+Harnessing cutting-edge communication infrastructure, SK Telecom provides free services thatsafeguard the nation from various dangers and contribute to improving quality of life. In 2007, weexpanded our list of services with the additions of “Mobile Emergency Network for Blood Donation”, and“Mobile Youth Counseling.” Our existing programs also include “Mobile Search for Missing Persons”,“Mobile Disaster Alert”, “Mobile Overseas Safety Support” and “Emergency GPS Service.”
+Mobile Search for Missing Persons
+We provide information on lost children, disabled and elderly with Alzheimer’s Diseases to SK Telecom
+customers near the scene. Joining forces with the National Police Agency and Korea WelfareFoundation, we send physical descriptions and photos of the missing persons to help locate themquickly and effectively. 
+Mobile Youth Counseling 
+SK Telecom is working with the government to reach out to troubled youths. Teens can text message
+to #1388 and receive 24/7 counseling service. SK Telecom is responsible for setting up the networkand supporting messaging fees while the Ministry of Health and Welfare pays for professionalcounselors. If a teen is in need of intensive counseling, he or she is referred to the Ministry’s 142support centers around the country. 
+Mobile Emergency Network for Blood Donation
+This service is designed to facilitate blood supply to patients in urgent need of blood. When an urgent
+need arises, SK Telecom sends out text messages to 150,000 customers who have registered with theKorea Red Cross for blood donation and notifies them of the nearest location where they can give blood. 
+[  In Korea  ]
+�WIPI Association
+�Business Institute for Sustainable
+Development
+�Korea Business Council for
+Sustainable Development
+�Next Generation Mobile
+Communication Forum
+�Korea Telematics Business
+Association
+�Telecommunications Information
+Sharing and Analysis Association
+�Unification IT Forum�Korea Association of Game Industry
+�Korea Economic Research Institute
+�Korea Fair Competition Federation
+�Korea Network Research Association
+�Korea Wireless Internet Solution
+Association
+�Korea Counseling Psychological
+Association
+�Korea Association of RFID/USN
+�Korea Radio Promotion Association
+�Telecommunications Technology
+Association�Korea Association of Information & 
+Communication
+�Korea Contents Industry & Business
+Association
+�Korea Telecommunications
+Operators Association
+�Korea Home Network Industry
+AssociationI   Membership Status, as of the end of 2007   ISKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 38    2004 2005 2006 2007148,044
+191,326 
+192,765 
+192,766 
+2004 2005 2006 2007563,218
+647,395
+673,967
+685,973(thousand liters)
+2005 2006 20076,037 
+5,611
+5,916 SK Telecom 2007  Sustainability Report  
+39
+Public Policy Cooperation  
+Year 2007 was a landmark that laid out the government’s new framework of regulations with the
+announcement of a “mid-to-long term telecommunication policy roadmap.” Its aim is to vitalize themobile communication market to promote consumer welfare. SK Telecom has played an active role informing government policy by introducing a variety of affordable products to broaden user options,submitting recommendations on bundling and resale policy, subsidy regulations, connection feecalculation and frequency policy, and taking part in public hearings and workshops on related issues. 
+Starting in 2008, we expect a shift to ex-post regulation, expansion of free competition and pursuance of
+telecommunication policy to create a fair competition environment. In addition, we project the creation of aconvergence competition environment such as bundled sales through introduction of policies promotingcompetition among wire, wireless and fusion markets. SK Telecom will continue to work closely withgovernment regulatory agencies to invigorate the entire market and maximize consumer welfare.
+Support for Sustainable Development 
+Following our declaration in support of the UN Global Compact in May 2007, SK Telecom became an
+active participant in creating the Local Network in Korea. We are also joining efforts to expandsustainability management throughout the industry by seeking membership in various sustainability-related agencies in Korea and overseas such as Business for Social Responsibility, Business Institutefor Sustainable Development and Korea Business Council for Sustainable Development. In June 2008,SK Telecom plans to sponsor the UNGC Seoul Conference. 
+Managing Environmental Impact of Our Operation
+SK Telecom is managing environmental impact data through the Facility Management System (FMS)
+centering on our buildings located across the country. 
+�Use of Water Resources 
+SK Telecom has no water supply source that impacts the environment as we use water supply for
+running sanitation facilities and cooling equipment. 
+�Waste Generation 
+We generate some 6 million liters of waste annually from our offices across the nation. Waste
+materials that can be recycled are handled separately.
+�Green Purchasing
+SK Telecom has been a participant of the Green Purchasing Voluntary Agreement between industry
+and the Ministry of Environment since 2005. Accordingly, we have been tracking eco-friendly productpurchases since 2006. In 2007 alone, we purchased KRW 3.6 billion worth of green productsincluding office furniture, OA equipment and office supplies. 
+SK16. Office Floor Space EN8. Water Consumption EN22. Waste Generation
+(office buildings only)
+(m2) (thousand m3)SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 39    G3 Disclosure Items SK Telecom’s Responses Page
+2.5
+2.6
+2.7
+2.10
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.72.8
+2.9
+3.8
+3.9
+3.12
+3.13
+4.1
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+4.8
+4.9
+4.10
+4.11
+4.123.10
+3.11Statement from the most senior decision-maker of the organization about
+the relevance of sustainability to the organization and its strategyCEO Message
+Overseas Business3
+Description of key impacts, risks, and opportunities Business Case in Sustainability 10
+Name of the organization (SK Telecom) -
+6
+7
+-
+7
+6
+8
+7
+47
+1
+1
+-
+1
+11
+1
+33
+40
+28
+28
+28
+28
+28
+28
+5
+9
+99
+5, 91
+1
+-
+-
+1, 44
+286-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1~10
+1~10
+1~10
+1~10
+1~10
+1~10
+1~10
+1~10
+1~101~10
+7-
+-
+-
+-
+-
+1~10-Primary brands, products, and/or services
+Location of organization’s headquartersOperational structure of the organization
+Number of countries where the organization operates, and names of
+countries with either major operations or that are specifically relevant tothe sustainability reportingGlobal Convergence Innovator
+Company Profile
+Nature of ownership and legal form Company Profile
+Markets served Global Convergence Innovator
+Scale of the reporting organization Creation and Distribution of Economic Value
+Awards received in the reporting period Major Awards
+Reporting period (Fiscal year)
+Date of previous report About this report
+Reporting cycle (Annual)
+Contact point for questions regarding the report or its contents About this report
+Process for defining report content Materiality Assessment
+Data measurement techniques and the bases of calculations (Explanation for each indicator)
+Governance structure of the organization Corporate Governance
+Processes for evaluating the highest governance body’s own performance SM FrameworkState any specific limitations on the scope or boundary of the report About this reportBoundary of the report. About this report
+Basis for reporting that can significantly affect comparability from period
+to period and/or between organizationsAbout this report
+Explanation of the effect of any re-statements of information provided in
+earlier reports, and the reasons for such re-statement(No major change, explanation per indicator if
+there is a change)
+Significant changes from previous reporting periods in the scope,
+boundary, or measurement methods(No major change)
+Policy and current practice with regard to seeking external assurance for
+the reportAbout this report, Assurance Report
+Indicate whether the Chair of the highest governance body is also an
+executive officer(Concurrent position)
+The number of members of the highest governance body that are
+independent and/or non-executive membersCorporate Governance
+Mechanisms for shareholders and employees to provide
+recommendations or direction to the highest governance bodyCorporate Governance
+Linkage between compensation for members of the highest governance
+body, senior managers, and executivesCorporate Governance
+Processes in place for the highest governance body to ensure conflicts
+of interest are avoidedCorporate Governance
+Explanation of whether and how the precautionary approach or
+principle is addressedSM FrameworkInternally developed statements of mission or values, codes of conduct,
+and principles relevant to economic, environmental, and socialperformanceSustainability at SK Telecom
+Procedures of the highest governance body for overseeing the
+organization’s identification and management of economic,environmental, and social performanceSM Framework
+Externally developed economic, environmental, and social charters,
+principles, or other initiatives to which the organization subscribes orendorsesSM FrameworkProcess for determining the qualifications and expertise of the
+members of the highest governance body for guiding the organization’sstrategy on economic, environmental, and social topicsCorporate GovernanceTable identifying the location of the Standard Disclosures in the report GRI Content IndexSignificant changes during the reporting period regarding size,
+structure, or ownershipCompany Profile(Headquarters: 11, Euljiro 2-ga, Jung-gu, 
+Seoul 100-999, Korea)Strategy
+and
+Analysis
+Organiz-
+ational
+Profile
+Report
+Parame-
+ters
+Govern-
+ance,
+Commit-
+ments,
+and
+Engage-
+mentProfileGC※Each GRI disclosure items are mapped with UNGC Principles �UNGC(2007) Making the Connection
+401.1
+1.2
+2.1
+2.2
+2.3
+2.4SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 40    SK Telecom 2007  Sustainability Report  
+41
+G3 Disclosure Items SK Telecom’s Responses Page
+Memberships in associations (such as industry associations) and/or
+national/international advocacy organizationsMembership Status 
+Approaches to stakeholder engagement, including frequency of
+engagement by type and by stakeholder groupCommunication Activities by Stakeholder Group
+Key topics and concerns that have been raised through stakeholder
+engagement, and how the organization has respondedCommunication Activities by Stakeholder Group38
+9
+9
+9
+9
+△
+○
+○
+○
+○
+○
+○
+○
+○X
+X
+X○1~10
+-
+-
+-
+-
+Direct economic value generated and distributedOperating revenue, operating expenses,
+wages/benefits, cost of capital, taxes, donations
+Materials used by weight or volumeIrrelevant since SK Telecom is not a
+manufacturing companyCoverage of the organization’s defined benefit plan
+obligationsProvision for severance benefits, plans to adopt
+retirement pension system
+Significant financial assistance received from governmentTax exemptions/deductions, grants for investment
+and R&D
+Understanding and describing significant indirect economic
+impactsEconomic impactFinancial implications and other risks and opportunities for
+the organization’s activities due to climate changeOutlook on climate change regulations in Korea.
+Promotion of services that curb energy use andbenefits for customers using such services.
+Range of ratios of standard entry level wage compared to
+local minimum wage at significant locations of operation.Reporting limited to Korea, which is the major
+business site. Wage differences by nation are notwithin the reporting scope
+Policy, practices, and proportion of spending on locally-
+based suppliers at significant locations of operationReporting limited to Korea, which is the major
+business site. Local purchasing policies are notwithin the reporting scope
+Procedures for local hiring and proportion of senior
+management hired from the local community at locations ofsignificant operationThe number of employees dispatched from Korea
+is being reduced and local hires are beingincreased.
+Development and impact of infrastructure investments and
+services provided primarily for public benefit throughcommercial, inkind, or pro bono engagementDonations, investment in local communitiesList of stakeholder groups engaged by the organization Communication Activities by Stakeholder Group
+Basis for identification and selection of stakeholders with whom to engage SM Framework
+Govern-
+ance,
+Commit-
+ments,
+and
+Engage-
+ment
+Economic
+Performa-
+nce
+Market
+Presence
+Indirect
+Economic
+Impacts
+Materials
+Energy
+WaterGC
+4.13
+4.14
+4.15
+4.16
+4.17
+G3 IndicatorsApplication
+LevelSK Telecom’s Responses Page GC
+Economic   Disclosure on Management Approach 5, 13
+Environmental   Disclosure on Management Approach 23, 39EC1
+EC2
+EC3
+EC4
+EC9
+EN1 NANA
+NANA
+Percentage of materials used that are recycled input
+materialsIrrelevant since SK Telecom is not a
+manufacturing companyEN2 NA
+NAEnergy saved due to conservation and efficiency
+improvementsEnergy savings related to office buildings EN5
+Strategies, current actions, and future plans for managing
+impacts on biodiversityEco-friendly wireless site model and internal
+standards developed to reduce the visual impactfrom installation of base station/repeater inurban areasEN14Water sources significantly affected by withdrawal of waterDirect impact on water sources estimated to be
+limitedEN9Initiatives to reduce indirect energy consumption and
+reductions achievedGreen purchasing EN7Initiatives to provide energy-efficient or renewable energy
+based products and services, and reductions in energyrequirements as a result of these initiativesLack of relevant activities EN6
+Location and size of land owned, leased, managed in, or
+adjacent to, protected areas and areas of high biodiversityvalue outside protected areasNo. of base stations and repeaters in
+environmental conservation zonesEN11
+Description of significant impacts of activities, products, and
+services on biodiversity in protected areas and areas of highbiodiversity value outside protected areasImpact on natural habitat due to installation of
+base stations in environmental conservationzonesEN12
+Number of IUCN Red List species and national conservation
+list species with habitats in areas affected by operations, bylevel of extinction riskInsufficient data EN15Direct energy consumption by primary energy source Natural gas and oil consumption EN3
+Total water withdrawal by source Annual use of water supply EN8
+Habitats protected or restored No relevant cases EN13Percentage and total volume of water recycled and reused No wastewater reclamation and reuse system EN10Indirect energy consumption by primary source Electricity consumption EN4EC5
+EC6
+EC7
+EC88
+23
+34
+8
+-
+-
+34
+8, 30
+13-
+7
+-
+-
+1
+-
+6
+-
+-
+-
+-
+24
+24
+39
+-
+-
+-2625
+39
+39
+26
+26278
+8, 9
+8
+8
+8
+8, 9
+8
+888, 9
+8, 9
+8
+8
+88, 9△
+△
+△
+△
+△Bio
+diversitySKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 41    42△
+△
+△Total direct and indirect greenhouse gas emissions by
+weightGreenhouse gas emissions from natural gas, oil
+and electricity consumption
+Emissions of ozone-depleting substances by weightReducing discharge of ozone-depleting substances
+through adoption of natural air-conditioners
+Emissions,
+Effluents,
+and 
+Waste
+Products
+and
+Services
+Complia-
+nceG3 IndicatorsApplication
+LevelSK Telecom’s Responses Page GC
+EN16
+EN19
+NO, SO, and other significant air emissions by type and
+weightNo stationary source EN20
+Total water discharge by quality and destination No stationary source EN21
+Total number and volume of significant spills Insufficient data EN23Total weight of waste by type and disposal methodAnnual amount of waste generated from nationwide
+SK Telecom officesEN22
+Initiatives to mitigate environmental impacts of products andservices, and extent of impact mitigationSaving Energy and Resources In Using Mobile
+Telecom ServicesEN26
+Total workforce by employment type, employment contract,and regionNo. of full-time, dispatched, and long-term contract
+workersLA1
+Total number and rate of employee turnover by age group,gender, and regionNo. of retirees
+LA2
+Benefits provided to full-time employees that are not provided
+to temporary or part-time employees, by major operationsWelfare benefits for full-time workers LA3
+Percentage of employees covered by collective bargaining
+agreementsApplies to all employees (100%) LA4
+Minimum notice period(s) regarding operational changesIssue for prior and follow-up discussions with the
+labor unionLA5
+Percentage of total workforce represented in formal jointmanagement-worker health and safety committeesNo. of employees subject to negotiations of
+Industrial Safety and Health CommitteeLA6
+Rates of injury, occupational diseases, lost days, andabsenteeism, and number of workrelated fatalities by regionDays lost due to illnesses, injuries & industrial
+accidentsLA7
+Health and safety topics covered in formal agreements withtrade unionsIssues for discussion by Industrial Safety and Health
+CommitteeLA9
+Programs for skills management and lifelong learning andassist them in managing career endingsPrograms for retired workers
+LA11
+Percentage of employees receiving regular performance and
+career development reviewsNo. of employees subject to regular performance
+evaluation and career development systemLA12Average hours of training per year per employee byemployee category Internal training programs set up for employees,training hours/person for team leaders and managersLA10
+Ratio of basic salary of men to women by employee categoryNo difference in base salary between male andfemale employeesLA14Education, training, counseling, prevention, and risk-controlprograms in place to assist workforce members, theirfamilies, or community members regarding serious diseasesMy Counselor counseling cases, employees and
+family members receiving medical checkup
+LA8
+Composition of governance bodies and breakdown ofemployees per category according to gender, age group,minority group membership, and other indicators of diversityNo. of disabled, female and foreign employees
+LA13Total environmental protection expenditures and
+investments by typeAdditional investment for adoption of natural air-
+conditionersEN30Percentage of products sold and their packaging materialsthat are reclaimed by categoryIrrelevant since SK Telecom is not a manufacturing
+companyEN2724 8 ○
+Other relevant indirect greenhouse gas emissions by weight Insufficient data EN17 -8 X
+XWeight of transported, imported, exported, or treated waste
+deemed hazardous under the terms of the BaselConvention Annex I, II, III, and VIII, and percentage oftransported waste shipped internationallyTreatment of discarded mobile phones
+EN24 25 8
+Identity, size, protected status, and biodiversity value of
+water bodies and related habitats significantly affected bythe reporting organization’s discharges of water and runoffNo stationary sourcesEN25- 8
+Monetary value of significant fines and total number of non-
+monetary sanctions for noncompliance with environmentallaws and regulationsInsufficient data
+EN2827
+7~97~9
+Transport
+Overall
+Employm-
+ent
+Labor/Ma-
+nagement
+Relations
+Occupati-
+onal
+Health
+and Safety
+Training
+and
+Education
+Diversity
+and Equal
+Opportun-
+itySignificant environmental impacts of transporting productsand other goods and materials used for the organization’soperations, and transporting members of the workforceVehicles Operated by Operation & Maintenance
+Business Partners
+EN29-
+-
+26 888, 9Initiatives to reduce greenhouse gas emissions and
+reductions achievedGreenhouse gas reduction from adoption of
+natural air-conditionersEN18 25 7~9
+24 8
+-
+-
+-398
+888○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○
+○○NA
+NA
+NA
+NANA
+Labor Practices and Decent Work   Disclosure on Management Approach 21, 3424
+21
+34
+21
+36
+36
+35
+35
+35
+34
+34
+34
+343435-
+6
+-
+1, 3
+3
+1
+1
+1
+-
+-
+-
+1, 61, 61SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 42    SK Telecom 2007  Sustainability Report  
+43
+Investment
+and
+Procurement
+Practices
+Non-
+Discrimination
+Freedom of
+Association
+and
+Collective
+Bargaining
+Child Labor
+Forced and
+Compulsory
+Labor
+Community
+Customer
+Health and
+Safety
+Product
+and
+Service
+Labeling
+Marketing
+Communi-
+cation
+Customer
+Privacy
+ComplianceSecurity
+Practices
+Indigenous
+RightsG3 IndicatorsApplication
+LevelSK Telecom’s Responses Page GC
+Total hours of employee training on policies and procedures
+concerning aspects of human rightsEducation to prevent discrimination and sexual
+harassmentHR3
+Total number of incidents of violations involving rights ofindigenous people and actions takenNo business activities in areas with the possibility of
+violating the rights of nativesHR9Total number of incidents of discrimination and actions takenNo. of employee counseling sessions related to humanrights such as discrimination and sexual harassmentHR4
+Operations identified in which the right to exercise freedom
+of association and collective bargaining may be atsignificant risk, and actions taken to support these rightsNo pertinent business, efforts to comply with the
+Labor Standards ActHR5 35 1~3 ○Percentage and total number of significant investment
+agreements that include human rights clauses or that haveundergone human rights screeningNo case of human rights review when signing
+major investment agreementsHR1 37 1~6 X
+△
+○○Percentage of significant suppliers and contractors that have
+undergone screening on human rights and actions takenConducted eligibility review which checks acompany’s soundnessHR2 37 1~6
+1~6 29
+35 1, 2, 6
+Operations identified as having significant risk for incidents of child
+labor, and measures taken to contribute to the elimination of child laborNo pertinent business, efforts to comply with theLabor Standards ActHR6 35 1, 2, 5 ○
+Operations identified as having significant risk for incidents
+of forced or compulsory labor, and measures to contributeto the elimination of forced or compulsory laborNo pertinent business, efforts to comply with the
+Labor Standards ActHR7 35 1, 2, 4 ○
+Percentage of security personnel trained in the organization’s
+policies or procedures concerning aspects of human rightsConducted customer satisfaction training for allsecurity personnelHR8 35
+-1, 2
+1, 2○
+○
+○
+○
+○Nature, scope, and effectiveness of any programs and
+practices that assess and manage the impacts of operationson communitiesGathering local residents’ opinions when installing
+base stationsSO1 26 - △
+PR1 25 1 △Total value of financial and in-kind contributions to political
+parties, politicians, and related institutions by countryCompanies are banned from providing political
+funds under the Political Fund ActSO6 -1 0 NA
+Total number of legal actions for anticompetitive behavior,anti-trust, and monopoly practices and their outcomesNo. of times fines were levied by Fair Trade
+Commission and Korea CommunicationsCommission
+SO7 29 - ○
+Total number of incidents of non-compliance with regulations
+and voluntary codes concerning health and safety impacts ofproducts and services during their life cycleInsufficient data
+PR2 -1 X
+Type of product and service information required by
+procedures, and percentage of significant products andservices subject to such information requirementsIrrelevant since SK Telecom is not a manufacturing
+companyPR3 -8 NA
+Total number of incidents of non-compliance with regulationsand voluntary codes concerning product and serviceinformation and labelingIrrelevant since SK Telecom is not a manufacturing
+company
+PR4 -8 NA
+Programs for adherence to laws, standards, and voluntarycodes related to marketing communicationsAdoption of CCMS, internal process for compliance
+with government regulations on ads andpromotional materials
+PR6 17 - ○
+Total number of incidents of non-compliance with regulations
+and voluntary codes concerning marketing communications,including advertising, promotion, and sponsorshipNo. of times fines were levied by Fair Trade
+Commission and Korea CommunicationsCommission (SO7)
+PR7 29 - ○Practices related to customer satisfaction, including results
+of surveys measuring customer satisfactionExternal customer satisfaction survey results PR5 17 - ○
+Total number of substantiated complaints regarding
+breaches of customer privacy and losses of customer dataInsufficient data PR8 - 1 X
+Monetary value of significant fines for noncompliance with
+laws and regulations concerning the provision and use ofproducts and servicesFines paid (SO8)
+PR9 29 - ○Monetary value of significant fines and total number of non-
+monetary sanctions for noncompliance with laws and regulationsFines paid SO8 29 - ○CorruptionPercentage and total number of business units analyzed for
+risks related to corruptionNo. of EIRM implementation teams SO2 29 10
+Percentage of employees trained in organization’s anti-
+corruption policies and proceduresEthics management training SO3 29 10
+Public policy positions and participation in public policy
+development and lobbyingPublic policy cooperation SO5 39 1~10Actions taken in response to incidents of corruptionNo. of cases lodged with Ethics Counseling
+Center, No. of disciplinary actions takenSO4 29 10
+Public
+Policy
+Anti-
+Competitive
+Behavior
+ComplianceHuman Rights   Disclosure on Management Approach 28, 35, 37
+Society   Disclosure on Management Approach 28, 30, 39
+Product Responsibility   Disclosure on Management Approach 17
+Efforts to comply with standards on
+electromagnetic waves from mobile phones andbase stations. Compliance with the government’sreview standards on wireless Internet contentsLife cycle stages in which health and safety impacts of
+products and services are assessed for improvement, andpercentage of significant products and services categoriessubject to such procedures.NASKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 43    Assurance Report
+To the readers of the SK Telecom 2007 Sustainability Report
+Introduction
+We have been engaged by SK Telecom Co.,Ltd. to review specified information in SK Telecom 2007
+Sustainability Report (further referred to as The Report ). The Report is the responsibility of the
+company’s management. Our responsibility is to issue an assurance report in relation to the scopedescribed below.
+Context and Scope
+In The Report SK Telecom describes its efforts and progress in relation to sustainability and reporting.
+Our engagement was designed to provide the readers of The Report with: 
+■reasonable assurance on whether the data on financial performance, as specified in the section
+‘Work Undertaken and Conclusions’ are properly derived from the 2007 Non-consolidated financialstatements of SK Telecom Co.,Ltd. 
+■limited assurance on whether:
+- the data on the total greenhouse gas emissions, annual volunteer hours per person and disposing
+collected handsets for the year 2007 are reliable;
+- the information in the following sections of The Report is fairly stated:
+�Our Journey towards Sustainability (pages 9 to 10);
+�Customer Care (pages 17 to 20);
+�Innovative Workplace (pages 21 to 22);
+�Green ICT (pages 23 to 27);
+‘Fairly stated’ means that The Report properly reflects the information contained in the underlying
+sources such that it is consistent with the source information.Reasonable assurance is a higher level of assurance than limited assurance, which is reflected in thenature and depth of the work performed. To obtain a thorough understanding of the financial resultsand financial position of SK Telecom Co.,Ltd., the reader should consult the SK Telecom audited Non-consolidated financial statements for the year ended 31 December 2007.
+Reporting Criteria
+There are no generally accepted standards for reporting sustainability performance. SK Telecom
+Co.,Ltd. applies its own internal sustainability performance reporting criteria, in addition to using the2006 Sustainability Reporting Guidelines of the Global Reporting Initiative. 
+Standards 
+We conducted our engagement in accordance with the International Standard on Assurance
+Engagements (ISAE 3000): ‘Assurance Engagements other than Audits or Reviews of HistoricalFinancial Information’, issued by the International Auditing and Assurance Standards Board. Amongstothers this standard requires that:
+■the assurance team members possess the specific knowledge, skills and professional competenciesneeded to understand and review the information in 
+The Report , and that they comply with the
+requirements of the IFAC Code of Ethics for Professional Accountants to ensure their independence;
+■when providing limited assurance, which is a lower level than reasonable assurance, a negative formof conclusion is used.
+Considerations and Limitations
+Environmental, health, safety and social performance data are subject to inherent limitations given their
+nature and the methods used for determining, calculating and estimating such data. 
+44SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 44    SK Telecom 2007  Sustainability Report  
+45
+Work Undertaken and Conclusions
+■Financial data
+We have reconciled the data on financial performance in the section of The Report listed below, with
+the audited 2007 Non-consolidated financial statements of SK Telecom Co.,Ltd. 
+�The section ‘Creation and Distribution of Economic Value’ on page 8
+Based on the above, the data on financial performance, as specified above are properly derived fromthe 2007 Non-consolidated financial statements of SK Telecom Co.,Ltd. for which the independentauditors issued an unqualified audit opinion dated January 31, 2008. 
+■Specific sections
+For the reliability of the data on the total greenhouse gas emissions, annual volunteer hours perperson and disposing collected handsets for the years 2004 to 2007 we conducted:
+�a review of the data reported by reporting organizations;
+�a review of the systems used to generate, aggregate and report these data;
+�a review of the data validation process at product division level;
+�a review of the calculation made at corporate level;
+Based on the above, the data on the total greenhouse gas emissions, annual volunteer hours perperson and disposing collected handsets for the year 2007 do not appear to be unreliable.
+For the information in the sections of 
+The Report , as specified above under ‘Context and Scope’ we
+conducted:
+�a media and internet search to obtain insight into the relevant sustainability aspects in the reportingperiod;
+�a review of the systems and processes used to generate this information;
+�a review of internal documentation and intranet sources;
+�interviews with staff in order to assess the information included in the specific sections;
+Following our review we discussed changes to the draft Report with SK Telecom and reviewed the
+final version of The Report to ensure that it reflected our findings. 
+Based on the above, the information in the sections, Our Journey towards Sustainability, CustomerCare, Innovative Workplace and Green ICT does not appear to be unfairly stated. 
+Commentary
+Without affecting the conclusions presented above, we believe that following information could be useful
+to the readers’ decision-making process.
+SK Telecom is providing sustainability information reliable to its stakeholders by implementing the
+materiality test in The Report . We recommend that SK Telecom pay attention to enhancing the
+evaluation process of grasping and managing sustainability issues. In addition, SK Telecom needs toreport on the sustainability performance of its subsidiaries and to attune reporting criteria to support thereporting process.
+We have discussed our observations regarding the reporting process and report outside the scope of
+our assignment with SK Telecom management. We found them receptive to our comments.
+Yun, Young Gak
+Managing Partner & President 
+Samjong KPMG Advisory Inc. 
+April 2008
+SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 45    �Carbon Disclosure Project: A global initiative that compiles and analyzes information on carbon
+emissions, a major cause of climate change, from listed companies around the world and is supportedby global institutional investors. 
+�CDMA (Code Division Multiple Access): A technology for digital transmission of radio signals
+based on spread spectrum techniques developed by Qualcomm of the US. SK Telecom launched theworld’s first commercial CDMA cellular service in January 1996. 
+�DJSI (Dow Jones Sustainability Indexes): Revealed by Dow Jones of the US and Sustainable
+Asset Management (SAM) based in Switzerland, the DJSI is composed of companies in the top 10%based on assessment of their economic, social, ethical and environmental performance. 
+�Eco-friendly wireless site: Wireless sites designed to reduce the visual impact in surrounding
+areas (includes all facilities that are installed outdoors that have a visual impact including base stationsand optical repeaters). Related provisions are included in the standards and procedures for thedirectives on shared use of wireless communications facilities. 
+�Ecosystem conservation zone: These zones are designated by the Ministry of Environment, the
+Ministry of Maritime Affairs & Fisheries, city mayors and provincial governors pursuant to the NaturalEnvironment Preservation Act. As of the end of 2007, there were 32 ecosystem conservation zonescovering a total area of 352,932 km
+2. 
+�Education assistants for disabled students: Assistants are dispatched to help disabled
+children who have difficulties adjusting in elementary/middle schools or childcare/educational facilities toprotect the rights of these children to receive education. This program, carried out jointly with the KoreaAssociation of Self-Sufficiency Promotion Agency since 2003, also helps to create jobs for unemployedwomen in the low income brackets. 
+�Euro 4 Standard: The standard for acceptable exhaust emissions applied to gasoline-powered
+vehicles by the European Union (EU). It was applied from 2005 for new cars and from 2006 forexisting cars.  
+�EV-DO (Evolution Data Only): A high-speed network protocol used for wireless data
+communications.
+�HSDPA (High Speed Downlink Packet Access): A 3.5G mobile communications technology
+for improving the downlink performance of WCDMA networks. It supports mobile telephony and high-speed data transmission.  
+�i’s box: A UCC service that allows users to upload photos and videos stored in cell phones and PCs
+over wired and wireless networks and even post them to blogs. (http://www.isbox.com)
+�June: SK Telecom’s premium service brand that allows users to enjoy video contents such as movies,
+music videos, real time news and TV programs via the 3G network. 
+�TD-SCDMA (Time Division-Synchronous Code Division Multiple Access): 3G mobile
+technology developed by China. It is the next generation mobile communications standard beingpursued by the country.  
+�tossi: An integrated wired and wireless social networking service developed for easy use over mobile
+phones and wired Internet. (http://www.tossi.com)
+�UN Global Compact: A UN initiative aimed at realizing a sustainable and inclusive global economy
+through responsible business practices based on ten principles in the areas of human rights, labor, theenvironment and anti-corruption.  
+�WCDMA (Wideband-Code Division Multiple Access): Next generation CDMA technology
+enabling the sending and receiving of data, static images and moving images.
+�ZigBee: Wireless technology developed to address the needs of low-power, low-cost wireless sensor
+networks. It is an IEEE 802.15.4 standard based technology being driven by the ZigBee Alliance.
+�11th Street: An open market brand offering customers a wide range of interactive services
+(http://www.11st.co.kr)
+46※Listed in alphabetical orderSKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 46    08.03 National Customer Satisfaction Index (No. 1 for 11 consecutive years) Korea Productivity Center
+07.11 Corporate Ethics Award (Grand Prize) KABE07.06 Award of Excellence Winner Korea Corporate Governance Service07.12 Small, Medium and Ministry of Information and Communication
+Large-sized Enterprises Cooperation Awards (Minister’s Award)
+07.12 Small, Medium and Ministry of Commerce, Industry and Energy
+Large-sized Enterprises Cooperation Awards (Grand Prize, Industrial Merit) 
+07.10 Korea Customer Satisfaction Index (No. 1 for 10 consecutive years) Korea Management Association Consulting07.10 BCCK Award Social Contribution Category British Chamber of Commerce in Korea07.09 KS-SQI (No. 1 for eight consecutive years) Korean Standards Association07.08 ARC Award MerComm07.04 Best Employers in Asia Hewitt Associates, Wall Street Journal07.04 Best Asian Telecom Carrier (Two consecutive years) Telecom Asia, IDC06.04 World’s Top 100 Innovative Companies BusinessWeekMajor Awards The Global Compact’s Ten Principles 
+Human Rights
+Principle 1: Businesses should support and respect the protection of internationally proclaimed 
+human rights; and
+Principle 2: make sure that they are not complicit in human rights abuses. 
+Labor Standards
+Principle 3: Businesses should uphold the freedom of association and the effective recognition 
+of the right to collective bargaining;
+Principle 4: the elimination of all forms of forced and compulsory labor;Principle 5: the effective abolition of child labor; andPrinciple 6: the elimination of discrimination in respect of employment and occupation. 
+Environment
+Principle 7: Businesses should support a precautionary approach to environmental challenges;
+Principle 8: undertake initiatives to promote greater environmental responsibility; andPrinciple 9: encourage the development and diffusion of environmentally friendly technologies.   
+Anti-Corruption
+Principle 10: Businesses should work against corruption in all its forms, including extortion and bribery.SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:11 PM  ˘ ` 47    2007  Sustainability Report
+11 Euljiro2-ga, Jung-gu, Seoul 100-999, Korea www.sktelecom.com �This report was printed with soy-based ink on eco-friendly paper.SKT¿ „ﬁ_SR_ˆ `   2008.6.9 6:8 PM  ˘ ` 3    

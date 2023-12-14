@@ -1,0 +1,1986 @@
+We work every day at Cybercom to connect people, machines and services  
+to get them to work more smoothly together. We call this Connectivity, and the result  
+is intelligent solutions that can achieve more and that give more. Properly used,  
+IT shrinks distances and gives greater opportunities to more people. Connectivity  
+represents easier, cleaner and more secure business and society in which we  
+come closer to one another.Cybercom Group
+Company Presentation and Sustainability Report 2014
+AB2The year in brief
+4Cybercom in 3 minutes
+6CEO comment
+10The market
+14Strategy
+16Targets and outcomes
+20Services provided
+22Packaged solutions
+26Clients
+32Sustainability34Sustainable business
+36Dedicated employees
+42High ethical standards
+44From the chairman  
+of the board
+45Code of conduct
+46Cybercom’s voice in  
+public debate
+50GRI index
+ABOUT THE REPORT  This report is Cybercom’s combined annual report and sustainability report for 2014. It is presented as the Company 
+Presentation and Sustainability Report, and as the statutory Annual Report, which includes the director’s report, financial statements and 
+corporate governance report. The consolidated financial statements have been prepared in accordance with International Financial Report -
+ing Standards (IFRS), and the corporate governance report complies with Chapter 6, Section 6 of the Annual Accounts Act and Item 10 
+of the Swedish Code of Corporate Governance. Cybercom’s sustainability report is presented in accordance with the GRI G4 international guidelines for sustainability, Core Option. The GRI index can be found on pages 50–51, and more information about indicators, methods 
+and assumptions can be found in a GRI appendix at www.cybercom.com/griappendix. Cybercom signed the UN Global Compact in 2011, 
+and complies with its ten principles for responsible business. This report is Cybercom’s annual communication about how we live up to and work with these principles.
+1Company Presentation and Sustainability Report
+ABAB
+B
+A
+AB
+AB
+2
+Company Presentation and Sustainability Report
+2014
+KEY EVENTS Cybercom was awarded expand -
+ed assignments by the Swedish 
+Armed Forces and the Swedish Defence Materiel Administration (FMV), including an assignment for development and implemen -
+tation of logistics systems over four years.  
+ 
+Cybercom’s Compliance Portal 
+was selected for the manage -
+ment of information security by several new clients, including Svenska Spel, Eltel and Stockholm County Council.   
+Cable & Wireless Communica -
+tions selected Cybercom for sev -
+eral Connectivity Management 
+assignments for mobile networks in the Caribbean.  
+Cybercom was awarded 
+outsourcing business for the de -
+velopment of infotainment with Volvo Group Trucks Technology.  
+Cybercom implemented WyWal -
+let’s Multipay mobile payment 
+service so that e-retailers can offer mobile phone payments to connected consumers.  
+ 
+Cybercom’s software for wireless 
+Bluetooth
+® technology, blueGO, 
+continued to gain ground among international automakers.  
+ The year in brief
+UN Secretary-General Ban Ki-moon visited Cybercom together with Swedish Prime Minister Fredrik Reinfeldt and Migration Minister Tobias Billström to dis -
+cuss migration issues, technology and sustainability. Cybercom was also exclusively invited to partici- pate in the UN Climate Change Summit in New York to discuss innovative technologies as tools for a sustainable future.  
+ 
+Cybercom and the Swedish 
+Film Institute created an app called Tillgänglig Bio that has audio description so that people with visual impairments can experience film with through a smartphone or tablet. The service was launched with the film Gen -
+tlemen at the Film Festival.  
+ 
+Cybercom’s contract as an expert 
+partner to TomTom was expand -
+ed in Poland for the development of digital mapping services.  
+Cybercom launched its Procure -
+ment Check tool, which is free 
+of charge for everyone in the industry, both colleagues and clients, to help businesses and government agencies to procure more secure IT.  
+Cybercom’s headquarters and 
+Stockholm office moved to a new activity-based facility located centrally in Stockholm.Cybercom continued to strength -
+en its position in security and was engaged by the Swedish Tax Agency and the Finnish Popula -
+tion Register Centre to develop national identification services for citizens in Sweden and Finland.  
+Cybercom was entrusted by 
+Ericsson to deliver several new ag -
+ile teams and, as a consequence, established a new office in Kista.  
+ 
+Cybercom continued its major 
+development and administration project of web-based services for students and training providers for the Finnish National Board of Education.  
+ 
+Cybercom won several new 
+framework agreements, such as with SIDA, the Swedish Tax Agen -
+cy, the Swedish Enforcement Authority and the E-identification Board, and Tele2 chose Cyber -
+com as its strategic partner for machine-to-machine communi -
+cation (M2M).  
+ 
+Cybercom was re-awarded a 
+contract to manage and develop Finnish media company MTV’s consumer-based e-services. MTV has the most comprehensive range of e-services in Finland, including on the websites MTV.fi, Katsomo.fi and Luukku.com.  KEY FIGURES
+GENERATED AND DISTRIBUTED 
+DIRECT ECONOMIC VALUESEKm 2014 2013 2012
+Sales 1,262.9 1,195.1 1,339.2
+Operating profit, EBIT 65.8 60.2 -11.4
+EBIT margin, % 5.2 5.0 -0.9
+Profit/loss for the period 48.8 41.5 -53.1
+Earnings per share, SEK 0.27 0.23 -0.67
+No. of employees 1,307 1,267 1,335
+SEKk 2014 2013 2012
+Generated direct economic value
+Revenues 1,262,887 1,195,135 1,399,202
+Distributed direct economic value
+Employee benefits -824,303 -793,840 -892,081
+Other external expenses -345,921 -314,732 -476,539
+Depreciation, amortisation and impairment -26,373 -26,199 -29,857
+Capital losses – – -11,792
+Net finance income/expense -2,490 -6,904 -16,354
+Tax -14,440 -11,811 -25,314
+Dividend* - 9,022 – –
+Charitable donations -521 -142 -352
+Economic value retained 39,817* 41,507 -53,087
+Employee beneﬁts, 65.27%
+Other external expenses, 27.39%
+Depreciation, amortisation and impairment, 2.09%
+Net ﬁnance income/expense, 0.20%Tax, 1.14%Dividend, 0.71%Charitable donations, 0.04%
+Economic value retained, 3.16%
+ DISTRIBUTED VALUE 2014*) Provided that the Annual General Meeting approves the Board’s proposal, equivalent to 18.5% of net profit
+3
+Company Presentation and Sustainability Report
+The year in brief4Cybercom in 3 minutes
+We make everyday 
+services more secure, easier and 
+more sustainable
+Cybercom is an innovative IT consulting firm 
+that was founded in Sweden in 1995. We assist companies and organisations to benefit from the opportunities of the connected world and to enhance their competitiveness. Company Presentation and Sustainability ReportWe help our clients to connect 
+their products or services from a business perspective. Connec -
+tivity is about the new realities and new opportunities that we face, in which companies, cities, electronic devices and people are online, all the time. Many compa -
+nies have been able to restructure their entire business and to en -
+hance their profitability through Connectivity. For us, Connectivity also stands for sustainability – our clients can save both time and resources through innovative and climate-smart Connectivity solutions.We are more than 1,300 employ -
+ees in seven countries, with over 60% in Sweden. Our average age is 38, and 90% of us have a university degree. Our core values are innovation, passion and trust, and we live by these in our daily operations and in our deliveries.We provide consulting services, strategy and advice, testing and quality assurance, system devel -
+opment, systems integration and support for secure IT solutions. Once services are established, we assist with system administra -
+tion and hosting in cloud-based services. A typical Cybercom assignment may be the develop -
+ment of standards for systems in e-health, development of mobile applications or digital services to enhance the quality of commu -
+nication between companies and clients or society and users, controlling electronic equipment such as elevators or driverless trains, developing services to measure and optimise energy consumption, or building a new mobile network. 
+Our principal market is the Nordic region, with operations in Sweden, Finland and Denmark. In our international opera -
+tions, we have major centres of excellence that both support the Nordic business and represent their own specialised operations. These are located in Poland, India, Dubai and Singapore.Our strength and our excellent references in Connectivity position us as a preferred partner of clients who selectively choose suppliers to secure stronger and more sustainable development. Our clients are mainly in telecoms, industry and the public sector, as well as in commerce and the media. These are leading compa -
+nies and authorities that require systems, applications, products and services to communicate with each other quickly, efficiently and securely – and in the right way.
+   Some of our largest clients 
+   Alma Media Group • Cable & Wireless Communications • Ericsson
+   Finnish National Board of Education • Millicom • MTV 
+   Swedish National Police Board • Saab • Swedish Tax Agency • Sony Mobile   Stockholm County Council • Volvo
+Finland
+Helsinki
+TampereTurku
+Public sector
+IndustryMedia
+Denmark
+Copenhagen
+Telecom
+Public sector
+Banking and 
+financePoland
+Lodz Warsaw
+Telecom
+CommerceIndustry
+India
+Mumbai
+Telecom
+IndustrySweden
+GothenburgHuskvarna KarlskronaLinköping
+Malmö
+StockholmSundsvallÖstersund
+Telecom
+Public sector 
+Industry
+CommerceDubai
+Telecom
+Singapore
+Telecom
+5
+  Cybercom locationsOffering Connectivity Clients EmployeesCybercom in 3 minutesCompany Presentation and Sustainability ReportWe seek to be our clients’ foremost business 
+partner in the connected world. We work every day at Cybercom to connect people, machines and services in order to get them to work smarter together. We call this Connec -
+tivity, and the result is intelligent solutions that can achieve more and that give more. Properly used, IT strengthens businesses, shrinks distances and gives greater opportuni -
+ties to more people. Connectivity represents an easier, more efficient and more secure so -
+ciety in which we come closer to each other. This is what we are passionate about at Cy -
+bercom; we want to boost the performance of our clients, their clients, our employees and our fellow human beings in a connected world. This is the path to a better and more sustainable future for our clients and for us as a company. Connectivity is boundless, it sets the path for new ways of doing business and for knowledge transfer, and it democ -
+ractises, eliminates distance, improves energy efficiency, alleviates administrative burdens and creates more time to just be present – if we want it to.
+Agile change management 
+strengthens our business position
+We are in the midst of a positive journey 
+of transformation towards our goals (see pages 14-17). We are building a larger Nordic business and developing our sales processes by using a key account structure. This has yielded excellent results during the year. We are forging stronger links with our selected clients and supporting them in their changes. It’s about creating efficiency and stronger competitiveness through benefitting from the opportunities of the connected world – as well as about managing the risks through our unique security expertise. 
+Our client portfolio has become more balanced in 2014, and exists mainly in three segments: telecom, industry and the public sector. This provides a stable foundation and a way for us to mitigate the risk of decreasing demand in specific industries. It also provides an opportunity for skills transfer between companies, organisations and public author -
+ities, with Cybercom acting as a catalyst. Our advisory team of consultants is sought after to manage transformations of operations and businesses, and this is moving us higher up our clients’ value chains. We have increased our investment in these services during 2014. 
+One of our objectives is to increase our 
+proportion of turnkey projects. This is in line with our strategy to be closer to our clients’ core business, and is also an enabler for us to create more sustainable profitability. It is also these assignments that create the conditions for Blended Delivery through our centres of excellence in Poland and India. Our geograph -
+ic breadth and global delivery capabilities are increasingly critical in business dialogue.
+Viable structural capital
+We are working in the right direction, but we can deliver better results by conceptualising our services – benefitting from our expertise, our unique experience and innovative culture – in a number of priority areas of high growth. Our reusable solutions help to create greater value for both our clients and for Cybercom. We have packaged these more clearly during the year, and adapted them into attractive market offerings. 
+This is an important investment to strengthen 
+our brand and our profitability going forward. For example, our performance in the public sector has been excellent with our digital identification services in both Sweden and Finland. Digital identification services are one of our packaged services, a valuable part of our structural capital. Our packaged services 
+6
+We live in 
+exciting times
+Cybercom has devel ­
+oped substantially in 
+2014, and so has our 
+world, not least be­
+cause of the opportu ­
+nities offered by tech ­
+nology. During the year 
+we came closer and 
+closer to our goals and achieved one of our key milestones, to once 
+again become a growth 
+company. Cybercom has taken market share – an achieve­ment that shows we 
+are making a stronger 
+impression and that our Connectivity offer ­
+ing is attractive. CEO commentCompany Presentation and Sustainability Reporthave improved our internal ability to work 
+across company and country boundaries, and Cybercom is now a more integrated corporate business. We still have efficiency gains to achieve by becoming even more focused on our client offering and by ensuring that our cost structure supports it.
+A borderless business  
+environment
+Cybercom operates in a highly competitive market. Throughout 2014, we saw a Nordic environment of both initiatives and restraint, with several new and active providers from far and wide. Major procurements were conducted, and much time has been spent on dealing with price pressure, which could adversely affect quality and lead to short-term actions that could harm our clients’ deliveries. Cybercom took several initiatives to counter this, including the launch of our Procurement Check, which we offer free of charge to the entire industry to help businesses and govern -
+ment agencies to procure more secure IT. It is a concentrate of the internationally estab -
+lished regulations and an important checklist. 
+The price pressure in the market is not 
+sustainable, and it is positive that fewer and fewer procurers are relying on negotiating on price as the strongest parameter. Procure -
+ments conducted entirely on price often bring short-term gains, short-lived solutions, sometimes at the expense of security, and sometimes the irresponsible use of resources and investment. A false economy. Cybercom seeks to play an active role in countering this trend.
+The market situation in recent years appears 
+unlikely to change in the near future. We navigated well through 2014, and our growth of 6% in a market that is growing by 3% is a clear testament to that. Our profitability did not follow the same favourable trend as our growth. Implementation of our long-term strategy and our ability to quickly adapt to changes in the market will be even more important in future. In the current market, we are building up partner networks with consultants and suppliers to create a healthy and more seamless ecosystem.
+Innovation oxygenates  
+our future
+Connectivity in itself is a great enabler for implementing tough business goals and for improved sustainability. Our strength and our excellent references position us as a preferred partner of many clients who selectively choose suppliers to secure a stronger future. This is important for our employees, and is having an increasing impact in the target groups we recruit from. In 2014, 330 new employees joined us and more than half of these were under 30. This is significant for Cybercom, and is something we are actively working towards. 
+One challenge for us and for our industry is 
+the future supply of skills. According to the Eu -
+ropean Commission, there will be a shortage of over one million programmers in Europe by 2020. This is a reality we deal with daily, and we see our recruitment base as global. Our re -
+sponsibility is to increase both interest in, and understanding of, IT among young people, including more young women. Cybercom has taken several initiatives in this area together with various forward-moving partners and organisations. We are proud that the  AllBright Foundation recognised Cybercom  as the best in our industry in terms of numbers of women in management and on the board,  but we can improve this. We want to  increase the proportion of women in the industry and among our employees. 
+Our voice has been heard in the public 
+debate, and we have been invited to impor -
+tant talks with new businesses and in new contexts. An example of this was when UN Secretary-General Ban Ki-moon chose to discuss the world’s future and cross-border supply of skills with Cybercom during a visit to Stockholm in May. He invited Cybercom as a role model to represent the new innovative technology and expertise necessary to enable sustainable development in the world. We consequently participated in the UN Week in New York in September. 
+Cybercom is part of a large global trans -
+formation through the daily efforts of our dedicated employees. It is my role, and the role of management, to release each employ -
+ee’s vision and ability, creating a dynamic and innovative working environment. I am pleased that that we are achieving greater and greater success with each year, as evidenced by our employee survey. Another indication of the success of these efforts is that our employee turnover decreased significantly for the third consecutive year. This is a win for us.
+In 2012, we laid the foundation of the 
+strategy we follow today and, accordingly, we developed the company to be profit-making in all its parts in 2013. The next step was to return the company to growth, which we achieved in 2014. We are now aiming to create more value for our shareholders, clients and employees by developing our operations closer to our goals of achieving more profitable growth and generating more sustainable business with a DNA of passion, trust and innovation. 
+Niklas Flyborg 
+President and CEO
+7
+CEO commentCompany Presentation and Sustainability ReportThought approaching action
+As the world shrinks, more ideas become reality, technology  
+becomes available and more people are given opportunities.CYBERCOM CONNECTIVITY
+ACybercom implements assignments 
+for clients in many places in the world. In Rwanda, we are helping an operator with mobile networks. Mobility in developing countries enables entrepreneurship among disadvantaged people, and access to the internet contributes to the dissemination of knowledge.Thought approaching action
+As the world shrinks, more ideas become reality, technology  
+becomes available and more people are given opportunities.CYBERCOM CONNECTIVITY
+BCybercom’s growth in 2014. 
+Estimated industry average 3%.Source: Radar Group International
+Estimated increase in the global market 
+value of IoT solutions from 2013 to 2020. Source: IDC forecasts42% of the global population will own a smartphone by the end of 2015. Source: Forrester ResearchThe number of vehicles with internet access will increase more than six-fold by 2020. Source: IHS AutomotiveThe number of connected devices in the world by 2020 
+(an increase of over 50% from today’s levels)Source: ABI Research
+10
+Borderless technology 
+lays the foundation for our futureThe market
+The amazing technological advancements of recent years have 
+brought the emergence of entirely new ways to consume goods 
+and services. These in turn are creating new markets and the 
+need for entirely new business models. Cloud services, per ­
+sonal privacy, mobility, security and sustainability are corner­
+stones on which future operations must be based.Company Presentation and Sustainability ReportIT’s role in companies has changed and has 
+become a crucial part of business strategies, giving modern leaders new challenges when it comes to the inclusion of connectivity in their operations, business and in the actual services. 
+Where information is stored, and how users 
+access it, are also changing. Today’s tech-sav -
+vy users demand more and can do more on their own. This requires effective use of secure and reliable networks to manage the increas -
+ing complexity of the networked landscape. 
+The Internet of Things (IoT) is the platform 
+on which value-added services are built. Ex -
+Machine ­to­machine 
+M2M has taken the step beyond being one-to-one communica -
+tion and today often involves interconnected systems between many devices that convey infor -
+mation that can assist businesses and individuals.
+Delivery models  
+Companies are investing in online solutions and e-commerce services to reach new customers and markets.Cloud services  
+Users can access all the services they need – and only pay for what they use. Brings positive effects of reduced IT investment and increased sustainability.Internet of Things 
+Things are connect to cloud services and can be managed, updated and operated irrespec -
+tive of where they are. Market trends 
+driving the  
+business
+Security  
+All roads to our digital future pass 
+through security, but applications will need to take a more active role, opening the way for multi -
+faceted security strategies.Digitisation 
+The public sector’s extensive de -
+velopment of e-services is one of many examples of how connec -
+tivity is increasingly becoming an important part of the way society functions for businesses and individuals.
+Sustainability 
+New lifestyles and values are taking hold. Ethics are becoming increasingly important and more and more companies and organi -
+sations are embracing sustainabil -
+ity in their business models. perts predict that, within five years, one in ten white goods will be connected to a data cloud that allows the user to remotely control home appliances using a mobile phone. The IoT shifts IT and computing power into the actual products, from having previously been on the sideline. There are two distinct tracks: The products are supplied connected to a cloud of peripheral services, with built-in sensors that record data. The data collection can be used to update bugs, diagnose faults and predict maintenance needs, which in turn leads to increased availability and reliability. Through analysis of the collected big data, companies can also draw conclusions about how the end customer uses the product, in constant dialogue in real time. And based on this information, the next generation of prod -
+ucts and offers can be made even better.
+There is huge potential in connectivity, with 
+effects such as more rapid time to market, better-developed products, increased sustain -
+ability and greater cost efficiency. Cybercom’s strategy is founded on these connectivity op -
+portunities and builds on our vision of being our clients’ foremost business partner in the connected world.
+11The market
+11Today’s tech ­savvy 
+users demand more 
+and can do more on 
+their own’’Company Presentation and Sustainability ReportConnectivity is an enabler for both increased 
+production and resource efficiency, particular -
+ly through energy savings. Different drivers and business logic govern the different perspectives in the connected world. This insight creates solutions for a more sustaina -
+ble future. With more connected devices (mobile phones, screens, machines and people) in the world, demand for secure technical solutions is increasing continuously. The market potential is enormous. Society, different services and businesses are going digital, and as a result expectations are rising among consumers of what technology can achieve, but this places greater demand on In order to be a credible business partner we 
+must understand our clients’ business and 
+business models. It is equally important to 
+evaluate our clients based on what defines their client relationships. This is one of the 
+main keys to our success.
+companies to understand the different driving 
+forces. Industry is becoming more efficient through machine-to-machine, or is becoming smarter through the Internet of Things.
+Public authorities and agencies are widening 
+their services to users, and society is becoming more integrated and efficient. Similarly, cities are becoming smart and more user friendly for residents. More and more consumers are becoming digital, connected, more aware and agile. New services are being created and new unexpected companies are changing the rules of the game in a market that is becoming global and growing at a very rapid pace.
+12
+The market 
+Different business driversCompany Presentation and Sustainability ReportOur clients here are mainly B2B, 
+often with a product-based business. They usually have the ambition to develop and max -
+imise value, and they price their offering based on how well they solve end user problems. Key drivers are primarily about costs.
+Examples of assignments:  
+Everything from basic web 
+systems that, for example, coordinate logistics to save time and fuel, to complex systems that manage usage and result in re -
+duced resource requirements and lower energy use in production.Industry is becoming more efficient 
+through M2M, or is becoming smarter 
+through the Internet of Things.
+Our clients are suppliers of 
+products and services to the con -
+sumer market, such as telecom operators, automotive manufac -
+turers and product development companies. Key drivers are need fulfilment, news value, user expe -
+rience and brand loyalty among end customers. This is about creating a desire to own some -
+thing in order to enhance sales, and also about holding a dialogue with customers and allowing them to influence the services.     
+Examples of assignments:  
+Smart alarms for Verisure, cus -
+tomer experience management 
+for Tigo, infotainment solutions and blueGO for international au -
+tomakers, and a mobile app with payment solution for SF.Connected  
+IndustryConnected  
+Consumer
+Clients in Connected City are mainly companies offering services associated with a secure, clean and resource-efficient society. In -
+telligent transport systems, online navigation systems, communica -
+tion between vehicles and smart systems for energy and water supply, all aimed at optimising the operation of cities. The drivers are often influenced by policy initia -
+tives, productivity and legislation.
+Examples of assignments:  
+Everything from security process -
+es for information management 
+and compliance to remote control systems for the transport and infrastructure within buildings or externally in the urban environ -
+ment.Our clients are the public sector and companies that provide ser -
+vices to citizens linked to welfare and agencies that ensure security, service and participation. The drivers are mainly influenced by legislation, cost savings, produc -
+tivity and policy initiatives. 
+Examples of assignments:  
+Identification solutions for au -
+thorities in Sweden and Finland. 
+Signature services for the Swedish Tax Agency. University application procedure for the Finnish National Board of Education.  Connected  
+CityConnected  
+Citizen
+13
+The marketM2MCompany Presentation and Sustainability ReportAgile process of transition 
+towards profitability target
+The priority over the past three years, to enhance profit ­
+ability through strategic action, streamlining and transi ­
+tion, has borne fruit. We laid the foundation in 2012, and 
+in 2013 we developed the company to be profit ­making in 
+all its parts. In 2014, we returned the company to growth. 
+We are getting closer and closer to our goals.
+  Strategic transition 
+OfferingMore  
+focusedOrganisationMore  
+integrated 
+Client portfolioMore  
+balanced 
+Client  
+relationshipsHigher assignment 
+volume per client
+AssignmentsMore turnkey  
+assignments
+People planningCommon measurable HR practices
+14StrategyCompany Presentation and Sustainability ReportConnectivity – a sustainable 
+business
+Sustainable business is an important part of 
+our strategy, and we are positioning ourselves with a comprehensive range of services that enable sustainability. Wider utilisation of Connectivity improves the sustainability of companies and organisations, saving time and resources through, for example, smart cities, less freight, fewer production errors and reduced energy use.
+An integrated company with a 
+uniform approach
+Step by step, we are melding Cybercom into 
+an integrated organisation with a common sales structure, common support functions and consistent global delivery capabilities. By applying a consensual approach with a com -
+mon culture and with common values, we are even better able to work across boundaries, between countries and offices, and allocate resources and skills to best effect.
+Focused service portfolio
+Previously, Cybercom was a broad-based provider of IT solutions, assisting our clients on many different issues and with a relatively small share of each client’s business. Today we focus on three service areas where we can offer the greatest business value: Connectivity Management, Connectivity Solutions and Secure Connectivity. We have conceptualised our structural capital into packaged services to enhance sales volumes in areas with high growth, making it easier for our offices to sell our services.Balanced portfolio of clients and 
+larger assignment volumes
+We have deliberately adjusted our client 
+portfolio in recent years by actively reducing our client numbers. We focus on strategically selected clients to whom we can deliver great -
+er business. As a key supplier offering greater value, we increase the profitability of each piece of business and simultaneously build up stronger relationships with our clients. We have historically had a high level of exposure to the telecom sector, and we have developed valuable and important telecom and internet expertise that can be applied in all industries. Clearer client follow-up allows us to generate closer client relationships, and an important part of this is the establishment of our key account managers, who make a greater im -
+pression with our clients through cross-selling and turnkey solutions. 
+Business models
+Corporate purchasing of IT has changed radically in recent years, and projects have become more complex. Cybercom has two main business models that address clients’ changing purchasing patterns. 
+It has been a long time since IT was simply 
+an issue for IT departments. Today’s clients are increasingly involved in the business operations of their companies. Meanwhile, the focus of demand in IT is shifting from servers and network devices to services and solutions. We see two clear trends in buying habits today.
+Transactional purchasing , or buying 
+expertise by the hour, is in decline, according to Radar Group. Here, the client knows what they want and buys specific expertise based on price and simplicity.Meanwhile, we are able to observe that 
+complex projects  are on the increase. The 
+demand for customised value increases when the services are purchased by the business operations. In this case, they are not as techni -
+cally oriented as IT departments, but are more inclined to buy based on expertise and brand, and are more likely to require turnkey assign -
+ments. Cybercom will increase its proportion of turnkey assignments and achieve an even balance of the two business models. Our objective is for assignment business (turnkey assignments and projects) and transaction business (consulting services) to each repre -
+sent 50% of our total delivery. 
+Blended Delivery
+The shift towards a greater share of profes -
+sional turnkey assignments also gives us even greater opportunities to provide Blended Delivery. By staffing our assignments with different skills and experience from our various countries, based on the nature of the assignment, we can reduce our costs without revenues being affected. This is possible be -
+cause we are the interface with the client and we are responsible for strategy and delivery.
+Value ­creating employee  
+organisation
+Cybercom’s success is based largely on close client relationships through our dedicated and skilled employees. We will continue to drive the development of a group-wide approach, with uniformly conducted people planning. Efforts such as common methods and training will allow us to clearly structure our employee organisation to address client needs based on our offering.
+15
+Strategy
+15Cybercom has 
+returned to growth 
+and is taking market 
+share’’Company Presentation and Sustainability ReportThe board established long-term financial targets and guidelines for Cybercom in 2011.  Target met 
+Positive developmentNegative development
+Area Description of target Outcome 2014 Status
+Profitability Cybercom shall be one of the more profita -
+ble companies among its closest comparable competitors and achieve an EBIT margin of 10%. EBIT margin was 5.2%  (5.0).
+Growth Cybercom shall strive to achieve growth of 10% annually over the business cycle. Sales increased by 6%  (-11).
+Acquisition policy Organic growth and profitability are the key objectives for Cybercom, but selective acquisitions that create value and contribute to growth will be assessed against this strategy.There were no acquisitions during the year.
+Debt policy Cybercom shall have net debt that does not exceed 30% of equity over time. Net debt amounted to 6%  (10).
+Dividend policy Cybercom shall pay a dividend to its shareholders of at least 30% of net profit, provided that no special considerations exist with regard to the company’s financial position or plans.Considering the company’s improved financial position and stabilised profitability, the board proposes that the AGM endorse a dividend of SEK 0.05 per share, representing 18.5%  of net profit. Cybercom should be regarded as the most well ­known and 
+respected brand in Connectivity among clients and employ ­
+ees, on the labour market, and among our shareholders. 
+Over the next two years we will become a leading provider of Connectivity services in the Nordic market, combined 
+with a valuable global delivery capability.
+16
+Nordic leaderTargets and outcomes
+Financial targets Company Presentation and Sustainability ReportArea Description of target Outcome 2014 Status
+Client portfolio We will achieve a balanced client portfolio with 
+30% of sales from telecom, 30% from the public sector and 30% from manufacturing industry. Telecom 32%  (36)
+Public sector 29%  (25)
+Industry 23%  (22)
+Other 16% (17)
+Client base We will broaden our client base so that our ten largest clients account for no more than 35% of sales and so that no single client accounts for more than 15% of sales.The ten largest clients accounted for 40%  (43) 
+and the largest client accounted for 15%  (13) of 
+sales.
+Assignment types We will achieve an even distribution of sales between consulting services and turnkey  projects/solutions in our assignments.Turnkey assignments and projects  39%  (38) 
+Consulting services  61%  (62).
+Our role as  
+an employerWe will enhance the dedication of our employees by providing them with an attractive working en -
+vironment, good terms and conditions, and useful opportunities for professional development. We are actively working to increase our diversity to create a dynamic and innovative working envi -
+ronment. We measure this through a group-wide employee survey called Cybercom People Voice, in which our long-term goal is 700 out of a possible 1,000 on the employee motivation index. Our employee motivation index  totalled 610 (583).
+Sustainable  
+businessWe will increase the amount of sustainable busi -
+ness with our clients. We measure this by looking at what business contributes to sustainable devel -
+opment and responsible use of resources through, for example, cost savings, efficiency, security and reduced use of resources that have a negative environmental impact.At Cybercom’s ten largest clients, 27%  of assign -
+ments have contributed to improved sustainability through efficiency, cost savings or a reduced degree of exploitation of the earth’s resources.
+Business ethics High ethical standards will be a part of our DNA and permeate all our activities and all our business. In December, Cybercom launched its internal certi -
+fication in anti-corruption and the code of conduct. We will measure and monitor the number of certi -
+fications in the group. We monitor the number of possible incidents in the group and the number of suppliers and partners that have signed Cybercom’s code of conduct for suppliers and partners.37%  of Cybercom’s employees, including the 
+entire board and senior management team, have completed the certification. No incidents have been reported. Better systems will be introduced for monitoring the supplier code of conduct.
+Environmental impactWe will reduce our CO² emissions as a result of 
+travel per revenue krona by at least 5% between 2011 and 2015.Since 2011, CO² emissions as a result of travel  
+per revenue krona have decreased by approxi -
+mately 17%.
+17
+Targets and outcomes
+Operating targetsCompany Presentation and Sustainability ReportEasier to share
+Connectivity makes it easier to share things  
+with each other. This saves you money and gives nature  
+a break, without you even having to think about it.
+AEasier to share
+Connectivity makes it easier to share things  
+with each other. This saves you money and gives nature  
+a break, without you even having to think about it.CYBERCOM CONNECTIVITY
+BIt is estimated that every person on earth 
+will have on average 2.7 online mobile devices by 2017
+20
+Services provided
+We live in a digital world in which the Internet of Things, ma ­
+chine ­to­machine communication and mobility are common ­
+place. It is estimated that every person on earth will have on 
+average 2.7 online mobile devices by 2017. To understand this future is to understand that the key to success lies in the devel ­
+opment of Connectivity.
+We therefore offer flexible services based on business value 
+and sustainable Connectivity solutions. With our service areas 
+in the connected world, we enhance security, reduce time to 
+market and improve our clients’ performance.We empower our clients 
+in a connected worldCompany Presentation and Sustainability ReportSupport and adm
+inistration  >Development and solutions  >  Advice  >Connectivity
+Management
+Delivery 
+processExpertise and advice for mobile networks New business and services to more people, 
+around the clockSecure and accessible businessConnectivity
+SolutionsSecureConnectivity
+21
+21Businesses are becoming increasingly digital 
+and mobile, while demands for accessibility, privacy and protection are intensifying. We identify and minimise IT risks for our clients at an early stage. We develop security policies and compliance services, establish risk man -
+agement techniques and provide advice on how sensitive data can be protected.We help our clients to develop existing and new services and to build intelligence into products, systems and mobile solutions. By getting to know our clients’ businesses we can develop communication solutions with clear potential to streamline processes and improve user experiences. Our clients can benefit from digital opportunities to enhance their relationships with their end custom -
+ers, boost growth, reduce costs, improve productivity and become more profitable. Our expertise covers areas such as connected devices, platform development and online strategies, hardware, embedded systems, cloud-based solutions, digital channels and operational efficiency.
+Cybercom delivers the entire chain – irrespec -
+tive of service area.Cybercom provides advice, industrial and security analysis, expansion and upgrades of networks, and development of new mobile networks. Our consulting services facilitate and streamline the expansion and moderni -
+sation of the networks that connect people and equipment, wherever they are. Our main fields in Connectivity Management are mobile network quality, operational efficiency, customer experience management and green networks.Services providedCompany Presentation and Sustainability Report22Packaged solutions
+We are constantly developing our expertise 
+and experience in the field of Connectivity. By 
+conceptualising our services into a number of 
+priority areas of high growth, we can help to create maximum value for both our clients and 
+Cybercom.Viable capital  
+structure offers  
+enhanced client valueCompany Presentation and Sustainability ReportCustomer Experience  
+Management 
+Our Customer Experience Management (CEM) 
+package of services helps mobile operators to obtain a comprehensive view of how the end user experiences quality of service. Cybercom collects and collates both the subjective expe -
+rience of end customers and actual network performance to identify improvements. Effective changes can improve the end user’s experience of the service. A sustainability impact of CEM is that performance improve -
+ments reduce the daily battery consumption of mobile phones, resulting in shorter charg -
+ing times and lower power consumption. 
+Thanks to Cybercom’s CEM services, mobile 
+operator Tigo Rwanda has been able to im -
+plement measures to reduce customer churn and increase data usage, which resulted in increased revenue. CTO at Tigo Rwanda:
+“The outcome of Cybercom’s CEM service 
+enabled us to identify areas for improvement that have a direct impact on the experience of Tigo’s users.
+23
+Packaged solutions
+23Compliance 
+Management
+Successful compliance management requires a 
+comprehensive connected methodology, de -
+signed to protect and enhance business value. Our Compliance Management solutions are designed to be able to handle a wide range of compliance processes and maintain account -
+ability throughout the client’s organisation. Cybercom’s Compliance Portal is a concrete support to control content, reduce costs, man -
+age risk and comply with applicable require -
+ments. The portal is designed to make this easy and flexible, while providing an easy view of the organisation’s compliance in real time.
+“AB Svenska Spel is certified to ISO/IEC 
+27001, WLA and PCI DSS, and as part of efforts to strengthen our internal governance we are currently implementing compliance system support. Cybercom’s portal meets our needs to achieve success with this,” says Jörgen Myhlén, group head of security, AB Svenska Spel.
+The outcome of Cybercom’s 
+CEM service enabled us to 
+identify areas for improve ­
+ment that have a direct 
+impact on the experience of 
+Tigo’s users.’’Cybercom’s portal meets 
+our needs to achieve success 
+with this,” says Jörgen My ­
+hlén, group head of security, 
+AB Svenska Spel.’’Company Presentation and Sustainability Report24Cybercom blueGO
+Cybercom blueGo is a software product that 
+enables manufacturers of automotive infotain -
+ment systems to integrate Bluetooth® easily 
+and securely, reducing both development costs and time to market. The technology provides motor vehicle manufacturers with the latest Bluetooth
+® functionality in a system that func -
+tions with all mobile phones on the market.
+Cybercom blueGo is growing in popularity 
+among all of the world’s major automobile manufacturers and their suppliers. The product has enabled our clients to minimise their numbers of complaints thanks to a powerful and well developed design that is continuously subject to comprehensive compatibility testing with the mobile phones on the market. During 2014, more than 10 million vehicles were equipped with integrated Bluetooth® technol -
+ogy from Cybercom.Packaged solutions
+More than 10 million vehicles 
+have integrated Bluetooth® 
+technology from Cybercom. ’’Connected  
+Identity
+In a connected organisation there is a risk of 
+aspects of security becoming an obstacle to collaboration. But at Cybercom, we work with security solutions that instead become an ena -
+bler. We implement major turnkey assignments for national infrastructure in e-identification and e-health, and solution deliveries around our own flexible log-in platform, IdentityHub, for secure access to information, e-services and applications regardless of whether they are internal, with partners or in the cloud.
+Cybercom has for many years been respon -
+sible for application support and development of Inera’s important HSA Directory Service, which manages information about individ -
+uals, functions and units at county councils, municipalities and private healthcare providers. E-health services at the national level in Swe -
+den like the 1177 Vårdguiden, Pascal, Nationell Patientöversikt and Mina vårdkontakter are examples of services that retrieve contact infor -
+mation and/or permission-based information from the directory service. 
+“The requirements for permission adminis -
+tration and access control are becoming more stringent, and it would not be possible to introduce effective national security solu -
+tions without HSA. We are very pleased with Cybercom, which is a benchmark for a provider that takes responsibility for all aspects,” says Henrika Littorin, service manager at Inera. 
+We are very pleased with 
+Cybercom, which is a bench ­
+mark for a provider that takes responsibility for all aspects. ’’Company Presentation and Sustainability Report25Packaged solutions
+E­health
+Our services in e-health ensure safety and 
+service in the home for patients and elderly cit -
+izens. Our concepts in this field provide major sustainability gains and user benefit, and in -
+clude digital safety alarms and sensors, secure solutions for information management and administration of the national HSA directory. 
+In Stockholm, residents can chat with social 
+services and get their questions answered through the online “Socialrådgivning på nätet” social service. A secure e-ticketing system provides the user with a code to retrieve the response.
+“Cybercom has been responsible for the 
+technical development of the service, which has been very popular, particularly due to its good usability and support. We are now inves -
+tigating the possibility of cooperating closely on this solution so that all the county’s munici -
+palities can operate the service together,” says Alexandra Göransson, who is department head of social services in Stockholm.Cloud Services
+Secure cloud services help clients to improve their information availability, increase scalabil -
+ity and reduce their costs. 
+Cybercom’s cloud service has enabled 
+Finnish media company MTV to achieve signif -
+icant cost savings by using only the capacity needed for the operation of digital platforms and services. Energy consumption is also re -
+duced since no server capacity stands unused.
+“We are very pleased with Cybercom and 
+we rely on their expertise in system deploy -
+ment, support and cloud services. Switching to Cybercom’s cloud service provided us with a cost-effective and sustainable solution with round-the-clock support, which is essential for our growing business in online entertainment. We regard Cybercom as a reliable partner,” says MTV’s Jyri Kyllönen.
+Cybercom has been respon ­
+sible for the technical devel ­
+opment of the online social 
+services, which have been very popular, particularly 
+due to their good usability 
+and support.’’We are very pleased with Cybercom at MTV, and we 
+rely on their expertise in 
+system deployment, support and cloud services. ’’Company Presentation and Sustainability ReportThe opinions of Cybercom’s clients in this year’s client 
+survey. My experience is that Cybercom:
+’’
+’’’’’’’’’’’’’’
+26
+A strategic  
+business partner
+We will enhance our clients’ success. It is important to 
+us that this can be seen in the statistics – our clients 
+give us high ratings.Clients
+Is passionateBehaves honestly 
+and forthrightlyIs easy to  
+work with
+Is available  
+when I need itTakes responsi ­
+bility if prob ­
+lems ariseDoes what it says 
+it will do
+Responds  
+quicklyIs skilled at  
+building strong 
+relationships with usCompany Presentation and Sustainability ReportAlma Media Group
+Cable & Wireless 
+Communication
+Ericsson
+Finnish Board  
+of Education
+Millicom
+MTV
+Swedish National 
+Police Board
+Saab
+Swedish Tax 
+Agency
+Sony Mobile
+Stockholm  
+County Council
+VolvoOur vision is to 
+be our clients’ 
+foremost busi ­
+ness partner. 
+Our desire to deliver results means we work very closely 
+with our clients. We need to understand their whole business and know all the 
+company’s objectives. It is 
+therefore particularly pleasing to see that our clients appreciate us and give us high ratings in key areas 
+such as responsibility, strong 
+relationships and reliability.
+27Client surveySome of  
+our clientsClients98%
+of our clients would happily recommend us
+Cybercom is well placed in suppli -
+er assessments by service buyers, 
+according to the TNS Sifo survey of 
+customer satisfaction and per -
+ceived quality. This year’s client survey confirms the picture of 
+previous surveys, and shows that 
+our clients appreciate our skilled 
+consultants and their high level of 
+technical expertise. We are easy to 
+deal with, we are available, we take 
+responsibility and we carry out our assignments with great passion. Cybercom is well above the industry 
+average on the Client Satisfaction 
+Index (CSI). We have a CSI of 75, 
+while the industry average for IT 
+companies in Northern Europe is 67, 
+according to the TNS Sifo customer 
+satisfaction survey conducted in 
+November 2014.Bo Strömqvist 
+Head of Sales  at Cybercom ’’Company Presentation and Sustainability Report28
+The Traffic Administration at Stock -
+holm County Council uses an extremely 
+complex IT environment to administer 
+public transport in Stockholm. There are frequent technology procurements in this area, often worth billions. Cyber -
+com won a contract to use method and system support to enhance information security to include suppliers during the 
+procurement phase.
+By managing information security 
+issues using the Cybercom Compli -
+ance Portal, the Traffic Administration is able to provide a method for captur -
+ing security issues without complicat -
+ing the procurement process. From the suppliers’ side, the solution looks 
+like an internet survey.
+The Traffic Administration then 
+builds up a huge knowledge base 
+against a set of requirements that may change over time. As this is done at 
+the procurement stage, the work also 
+affects evaluations and acceptance of 
+the solution.
+“Compliance Portal has made it pos -
+sible for us to create clarity about the 
+prevailing information security and risk 
+situation in our procurement processes and technology solutions,” says Torsten 
+Regenholz, Chief Information Security 
+Officer at Traffic Administration. We have succeeded in creating a holistic, repeatable and structured approach to 
+the governance of information security. 
+Now we have a decentralised working model in place that makes it possible 
+to see not only where operations and 
+providers require information and IT security support, but also how well our own governance works. It is important for the Swedish Tax Agency to develop e-services. These 
+should be easy for citizens and busi -
+nesses, and should simplify processes 
+for the Tax Agency. Digital signatures 
+are an important component of many 
+e-services. Cybercom was award -
+ed the contract to deliver the Tax Agency’s new signature service, which 
+works with both the current system 
+for e-identification (BankID and Telia) and with the new Federation 
+services for Swedish e-identification, 
+provided for the public sector by the E-identification Board and enabled by Cybercom. The service will be brought 
+into operation in 2015.
+Digital signature services also provide major advantages from a 
+sustainability perspective, in that 
+organisations reduce their costs and 
+environmental impact is lessened through the elimination of paper 
+letters and transportation. The 
+great financial savings come from the organisation avoiding the heavy manual handling. The benefits for 
+individuals and businesses are in 
+improved efficiency, faster processing and enhanced security.Connected Citizen
+Connected CityClient cases
+Swedish Tax 
+Agency: Should 
+be easy and 
+secure
+Stockholm 
+County Council: 
+Compliance 
+PortalDigital signatures 
+are an important component of 
+many e ­services. ’’Company Presentation and Sustainability Report29
+Connected IndustryConnected ConsumerRemaining at the forefront while 
+providing a good mobile experience is a challenge for many companies. SF 
+Bio has succeeded, thanks largely to 
+its agile collaboration with Cybercom in which everything from usability ex -
+perts and graphic artists to interaction 
+designers and business developers 
+have worked with the cinema compa -
+ny’s future mobile presence.
+When the first version of the SF 
+Bio app was launched several years ago, it allowed users to view trailers and reserve seats in the auditorium. 
+Gradually, it has been developed to 
+include ticketing and has become much faster. The app allows SF Bio to 
+reach its customers with various offers 
+and messages. The app, which is one of Sweden’s most popular, currently has 1.5 million downloads and traffic through the app accounts for about 
+one-third of all SF Bio’s traffic.
+“Right from the start it was about 
+demonstrating that we were at 
+the forefront and about gaining a 
+foothold,” says Anna Rosang, Nordic 
+business area manager for digital media at SF Bio. “We had early meta -
+data available that could have been used, but which had its limitations at the other end – including the size of a mobile screen. This is less of a problem 
+today. With an agile approach, we 
+have been able to work our way for -
+ward and find the right path together 
+with Cybercom.”
+The interest in solutions for secure 
+self-service checkouts and payments 
+in stores has increased significantly in 
+recent years. Market-leading shopfit -
+ter ITAB has now introduced the next 
+generation of smart self-checkout 
+system, called EasyFlow. The customer simply places the goods on a conveyor belt and the system automatically 
+detects and registers all the items, 
+even those without barcodes. In the autumn of 2014, EasyFlow 
+was installed for the first time in a 
+Swedish store and the plan is for the system to gradually spread to stores in Sweden and elsewhere in Europe. 
+During the development project for the new checkout system, ITAB chose 
+Cybercom as its technology partner 
+to strengthen its own development 
+department.
+According to ITAB’s CEO Ulf Rost -
+edt, there are powerful arguments for the grocery industry to invest in this type of self-service checkout, not least for the working environment.
+“A system like EasyFlow improves 
+availability since the self-service check -
+outs can always be open, helping to 
+optimise in-store customer flow. Shop 
+owners also have great potential to improve their working environment for staff, who can be relieved of 
+monotonous checkout work.”Client cases
+SF Bio: 
+Half of our digital 
+traffic is already 
+mobile
+ITAB: 
+Sustainable 
+workplaceCompany Presentation and Sustainability ReportAB
+More with less
+Connectivity creates better products that require  
+fewer resources. It provides a cleaner world.CYBERCOM CONNECTIVITYThrough ongoing dialogue with the groups we 
+have identified as our stakeholders, our em -
+ployees, clients, shareholders and trade unions, we ensure that we act responsibly and in line with expectations and the targets we have set.
+Responsibility is defined in our commitment 
+to the Global Compact, our code of conduct and in our sustainability goals. Efforts to achieve our sustainability goals are an impor -
+tant part of our business plan and contribute to achieving our overall vision.
+We have identified three focus areas for our 
+sustainability work: dedicated employees, sus -
+tainable business and high ethical standards that should permeate our activities and all our business.
+Learn more about our goals and outcomes 
+for 2014 on pages 16-17.
+Sustainability governance
+Sustainability initiatives are coordinated by Kristina Cato, Head of Communications and IR, with the help of a team of three annually selected CSR ambassadors, and are run operationally within our various regions. In addition to their regular work, CSR ambassadors are tasked with being involved in Cybercom’s sustainability work for a certain number of hours per week. Being an ambassador also includes providing information about Cybercom’s sustainability efforts and the Global Compact principles at different levels in the company. Together with the management, CSR ambassadors set annual objectives and lead the dialogue on what is essential for Cybercom in terms of sustainability and how we can use our power of innovation to create a positive difference.
+During the year, our three CSR ambassadors 
+Anna Benckert, Tarmo Pajunen and Karin Oling worked to develop anti-corruption training, to update Cybercom’s codes of business ethics and conduct, and to contribute to SOS Children’s Villages having a stronger interface with their donors. This is a project that started in Finland and has not yet been launched. It has been developed using open source. The web application allows donors to create their own social network of sponsors on a world map. 
+32
+Company Presentation and Sustainability Report
+Sustainability 
+in focusOne of Cybercom’s most important objectives 
+is to grow with good profitability while taking responsibility for how people, the environment and society are affected by our activities.SustainabilityOur business will contribute 
+to sustainable development 
+through, for example, cost 
+savings, more secure servic ­
+es and reduced use of finite 
+resources.We lay the foundation for 
+greater employee dedication 
+through an attractive work ­
+ing environment, good terms 
+and conditions, and opportu ­
+nities for interesting profes ­
+sional development.High ethical standards will 
+permeate our business and 
+our operations. Business eth ­
+ics are a standing item on the 
+management team’s agenda, 
+and something we work with 
+in all countries where we 
+operate.Sustainable 
+business
+See page 34 See page 36 See page 42Dedicated 
+employeesHigh ethical 
+standardsResponsibility is defined 
+in our commitment to the Global Compact, our code of conduct and in our sustainability goals.
+33
+Company Presentation and Sustainability ReportAreas of focus for sustainability
+Sustainability
+Connectivity is our business, and is about how 
+companies and organisations can benefit from the connected world and therefore improve their efficiency and profitability. For us, it’s also about sustainability - broader utilisation of Connectivity means that companies and organisations can save time and money by reducing transport, making better use of resources and using less energy. 
+Demand for more sustainable solutions 
+increased in 2014, and we see this as evidence that we are well positioned in a world facing huge environmental and social challenges and in which many companies are making more informed choices of suppliers and partners.
+Cybercom’s mission includes everything 
+from helping mobile network owners to reduce their energy consumption by optimis -
+ing their networks, to creating conditions for machine-to-machine communication, automation, remote control and paperless document management in the workplace. One example is our e-health services, with the public sector’s move towards e-services being important in saving time and enabling more help to be provided to more people, with re -
+duced environmental impact by saving paper and electricity. Increased standardisation of identification and authorisation are crucial, and now that a national unified e-identity is to be introduced for all citizens, Cybercom is playing an important role as a trusted advisor and development partner.
+Another key part of Cybercom’s offering is 
+managing client service platforms via cloud solutions and according to capacity utilisation. We conduct this work in a more energy efficient way than if each platform had its own server or each company operated its own servers.
+Our cloud service offers automatic ordering 
+of capacity as required, providing a level of flexibility that appeals to clients. Associated services such as support and development generate more business for Cybercom. Anoth -
+er important benefit experienced by clients is that data and content are stored in the Nordic countries, in accordance with regulations that are crucial for many companies and govern -
+ment agencies.
+A good example is our partnership with 
+Alma Media in Finland, which publishes the magazine Kauppalehti. Cybercom provides Kauppalehti with a flexible cloud solution that allows it to both scale up and scale down its virtual server capacity as needed, saving both money and resources because it never con -
+sumes more capacity than actually needed.
+34
+Company Presentation and Sustainability ReportSustainable society 
+through connectivity
+Our contribution to a more sustainable society is primarily about 
+providing innovative, secure and resource ­efficient solutions to 
+our clients, and therefore to their users and end customers.Sustainable business
+The Tillgänglig Bio app makes 
+it easier for people with visual 
+impairment or with reading 
+and writing difficulties, such as dyslexia, to go to the movies. It provides audio description 
+using an app, and the film 
+is described with dialogue through mobile earphones. 
+The Swedish Film Institute and 
+the National Post and Telecom Agency were commissioned by the government to encourage regular screenings in cinemas 
+with audio description and 
+spoken Swedish text. Cybercom was judged to be the company that best met the requirements 
+to develop the solution and, 
+together with Cybercom, they developed the technology 
+and framework that makes 
+Tillgänglig Bio possible. We have also created the VoiceVision app, available for free via Google Play or the App 
+Store. It can also be used at 
+home for movies through video on demand via a computer, television or tablet.
+“This is true democracy,” 
+said Sweden’s Minister for Culture and Democracy, Alice 
+Bah Kuhnke, at the launch, and 
+thanked everyone involved.
+Tillgänglig Bio 
+is democraticNumber of virtual meetings 2014Cybercom’s greatest potential lies 
+in influencing our clients through sustainable offerings, but of course we also work actively to reduce our own environmental impact.
+Air travel accounts for the larg -
+est portion of Cybercom’s carbon emissions, and we therefore want to reduce emissions from air travel by at least five percent between 2011 and 2015.
+Emissions increased slightly in 
+2014 compared with the previous year, but are at a lower level than in base year 2011. The reason that the number of flights increased in 2014 is that our international operations increased their sales and won more business over several continents.
+To reduce travel, Cybercom 
+invested in an IT-based communi -
+cation tool several years ago, with a view to replacing non-essential physical meetings with video conferencing. This has produced good results, and in 2014 more than 18,000 video conferences were held. Some other examples of measures taken to reduce our environmental impact are:
+• Old IT equipment is sold for 
+reuse or otherwise goes for 
+recycling.
+• Printers are set to duplex 
+printing, and employees are encouraged to work digitally.
+• Waste is sorted at source in the 
+offices.
+• We buy renewable electricity in 
+all countries except Poland. 
+Alongside Cybercom’s quality assurance and ISO 9001 certi -
+fication the company complies with ISO 14001 environmental certification. 
+The focus at the certified offic -
+es is to train personnel through a web-based course from Eco Edu -
+cate. An environmental survey is conducted every year and forms the basis of the company’s envi -ronmental efforts. In conjunction with the survey we conducted a test called the Climate Account. The Climate Account is intended to raise people’s awareness of their own individual climate im -
+pact in their daily lives, and how they can reduce it.Cybercom’s mission 
+includes everything 
+from helping mobile 
+network owners to 
+reduce their energy 
+consumption by opti -
+mising their networks, to creating conditions 
+for machine-to-ma -
+chine communication, 
+automation, remote 
+control and paperless 
+document manage -
+ment in the workplace.
+Cybercom’s  
+internal  
+environmental 
+efforts
+Carbon dioxide emissions from air  
+travel in relation to the company’s sales
+2014 2013 2012 2011
+Carbon dioxide emissions from air travel 
+(tonnes of CO²) 640 599 451 903
+Carbon dioxide emissions*  (tonnes of CO²/SEKm) 0.51 0.50 0.34 0.61
+35
+Company Presentation and Sustainability ReportSustainable business
+18,172
+*) Data excludes Cybercom Datamatics Information Solutions Ltd in India.
+36
+Company Presentation and Sustainability ReportThrough our employees’ great engagement, ex -
+perience and desire to develop, we have created 
+an innovative working environment that is based on community and curiosity about what we can improve. Based on our business goals and com -
+mon values, we have achieved an organisation in which continuous skills development, and clear and continuous feedback ensure a high level of motivation and a desire to get to grips with the work we have ahead of us.
+Boosting your performance
+Cybercom will increase motivation and engagement in all parts of the company. It is important that we create good conditions for each employee to be able to perform to the best of their ability, and to be able to develop in the right direction. Employees should be happy with us, they should have interesting assignments, be proud of their work, have confidence in their managers and experience a positive shared experience with their col -
+leagues. This requires leadership that is about getting teams and individuals to deliver maxi -
+mum value to our clients and thus also to us. 
+Through collaboration, we create an 
+exchange of experiences and knowledge between consultants, assignments and the various parts of Cybercom. In 2014, we relo -
+cated our operations in Stockholm and Turku to activity-based offices, where employees control how and where to perform their work. Work is an activity and not a specific place – and different environments create space for creativity and innovation. 
+Most of our employees have a high level of 
+education, and 90% have a university degree. But of course, we must continuously develop and learn more. We provide traditional training, but we place the greatest focus on learning in the workplace and innovation in the projects we run. Working at Cybercom should be a constant journey of development. Innovation is one of Cybercom’s core values, and time for innovation and practical exper- ience is made possible through Cybercom’s Fun Labs, our innovation rooms in which we constantly seek new ideas and solutions. 
+Employee learning is continuously moni -
+tored, and the majority still have an annual performance and development plan. We are working to change the nature of the perfor -
+mance dialogue from an annual conversation into multiple short conversations driven by the employees themselves – who of course have the best awareness of their own development needs. From managers using a controlled pro -
+cess to annually assess their employees indi -
+vidually on their performance, we are moving towards shorter feedback loops. During 2014, 82% (81) of employees indicated that they had an annual performance review. Passion as a  
+driving force
+It is employees with the right attitude and the right skills who create 
+loyal clients. Our ability to develop and retain key employees and to 
+attract new, qualified colleagues is an essential issue for our future 
+competitiveness. Dedicated employeesInnovation is one 
+of Cybercom’s core 
+values, and time 
+for innovation and 
+practical experience is 
+made possible through 
+Cybercom’s Fun Labs, 
+our innovation rooms 
+in which we constant -
+ly seek new ideas and 
+solutions.
+37
+Company Presentation and Sustainability ReportDedicated employees
+A journey of positive change 
+Cybercom began a journey of change in 2012 
+as the company’s growth and profitability were unsatisfactory. The plan was adjusted slightly in 2014, with positive results, and the company’s employees have all helped to strengthen profitability. The recurrent em -
+ployee survey, Cybercom People Voice, is an important tool for measuring how employees view the development process, their work, their employer and their work situation. The 2014 survey yielded a good response, and showed clear improvements. Employee pride in Cybercom increased by ten percent, the willingness to recommend Cybercom increased by eight percent, and employee engagement increased by seven percent com -
+Cybercom’s three core values:
+123Innovation
+We are innovative in the way we work and embrace new technology. We are results-oriented and always add value to the business. We are always in the forefront, we question, chal -
+lenge, move boundaries and change industry standards.Passion
+We are driven by a genuine passion and are proud of what we achieve. We are the gurus of our niches and always willing to go the extra mile to improve performance and enhance our clients’ businesses. We deliver assured quality, on time and within budget.Trust
+We generate trust and confi -
+dence among our colleagues and clients by using common sense, clear thinking and doing what we say – always with respect for each other.pared to the survey conducted in 2013. Our employees can envisage clearer career paths than previously. This is important to us, but we can do even better. Our employee motivation index added up to 610 of a possible 1,000, which is a good increase from the previous year (583) and a step towards our goal of 700.For the second consecutive year, Cybercom has ranked top 
+in the industry in terms of the gender equality of its board and management. This will hopefully have a ripple effect and help us to increase the proportion of women at all lev -
+els of the company. Learn more about the AllBright Report and their important work at www.allbright.se.
+36% 33%Percentage of women at Cybercom Group
+Executive  
+managementBoard
+38
+Company Presentation and Sustainability ReportDiversity – the best ingredient
+Today, IT accounts for the largest share of labour immigration in Sweden. Cybercom has a broad recruitment base of experts with an international background and skills. This is one reason why the UN Secretary-General Ban Ki-moon visited Cybercom in May 2014. We want to offer our employees a stimulating and engaging working environment, with equal career opportunities for all. Our am -
+bition is that both genders are represented at every level in the organisation. We are therefore striving to achieve gender balance in management ranks and more female consultants, as well as broader diversity in general. One confirmation that we are on the right path is the latest AllBright Report, which shows that Cybercom is the best in the IT industry in terms of gender equality. Our management team consists of 36% women, against the industry average of 14%, and the board comprises 33% women against the industry average of 26%. 
+Percentage of employees with a university degree
+Average length of employmentAverage experience
+Average ageHR key figures 2014 Best in the industry
+90%
+4years11 years
+38 yearsAt the end of the year the number of employ -
+ees in the group was 1,307 (1,267), of which 
+17% (16) were women. Female managers made up 29% of the total. One of our recruitment goals for 2015 is to increase the proportion of women in Cybercom. The aver -
+age age at Cybercom is 38. We wish to be an attractive workplace for younger employees, and in 2014 we took on 170 new colleagues under the age of 30. 
+It should be possible to combine a career 
+with parenthood, and of course we encourage both men and women to take the opportunity to take parental leave and be at home to care for their children. In Sweden and Finland, employees are given the economic capacity to take parental leave through the parental supplement, which means that the employ -
+er reimburses up to a certain proportion of monthly salary. During the year, a total of 105 employees were on parental leave, of which 86 men and 19 women.Dedicated employees39
+Company Presentation and Sustainability ReportDedicated employeesOur ability to develop 
+and retain key employ ­
+ees and to attract new, qualified colleagues is 
+an essential issue for our 
+future competitiveness.’’Average hours of training per  
+employee per year
+ 2014  2013  2012
+Women 26 14 n/a
+Men 22 30 n/a
+All employees 22 27 29   Training hours
+40
+Company Presentation and Sustainability ReportDedicated employees
+Future skills
+Over 60% of our employees are located 
+in Sweden, which in many respects is a leading and innovative country in IT, but this advantage could disappear if we do not act. Since the start of the millennium, the number of registered students in engineering programmes has decreased by 22% and the number of graduating engineers by 15%, according to a report from the Swedish Asso -
+ciation of Graduate Engineers. For this reason, Cybercom works with various local initiatives to attract young people to choose engi -
+neering courses and to attract those trained engineers to us. 
+The initiatives we have worked with include:
+• Collaboration with Malmö University on 
+a project called “Internet of Things and People” (http://www.mah.se/iotap). The benefit to Cybercom is increased knowl -
+edge in the field that can also be used for business development. 
+• Partnership with Universeum in Gothen -
+burg to get young people curious about technology in an enjoyable way. Cybercom tags the animals with tiny Bluetooth® Low Energy (BLE) transmitters and visitors can use an app to see where a particular animal is. Several other technology projects are ongoing.
+• In Gothenburg, we participate in a contest 
+for eighth-graders, called Next Up. Ten different schools are involved with the com -
+petition, intended to inspire young people, particularly girls, in the long term towards studies and career choices that lead to a future in the IT sector. Next Up is a collabo -
+ration with Swedish IT & Telecom Industries and Universeum. 
+• Because of a labour market shortage of Java 
+skills, we drew up guidelines in 2014 for a new Java Academy. Cybercom’s Java Acad -
+emy will be launched in 2015 and involves clients, partners and training providers.
+• We organise a well-known and popular 
+competition every year in Poland for pro -
+gramming students, called Mastercoder.
+• The Mobile Academy is also an initiative 
+in Poland where our consultants provide lectures on iOS, Android and WP.
+• All parts of our business take on summer 
+workers and students for degree projects. Quite often these degree projects result in employment.
+Cecilia Westerholm BeerHead of HR at Cybercom 
+Employees at Cybercom 2014 2013
+Total number of  
+employeesEmployees 
+(number)Percentage 
+womenEmployees 
+(number)Percentage 
+women
+Sweden 825 19% 794 19%
+Finland 250 11% 244 11%
+Poland 167 17% 134 13%
+India 31 29% 48 19%
+Singapore 19 11% 23 9%
+Denmark 15 7% 24 12%
+Total number of  employees 1,307 17% 1,267 16%
+Staff turnover 2014 2013 2012
+Employees 
+(number)Percentage 
+womenEmployees 
+(number)Employees 
+(number)
+New recruitment during the year
+   Under 30 years 170 16% n/a n/a
+   30–50 years 151 20% n/a n/a
+   Over 50 years 11 18% n/a n/a
+Total number of new 
+recruits 332 18% 243 250
+Percentage of new recruits 25% 19% 19%
+People who left during the year
+   Under 30 years 75 12% n/a n/a
+   30–50 years 174 14% n/a n/a
+   Over 50 years 30 23% n/a n/a
+Total number of  
+departures 279 15% 312 481
+Percentage who ended employment 21% 25% 36%Sick leave
+Percentage of sick leave for each country (%) 2014 2013
+Sweden 2.3% 1.9%
+Poland 2.4% 1.7%
+Denmark 1.8% 5.6%
+Finland 2.6% 2.1%
+India 3.0% 4.6%
+Singapore 0.1% 0.1%
+Average Cybercom 2.4% 2.0%
+Cybercom had nine reported work-related accidents in 2014. All were minor incidents.Dedicated employees
+41
+Company Presentation and Sustainability Report42
+Company Presentation and Sustainability ReportResponsible 
+business
+High ethical standards should permeate our business and our 
+operations. Our actions are governed by our code of conduct 
+in all countries in which we operate, and business ethics are a 
+standing item on the agenda of the management team.High ethical standards
+Our actions
+According to the Human Rights Watch World 
+Report 2014, which describes the risk of human rights violations in different countries, there remains a risk in the United Arab Emir -
+ates (Dubai), including restrictions on free ex -
+pression and association. The risks in India and Singapore are related to discrimination based on gender, cast (India) or sexual orientation. 
+We make use of the Business Anti- 
+Corruption Portal, developed by a number of European governments and a practical tool to help companies avoid and combat corruption, thereby creating a better business climate. The portal suggests that bribery and corruption are widespread in India, although efforts are being made to combat this. Of the Eastern European countries, Poland has made the most progress in the fight against corruption.
+Since Cybercom requires that the organisa -
+tion be imbued with high ethical standards, our employees must, from 2014, complete an online course on anti-corruption. The training includes our code of business ethics and conduct, as well as various possible dilemmas to consider. It was launched in December and 480 employees have completed the course, including all of Cybercom’s board and management. The course has received very positive feedback from participants, and there is substantial commitment to the issues. Cybercom has not experienced any cases of corruption in 2014.
+Cybercom’s code of conduct is based on 
+the principles of the UN Global Compact on human rights, labour, the environment and anti-corruption. It was adapted in 2012 to also apply to suppliers. In 2014, we continued our efforts to get all our partners and suppliers to sign our code of conduct and to monitor compliance with the code. The company’s partner consultants and suppliers receive the code appended to the agreement they sign. Cybercom’s monitoring of this differs in the various businesses, and so far the company has not managed to implement uniform monitoring. There will be greater focus on this in the coming year. See the code of conduct in brief on page 45.
+Information security
+For Cybercom, information security means our ability to ensure the necessary confiden -
+tiality, integrity and availability of our internal systems and information, and the systems and information of our clients. Cybercom’s systems and clients’ systems should be managed in a safe manner and the effect of any security incidents should not risk serious damage to our own business or the business of our clients. We have worked systemat -
+ically with information security for many years. The starting point is the information security policy issued by management, which is reviewed and verified annually. Work on information security is planned, implemented and monitored by a designated security group with clear descriptions of responsibilities and mandates. The security group works with the principle of distributed responsibility. Cyber -
+com Sweden’s Chief Security Officer (CSO) has overall responsibility for the planning, implementation and monitoring. The actual work on information security is then divided into five different areas: overall information security; work related to HR; work related to premises and physical security; work related to IS/IT; and work associated with the various management functions. Our CSO is directly responsible for the work in the two areas of overall information security and the manage -
+ment functions.
+Employees support  
+Swedish Childhood Cancer  
+Foundation
+Cybercom works together with 
+the Swedish Childhood Cancer 
+Foundation. Through an agree -
+ment with SEB Eurocard, Cybercom 
+donates SEK 135 for each credit card 
+Cybercom’s employees use during 
+the year. In 2014 the total  
+number of cards was 407.Since Cybercom 
+requires the organi -
+sation to be imbued with high ethical 
+standards, our em -
+ployees complete an online course in our 
+code of business ethics 
+and conduct, and in 
+anti-corruption. At the end of the course they 
+are given different 
+possible dilemmas to 
+consider.
+43
+Company Presentation and Sustainability Report
+High ethical standards
+Our Head of HR is responsibe for the area 
+of HR, the office manager is responsible for 
+premises and physical security and the Head of IS/IT is responsible for the area of IS/IT. For assignments where Cybercom has a delivery responsibility, a dedicated security officer is always appointed. 
+Cybercom’s efforts to ensure information 
+security are based on our guidelines for infor -
+mation security. The work is monitored and evaluated through both internal and external audits.
+Client privacy
+A connected world makes it possible for people and businesses to create, process, share and distribute information in new and innovative ways. In order to protect the privacy of employees and clients, Cybercom works actively to ensure compliance with the Swedish Personal Data Act within the com -
+pany, and we help our clients to understand the responsibility they have in their role as controller of personal data if they purchase services from Cybercom and Cybercom is a personal data assistant.
+Collaboration with 
+SOS Children’s  
+Villages
+Cybercom implements assignments 
+for clients in many places in the world. In Rwanda, we are helping an opera -
+tor with mobile networks. Mobility in developing countries enables entrepre -
+neurship among disadvantaged people, and access to the internet contributes to the dissemination of knowledge. By supporting SOS Children’s Villages in Rwanda, we can contribute to children’s education in a country where we have ongoing projects. The partnership has been ongoing since 2010, and Cyber -
+com annually contributes to the work of this organisation. The donation in 2014 was some SEK 500,000, which goes specifically to a school and its computer lab in Ginkongoro.Company visits in 
+a sustainable spirit
+The Swedish Institute organises visits 
+to firms in Sweden for foreign com -
+panies. In 2014, it chose Cybercom to host a visit by senior executives from African companies and government agencies. The five representatives visited Cybercom to gain knowledge of trends and developments and to discuss opportunities in African mar -
+kets in areas such as connectivity and sustainability as an integral business concept.
+www.simanagementprogram.com www.sos ­barnbyar.seFrom the chairman of the board
+Cybercom’s business 
+concept is based on sustainability
+Sustainable business is fundamentally about 
+taking long-term responsibility for how we affect the world around us. We are certain that this generates greater economic value for Cybercom and therefore also for our em -
+ployees, clients and shareholders. Cybercom is a modern and innovative company with a focus on sustainability. We strive constantly to implement internal innovations and improve -
+ments in the areas we can influence, such as by reducing CO² emissions from travel by 
+holding more meetings digitally. We also wish to be active in civic dialogue and to get more young people interested in technology courses. This is important for our future. 
+Although our own operations do not have 
+much impact on the environment, we have a unique opportunity to contribute to a more sustainable world. With Connectivity as our platform, we help our clients save both money and resources, while reducing their environ -
+mental impact through, for example, reduced transport, better use of resources and lower energy consumption. Cybercom’s assignments may involve, for example, helping mobile net -
+work owners to reduce energy consumption by optimising network usage, or automating and remotely controlling systems for more low-resource utilisation. 
+Among our ten largest clients, approximate -
+ly 27% of our assignments have contributed to improved sustainability through cost savings, enhanced efficiency or reduced utilisation of the earth’s resources. Through an increased focus on awareness and by taking an active stance, we can eventually make a bigger difference ourselves, and also affect our world positively. We work with SOS Children’s Villages and we support their work with young people in Rwanda to ensure that children have a safe and secure child -
+hood. This means that we also contribute to knowledge development in a country where we have clients and ongoing projects, and this feels meaningful. The greater the opportuni -
+ties for education in all corners of the world, the greater the opportunities that we can together create a world in which sustainabili -
+ty, long-term thinking and responsible use of resources are central to citizens, cities, gov -
+ernment agencies and companies. Together with Universeum in Gothenburg, for example, we are conducting innovative activities to raise young people’s interest in science and technology.
+’’
+   Hampus Ericsson, Chairman of Cybercom
+44
+Company Presentation and Sustainability Report1. Comply with laws,  
+rules and regulations
+All Cybercom employees are respon -
+sible for acting in compliance with 
+laws and regulations applicable to Cybercom’s operations and deliveries. 
+In the event of an individual issue de -
+manding it, they will seek legal advice. 
+Cybercom applies the Swedish Code 
+of Corporate Governance. Cybercom’s 
+share is admitted to trading on the NASDAQ Stockholm exchange, and Cybercom follows the Rule Book 
+for Issuers, NASDAQ Stockholm. 
+Cybercom presents and reports corporate information in compliance 
+with applicable laws and regulations, 
+including the International Financial Reporting Standards (IFRS).
+2. Human rights
+Cybercom respects human rights as laid down in UN conventions. Every -
+body in the organisation must show respect for the integrity and dignity of all people. Cybercom will not in any way contribute to the violation of 
+human rights. 
+3. Labour law and working  
+conditions
+Cybercom supports freedom of 
+association and the right to collective bargaining.
+Cybercom does not permit child 
+labour. Cybercom applies the principle that a child is a person younger than 
+15 years of age unless national leg -
+islation states an older age, in which 
+case the older age applies. Cybercom applies the definition of child labour 
+as laid down by the International 
+Labour Organisation (ILO).
+Cybercom does not tolerate any 
+forms of discrimination. All employees have equal rights and must never be subjected to unjust treatment due to gender, sexual orientation, ethnic 
+origin, religion, beliefs, political 
+affiliation or disability. All employees must show respect for each other and 
+for Cybercom’s business partners and 
+will take responsibility for combating discrimination. Cybercom works unabatedly to combat discrimination. 
+This permeates the company’s policies 
+and processes during, for example, recruitment, setting of wage rates, 
+and skills enhancement. 
+Cybercom offers salaries that 
+comply with the minimum wage, 
+as laid down in national legislation, 
+with correctly prepared employment 
+contracts. Cybercom also ensures that working hours are compliant with 
+local legislation. Cybercom seeks to 
+give all employees time for rest.
+Cybercom shall not in any way 
+utilise forced labour and will always 
+ensure that the working relationship 
+between employee and organisation is at the employee’s own free will.
+4. Health and safety
+Cybercom shall provide a healthy and safe workplace in compliance with 
+internationally acknowledged stand -
+ards. Cybercom works proactively to 
+prevent accidents and work-related 
+illnesses. All employees are offered 
+health and safety training when and if required.
+5. Environment
+Our aim is to minimise the compa -
+ny’s negative environmental impact. 
+Cybercom respects the precautionary 
+principle and seeks to actively contrib -
+ute to reducing negative environmen -
+tal impact through responsible meas -
+ures and technological advancement. Cybercom always acts in compliance with laws and internationally recog -
+nised directives. 6.  Corruption and other prohibited 
+business practices
+Cybercom complies with the Swedish 
+Anti-Corruption Institute’s Code of 
+Gifts, Rewards and other Benefits 
+in Business, and works actively to combat corruption and unethical practices. Employees must not give 
+or receive gifts, benefits or bribes 
+that constitute a breach of this code. Cybercom is politically independ -
+ent and does not sponsor political organisations. Cybercom is opposed to any form of money laundering and has taken the relevant measures to 
+prevent financial transactions that are 
+of criminal intent.
+7. Promote accurate disclosure in 
+financial reports and other public 
+communications
+Cybercom shall be transparent and 
+provide relevant information when 
+so required. This means that the company shall always provide fair and 
+correct information. Cybercom’s goal 
+is for all communication to contribute to a stronger brand.
+8. Properly use company assets and 
+confidential information
+All business decisions shall be made 
+with the good of the company 
+in mind. All consultants will be professional in their relationship with Cybercom and will not pursue 
+competitive activities.
+Client trust is of vital importance 
+to Cybercom. All employees will treat client information in complete 
+confidentiality. Information about Cybercom’s clients may only be used in the implementation of the project 
+in question. This confidentiality 
+remains in force even after the project has been completed. Cybercom has 
+clear guidelines for the handling of 
+confidential information. 
+45Code of conduct
+Cybercom’s code of business ethics and conduct is based 
+on the UN Global Compact and its principles on human 
+rights, labour, the environment and anti ­corruption. The 
+code was introduced in 2004 and has over the years been adapted to the world we live in. Cybercom’s board reviews 
+the code annually. In 2012, a code was also drawn up for 
+Cybercom’s suppliers to sign. Code of  
+conduct in  
+brief
+9. Protect our clients’ and partners’ 
+confidential and patented 
+information
+Cybercom requires all employees to 
+sign a confidentiality agreement in accordance with Cybercom’s security 
+policy. There are clear rules for the 
+handling of, and access to, material belonging to Cybercom. 
+10. Take a professional pride in the 
+consultancy role
+Freedom with accountability and 
+focus on the individual are important 
+contributory factors in Cybercom be -
+ing able to attract highly skilled staff. 
+Cybercom seeks to offer all employees 
+the opportunity for personal and pro -
+fessional development. A workplace that is open, creative and flexible sets 
+the course for being able to offer 
+clients professional and attractive products and services.
+To sum up, Cybercom shall always 
+conduct itself ethically in its dealings 
+with all its stakeholders. Cybercom shall be characterised by profession -
+alism and integrity. Cybercom’s code of conduct is available in full at www.cybercom.com. Company Presentation and Sustainability ReportFrom words to action
+NYHETERTORSDAGEN DEN 11 DECEMBER 2014
+Är det jobbigt att hantera 
+mjukvarulicenser?
+Kritiken mot mjukvaruleverantörernas 
+licenser har puttrat länge. Hur upplever du det?ENKÄT
+Hans Lyttkens, i t-strateg, Region Gotland:
+Det är jobbigt och blir bara värre. Till att 
+börja med har varje leverantör sina egna 
+licensvillkor. Det krävs en lagbok för varje, 
+vilket är oerhört frustrerande. Det är svårt 
+att göra rätt. Leverantörerna jagar oss med 
+blåslampa trots att vi är deras kunder. De 
+skickar en juridisk instans från utlandet som 
+kommer hit för att få in pengar. 
+Bengt Sjöberg, regional it-chef, Cloetta Sverige:
+Nu jobbar jag inte längre med licenser själv , 
+sedan två år tillbaka. Men det är jobbigt.
+Om man inte har ett enterpriseavtal är han-
+teringen fruktansvärt besvärlig. Jag har varit 
+inblandad i licensdiskussioner som slutat 
+med att det kostat pengar för min arbetsgiva-re. Det kan vara att tekniker som inte förstått 
+hur licenserna fungerar har installerat mjuk-
+vara. Oracle är en extra besvärlig leverantör.
+Britta Sandblom, it-strateg, Sollentuna kommun:
+Det är jobbigt för att det tar tid att hantera 
+dem. Det blir en hel del administration om 
+man inte har något verktyg för att sköta det. 
+Ett problem är att man köper licenser på 
+olika platser. Det är svårt att hålla reda på 
+dem. Vi har nyligen utbildat en person som ska optimera vår licensanvändning, men har 
+ännu inte hunnit se om det får någon eﬀ  ekt.
+Roland Persson, cio och cfo, Sydved:
+Vårt företag ingår i en koncern som sköter 
+mycket av licenshanteringen. Men det är väl-digt jobbigt om man ska sköta det själv . Man har klart för sig hur det fungerar när man köper en licens. Sedan går det två tre år och 
+så försöker man komma ihåg ...
+Thure Holmström, it-chef, Arjeplogs kommun:
+Det är jobbigt. Leverantörerna förändrar 
+villkoren nästan hela tiden. Då blir vi tvung-na att utreda hur det påverkar oss. Det blir 
+komplicerat om man till exempel vill skaﬀ  a 
+ännu en dator. Man blir överraskad över de 
+jätte texter som beskriver licenserna. Det krävs 
+en riktigt erfaren jurist för att förstå dem.
+LARS DANIELSSON
+lars.danielsson@idg.se
+120 Ica-anställda tar steget till InfosysMARKNADSANALYS.
+Indiska konsultjätten Infosys tar 
+affären när Ica-gruppen skalar upp 
+sin it-outsourcing. 
+Ica-gruppen räknar med att sän-
+ka sina kostnader med 75 miljoner 
+från 2016 när de outsourcar  delar 
+av sin it-verksamhet till den indis-
+ka it-leverantören Infosys.
+Infosys är ett av de globala indiska
+it-konsultbolag som under de 
+senaste åren börjat göra sig allt 
+mer gällande också på den nord-
+iska marknaden.
+Ica uppger att outsourcingen berör både infrastruktur och appli-
+kationer, oc h att unge fär 120 perso-
+ner inom Ica Gruppen och Ica Sve-
+rige kommer att erbjudas jobb hos 
+Infosys. Åtgärden innebär omställ-
+ningskostnader under 2015, men 
+ska sedan sänka kostnaderna med 
+ungefär 75 miljoner kronor från 
+2016.
+Förutom kostnadsbesparingar
+väntas outsourcingen också ge 
+bättre förutsättningar för aﬀ  ärs-
+utvecklingsprojekt inom it.
+– Att vi nu skalar upp outsour-
+cingen är ett viktigt steg i utveck-lingen av vår it-verksamhet. Med 
+en kraftfull och duktig it-partner, 
+som kan vår miljö, skapar vi större 
+ﬂ exibilitet vid nya aﬀ  ärskrav , klarar 
+lättare av snabba och stora omställ-
+ningar och kan bättre stötta aﬀ  ä-
+ren i deras verksamhetsutveckling, 
+kommenterar Sven Lindskog, cfo 
+på Ica Gruppen.
+Affären innebär att Ica ökar 
+andelen outsourcing från 20 pro-
+cent till 40 procent. 
+MATTIAS MALMQVIST
+mattias.malmqvist@idg.seKompetensbrist gäckar 
+konsulter inför 2015
+Det råder försiktig optimism inför 
+2015 hos de svenska it-konsult-
+bolagen. Hälften tror på ett bättre 
+marknadsklimat. Prispress och 
+kompetensbrist fortsätter gäcka 
+branschen.
+Analysföretaget Redeyes årliga 
+undersökning av den svenska it-
+konsultmarknaden kan samman-
+fattas i en försiktig optimism inför 
+2015. 53 procent av bolagen tror att 
+marknadsklimatet blir bättre 2015 
+jämfört med året före. 47 procent 
+tror att det blir lika, vilket alltså 
+innebär att inget av de 30 konsult-
+bolag som deltar i undersökningen 
+tror på sämre tider. 
+De största utmaningarna för 
+konsultbolagen är prispress, svårig-
+heter att rekrytera personal samt 
+att kunderna ﬂ  yttar utomlands. Allra största utmaningen är 
+svårig heten att rekrytera personal 
+(47 procent).  Den svår igheten har 
+ökat under senaste året. 
+De tjänsteområden med bäst 
+efterfrågan är mobila lösningar, 
+beslutsstöd samt systemutveckling. 
+Svagast efterfrågan ﬁ  nns inom test, 
+kundrelationshantering och drift.
+OM MAN KOLLAR  på branscher råder 
+starkast efterfrågan inom myndig-
+heter, följt av handel och ﬁ  nans. 
+Det har också vänt för telekom-
+sektorn, som under ﬂ  era år varit 
+det segment med svagast efter-
+frågan.  
+Däremot har fordonsindustrin 
+backat. 
+– Att det är myndigheter som står 
+för den starkaste efterfrågan inne-
+bär också att det är Stockholm som 
+rent geograﬁ  skt är dragloket nu, 
+kommenterar Niklas Flyborg, vd 
+på Cybercom.
+I övrigt kan konstateras från 
+undersökningen att konsult-priserna väntas öka med 2,0 pro-
+cent under 2015, men att lönerna 
+samtidigt ökar med 2,9 procent, 
+vilket innebär att det fortsatt ﬁ  nns 
+risk för marginalpress. 
+– Jag tror inte vi ska förvänta oss 
+att priserna går upp, men vi kan 
+alltid göra mer, vi kan eﬀ  ektivi-
+sera vår verksamhet, säger Niklas 
+Flyborg. 
+Förvärven under åren var 
+anmärkningsvärt få, förutom stor-
+aﬀ ären då Acando köpte Connecta. 
+Annars var det bara Addnode och 
+Semcon som genomförde förvärv 
+under året. Det är en utveckling 
+som enligt undersökningen vän-
+tas fortsätta. Bara två av tio bolag 
+väntas göra förvärv under 2015. 
+ACANDOS VD  Carl-Magnus Månsson 
+utesluter dock inte nya förvärv , 
+även om det inte blir i den stor-
+leksordningen.
+– Vi har varken fått blodad tand 
+eller blivit avskräckta. Mindre för-
+värv kan komma i fråga.  mattias.malmqvist@idg.seMATTIAS
+MALMQVIST
+xx Cybercoms vd Niklas Flyborg tror inte på stigande konsultpriser nästa år, vilket Redeyes analys förutspår.
+Redeyes 
+undersökning
+30  it-konsultbolag 
+har deltagit i enkäten, 
+vilket motsvarar bolag 
+med ungefär 11 000 
+anställda konsulter. Det 
+är fj ärde året som 
+Redeye genomför sin 
+konsultundersökning.FAKTA
+75
+miljoner kronor  vän-
+tar sig Ica-gruppen 
+spara årligen på att 
+outsourca it-
+verksamheten.SIFFRAN11
+24 Aktuell Säkerhet 8 – 2014– Vi vill justera spelplanen, som nu lu -
+tar åt fel håll. Grundproblemet till de 
+flesta säkerhetsproblem vi ser handlar 
+inte om dålig teknik. Det handlar om 
+att man inte ställer rätt säkerhetskrav i 
+sina IT-upphandlingar, säger Bengt Berg, 
+affärsutvecklare hos Cybercom. 
+I början av november lanserade man 
+Upphandlingskollen, som ger myndig -
+heter och företag 100 handfasta förslag 
+på säkerhetskrav man kan använda i sina 
+upphandlingar.
+– Jag har varit branschen i 20 år och ser 
+fortfarande samma brister i upphandling -
+ar. Idag premieras de som inte levererar 
+säkra lösningar. För de kan ge kunden ett 
+lägre pris, eftersom kunden inte efterfrå -
+gat säkerhet i sin upphandling.
+För alla
+Förhoppningen med Upphandlingskollen 
+är att hjälpa upphandlare att hitta rätt 
+nivå på säkerheten. Det är anledningen 
+till att man valt att göra den här sats -
+ningen gratis och ett verktyg som alla kan 
+använda, såväl kunder som konkurrenter.
+– Vi kommer ha två träffar varje år, då alla som använder sig av Upphandlings -
+kollen är välkomna. Vi ser det här som 
+ett långsiktigt projekt. Alla tjänar på att säkerheten blir bättre över lag. 
+Vid dessa träffar är användarna väl -
+komna med återkoppling, för att pro -
+grammet ska vara 
+aktuellt behöver det 
+uppdateras. Det kom -
+mer att ske två gånger per år. 
+– Men vi kommer 
+hålla oss till cirka 100 
+kravförslag, för den ska vara lätt att an -
+vända. Därför vill vi 
+inte att den ska svälla 
+mer än så. Men det var verkligen en utmaning 
+att stoppa vid 100 krav -
+förslag.
+I flera länder
+Cybercom finns idag 
+i sju länder, och har 
+cirka 1 300 anställda i 
+Sverige, Finland, Dan -mark, Polen, Indien och Dubai. Upp -
+handlingskollen finns i alla länder, i nu -
+läget finns den på svenska och engelska. 
+– Alla efterfrågar säkra lösningar. Men 
+den som upphandlar måste formulera 
+sina krav omsorgsfullt. Om du använder 
+en cykel för att ta dig fram, då är rätt 
+säkerhet en cykelhjälm. Tar du dig istället 
+fram med ett flygplan behöver du en fall -
+skärm. Men när upphandlare misslyckas 
+med att ställa bra säkerhetskrav får de en 
+cykelhjälm till flygplanet, för den är bil -
+ligare än en fallskärm. Vi ser många fall 
+där köpare får med säkerhetslösningar 
+som inte ens löser grundproblemet Cybercom vill hjälpa världen med säkrare IT, och lanserar 
+därför Upphandlingskollen. Ett kostnadsfritt stöd som såväl företag som myndigheter kan använda för att ställa 
+bättre krav på säkerhet i sina upphandlingar.
+Text och foto: Jenny PerssonBengt Berg, Cybercom
+”Måndagsexemplaren måste bort från marknaden”
+Det är mer kostnadseffektivt att investera i säkerhet i upphand -
+lingsfasen av IT, jämfört med att göra det för ett system som 
+redan tagits i drift. Grafen illustrerar hur mycket säkerhet man 
+får per investerad krona, beroende på vilken fas av IT-livscykeln man väljer att investera i säkerhet.
+Det är svårt att ställa 
+rätt krav på säkerhet i 
+IT-upphandlingar, därför har 
+Cybercom satsat på Upp -
+handlingskollen. Handfasta tips som alla kan använda 
+utan kostnad.
+Computer Sweden  
+Cybercom’s CEO Niklas Flyborg 
+on skills shortages faced by con ­
+sulting firms – and by extension the entire IT industry – and what 
+needs to be done to reverse the 
+trend. 
+Östersunds ­Posten  
+About Deler Abdalaziz, who re ­
+ceived an internship at Cybercom through a project for foreign ­born 
+graduates. He was offered perma
+­
+nent employment after only a few days of the internship.Aktuell Säkerhet   
+Cybercom’s Bengt Berg on the Procurement Check project, 
+launched by Cybercom in 2014 to 
+help businesses and government agencies to specify better securi
+­
+ty requirements in procuring IT.
+46
+Company Presentation and Sustainability ReportCybercom’s voice in public debate
+Cybercom’s am ­
+bition is to be an 
+active voice in the 
+media that puts forward both the 
+company’s and the 
+industry’s interests on various issues. 
+This is a selection 
+of articles that Cybercom has  
+participated in over the past year.Gamla skrotdäck blir bränsle
+Scandinavian Enviro Systems, som ska till First North i juni, 
+har fått sin första order.
+Bolaget har, enligt uppgift till Di, tecknat en avsiktsförklaring 
+med ett kinesiskt företag som ska köpa en  anläg gning som 
+producerar kimrök, olja, gas och stål genom återvinning av 
+fordonsdäck. Processen är mycket lönsam.  (Di) FN:s generalsekreterare 
+Ban Ki-Moon  diskuterade 
+under sitt besök i Stock -
+holm i går bland annat arbetskraftsinvandring 
+med statsminister Fredrik 
+Reinfeldt. 
+De besökte även konsult  -
+bolaget Cybercom.
+”Vi fick en förfrågan om att ta 
+emot generalsekreteraren och 
+statsministern för tio dagar 
+sedan. Vi tvekade inte en sekund att tacka ja” , säger 
+Cybercoms vd, Niklas Flyborg. 
+Cybercom är ett it-konsult -
+bolag som är högst beroende av arbetskraft från andra län -
+der. Syftet med studiebesöket 
+hos företaget var att ge en 
+inblick i det svenska systemet för arbetskraftsinvandring.  
+Vad betyder besöket för 
+före taget?
+”Det är väldigt viktigt för 
+hela branschen att vi får fram -
+föra att det både finns utma -
+ningar och möjligheter i att 
+anställa arbetskraft från andra 
+länder” , säger Niklas Flyborg.
+Cybercom säger sig vara 
+”gränslösa” gällande arbets -
+kraft. De anställer folk från 
+hela världen då företagets 
+uppdrag ofta sträcker sig 
+utanför Sveriges gränser.
+EMMA ANDERSSONFN-toppen i Sverige
+MÖJLIGHETERNAS MÖTE. FN:s generalsekreterare Ban Ki-Moon besökte, tillsammans med 
+statsministern, Cybercom och hälsar på Sergiy Kapustin invandrad från Ukraina. I bak  grunden  
+skrattar Patricio Barrientos Rossi, född i Chile.  FOTO: JACK MIKRUT 
+Norman hoppas 
+hitta SAS-köpare
+Det är för tillfället inte 
+aktuellt med en försälj -
+ning av SAS. 
+Det uppger finansmark -
+nadsminister Peter Nor -
+man, som däremot inte vill 
+kommentera förra veck -
+ans vinstvarning från  
+statens flygbolag.
+I förra veckan sänkte SAS sin 
+resultatprognos med upp -
+emot 1 miljard kronor och 
+flaggade samtidigt för nya 
+besparingar. Slutsatsen är att 
+de kraftfulla åtgärder som vid -
+togs i slutet av 2012, då SAS var konkursmässigt, inte 
+räcker. Den nya affärsplanen 
+4XNG, som skulle göra flyg -
+bolaget lönsamt, ser inte ut att 
+leva upp till styrelsens högt 
+uppskruvade förväntningar.
+Annat läge i dag
+Även hos regeringen, som 
+representerar statens 21-pro -
+centiga ägande i SAS, var  
+förhoppningarna stora på 
+SAS räddningsplan från 2012. 
+Finansmarknadsminister 
+Peter Norman (M), som är 
+ansvarig för statens bolag, 
+tyckte då att planen ”var mer 
+radikal och konkret” än tidi -
+gare. 
+”Det borgar för att det borde kunna leda till ett kon -
+kurrenskraftigt bolag” , sa han när den nya affärsplanen pre -
+senterades.
+I dag vill Peter Norman inte 
+kommentera hur konkurrens -
+kraftigt han bedömer att SAS har blivit sedan dess.”Det är en fråga för bolaget. 
+Det är ingenting för ägaren att 
+diskutera, utan den frågan får 
+du ställa till verkställande direktören eller styrelsen” , 
+säger han till Di.
+Som ägare måste ni ändå ha 
+haft förhoppningar på den plan som lades och de åtgär -
+der som vidtogs. Hur har dessa förhoppningar  
+infriats?
+”Vi tyckte att styrelsen och 
+bolaget och de fackliga orga -
+nisationerna tog ett stort 
+ansvar i den processen. Men hur resultatutvecklingen för 
+bolaget har gått, det är ingen -
+ting som jag tycker att det är 
+rimligt att ägaren kommente -
+rar.”
+Försäljning långt borta
+En konkret förhoppning var 
+att den nya affärsplanen 
+skulle göra det möjligt för sta -
+ten att sälja SAS. Men på den 
+fronten ser det inte mycket lju -
+sare ut.
+”Det är inte aktuellt för till -
+fället, men jag hoppas att vi kommer att hitta köpare för SAS också” , säger Peter Nor -
+man.
+MARTIN REX
+martin.rex@di.se
+08-573 650 55INTE AKTUELLT ATT SÄLJA 
+SAS – NU. Finansmarknads -
+minister Peter Norman.   
+FOTO: JONAS EKSTRÖMER 
+Di den 9 maj.Flytta 
+     på 
+      dig
+Nytt boende? Våra tjänster 
+gör det enkelt för dig att sälja. 
+Och sedan hjälper vi dig hitta 
+nytt. Börja på HittaHem.se
+i samarbete med 
+VARD 10–18.30, LÖRD 10–16
+SÖND 25/5 12–16 
+KUNGSG/SVEAV. STROMS.COMERBJUDANDE PÅ 
+EXKLUSIVA ETON
+Gör som brittiska hovet och vargarna 
+på Wall Street – klä dig i skjortor från 
+svenska Eton. I det närmaste strykfria 
+håller de sig släta och välsittande från 
+morgonmöte till kvällsmingel. 
+Köp två för 1 999 kr (ord. pris 
+1 299 kr/st). Finns i ﬂ  era olika tyger
+ i slim och contemporary ﬁ  t.
+Erbjudandet gäller så
+långt lagret räcker eller 
+t o m 25/5 2014 .NYHETER 13DAGENS INDUSTRI
+TORSDAG 15 MAJ 2014
+KARRIÄR18SvD Näringsliv torsdag 25 september 2014
+I maj i år fick konsultbolaget 
+ Cybercoms vd Niklas Flyborg 
+ besök av statsminister Fredrik 
+Reinfeldt och FN-chefen Ban Ki-Moon.
+– FN hade ett möte om migra -
+tion i Stockholm i maj, och vi  anställer mycket ingenjörer från 
+andra länder helt enkelt eftersom 
+vi inte hittar tillräckligt många 
+i Sverige, säger Niklas Flyborg till 
+SvD Näringsliv.
+FN-chefen imponerades
+ så 
+pass av konsultbolagets rekryte -
+ring av internationell kompetens, 
+samt dess CSR-arbete med bland annat SOS Barnbyar i Rwanda där Cybercom byggt upp mobil -
+nät, att han bjöd in Flyborg till FN 
+den här veckan.
+– Ett av FN:s stora projekt är ju 
+att näringslivet ska engagera sig 
+för att skapa välstånd. När han 
+hörde att vi jobbar med det här så 
+blev han intresserad. Jag ska vara med på det stora klimatmötet 
+och även en diskussionslunch 
+med rundabordssamtal om håll -
+bar utveckling och en uppkopp -
+lad värld, säger Niklas Flyborg.
+Cybercom har i många år haft 
+svårt att hitta tillräckligt med  civilingenjörer i Sverige. Bolaget har samtidigt blivit allt bättre på 
+att rekrytera utomlands, dels via 
+lokalkontor i Bombay, Singapore 
+och Dubai, men även via sociala 
+medier.
+– Ban Ki-Mo on berättade att 
+FN:s perspektiv är att ett bra sätt att skapa välstånd är att folk flyt -
+tar dit där jobben finns. Vi jobbar 
+så på Cybercom, helt enkelt för 
+att vi inte hittar den kompetens vi behöver i Sverige. Även om vi är ett svenskt företag så är våra pro -
+jekt väldigt globala, och vi har lätt att använda global kompe -
+tens, säger Niklas Flyborg.
+Till FN den här veckan
+ anlän-
+der runt 140 stats- och regerings -
+chefer i samband med den årliga invigningen av generalförsam -
+lingen. FN-chefen har även bjudit 
+in till en stor klimatkonferens dit 
+bland andra USA:s president 
+ Barack Obama kommer.Niklas Flyborg är med på mil -
+jökonferensen, samt medverkar 
+även på ett lunchmöte med poli -
+tiker och folk från näringslivet. 
+Där hålls det rundabordssamtal om bland annat CSR och möjlig -
+heterna att skapa ett hållbart samhälle med ny teknik.
+– Men ett annat mål för mig 
+med att åka till FN är också att knyta kontakter med del befint -
+liga kunder som vi har men också 
+med nya. Jag var till exempel i 
+Rwanda för två veckor sedan där 
+vi sedan flera år driver stora tele -
+komprojekt. De afrikanska län -
+derna är förstås jätteintresserade av att vara med i FN och berätta 
+hur de använder ”connectivitet” och hur Cybercom har hjälpt 
+dem att få i gång betallösningar 
+via mobilen och sådana saker,  säger Niklas Flyborg.
+Cybercom har drygt
+ 70 pro -
+cent av omsättningen i Sverige, 
+enligt Flyborg, men många av 
+projekten och kunderna är glo -
+bala. Arbetskraftsinvandring har 
+inte bara försett bolaget med 
+nödvändig kompetens utan ock -
+så skapat en internationell miljö 
+i  företaget som Cybercom är 
+noga med att bevara.
+– För Sverige är det väldigt bra 
+om vi kan utbilda fler ingenjörer, 
+men för Cybercoms del så får vi 
+tag i duktiga medarbetare över -
+allt i världen, säger han.Global kompetens  
+till globala kunderCybercoms vd Niklas Flyborg (t v) besöker SOS Barnbyars kindergarten i Gikongoro, Rwanda, tillsammans med medarbetaren och CSR-ambassadören Tarmo Pajunen. Cybercom är engagerat i tele-                   komprojekt i landet.  FOTO: ANNA LUNQVIST
+INGENJÖRSBRIST  Svenska konsultbolaget Cybercom rekryterar 
+utländska ingenjörer i parti och minut eftersom för få utbildas i Sve -
+rige. Cybercoms vd Niklas Flyborg är nu i New York på FN:s huvud-
+kontor för att delta i möten om bland annat migration av arbetskraft.
+TEXT
+ERIK BERGIN  
+Känslan av angelägenhet är 
+starkare nu. Det är inte de 
+mot oss. Det säger ABB:s vd 
+Ulrich Spiesshofer om dyna-  
+ miken mellan politiker och 
+näringsliv när Di Dimension träffar 
+honom vid FN-högkvarteret i New York.
+Höstens stora FN-vecka lockade alltså 
+inte bara regeringschefer och diplomater 
+till diskussionerna om oroshärdar runt 
+om i världen. Att chefen för det svensk-
+schweiziska elkrafts- och automations -
+teknikbolaget var på plats är ett tecken 
+på ett attitydskifte.
+Han var nämligen långt ifrån ensam.
+En rad andra svenska bolagstoppar 
+var i stan samtidigt, däribland Hans 
+Vestberg på Ericsson och Ikeachefen 
+Peter Agnefjäll.
+It-konsulten Cybercoms vd Niklas  Flyborg fick en personlig inbjudan från 
+FN:s generalsekreterare Ban Ki-moon.
+”FN:s intresse för näringslivets roll 
+har ökat dramatiskt på senare år” , säger 
+han, efter att ha deltagit i en serie samtal 
+med företagsledare från olika bran -
+scher.
+Klimatet står högst på agendan
+FN-veckans samtalsämnen sträckte sig 
+från omsorg om skogen till data- och 
+telefoninätverks möjligheter att sporra 
+utbildning och lokalisera flyktingar. 
+Men högst på dagordningen stod  
+ett klimatmöte, som markerade start -
+skottet för en lång förhandlingsrunda 
+som kulminerar vid ett toppmöte i Paris 
+nästa år. 
+Ett av målen är att jordens tempera -
+tur inte ska höjas med mer än 2 grader jämfört med tiden före industriali-
+seringen. 
+ABB:s Ulrich Spiesshofer sticker inte 
+under stol med att han talade i egen sak 
+när han framträdde inför hela general -
+församlingen. Det är själva poängen, 
+eftersom många av ABB:s produkter för 
+med sig energibesparingar.
+Billigare att vara grön 
+Motsättningen mellan att agera utifrån ett vinstintresse och att bedriva miljö -
+vänlig verksamhet är på väg att försvinna 
+för de flesta företag, eftersom grön teknik 
+i regel också är billigare.
+”Det bästa sättet att påverka miljön är 
+att använda så lite energi som möjligt” , 
+konstaterar ABB-chefen, som efterlyser 
+ett bredare fokus från politikerna, som hittills har riktat in sig på förnybar 
+energi.
+Minskad förbrukning är minst lika 
+viktigt, förklarar Ulrich Spiesshofer och 
+tillägger att klimatsamtalen har gjort 
+honom mer optimistisk i miljöfrågan.
+”Folk arbetar tillsammans med öppna 
+sinnen.”
+GABRIEL MELLQVIST
+gabriel.mellqvist@di.se
++1 203 434 50 68FN          näringslivet = sant 
+NEW YORK
+Kärleken mellan FN och näringslivet bara växer. Bland hundra-
+talet företagsledare som har bjudits in till årets toppmöten 
+i New Y ork märks flera chefer för svenska börsbolag. 
+Ett av de hetaste samtalsämnena är klimathotet, som 
+kommer att diskuteras långt in på nästa år.
+FN-VECKAN
+■■FN:s general-
+församling samlar 
+varje höst världens 
+ledare till en lång 
+rad möten och 
+ rundabordssamtal  
+i New York. 
+■■100 stats- eller 
+regeringschefer  
+trängdes i år med 
+800 representanter 
+för näringsliv, 
+ finansbransch och 
+organisationer. 
+■■Förutom klimat -
+hotet stod orolig -
+heterna i Irak,  
+Syrien och Ukraina  
+på agendan, liksom 
+den stora sprid-
+ningen av ebola  
+i västra Afrika. FAKTA
+OPTIMIST OM MILJÖN. Ulrich Spiesshofer, koncernchef för ABB, talar under klimattoppmötet på FN:s högkvarter i New York i slutet av september. 
+Ericssonchefen Hans Vestberg och it-konsulten Cybercoms vd Niklas  Flybor g deltog också i höstens FN-möten.  FOTO: LUCAS JACKSON
+8 TREND FÖRETAGEN I FINRUMMET
+Dagens Industri   
+UN Secretary ­General Ban Ki ­
+moon visited Cybercom’s head ­
+quarters in Stockholm and talked 
+about the challenges of the global 
+labour market during his visit to 
+Sweden in May 2014.Di Dimension   
+Niklas Flyborg interviewed in Di Dimension about the growing 
+role of the business sector in 
+global sustainability challenges when he participated in the UN 
+Climate Summit 2014.
+Tivi
+Tony Hendrell and Miila 
+Päivärinne at Cybercom in 
+Finland talk to TiVi about 
+Cybercom’s cloud solutions and Finland’s strong position in cloud 
+services.SvD Näringsliv  
+Major interview in SvD Näring ­
+sliv with Niklas Flyborg about 
+Cybercom’s role as a global 
+employer and global supplier 
+of sustainable solutions for the future.
+47
+Company Presentation and Sustainability Report47Cybercom’s voice in public debateASecure and connected
+We always consider function and security in our  
+solutions. This makes you more secure.CYBERCOM CONNECTIVITY
+BGeneral Standard Disclosures Pages Remarks Global Compact Principle
+G4-1 Statement from the CEO C&S P .6-7, 44
+G4-3 The name of the organisation AR P .1
+G4-4 Primary brands, products, and services C&S P .5, 20-25
+G4-5 Location of the organisation’s headquarters Stockholm
+G4-6 Countries where the organisation has significant operations C&S P .5
+G4-7 Nature of ownership and legal form AR P .1, 7
+G4-8 Markets served C&S P .5, 12-13, 17
+G4-9 Scale of the organisation C&S P .3, 5, 41, AR P .3
+G4-10 Total number of employees C&S P .41, GRIA P .4
+G4-11Percentage of total employees covered by collective bargaining 
+agreementsGRIA P .5 Principle 3
+G4-12 Organisation’s supply chain C&S P .14-15
+G4-13 Significant changes during the reporting period C&S P .2
+G4-14 Precautionary approach C&S P .0 Principle 7
+G4-15 Externally developed initiatives to which the organisation subscribes C&S P .0, 35
+G4-16 Memberships of associations –
+G4-17 Entities included in the consolidated financial statements AR P .29
+G4-18 Process for defining the report content GRIA P .1-3
+G4-19 Material Aspects identified GRIA P .2
+G4-20 Aspect Boundary within the organisation GRIA P .3
+G4-21 Aspect Boundary outside the organisation GRIA P .3
+G4-22 Effect of restatements of information provided in previous reports GRIA P .6
+G4-23 Significant changes from previous reporting periods No significant changes
+G4-24 Stakeholder groups engaged by the organisation GRIA P .1
+G4-25 Basis for identification and selection of stakeholders GRIA P .1
+G4-26 Approach to stakeholder engagement GRIA P .1
+G4-27Key topics raised through stakeholder engagement, and how  
+the organisation has respondedGRIA P .1
+G4-28 Reporting period GRIA P .1
+G4-29 Date of most recent previous report Spring 2014
+G4-30 Reporting cycle GRIA P .1
+G4-31 Contact point for questions regarding the report C&S P .51
+G4-32 In accordance option & GRI Content Index C&S P .0, 50-51
+G4-33 External assurance GRIA P .1
+G4-34 Governance structure of the organisation AR P .39-40
+G4-56 Organisation’s values, codes of conduct etc. C&S P .45 Principle 10The following index makes reference to the GRI indicators that Cybercom has chosen to report and to the ten principles of the Global Compact.
+C&S = Company Presentation and Sustainability Report 2014   AR  = Annual Report   GRIA  = GRI Appendix   W = Website
+50
+Company Presentation and Sustainability ReportGRI indexGeneral Standard Disclosures Pages Remarks Global Compact Principle
+DMA Economic Performance C&S P .14-15
+G4-EC1 Direct economic value generated and distributed C&S P .3
+DMA Employment C&S P .36-37
+G4-LA1 Employee turnover C&S P .41
+DMA Occupational Health and Safety C&S P .36-38
+G4-LA6 Absenteeism & work-related injury C&S P .41
+DMA Training & Education C&S P .36-37
+G4-LA9 Employee training C&S P .40
+G4-LA11 Development reviews C&S P .36, GRIA P .5
+DMA Diversity and Equal Opportunity C&S P .38 Principle 6
+G4-LA12 Composition of organisation GRIA P .5
+DMA Non-discrimination C&S P .38 Principles 1, 2 & 6
+G4-HR3 Number of incidents of discrimination No cases reported in 2014
+DMA Anti-corruption C&S P .42-43, 45 Principle 10
+G4-SO5 Confirmed incidents of corruption No cases reported in 2014
+DMA Customer Privacy C&S P .42-43 Principle 1
+G4-PR8 Loss of customer data No cases reported in 2014
+DMA Energy C&S P .34 Principle 8
+G4-EN3 Energy consumption within the organisation GRIA P .6
+G4-EN5 Energy intensity GRIA P .6
+DMA Emissions C&S P .35 Principle 8
+G4-EN17 Other indirect greenhouse gas emissions C&S P .35
+G4-EN18 Greenhouse gas emissions intensity C&S P .35
+DMA Products and Services C&S P .34 Principle 9
+G4-EN27 Mitigation of environmental impacts of products and services C&S P .28-29, 34
+DMA Product and Service labelling C&S P .27
+G4-PR5 Results of surveys measuring customer satisfaction C&S P .27
+DMASupplier evaluation in relation to working conditions,  
+environment & human rights Cybercom will further develop this work in 2015
+For more information about this report and our sustainability work, please refer to our GRI appendix at 
+www.cybercom.com/griappendix, or contact Kristina Cato at kristina.cato@cybercom.com
+51
+Company Presentation and Sustainability ReportGRI index52
+Company Presentation and Sustainability ReportBoosting your    
+performance 
+Design and production: Narva. Photography: Jann Lipka (pages 7, 39, 40), Tarmo Pajunen (pages 8-9, 43). Printing: Göteborgstryckeriet, 2015.NARVA
+Cybercom Group AB (publ)
+Box 7574, 103 93 Stockholm, SwedenTel. +46 8 578 646 00www.cybercom.com

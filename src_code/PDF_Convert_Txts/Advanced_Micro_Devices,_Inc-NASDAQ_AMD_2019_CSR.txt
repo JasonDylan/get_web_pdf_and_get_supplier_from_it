@@ -1,0 +1,346 @@
+CORPORATE CITIZENSHIP  
+SUMMARY
+GREATER TECHNOLOGY GREATER GOODMESSAGE FROM 
+OUR PRESIDENT 
+AND CEO2019 marks AMD’s 50th anniversary. Our commitment 
+to pushing the boundaries of what is possible in high 
+performance computing has never been stronger. AMD’s 
+innovative computing and graphics products are helping 
+the best and the brightest tackle the world’s toughest 
+challenges. From medical advances and scientific 
+breakthroughs to solutions for more efficient use of our 
+natural resources, our products are transforming lives and 
+our planet for the better.
+At AMD, we strive to make a positive impact on our 
+industry and our world.  From Fortune 500 businesses to 
+cutting-edge scientific research institutions to everyday 
+consumers – users rely on AMD technology to make what 
+was impossible, possible. We’re not slowing down. There is 
+always the next challenge to solve.
+We are extremely proud of our history and are equally 
+excited about what we will accomplish over the next 50 
+years for our communities and our planet. 
+Dr. Lisa Su
+President and CEO
+GRAPHICS
+AMD combines breakthrough graphics architecture with cutting-edge 
+software to build platforms that can handle the most challenging, 
+important and graphics-intensive applications today — including gaming, 
+creation, compute, AI, and virtual and augmented reality.
+COMPUTE 
+AMD’s high-performance microprocessors and chipsets deliver powerful, 
+efficient performance for consumer and commercial devices like desktops, 
+laptops and servers.
+SOLUTIONS 
+AMD’s leading high-performance graphics and compute design capabilities 
+uniquely enable us to create differentiated solutions for customers and 
+partners. From embedded products that power medical imaging devices  
+and digital signage to semi-custom processors for leading game consoles 
+and beyond, AMD technology is everywhere.WHAT WE MAKE
+WHO  
+WE ARE
+Since our founding in 1969, AMD has 
+driven innovation in high-performance 
+computing, graphics and visualization 
+technologies — the building blocks for 
+gaming, immersive platforms  and 
+the datacenter. Hundreds of millions 
+of consumers, leading Fortune 500 
+businesses and cutting-edge scientific 
+research facilities rely on AMD 
+technology daily to improve how they 
+live, work and play. AMD employees 
+around the world are focused on 
+building great products that push  
+the boundaries of what is possible.
+Client Systems Infrastructure & Cloud
+Semi-Custom Vertical Platforms Partnerships Learn more at AMD.comGaming Compute & AI Virtual &  
+Augmented RealityWe work to ensure that working conditions throughout our supply chain are safe, and that everyone involved in  
+delivering AMD products — from the design lab to the manufacturing line — is treated with dignity and respect.
+We nurture an inclusive work environment where employees bring their unique perspectives and passions to work every day.
+Learn more at AMD.com/CorporateResponsibilityWe are committed to operations that reduce greenhouse gas emissions and electricity use. We focus on developing  
+energy efficient processors, and our 2020 climate goals are verified by the Science Based Targets initiative.
+We contribute to our local communities through the time and talent of our workforce in company-sponsored volunteer events.We believe that immersive and instinctive computing will transform our lives, and we are inspired by how digital technology 
+has improved our world. From helping students learn to creating innovative new therapies for veterans to mapping the 
+universe we live in — AMD technology powering the systems that are opening new doors to a better world.CORE  
+ISSUESMAPPING OUR CORE ISSUES 
+TO THE SUSTAINABLE 
+DEVELOPMENT GOALSIn 2018, AMD made strong progress in four strategic focus areas, 
+while continuing to advance a broader scope of initiatives.  
+We participated in the first quantitative performance analysis 
+against the U.N. Sustainable Development Goals — showing how 
+advancing our core issues helps to address global challenges.
+DATA PRIVACY & SECURITY  
+At AMD, security is a top priority and we are continually working 
+to improve the safety of our users as new risks arise. Some AMD 
+processors have security features included in the hardware, such 
+as Secure Encrypted Virtualization (SEV). 
+ROLE OF TECHNOLOGY IN SOCIETY
+AMD technology advances education, healthcare, scientific 
+research and more. In 2018, we launched ten new product families 
+in emerging fields like machine learning, artificial intelligence and 
+augmented/virtual reality. 
+ENERGY EFFICIENCY & CLIMATE CHANGE  
+AMD’s 2020 climate goals span supply chain, operations and 
+product use, and are approved by the Science Based Targets 
+initiative. In 2018, we designed the most energy-efficient  
+AMD mobile Accelerated Processing Unit (APU) to date, sourced 
+27 million kwh of renewable energy, and sustained supply chain 
+energy and emissions well below industry averages.
+HUMAN RIGHTS & LABOR ISSUES  
+We expanded supplier responsibility initiatives to reach  
+100% of direct suppliers, maintained our 100% Corporate  
+Equality Index score from the Human Rights Campaign,  
+and are proud to be full members of the Responsible  
+Business Alliance.4
+119
+3813
+SUSTAINABLE CITIES  
+& COMMUNITIESINDUSTRY , INNOVATION
+& INFRASTRUCTURE
+GOOD HEAL TH
+& WELL -BEINGDECENT WORK &
+ECONOMIC GROWTHCLIMATE ACTION
+QUALITY EDUCATION
+Learn more at AMD.com/CoreIssues
+THE WORKLOADS OF THE FUTURE 
+REQUIRE INCREDIBLE AMOUNTS OF COMPUTE POWER
+AMD WILL PUT THAT POWER IN THE HANDS OF PEOPLE EVERYWHERENEXT 
+HORIZONTHE DATACENTER HOLDS  
+ENORMOUS POTENTIAL  
+TO IMPROVE OUR WORLD
+HIGH-PERFORMANCE  
+COMPUTING
+IMMERSIVE & INSTINCTIVE 
+COMPUTINGCLOUD, HYPERSCALE  
+& VIRTUALIZATION
+BIG DATA  
+ANAL YTICSMACHINE  
+INTELLIGENCE
+SOFTWARE-DEFINED  
+STORAGE
+Learn more at AMD.com/EpycServerTECHNOLOGY ENABLING A BETTER WORLD
+NEW HPE+AMD SERVER 
+SOLUTION ENABLES 
+FAST, ACCURATE DATA 
+EXPLORATIONzSPACE TAKES LEARNING 
+INTO NEW DIMENSIONS  
+WITH AMDENABLING PRECISION 
+WHERE IT’S NEEDED MOST              
+ 
+Dedicated to advancing scientific 
+discovery, the University of 
+Notre Dame Center for Research 
+Computing (CRC) enables 
+multidisciplinary research through 
+advanced computation, data 
+analysis and other digital tools. 
+When the CRC decided to add a new 
+high-performance computing (HPC) 
+cluster, one of the partners they 
+turned to was AMD — a provider  
+of technologies used to help  
+solve some of the world’s  
+toughest challenges. zSpace equips today’s classrooms 
+to be more adaptable, engaging and 
+individualized for students through 
+sophisticated, immersive learning 
+technologies. Their instructional tools 
+enable features like 3D visualization 
+and modeling, haptic and touch 
+feedback, as well as virtual reality (VR) 
+and augmented reality (AR).  
+More than 1,000 school districts, 
+technical centers, medical schools  
+and universities around the globe  
+use zSpace.Diagnostic displays play an essential 
+role in radiological practices. To help 
+doctors provide the best possible 
+care to patients, Barco utilized 
+AMD’s industry-leading graphics 
+solutions when designing their 
+powerful new display systems. 
+Enabling acute improvements in 
+day-to-day medical operations, 
+these systems revolutionize 
+diagnostic imaging and the 
+assessment of patient information 
+— enhancing workflow and  
+quality of care.
+Learn more at AMD.com/CaseStudiesCOMMUNITY  
+AFFAIRS
+For more than 35 years, AMD has 
+invested time, money, and technology 
+in organizations that help strengthen 
+communities worldwide. Our 
+employees also continue to make their 
+communities a better place through 
+volunteerism and donations to local 
+organizations. Since 1995, AMD has 
+contributed $18.2 million USD to 
+charitable causes and our workforce 
+has performed more than 210,000 
+hours of volunteer service.
+Learn more at AMD.com/CommunityParks Restored8
+Trees, Seedlings
+Planted4,172 Meals Packed, 
+Cooked, Served45,730
+Bags of
+Litter Collected178Educational Packets 
+Assembled6,300
+Raised 
+for Charity$125 K+Volunteers2,351
+Volunteer Hours7,881
+Global Sites 
+Participated20
+Service Projects72
+AMD CARES
+DAY OF 
+SERVICE 
+2018
+AMD has always believed that workplace volunteering strengthens our communities, our employees and our company.  
+Every year we amplify this belief through our annual AMD Cares Day of Service — encouraging our global workforce  
+to volunteer in social and environmental projects, reinforcing our longstanding commitment to our communities.STRENGTHENING OUR COMMUNITIES WORLDWIDEMARKHAM
+Established: 1985  
+Acquired by AMD in 2006  
+Operations: AMD Canadian 
+Headquarters and  
+Graphics R&D CenterRESPONSIBILITY  
+ON A GLOBAL SCALE
+SANTA CLARA
+Established: 2017  
+Original HQ in Sunnyvale, 1969  
+Operations: AMD Corporate 
+Headquarters, R&D, Design
+AUSTIN
+Established: 1978  
+Operations: Corporate, 
+R&D, Design
+• Atlanta, GA 
+• Austin, TX 
+• Bellevue, WA 
+• Boxborough, MA
+• Buenos Aires, Argentina
+• Calgary, Alberta
+• Fort Collins, CO
+• Houston, TX• Maple Grove, MN 
+• Markham, Ontario
+• Mexico City, Mexico
+• Orlando, FL
+• San Diego, CA
+• Santa Clara, CA
+• São Paulo, Brazil • Brussels, Belgium
+• Dubai, United Arab Emirates
+• Grenoble, France
+• Istanbul, Turkey
+• Milan, Italy
+• Milton Keynes, United Kingdom
+• Moscow, Russia
+• Munich, Germany1 2R&D, Design
+Sales, Business Services
+Corporate Offices
+AMD REGIONS
+IndiaGreater China & Asia PacificEMEAAmericas 1
+2
+3
+4City, Country/Region City, Country/RegionMALAYSIA
+Penang Established: 1972  
+Operations: Assembly,  
+Test, Mark and Pack Facility  
+Cyberjaya Established: 2008  
+Operations: Sales, Business Services
+SINGAPORE
+Established: 1984  
+Operations: Singapore Product 
+Development Center (SPDC) 
+and APJ Sales & MarketingTAIPEI
+Established: 1987  
+Operations: R&D, DesignSHANGHAI
+Established: 2006  
+Operations: Shanghai 
+Research and Development 
+Center (SRDC); AMD’s 
+Largest System Design Hub 
+Outside of the United StatesBEIJING
+Established: 2004  
+Operations: Greater 
+China Headquarters, 
+Sales, R&D, Design
+BENGALURU
+Established: 2004  
+Operations: R&D, Design  
+Focusing on Graphics and 
+Computing Solutions
+HYDERABAD
+Established: 2008  
+Operations: R&D, Design, 
+Focusing on Graphics and 
+Computing Solutions
+• Bangkok, Thailand
+• Beijing, China
+• Chongqing, China
+• Cyberjaya, Malaysia
+• Hong Kong, Hong Kong
+• Hsinchu, Taiwan
+• Jakarta, Indonesia
+• Melbourne, Australia
+• Penang, Malaysia• Seoul, South Korea
+• Shanghai, China
+• Shenzhen, China
+• Singapore
+• Suzhou, China
+• Sydney, Australia
+• Taipei, Taiwan
+• Tokyo, Japan• Bengaluru, India
+• Gurgaon, India
+• Hyderabad, India
+• Mumbai, India3 4City, Country/Region City, Country/RegionENERGY  
+EFFICIENCYWe design energy-efficient processors while continuing to meet users’ 
+performance expectations. Through AMD’s award-winning 25x20 Energy 
+Efficiency Initiative, we remain on track to reach an ambitious goal  
+and third parties are taking notice of our achievements.
+Learn more at AMD.com/25x20AMD’S CUL TURE 
+OF INCLUSION
+At AMD, we harness our world-class technology 
+to take on some of the world’s toughest 
+problems. This can’t be done alone. It takes 
+a diverse group of voices gathered together — 
+every day of the week — to find solutions and 
+drive our business growth. We thrive through 
+respect for and inclusion of our employees’ 
+individual talents, personalities, experiences and 
+passions. Differences challenge us in a healthy 
+way — and improve our capability to bring the 
+benefits of high-performance computing to 
+consumers in a more meaningful manner.  
+From many voices, we create one  
+vision of the future, together. 
+Inclusion starts with knowing one another — 
+both professionally and personally. In 2018, 
+AMD launched our newest resource group for 
+employees caring for children, parents and pets; 
+we achieved our highest participation among 
+employee teams in our annual community  
+Day of Service; and again, we earned a 100%  
+score on the Human Rights Campaign’s  
+Corporate Equality Index. 
+We thank our workforce, partners and site 
+communities for joining us as we continue  
+to deliver technology designed to help solve 
+some of the world’s toughest challenges. Susan Moore    Corporate Vice PresidentENABLING TODAY ,  
+INSPIRING TOMORROW
+Art is inspired by life, much in the same way that 
+AMD innovations are inspired by life — by people and 
+what they can accomplish with the right technology.
+AMD is a company that dares to imagine a better 
+world and takes inspiration from our customers 
+to deliver innovative solutions to the challenges 
+and possibilities of our digital age. We don’t create 
+technology for technology’s sake — we innovate  
+for you and what you can achieve.
+Learn more about how AMD is powering better lives at  
+AMD.com/CorporateResponsibility
+©2019 Advanced Micro Devices, Inc. All rights reserved. AMD, the AMD logo, Ryzen, Radeon, Vega, EPYC  
+and combinations thereof are trademarks of Advanced Micro Devices, Inc. Other trade names are used for 
+identification purposes only and may be the property or trademarks of their respective owners.
+PID# 19248758-A

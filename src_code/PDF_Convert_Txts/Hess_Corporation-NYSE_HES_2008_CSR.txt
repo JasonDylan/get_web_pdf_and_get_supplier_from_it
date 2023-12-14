@@ -1,0 +1,2794 @@
+2008 Corporate  
+Sustainability ReportScope of  
+Report
+The principal facilities and assets operated by Hess 
+Corporation and its subsidiaries during calendar year 2008 
+are included in this report. Environmental, health, safety 
+and social responsibility (EHS & SR) data refer to gross 
+figures from operated facilities as well as for third-party 
+activities where Hess has overall responsibility as specified 
+in contractual arrangements. 
+The information provided in this report has been guided 
+by the Global Reporting Initiative’s (GRI) G3 Sustainability 
+Reporting Guidelines . To ensure oil and gas sector-specific 
+coverage, we have also followed the joint International 
+Petroleum Industry Environmental Conservation 
+Association and the American Petroleum Institute’s Oil 
+and Gas Industry Guidance on Sustainability Reporting . 
+Report content was selected based on GRI’s principles 
+and guidance. Materiality was considered in determining 
+whether to provide quantitative data where specified in 
+addition to qualitative information. We have provided 
+quantitative data for GRI indicators we consider to be 
+material to the extent practicable given our current 
+corporate data collection and aggregation systems. 
+The GRI’s Reporting Guidance for Boundary Setting  
+was applied to determine the inclusion of operational 
+performance data for three key joint ventures not under 
+Hess’ direct operational control but where we have significant influence: the HOVENSA Refinery in the United 
+States Virgin Islands, the Joint Development Area (JDA) in 
+Malaysia/Thailand and SonaHess in Algeria.  
+To facilitate comparisons with prior years’ reports, data 
+from HOVENSA has been presented separately. SonaHess 
+and JDA performance data are included in Hess totals.
+Also, some quantitative EHS performance data have been 
+reported on a normalized basis to facilitate year-on-year 
+comparisons. 
+Net equity greenhouse gas (GHG) emissions have been 
+reported for operations in which Hess had an equity 
+interest but that were operated by other companies.  
+With the exception of net equity GHG emissions, this 
+report does not include EHS & SR data on operations in 
+which the company has an equity interest but that are 
+operated by other companies. Hess’ operations in Russia 
+are being integrated into our EHS & SR data management 
+system and have not been included in this report.
+The quality of the information and data included in this 
+report were reviewed by ERM Certification and Verification 
+Services (ERM CVS), an accredited independent third 
+party. ERM CVS’ verification statement has been included 
+at the end of this report. ERM CVS also provided an 
+opinion on the self-declared GRI Application Level.
+On the cover: Danish Nature Conservation, a Hess sponsored national environmental program.Note: Following a review by ERM CVS, our 
+external verifier, Hess is self-declaring a GRI 
+Application level of A+ in conformance with  
+the GRI Sustainability Reporting Guidelines.Report Application Levels2002
+In Accor dance C C + B B + A A +
+Third
+Party
+CheckedSelf
+Declar ed
+Report Exter nally Assur ed
+Report Exter nally Assur ed
+Report Exter nally Assur ed
+GRI
+CheckedOptional Mandatory
+C C + B B + A A +
+Third
+Party
+CheckedSelf
+Declar ed
+Report Exter nally Assur ed
+Report Report Exter nally Assur ed
+GRI
+CheckedOptional Mandatory✓|    52  Performance Data    |    53  GRI Content Index    |    56  Verification Statement    |
+4
+ 2
+Our Company Message from our
+ChairmanOur Global Reach6Table of 
+Contents
+26
+Environmental  
+PerformanceHow We Operate Safety Performance
+20
+ 10
+46
+Global Workforce Community & Social  
+PerformanceSocial Responsibility  
+Activities
+40
+ 50In 2008 we successfully executed our strategy to build 
+a company that will sustain long term profitable growth 
+while making a positive impact on the communities 
+where we do business. Our company is committed to 
+help meet the world’s demand for energy in a way that 
+protects the health and safety of our stakeholders and 
+respects the environment.  
+While a severe global recession has temporarily lowered 
+energy demand, we expect that growth will resume as 
+the economy recovers. Meeting the demand upturn 
+with sufficient supply will be made more challenging by 
+the financial crisis that has caused delays in numerous 
+exploration and production projects around the world. 
+These delays will eventually lead to a gap between 
+future supply and demand, resulting in shortages and 
+price volatility.
+Increased investments in renewables such as solar and 
+wind power will fill some of the future need for energy 
+but the world will still depend upon a secure supply of 
+crude oil and natural gas to power the economy for at 
+least the next 20 years. Promising alternatives require 
+significant investment and technological breakthroughs, 
+particularly in transportation, which accounts for 
+half of all oil usage. It is important that our industry 
+maintains the necessary investment in the exploration, 
+development and production of crude oil and natural gas in a financially disciplined and environmentally 
+responsible way and continues to retain and recruit 
+the highly skilled individuals needed in years to come.
+Our company invested $4.8 billion in capital and 
+exploratory expenditures in 2008, nearly all of it focused 
+on finding, developing and producing energy resources. This investment has helped us to attain a reserve life of 10 years and build a strong foundation for sustainable 
+growth with assets geographically balanced between 
+the United States, Europe, Asia and Africa.  
+To manage through the global financial crisis, we 
+have sized our 2009 capital and exploratory budget 
+to $3.2 billion. This expenditure will help us maintain 
+our financial strength and protect our future growth opportunities without jeopardizing our long term 
+goal to increase reserves and production. A portion 
+of our energy investment includes the commercial 
+development of hydrogen fuel cells for use in safe, 
+clean and efficient transportation systems through 
+our Nuvera Fuel Cells subsidiary. 
+We recognize the increased call on our industry to 
+play a leading role in providing greater energy security, 
+a cleaner environment and reduced greenhouse gas emissions, and we are committed to doing our part.
+HESS CORPORATION PERFORMANCE 
+Our company achieved earnings in 2008 of $2.36 billion 
+on the strength of high crude oil prices and growth in 
+our worldwide crude oil and natural gas production. 
+By the end of 2008 we had lowered our ratio of debt to capitalization to 24.3 percent from 28.9 percent in 
+the prior year.  In Exploration and Production our year 
+end proved reserves grew by 8 percent to 1.43 billion 
+barrels of oil equivalent and we replaced 171 percent 
+of production. Worldwide crude oil and natural gas 
+production grew to an average of 381,000 barrels of 
+oil equivalent per day. 
+Marketing and Refining continued to contribute to our 
+company and serve our customers. Energy Marketing, 
+which provides energy to 17,000 commercial and 
+industrial customers in the eastern United States, 
+experienced strong growth in its Demand Response and Carbon Neutral programs, which encourage 
+responsible energy usage and reward efficiency. Retail 
+Marketing, which has 1,366 gasoline and convenience 
+stores along the East Coast of the U.S., launched an 
+energy efficiency program that reduced electricity 
+consumption throughout our network by 10 percent.Message from 
+our Chairman
+02
+JOHN B. HESS
+Chairman of the Board  
+and Chief Executive OfficerWhile we are proud of our achievements, we face 
+challenges on many fronts, including volatile changes 
+in commodity prices, high costs of drilling and 
+development activities, the need for technical success 
+in finding and developing hydrocarbon reserves, 
+political instability in certain areas where we conduct 
+operations, environmental concerns and the need 
+to maintain a competitive position by attracting and 
+retaining innovative and highly skilled professionals. 
+An important component of our progress is a social 
+responsibility strategy focused on improving safety, 
+health and environmental performance while making a positive impact on the communities where we 
+operate. This strategy is guided by our values, policy 
+statements and management systems, which protect 
+our employees, customers, host communities and the environment.
+In 2008 we achieved our best ever employee safety 
+performance with a 16 percent improvement over 
+the previous year and a reduction in the severity 
+of incidents. We remain focused on improving our 
+personnel and process safety performance, particularly 
+in the area of contractor safety, which proved especially 
+challenging last year.    
+We have noted in previous reports that our absolute 
+emissions of greenhouse gases increased as we grew 
+our business. In 2008, CO
+2 emissions from operated 
+assets increased due to the inclusion of sales from the Malaysia/Thailand Joint Development Area. We have 
+plans in place to reduce our greenhouse gas emissions 
+intensity over the next five years and we are working to 
+stabilize our absolute emissions over the near term. For 
+the second straight year, we secured 10 percent of all 
+purchased electricity for our operations from renewable 
+energy sources. 
+Last year our contributions to support health, education 
+and community development grew to $21 million from 
+$16.4 million in 2007 and included $3 million to the 
+Greater Houston Community Foundation for Hurricane Ike relief efforts. Our partnership with the government in 
+Equatorial Guinea to improve primary education made 
+substantial progress in 2008 by training 1,165 teachers 
+and completing the renovation of 40 model schools. 
+OUR COMMITMENT  
+The global reach of our operations demands our 
+commitment to key voluntary initiatives with respect to human rights, environmental protection and financial 
+transparency. We support the Extractive Industries 
+Transparency Initiative, the Voluntary Principles on 
+Security and Human Rights, the Universal Declaration 
+on Human Rights and the UN Global Compact. In 2008, we continued our participation in multi-stakeholder 
+dialogue processes, provided comprehensive guidance 
+for country managers and conducted training of 
+business units in higher risk locations.
+Climate change is a global issue with significant 
+consequences for society and the energy industry. 
+Hess supports U.S. climate change legislation that treats all affected parties equitably and in a cost 
+effective manner. We believe in long term international 
+collaboration to diversify energy production and 
+achieve meaningful reductions in greenhouse gas 
+emissions. Our Climate Change Network, comprised 
+of senior managers and specialists from across the 
+company, has worked to develop a comprehensive 
+strategy with targets for minimizing our carbon footprint. We have developed a five year greenhouse 
+gas emissions intensity reduction target and an  
+energy efficiency program.   
+In coming years we will continue to pursue our 
+strategy of sustainable growth targeting first quartile 
+operating performance across our business. Important 
+components of our strategy include continually improved 
+safety performance, support for human rights globally, 
+the development of strategic partnerships in social 
+responsibility, reduction of our carbon emissions and the continued commercialization of Nuvera fuel cells.
+We are proud of the progress we have made in the 
+growth of our company and we recognize that success 
+is a long journey. With the continuing support of our 
+customers, employees, investors, business partners 
+and communities where we do business, we are confident that we are building a sustainable enterprise 
+that will make a positive impact on the world around us.
+JOHN B. HESS
+Chairman of the Board  
+and Chief Executive Officer
+03Hess Corporation (NYSE: HES) is a leading global 
+independent energy company with headquarters 
+in New York City and 12,432 employees operating 
+across the globe. The company is engaged in 
+the exploration and production of crude oil and 
+natural gas, as well as refining and marketing 
+petroleum products, natural gas and electricity. 
+We have a strong leadership team and a focused professional staff that are positioning the company for long-term financial strength and stability. We 
+are committed to meeting the highest standards 
+of corporate citizenship by ensuring a safe and 
+healthy workplace, safeguarding the environment 
+and making a lasting and positive impact on the 
+communities where we do business.
+Our 
+Company
+Shenzi Development in the Gulf of Mexico
+We have a strong leadership team and a focused 
+professional staff that are positioning the company for long 
+term financial strength and stability.
+04ExPlORATION AND PRODUCTION (E&P)
+In 2008 Hess worldwide oil and gas production 
+averaged 381,000 barrels of oil equivalent per 
+day and our proved reserves grew to 1,432 
+million barrels of oil equivalent with a reserve life 
+of 10 years. Hess geoscientists have leveraged 
+deep water exploration and advanced seismic 
+technology to develop challenging oil and gas 
+resources around the world. The company pursued 
+a rigorous drilling schedule with success, and that program will continue in 2009 with exploration 
+and appraisal wells planned in Australia, Malaysia, 
+Brazil, Peru, the United Kingdom, Libya and the 
+Gulf of Mexico. MARkETING AND REFINING (M&R)
+Hess continues to be the leading independent 
+gasoline convenience store marketer on the  
+East Coast of the United States with 1,366 Hess-branded retail locations. We selectively acquire 
+additional retail sites to strengthen our market 
+presence. Hess Energy Marketing is the largest 
+provider of natural gas, fuel oil and electricity 
+to commercial and industrial customers in the 
+Northeast and Mid-Atlantic market. The company operates a network of 22 terminals to support our 
+marketing operations. In refining, we operate a fluid 
+catalytic cracking unit in Port Reading, N.J., and 
+have a 50 percent interest in the HOVENSA refinery 
+in St. Croix, U. S. Virgin Islands.
+Our values set expectations for how we 
+conduct business around the world. All 
+company representatives are required to 
+operate in accordance with our values.
+Integrity     We are committed to the highest 
+level of integrity in all our relationships.People      We are committed to attracting, 
+retaining and energizing the best people by 
+investing in their professional development 
+and providing them with challenging and 
+rewarding opportunities for personal growth. 
+Performance     We are committed to a 
+culture of performance that demands and 
+rewards outstanding results throughout  
+our business. 
+Value Creation     We are committed 
+to creating shareholder value based on 
+sustained financial performance and long  
+term profitable growth.
+Social Responsibility     We are committed 
+to meeting the highest standards of corporate 
+citizenship by protecting the health and 
+safety of our employees, safeguarding the 
+environment and creating a long-lasting, 
+positive impact on the communities where  
+we do business.  
+ 
+Independent Spirit      We are committed to 
+preserving the special qualities and unique 
+personality that have made us a successful independent enterprise.Integrity
+People Performance
+Value
+CreationSocial
+Responsibility
+Independent
+SpiritOUR V AlUES
+0506Our Global  
+ReachCountry of Operatio n
+E&P Exploration Highlights
+E&P Development Highlights
+E&P Pr oduction Highlight s
+UNITED ST ATESRUSSI A
+INDONESIA
+AUSTRALIAEGYPT
+ALGERIA LIBY A
+GHANA
+EQUA TORIAL GUINEA
+GABONUNITED
+KINGDOM
+PERU
+BRAZI L
+ASIA AND AUSTRALIA HIGHLIGHTS
+  Drilled four successful wells of fshor e 
+Western Australia
+  Advanced the Gaja Banu Development 
+in the Natuna Sea and the Ujun g 
+Pangkah LPG facility in Indonesi a
+  Increased pr oduction at th e 
+Malaysia/Thailand JDA an d 
+commenced Phase 2 natura l 
+gas sale sAFRICA HIGHLIGHTS
+  Drilled successful of fsho re wells in Liby a 
+and Egypt
+  Achieved a full year of pr oduction at the  
+Okume Complex in Equatorial GuineaUNITED ST ATES E&P HIGHLIGHTS
+  Completed development of the Shenzi  
+Field and advanced the Pony pr oject in  
+the deepwater Gulf of Mexico
+  Progressed the Residual Oil Zone pr oject 
+at the Seminole San Andr es Unit in W est 
+Texas
+  Built land holdings to 570,000 ac res 
+and drilled 60 wells in the North Dakota  
+Bakken shale playEUROPE HIGHLIGHTS
+  Continued the V alhall Field  
+redevelopment in Norwa y
+AZERBAIJAN
+Marketing & Reﬁ  ning Ar ea Detail
+Reﬁ nery
+Terminal
+MarketingHOVENSA
+St. Cr oix, USVI
+ST. LUCI AUNITED ST ATES M&R HIGHLIGHTS
+Ener gy Marketing developed new gr een 
+products and service s
+Retail Marketing intr oduced Dunkin’ Donuts  
+offerings at 199 Hess locations
+Acquir ed a deepwater terminal in  
+Bronx, N.Y ., to leverage our supply positio nTexas
+Gulf of MexicoNorth Dakot aNOR WAY
+DENMARK
+THAILAND
+Malaysia/Thailand
+JDA MALA YSIA
+Business Performance Highlights                            2008
+Sales and other operating revenue $  Million 41,16 5
+Net Income $ Million 2,36 0
+Capital and exploratory expenditur es $ Million 4,82 8
+Total asset s $  Million 28,58 9
+Total debt $ Million 3,95 5
+Stockholders’ equit y $  Million 12,30 7
+Exploration and Pr oduction
+Gross operated pr oduction/thr oughput 000 BOE/ D1 ,333
+Total net hydr ocarbons pr oduce d0 00 BOE/ D3 81
+Proved reserves (total ) M illion BO E1 ,432
+United States %1 9
+Europe % 31
+Africa %2 3
+Asia and others %2 7
+Reserve Life Years1 0
+Replaced pr oductio n % 171
+Marketing and Reﬁ  ning
+Reﬁ ned petr oleum pr oduct sale s 0 00 BOE/ D4 72
+Convenience stor e sale s(a)$ Million 1,05 1
+HOVENSA gr oss crude run s 0 00 BO/D 441
+Port Reading feedstock runs 000 B/ D6 4
+(a) Excludes petr oleum pr oductsOur company is committed  
+to help meet the world’ s 
+demand for ener gy in  
+a way that pr otects th e 
+health and safety of our  
+stakeholders and r espects  
+the envir onment.
+06 07Business Performance Highlights                            2008
+Sales and other operating revenue $ Million 41,165
+Net Income $ Million 2,360
+Capital and exploratory expenditures $ Million 4,828
+Total assets $ Million 28,589
+Total debt $ Million 3,955
+Stockholders’ equity $ Million 12,307
+Exploration and Production
+Gross operated production/throughput 000 BOE/D 1,333
+Total net hydrocarbons produced 000 BOE/D 381
+Proved reserves (total) Million BOE 1,432
+United States % 19
+Europe % 31
+Africa % 23
+Asia and others % 27
+Reserve Life Years 10
+Replaced production % 171
+Marketing and Refining
+Refined petroleum product sales 000 BOE/D 472
+Convenience store sales(a)$ Million 1,051
+HOVENSA gross crude runs 000 BO/D 441
+Port Reading feedstock runs 000 B/D 64
+(a) Excludes petroleum productsOur company is committed 
+to help meet the world’s demand for energy in a way that protects the health and safety of our stakeholders and respects the environment.
+07Our Global  
+ReachCountry of Operatio n
+E&P Exploration Highlights
+E&P Development Highlights
+E&P Pr oduction Highlight s
+UNITED ST ATESRUSSI A
+INDONESIA
+AUSTRALIAEGYPT
+ALGERIA LIBY A
+GHANA
+EQUA TORIAL GUINEA
+GABONUNITED
+KINGDOM
+PERU
+BRAZI L
+ASIA AND AUSTRALIA HIGHLIGHTS
+  Drilled four successful wells of fshor e 
+Western Australia
+  Advanced the Gajah Baru Development 
+in the Natuna Sea and the Ujun g 
+Pangkah LPG facility in Indonesi a
+  Increased pr oduction at th e 
+Malaysia/Thailand JDA an d 
+commenced Phase 2 natura l 
+gas sale sAFRICA HIGHLIGHTS
+  Drilled successful of fshor e wells in Liby a 
+and Egypt
+  Achieved a full year of pr oduction at the  
+Okume Complex in Equatorial GuineaUNITED ST ATES E&P HIGHLIGHTS
+  Completed development of the Shenzi  
+Field and advanced the Pony pr oject in  
+the deepwater Gulf of Mexico
+  Progressed the Residual Oil Zone pr oject 
+at the Seminole San Andr es Unit in W est 
+Texas
+  Built land holdings to 570,000 ac res 
+and drilled 60 wells in the North Dakota  
+Bakken shale playEUROPE HIGHLIGHTS
+  Continued the V alhall Field  
+redevelopment in Norwa y
+AZERBAIJAN
+Marketing & Reﬁ  ning Ar ea Detail
+Reﬁ nery
+Terminal
+MarketingHOVENSA
+St. Cr oix, USVI
+ST. LUCI AUNITED ST ATES M&R HIGHLIGHTS
+Ener gy Marketing developed new gr een 
+products and service s
+Retail Marketing intr oduced Dunkin’ Donuts  
+offerings at 199 Hess locations
+Acquir ed a deepwater terminal in  
+Bronx, N.Y ., to leverage our supply positio nTexas
+Gulf of MexicoNorth Dakot aNOR WAY
+DENMARK
+THAILAND
+Malaysia/Thailand
+JDA MALA YSIA
+Business Performance Highlights                            2008
+Sales and other operating revenue $  Million 41,16 5
+Net Income $ Million 2,36 0
+Capital and exploratory expenditur es $ Million 4,82 8
+Total asset s $  Million 28,58 9
+Total debt $ Million 3,95 5
+Stockholders’ equit y $  Million 12,30 7
+Exploration and Pr oduction
+Gross operated pr oduction/thr oughput 000 BOE/ D1 ,333
+Total net hydr ocarbons pr oduce d0 00 BOE/ D3 81
+Proved reserves (total ) M illion BO E1 ,432
+United States %1 9
+Europe % 31
+Africa %2 3
+Asia and others %2 7
+Reserve Life Years1 0
+Replaced pr oductio n % 171
+Marketing and Reﬁ  ning
+Reﬁ ned petr oleum pr oduct sale s 0 00 BOE/ D4 72
+Convenience stor e sale s(a)$ Million 1,05 1
+HOVENSA gr oss crude run s 0 00 BO/D 441
+Port Reading feedstock runs 000 B/ D6 4
+(a) Excludes petr oleum pr oductsOur company is committed  
+to help meet the world’ s 
+demand for ener gy in  
+a way that pr otects th e 
+health and safety of our  
+stakeholders and r espects  
+the envir onment.
+06 07VAlUE CREATION •  Record earnings on strength of growth 
+in oil and gas production and high 
+crude oil prices.
+•  Reserve life improved for sixth consecutive year.
+•  Debt to capitalization ratio decreased.
+SAFETY & HEAl TH •  Best-ever employee safety performance; no employee fatalities. 
+•  Safety improvement for five  consecutive years.
+•  Process safety metrics deployed company-wide.
+•  Health and Wellness initiative (Health4Life) deployed in U.S.
+PEOPlE •  Global employee engagement  survey conducted - Voice of Hess.
+•  Organizational competencies  defined and learning management system developed.
+TRANSPARENCY 
+& HUMAN RIGHTS
+COMMUNITY  
+& SOCIAl   
+PERFORMANCE•  Human Rights (HR) risk assessment 
+tool developed for global operations.
+•  HR Guide developed for  country managers.
+•  HR field assessment piloted.
+•  Participation in Hurricane Ike relief by company and employees.
+•  Continued investment in Equatorial 
+Guinea educational initiatives.ACCOMPLISHMENTS METRIC
+•  $2.4 billion net income.
+•  Increased to 10 years.    
+•  29 percent to 24 percent.
+•  1.09 Total Recordable 
+Incident Rate.
+•  50 percent decrease in recordable rate in five years.
+•  Baseline data currently  being gathered.
+ENVIRONMENT •  Climate Change Network (CCN) established to formulate carbon management strategy.
+•  Malaysia/Thailand Joint Development Area (JDA) integrated into  annual sustainability reporting.•  CCN work groups drafted 
+carbon mitigation strategies.
+•  JDA safety and environmental data incorporated in report.
+•  84 percent participation rate.    
+•  Applied to four professional groups. 
+•  Piloted online courses.
+•  Five site visits related to 
+HR/transparency.
+•  HR guide rolled out in target countries.
+•  20 contact meetings with host 
+governments and international 
+financial institutions related to 
+transparency/HR.
+•  $3 million commitment to 
+recovery; extensive employee volunteerism.
+•  40 model schools refurbished; 1,165 teachers trained.Accomplishments, Challenges & Opportunities
+08•  Managing business to achieve long-term 
+objectives during economic downturn.
+•  Expanding reserve base in technologically, 
+environmentally and politically challenging environments.•  Sustainable growth in E&P reserve base.
+•  Manage M&R business for earnings and cash flow.
+•  Strategic acquisitions to enhance portfolio.
+•  Incorporating renewables into product offering.CHALLENGES OPPORTUNITIES
+•  Continued improvement in safety culture and management systems to reduce risk of incidents with employees, contractors and joint ventures.
+•  Identifying appropriate programs and tools  to match diverse populations, workplace  audiences and venues.•  Drive improved safety performance by continuing  to mature culture of safety excellence.
+•  Achieve aspirational goal of zero safety incidents.
+•  Ensuring workplace culture, environment, and  policies prioritize employee health.
+•  Maintain focus and morale during difficult economic times.
+•  Continued recruitment of highly skilled professional talent.•  Learning Management System used to meet individual development needs.
+•  Skill sets of local workforce developed and small business supply chain expanded in countries  where we operate.•  Continued reduction of environmental footprint.
+•  Reduction in normalized GHG emissions  
+while growing the business.
+•  Improved energy efficiency in a weak economy where competition for capital is intense.
+• Reducing spills and releases.•  Set five-year normalized GHG reduction targets.
+•  Establishing corporate wide energy efficiency program.
+•  Reduce upstream hydrocarbon flaring by 50 percent in  
+Algeria and Equatorial Guinea over next five years. 
+•  Integrate carbon monetization into investment decisions.
+•  Openness of host governments to  
+transparency and increased disclosure.
+•  Promote voluntary principles on security  and human rights at non-operated and  
+minority interest assets.
+•  Continue to develop locally competitive  
+supply chains.
+•  Ensure that projects are sustainable beyond  
+our involvement and add lasting value.•  Implementation of country-specific human rights  
+risk assessment and training.
+•  Continued involvement in Extractive Industries Transparency Initiative and promotion  
+of Voluntary Principles for Security and 
+Human Rights with business partners.
+•  Partnering with host governments, NGOs and  others to advance health and education.
+•  Integrating social responsibility into company’s business practices.
+0910
+How We 
+Operate
+STRATEGY AND APPROACH
+Our company’s corporate values – Integrity, 
+People, Performance, Value Creation, Social 
+Responsibility and Independent Spirit – are the 
+framework for ethical standards by which we conduct our business.   
+Our Code of Business Conduct and Ethics, as well 
+as our Environment, Health and Safety (EHS) and 
+Social Responsibility (SR) policies, management 
+systems and initiatives are designed to identify and manage the risks associated with our operations, products and services. We view EHS & SR as 
+core components of our approach to operational 
+excellence. Business units are held accountable 
+for integrating operational excellence into the way they conduct business and for continually improving 
+performance.
+The company is committed to improvement in EHS 
+& SR activities and to sharing our performance 
+and progress openly with the public. The company Hess Values set the framework and establish the ethical 
+standards by which we conduct our business.Pangkah Gas Processing facility, Indonesia11has endorsed key international voluntary initiatives 
+designed to protect the environment, promote universal human rights and provide financial transparency. We value a diverse supply chain and the contributions we make to our local economies.
+ 
+The company pays careful attention to customer privacy issues, follows specific customer satisfaction practices and responds rapidly to customer concerns and complaints. We engage in key industry associations to ensure that we aspire to best industry practices, are current on all important issues with the potential to impact our businesses, and have our positions on legislative and regulatory matters represented to appropriate stakeholders.
+BOARD AND MANAGEMENT STRUCTURE
+Board of Directors     The Board of Directors is 
+accountable to shareholders for all aspects of Hess’ business, including financial and non-financial performance. Currently the Board consists of 14 directors, ten of whom are independent, and is chaired by John B. Hess, who is also Chief Executive Officer of the company. The Board holds eight regular meetings per year and has three principal committees: Audit; Compensation and Management Development; and Corporate Governance and Nominating. Members of these committees are independent, in accordance with New York Stock Exchange and Securities and Exchange Commission (SEC) rules. Each committee has a written charter that sets forth its purpose and responsibilities.  
+Audit Committee     The Audit Committee fulfills 
+the Board’s responsibility to oversee the company’s financial statements, financial reporting practices, systems of internal accounting and financial and disclosure controls, internal audit function, retention and oversight of independent auditors, and oversight of the company’s environment, health, safety and social responsibility programs. The committee has six members and usually meets six times a year. The Audit Committee routinely reviews 
+the company’s EHS & SR performance.Hess leadership Team     The Hess Leadership 
+Team of top executive officers provides strategic business direction and makes key operational decisions for the company. The Leadership Team has established several objectives to provide a clear 
+focus on the promotion of EHS & SR policies and 
+management systems that protect the company’s workforce, customers and local communities. Executive compensation is linked to select EHS & SR performance metrics. The Leadership Team also establishes performance objectives and holds business units accountable for their performance. The company’s business units and line management are responsible for incorporating EHS & SR expectations into business activities and providing adequate resources and mechanisms to meet performance objectives.
+Related Party Transactions     The company 
+requires its directors and executive officers to bring to the company’s attention any related party transactions, including those which may be required to be disclosed under Securities and Exchange regulations. The company’s code of business conduct and ethics provides that if any company representative, including a director or officer, considers conducting any transaction that might give rise to a conflict of interest, that person must report the transaction in advance to the company’s legal department for review.
+COMMUNICATION  WITH  THE 
+BOARD OF DIRECTORS
+Any stockholder or interested party who 
+wishes to communicate or request a 
+meeting with members of the Board of 
+Directors or with only non-management 
+directors or any specified individual 
+director may do so by writing to them 
+in care of the Chairperson of the 
+Corporate Governance and Nominating Committee, Hess Corporation, P .O. Box 
+2694, Easton, Maryland 21601, or by 
+e-mail to directors@hess.com.12HESS  RAN kED AMONG  MOST 
+TRUSTWORTHY COMPANIES
+In 2009 Forbes magazine named 
+Hess Corporation a leader among the 
+100 Most Trustworthy Companies of 
+2008. The analysis and subsequent 
+ranking developed for Forbes by Audit 
+Integrity, an independent Los Angeles 
+financial analytics firm, based its 
+findings on proprietary modeling of the financial and governance practices and 
+performance of more than 8,000 small, medium, and large cap companies 
+traded on U.S. exchanges. 
+Hess ranked second among large cap 
+companies, based on its transparent 
+and prudent accounting and governance 
+practices, earning Audit Integrity’s “conservative” rating that is reflective 
+of low shareholder risk.
+ETHICAl BUSINESS CONDUCT
+The Hess Code of Business Conduct and Ethics 
+(Code) describes the company’s commitment to 
+integrity. It defines the company’s core values 
+and ethical standards regarding business ethics, citizenship, contracting and labor practices, 
+regulatory compliance, safety and stewardship of 
+the environment. The company monitors compliance with the law 
+and its own policies and has established telephone 
+and internet services to enable stakeholders to 
+report activity that may not be in compliance. 
+Notices of suspected violations, including those 
+made anonymously, are treated confidentially and promptly investigated in a manner that is thorough and fair. In 2008, 78 reports were received. Of 
+those, 25 were substantiated, 18 of which related 
+to diversity, equal opportunity and respect in the 
+workplace. Follow-up action resulted in employee 
+dismissal in four separate incidents, two of 
+which were related to diversity issues. The Audit 
+Committee of the Board of Directors reviews matters 
+related to compliance with the Code.
+During orientation new employees are required 
+to document that they have reviewed the Code.   
+In addition, the company conducts regular 
+and mandatory training and evaluates salaried 
+employees on ethical guidelines using an online 
+Ethics Awareness Training course. Last year 3,543 
+employees were assigned to take the online training. 
+Of those 2,596 successfully completed the course.
+The company takes no action against an employee 
+who makes a complaint or reports, in good faith, 
+known or suspected violations of company policy. 
+Intimidation or retaliation against anyone making 
+such reports is not tolerated and is a violation of 
+company policy and subject to disciplinary action.
+POlITICAl CONTRIBUTIONS
+Hess corporate policy prohibits company contributions to political parties and candidates and the use of Hess facilities or property for campaign activities. Moreover, the policy prohibits the use of corporate resources and corporate personnel in ways that assist campaigns of candidates. Management may not coerce political contributions from employees and the company may not directly or indirectly reimburse an employee for a political contribution or channel a contribution through an employee to disguise its origin. Employees who wish to engage in the political process are encouraged to do so privately.
+Hess employees trade and move petroleum products 
+around the world
+13EHS & SR MANAGEMENT SYSTEMS
+Our company uses an integrated approach to environment, health, safety, social responsibility and reliability management. Our Principles for Operational Excellence describe our company’s philosophy and a consistent continuous improvement approach.
+The Principles support Hess Values, and the 
+Environment, Health & Safety and Corporate Social Responsibility policies. In turn, the Principles are supported by Global Standards that define general management, environment, health, safety, social responsibility, and reliability expectations to manage significant risks to people, the environment, operating assets and our reputation.The business and facility level processes, procedures, technical guidance and work practices that are tailored for specific types of operations are aligned with the Principles and Global Standards.
+The management system structure is aligned with 
+the International Organization for Standardization (ISO) 14001: 2004 international environmental management system standard and the Occupational Health and Safety Advisory Service (OHSAS) 18001 international safety management system standard. Decisions regarding ISO certification are made within the business units. Hess’ North Sea (Denmark and the U.K.) operations and the St. Lucia oil terminal are ISO 14001 certified and account for approximately 12 percent of gross operated oil production and throughput. Denmark Production and Carigali Hess are OHSAS 18001 certified.EHS, SR AND RELIABILIT Y
+COMPONENTMANAGEMENT
+PRACTICE
+Establish an EHS,
+SR & Reliability Leadership
+Position in the IndustryThe Leading
+Global Independent
+Energy CompanyVISION
+DIRECTION
+& STRA TEGYValues,
+Policies
+& StrategiesHess Va lues,
+EHS Policy and CSR Policy ,
+and EHS & SR Strategy
+Workfor ce Activity
+& BehaviorsEXECUTIONOperating Standar ds,
+Work Pr ocesses,
+Procedur es & PracticesPerfor mance
+ExpectationsMANAGEMENTEXPECTAT IONSHess Principles for
+Operational Excellence,
+Global Standar ds, and
+E&P and M&R Management
+Expectations and Standar ds
+OPERA TIONAL EXCELLENCE
+COMPONENTMANAGEMENT
+PRACTICE
+Establish an EHS,
+SR & Reliability Leadership
+Position in the IndustryThe Leading Global
+Independent
+Energy CompanyVISION
+DIRECTION
+& STRA TEGYValues,
+Policies
+& StrategiesHess Va lues,
+EHS Policy and SR Policy,
+and EHS & SR Strategy
+Workfor ce Activity
+& BehaviorsEXECUTIONOperating Standar ds,
+Work Processes,
+Procedur es & PracticesPerfor mance
+ExpectationsMANAGEMENTEXPECTA TIONSHess Principles for
+Operational Excellence,
+Global Standar ds, and
+E&P and M&R Management
+Expectations and Standard s14kEY MEMBERSHIPS AND ASSOCIATIONS
+Our company holds leadership roles and is active in 
+international, national and local industry and business 
+associations and multi-stakeholder initiatives.  
+Hess holds leadership positions in the International 
+Petroleum Industry Environmental Conservation Association (IPIECA), the Retail Energy Supply Association, the National Petrochemical and Refiners Association, the Corporate Council on Africa, the U.S.-Libya Business Association, the 
+U.S.-Algeria Business Council and the U.S.-
+Azerbaijan Chamber of Commerce. 
+Our company is also represented on IPIECA’s 
+Strategic Issues Assessment Forum and the Climate Change and Social Responsibility working groups, the International Association of Oil and Gas Producers (OGP) Environment Committee and Greenhouse Gas Reporting Task Force, the National Petrochemical and Refiners Association Safety and 
+Health and Environmental Committees, and the ORC 
+Worldwide Executive Business Issues Forum and 
+the Occupational Safety and Health Committee.
+Our involvement with these organizations and 
+others, such as the International Emissions Trading Association, are the principal means by which we participate in public policy debate and lobbying.
+SUSTAINABIlITY REPORTING
+Our corporate environment, health and safety 
+performance has been available to the public since 1997 and our social performance since 2005. Recent reports are available in hard copy and on the company Web site. Our annual sustainability report follows the Global Reporting Initiative’s G3 guidelines supplemented by IPIECA’s and the American Petroleum Institute’s Oil and Gas Industry 
+Guidance on Sustainability Reporting.
+The Corporate Responsibility Officer Association 
+ranked Hess Corporation 15th on its “100 Best Corporate Citizens 2009” list. The ranking is based 
+on evaluation of the company’s publicly available 
+2007 environmental, social and governance data. Our sustainability reporting was also recognized 
+by the Roberts Environmental Center of Claremont 
+McKenna College as best in social reporting and second overall among the 91 New York based public companies on the 2008 Fortune 1000 list.  
+We use the services of CorporateRegister.com  
+to notify stakeholders when our annual sustainability 
+report becomes available. We also mail and 
+otherwise distribute the report to an extensive group of stakeholders, including employees. CorporateRegister collected feedback from a  
+cross-section of stakeholders regarding our 2007 report. Overall, stakeholders indicated that our  
+annual sustainability report continues to improve  
+and is comprehensive, readable and transparent.
+The company has participated in the Carbon 
+Disclosure Project (CDP) for several years. 
+Comprehensive qualitative and quantitative climate change management and greenhouse gas emissions data for these years are accessible on the CDP Web site (www.cdproject.net). We plan to participate 
+in the next CDP survey. We also subscribe to 
+OneReport
+® as a means to provide data to the 
+world’s leading research and rating agencies for socially responsible investors.
+Air quality testing at Port Reading, N.J.
+15STAkEHOlDER ENGAGEMENT
+Various stakeholders shape the company’s 
+business environment and affect our success. 
+Because we are a vertically integrated oil and  
+gas company, our value chain encompasses many different types of stakeholders. Consistent 
+with the Hess Values, the company interacts with 
+stakeholders in a transparent, constructive and 
+productive manner. Throughout this report we provide specific 
+examples of stakeholder engagement activities 
+with customers, employees, shareholders, 
+suppliers, communities, host governments, 
+multi-lateral organizations, non-governmental 
+organizations, educational institutions, socially 
+responsible investors and others. Our annual 
+reports and information on our Web site allow  
+us to share with the public information about our 
+commitment and performance.
+•  Investor relations organizations
+•  Shareholder dialogue  
+and consultation
+•  Annual shareholder meetings
+•  Annual report,  
+Sustainability report
+•  Quarterly financial webcasts
+•  Analyst meetings and dialogue
+• Hess.com•  Participation in voluntary initiatives 
+(Extractive Industries Transparency Initiative, Voluntary Principles on Security and Human Rights,  
+UN Declaration on Human Rights, UN Global Compact)
+•  Consultation and negotiation with 
+government officials
+•  Participation in local regulatory 
+initiatives
+•  Legislative and regulatory advocacy•  Community consultation and 
+feedback
+•  Social and environmental  
+impact assessment
+• Membership in local associations
+•  Employee volunteerism  
+and matching grants
+•  Participation in local emergency 
+planning and response organizations and activities
+• Speaking engagements•  Feedback programs and surveys
+•  Customer service organizations
+•  Business-to-business  
+communications
+•  Dedicated Energy Marketing Web 
+site (www.hessenergy.com)
+• Trade shows
+•  Product quality information
+• CDP Supplier Project
+EMPLOYEES SHAREHOLDERSGOVERNMENTS  
+and MULTI-LATERAL  
+ORGANIZATIONSCUSTOMERS  
+and CONSUMERSCOMMUNITY
+SUPPLIERSNGOs and  
+UNIVERSITIES
+•  Supplier delivery and  
+local content programs
+•  Supplier mentoring 
+programs
+•  Routine communications  
+and meetings
+•  Contract discussions  
+and negotiations• Partnerships
+• Memberships• Consultation• Matching grants• Town Hall meetings• Surveys• Compliance hotline• Safety committees•  New employee  
+on-boarding process
+•  Performance management 
+program
+• ihess.com intranet site16TRANSPARENCY AND HUMAN RIGHTS
+Our Code and SR policy state our commitment to 
+uphold human rights and to conduct our business with integrity. During 2008 we continued to 
+actively participate in key voluntary initiatives while 
+developing and implementing increasingly robust 
+programs.
+Human Rights and Anti-Corruption Programs    
+Prior to 2006 the company conducted human rights and anti-corruption screening for new investments on a case by case basis. In 2006 and 2007 Hess completed a global security and human rights 
+risk assessment for the countries in which we 
+maintained business interests and identified four countries for specific follow-up.
+Hess first endorsed the Voluntary Principles for 
+Security and Human Rights in 2003 and has actively 
+supported the effort. In 2008 we also engaged with 
+U.S. company participants and non-governmental organizations, as well as government officials from the U.S. State Department and the U.K. Foreign and Commonwealth Office as part of a multi-stakeholder effort to resolve outstanding challenges within the 
+process and ensure effective implementation.
+In 2008 we continued to work with the U.S. State 
+Department, the World Bank, the International Monetary Fund and the Equatorial Guinea (E.G.) Government to help E.G. achieve the Extractive 
+Industries Transparency Initiative’s (EITI) Candidate 
+Country status and move to the validation phase. We 
+were included in the EITI Secretariat’s list of “Friends 
+of the EITI in E.G.” and also continued to provide data to the Azerbaijan and Gabon EITI programs.
+In 2007 and 2008 the company began developing 
+a more formal enterprise wide program to 
+systematically operationalize our voluntary 
+commitments, including a Human Rights Risk Assessment (HRRA) process.
+The HRRA process is comprised of three 
+stages. The first stage entails country specific reviews of U.S. State Department reports and 
+information published by the international human 
+rights community and the mainstream media; 
+assessment of company specific activities related 
+to implementation of the voluntary initiatives; and benchmarking the practices of other companies in relation to specific countries. The second stage 
+includes in-country fact finding through site visits 
+and discussions with senior country managers, 
+security personnel, local government and non-
+governmental organizations, community members and other stakeholders. The third stage documents 
+the findings from the first two stages and 
+recommends next steps.
+In 2008 we began to develop implementation 
+guidance for country managers to ensure that appropriate risk assessments are conducted and, 
+depending on the project, interactions with and 
+between public and private security forces are appropriately managed. Senior corporate staff 
+conducted visits to operations to familiarize in-country staff with the country manager guidance 
+documents and to begin awareness training on human rights and anti-corruption matters.  
+Additional site visits are planned for 2009.
+Security Measures     Our Code of Business 
+Conduct and Ethics recognizes that in some 
+countries in which the company has operations it may be unavoidable for the company to engage 
+the assistance of local military or law enforcement 
+personnel for security or operational reasons. We have sought to limit the use of public security forces 
+and are taking steps to educate both public and 
+private security providers regarding our commitment to human rights. 
+labor Practices     We oppose forced and child 
+labor practices and prohibit these in our operations. We support freedom of association and the rights 
+and cultures of local communities, including 
+those of indigenous people. The company has 
+not identified operations with significant risk for incidents of child labor or forced or compulsory 17VOlUNTARY INITIATIVES
+Hess Corporation has endorsed four international voluntary initiatives designed to protect the 
+environment, promote universal human rights and encourage financial transparency. We are 
+currently the only U.S. energy company to endorse these four initiatives:
+The United Nations Universal Declaration of Human Rights (UDHR), 
+established in 1948 by the U.N. General Assembly, serves as the 
+international standard and codification of human rights norms and has been endorsed by 148 countries. In December 2008 Hess was one of about 230 companies recognized for its public commitment to human rights as part of a commemoration of the 60th anniversary of the UDHR.
+The United Nations Global Compact (UNGC) provides businesses 
+a learning platform to embrace, support and promote a set of core values in the areas of human rights, labor, the environment, and anti-corruption. In 2002 Hess became the first UNGC signatory in the  
+U.S. energy sector and continues to participate in UNGC sponsored meetings and workshops.
+The Voluntary Principles on Security and Human Rights (Voluntary 
+Principles) is a voluntary guide for companies to assure the safety and security of their operations while respecting human rights and fundamental freedoms.
+The Extractive Industries Transparency Initiative (EITI) supports 
+improved governance in resource rich countries through the 
+verification and publication of company payments and government revenues from oil, gas and mining. Hess publicly endorsed the initiative and its principles in 2004 and has been active in plenary sessions and working groups. 
+labor. Other International Labor Organization (ILO) 
+rights at work are discussed in the “Workforce” section of this report. There were no legal actions, significant fines, or non-monetary sanctions relating to anti-competitive behavior, anti-trust, monopoly-related laws, regulations or indigenous peoples’ rights. The company requires full compliance with the Foreign Corrupt Practices Act (FCPA). During the year, approximately 80 percent of staff assigned to take FCPA anti-corruption training completed the 
+training courses.Compliance     In 2005 the Securities and Exchange Commission (SEC) commenced a 
+private investigation into payments made to the 
+government of Equatorial Guinea or to officials and 
+persons affiliated with officials of the government of 
+Equatorial Guinea. Hess Corporation has provided 
+the SEC with all documents and information 
+requested. We understand that the SEC has now 
+closed this issue with no further action.18OUR SUPPlIERS  
+Hess is committed to a strong and diverse supplier 
+network which supports our goal of making a 
+positive contribution in the communities where we 
+do business. We promote an inclusive business 
+environment that welcomes participation by small 
+and local suppliers. 
+Supplier Diversity     In the United States the 
+company relies on the U.S. Small Business Administration’s (SBA) definitions for small, minority 
+owned and women owned businesses, as well as 
+other SBA business categories. Purchasing data are 
+compiled for the company’s business operations in 
+the United States, where we have major operations 
+along the East Coast, and in Louisiana, North Dakota, 
+Texas and the U.S. Virgin Islands.
+In 2008 the company spent $682 million for goods 
+and services with small businesses out of a total 
+of $2.3 billion; $68 million was spent with small 
+diverse businesses. Hess Corporation worked with 
+more than 10,000 U.S. suppliers. Between 2007 and 
+2008, the company spent more than $200 million 
+with small suppliers that grew to become large 
+business enterprises.
+HOVENSA purchased $433 million in goods and 
+services available under the SBA’s programs from 
+more than 2,000 U.S. suppliers. Twenty-five percent 
+of those were small businesses that accounted for 
+approximately $55 million in purchases.
+Supplier Screening     Hess conducts quarterly 
+debarment processing of its suppliers to ensure 
+compliance with the U.S. Department of the 
+Treasury’s Office of Foreign Assets Control (OFAC) 
+and the U.S. Patriot Act. Contracts for goods and 
+services typically include requirements for supplier compliance with applicable laws and regulations and Hess policies in areas such as safety, health, 
+environment, process safety, drug and alcohol 
+use, business ethics, conflicts of interest, the 
+Foreign Corrupt Practices Act and labor practices. 
+Internationally, E&P operations have incorporated 
+provisions relating to adherence to the Voluntary 
+Principles into selected supplier contracts following risk evaluations.
+PRODUCT RESPONSIBIlITY
+Hess Corporation makes, stores, distributes and 
+sells bulk refined petroleum products, including 
+gasoline and gasoline/renewable fuel blends, low 
+sulfur diesel, ultra-low sulfur diesel, kerosene, 
+propane, jet fuel, fuel oil and bunker oil. The 
+company’s principal market for these products  
+is on the U.S. East Coast. 
+The full life-cycle health and safety implications 
+of refined petroleum products are well studied by industry, government agencies and the scientific Hess actively promotes an inclusive business environment 
+that welcomes participation by small and local suppliers.
+Production operations in North Africa19community. The greatest environmental and 
+human health impacts occur during the use phase. 
+Reformulated gasoline and ultra-low sulfur diesel 
+made by Hess and HOVENSA for use in the 
+transportation sector cause less impact on air  
+quality and public health than conventional fuels.
+Tanks used to store refined products at our Port 
+Reading facility and HOVENSA refinery, and at Hess 
+terminals are clearly labeled. Petroleum products sold 
+at Hess retail stores are labeled at the dispenser in 
+accordance with applicable regulatory requirements. 
+Each product has an associated Material Safety Data 
+Sheet (MSDS) that describes chemical, physical, and 
+toxicological characteristics, as well as safe handling 
+and emergency response directions. These MSDSs  are available on location and at the Hess Web site, 
+www.hess.com.
+ 
+Hess follows specific customer satisfaction 
+practices and responds rapidly to customer 
+concerns and complaints. The company’s 
+customer service departments are easily accessed 
+by telephone, Internet and e-mail. We employ 
+marketing representatives whose positions are dedicated to customer service and our retail station 
+managers have the authority to settle customer 
+service issues. Within our Retail operation, there 
+is an online database where customer issues are 
+logged, assigned for handling and monitored for 
+appropriate closure.
+The company generally limits marketing 
+communications to information posted on  
+www.hess.com and www.hessenergy.com and 
+to signage at retail outlets and a limited number 
+of sports venues. Signage at retail outlets can be 
+subject to local ordinance.
+The company pays particularly close attention to 
+customer privacy issues with payment card security 
+for Retail and Internet privacy for Energy Marketing. We dedicate ample resources to ensure the security 
+of customer data through a Payment Card Industry 
+(PCI) Compliance program. A privacy policy that 
+provides disclosure on information use and security of customer data appears on the Energy Marketing Web site, www.hessenergy.com/privacypolicy.htm. 
+In 2008 Hess met product responsibility regulations 
+and voluntary codes applicable to our products and 
+services and did not incur any fines.
+ECONOMIC CONTRIBUTIONS
+Hess Corporation provides direct and indirect 
+economic contributions to those countries where 
+we operate. Direct contributions of $11,600 million 
+include shareholder dividends, employee wages 
+and benefits, capital and operational expenditures, 
+interest paid on debt, supplier spend, income taxes, 
+and other payments to governments including 
+royalties, severance, re-entry payments, leasehold arrangements, dispensation duties, gas transport 
+fees and carbon taxes. Our social investments of 
+$21 million are intended to foster indirect economic 
+benefits and are discussed in the Community and 
+Social Performance section of this report. The 
+company did not receive any significant government 
+financial assistance in 2008.
+Income tax $2,420
+Royalties and other
+payments $891Wages and benefits (US) $720
+Recordabl e supplier
+spend (US) $2,345Capital and e xploration
+expenditures $4,828
+Dividends $130Interest paid $2662008 Economic Contributions ($ Million)
+2,4204,828
+2,345891720266 13020
+Okume Complex, Equatorial Guinea
+STRATEGY AND APPROACH
+Protecting the safety and health of employees, 
+contractors and customers is an essential element 
+of the Hess Values. We strive for zero incidents so 
+that everyone gets home safe, every day. Safety is 
+essential to our operational excellence.
+Our leaders set clear expectations and measurable 
+accountabilities for operations. Our safety and health management systems foster effective planning 
+and help managers translate expectations into 
+everyday work actions. We continually assess safety 
+and health efforts throughout our global operations.
+Chronic, acute and catastrophic risks are evaluated 
+and rigorous personal and process safety 
+management plans are established to mitigate them. Effective incident reporting and well-developed Our safety and health management systems foster effective 
+planning and help managers translate expectations into  
+everyday work actions.Safety
+Performance21emergency response systems are intended to 
+further support workplace and community safety.
+We conduct regular drills and exercises of our 
+emergency response systems to be sure that, if 
+deployed in an emergency, they would be effective 
+in protecting our workforce and the community. 
+To keep our operations safe, we continually review 
+what we do and how we do it. This approach 
+includes evaluation of significant incidents industry-
+wide to identify what may be done to prevent similar 
+incidents in the future.
+The company’s operations are subject to national, 
+regional and local health and safety regulations. 
+Audits are conducted routinely by internal teams 
+and external authorities to assess conformance 
+with management systems and compliance with 
+regulations. We dedicate significant resources 
+to act in accordance with applicable regulatory 
+requirements and in many cases exceed them. 
+PERFORMANCE RESUl TS
+For all operations we track data that serve as early 
+indicators of safety and health performance and 
+regularly conduct management reviews. We also 
+measure actual safety performance results against 
+targeted improvements.  
+The key metrics we use to track personal safety 
+performance are Total Recordable Incident Rate 
+(TRIR) and Lost Time/Restricted Duty Incident  
+Rate (LT/RD).  
+Employee Safety Performance     In 2008 we 
+achieved our best employee safety performance 
+since we began keeping records more than 20 years 
+ago. For the fourth consecutive year, there were no employee work related fatalities. Continuing a trend 
+of steady improvement, the company’s injury rate in 
+2008 was 60 percent lower than in 2002. Employee 
+TRIR  was 1.09, a 16 percent improvement over 
+2007 and nine percent better than our 2008 target.Employee Safety Performance
+Employ ee TRIR Employ ee LT /RD TRIR Target0.00.51.01.52.02.53.0
+20022.81
+2.06
+1.171.73
+1.29
+0.761.09
+0.78
+2006 2007 2008Cases per 200,000 hours1.2
+Workforce Safety Performance     Between 2005 
+and 2008 our overall workforce safety performance 
+improved nearly 45 percent. While employee 
+performance continued to improve significantly from 
+2007 to 2008, that improvement was partially offset 
+by the results in contractor safety performance in 
+Exploration and Production. As we grew in 2008 
+and took on more projects around the world, our 
+operations became more complex and the safety of 
+contractors became more challenging. 
+Regrettably there was one contractor fatality in 
+our Carigali-Hess joint venture in Southeast Asia. 
+Corrective and preventive actions were taken based 
+on lessons learned from a comprehensive incident 
+investigation.
+Workfor ce Safety Performance
+Workforce LT /RD (Emplo yees and Contractors)Workforce TRIR (Emplo yees and Contractors)0.00.20.50.81.01.31.6
+1.04
+0.631.58
+1.12
+0.91
+0.520.88
+0.55
+2006 2005 2007 2008Cases per 200,000 hours
+The total workforce TRIR remained virtually flat 
+from 2007 to 2008 primarily due to issues in our 
+Exploration and Production business. The industry continued to grow rapidly during the first three 
+quarters of 2008 and there was a sector-wide 
+shortage of experienced oil field labor. As a result of 22that shortage, less experienced workers were not as 
+knowledgeable at avoiding injury. Improved reporting 
+processes, including those for contractor incidents, 
+have also had an impact on reported performance.
+The quality of employee and contractor safety 
+performance data continued to improve with consistent reporting protocols and methods 
+companywide, including from joint ventures. In 2008 
+we began to track process safety performance metrics 
+at the corporate level. These metrics were historically 
+tracked at the facility level only. This change should 
+help establish future improvement targets and allow 
+for better benchmarking with industry.
+CONTRACTOR SAFETY MANAGEMENT
+Contractors accounted for 51 percent of our 
+company’s 47 million workforce hours in 2008.  
+The majority of contractor hours was logged in Algeria, Indonesia, Malaysia and Thailand where 
+several expanded or new facilities began production. 
+U.S. Remainder 25%
+Algeria  11%
+Malaysia/ Thailand 8%Indonesia 14%U.S. Retail 30%
+U.K. 2%Equatorial Guinea 6%
+Remainder (1 1 Countries) 2%
+Denmark 1%
+Australia 1%2008 W orkfor ce Hours
+(47 Million Employee + Contractor Hours)
+30%
+25%14%11%8%6%2%1%
+We continue to work with current contractors to 
+improve their safety performance and are screening 
+new contractors for safety policies, practices and 
+performance that meet our high standards. As a 
+result, we are making a thorough review of safety performance histories and management systems to ensure safe work behaviors, the ability to recognize 
+hazards, and competency in process safety 
+management. Leaders from our operations routinely 
+meet with leaders of our contract companies to ensure that our expectations for safety culture and performance are aligned.
+The people in our workforce have the right and 
+the obligation to stop work that may be unsafe. 
+Before a contractor enters a Hess facility, he or she 
+must participate in an orientation session at which 
+expectations for the use of safe work behaviors  
+and site specific procedures are reviewed.  
+ExPlORATION AND PRODUCTION
+Overall in E&P , total workforce TRIR was 0.60, an 
+increase of approximately 30 percent above last 
+year and more than our 2008 target, due primarily 
+to a higher rate of contractor safety incidents in our 
+drilling and new developments activities. 
+In E&P , contractor activity accounted for 80 percent 
+of the workforce hours and 92 percent of the recordable incidents in 2008. We are implementing 
+actions to improve contractor safety performance, 
+including use of a formalized contractor engagement 
+program and a structured employee on-boarding 
+process. Contractor safety will continue to be a 
+major area of focus for our organization.
+E&P Safety Performance (TRIR)
+Employ ee Contractor Workforce0.00.10.20.30.40.50.60.70.8
+0.180.53
+0.120.54
+0.460.45
+2006 2007 2008Cases per 200,000 hours0.480.70 0.60
+0.24
+TRIR Target (W orkforce)
+Many operations in our Exploration and Production 
+(E&P) business achieved excellent safety results 
+during 2008. The Equatorial Guinea operation 23earned the annual Chairman’s Award for Safety 
+Excellence for establishing a safety culture that  
+has produced clear operational improvement.  
+Major accomplishments included safe crane 
+change-outs on the Atwood Seahawk drilling rig 
+during ongoing operations; the safe inspection and repair of the Ceiba Floating Production, Storage  
+and Offloading vessel while in operation, and  
+a 90 percent improvement in safe driving behaviors  
+while achieving a significant reduction in the cost  
+to maintain the vehicle fleet.
+The AH001 floating production platform came on-
+stream in the North Sea in July 1989. By the end of 
+2008 it had operated for more than five years and 
+recorded one million person-hours of work without a lost time incident. That performance earned it the E&P President’s Award for Safety Excellence.
+In the Gulf of Mexico critical production activities 
+returned to operation within six weeks following 
+damage by Hurricane Ike.
+The Sinphuhorm gas plant in Thailand completed 
+a comprehensive Hazard and Operability study 
+designed to provide assurance that all operations 
+are conducted safely.
+Our SonaHess operation in Algeria, Gassi El Agreb, 
+implemented a “Structured Improvement Process” 
+to build a best-in-class emergency response system 
+and more effective safety communications.
+DRIVING SAFETY IN E&P
+Driving safety is a significant issue for every 
+oil company, and Hess is actively involved 
+in improving performance in our company 
+and throughout the industry. Faced with 
+sobering statistics — driving deaths are the 
+No. 1 cause of on-the-job fatalities in the 
+oil industry worldwide — experts from our 
+company and others gathered in 2008 to 
+discuss the problem and what companies can do to address it.
+Hess helped develop industry-wide guidance 
+called the International Association of Oil 
+and Gas Producers’ Land Transportation 
+Recommended Practice. This common set 
+of practices is designed to facilitate safety 
+programs with shared goals among oil 
+companies and service providers working in fields around the world.In 2008 in our Exploration and Production 
+operations, we implemented a worldwide 
+driving safety initiative with three key elements: 
+driver training, driver monitoring and coaching, 
+and smarter trip planning. Developed in our operation in Equatorial Guinea, the effort’s 
+positive results prompted a global rollout.
+Because drivers typically fall back into pre-
+conditioned driving habits about two weeks 
+after attending an initial safe driving course, 
+ongoing training and coaching is a vital 
+component. 
+Smart trip planning also leads to safer results. 
+The goal is to eliminate unneeded journeys 
+and limit the risks on the ones that are taken — another key component of our driver safety 
+initiative given that people working in the oil 
+exploration and production business log more 
+miles than in most other industries.24MARkETING & REFINING
+Our Marketing and Refining (M&R) business 
+continued to improve its safety performance, driven 
+primarily by Retail Operations, which accounts 
+for more than 60 percent of the company’s total 
+employee hours. Overall, employee TRIR in M&R 
+was 1.41, compared to the target of 1.50.  
+Retail Operations had its safest year ever recorded. 
+Notably, the Long Island/New York City region achieved the best-ever safety performance for a 
+Hess retail operation, earning it the M&R President’s 
+Award for Safety Excellence. Over the past three 
+years the injury rate has decreased nearly 70 
+percent, a significant achievement for a region with 
+high customer volume, heavy traffic and a wide 
+variety of convenience store configurations. 
+Terminal Operations achieved marked safety 
+improvement in 2008. The Terminal Operations 
+Proactive Safety Program made a significant 
+impact by positioning all employees to be better 
+safety leaders through participation in site safety 
+committees, safety training exercises and behavioral safety efforts. These initiatives have resulted in 
+Terminal Operations reducing workforce TRIR to 
+0.57, a 55 percent improvement over last year and 
+consistent with near first quartile performance for this business segment.  
+Workforce safety performance in Refining was 
+disappointing. The rate of workforce incidents 
+increased 50 percent at the Port Reading refining 
+facility. Specific initiatives are now underway to 
+improve personal safety and continue to strengthen 
+the sound process safety management systems  
+in place.Retail Operations achieved its best safety performance since 
+we began record keeping more than 20 years ago.
+M&R Safety Performance (TRIR)
+Employe e Contractor Workforce TRIR Target
+(Employee)0.00.51.01.52.02.5
+2.12
+0.141.66
+0.441.571.41
+2006 2007 2008Cases per 200,000 hour s
+1.97
+0.431.341.5
+SAFETY COMMITTEES
+Safety committees are integral to our 
+operations around the world. They 
+include management, represented and 
+non-represented employees. These 
+committees have had a positive impact 
+on safety performance and operational 
+results. Employees as safety leaders 
+have also helped drive a positive change 
+in our safety culture.
+The safety committees develop location-
+specific safety goals and objectives 
+which, if achieved, can factor into bonus compensation. Some represented employees are eligible to receive extra 
+compensation for their efforts as part of a safety committee and also receive 
+specialized safety training. Certain of 
+our collective bargaining agreements 
+include health and safety topics such 
+as safety training and incident reporting 
+requirements, expectations for accident 
+investigation/root cause analysis, and 
+safety performance goals. 
+Employees working effectively together 
+to improve safety helps get everyone 
+home safe, everywhere, every day.25HOVENSA 
+HOVENSA is a joint venture refinery with Venezuela’s 
+national oil company Petroleos de Venezuela 
+(PDVSA) on the island of St. Croix in  
+the U.S. Virgin Islands. The operation had mixed results in workforce safety performance in 2008 with 
+a TRIR 20 percent higher than in 2007, which was  
+the safest year since operations began. 
+In 2008 HOVENSA implemented the “Safety 
+Teams Achieving Results” (STARS) program. This 
+program is designed to improve overall personal 
+safety performance by improving communication 
+between management, supervisors and the general 
+workforce. This program serves to reinforce safety 
+programs and practices, encourage innovative 
+solutions for improving the workplace and enhance 
+the overall safety culture.  
+Initiatives like the STARS program, along with 
+sustained improvement in process safety 
+management, are expected to drive continued 
+improvements in safety performance.
+HOVENSA Safety Performance (TRIR)
+Employ ee Contractor
+TRIR Target (W orkforce) Total Workforce0.00.20.40.60.81.01.2 1.11
+0.380.430.560.52 0.54
+2006 2007 2008Case per 200,000 hours0.630.690.63
+0.40
+PORT READING EMERGENCY  
+RESPONSE DRIll
+In 2008 as a follow-up to a previous 
+tabletop exercise in 2007, Hess participated 
+in a full scale emergency response exercise 
+at our Port Reading, N.J. refining and terminal facility. We volunteered to host this 
+drill as part of our commitment to operating 
+safely and making a positive impact in the community. 
+This full scale exercise involved more than 
+250 public safety specialists representing 
+state, county and local agencies, and was 
+designed to test multi-agency operational 
+and response capabilities and equipment. 
+These included fire suppression, emergency 
+medical techniques, search and rescue efforts, technical apparatus function and 
+rapid resource deployment. 
+The exercise strengthened the relationship 
+between Hess and area emergency 
+providers so they are prepared to work 
+cooperatively if a serious incident 
+should occur. In addition, the exercise 
+demonstrated to both the Hess and agency teams that they have the right equipment 
+and training to respond in the  
+event of an emergency.Emergency responders drill at  
+Port Reading, N.J. facility26
+Hawksbill turtle, U.S. Virgin Islands
+STRATEGY AND APPROACH
+Hess Corporation is committed to operate in 
+an environmentally responsible manner while 
+helping to meet the world’s growing demand 
+for reliable and affordable energy. Our objective 
+is to continuously improve our environmental 
+performance, managing our facilities in a way that 
+protects the resources we share.Our company follows a precautionary approach. We screen our operations and products for 
+environmental, safety, health and social risks 
+and conduct environmental and social impact 
+assessments for major new projects. We also 
+monitor the impact of our operations and perform 
+enterprise wide data collection and analysis to 
+identify opportunities for improvement.Our objective is to continuously improve our environmental 
+performance, managing our facilities in a way that protects 
+the resources we share.Environmental
+Performance27Climate change is a global issue with significant 
+consequences for society and the energy industry.  
+Hess is committed to responsibly manage our 
+greenhouse gas (GHG) emissions from existing 
+assets and future developments. Water use, 
+biodiversity, air emissions, oil spills, wastewater discharges and solid waste are other environmental matters that we actively manage. The Hess 
+Corporation Principles for Operational Excellence 
+set expectations for resource conservation and 
+pollution prevention for the company’s businesses.
+In setting priorities and goals, each of our businesses 
+determines the materiality of these issues to its 
+unique operation. 
+Hess dedicates significant staff and financial 
+resources to maintaining compliance with 
+applicable laws and regulations and applies  
+best management practices and innovation to remediate liabilities. The company’s operations  
+are subject to internal and third-party audits to identify any deficiencies and continuously improve 
+our environmental performance.ClIMATE CHANGE
+Hess supports U.S. climate change legislation that 
+treats all affected parties equitably and cost effectively. 
+Recent U.S. legislative action on energy efficiency 
+and climate change mitigation have the potential to 
+encourage innovation, enhance energy security, foster 
+economic growth, improve the balance of trade and 
+set an example for other countries. 
+We encourage the U.S. government to work with 
+other countries to reach a global solution to climate 
+change that encompasses developed and developing 
+countries. We believe that establishing a global 
+emissions market will facilitate emissions reductions 
+in the most cost effective manner. Our experience 
+in the European Union, its trading scheme and 
+emissions reduction projects, provide guidance on 
+how we manage greenhouse gas (GHG) reductions for our operations in other parts of the world.
+Our company recognizes the financial implications, 
+risks and opportunities that come with climate 
+change. We continue to evaluate a full range of 
+options to responsibly manage our greenhouse 
+gas emissions. Due to the gradual phase-in of U.S. 
+regulations and our geographic distribution of assets, 
+we do not anticipate a significant financial impact from carbon regulations during the next five years. 
+During 2008 our company’s Climate Change 
+Network (CCN), comprised of senior managers and 
+specialists from across the company, reviewed 
+the implications of various carbon price scenarios; 
+examined technology based options for flaring and 
+venting reduction, energy efficiency, and carbon 
+capture and storage; and developed a strategy and goals for minimizing our carbon footprint.  The Hess 
+Leadership Team recently approved a seven point 
+plan for addressing the company’s climate change 
+challenges and opportunities.
+North Dakota field operations28ClIMATE CHANGE STRATEGY
+As part of Hess Corporation’s climate 
+change strategy, the company will:
+•   Establish and publicly communicate 
+a five-year GHG emissions intensity 
+reduction target.
+•   Account for the cost of carbon in all significant future investment decisions.
+•   Evaluate industry best practices when designing production facilities to minimize emissions.
+•   Reduce flaring in Algeria and Equatorial Guinea by 50 percent 
+over the next five years.
+•   Implement a corporate-wide energy efficiency program focused on major 
+combustion sources and greater use 
+of renewable resources.
+•   Purchase at least 10 percent of annual 
+electricity for our operations from 
+renewable sources.
+•   Through our Green-E program, offer our Energy Marketing customers a 
+full suite of products to help them 
+minimize their carbon footprints.
+GREENHOUSE GAS PERFORMANCE
+Our major direct sources of greenhouse gas 
+emissions are flaring, venting and fuel combustion. 
+We also generate indirect emissions as a result of 
+our purchases of electricity and natural gas. The 
+company tracks direct and indirect GHG emissions on both a Hess operated and a Hess net equity 
+basis. In addition to reporting GHG emissions 
+from our operations, this year we are including an 
+estimate of emissions associated with the end use 
+of our refined petroleum products.Hess Operated Emissions    In 2008 we integrated our Malaysia/Thailand Joint Development Area (JDA) 
+into our Hess operated GHG emissions reporting 
+because it is a major source of emissions and the 
+data quality has improved. With the inclusion of 
+JDA, our total GHG emissions from operated assets 
+increased from 6.4 million tonnes carbon dioxide 
+equivalent (CO
+2e) in 2007 to 11.3 million tonnes 
+CO2e in 2008; emissions without JDA decreased 
+slightly to 6.3 million tonnes CO2e. Emissions related 
+to direct transportation from operated assets were 
+11 thousand tonnes of CO2e.
+Greenhouse Gas Emissions (CO2e)
+GHG (e xcl. JDA) Norm alized GHG JDA024681012
+1012141618202224
+2006 2007 2008GHG
+(Million Tonnes )
+Emission Rate
+(tonnes/1,000 boe)13.1414.9923.15
+5.366.40 6.305.00
+Venting 31%
+Fuel Comb ustion 26%Flaring 36%
+Other 2%Indirect Emissions 5%31%36% 26%5%Operated Gr eenhouse Gas Emissions by Sour ce
+(11.3 Million tonnes - CO2e)
+2%
+Some of the JDA gas fields have naturally occurring 
+high levels of carbon dioxide (CO2) which is co-
+produced with the natural gas.  This CO2 is currently 
+vented; as a result, the GHG emissions intensity of our operations increased from 15 tonnes CO
+2e 29per thousand barrels of oil equivalent (BOE) in 2007 
+to 23 tonnes CO2e per thousand BOE in 2008. 
+We are taking both short and long-term actions 
+to reduce CO2 emissions from JDA. Currently 
+we are staging well development to reduce 
+CO2 concentrations in our production stream. 
+Longer term, together with the Malaysia/Thailand 
+authorities, we have been conducting joint studies 
+to examine a wide range of CO2 management 
+technologies including CO2 enhanced hydrocarbon 
+recovery and subsurface CO2 sequestration.  
+A post-2012 Kyoto climate and carbon policy 
+framework will have a significant impact on the 
+commercial and political viability of carbon capture 
+and sequestration.
+The company also undertook two major projects 
+in 2008 with the goal of enhancing natural gas 
+production while reducing GHG emissions. At Gassi El Agreb in Algeria, SonaHess, a joint 
+venture between SonaTrach and Hess, completed 
+construction and began startup of a major gas 
+compression reinjection project. In addition, our 
+Equatorial Guinea operations implemented a gas lift, injection and storage project. Combined, these two projects are projected to reduce flaring from these 
+two assets by 50 percent over the next five years.Hess Net Equity Emissions     In 2008 our net 
+equity emissions were estimated to be 10.8 million 
+tonnes CO
+2e, a 12 percent increase compared to 
+2007. This is due to the JDA Phase II development coming on-line, which significantly expanded gas 
+production at this joint venture.
+Net Equity Gr eenhouse Gas Emissions  (CO2e)
+024681012
+2007 2008GHG (Million Tonnes)
+0
+Hess E&P
+Samara Naft aHess M&R
+SonaHess JVJDA JV
+HOVENSA JV
+Non-Operated E&P9.610.8
+We began quantifying GHG emissions from our 
+net equity (financial) interests in 2007. This was a 
+complicated process as we have net equity interests 
+in various projects around the world that are 
+operated by other companies. We believe our net 
+equity emissions are a more meaningful measure of 
+our total carbon footprint. During 2008 we worked 
+with an industry benchmarking group to improve 
+and standardize the estimation process.  
+The majority of our net equity emissions are 
+concentrated in a select group of countries where 
+we have significant upstream and downstream 
+operations. These include the United States 
+Equatorial Guinea, Algeria, the United Kingdom, 
+Malaysia and Thailand. Malaysia/Thailand Joint Development Area
+30JDA 23%
+USA 16%USVI 25%
+Equator ial Guinea 12%
+Other Countr ies (<2% each)   9%
+Alger ia 8%Hess Net Equity GHG Emissions by Country
+(10.8 Million tonnes CO2e)
+Other Countries
+Australia 1.80%
+Azerbaijan 1.20%
+Denmar k 1.00%
+Indonesia 1.10%
+Libya 1.30%
+Norw ay 1.20%
+Russia 1.40%UK 5%
+Thailand 2%12%
+16%23%25%
+9%8%5%2%
+CARBON CAPTURE AND  
+SEqUESTRATION
+Hess is a partner in the Snøhvit 
+carbon sequestration project operated 
+by StatoilHydro, which was part of 
+a development plan to recover the 
+resources from three natural gas fields 
+off the coast of Norway in the Barent 
+Sea. Natural gas is piped to an onshore 
+gas processing plant where CO2 is 
+recovered and returned via pipeline 
+for sequestration in the subsurface. 
+This project has provided Norway with 
+access to natural gas resources while 
+meeting its obligations under the  
+Kyoto protocol.
+End-Use Product Emissions     For the first 
+time, we are providing estimated GHG emissions 
+associated with the end-use of our fuels andother products, commonly referred to as “Scope 3” emissions. The U.S. Environmental Protection 
+Agency (EPA), in its draft Mandatory Reporting of Greenhouse Gases rule published April 10, 2009, 
+proposed end-use product reporting. However, 
+there is currently no established methodology for calculating end-use product emissions. 
+In developing our estimated Scope 3 emissions, we 
+benchmarked the methodologies used by the few 
+companies within our industry that have reported 
+these emissions. We then adopted a similar approach 
+using product sales and EPA emissions default 
+factors to arrive at an estimate of 78 million tonnes 
+of CO
+2e emissions. We anticipate that in the next 
+few years more standardized approaches and widely accepted methodologies will emerge.
+Petroleum 
+ProductAnnual Sales  
+Volume*GHG  
+Factor #CO2 
+(MM Tonnes)
+Gasoline   85,644,000      0.37            31.7
+Diesel   52,338,000      0.43             22.5
+Residual Oil   20,496,000      0.49            10.0
+Natural Gas 258,982,698 0.05302            13.7
+TOTAl            77.9Estimated CO2 Emissions from Petroleum Products Sold
+Notes:
+*  Annual Sales for liquid fuels in bbls*  Annual Sales for natural gas in MM Btu#  GHG factors in CO
+2 Tonnes/bbl. for liquids and Tonnes/MM 
+Btu for gas based on EPA proposed rule for Mandatory GHG 
+Reporting; table MM-1
+ 
+ENERGY USE AND EFFICIENCY
+We track companywide energy use and have 
+initiated energy conservation and efficiency 
+programs in our operations. We provide customers in 17 states with energy efficient and renewable 
+energy based products and services and continue to 
+commercialize Nuvera fuel cell systems.
+Energy Use     In 2008 our company’s energy 
+consumption totaled 52.2 PetaJoules from direct 
+and indirect sources. 31We use fuel generated by our own operations for direct 
+energy and purchase electricity and natural gas for indirect energy. The increase in energy use between 2007 and 2008 was due primarily to the start-up of the Gassi El Agreb gas compression and reinjection project and the inclusion of JDA in our reporting.
+For the second consecutive year, Hess purchased 
+100,000 megawatt hours of Green E-certified 
+renewable energy certificates to achieve our target of 
+10 percent of electricity use from renewable sources.
+2006 2007 2008  
+without JDA        with JDA
+Direct 32.6 34.7 36.3 42.9
+Indirect 8.9 9.4 9.3 9.3
+Total 41.5 44.1 45.6 52.2
+Percent Change, 2007 - 2008 +3% +18%Energy Use (PetaJoules)
+•  2006 and 2007 total energy use are restated
+•   Indirect energy data were calculated based on the amount 
+of energy required by the power company to provide the net purchased electricityEnergy Efficiency Initiatives     Within our 
+Marketing and Refining (M&R) business, energy 
+efficiency initiatives were implemented across Retail 
+Marketing and at its headquarters in Woodbridge, 
+N.J. These energy conservation measures enabled 
+Hess to meet customers’ fuel and convenience needs 
+while conserving enough electricity to power 2,700 
+homes.
+Retail Marketing employees replaced more than 
+100,000 light bulbs at more than 861 Retail 
+locations with energy efficient, longer life models. 
+Energy Management Systems were installed in 
+60 convenience stores to automatically control 
+and optimize lighting levels, air conditioning and 
+heating equipment, refrigerator temperatures and 
+appliance usage. Employees also encouraged 
+vendors to alter work practices that have an 
+impact on energy consumption. These Retail Marketing energy efficiency initiatives accounted 
+for a reduction of 22.5 million kWh in purchased 
+electricity in 2008, a decrease of more than 10 
+percent compared with 2007.  
+We installed energy efficient interior lighting along 
+with motion sensors that automatically turn off 
+lights in unoccupied rooms at our Woodbridge office 
+facility. In addition, comfort cooling and heating systems were upgraded. We expect an approximate 
+5 percent reduction in the building’s electricity 
+usage in 2009 as a result of these improvements.A running tally of CO2 emissions avoided by customers  
+purchasing green power from Hess Energy Marketing can 
+be found at www.hessenergy.com
+Retail employees play a key role in energy conservation32Hess Energy Marketing     In 2008 Hess Energy 
+Marketing began providing commercial and 
+industrial customers with the Hess “Green Suite”  
+of sustainable energy options. These include Demand Response, Renewable Energy Certificates (RECs) and 
+the C-Neutral program. 
+With Hess Demand Response, commercial 
+customers receive monthly payments when they 
+commit to curtail between five and ten percent of 
+their electric power usage for a short time should 
+the regional power grid be stressed and overloaded. 
+This program improves grid reliability and decreases 
+the need for new power plant construction. Our company’s Woodbridge office and Baltimore Terminal are Demand Response participants.
+Green-E RECs, purchased through Hess, support 
+the development of U.S. renewable energy sources. 
+Customers can make their energy usage carbon 
+neutral by using Hess C-Neutral, which bundles the 
+power purchases with offset credits.
+“ Hess Demand Response is a win-win for 
+us. We are compensated for reducing the 
+electricity load and the meter system has 
+shown us how we can decrease overall 
+kilowatt hours which are significantly reducing 
+our carbon footprint. And now we’re looking 
+into using the revenue we get from Hess to 
+buy green power for the campus.”
+–  Xavier Rivera, Georgetown University 
+(Washington, D.C.) utility director
+Nuvera Fuel Cells     Nuvera Fuel Cells, a 
+wholly-owned subsidiary of Hess with locations 
+in Massachusetts and Italy, is a global leader in 
+the development of fuel cell systems and fuel 
+processors for industrial vehicles and equipment, as 
+well as automotive and transportation applications. 
+Nuvera’s mission as a clean energy conversion 
+business is to create and develop innovative 
+technology solutions for power systems, to design and 
+develop power systems focused on end use customer needs, and to manufacture, market and service 
+power system products delivering value to 
+customers. In 2008 Nuvera made advancements 
+in the development and commercialization of 
+hybrid fuel/battery systems for forklift trucks. The commercialization of the PowerTap™ onsite hydrogen generator and dispensing system 
+installations also progressed. Information on  
+these products and Nuvera’s development  
+projects can be found at www.nuvera.com.
+NATURAl RESOURCE USE
+Hess carefully manages its use of natural resources, 
+such as water and raw materials. We look for 
+opportunities to reduce usage by improving the 
+efficiency of our operations and replacing fresh water 
+and virgin materials with recycled and regenerated options, in addition to other substitutions.
+Material Use     Responsible material use is one 
+way Hess minimizes its environmental footprint. 
+Our Port Reading refining facility has successfully 
+incorporated the use of recycled and regenerated 
+materials, including catalyst and sulfuric acid, into 
+key unit operations. Spent acids and caustics are 
+also used for pH control at the wastewater treatment plant, reducing the need to purchase virgin water 
+treatment chemicals.
+Water Use     In 2008 our company used 54 million 
+barrels of fresh water for processing, cooling, and 
+oil and gas reservoir management, including about 
+70 percent from groundwater wells, 30 percent 
+Nuvera Fuel Cells is a global leader in hydrogen  
+fuel cell technology
+Nuvera Fuel Cells is a global leader in hydrogen  
+fuel cell technology33from municipal sources and less than one percent 
+from surface water. Municipal water consumption 
+at our Retail stores and Terminal operations has not 
+been included in our calculation of total water use. 
+We have recently implemented enhancements to 
+improve the reliability of our data collection efforts in those areas and will report these in the future.
+The company’s municipal water use decreased by 
+14 percent between 2007 and 2008. Conservation 
+measures included the replacement of a portion of 
+our municipal water consumption with the use of 
+process water at Port Reading’s wet gas scrubber 
+and with storm water at the Pangkah Gas Plant. 
+In 2008, groundwater use increased 60 percent 
+from 2007 because of new construction activities at our West Texas facilities. No water sources were 
+identified as being significantly affected by the 
+company’s water consumption.
+Fresh W ater Use
+Groundw ater/Surf ace Municipal0102030405060
+2007 2008MIllion Barrels16.7
+24.014.3
+39.4
+HOVENSA met most of its water needs through 
+onsite desalination of sea water supplemented by 
+groundwater. In 2008 groundwater consumption 
+was 3.2 million barrels, 38 percent less than the 5.2 
+million barrels used in 2007.
+AIR EMISSIONS
+In addition to greenhouse gas emissions, our 
+operations generate other types of air emissions.
+Criteria Pollutants     Power generation and flaring 
+activities result in emissions of sulfur oxides (SOx) 
+and nitrogen oxides (NOx). Flaring, product loading, 
+and fuel dispensing activities are the principal sources of emissions of non-methane volatile organic 
+compounds (VOCs). Between 2007 and 2008, normalized emissions of SOx increased five percent, primarily due to increased gas plant flaring, while absolute emissions increased from 2,598 to 3,126 
+tonnes. Normalized NOx emissions decreased 
+seven percent, as fewer wells were drilled, while absolute emissions increased from 11,300 to 11,980 tonnes. Normalized VOC emissions were reduced by 20 percent, as the Algeria Gassi El Agreb gas compression reinjection project came on line, while absolute emissions decreased from 33,115 to 30,163 tonnes. 
+Over the past five years emissions intensity has 
+trended down about 11 percent for SOx, 26 percent for NOx, and 29 percent for VOCs.
+Criteria Pollutant Emissions (normalized)
+NOX (tonnes/100,000 boe) VOC (tonnes/100,000 boe)
+SO2 (tonnes/million boe)012345678910
+2008 2007 2006
+Ozone-depleting substances     Refrigeration, air 
+conditioning, and fire suppression and explosion protection are the primary uses for ozone-depleting substances (ODSs). In the U.S., Hess uses certified technicians to service and maintain equipment containing Class I and Class II refrigerants, as well as to record refrigerant consumption. We are not aware af any material instances of ODS releases from operated assets in 2008.
+SPIllS
+Hess produces, processes, refines, transports and sells oil and gas products from our various assets around the world. During each of these activities, spills can occur that can potentially impact the environment. Our operations have controls in place to prevent spills, including equipment inspection 34and preventive maintenance programs, secondary 
+containment and alarm systems and spill response and mitigation plans. These help us identify and correct the root causes of spills, react appropriately and prevent recurrences. 
+We track two categories of spills: oil spills and 
+other spills. Oil spills are tracked and aggregated company-wide on a monthly basis and reported to the Hess Leadership Team.
+Oil Spills     In 2008 there were 121 crude oil and 
+refined petroleum fuel spills that totaled 1,039 barrels of oil. Sixty-four percent of the spills were less than one barrel and 89 percent were land spills that were readily contained and cleaned. There were 13 spills to surface water totaling 724 barrels, including one major spill of 690 barrels of crude from Denmark’s South Arne platform.
+The spill at the South Arne platform occurred in 
+early December while offloading through the Single Anchor Loading (SAL) system. We promptly ceased transfer operations and flushed the residual crude in the SAL system back to the platform. A remotely operated underwater vehicle was deployed to inspect the SAL system and identified a hole in a SAL hose, which was replaced. A root cause investigation and forensic analysis of the failed  
+hose was undertaken.
+Oil Spills
+Volume of Oil Spills (b bls)
+Number of Oil Spills (#)0400800120016002000
+2008 2007 2006NUmber of Oil Spills
+(#)
+Volume of Oil Spill s
+(bbls)
+050100150
+31,455
+4581,039115129121
+Other Spills     The company uses a wide range 
+of liquids in our operations. In the category “other 
+spills,” we include drilling fluids, hydraulic and 
+lubricating oils, acids and caustics, and oil/water mixtures. In 2008 there were 56 spills (including 14 
+also counted in the oil spill category); 95 percent 
+of these were on land, including seven of the eight 
+spills of more than 100 barrels. At our Global Drilling 
+operation in Equatorial Guinea, one significant spill occurred offshore when 280 barrels of drilling fluid were released due to a pump failure. 
+DISCHARGES
+Regulatory authorities allow several major types of discharges including wastewater effluent and stormwater runoff from upstream and downstream operations and produced water, drill cuttings and drilling fluids associated with upstream operations.
+Offshore Discharges     Drill cuttings consist of rock 
+fragments removed from the subsurface as a well is drilled. Drilling mud is used to lubricate drill bits and control downhole pressure; some residual drilling mud adheres to the drill cuttings and contains small amounts of oil. In 2008 approximately 38,000 barrels of drill cuttings and 16,000 barrels of drilling mud containing 441 barrels of oil were discharged from offshore facilities.
+Produced water is mainly salty water trapped in 
+reservoir rock and co-produced with oil and gas. 
+In 2008 140 million barrels of produced water were discharged. The level of oil in produced water averaged 21 parts per million (ppm), well below the Booms are used as a precaution during on- or off-loading
+35accepted regulatory limit of 30 to 40 ppm. Produced 
+water discharges contained 2,969 barrels of oil; our JDA operation accounted for 57 percent of this. Without JDA, there was an eight percent increase in the volume of oil discharged offshore between 2007 and 2008.
+Oil in Pr oduced W ater Discharges to Sea
+Oil Volume in Produced Water excl. JDA (bbls)
+Oil Concentration in Produced Water (ppmV)Oil Volume in Produced Water – JD A (bbls)0500100015002000250030003500
+2008 2007 2006Oil Volume in Produced Water
+ (bbls)
+Oil Concentration in Produced Water
+ (ppmV)
+0510152025
+1,4091,193 1,28317
+1521
+1,686
+Onshore Discharges     Onshore exploration and 
+production generated approximately 102 million barrels of produced water, of which 38 percent was reinjected for disposal and 62 percent was reinjected for reservoir management. No produced water was discharged to surface water.
+In the U.S., wastewater and stormwater discharges 
+to surface water are permitted under the National Pollutant Discharge Elimination System. Facility specific effluent quality requirements are established based on expected control technology performance and aquatic protection. Overall, 88 percent of gas plant and 99 percent of terminal and refinery stormwater and wastewater discharges complied with permit requirements. Port Reading and HOVENSA discharged 6.5 million and 11.1 million barrels of treated wastewater, respectively. Both Port Reading and HOVENSA discharges were well within permitted effluent limits.Refinery Wastewater Emissions
+Emissions (tons) Port Reading HOVENSA
+2006 2007 2008 2006 2007 2008
+Biochemical 
+Oxygen  
+Demand (BOD)1.3 2.9 8.1 187.0 171.2 124.5
+Suspended Solids5.5 4.4 6.4 309.9 283.8 293.9
+Hydrocarbons 0.9 1.9 5.1 79.1 36.2 33.1
+SOlID W ASTE
+In 2008, 98 percent of the solid waste generated 
+by our operations was classified as non-hazardous 
+and the majority of waste was reused or recycled.  
+Typical upstream and downstream wastes include 
+construction waste, oily tank bottoms, contaminated 
+soil, spent acids and caustics, used catalyst and 
+scrap metal and wood. Spent acid was regenerated 
+for reuse, spent caustic was shipped to paper plants 
+for process use, and used catalyst was reprocessed and recycled in cement plants. 
+Hazardous waste generation increased to two 
+percent of the total waste volume compared to 
+one percent in 2007, primarily due to the cleanout 
+of Port Reading’s wastewater treatment plant 
+equalization tank. Between 2006 and year end 2008, 
+total waste decreased 42 percent.
+Waste Generation
+Nonhazardous Hazardous050,000100,000150,000200,000
+0.18
+2007 2006 2008Tons193,420577
+108,3041,188
+110,9532,490In 2008, 98 percent of the waste generated by our 
+operations was classified as non-hazardous and the 
+majority of waste was reused or recycled.36Landf arm 17% Wastewater treatment 12%Landfill 12% Reuse/recycle 59%2008 W aste Management Methods
+59%
+17%12%12%
+In both 2007 and 2008 approximately 11 tons  
+of spent catalyst, considered hazardous waste 
+under the terms of the Basel Convention, were 
+exported from the U.S. to Belgium for precious 
+metals recovery.
+In 2008 HOVENSA generated 11,155 tons of 
+nonhazardous waste and 6,829 tons of hazardous 
+waste, accounting for 62 percent and 38 percent of 
+the total amount of waste respectively. HOVENSA reused or recycled 89 percent of hazardous waste 
+and 57 percent of nonhazardous waste. Total waste 
+volume decreased 21 percent between 2006 and 2008.
+BIODIVERSITY
+As a global energy company, we face the challenge 
+of conducting local operations in a manner that 
+protects habitats with significant biodiversity value. 
+Precautionary Approach     We conduct 
+biodiversity screening for major new projects as 
+part of early site evaluation and selection and 
+follow this with environmental baseline surveys 
+and environmental and social impact assessments (ESIAs). We use the best available guidelines and 
+tools, such as those developed by the Energy and 
+Biodiversity Initiative, the Wildlife Conservation 
+Society, the International Union for Conservation 
+of Nature (IUCN) and the International Petroleum 
+Industry Environmental Conservation Association to assess and manage biodiversity sensitivities. 
+ESIAs are performed by experienced third-party 
+consultants in accordance with local requirements, as well as International Finance Corporation/World Bank guidance and include oil spill vulnerability mapping. The findings are considered in final site selection and project design and addressed in environmental management plans. The ESIAs include screening of flora and fauna against the IUCN Red List, as well as local and national threatened and endangered species lists. We do not currently operate in any IUCN designated protected areas.
+Hess continued to use a precautionary approach 
+as part of exploration activities offshore Ghana. 
+In 2007 when we performed 2D and 3D seismic surveys, we followed Joint Nature Conservation 
+Committee Guidelines (JNCC) for minimizing acoustic 
+disturbances to marine mammals and employed JNCC certified Marine Mammal Observers. We 
+continued these practices in early 2008 when we 
+conducted a controlled source electromagnetic 
+survey, which is considered to have lower impacts to marine mammals than seismic surveys.
+Urban Biodiversity     In the U.S., master plans are 
+being developed to guide ecosystem restoration of highly urbanized estuaries under the EPA’s National Estuary Program and similar state programs. These are long term, multi-stakeholder initiatives that allow the whole region to work together on common restoration goals and habitat improvement We routinely conduct biodiversity screening for major new 
+projects as part of early site evaluation and selection.37efforts. Hess operations with deepwater and barge 
+access are located on several of these designated 
+estuaries, including the New York-New Jersey 
+Harbor, Long Island Sound, the Delaware River, 
+Tampa Bay and the Elizabeth River. 
+The Port Reading facility, our terminals and 
+the HOVENSA refinery have facility specific 
+integrated contingency plans (ICPs). These are 
+comprehensive emergency response plans that 
+address EPA, U.S. Coast Guard, U.S. Department 
+of Transportation, and Occupational Safety and 
+Health Administration requirements. Each facility 
+ICP includes a vulnerability analysis with biodiversity 
+as one of the key criteria, which identifies sensitive 
+environments that could be at risk from a petroleum spill. Customized protection plans have been 
+documented for sensitive environments that take 
+into account the ecosystem, any federal and 
+state listed threatened or endangered species, 
+surrounding land use, accessibility, and physical 
+factors such as tidal range, current, water depth  
+and wave action. 
+Sheltered tidal flats and marshes have been identified 
+as having the highest biodiversity value for most of 
+our facilities located near or adjacent to marine bays 
+and estuaries. Within each facility ICP , these habitats 
+have priority protection ranking in the event of a spill.
+HOVENSA and Wildlife Protection     St. Croix, 
+U.S. Virgin Islands is home to a large variety of 
+marine and terrestrial wildlife. For more than ten 
+years HOVENSA has assisted natural resource agencies such as the U.S. Fish & Wildlife Service, 
+the National Park Service, the Cooperative Fish 
+and Wildlife Research Unit of the U.S. Geological 
+Survey and the Virgin Islands Division of Fish and 
+Wildlife, in monitoring, protecting and rescuing 
+local, national and international endangered and 
+threatened species.
+The least tern is listed as an endangered species by 
+the U.S. Virgin Islands Indigenous and Endangered 
+Species Act of 1990 and is also protected under the federal Migratory Bird Treaty Act. Each year 
+approximately 400 pairs of least terns nest within 
+the boundaries of the refinery. HOVENSA protects 
+the nesting birds, eggs and chicks from human 
+disturbance and predation from feral dogs. The 
+refinery also provides wildlife researchers access to conduct surveys. Results indicate that the colonies nesting within the refinery fenceline have some of 
+the highest reproductive success on St. Croix.
+HOVENSA has hosted bird rescue training through 
+a contract with Tri State Bird Rescue for local 
+and federal wildlife agencies, as well as local 
+veterinarians and nonprofit environmental groups. 
+The refinery stockpiles wildlife rescue equipment 
+for its own and others’ use, as needed. Training includes the handling, rescue, medical treatment 
+and rehabilitation of wildlife in the event of an oil 
+spill. During 2008 the U.S. Fish and Wildlife Service 
+called on refinery personnel and equipment to 
+assist in the rescue and rehabilitation of a critically 
+endangered hawksbill turtle. HOVENSA also 
+provided funding to the West Indies Marine Animal 
+Research and Conservation Service in its efforts 
+to sustain and protect leatherback, hawksbill and green turtles.
+Least tern nesting areas are protected on HOVENSA 
+Refinery grounds38PRODUCTS AND SERVICES
+Our company makes, stores, blends, distributes, 
+and sells refined petroleum products to the U.S. 
+market. Primary products include reformulated 
+gasoline, conventional gasoline, ultra-low sulfur 
+diesel fuel and heating oil. These are managed in 
+bulk throughout the product life cycle and thus no 
+packaging materials are utilized, except for a small 
+quantity of Hess branded oils and fluids for retail 
+customer purchase. 
+The U.S. EPA’s 1995 Reformulated Gasoline (RFG) 
+program and 2007 Renewable Fuel Standard (RFS) 
+heavily regulate gasoline formulations. Ethanol is the 
+designated renewable fuel under the RFS program. 
+The EPA also has an ultra low-sulfur diesel (ULSD) 
+requirement to reduce emissions from diesel-
+powered vehicles.  
+The Port Reading and HOVENSA facilities doubled 
+their production of ethanol/gasoline blends from 
+36 percent in 2006 to 72 percent in 2008. Hess 
+meets or exceeds all RFG, RFS and ULSD program 
+requirements.
+The EPA has reported decreases in tailpipe emissions 
+of toxic and smog forming compounds and 
+improvements in air quality under the RFG program.  The agency also has projected nationwide increases 
+in smog forming compounds and decreases in carbon 
+monoxide, carbon dioxide and toxic emissions under 
+the RFS program (www.epa.gov/otaq). 
+The RFG program mandated the use of oxygenates 
+in gasoline to improve air quality in non-attainment 
+areas. Hess, like other refiners, used methyl tertiary-
+butyl ether (MTBE) to meet this requirement. Hess is one of many oil and gas companies that have 
+been party to lawsuits and claims related to historic 
+MTBE use as detailed in our annual SEC 10-K filing. 
+The company no longer makes or sells gasoline that 
+contains MTBE.ENVIRONMENTAl ExPENDITURESHess spent approximately $15 million at its facilities 
+in 2008 to comply with federal, state and local 
+environmental standards other than for low sulfur 
+fuel requirements.
+The company conducts remediation as necessary 
+at sites where our activities or those of previous 
+owners have resulted in soil and groundwater 
+contamination. These sites include gas stations, terminals, onshore exploration and production 
+facilities, and refineries. Hess Corporation accrues 
+for remediation expenses when the future costs 
+are probable and reasonably estimable. These 
+reserves are routinely audited and are expected to 
+adequately cover costs to assess and remediate 
+known sites. In 2008 the company’s reserve for its 
+estimated environmental liability was approximately 
+$61 million and remediation spending was approximately $23 million.
+In 2008 the company initiated the Hess Remediation 
+Alliance. Alliance members, including Hess and our 
+key remediation contractors, are working together 
+to develop innovative, cost effective, and efficient 
+environmental liability management solutions.
+The application of green remediation techniques is 
+an important aspect of the company’s approach. 
+Hess has used off-grid solar and wind-powered 
+groundwater remediation equipment on an ongoing 
+basis at several locations. Hess is working jointly 
+with five other parties to recover hydrocarbons 
+as part of a remediation project at the former St. 
+Croix Alumina plant in St. Croix, U.S. Virgin Islands.  
+The project was included as a case study for 
+renewable energy systems in the U.S. Environmental Protection Agency’s April 2008 technology primer, 
+Green Remediation: Incorporating Sustainable 
+Environmental Practices into Remediation of Contaminated Sites.
+Beginning in 2005 our company incorporated 
+phytoremediation — the use of plants to clean 
+up pollution — as part of  groundwater and soil 39cleanup activities at our Chesapeake Terminal.  
+Located on the Elizabeth River in Virginia, the site 
+was contaminated with creosote from historic wood 
+treatment operations well before Hess purchased 
+the property. To date, we have planted 1,200 trees, as well as native grasses and wildflowers, re-
+established habitat for wildlife and reduced the risk 
+of contaminated groundwater and runoff discharges 
+to the Elizabeth River.
+ElIzABETH RIVER PROJECT
+The Elizabeth River Project, begun in 
+1991 as a nonprofit grassroots effort 
+to clean up the Elizabeth River, now 
+includes industries, citizens, and local, state and federal government 
+agencies working together to 
+remediate the river and its shorelines. 
+Former U.S. EPA administrator 
+Christine Todd Whitman has called 
+the Elizabeth River Project the model 
+for voluntary partnerships between 
+government, businesses and citizens to achieve real environmental results.
+Phytoremediation at Hess facility, 
+Elizabeth River, Chesapeake, V a.lEGAl PROCEEDINGS
+Hess Corporation routinely provides current 
+information on environmental legal matters relating 
+to the company’s wholly owned and joint venture 
+operations and legacy liabilities in SEC forms 10-K 
+and 10-Q.  The status of legal proceedings at the 
+end of 2008 is detailed in Item 3 of the company’s 
+2008 SEC 10-K form. This information is also 
+available to the public on the company’s Web site,  
+www.hess.com. 
+Exceedances and Enforcement Actions
+Company policy reinforces our fundamental 
+commitment to full compliance with applicable 
+environment, health and safety laws and regulations.  
+While compliance is our objective, exceedences 
+of permitted levels can occur, as do citations from 
+regulatory authorities.  
+During 2008 the total of fines paid was 
+approximately $1.2 million, of which $1.1 million 
+was related to the resolution of an enforcement 
+action brought against the company in 2001. As a 
+result, monetary penalties paid in 2008 exceeded 
+the $79,000 penalties paid in 2007 and the $188,000 
+paid in 2006.40
+Safety support at South Arne Platform,  
+Danish North Sea
+STRATEGY AND APPROACH
+Hess is committed to attracting, energizing, developing  
+and retaining a highly talented, diverse workforce that 
+is capable of delivering strong business results.
+We value individuals with outstanding technical, 
+professional and administrative skills who work well 
+in a collaborative environment, make an extra effort 
+to ensure success, act with a social conscience and 
+demonstrate an entrepreneurial, independent spirit.
+We provide equal employment opportunity to 
+all employees and job applicants regardless of race, color, religion, sex, age, sexual orientation, creed, national origin or disability. All terms and 
+conditions of employment, including compensation 
+and opportunity for advancement, are based on 
+qualifications and job performance.
+We recognize and respect our employees’ right to join 
+associations and choose representative organizations for the purpose of engaging in collective bargaining 
+in a manner that is consistent with applicable laws, 
+rules, regulations and appropriate local customs.We value individuals with outstanding skills who work well 
+in a collaborative environment.Global
+Workforce41OVERVIEW
+Hess employed 12,432 people around the world 
+in 2008, and supported another 1,479 people 
+who worked in refining and energy trading joint 
+ventures, a three percent increase from 2007 
+levels. The vast majority of employees, 91 
+percent, worked in the U.S. Twenty-six percent 
+of employees were part-time and 66 percent 
+were hourly. The majority of part-time and hourly 
+employees worked at Retail locations. 
+U.S. Non Retail 3,404Intern ational locations 1,117 U.S. Retail 7,911Global Employees
+(12,432 Employees)
+64%27%
+Africa 296
+Europe 379     
+Southeast Asia and Au stralia 428
+Other 14<1% 2.4% 3.1% 3.4%Country No. of hires
+U.S. (Non Retail) 645
+Southeast Asia and Australia 62
+Europe 57
+Africa 34
+Other 3
+TOTAl 801Global New Hires (Professional and Executives)
+DIVERSITY AND EqUAl OPPORTUNITY
+Our company continues to recruit and develop a 
+diverse workforce, and creates opportunities for 
+those who are qualified to advance and take on more 
+responsible positions. Leaders at various levels of 
+the company participate in a Talent Management 
+process to review the achievements, capabilities and 
+potential of their employees and recommend training, 
+work assignments and projects that enable them 
+to make a significant contribution in their current 
+role and prepare them for their future growth. The process moves many employees to other countries, 
+cities, locations or positions, and ensures that there 
+are qualified candidates for jobs as they become 
+available. Women comprise 40 percent of global 
+employees. In the U.S., women and minorities respectively make up 43 percent and 37 percent  
+of employees.HESS ADVANTAGE
+Hess offers a competitive total package that 
+is distinctive in four areas:
+Compensation and Benefits     Our total 
+pay is very competitive and includes the 
+opportunity for employees to earn a bonus 
+based on performance. We provide a range 
+of financial and health benefits so that 
+employees and their families can enjoy  
+a high quality of life.learning and Development     We invest in our employees’ professional development and 
+provide them with challenging and rewarding 
+opportunities for career growth.
+Work Environment     We provide a safe, 
+healthy and productive work environment, and 
+foster a culture that reflects our core values.
+leadership     Leaders are continually 
+challenged so that they have the skills and 
+abilities to deliver results in their current and 
+future roles.42Age Group (Years) Number Percent
+Under 30 3,826 35
+30 to 50 4,615 43
+Over 50 2,362 22U.S. Employees by Age Group* 
+*  Employee numbers are based on the EEOC reporting year 
+(July 2007 – June 2008) and differ slightly from 2008 calendar 
+year totals.   
+EMPlOYEE ENGAGEMENT
+In 2008, our company engaged Towers Perrin 
+International Survey Research, a third-party 
+consultancy, to conduct an anonymous employee 
+engagement survey, Voice of Hess. 
+Overall, 84 percent of employees responded to 
+the survey, four percentage points better than 
+the average for high performing companies and a 
+two percentage point improvement over our last survey. The survey showed that employees clearly 
+understand goals and objectives and are willing 
+to work beyond what is required in the job to help 
+the company succeed. Employees feel they are 
+encouraged to offer innovative solutions to work-
+related problems. Compensation, including base salary plus incentives, is perceived to be as good or better than that in other companies.
+The formal Voice of Hess process is supplemented 
+by ongoing opportunities, including town hall 
+meetings, focus groups, direct e-mail and comment 
+cards. Together, these provide feedback and ideas 
+about programs, services, business performance 
+and the company’s future direction.
+WEllNESS
+We have launched a new wellness initiative,Health4Life, in the U.S. to encourage optimal 
+employee health. Through Health4Life, Hess 
+promotes disease prevention and helps educate 
+employees and their families about their health and 
+the healthcare system. The focus is on key behaviors:
+eat well, move more, don’t smoke, and be safe.
+A new medical plan for U.S. employees provides 
+in-network preventive medical care at no cost for 
+employees and their family members. Well-child visits, immunizations, vaccinations, mammography, 
+Pap smears and colorectal cancer screenings are 
+among the covered preventive screenings, along with 
+smoking cessation counseling and tools.          Women          Minorities
+Job Category Total Employees Number Percent Number Percent
+Executives and Sr. Officials 76 5 7 5 7
+First and Mid-Level Managers 2,279 959 42 584 26
+Professionals 1,230 435 35 326 27
+Technicians 126 26 21 29 23
+Sales Workers 6,066 2,949 49 2,776 46
+Administrative Support 407 281 69 138 34
+Craft Workers 76 0 0 16 21
+Operatives 434 5 1 78 18
+Laborers and Helpers 70 2 3 18 26
+Service Workers 39 7 18 13 33
+TOTAL 10,803 4,669 43 3,983 37U.S. Employee Diversity* 
+*  The data in this table are consistent with employee grouping, gender and race/ethnicity categories as designated by the U.S. Equal 
+Employment Opportunity Commission (EEOC). Employee numbers are based on the EEOC reporting year (July 2007 – June 2008) and differ 
+slightly from 2008 calendar year totals.     43WOMEN’S HEAl TH
+A major promotional campaign was 
+initiated in May for Women’s Health and in June for Men’s Health in partnership with the U.S. Department of Health and Human Services. The top health risks for various ages were profiled, appropriate screenings were recommended and guidelines were provided for having a meaningful discussion with the health care provider. The U.S. government named Hess a Corporate Partner for the Women’s Health effort – the only employer in the oil and gas industry  
+to earn that recognition.
+“ We found that companies with comprehensive wellness initiatives have over time been able to make a positive impact. We think a similar effort can do the same for us and become another factor in making Hess a great place to work.”
+–  John Rielly, Chief Financial Officer and 
+Health4Life executive champion
+COMPENSATION AND BENEFITS
+In 2008 Hess spent nearly $720 million in pay and 
+benefits for U.S. employees. Entry-level hourly 
+employees were paid on average 10 percent more 
+than the local minimum wage in Retail locations, 
+and skilled hourly field operations employees earned 
+approximately three times the local minimum wage.
+In keeping with the company’s “Hess Advantage” 
+competitive total package, we compensate all employees based on specific job responsibilities 
+and job performance.
+Hess has instituted global processes to ensure 
+internal fairness and external competitiveness. On an annual basis, employee performance is formally reviewed and calibrated against others in 
+like positions, regardless of gender. Additionally, all 
+managers are provided benchmarked competitive 
+compensation data for their employees, based on job 
+responsibilities and geographic location, to enable them to make timely and objective pay decisions.
+STANDARD EMPlOYEE BENEFITS  
+(U.S. AND U.k.)
+•  Company Sick Pay
+•  State Disability Pay (if applicable)
+•  Vacation and Personal Days
+•  Paid Holidays
+•  Bereavement and Jury Duty Pay
+•  Overtime Pay
+•  Employee Assistance Programs
+•  Long-Term Disability Insurance
+•  Education Assistance
+•  Pension Plan
+•  401(k)/Savings Plan
+•  Medical Plan
+•  Dental Plan
+•  Vision Plan
+•  Flexible Spending Accounts
+•  Life Insurance•  Accident Insurance
+Note: Union-represented employees are subject to 
+Collective Bargaining Agreements; many of these 
+benefits are available to part-time and retail hourly 
+employees; see SEC 10-K for detailed description of 
+defined benefits, pension and other retirement plans.
+FREEDOM OF ASSOCIATION
+Hess employs unionized and non-represented 
+employees in hourly classifications. Approximately 
+7.5 percent of U.S. employees are represented by 
+various unions. Within our Marketing and Refining 
+operations, the company has collective bargaining 
+agreements in place at the Port Reading facility and 
+14 petroleum terminals that cover 61 percent of 
+facility personnel. The HOVENSA joint venture has 
+two collective bargaining agreements in place that cover 43 percent of its employees. Approximately six 44percent of employees at retail stores are unionized in 
+three separate bargaining agreements. Exploration 
+and Production’s Danish operations have represented 
+workers, but collecting data on the number of 
+workers who belong to unions is prohibited by Danish 
+law. The company has not identified any operations where the right to exercise freedom of association and collective bargaining may be at significant risk.
+Terms of notification of major operational changes 
+such as layoffs or facility closure are common in 
+existing collective bargaining agreements. Should 
+such changes occur, the company will notify 
+employees in accordance with federal and state 
+labor regulations and the terms of the collective 
+agreements. Typically locations with 50 or more employees receive 60 to 90 days advance notice 
+of major operational changes. The notification 
+period for locations with fewer than 50 employees is 
+typically two to four weeks, depending on the time 
+needed to safely manage the operational change.
+EMPlOYEE lEARNING AND DEVElOPMENT
+Over the last two years Hess has taken 
+significant steps to increase its focus on employee development and career planning. 
+The company’s effort to support employees 
+includes career pathing, skill building, leadership 
+development and performance management.
+In 2007 Hess began creating career guides and 
+profiles that describe the skills and core competencies 
+required of recruits and employees to advance in 
+their fields. This project will continue in 2009 with an emphasis on creating training opportunities through 
+which employees can gain new skills.
+Every professional and executive employee took 
+part in the global performance management process 
+in 2008, and those who were required completed a 
+formal development plan with their supervisor.
+A corporate learning strategy was also introduced 
+in 2008. It led to the formation of a global council 
+that helped guide employee career development efforts. We are building an enterprise-wide structured 
+approach to learning that supports employees during 
+key transitions, develops leaders, creates partnerships 
+with contractors and leverages technology. 
+Hess invested $13 million to train employees who 
+work in office locations. The company’s investment 
+to train operations employees is not centrally 
+tracked, but a new system is being put in place 
+in 2009 to do so globally. In our Retail operations, hourly employees received an average of four hours of 
+training for the year and regional managers received 
+14 hours. Non-retail, exempt employees received 
+an average of 25 hours of training. In 2008, 421 
+Hess and HOVENSA employees took advantage of 
+educational assistance programs as they pursued 
+advanced degrees.
+Forty senior executives from around the world 
+participated in focus groups to define the role of 
+leaders at Hess, providing the basis for two new 
+training programs – Leadership Essentials and 
+Business Essentials. More than 230 employees 
+participated in these programs, which were held 
+during the year in Woodbridge, N.J.; Houston, 
+Texas; Kuala Lumpur, Malaysia; and London. 
+An online Learning Center was piloted in 2008 
+with Hess employees around the globe who have 
+access to the company’s intranet or the Internet. 
+Employee orientation at Hess Marketing and Refining center45The Center offers more than 500 modules on 
+general business knowledge, technical and 
+functional capabilities, desktop skills, compliance 
+issues and Hess topics. 
+The Hess Foundation Program continued in 2008 to 
+develop young geoscientists, particularly those who 
+are beginning their careers with Hess. Nearly 40 employees are taking part in this two-year program that combines intensive mentoring and training 
+on real Hess Exploration and Production projects.  
+Once through the program, participants take on 
+long-term assignments. A similar program is now 
+being developed for engineers, covering the basics 
+of production, drilling, reservoirs and a general 
+engineering orientation at Hess.
+WOR kFORCE  lOCA lIzATION  IN 
+SOUTHEAST ASIA
+Access to skilled, technically proficient 
+professionals continues to challenge the 
+energy industry. Hess has stepped up efforts to recruit and develop local talent.
+Production sharing agreements and 
+contracts, which vary by country, typically set requirements for the number and types of positions to be held by local nationals. Hess views these agreements as part of its hiring and employee development platform. Having a workforce that reflects the diversity of the communities in which we operate gives the company insight into the needs and issues of customers and neighbors. It also provides 
+a greater diversity of skills, experience and 
+culture within our workforce.  
+In 2008 the company took an innovative 
+approach to recruitment in Southeast Asia as it developed its operations organization to run a number of new production projects.  A campaign invited experienced Malaysians and Indonesians working in the Arabian Gulf to “Come Home to a New Global Career.” A delegation of technical, operations and human resources professionals traveled to the Gulf to conduct a series of presentations in Qatar, Dubai, Abu Dhabi and Oman, highlighting the rewarding new careers possible at Hess assets and developments  
+in their home country.More than 600 resumes were added to the Hess database and several professionals were hired as a result of the initiative, which also paved the way for continued recruitment efforts in the region.
+Local nationals are assuming more 
+responsible roles in significant company operations, including the Hess gas plant in Sinphuhorm, Thailand, which is staffed and led entirely by nationals. The operation marked the second anniversary of its first gas sale in November 2008. Since startup, there have been 150 change proposals from employees, and upgrades are continually being made to improve production and safety. The operation had almost no lost time injuries and a 99.8 percent record of reliability in 2008. It is one of the top performing operations in all of Southeast Asia.
+An increasing number of promising 
+professionals are being given short-term assignments outside the region to expand their skills and abilities and prepare for more responsible future roles. As a result of a formal, companywide Talent Management process, in 2008, 31 employees from Southeast Asia worked abroad in a variety of areas, including Human Resources, Operations, Exploration, Supply Chain and Environment, Health and Safety.46
+Student at Hess supported school, 
+Equatorial Guinea
+STRATEGY AND APPROACH
+We believe that a world-class company achieves both a high standard of operating performance and acts with a social conscience. That is the way we do business. Social Responsibility is one of our six core values and we recognize that as a leading global energy company we have the ability to help make a lasting improvement in the quality of life of the communities where we do business.  The health and well-being of our communities and 
+our people are of paramount concern. Before we make a major investment anywhere in the world, we conduct an Environmental and Social Impact Assessment to understand the potential effect of our operations. We partner with host governments, community groups and other stakeholders to develop programs that can make a measurable and sustainable difference.We recognize that as a leading global energy company 
+we have the ability to make a lasting improvement in the 
+communities where we do business.Community and  
+Social Performance47The focus of our support is primarily on making 
+measurable advances in education and health  
+care, two areas that help determine the long term success of any society. The efforts of our workforce are an important part of our social responsibility mission. Every Hess employee is encouraged to lend time, energy and expertise to community  
+based organizations.In 2008 we invested $21 million in social causes around the world, a 29 percent increase over 2007. Of that, 49 percent was spent on education and 12 percent on health. We also contributed $3 million to the Greater Houston Community Foundation to 
+support hurricane relief efforts along the Gulf Coast 
+of the U.S.
+In addition, HOVENSA spent $3.5 million on social 
+programs in 2008, with $2.3 million dedicated to 
+education and $1.1 million dedicated to community 
+projects. The International Craft Training Program, 
+which was established in 2007, was the primary 
+recipient of these educational funds.
+HURRICANE RESPONSE
+The 2008 hurricane season was especially destructive. Our company anticipates harsh weather and follows detailed procedures to ensure the safety of our employees and continued service to our customers. In 2008 our planning was tested when the Gulf Coast of Texas and Louisiana was hit by two hurricanes, Gustav and Ike, within two weeks. 
+Hess put the safety and well being of our employees  
+first. We kept in touch with each of them, 
+providing regular condition updates through our emergency notification system, which uses two way communications with voice, text and Internet based systems. Hess offered support through our Employee Assistance Center, including free dining room access, salary continuity during the week of post-hurricane clean up, and no interest loans for those who were most disadvantaged by the storms.
+The company and our employees also made 
+significant contributions to help others in Houston and the surrounding communities. The company donated $3 million to the Greater Houston Community Foundation, and a special matching gift program was created for employees making personal contributions, matching dollar-for-dollar  
+all donations to recognized charities engaged in 
+local relief efforts.U.S. 42%
+Indonesia 2%Russia 5%Equator ial Guinea 46%
+Azerbaijan 1%Thailand 1%
+All Others 1%Norw ay 2%46%
+42%5%1% 2%2008 Social Investment by Country – $21 Million
+Community $3,645Health $2,575
+In Kind $1,246
+Disaster Relief $3,072Education $10,346
+Environment $1752,575
+3,072
+3,64510,3461752008 T ype of Investment ($ Thousand)
+1,24648Even as they struggled personally with damage  
+and disruption at their own homes, our people 
+reached out to those in greater need, volunteering 
+with organizations like the local food distribution centers, the American Red Cross, the United  
+Way of Houston, the Salvation Army and their  
+local communities.
+“ There was a moment, during the worst part 
+of the crisis after Hurricane Ike when I got 
+a call from one of our biggest corporate 
+citizens, the Hess Corporation, about a 
+large gift, $3 million, for the Ike Relief Fund. 
+I was touched. Houston is about neighbors helping neighbors and this was beyond 
+expectations. It was a moment I will never 
+forget. We are so grateful.”
+– Houston Mayor, Bill White
+AlGERIAIn Algeria, Hess has been involved in a number 
+of community projects, each chosen because it 
+offered long term benefits and was generally aimed 
+at helping children. Through one of these projects Hess improved a school building in Ain Hammam, an 
+isolated village in the mountains of eastern Algeria.Until recently the school did not have proper 
+heating. Hess funded the installation of a central heating system at the school and made other building improvements. The company also provided much needed computers and text books.
+Our company has funded upgrades at other 
+Algerian schools; built a new house for nine young children and their resident mother at an orphanage; donated wheelchairs to help disabled people; and contributed $45,000 to construct a recreation area at a school for the blind, a project that received national news attention.
+Each of these projects began with a suggestion  
+from a local community member in Algeria, and  
+was closely managed to ensure accountability  
+and results.
+lIBYA
+During 2008 Hess Corporation sponsored a 
+comprehensive study of diabetes care and 
+prevention in Libya in cooperation with the National 
+Oil Corporation. Four of the five most at risk 
+nations for diabetes in the world are Arab states in 
+the Gulf region.
+The Libya study, conducted by Partners Harvard 
+Medical International (PHMI), reviewed the status 
+of diabetes care and prevention in the country, 
+helped identify best approaches leading to 
+sustainable improvements in diabetes care, training 
+and prevention, and facilitated a national survey 
+of diabetes prevalence which was administered 
+by the World Health Organization. Contributions 
+to the study were made by faculty and experts 
+representing Harvard Medical School, Harvard School of Public Health, Joslin Diabetes Center  
+and the International Diabetes Federation. 
+Through continuing medical education programs 
+held in Boston and the Libyan cities of Tripoli 
+and Benghazi, Hess helped to train more than 90 
+Libyan doctors so they are able to diagnose and treat the disease.
+Hess volunteer during Hurricane Ike cleanup  
+in Galveston, Texas49“ Hess´ partnership has been a key factor in the 
+success of the PROdEGE Program. I have 
+seen a keen understanding of development processes and a sincere commitment to 
+sustainable change in education in John 
+Hess and Hess managers associated with the 
+program. The support given by the Hess-
+Equatorial Guinea management and staff 
+has been outstanding on all counts. National 
+involvement and development is foremost in the Hess strategy.”
+–  Carmen Siri, national director PRODEGE, 
+Equatorial Guinea
+The centerpiece of our Corporate Social 
+Responsibility program is a large scale effort to transform primary education in the West African nation of Equatorial Guinea.  
+The initiative, PRODEGE (Program for 
+Educational Development of Equatorial Guinea), is a $40 million public/private partnership led by Hess Corporation and the Government of Equatorial Guinea and implemented by the Academy for Educational Development.In just two years, PRODEGE has established 40 model schools and introduced accelerated course work in basic math, language and science. The schools use an active learning technique that encourages students to build critical thinking skills and learn cooperatively.
+Beyond classrooms, the partnership has 
+also built latrines and drilled water wells to ensure that students now have safe, potable water and proper sanitation. New classroom furniture is being supplied by local businesses. Thirty-nine of 40 schools targeted for these improvements are now fully operating.
+In 2008 PRODEGE launched a national 
+teacher diploma course, and more than 1,100 local educators have completed the first year of certification. In addition, three out of five new curriculum modules were completed and published, and the final two will be completed in 2009. A quality teaching laboratory was established and a site was assigned for another. 
+The program also designed four teacher 
+manuals and implemented its first student guide in 2008. Between the model schools and the diploma course, the program is reaching nearly half of the country’s primary school population.
+To help strengthen skills at the Ministry of 
+Education, PRODEGE completed the second and third rounds of a national effort to collect data about schools, which included a broad teacher study. Results were used to create a model schools map and three education statistics bulletins that, for the first time, gave supervisors data they can use in planning local education. The first study of teacher development is complete; policy forums are scheduled for 2009.SOCIAl RESPONSIBIlITY IN  
+ACTION: PRODEGE
+National director of PRODEGE, seated center, with 
+teachers in Equatorial Guinea50
+UNITED STATES
+Earth Science Curriculum
+Hess developed a 
+curriculum and teachers’ guide, Our Dynamic Earth, about the solar system and the Earth’s geology, in conjunction with the Houston Chronicle. The material was used by 425 Texas elementary and middle school teachers.
+ST. lUCIA
+World Eye Mission
+The company donated $10,000 to help St. Jude Hospital sponsor visits to St. Lucia by world class ophthalmologists. These physicians are screening for and treating glaucoma and retinopathy, both leading causes of blindness.ST. CROIx, U.S. V.I.
+Process Technology 
+Degree Program
+HOVENSA and the 
+University of the Virgin Islands jointly developed a new degree program in Process Technology to give students the necessary skills to be employed within area industries.ST. CROIx, U.S. V.I.
+Queen Louise Home  
+for Children
+The HOVENSA Refinery donated $66,000 to fund health and education programs at Queen Louise Home for Children, the only residential facility in the U.S.Virgin Islands serving abused, abandoned and neglected children between the ages of three and 12. UNITED STATES
+Home Runs for  
+Cancer Research
+To support children with 
+serious medical needs, Hess donated $500 for every televised Boston Red Sox home run. The Children’s Hospital of Boston’s Trauma Center Program and the Jimmy Fund Dana-Farber Cancer Institute each received $50,000.
+UNITED STATES
+Volunteers Build  
+Computer Lab
+Hess employee volunteers 
+joined Just Willing Foundation to build a new computer lab and education center for 1,200 students in an area of New Orleans that was still stricken three years after Hurricane Katrina paralyzed the city.
+UNITED STATES
+Gas Pumps for Rehabilitation
+At St. Charles Hospital 
+on Long Island, N.Y., Hess installed a model gas pump, specially configured to simulate the flow of gasoline, so patients rehabilitating from strokes and brain damage can practice important everyday tasks.Social Responsibility
+Activities51
+THAIlAND  
+Cattle Bank Project
+We provided farmers in 
+Nam Phong in the Thai province of Khon Kaen with 120 cows and the formal training necessary to build a sustainable herd of cattle that can eventually be sold at local markets.
+AlGERIA  
+Orphanage Housing
+Hess Corporation invested 
+$26,000 to install a heating system, a multi-media room, and desks and chairs at a primary school in the northern Algerian mountain community of Tizi Ouzou. The school supports residents in this town of 85,000.
+INDONESIA  
+Coastal Management 
+Program
+Hess is collaborating 
+with the Bogor Institute of Agriculture to ensure the conservation and sustainability of coastal areas in Pangkah and nearby Manyar.  The program will restore a natural habitat for fish and prevent erosion.
+EqUATORIAl GUINEA  
+Water Wells and 
+Sanitation
+Hess invested $400,000 
+to drill 30 water wells and construct latrines at primary schools on Equatorial Guinea’s mainland, giving students a safe, sanitary environment in which to learn and helping to prevent diseases, including cholera.
+EGYPT  
+Khatawat School 
+Scholarships
+Hess sponsored 65 
+students in a new school at Establ Antar, Egypt. Funding provided impoverished children with a quality education and vocational training. Uniforms, meals, books, a school bus and teacher salaries were also provided.
+UNITED kINGDOM  
+Inner-City Education 
+Initiative
+Employees shared expertise 
+in managing capital projects, tender processes and contract negotiations to help the Southwark Schools for the Future program improve courses, facilities and safety in its inner-city London neighborhood. RUSSIA
+Central School  
+District Hospital
+ZAO Samara-Nafta 
+renovated the wards, doctors’ consulting rooms and procedure units of the hospital in Bolshechernigovsky to improve medical service for citizens living in the Volga-Urals region of the Russian Federation.
+DENMARk
+Danish Nature Conservation
+The company sponsored 
+a national program to improve the integrity of small lakes and ponds. More than 230 lakes have been adopted by school classes that work with environmental scientists to study and preserve these environments.52Performance
+Data
+UNITS 2006 2007 2008
+BUSINESS PERFORMANCE
+Gross operated production/throughput (normalization factor) 000 BOE/D  1,120  1,171  1,333 
+Sales and other operating revenue $ Million  28,067  31,647  41,165 
+Net income $ Million  1,920  1,832  2,360 
+ECONOMIC CONTRIBUTIONSIncome tax to governments $ Million  1,799  1,826  2,420 
+Royalties and other payments to governments $ Million  580  885  891 
+Employee wages and benefits (restated) (U.S. only) $ Million  585  654  720 
+Recordable spending with suppliers (U.S. only) $ Million  1,929  2,276  2,345 
+Recordable spending with small business suppliers (U.S. only) %  37  33 29
+Community contributions $ Million  6  16  21 
+SAFETY PERFORMANCE
+Fatalities - Employees # 0 0 0
+Fatalities - Contractors # 0 0 1
+Recordable Incident Rate - Workforce per 200,000 hrs worked  1.04  0.91  0.88 
+Lost Work Time Incident Rate - Workforce per 200,000 hrs worked  0.41  0.28  0.28 
+Workforce hours Million hours  51.20  46.90  47.40 
+ENVIRONMENTAL PERFORMANCE
+Direct energy use (restated) Peta Joules  32.6  34.7  42.9 
+Indirect energy consumption Peta Joules  8.9  9.4  9.3 
+Flaring MMscf  27,319  43,956  47,563* 
+Operated direct CO2 emissions Million Tonnes  4.66  5.65  10.11* 
+Operated Indirect CO2 emissions Million Tonnes  0.506  0.541  0.567 
+Operated direct methane emissions Thousand Tonnes  7.06  7.39  26.44* 
+Operated direct greenhouse gas emissions Million Tonnes  4.85  5.85  10.70* 
+Operated carbon intensity Tonnes GHG/1000 boe  13.14  14.99  23.15* 
+Net equity greenhouse gas emissions Million Tonnes  NR  9.61  10.85 
+Freshwater use** (restated) Million bbls  NR  40.74  53.67 
+Number of oil spills #  115  129  121 
+Volume of oil spilled bbls  31,455  458  1,039 
+Nonhazardous waste generated Thousand Tons  193.42  108.30  111.00 
+Hazardous waste generated Thousand Tons  0.58  1.19  2.49 
+EHS fines and penalties $ Thousands  188  79  1,188 
+Environmental capital expenditures (excluding low sulfur projects) $ Million  71  22  15 
+Remediation expenditures $ Million  15  23  23 
+ISO 14001-certified operations #  3  3  3 
+GLOBAL WORKFORCENumber of employees #  12,921  12,071  12,432 
+Hourly paid employees %  68  67  66 
+Part-time employees %  NR  NR 26
+International employees %  6.1  8.5  9.0 
+Employee turnover (excluding Retail hourly) %  NR  NR  7.3 
+Female employees (U.S. and International) %  44  41  40 
+Females in management  (U.S. only) %  36  38  40 
+Minority employees (U.S. only) %  NR  NR  37 
+Minorities in management (U.S. only) %  27  29  26 
+Union employees (U.S. only) %  7.1  7.1  7.5 
+BOARD OF DIRECTORS DIVERSITYFemale members of the Board % 15 15 15
+Minority members of the Board % 8 8 8
+Board members in "over 50 years" age group % 100 100 100
+* In 2008, data set includes Malaysia / Thailand Joint-Venture (JDA) operation. 
+** Freshwater consumption excludes Retail and Terminal Operations.
+NR = Not ReportedThis table contains a subset of our publicly reported performance data.  
+More is available on our Web site (www.hess.com). 53Core Indicator Additional Indicator IPIECA only ● Fully reported ▲ Partially reportedGRI 
+Content Index 
+The index refers to the Global Reporting Initiative 
+(GRI) G3 indicators on which we have fully or 
+partially reported. Some of the information regarding 
+these indicators appears in the Web version (H) 
+of this report or in the Hess Corporation’s 2008 
+Annual Report (A). We also report on dedicated oil and gas industry indicators in accordance with the International Petroleum Industry Environmental 
+Conservation Association (IPIECA) and the American 
+Petroleum Institute (API) guidelines as well as the 
+UN Global Compact Principles (UN).
+GRI 
+INDICATORGENERAL DESCRIPTION PAGEGRI 
+STATUSIPIECA 
+INDICATOR
+STRATEGY AND ANALYSIS
+1.1 Chairman's Letter 2-3 ●
+1.2 Key impacts, risks and opportunities 8-9, 27 ●
+ORGANIZATIONAL PROFILE2.1 - 2.9 General information on reporting organization (A) (H) 4-7 ●
+2.10 Awards received during reporting period 12, 14, 39 ●
+REPORT P ARAMETERS
+3.1-3.3,  
+3.5-3.8Report period, scope and boundary; materiality determination for content
+Inside front cover ●
+3.4 Contact point for questions regarding report Inside back cover ●
+3.9 Data measurement techniques and bases of calculations 28-29 ●
+3.10, 3.11 Explanation of restatements and significant changes 28, 33, 52 ●
+3.12 GRI content index 53-55 ●
+3.13 External assuranceInside front 
+cover, 56●
+GOVERNANCE
+4.1-4.9Information on highest governance body; internal values, codes of  
+conduct and principles (A) (H)11 ●
+4.8 Internal values, codes of conduct, and principles (H) 5, 12-13 ●
+4.11 The precautionary approach (UN7)    26 ●
+4.12 Externally-subscribed or endorsed voluntary initiatives 16-17 ●
+4.13 Key memberships and associations 14 ●
+4.14-4.17 Stakeholders, types of engagement, key topics and concerns4, 14, 15, 19, 
+24, 39, 42, 
+46-51●
+ECONOMIC INDICATORS
+ECDisclosure on management approach to economic performance 19 ●
+Disclosure on management approach to market presence 4-7, 19 ●
+Disclosure on management approach to indirect economic impacts 46-47 ●
+EC1 Direct economic value (A) (H) 19, 43 ●ECO-1 – 
+ECO-A3; 
+SOC-A4
+EC2 Financial implications of climate change (UN7) 27 ●
+EC3 Defined benefit plan obligations (A) 43 ●
+EC4 Significant financial assistance received from government 19 ●
+EC5 Comparison of standard entry level wage with local minimum wage (UN1) 42 ●
+EC6 Local supplier spend at significant locations of operation 18 ▲ SOC-A3
+EC7 Local hiring at significant locations of operation (UN6) 45 ▲ ECO-3
+EC8 Development and impact of infrastructure investments and services 46-47 ●
+EC9 Understanding and describing significant indirect economic impacts 46-51 ▲54GRI 
+INDICATORGENERAL DESCRIPTION PAGEGRI 
+STATUSIPIECA 
+INDICATOR
+ENVIRONMENTAL INDICATORS (UN8)
+EN Disclosure on management approach to environmental aspects (UN7) 26 ●
+EN1, EN2 Materials used and percentage recycled input materials (UN9) 32 ●
+EN3, EN4 Direct and indirect energy use by primary source 30-31 ● ENV-5
+EN5 - EN7 Energy conservation and efficiency initiatives and improvements (UN9) 31-32 ● ENV-5 & A8
+EN8 Total water withdrawal by source 32-33 ● ENV-A7
+EN9, EN10 Significantly affected water sources and water recycled and reused (UN9) 33 ▲
+EN11, EN12 Proximity of protected areas/areas of high biodiversity 36-37 ●
+EN13, EN14 Habitats protected or restored and management of biodiversity impacts (UN7) 36-37 ● ENV-A9
+EN15 Number of IUCN Red List and national conservation list species 36-37 ▲
+EN16, EN17 Total direct and indirect and other relevant greenhouse gas emissions 28-29 ● ENV-3 & 4
+EN18 Greenhouse gas reduction initiatives and results (UN7, UN9) 27-28 ●
+EN19 Emissions of ozone-depleting substances 33 ▲
+EN20 NOx, SOx, and other significant air emissions 33 ● ENV-A6
+EN21 Total water discharge by quality and destination (H) 34-35 ● ENV-2 & A2
+EN22 Total weight of waste by type and disposal method 35-36 ●ENV-A3,  
+A4 & A5
+EN23 Total number and volume of significant spills 33-34 ● ENV-1 & A1
+EN24 Basel Convention waste management summary 36 ●
+EN25 Biodiversity value of receiving waters for water discharges and runoff 35 ●
+EN26 Mitigation of environmental impacts of products and services (UN7, UN9) 38 ●
+EN27 Products sold and packaging reclaimed (UN9) 38 ●
+EN28 Fines, penalties and noncompliances 39 ●
+EN29 Transportation impacts 28, 30 ▲
+EN30 Environmental expenditures (UN7, UN9) 38-39 ▲
+Environmental management systems 13 ENV-6
+LABOR PRACTICES AND DECENT WORK
+LADisclosure on management approach to employment, labor/management 
+relations, training and eduction and diversity and equal opportunity40 ●
+Disclosure on management approach to occupational health and safety 20 ●
+LA1 Total workforce by employment type, contract and region 41, 52 ●
+LA2Total number and rate of employee turnover by age group,  
+gender and region (H) (UN6)52 ▲
+LA3Benefits provided to full-time employees that are not provided to temporary or part-time employees, by major operations43 ▲
+LA4Percentage of employees covered by collective bargaining agreements  
+(UN1, UN3)43 ●
+LA5 Minimum notice period of significant operational changes (UN3) 43 ●
+LA6 Percentage of total workforce represented in joint safety committees (UN1) 25 ● H&S-2
+LA7Injury, occupation illness, lost days, absenteeism, and fatalities by region  
+(UN1) (H)21-23 ▲ H&S-4
+LA8Programs to assist workforce, their families and communities with serious diseases (UN1)42 ● H&S-3
+LA9 Health and safety topics covered in collective bargaining agreements (UN1) 25 ●
+LA10 Average hours of training per employee by employee category 44 ● SOC-5
+LA11 Programs for skills management, lifelong learning, career endings 44-45 ▲
+LA12 Percent employees receiving regular performance and development reviews 44 ●
+LA13Governing bodies and employees by category according to diversity indicators (UN1, UN6) (H)42, 52 ● SOC-4
+LA14 Ratio of basic salary of women to men by employee category (UN1, UN6) 43 ▲
+Health and safety management systems (H) 13 H&S-1
+Employee satisfaction 43 SOC-A2
+Non-retaliation and grievance system 12 SOC-655GRI 
+INDICATORGENERAL DESCRIPTION PAGEGRI 
+STATUSIPIECA 
+INDICATOR
+HUMAN RIGHTS
+HR Disclosure on management approach to human rights aspects 16 ●
+HR1Significant investment agreements that include or are screened for human 
+rights (UN1 – UN6)16 ▲
+HR2 Significant suppliers/contractors screened for human rights (UN1 –  UN6) 18 ▲ 
+HR3Employee training on policies and procedures concerning human rights  
+(UN1 – UN6)12, 16 ▲
+HR4 Total number of incidents of discrimination and actions taken (UN1, UN2, UN6) 12 ●
+HR5Operations at risk re: freedom of association and collective bargaining  
+(UN1, UN2, UN3)16-17 ●
+HR6 Operations at risk re: child labor (UN1, UN2, UN5) ●
+HR7 Operations at risk re: forced and compulsory labor (UN1, UN2, UN4) ●
+HR8 Security personnel trained on human rights (UN1, UN2) 16 ▲
+HR9 Violations of indigenous peoples’ rights (UN1, UN2) 17 ●
+SOCIETY
+SODisclosure on management approach to corruption, public policy,  
+anti-competitive behavior and compliance (UN10)10, 16 ●
+Disclosure on management approach to community 47 ●
+SO1Programs and practices that assess and manage impacts of operations  
+on communities47 ●SOC-A7  
+& SOC-8
+SO2 Business units analyzed for risks related to corruption (UN10) 16 ●
+SO3 Employees trained in anti-corruption policies and procedures (UN10) 12 ▲
+SO4 Actions taken in response to incidents of corruption (UN10) 12 ●
+SO5Public policy positions/participation in public policy development and  
+lobbying (UN1 – UN10)14 ● SOC-A1
+SO6 Political contributions (UN10) 12 ● SOC-3
+SO7 Legal actions for anti-competitive behavior and outcomes 17 ●
+SO8 Fines and penalties for noncompliance with laws and regulations 17 ●
+Bribery and corruption, transparency of payment 16-17SOC-2, 
+ECO-A1
+External capacity building 46-49 SOC-A5
+PRODUCT RESPONSIBILITY
+PR Disclosure on management approach to product responsibility 18 ●
+PR1 Life-cycle assessment for health and safety impacts of products/services (UN1) 19 ●
+PR2Noncompliances with health and safety impact requirements for  
+products/services (UN1)19 ●
+PR3 Product and service labeling requirements for significant products (UN8) 19 ●
+PR4 Noncompliances with product and service labeling requirements (UN8) 19 ●
+PR5 Customer satisfaction practices 19 ●
+PR6 Marketing communications compliance programs 19 ●
+PR7 Noncompliance with marketing communications regulations/voluntary codes 19 ●
+PR8 Substantiated customer privacy complaints and data loss (UN1) 19 ●
+PR9 Fines for noncompliance with laws and regulations re: products and services 19 ●56SCOPE AND OBJECTIVES  
+ERM Certification & Verification Services (ERM CVS)  
+was commissioned by Hess Corporation to undertake 
+verification of its 2008 Corporate Sustainability Report  
+(the Report). The objective of the verification was to establish that the information presented is a reliable representation of Hess Corporation’s performance and programs, and that the data presented conform to the Global Reporting Initiative (GRI) G3 and also the IPEICA/API Reporting Framework guidelines.
+The Management of Hess Corporation is responsible for the
+information contained within the Report.
+VERIFICATION APPROACH
+We based our work on Hess Corporation’s internal guidance and definitions for the reported metrics. Our assurance approach was developed with reference to the International Standard for Assurance Engagements 3000: Assurance Engagements other than Audits or Reviews of Historical Information issued by the International Auditing and Assurance Standards Board (ISAE 3000); as well as principles that ERM CVS has developed and refined for report assurance assessments. Our work involved detailed challenge of information through selected interrogation of both source and consolidated data in conjunction with interviews with operational and corporate staff with responsibilities for data management and report content.Substantiation of a sample of statements and claims made in the Report has been undertaken.
+Our activities included review of activities and source 
+data at the following Hess operations: exploration and production operations in Gassi El Agreb, Algeria; Ujung Pangkah, Indonesia, Tioga, North Dakota, USA (Tioga Gas Plant); and marketing and refining operations at the Pennsauken Terminal in New Jersey and Ft. Lauderdale Terminal in Florida, USA; and two representative Hess Express convenience stores in New Jersey, USA. The review also included visits to offices in Houston, Texas, and Woodbridge, New Jersey to assess and review data collection, data management and internal review processes.
+OPINION & RECOMMENDATIONS
+In the opinion of ERM CVS, Hess Corporation has continued to improve the quality, breadth of information and overall presentation of the sustainability data and we are not aware of the exclusion of any material issues or of any misstatements made in relation to the information presented. ERM CVS has evaluated the Report for conformance to GRI Sustainability Reporting Guidelines and supports Hess Corporation’s assertion that the Report meets the GRI application level A+.
+Our key observations build on those provided by ERM 
+CVS previously and the work that Hess Corporation has accomplished this year and is committed to pursuing further. These are to:•  Continue to apply and improve the application of reliable 
+methodologies and processes to capture data across all operations, supporting this with the provision of user guidance related to data collection requirements.
+•  For information and metrics that are not fully reported review the materiality of these periodically and in light of stakeholder feedback to ensure adequate representation in future reports.
+A full report of the findings and recommendations of the verification exercise has been presented to Hess Corporation.
+OUR INDEPENDENCE
+ERM CVS, responsible for reporting to Hess Corporation on its assurance conclusions, is a member of the ERM Group. This is the seventh year that ERM CVS has been engaged by Hess Corporation in this role. The work that ERM CVS conducts for clients is solely related to independent assurance activities and training programmes related to auditing techniques and approaches. Our processes are designed to ensure that the work we undertake with clients is free from bias and conflict of interest. ERM CVS and the staff that have undertaken work on this assurance exercise provide no consultancy related services to Hess Corporation in any respect.
+Leigh Lloyd, Managing Director
+June 2009
+ERM Certification and Verification Services, London
+www.ermcvs.com  |  email: post@ermcvs.comVerification
+Statement
+OpiniOn & RecOmmendatiOns
+For copies of our Environment, Health and Safety Policy and 
+our Corporate Social Responsibility Policy, or for more information 
+regarding our operations, please visit our Web site at www.hess.com. 
+We invite your questions, comments and suggestions regarding this 
+report. T o send us your questions or comments, or request more 
+information or additional copies of this report, please contact:
+Vice President, 
+Environment, Health, Safety and Social Responsibility
+Hess Corporation
+1185 Avenue of the Americas
+New York, NY 10036
+You can also send us an e-mail at ehs@hess.com.
+Sandy Alexander Inc., an ISO 14001:2004 certified printer with Forest Stewardship Council (FSC) Chain of Custody 
+printed the Hess Annual Corporate Sustainability Report with the use of renewable wind power resulting in nearly zero 
+volatile organic compound (VOC) emissions. This report was printed on FSC-certified Mohawk Options paper, a 
+process-chlorine-free 100 percent post-consumer waste (PCW) paper manufactured entirely with 100 percent certified 
+wind energy and containing 100 percent post-consumer recycled fiber.
+The savings below are achieved when PC recycled fiber is used in place of virgin fiber. 
+ 111 trees  preserved for the future
+ 321 lbs   waterborne waste not created
+ 47,288 gallons  wastewater flow saved
+ 5,232 lbs  solid waste not generated
+ 10.302 lbs  net greenhouse gases prevented
+ 78,852,800 BTUs  energy not consumed
+Savings from the use of emission-free wind-generated electricity:
+ 5,230 lbs  air emissions not generated
+Displaces this amount of fossil fuel:
+ 6 barrels  of crude oil
+In other words your savings from the use of wind-generated electricity are equivalent to:
+ Not driving  5,176 miles
+ Planting  356 trees
+Cert n o.  BV-COC-0809031185 Avenue of the Americas  
+New York, New York 10036
+www.hess.com

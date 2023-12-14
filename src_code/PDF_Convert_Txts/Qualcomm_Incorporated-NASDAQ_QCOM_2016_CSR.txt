@@ -1,0 +1,859 @@
+2016
+QualcommSustainabilityReportWhere some see a challenge, we see an opportunity. While others talk of a connected future, we are building the technology today that will make 
+it a reality. We’re not just inventors: we’re dreamers and doers who are working together to make the world – our world – a better place. This means inspiring future innovators, re-imagining infrastructure, investing in our employees and so much more.
+Our engineers, scientists and researchers push the boundaries of innovation so we can continue to create the technology that has changed the 
+lives of billions of people around the world. Our inventions have built the foundation for the limitless opportunities that 5G will provide, and we are working tirelessly, accelerating the next generation of connectivity.
+We understand that with great power comes great responsibility. Through our products and programs, across our value chain and in our 
+communities, the opportunities to empower people, enhance quality of life and protect the planet for future generations are endless. As risk takers and pioneers, we’ve made tremendous progress, but our work is never done.Limitless Opportunities to Create the Future
+Table of Contents
+Message From Our CEO ................................................................................................................................................. 3
+About Qualcomm  ....................................................................................................................................................... ..........4
+About This Report ............................................................................................................................................................... 5
+Our Sustainability Governance and Strategy  ............................................................................................. 7
+Our Sustainability Goals and Progress ........................................................................................................... 11
+Our 2016 Performance Summary  ...................................................................................................................... 46
+Our 2016 GRI Content Index ................................................................................................................................... 50 2016 Qualcomm Sustainability Report  |  3
+Message From Our CEO
+Steve Mollenkopf
+Chief Executive OfficerI began my Qualcomm career as an engineer 
+more than 20 years ago. Since then, I have worked alongside talented colleagues to help our Company revolutionize the mobile industry, pioneer the launch of 3G and 4G and connect billions of people around the globe. 
+Today, as CEO, I have the opportunity to lead what 
+we at Qualcomm call the “Invention Revolution” – an era of rapid innovation unlike anything humankind has ever seen. Billions of mobile devices with extraordinary power are uniting with advancements in robotics, artificial intelligence, autonomous vehicles, nanotechnology and more to improve life as we know it. 
+As our innovative technologies transform the 
+places where we live and work, sustainability is a key component of how we think about the future. It’s important that our sustainability strategy not only reflects the world around us, but also prepares us for the world ahead. 
+That’s why this year, we are proud to announce 
+our new 2020 sustainability goals – the milestones that will help us realize our 2030 Sustainability Vision . Our efforts to achieve these goals will 
+give us a more comprehensive understanding of both the potential impacts and opportunities for us to accelerate the development of sustainable solutions. This report highlights the progress we have already made toward accomplishing them, including supply chain audits and our first corporate human rights impact assessment , but we 
+still have more to do. Innovating responsibly isn’t new to Qualcomm. Year after year, we put our sustainability commitment into action. In 2016, we celebrated the 10-year anniversary of three of our flagship programs:
+• Within our own workforce, Qualcomm Women in Science and Engineering (QWISE) has empowered our employees to share 
+ideas, act as mentors, discuss challenges, 
+develop new skills and create leadership 
+opportunities to succeed in their chosen careers. 
+• Since it was formalized in 2006, Qualcomm® 
+Wireless Reach™  has brought connected 
+solutions to nearly 10 million people in 46 
+countries to strengthen social and economic development. 
+• With our support of FIRST ® (For 
+Inspiration and Recognition of Science and Technology), a nonprofit organization that provides students with hands-on robotics experiences, Qualcomm has helped to bring innovation, collaboration and science, technology, engineering and math (STEM) education to thousands of participants globally. 
+Building the talent pipeline and engaging students in STEM fields will be critical to fueling the Invention Revolution.  Our Qualcomm® Thinkabit Lab™  in San 
+Diego – and its summer program, QCamp – have hosted more than 10,000 students, educators and parents in hands-on engineering activities since opening in 2014. This year, I attended the opening of our new Thinkabit Lab with Virginia Tech in the National Capital Region, which marked the latest milestone in the Company’s longstanding commitment to STEM education. I witnessed firsthand how these makerspaces foster problem-solving, creativity and collaboration.
+Our various accomplishments would not be 
+possible without the many collaborations we have with key stakeholders  across the mobile ecosystem. 
+At the core of all that we do are our employees, who work tirelessly to bring our hyper-connected future to life. 
+While we may have yet to imagine many of the 
+advancements to come, we know that the Invention Revolution is at hand – and Qualcomm will be at its center. As we look ahead, my goal is to continue our Company’s legacy of accomplishing amazing things, empowering people and enhancing quality of life around the globe. 
+I hope you are as excited about the future as I am.
+4  |  2016 Qualcomm Sustainability ReportOther businesses include our mobile health, data center, small cell and other wireless 
+technology and service initiatives.
+$43b+
+Invested in R&D since 1985We conduct business primarily through these segments: $23.6b Revenue in 2016
+Our QCT Supply ChainQualcomm’s technologies powered the smartphone revolution and connected billions of people. We pioneered 3G and 4G – and now we are leading the way to 5G and a new era of intelligent, connected devices. Our products are revolutionizing industries, including automotive, computing, IoT, healthcare and data center, and are allowing millions of devices to connect with each other in ways never before imagined. Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio.  Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, all of our engineering, research and development functions, and all of our products and services businesses, including our QCT semiconductor business.
+References in this report to “Qualcomm” may mean Qualcomm Incorporated, Qualcomm Technologies, Inc., and/or other subsidiaries or business units within the 
+Qualcomm corporate structure, as applicable.About Qualcomm
+QCT  $15.4b
+QTL   $7.7b
+QSI    $47mOther   $0.4bQCT (Qualcomm CDMA Technologies) is a leading developer and supplier of 
+integrated circuits (also known as chips or chipsets) and system software for use in mobile devices and in wireless networks.
+QTL (Qualcomm Technology Licensing) grants licenses and provides rights to use portions of our intellectual property portfolio.
+QSI (Qualcomm Strategic Initiatives) makes strategic investments that are focused on 
+opening new or expanding opportunities for our technologies and supporting the design and introduction of new products and services for voice and data communications.
+QCT currently utilizes a fabless production model, which means that we do not own or operate foundries for the production of silicon wafers from which our integrated circuits are made. Rather, we rely on independent third-party suppliers to perform the manufacturing and assembly, and most of the testing, of our integrated circuits. Integrated circuits are die cut from silicon wafers that have completed the package assembly and test manufacturing processes.  Our suppliers are responsible for the procurement of most of the raw materials used in the production of our integrated circuits. The majority of our foundry and semiconductor assembly and test suppliers are located in the Asia-Pacific region.We employ two different manufacturing models to 
+purchase our integrated circuits:
+We purchase die in singular or wafer form from semiconductor manufacturing 
+foundries and contract with separate third-party suppliers for manufacturing services such as wafer bump, probe, assembly and final test.Two-stage manufacturing modelOur foundry suppliers are responsible for delivering fully assembled and tested integrated circuits.Turnkey manufacturing model2016 Qualcomm Sustainability Report  |  5
+About This Report
+Boundary and Scope
+This report covers our 2016 fiscal year: September 28, 2015, to September 25, 2016. In some instances, data is collected and reported 
+on a calendar rather than a fiscal year basis. Such exceptions, as well as any other exceptions to the reporting period, are noted 
+within the report. Financial data is reported in U.S. dollars. The information and data in this report includes Qualcomm Incorporated 
+and its consolidated subsidiaries, unless otherwise stated. 
+Disclosure and Assurance
+We prepared this report to be “In Accordance – Core” with Global Reporting Initiative (GRI) G4 SustainabilityReporting Guidelines. 
+The content of this report was developed using the GRI’s “principles for defining report content”: materiality, completeness, 
+stakeholder inclusiveness and sustainability context. Qualcomm’s use of the materiality principle encompassed our whole value 
+chain, both within and outside Qualcomm, and is described further throughout the Sustainability Strategy and Materiality section of 
+this report. 
+Use of external assurance is noted in the report where it is used, though the report as a whole has not been 
+externally assured.
+Additional information about Qualcomm’s operations and financial statements is available in our 
+Annual Report on Form 10-K . 
+Additional information about sustainability at Qualcomm is available at www.qualcomm.com/sustainability .
+We welcome your comments and feedback at qsr@qualcomm.com . Since our founding in 1985, Qualcomm has been committed to bettering the societies where we live and work. We have been producing an annual sustainability 
+report since 2006. This report not only details our performance across a wide range of sustainability issues, but also illustrates our sustainability strategy, governance and vision.6  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  7Our Sustainability Governance
+and Strategy
+At Qualcomm, we define sustainability as a strategy that drives long-term growth and profitability by 
+including environmental, social and corporate governance issues in our business decisions as they relate to our key spheres of influence: our workplace, our supply chain, local communities, our industry and the public policy realm.
+Our Sustainability Policy  articulates our sustainability mission and overarching commitments to 
+innovate responsibly:
+• Develop technology that positively transforms the world.
+• Operate with the highest ethical standards.
+• Be a great place to work.
+• Be good corporate citizens wherever we do business.
+• Continue to drive value to our stakeholders.
+Simply put, sustainability is part of everything we do. From our daily operations to our stakeholder 
+engagements, our commitment to sustainability allows us to set goals that go beyond the bottom line.8  |  2016 Qualcomm Sustainability ReportWho is responsible for sustainability at Qualcomm? Everyone. We’ve integrated sustainability 
+throughout our Company, from our daily operations to our executive leadership and our Board of Directors. Our Qualcomm Sustainability and Reporting (QSR) governance structure exists to facilitate accountability, transparency and the ongoing improvement of our programs. Our QSR Leadership Committee provides guidance on the global sustainability issues that are most important to our Company and our key stakeholders so that sustainability remains an important component of our business strategy. Composed of executives and senior management from across the Company, including human resources, legal, government affairs, supply chain, investor relations and finance, this Committee reports annually on our sustainability policies, programs and performance to the Governance Committee of our Board of Directors. Our QSR Governance Committee implements directives from our QSR Leadership Committee into companywide programs and measures progress on achieving our sustainability goals. This Committee includes subject matter experts from across our Company – people working in our supply chain, compliance, human resources, philanthropy and government affairs teams, to name a few. Committee members share updates on their accomplishments and challenges regarding our sustainability initiatives and contribute to our overall sustainability strategy.
+Conversations with our key stakeholders are an essential part of aligning our sustainability strategy with the current needs of our business and the expectations of the people, organizations and communities that have an interest in our Company. These include our employees, investors, customers, suppliers, government officials and representatives of nonprofit organizations, among others.
+We consistently seek ways to better communicate with stakeholders and obtain their feedback on a 
+variety of sustainability-related topics, including:
+• Meeting regularly with policymakers globally to discuss relevant public policy issues and engaging with numerous public policy organizations.
+• Working with investors and research firms to continue enhancing our openness, transparency and accountability in a timely manner.
+• Disclosing important sustainability information, including our political contributions and data on our greenhouse gas emissions and water use.
+• Participating in cross-industry forums to help us identify, adopt and further develop best practices in sustainability.Putting Governance Into Action
+Ongoing, Transparent CommunicationsBoard of Directors
+Governance Committ ee
+QSR Leadership Committee
+QSR Go vernance Committ ee2016 Qualcomm Sustainability Report  |  9In 2015, we worked with consultants from Business for Social Responsibility (BSR) , a global nonprofit business network and consultancy dedicated to sustainability, 
+to conduct our second materiality assessment – we conducted our first in 2013. Our materiality assessment included both research and interviews with key leaders 
+from across the Company and helped us prioritize the sustainability issues that are most important to our business and to our key stakeholders. By identifying our top sustainability priorities, we can focus our resources, programs and reporting on these core topics.Our Sustainability Priorities
+Transformative Technology
+Solutions for a sustainable world. Our innovations are helping empower people and enhance quality of life around the globe.STEM Education
+Cultivating tomorrow’s workforce. We’re working to promote and improve science, technology, engineering and mathematics (STEM) education at all levels and to expand opportunities for underrepresented students.
+Sustainable Product Design
+Protecting people and the planet. We’re focused on creating products in ways that prevent harm to individuals, communities and the environment, and sustainably procuring materials and minerals.Inclusion and Diversity
+Creating a Company that reflects the world. We celebrate diversity among our employees and recognize that our varied backgrounds, experiences and ideas are critical to our success.
+Privacy and Security
+Promoting data protection across the mobile ecosystem. In our Company, in our products and in the mobile industry, we’re working to process personal data responsibly and to make data more secure.Ethical Governance
+Doing business “The Qualcomm Way.” We’re committed to doing business with the highest level of integrity – respecting our customers, business partners and each other.10  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  11Our Sustainability Goals 
+and Progress
+Adopted in 2015, our 2030 Sustainability Vision is our roadmap to inform big-picture thinking on sustainability 
+issues that are most important to our Company, and it will help us identify where we can collaborate with key stakeholders to create sustainable solutions. 
+Our 2030 Sustainability Vision helps us identify what success looks like for each of our priority areas:
+• Develop transformative mobile technologies that are widely adopted in support of a sustainable world.
+• Employ a workforce that more closely reflects the demographics of the communities in which we do business.
+• Be recognized as a global leader in business conduct and ethics.
+• Maintain adherence to our supplier code of conduct in our extended supply chain.
+• Ensure that respect for human rights is integrated into all key business decisions.
+• Ensure sustainable and transparent management of our climate and water impacts across our value chain.
+• Actively engage stakeholders in our sustainability programs.12  |  2016 Qualcomm Sustainability Report
+We will have a 
+comprehensive understanding of the sustainability impacts and opportunities arising from the application of our technology.
+Our comprehensive programs for recruiting, retaining and promoting an inclusive and diverse workforce will result in increased representation of women and underrepresented 
+minorities across our workforce  
+including technical and business leadership roles.We will enhance and expand the talent pipeline in the technology industry by engaging students and other key stakeholders in our scalable STEM education initiatives.
+Our key stakeholders 
+will have a thorough understanding of our sustainability programs and priorities.Our 2020 Sustainability Goals
+We are proud to announce our newly adopted 2020 sustainability goals – the milestones that will enable us to focus on key outcomes and stay on track to achieve our 2030 Sustainability Vision. What follows are highlights of our 2016 progress toward each of our goals, as well as our key performance metrics.2016 Qualcomm Sustainability Report  |  13
+We will have a 
+comprehensive understanding of our carbon and water footprints across our value chain.
+We will have a 
+comprehensive understanding of the sustainability impacts in our supply chain.We will have a comprehensive understanding of our human rights impacts and opportunities.
+Our ethics and 
+compliance standards will continue to be fully integrated into our global business operations where we have a controlling interest.14  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  15Goal: By 2020, we will have a comprehensive 
+understanding of the sustainability impacts and opportunities arising from the application of our technology.
+For more than 30 years, we’ve been at the forefront of mobile technology – and we’re just getting 
+started. Stemming from our industry expertise and long-time commitment to research and development, we are uniquely positioned to empower designers and developers to create new possibilities for our rapidly evolving world. We are at the hub of 5G innovation, spearheading the research efforts that will create the next global wireless revolution – just as we pioneered many of the building blocks for 3G and 4G. 
+Making one cutting-edge technology work well is difficult; making many of them work together is even 
+harder. But that’s what we do. To us, “transformative technology” means using our expertise and our innovations to enhance quality of life around the globe. Step one? Understanding the many ways in which it can do so.16  |  2016 Qualcomm Sustainability ReportAdvancing Communities Through 
+Qualcomm Wireless Reach  
+Wireless Reach  brings advanced wireless technology to underserved communities 
+globally, improving lives with programs that strengthen economic and social 
+development. In collaboration with more than 650 stakeholders, Wireless Reach has impacted nearly 10 million beneficiaries through 114 programs in 46 countries over the last 10 years. Wireless Reach invests in programs that foster entrepreneurship, aid in public safety, enhance the delivery of health care, enrich teaching and learning and improve environmental sustainability.
+In China, our Wireless Heart Health (WHH)  program is deploying mobile broadband-
+enabled electrocardiogram (ECG)-sensing smartphones to conduct quick and accurate 
+heart screenings that connect community health care providers with heart specialists for consultation. In collaboration with Life Care Networks, WHH aims to decrease cardiovascular morbidity and mortality in rural, at-risk areas in China. Since the program’s launch, 2,288 care providers have used the ECG-sensing smartphone system to conduct almost 340,000 readings.Our Progress: 2016 Highlights
+Collaborated to Increase Connectivity in NYC: In New York, LinkNYC  is a first-of-its 
+kind communications network bringing the fastest available municipal Wi-Fi to millions by replacing the aging network of public payphones and transforming them into gigabit Wi-Fi stations. These re-imagined payphone booths not only house opportunity for exploration but also inspire connectivity, interaction and engagement while breaking down the digital divide. Each Link is also equipped with an emergency 911 call button and an integrated tablet that enables free domestic voice calling, access to maps and other city services.
+Brought New Ideas to Life: The best innovations are made possible when the right 
+people are empowered by the right technology. In Season 2 of our five-part competition series, #WhyWait Invent-Off , we gave two teams of makers, coders and inventors access 
+to our groundbreaking technology and posed this $25,000 challenge: use the Internet of Things (IoT) to create something that saves a life. The winning team developed a mobile device and drone system that deploys anti-venom to snakebite victims, while the opposing team created an alarm and notification system to aid bike riders in need of emergency services after an accident. At Qualcomm, where we foster invention every day, we can’t wait to see what these young inventors come up with next.
+Inventing for a Better, Safer Ride: With expertise, experience and the support of the 
+automotive industry, we are taking next-generation connectivity on the road, resulting in vehicles that are more intelligent, autonomous, cleaner and safer. What started as traditional telematics services now supports always-on connections for mobile broadband networks, in-car infotainment systems and brought-in mobile devices. As a result, the car is becoming more informative, entertaining and interactive for passengers, while increasing driver efficiency and ease of use. Our wireless technology is also at the center of many other smart transportation innovations, from parking meters to mass transit to wireless charging for electric vehicles.
+Electric Vehicle Charging Without the Wires:  For electric vehicles to reach a tipping 
+point, they need to be easy and simple to charge. Qualcomm Halo™ Wireless Electric 
+Vehicle Charging (WEVC)  is a highly efficient technology – drivers simply park and 
+charge without the need for plug-in cables or adaptors. Developed over many years, this technology uses resonant magnetic induction to wirelessly transfer energy from a ground-based pad to a pad integrated into the vehicle.
+Qualcomm Halo WEVC technology is licensed by Qualcomm Incorporated. Prototype charging pads are products of Qualcomm Technologies, Inc.
+2016 Qualcomm Sustainability Report  |  17
+We are also using wireless technology to help girls in Myanmar leapfrog to a 21st 
+century education and a better future. Connect To Learn Myanmar  is a collaboration 
+between Wireless Reach, Ericsson, the UK Department for International Development, 
+Earth Institute, EduEval Educational Consultancy, Finja Five, UNESCO, Myanmar Post and Telecommunications, Myanmar’s Ministry of Education and Myanmar’s Ministry of Communications and Information Technology. This program works to improve learning outcomes in literacy and numeracy as well as develop the information and communications technology (ICT) skills of more than 21,000 students, half of whom are marginalized girls, by 2017. 
+In 2016, the Drone Technology Development Program for Precision Agriculture  was 
+launched in Brazil, where approximately 4 million family farms account for roughly 70 
+percent of the country’s staple food production. This program, a collaboration between Wireless Reach, the Brazilian Agricultural Research Corporation and the Institute of Solidarity Socioeconomics, aims to demonstrate how drone technology can be applied to reduce environmental impact and increase crop yields, with a long-term vision of a drone on every farm.
+“Mobile technology is a key tool that will help achieve the United Nations Sustainable Development Goals and the social and economic priorities of governments around the world. Through Wireless Reach programs, our team takes action to address some of the world’s most pressing problems while aligning strategically with Qualcomm’s business goals.”
+- Angela Baker, Director, Wireless ReachCelebrating 10 Years of Wireless Reach
+Beneficiaries Stakeholders
+Programs Countries~10 Million18  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  19Goal: By 2020, our comprehensive programs for 
+recruiting, retaining and promoting an inclusive and diverse workforce will result in increased representation of women and underrepresented 
+minorities across our workforce including 
+technical and business leadership roles.
+We are committed to a diverse and inclusive work environment that provides equal opportunities for all employees. We 
+embrace diversity and inclusion throughout our workplace and recognize the important business benefits they bring to our Company, including the exchange of unique ideas and perspectives, a connection for our employees to their work and our ability to attract top-notch talent from around the world. 
+Over the years, we have implemented a robust framework of programs to support our diversity and inclusion efforts and have 
+established strong collaborations with various external stakeholders to help embed those values throughout our industry and beyond. While we have a strong, vibrant culture at Qualcomm that celebrates diversity in all forms, we still have work to do to achieve our goals, and we will continue to focus on making meaningful enhancements to our current initiatives.
+We are committed to promoting pay equity and have designed our compensation practices accordingly. We have implemented 
+a number of industry-leading practices designed to promote pay equity, including broadly gathering third party feedback for evaluations and reviews, total rewards calibration, job analysis for certain technical roles to promote transparency and objectivity in pay and promotion decisions, mandatory performance reviews and leadership development programs to identify future leaders and assist them with skills to continue their development. In addition, we review individual employee compensation regularly to reward for performance and encourage open communication regarding the basis for the compensation decisions. Our open door policy encourages employees to address any questions or concerns regarding their compensation through multiple channels.20  |  2016 Qualcomm Sustainability ReportAddressing the Diversity Gap   
+We know that diversity helps drive innovation. That’s why we continue to 
+support involvement in industrywide strategies to increase the number of women in leadership positions in our Company as well as the industry overall. We also create programs designed to develop and retain top diverse talent, including the expansion of recruitment efforts of underrepresented minorities.
+To engage and motivate diverse students to pursue engineering degrees 
+and solidify their choice in these majors, as well as to have them consider Qualcomm as a potential future employer, we invest in two key programs for freshman and sophomore females and underrepresented minorities at colleges across the United States: Qualcomm Women’s Collegiate Conference (QWCC) and Diversity Engineering Campus Alignment (DECA). Each has been successful in helping us get to know candidates better over the last three years, resulting in internships, sponsorship through graduate school and, in some cases, employment at our Company. 
+QWCC has hosted 150 top female college students and introduced them 
+to employee mentors. Activities focused on strengthening their technical and professional skills and connecting them with valuable resources early in their careers. A “thank you” email from one of the participants demonstrates Our Progress: 2016 Highlights
+Empowering Women Through STEM Education : The Women Enhancing Technology 
+(WeTech)  program is a collaboration with the Institute of International Education (IIE) that 
+aims to build the pipeline of girls and women in STEM fields by linking them to opportunities including university scholarships, leadership and technical-skills training and mentorships. In 2016, we worked with IIE to launch our WeTech Qualcomm Global Scholars program in China, India, South Korea and Taiwan. We provided scholarship funds to 65 female college students in those countries who are pursuing STEM degrees and paired them with our employees as mentors. This provided the students with an opportunity to gain academic experiences and access to a network of industry professionals.
+Supported Landmark Legislation That Protects Diversity: In the United States, the 
+Equality Act is a federal bill that protects lesbian, gay, bisexual and transgender (LGBT) individuals from discrimination by adding “sexual orientation” and “gender identity” to existing protections based on race, color, religion, sex and national origin. We lent our voice in support of this bill and signed an open letter that includes more than 160 business and community leaders urging North Carolina Governor Pat McCrory and the North Carolina General Assembly to repeal the radical provisions in the deeply discriminatory HB2 law in North Carolina.
+Honored for Our Efforts to Promote Equality: We have been recognized by several 
+organizations for our inclusion and diversity efforts. We earned a top score of 100 percent for the fourth consecutive year on the Human Rights Campaign Corporate Equality Index, the national benchmarking tool for corporate policies and practices pertinent to LGBT workers. Subsequently, we were awarded with the distinction of “Best Places to Work for LGBT Equality.” In addition, we have scored a perfect 100 on the US Business Leadership Network (USBLN) Disability Equality Index annually since its inception.
+Enhanced Our Support for Our Female Leaders:  Our newly formed Women’s Leadership 
+Council was established to focus on accelerating the impact and driving the success of 
+our diversity initiatives. Composed of female vice presidents throughout our Company who are passionate, committed and respected, the Women’s Leadership Council represents our largest business units and corporate organizations. One objective is that participants will have a positive influence on our various development programs by mentoring talent, leading discussions with executive peers and serving as influential ambassadors companywide.
+2016 Qualcomm Sustainability Report  |  21the positive impact that this program is having. Before attending QWCC, the student 
+was unsure that she wanted to continue in computer engineering. After the event, she said, “I’ve learned so much more about what it’s really like to be an engineer and make a difference. I’ve learned what improvements I need to make on myself and more of who I want to be in the future… I decided that computer engineering is for me.”
+Our work with DECA has provided an additional 150 male and female minority students 
+– all majoring in computer science and computer engineering – with the opportunity to participate in a two-day conference that brings together top students from across the country. It provides workshops, networking opportunities, interview and career advice and information about technical careers in the wireless industry. Highlights include technical in-person and phone interview practice as well as helpful feedback and tips from our engineers. We apply lessons learned through these experiences as part of our commitment to building inclusive workplaces and advancing women and minority students in STEM fields. 
+Working with other stakeholders, we continue to identify solutions and measure 
+progress toward fostering an even more inclusive and diverse workforce. For example, as an Anita Borg Institute Pioneering Partner and Change Alliance participant, we are benchmarking progress and identifying better practices for recruiting, retaining and advancing women technologists. The Change Alliance focuses attention on understanding best practices through a relative comparison of more than 1.3 million workers, including more than 540,000 technical workers. We also participate in the Anita Borg Grace Hopper Celebration of Women in Computing – the world’s largest gathering of female technologists. We recognize the importance of our involvement not only in the conference, but also in our year-round efforts to make a collective impact in the hiring, support and promotion of women in tech. 
+We recently appointed a new Chief Diversity Officer (CDO) at Qualcomm. The CDO is 
+responsible for providing the vision, leadership and oversight of inclusion and diversity initiatives across the Company, including strategies for talent development, recruitment and retention, as well as community outreach. This is an important next step on our journey and symbolizes our deep investment in our diversity and inclusion efforts.Number of female and minority students participating in QWCC and DECA over the last three years.300
+>50%
+QWCC and DECA alumni who are invited and return as interns.
+QWCC and DECA alumni have become 
+fulltime employees working across nine different technical teams at Qualcomm.Our Diversity Collegiate Programs: 
+Qualcomm Women’s Collegiate 
+Conference (QWCC) and Diversity 
+Engineering Campus Alignment (DECA)22  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  23
+Goal: By 2020, we will enhance and expand the 
+talent pipeline in the technology industry by engaging students and other key stakeholders in our scalable STEM education initiatives.
+Science, technology, engineering and mathematics, known collectively as STEM, are essential for 
+inventions that we bring to life. It’s easy to imagine that technology will always get better, faster and cheaper – but without disruptors, scientists and engineers, our culture of creative innovation would not exist. We must lead the next generation of great thinkers and inventors by showing them the possibilities that lay before them in areas such as robotics, connected cars, IoT and 5G. Our STEM education efforts are helping to do just that and more. We support STEM education at all levels and are expanding opportunities for greater diversity in the STEM workforce, both now and in the future. We leverage and build upon our unique, hands-on engineering and career exposure program called Qualcomm Thinkabit Lab , which is the combination 
+of a makerspace and classroom for students from diverse socio-economic backgrounds. We also collaborate in public-private partnerships and work with outstanding organizations like FIRST  and the IIE 
+to help inspire students worldwide to pursue STEM degrees and careers. By joining together, we have a much larger impact on improving the talent pipeline.24  |  2016 Qualcomm Sustainability ReportInspiring Innovation in the
+Next Generation 
+We recognize the importance of inspiring the engineers and inventors of tomorrow to create the technology that will shape and improve our future. Through our support of FIRST  and Thinkabit Lab, we are helping create a workforce of young 
+inventors with much needed technical, leadership and problem solving skills. 
+Since opening in 2014, our Thinkabit Lab in San Diego has hosted more than 10,000 students, 325 classes and 600 teachers, and built 5,000 robotic crafts. We’ve expanded our program by collaborating with schools and a library to create their own “Inspired by Qualcomm Thinkabit Lab” spaces and experiences. These labs foster problem-solving, creativity and collaboration, and help develop critical skills needed for the careers of the future. Students learn about STEM careers that will shape the 5G future, discover their unique talents and experience the IoT through a design-thinking activity. Thinkabit Lab content is also accessible to teachers and students through videos shared on the University of California Television (UCTV) STEAM Channel. To date, these videos have been viewed more than 400,000 times. Our Progress: 2016 Highlights
+Launched Our Newest Thinkabit Lab with Virginia Tech: Our new cornerstone 
+facility at the Northern Virginia Center in Falls Church, Virginia engages students from the D.C. metro area in STEM career activities and hands-on engineering projects, while providing an avenue for training educators. By collaborating with Virginia Tech, we are taking the Thinkabit Lab experience beyond the space itself by incorporating it into the professional development of current and future principals, superintendents and other education leaders.
+Expanding Access to STEM Programs Globally with FIRST : Since 2006, we have 
+been a proud supporter of FIRST , a nonprofit organization with a vision to create a 
+world where science and technology are celebrated and where young people dream 
+of becoming science and technology leaders. Expanding access to STEM programs worldwide is a top priority for both our Company and FIRST . In China, we have been an 
+integral player in expanding the FIRST  Tech Challenge program – providing financial 
+support for 30 teams, three Qualcomm sponsored regional competitions, 1,300 employee volunteer hours and reaching more than 4,000 spectators during the 2015-2016 season. Our sponsorship of the 2016 Korea Robot Championship enabled the number of FIRST  Tech Challenge teams to more than double this year. In addition, we 
+sponsored FIRST  teams and events in the United States, Canada and Israel.
+Joined Stakeholders to Help Build a Diverse Workforce: We participated in the White House “Computer Science for All” initiative , which encourages and inspires students to 
+pursue studies in high-growth fields, particularly computer science (CS). We joined more than 100 commitment-makers to respond to the White House’s call to action, which has already reached more than 1 million students and teachers with CS programming. As a Company that employs thousands of engineers and computer scientists who develop the software that powers our mobile devices, we are proud to support the next generation of technologists.
+Awarded for Our STEM Education Efforts: We were honored to receive IIE’s 2016 
+Opening Minds Corporate Leadership Award  for our contribution to WeTech, which 
+helps women and girls enter and succeed in technology careers, and builds the talent and skills that are needed to fuel technological and economic growth. The award recognizes corporations whose business activities promote international understanding and improve the lives of people in the communities in which they work.
+2016 Qualcomm Sustainability Report  |  25We have greatly increased the number of stakeholders served since 
+our Thinkabit Lab expansion began in December 2015. Since then, approximately 15,000 students, teachers and administrators have had the opportunity to learn about tech careers through one-day experiences offered at our various Thinkabit Lab sites. Principals and teachers agree that the most valuable aspects of working with our Thinkabit Lab team are our industry knowledge, engineering content expertise and broader network of STEM professionals. At a critical point in their schooling, students get a glimpse into various STEM career possibilities that they could pursue.
+In Beijing, China, in collaboration with Shanghai Adream Charitable 
+Foundation, we donated a classroom called “Qualcomm Adream Center” to Mayu Primary School and organized Thinkabit Lab-inspired activities there. The program’s purpose is to help children expand their horizons and to experience writing code and making robotic crafts.Advancing STEM  
+Education Globally
+Q&A with Susie Armstrong,
+Senior Vice President, Engineering
+After a 20+ year engineering career at Qualcomm, Susie 
+Armstrong recently transitioned into a new role where she focuses on advancing STEM education programs around the world. 
+Q: What has been the biggest surprise since starting your new role at the Company ?
+A: When you’re in an engineering role and building chipsets, you don’t realize how important 
+policy work is to our business. Without the efforts being made by our global Government Affairs team, our products wouldn’t get developed and into the world. It’s humbling, and I get to experience working with yet another set of people with incredible energy, talent and drive within our Company. Q: What does the formula for success look like in enhancing and expanding the talent pipeline?
+A: That’s the problem: there is no formula. These are long-term goals, and hands- on 
+experiences in STEM, like those offered at our Thinkabit Lab and with FIRST , are an 
+important part of the solution. Students often aren’t aware of what careers are available at 
+tech companies like Qualcomm, nor do they realize how creative engineering actually is. When people think of engineers, they still envision pocket protectors and isolated rooms. I’ve never owned a pocket protector, and all of my roles have been very collaborative. Feedback from the students, teachers and administrators are all very important to the talent pipeline as well. Perhaps most importantly, it is critical to show students the joy of making, creating, producing – that with an engineering or science role, they can actually invent these products rather than simply consuming them. Q: How can current tech talents inspire the next generation?
+A: We can show them that STEM jobs are interesting and challenging careers and that there 
+are a variety of opportunities available not only in our industry but across the entire wireless 
+ecosystem – in IoT, autonomous vehicles and much more. In high school, I was going to become a veterinarian until I took my first programming class and realized just how much problem solving and creativity it entailed. It’s really exciting and encouraging for students to work alongside engineers, especially if they find a bug in your code.
+Since opening in 2014, Thinkabit Lab has 
+promoted STEM career awareness
+325
+Classes/Camps
+5,000
+Robotic Crafts10,000
+Students Explored 
+CareersSports Medicine
+PhysicianSoftware Developer1,000
+Teachers and Parents26  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  27Goal: By 2020, our key stakeholders will have 
+a thorough understanding of our sustainability programs and priorities. 
+We are working with stakeholders around the globe to bring breakthrough ideas to life in many areas 
+ranging from innovative infrastructure to better health to economic empowerment. Our connections can bring the future forward faster, driving human and economic progress, and our employees, investors, suppliers, customers, governments, communities and nonprofit organizations are key to accelerating the invention and implementation of our mobile technology for social good. 
+To be effective, our efforts must not only be collaborative, but also consider a wide range of 
+perspectives. We continuously seek the input and opinions of those who have a stake in our Company and our actions. We host informational sessions, sponsor conferences, participate in working groups, conduct trainings and maintain ongoing communications with a diverse range of people who shape and influence our sustainability policies and initiatives.28  |  2016 Qualcomm Sustainability ReportTeaming Up to Support  
+Tomorrow’s Inventors 
+2016 marked our 10th consecutive year of supporting FIRST , which was founded in 1989 
+by Dean Kamen to inspire young people’s interest and participation in science and technology. FIRST  engages more than 400,000 participants from over 80 countries 
+annually, and students who participate in FIRST  are two times more likely to major in 
+science or engineering. In fact, in a recent study conducted by Brandeis University, more than 75 percent of FIRST  alumni are in a STEM field as students or professionals. 
+Our support of FIRST  goes beyond a traditional sponsorship. As a FIRST  Strategic 
+Partner, we provide a wide range of resources that includes technology integration in the FIRST ® Tech Challenge control system and thousands of volunteer hours from our 
+employees globally, as well as substantial philanthropic contributions of several million dollars to support teams, events and program growth. It is a collaborative effort spanning multiple departments and engaging stakeholders across our Company to help support our local communities. Our Progress: 2016 Highlights
+Leveraged Technology to Support the SDGs:  The United Nations Sustainable 
+Development Goals (SDGs)  are the 17 global goals that the international development 
+community committed to work toward in 2015. Investments in mobile technology infrastructure are key to achieving sustainable development and empowering communities in many countries. Through Wireless Reach, we are able to demonstrate the new and innovative ways to utilize mobile technology to achieve the SDGs. In 2016, Wireless Reach celebrated its 10
+th anniversary; we have impacted nearly 10 million 
+people through 114 programs in 46 countries, focused on education, entrepreneurship, health, public safety and the environment.
+Engaged Our Employees in Celebrating Diversity:  We hosted a wide variety 
+of International Women’s Day events throughout our offices worldwide and over 
+1,000 employees participated. One such offering was a panel called “Men Who Champion Women,” which highlighted how important it is for men to provide support, encouragement and mentorship to women colleagues. We also expanded our support and employee sponsorship of internal programs for female leaders in STEM, as these programs play a key role in enabling women to build their careers and extend their networks beyond our Company and into the community.
+Worked with Stakeholders on Water Issues: We participated in internal and external 
+cross-industry forums to help us identify, adopt and further develop best practices in sustainability. For example, we sponsored and presented at the Business of Water Summit 2016 in Arizona, which was attended by over 150 individuals from the public and private sector. This was an opportunity to share innovations and best practices on water conservation, sustainability and corporate water stewardship – charting a course to balance water demands for industry, cities, agriculture and recreation. We also joined other companies representing 10 sectors of the California economy, including agribusiness, apparel, beverage, energy, healthcare, construction and technology, in the Ceres Connect the Drops campaign . This campaign supports resilient water solutions at 
+a time of unprecedented drought in California.
+2016 Qualcomm Sustainability Report  |  29Additionally, we recognize the importance of collaboration amongst 
+companies, communities, organizations and governments in order to foster our future STEM workforce. Our support has helped create new opportunities to expand FIRST ’s diversity and inclusion efforts. For 
+instance, their STEM Equity grants focus on providing access to FIRST  
+programs in underserved and underrepresented communities. 
+Expanding the talent pipeline for the tech industry is a critical component 
+of developing the innovative products that will positively transform lives around the world. Through our relationships and collaborations with organizations such as FIRST , we are bringing innovation and resources to 
+students around the globe.
+In addition to gaining skills in STEM, students are exposed to 21
+st century 
+work/life skills including teamwork, collaboration, creative/critical thinking 
+and problem solving. The overall FIRST  experience is fostering the good 
+citizens of tomorrow. FIRST  studies show that:
+• 98 percent of participants report improved problem solving skills.
+• 95 percent of participants report increased time management skills.• 93 percent of participants report increased conflict resolution skills.
+“The skills that FIRST participants learn 
+are a great foundation for their future careers. These skills are critical to succeed in industries like ours, where brilliant minds need to constantly push the boundaries of what’s possible.”
+– Matthew S. Grob, Executive Vice 
+President, Qualcomm Technologies, Inc. and Chief Technology OfficerStudents Participated
+Volunteers and Mentors Provided Over 16 
+Million Hours in Volunteer Service
+Teams Competed Worldwide400,000+
+200,000+
+44,000Qualcomm’s unique sponsorship continues 
+to allow FIRST  to grow each year.
+During the 2015-2016 season:30  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  31
+Goal: By 2020, we will have a comprehensive 
+understanding of our carbon and water footprints across our value chain. 
+Concerted and innovative actions are needed to address serious environmental and social issues, 
+including water scarcity and the impacts of climate change. We are committed to being part of the solution by continuously looking for ways to conserve water, minimize energy consumption, lower emissions and reduce waste. 
+We calculate the carbon emissions and water usage associated with our business activities so we can 
+better assess what more we can do to help decrease our impacts. Measuring and managing the carbon and water footprints of a global company such as ours is a complex and complicated task: we have over 175 offices, of varying sizes, in more than 30 countries globally, as well as a robust supply chain and diverse product offerings. 
+Our value chain includes the people, facilities and processes that develop our products – from our 
+employees who are helping to revolutionize wireless technology to the suppliers that are manufacturing our products – as well as the use of our products by consumers all over the world. We aim to engineer our technology to make it as sustainable as technically and commercially feasible, and understanding our carbon and water impacts across our value chain helps us identify where and how we can use these precious resources more efficiently.32  |  2016 Qualcomm Sustainability ReportEngaging Our Employees in 
+Environmental Initiatives    
+Our Company’s most valuable asset is our employees. Our future success largely depends on their brilliant minds, hard work and dedication to continuously innovating mobile technology breakthroughs. Therefore, it is important that we ensure that our sustainability strategy and programs not only meet the needs of our business but also the expectations of our employees. 
+As a key stakeholder of our sustainability efforts, employees should 
+have a thorough understanding of our sustainability priorities and have the opportunity to participate in our various initiatives. In 2016, we created and launched two separate campaigns focused on reducing our carbon and water footprints: the“ CO
+2+U QChallenge ” and “ Take 
+the Water Pledge ,” respectively. The overarching purpose of each 
+campaign was to engage our employees in specific actions they can do at both work and home to reduce their environmental impacts, as well as educate them on what our Company is doing to minimize our own environmental footprint. 
+In our “CO
+2+U QChallenge,” employees learned about our goal to 
+reduce absolute Scope 1 and Scope 2 GHG emissions from our global 
+operations by 30 percent by 2025, compared to a 2014 baseline, and the progress we’ve made in achieving it, thus far. They also learned how our products are built with sustainability in mind and how they Our Progress: 2016 Highlights
+Improved Our Data Collection and Reporting : We expanded our data collection and reporting of 
+our carbon and water metrics in the Performance Summary  section of this report, as well as in our 
+2016 Carbon Disclosure Project (CDP) survey submissions for both climate change and water. In addition, we achieved Climate Registered™ status by successfully measuring our worldwide Scope 1 and 2 greenhouse gas (GHG) emissions (as defined by the Climate Registry’s best-in-class program), having it verified by a third party and reporting the data on the Registry’s website. We also hosted our first Environmental Defense Fund Climate Corps Fellow  to help us determine the most relevant Scope 
+3 GHG emissions categories for our Company, understand how best to calculate those emissions using globally-accepted methodologies and identify opportunities for us to improve data quality and collection in the future. 
+Increasing Our Access to Reclaimed Water: As water sources around the world become increasingly 
+stressed, we are aware of the need to treat water as the precious resource it is, both for our business and for communities everywhere. Recently, we reached an agreement with the City of San Diego to expand our access to “purple pipe” infrastructure – water lines used to transport reclaimed water for irrigation and industrial use – to our headquarters’ facilities. We aim to increase our use of recycled water at our San Diego facilities by 25 percent by 2020, compared to a 2014 baseline. 
+Helping the San Diego Padres Achieve Their Environmental Goals: The San Diego Padres Major 
+League Baseball stadium, Petco Park, is working to reduce overall utility and water consumption by 25 percent in the next five years using products and services offered by Qualcomm Intelligent Solutions, Inc., a subsidiary of Qualcomm Technologies, Inc., and OSIsoft. Ballparks represent a difficult and unusual challenge for facilities managers because occupancy can change from a handful of employees to full capacity in a matter of hours. With smarter technology, these managers can monitor near real-time water usage and natural gas and electricity consumption from sensors located throughout the Park.
+Piloted a Smart Campus at Our Headquarters: We launched a pilot Qualcomm® Smart Campus 
+project that spans six buildings and nearly 1 million square feet at our headquarters’ facilities. Using real-time situational data, we better managed assets and resources in support of our goal of increasing energy efficiency and reducing our GHG emissions. The campus provides invaluable insights and efficiencies that have the potential to be scaled up for the rest of our real estate assets, as well as cities. At IBcon 2016, an annual gathering of technology and innovation leaders from the real estate industry, our Smart Campus initiative was recognized with a Digital Innovation (Digie) award for “Most Intelligent Corporate Campus,” which recognizes “companies, real estate projects, technologies and people that have gone above and beyond to positively impact our industry through the use of technology, automation and innovation.” 
+2016 Qualcomm Sustainability Report  |  33Qualcomm’s goal is to reduce 
+absolute Scope 1 and Scope 
+2 greenhouse gas emissions 
+from our global operations by 30 percent, compared to a 2014 
+baseline, by 2025.
+Scope 1 Emissions
+~75,000 CO  2e metric tons*
+Direct GHG emissions from sources 
+owned or controlled by the entity. Scope 1 can include emissions from fossil fuels burned on site, emissionsfrom entity-owned or entity-leased vehicles, and other direct sources.
+Scope 2 Emissions
+~155,000 CO2e metric tons*
+Indirect GHG emissions resulting from 
+the generation of electricity, heating and cooling, or steam generated off site but purchased by the entity, and the transmission and distribution (T&D) losses associated with some purchased utilities.can be leveraged to enhance quality of life worldwide. During the campaign, employees committed to completing a different daily QChallenge activity throughout the month of May, such as eating a vegetarian diet, forgoing plastic bags and mapping alternate transportation options for errands or commutes. More than 1,800 employees from over 120 offices worldwide, including China, India, the United Kingdom and the United States, joined the campaign. In honor of our employees who participated, we made a charitable donation of $20,000 to support The Nature Conservancy’s “Plant a Billion Trees”  campaign.
+More than 2,000 employees championed water stewardship through our “Take the Water Pledge” campaign. They committed to at least one of 10 water-saving actions to reduce their water footprints for 30 consecutive days. This campaign also included educational elements about “invisible” or “virtual” water – the hidden water usage that goes into producing food, beverages and other products. Going above and beyond, 30 percent of participants came up with their own bonus pledges, which ranged from planting drought-tolerant landscape to installing rain barrels to teaching children about water conservation.
+If all the participating employees executed on their water pledges, their 
+collective savings would total approximately 18.3 million gallons, or 69.3 million liters, of direct and “invisible” water usage over the course of the month. That’s enough water to fill more than 27 Olympic-sized swimming pools. We made a $10 charitable donation in honor of each employee who participated and to celebrate their efforts to support World Wildlife Fund’s freshwater programs globally , for a total donation of over $20,000.
+* 2014 baseline amounts.34  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  35Goal: By 2020, we will have a comprehensive 
+understanding of the sustainability impacts in our supply chain. 
+As mobile technology continues to benefit society in new and often unexpected ways, it is important 
+that we collaborate with our stakeholders to foster sustainability throughout our supply chain. We are working to understand and improve supply chain conditions, and we are promoting responsible in-region sourcing of conflict minerals as well as on-the-ground development efforts in the Democratic Republic of Congo (DRC) and surrounding countries. We monitor processes and materials with our suppliers and continually work to make our products as sustainable as economically and technically possible. We also work with suppliers to meet our expectations of respect for human rights, responsible sourcing of minerals and conservation of natural resources. 
+As a member of the Electronic Industry Citizenship Coalition (EICC) , we expect all of our suppliers to act 
+in accordance with the EICC Code of Conduct , which promotes industry-wide standards for safe working 
+conditions, freely chosen labor, responsible environmental operations and ethical business practices, 
+among other important principles. By employing EICC resources and collaborating with our peers, we are working to improve transparency and sustainability in the global electronics supply chain. The Qualcomm Way: Our Code of Business Conduct , the EICC Code of Conduct and our EICC membership 
+help guide our responsible business practices and our expectations of our suppliers.36  |  2016 Qualcomm Sustainability ReportCFSP-activeOur Progress: 2016 Highlights
+Enhanced Our Conflict Minerals Program: We implemented a new conflict mineral supplier 
+verification program to assess our direct supplier due diligence activities and ensure conformance with our expectations. These efforts were extended to include our newly acquired companies. We continue to actively participate in the Conflict Free Sourcing Initiative (CFSI) efforts to expand the Conflict Free Smelter Program (CFSP) by serving as a lead on engaging and encouraging South Korean smelters and refiners to participate in the CFSP. The efforts resulted in a 300 percent increase in the number of CFSP-compliant smelters and refiners in South Korea in 2016.
+Striving for Sourcing Excellence:  We won the 2016 Oracle Excellence Award in Sustainability 
+Innovation for our comprehensive and custom-built Conflict Minerals Data Tool solution that helps 
+us tackle the complex requirements of tracing tin, tantalum, tungsten and gold in our products and supply chain to their countries of origin. In compliance with the Dodd-Frank Wall Street Reform and Consumer Protection Act, we continue to report on our use of conflict minerals to the United States Securities and Exchange Commission. For compliance year 2015, we reported that 96 percent of the known processing facilities in our integrated circuit supply chain were CFSP-compliant. Moreover, assessment of our integrated circuit products and other products indicates that tantalum and tungsten in our supply chain are sourced only from CFSP-compliant processing facilities.
+Promoting Responsible Sourcing and Community Well-Being:  We collaborated with various 
+organizations to tackle critical issues facing mining communities in the African Great Lakes Region. 
+For example, we supported Pact’s “Children Out of Mining” project  to bolster efforts to address 
+child labor in mining, including the expansion of the popular “kid radio” access and child-to-child outreach. We also continue to participate in the following efforts to support responsible minerals sourcing: EICC, CFSI, ITRI Supply Chain Initiative (iTSCi), Public-Private Alliance for Responsible Minerals Trade and Minerals Multi-Stakeholder Network.
+Monitoring Adherence to the EICC Code:  We are fortunate to work with suppliers that strive to 
+be best-practice models for the semiconductor industry in their countries. This year, we completed 
+onsite audits of several of our supplier sites using the EICC Validated Audit Process (VAP) protocol. The audits included a thorough document review, interviews with management and employees and a visual site survey. Our auditors have been specially trained to spot hard-to-find audit protocol violations like instances of forced labor. They are also specialists in understanding contexts in which some violations are more common, such as excessive working hours in areas with high migrant worker populations.Progress in Our Supply Chain
+Increasing the number of processing facilities 
+participating in the CFSP*
+Processing Facilities by CFSP Status for Integrated 
+Circuit Products
+CFSP -complia nt CFSP -non-p articipating
+* Amount represents prior-year calendar year data and is correct as of January 31, 2016.2014
+2%16%82%
+2013
+33%20%
+47%
+2015
+1%3%96%2016 Qualcomm Sustainability Report  |  37Sustainability in Our 
+Supply Chain
+Q&A with Michelle Lee,
+Engineer, Principal,  
+Qualcomm Technologies, Inc.      
+Michelle Lee has worked in our chipset division 
+for more than 13 years. She leads our supplier sustainability efforts, works closely with our customers and represents our Company in  
+the EICC.  
+Q: Please describe your role at Qualcomm.A: As Qualcomm’s supplier sustainability champion, I am responsible for driving 
+sustainably designed and produced integrated circuit products. This means working with our suppliers to make sure that we minimize the environmental and health impacts of our products, and that they are produced with responsibly sourced materials and are manufactured in a way that upholds our human rights commitments. I seek and validate information about our suppliers’ sustainability practices, and I identify opportunities for us to collaborate on these issues. I also respond to inquiries from our customers about our sustainability efforts, and I am our Company’s primary representative in the EICC. 
+Q: What is the Company’s approach to understanding sustainability in its 
+supply chain?A: Our supply chain is an integral part of our sustainability efforts. As we work to 
+achieve our 2030 Sustainability Vision and our 2020 sustainability goals, we are teaming up with suppliers to extend our efforts beyond our direct operations. We exchange knowledge with our suppliers through onsite visits, meetings and other collaborative efforts.
+We monitor our suppliers’ processes and materials, and continually work to make 
+our products as sustainable as economically and technically possible. We believe that helping our suppliers enhance their knowledge of sustainability issues – such as human rights, conflict minerals sourcing or selecting less harmful substances for manufacturing – can result in more sustainably managed supply chains.
+Q: How does Qualcomm’s membership in the EICC support these efforts?
+A: As a member of the EICC, we have adopted the EICC Code of Conduct into 
+our own operations and require our suppliers to do the same, thereby leveraging 
+our relationships to further support the EICC Code of Conduct. We assess our suppliers annually using the EICC self-assessment questionnaire (SAQ) to help identify some of the greatest risks. In addition to holding ourselves accountable to the core EICC standards and providing training, we regularly refer to the EICC for expertise and support in achieving their mission to create a responsible and sustainable global electronics supply chain.
+Q: In 2016, you conducted several onsite audits of your direct suppliers. 
+How did you select which suppliers to audit, and what were some of the key findings?A: Since we first joined EICC in 2012 and began assessing our suppliers 
+using the EICC SAQ, our suppliers in the top 90 percent of total product-related spend category have been identified as low-risk suppliers. They have shown effectiveness in many areas of sustainability, especially in product environmental governance. This year, we conducted in-person audits to learn a bit more about our suppliers’ practices. We prioritized suppliers that are located in countries known to have higher risks associated with their ability to implement the EICC Code of Conduct. Overall, our audits confirmed that these suppliers have strong management systems in place to support their adherence with the EICC Code of Conduct, and we will continue to work with them on opportunities to enhance their compliance.
+Q: What are your plans for 2017?
+A: Based on key outcomes from our human rights impact assesment, as well 
+as to satisfy our EICC membership requirements, we intend to conduct more thorough onsite audits of selected primary suppliers for their adherence to the EICC Code of Conduct in the coming years. In addition, as part of our quality monitoring program, our semiconductor manufacturing suppliers will continue to be assessed and monitored periodically for compliance on various sustainability topics, including product environmental governance and  
+conflict minerals.
+“As we work to achieve our 2030 Sustainability Vision and our 2020 sustainability goals, we are teaming up with suppliers to extend our efforts beyond our direct operations.”38  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  39Goal: By 2020, we will have a comprehensive 
+understanding of our human rights impacts and opportunities. 
+Respecting human rights has been important to Qualcomm from our very beginning – from the way 
+we do business in our own operations to the way we work with our suppliers and the positive social impact our technology has had around the globe. In fact, human rights are relevant to each of our six sustainability priorities .
+We are committed to respecting human rights and avoiding complicity in any human rights abuse, throughout our Company, operations, supply chains and communities. Our values and approach to these issues are guided by the Universal Declaration of Human Rights , the United Nations (UN) Guiding 
+Principles on Business and Human Rights  and the UN Global Compact Principles .40  |  2016 Qualcomm Sustainability ReportOur Progress: 2016 Highlights
+Collaborated with Stakeholders on Human Rights: Working 
+collaboratively with others on human rights provides us with an opportunity to share best practices and discuss challenges in developing companywide solutions. Our membership in the EICC and our participation in BSR’s Human Rights Working Group and the UN Global Compact are examples of such collaborations. Through Wireless Reach, we work with stakeholders across the globe to leverage the impact of mobile to advance human rights in support of the UN Sustainable Development Goals.
+Educating and Engaging Our Employees:  In honor of International 
+Human Rights Day, we created a video about our membership 
+in EICC and how it relates to The Qualcomm Way: Our Code of Business Conduct, and we distributed it to our employees globally. We also blogged externally about our efforts to promote human rights through our Wireless Reach programs. During 2016, we conducted meetings with subject matter experts across our Company to educate them about Our Commitment to Human Rights  
+and what human rights means to us.
+Increasing Transparency in Supply Chain Labor: We engaged 
+with KnowTheChain on pilot research and an ICT benchmarking study of transparency in the electronics industry supply chain. The aim of the study was to contribute to efforts to eradicate forced labor in the electronics industry supply chain, and its methodology included seven themes: commitment and governance; traceability and risk assessment; purchasing practices; recruitment; worker voice; monitoring; and remedy. As a result, we learned key opportunities for both our Company and the industry at large to enhance efforts to combat forced labor.
+Promoting Privacy and Data Protection: We conducted a global 
+training and certification program (CIPP-E) for privacy and data protection for key employees involved in our Privacy Steering Committee efforts, addressing compliance and risk mitigation practices. We also updated our Privacy Guiding Principles  and 
+increased our reporting on privacy metrics.
+Assessing Human Rights Impacts and 
+Opportunities Across Our Value Chain   
+We worked with Article One Advisors to complete our first formal corporate human rights impact 
+assessment (HRIA) to ensure our programs and efforts are focused on the right priorities. This six-month process included internal and external stakeholder interviews, research, analysis of industry trends and a detailed review of our policies and programs. We emerged with a clear timeline of next steps and recommendations to further enhance our governance of human rights issues across our value chain.
+Our HRIA consisted of two phases. In phase one, we interviewed leaders across our Company and 
+conducted research to identify which human rights from the Universal Declaration of Human Rights are most salient to our Company. In phase two, we interviewed internal subject matter experts and assessed our programs, practices and policies to identify human rights priorities moving forward. We also incorporated feedback from external stakeholders into the overall recommendations and results. 
+Our HRIA presented key opportunities for us to improve and enhance our human rights governance and 
+programs. Specifically, three human rights priorities emerged as those most relevant for our Company: working conditions in our supply chain, equal opportunity and pay for our employees and product manipulation.  
+2016 Qualcomm Sustainability Report  |  41In the coming year, we will be working on several projects as a direct result 
+of our HRIA findings, including the following:
+• Formalizing and expanding our internal human rights working group.
+• Adopting a work plan with specific deliverables and deadlines.
+• Identifying and securing the support of an executive sponsor.
+• Allocating budget in support of ongoing activities.
+• Incorporating Our Commitment to Human Rights into our Code of Business Conduct trainings.
+• Enhancing our selection process for supplier audits.
+• Developing an approach for reporting on supplier audit results.
+Respect for human rights is an important aspect of our corporate culture, and we look forward to further building human rights awareness throughout our Company and with our key stakeholders.Promoting Human  
+Rights Companywide
+Q&A with Elisabeth Best,
+Manager, Government Affairs
+Since joining Qualcomm in 2011, Elisabeth has led 
+and championed a number of efforts related to human rights, including international public policy advocacy, sustainability communications and program management for Wireless Reach. Q: How did you become involved in human rights at Qualcomm?A: On June 16, 2011, the Human Rights Council – the main UN body responsible for human 
+rights – endorsed the UN Guiding Principles on Business and Human Rights. Coincidentally, just four days later, I joined our Government Affairs team to work on global public policy. As the conversation on human rights evolved, both within our Company and the business community at large, I had the opportunity to help formalize our human rights governance, strategy and communications. These are issues that I have been personally passionate about since college, and I am thrilled that I get to work on them as part of my job.
+Q: How has the HRIA been helpful to your day-to-day work?
+A: One of my team’s core objectives is to help achieve our 2030 Sustainability Vision, and 
+integrating human rights into key business decisions is a critical part of this Vision. By conducting the HRIA, we were able to deepen our understanding of the potential human rights impacts and opportunities at the corporate level, which is an important phase in our journey. The HRIA also provides guidance for our enhanced focus on some areas and supports our continued engagement in efforts that promote and advance human rights and the sustainable development agenda, like Wireless Reach.
+Q: What role do employees play in supporting Qualcomm’s human rights efforts?
+A: Across the world, many of our employees are involved in various aspects of our human 
+rights program, from our physical security team to human resources to our procurement department. Through the HRIA, I had the opportunity to connect with my colleagues directly and learn about the different components of human rights they manage: truly, thousands of employees support our human rights commitment every day. I’m excited to involve more of them in 2017 through our enhanced working group, training and employee engagement activities.
+Our Human Rights Impact
+Assesment Process
+Phase 1: Human Rights Mapping
+Phase 2: Gap Analysis•  Mapped internationally accepted human rights 
+relevant to our Company across our value chain. 
+•  Interviewed company leaders and  
+external experts.
+•  Reviewed emerging standards and industry-
+specific considerations.
+•  Identified most salient human rights impacts and 
+opportunities for our unique business model and 
+operating context.
+• Determined opportunities to enhance management of salient human rights across our Company.
+• Focused on activities in four key areas – governance, people, supply chain and products.
+• Created a roadmap to further our goal of integrating respect for human rights into key business decisions.42  |  2016 Qualcomm Sustainability Report
+2016 Qualcomm Sustainability Report  |  43Goal: By 2020, our ethics and compliance 
+standards will continue to be fully integrated into our global business operations where we have a controlling interest.
+We push the boundaries of what’s possible in mobile technology, but we don’t push the boundaries 
+on ethics. We consider ethical governance to be a core requirement to doing business, a competitive business advantage and the right thing to do. By exercising ethical leadership, we inspire and generate confidence in our Company’s future, as well as create a safe and supportive work environment for our employees. In a dynamic global industry where innovation can create new ethical questions, we find clear guidance in our high standards, values-based culture and The Qualcomm Way: Our Code of Business Conduct (Code of Business Conduct) .
+Our commitment to doing business the right way extends into our supply chain as well. As a member of the EICC, we have adopted the EICC Code of Conduct for our operations and as our supplier code of conduct. Our adherence to both our Code of Business Conduct and the EICC Code make it clear that we are committed to upholding the highest ethical standards throughout our value chain.44  |  2016 Qualcomm Sustainability ReportOur Progress: 2016 Highlights
+Educated Our Employees About Ethics: We actively engaged our employees in our ethical governance 
+programs to ensure they had a thorough understanding of what was expected of them. We required all employees and temporary workers to complete a training and certification process that covered our Code of Business Conduct and global Foreign Corrupt Practices Act (FCPA) and Anti-Corruption policy and procedures. We conducted 154 in-person FCPA and Anti-Corruption trainings at offices worldwide. For example, we provided a general overview of our ethics and compliance programs at new employee on-boarding events related to our acquisition of CSR plc.
+Improved Our Policies and Procedures: We reviewed and updated internal policies and procedures 
+related to our ethical governance programs, and we also created new guidelines or procedures where needed. For example, we released a revised Code of Business Conduct accompanied by new training videos featuring our executives discussing relevant ethics and compliance topics such as conflicts of interest, protecting company confidential information and treating each other with respect. We also enhanced our conflict of interest program to require affirmative disclosures from all senior vice presidents of the Company on an annual basis. We updated our global FCPA and Anti-Corruption policy to address a new anti-corruption law that was enacted in South Korea and provided guidelines to our employees specific to business activities that could present risks under the new law. 
+Continued to Assess and Manage Risks: We continued to assess risks in our business and take 
+steps to ensure our ethics and compliance protocols were being adhered to worldwide. We completed a companywide compliance risk assessment, shared the findings with our Ethics and Compliance Committee and used the results of this risk assessment to help us prioritize our focus areas for 2017. In addition, a climate survey was sent to all employees. The results gave us visibility to any ethics or compliance-related hotspots throughout our Company, which also factored into our Ethics and Compliance objectives for the coming year.
+Enhanced Reviews of Our Partners and Internal Allegations: We continued to take a risk-based 
+approach to ensuring we are working with reputable companies that do not have a history of bribery, corruption or other misconduct. We conducted reputational screenings and due diligence on a number of third-party partners that could come into contact with a foreign government or foreign official on Qualcomm’s behalf. We also enhanced our internal investigations process by creating an allegation review board made up of lead investigators from our employee relations, compliance, IT, internal audit and global security teams, which meets frequently to review pending investigations. This group was instrumental in implementing standard risk category definitions and a technical workflow system to support standardization of the investigations process and reporting. 
+Doing Business  
+“The Qualcomm Way”   
+The Qualcomm Way: Our Code of Business Conduct clearly 
+describes the behaviors expected of all of us and advises on ethical and legal situations we may face in the course of our work. Our Code of Business Conduct describes our responsibilities to customers, business partners, stockholders, communities and each other. It guides us through such ethical terrain as intellectual property protection, conflicts of interest, anticorruption practices, harassment, discrimination and more. Every one of our employees is required to acknowledge that they have read and will comply with Our Code of Business Conduct and will raise concerns when they arise.
+2016 Qualcomm Sustainability Report  |  45Our Global Operations: 2016
+Headquarters
+San Diego, CAemployees globally
+nationalities 
+represented in  
+our workforceoffice locations 
+around the world
+languages spoken
+in revenue30,500
+111175+72
+$23.6b46  |  2016 Qualcomm Sustainability ReportUnits 2016 2015 2014
+Quantity of Products 
+Shipped (in millions)Qualcomm Technologies ’ Mobile Station 
+Modem ( MSM ™) Integrated Circuits# of Products 842 932 861
+Privacy & Security Certified Information Privacy Professionals # 11 N/A N/A
+Privacy Training # of hours 290.5 288 N/A
+Privacy Training Sessions Offered # 18 N/A N/A
+Targeted Security Training Campaigns # 22 N/A N/A
+Targeted Employees Trained in Security # 11,753 N/A N/A
+Supplier Metrics Suppliers (top 90% of total product-related spend) who complete the 
+EICC  SAQ3 % 100 100 100
+Suppliers (top 90% of total product-related spend) with All Low-Risk Manufacturing Facilities per 
+EICC  SAQ3% 100 100 100
+Suppliers (top 90% of total product-related spend) who provided greenhouse gas emissions use data to Qualcomm% 100 100 N/A
+Suppliers (top 90% of total product-related spend) who provided water use data to Qualcomm% 100 100 N/A
+Conflict Free Minerals
+4 CFSP -Compliant Processing Facilities5# 215 125 55
+CFSP -Compliant Processing Facilities5% 71 52 31
+Supplier Diversity Diverse Suppliers Registered (U.S. only) # 931 905 873
+Spending on U.S. Government Subcontract Work Directed at Diverse Businesses (U.S. only)
+6% 30 29 14Units 2016 2015 2014
+Total Consolidated Revenues by Region  
+(in millions)
+1Total $ 23,554 25,281 26,487
+China (including Hong Kong) $ 13,503 13,337 13,200
+South Korea $ 3,918 4,107 6,172
+Taiwan $ 2,846 3,294 2,876
+United States $ 386 246 372
+Other Foreign $ 2,901 4,297 3,867
+Revenues by Segment  (in millions)
+2Total $ 23,554 25,281 26,487
+QCT $ 15,409 17,154 18,665
+QTL $ 7,664 7,947 7,569
+QSI $ 47 4 0
+Other $ 434 176 253
+Total Capitalization  (in millions)Stockholders’ Equity $ 31,768 31,414 39,166Our Company
+Our Products and SuppliersOur 2016 Performance Summary
+1 We report revenues from external customers by 
+country based on the location to which our products 
+or services are delivered, which for QCT is generally the country in which our customers manufacture their products, or for licensing revenues, the invoiced addresses of our licensees. As a result, the revenues by country presented herein are not necessarily indicative of either the country in which the devices containing our products and/or intellectual property are ultimately sold to consumers or the country in which the companies that sell the devices are headquartered. For example, China revenues could include revenues related to shipments of integrated circuits to a company that is headquartered in South Korea but that manufactures devices in China, which devices  are then sold to consumers in Europe and/or the United States.
+2 During the first quarter of fiscal 2014, we reassessed 
+our management reporting as a result of the sale of the North and Latin America operations of our Omnitracs division, which comprised substantially all of the Omnitracs division, among other reasons.  The Omnitracs division was previously aggregated with three other divisions into the Qualcomm Wireless & Internet (QWI) reportable segment. Starting in fiscal 2014, the QWI segment was eliminated, and revenues and operating results for the divisions that comprised the QWI reportable segment are included in nonreportable segments as components of other. Prior period segment information was adjusted to conform to the new segment presentation.
+3 Electronic Industry Citizenship Coalition (EICC) Self-
+Assessment Questionnaire (SAQ).
+4 Amount represents prior-year calendar year data 
+and is correct as of January 31, 2016.
+5 Conflict Free Smelter Program (CFSP).
+6 2016 and 2015 data was calculated using a revised 
+methodology for capturing this data. 2014 amount was calculated using our previous methodology.
+N/A = Not available2016 Qualcomm Sustainability Report  |  47Units 2016 2015 2014
+Energy and Air Quality7 Electricity Avoided as a Result of our Energy 
+Saving InitiativesMegawatt Hours 49,599 49,548 N/A
+Emissions Avoided as a Result of Our Energy 
+Saving InitiativesCO2e Metric Tons 15,009 14,055 14,618
+Greenhouse Gas ( GHG )
+Emissions8CO2e per Gross Square Foot of Facilities 
+Space (Scope 1 & 2)CO2e Metric Tons 0.01827 0.02007  0.02066 
+Total Scope 1 - Direct GHG  Emissions by 
+WeightCO2e Metric Tons 76,413 75,349  67,793 
+Total Scope 2 - Indirect GHG  Emissions by 
+WeightCO2e Metric Tons 154,280 155,288  114,811 
+Total Scope 3 - Other Indirect GHG  Emissions 
+by Weight9 CO2e Metric Tons 112,252 38,845 N/A
+Direct Energy Consumption 
+by Primary Energy Source8Natural Gas (facilities) MMB tu 1,295,867 1,171,660  1,044,012 
+Jet Fuel (aviation related) Gallons 924,220 1,038,993  1,058,665 
+Vehicle Gasoline (shuttle/test vehicles) Gallons 72,372 78,051  70,657 
+Diesel Fuel (cars/trucks) Gallons 17,642 20,175  24,226 
+Diesel Fuel (generators) Gallons 118,042 94,124  52,471 
+Propane Vehicles (truck) Gallons 438 131  190 
+Indirect Energy Consumption by Primary Energy Source
+8Electricity (purchased) Megawatt Hours 301,807 327,876  267,251 
+Significant Air Emissions10NOx Tons 8.82 8.67  17.93 
+SOx Tons 0.3 0.29  0.23 
+VOC Tons 0.89  .83  <1 .0
+Waste Management11Total Non-Hazardous Waste:
+   Generated Metric Tons 9,425 N/A N/A
+   Recycled Metric Tons 2,777 N/A N/A
+Total Hazardous Waste: N/A N/A
+   Generated Metric Tons 62 N/A N/A
+   Recycled Metric Tons 20 N/A N/A
+   Landfill Metric Tons 5 N/A N/A
+Employee Engagement 
+EventsPersonal Paper Shredding Collection Events for EmployeesTons 2.6 5.0  5.8 
+Personal E-Waste Collection Events for EmployeesPounds 16,615 8,337 10,766
+E-Waste Collection E-Waste Collection Pounds 658,308 587,780 519,163
+Water Management Total Water Usage
+12Million Gallons 168 180 182
+Reclaimed Water – Cooling Towers Million Gallons 22 30 36
+Reclaimed Water – Irrigation Million Gallons 8 11 15
+Potable Water – Cooling Towers Million Gallons 79 76 66
+Potable Water – Building Water Million Gallons 38 40 37
+Potable Water – Irrigation Million Gallons 21 23 28
+Water Savings13Million Gallons 18 18 20 Our Environment
+N/A = Not available7 Cumulative avoided emissions of CO 2e due to  
+energy and water efficiencies for both owned and 
+leased San Diego, CA facilities, plus owned facilities in San Jose and Santa Clara, CA. 
+8 Amounts for 2016 and 2015 represent prior-year 
+calendar year data for 100% of Qualcomm’s global facilities. Amounts for 2014 represent prior-year calendar year data for all of our North American facilities plus our owned international facilities in India and Taiwan, covering approximately 80% of Qualcomm’s global square footage during that  
+time period. 
+9 Amount for 2016 represents employee business air 
+travel, business car rental and employee commuting. Amount for 2015 represents employee business air travel and business car rental only.
+10 All NOx, SOx and VOC data is prior-year calendar 
+year data for our San Diego facilities only. 
+11 We revised how we report our waste management 
+data beginning in 2016. 
+12 Reported water usage is for both owned and leased 
+San Diego, CA facilities, plus owned facilities in San Jose and Santa Clara, CA.
+13 Reflects potable water savings (does not include 
+reclaimed water savings).48  |  2016 Qualcomm Sustainability ReportUnits 2016 2015 2014
+Workforce Total Employees # 30,500 30,6001431,300
+Breakout by Region:
+United States % 57 64 66
+Non-United States % 43 36 34
+Breakout by Employee Type:
+Regular Employees % 88 87 87
+Temporary Employees % 12 13 13
+Inclusion and Diversity Nationalities Represented # of 111 105  121 
+Languages Spoken # of 72 67  67 
+Women - Overall % of Total 18.7 19.1 20.3
+Leadership % of Total 16.6 16.9 16.8
+Technical % of Total 14 14.3 14.2
+Women on Board of Directors % of Total 17 20 20
+Race and Ethnicity Statistics (U.S. only):   
+   Minority Employees - Overall % of Total 63.7 63 63
+   American Indian/Alaska Native - Overall % of Total 0.2 0.2 0.2
+   Leadership % of Total 0.1 0.1 0.1
+   Technical % of Total 0.1 0.1 0.1
+   Asian - Overall % of Total 54.9 54.1 53.4
+   Leadership % of Total 43.7 42.9 41.8
+   Technical % of Total 60.9 60.7 61.3
+   Black/African American - Overall % of Total 1.6 1.8 1.8
+   Leadership % of Total 1.1 1.3 1.5
+   Technical % of Total 1.3 1.3 1.2
+   Hispanic - Overall % of Total 4.8 5.0 5.0
+   Leadership % of Total 3.8 4.0 4.2
+   Technical % of Total 3.2 3.2 2.9
+   Native Hawaiian/Pacific Islander - Overall % of Total 0.4 0.4 0.4
+   Leadership % of Total 0.2 0.2 0.2
+   Technical % of Total 0.3 0.3 0.2
+   Two or More Minority Groups - Overall % of Total 1.9 1.9 1.9
+   Leadership % of Total 1.3 1.1 1.0
+   Technical % of Total 1.5 1.6 1.5
+Disabled (U.S. only) % of Total 1.7 N/A N/A
+Veterans (U.S. only) % of Total 2.9 N/A N/A
+Employee Development Training Statistics:
+   Classroom Training Course Enrollments # 85,076 121,386 123,439 
+   Instructor-led Sessions # 1,590 1,921  2,019 
+   Online Courses # 11,685 5,379 2,000+ 
+Training by Employee Group:   Individual Contributor Hrs/Employee 13 21  38 
+   Management Hrs/Employee 13 23  33 
+   Executive Hrs/Employee 12 17  20 
+Ethical Employment Employee Voluntary Turnover Rates % of Total 8.6 6.0 4.3Our Workplace
+N/A = Not available14 Amount does not include CSR plc data.2016 Qualcomm Sustainability Report  |  49Units 2016 2015 2014
+Workplace SafetyLost Time Injury and Incident Rate15 Per 200,000 hrs worked 0.06 0.02 0.07
+Total Recordable Incident Rate15Per 200,000 hrs worked 0.64 0.80 0.82
+Motor Vehicle Incident Rate # 0.09 N/A N/A
+Units 2016 2015 2014
+Philanthropy Employees Participating in Matching and 
+Community Service Grant Programs# of 2,905 4,047 3,781
+Nonprofit Organizations Helped by Matching and Community Service Grant Programs# of 1,695 2,055 2,007
+Qualcomm Wireless Reach
+16Stakeholders # 655 625  429 
+Projects # 114 103  96 
+Countries # 46 40  38 
+Beneficiaries # 9,519,949 8,276,962 N/AOur Workplace (cont.)
+Our Society
+N/A = Not available15 Amounts for 2015 and 2014 represent U.S. only. 
+16 Cumulative data since 2006.50  |  2016 Qualcomm Sustainability ReportCategory or 
+AspectStandard DisclosureDescription Location or Response
+Strategy and AnalysisG4-1 Statement from the most senior decision-maker of  
+the organization  Message From Our CEO
+G4-2 Description of key impacts, risks, and opportunities Our Sustainability Governance and Strategy
+Organizational ProfileG4-3 Name of the organization Qualcomm Incorporated
+G4-4 Primary brands, products, and services 
+About Qualcomm ; Products
+G4-5 Location of headquarters San Diego, CA
+G4-6 Number of countries where the organization operates, and names of countries with major operations Offices and Facilities 
+G4-7 Nature of ownership and legal form Qualcomm is listed on the NASDAQ Stock Market under the ticker symbol QCOM. 10-K/Annual Report
+G4-8 Markets served (including geographic breakdown, sectors served, and types of customers/ beneficiaries) 
+About Qualcomm ; Our Performance Summary ; 10-K/Annual Report
+G4-9 Scale of the reporting organization (overall) Our Performance Summary ; Offices and Facilities ; 10-K/Annual Report
+G4-10 Scale of the reporting organization (employees) Our Performance Summary  
+G4-11 Percentage of total employees covered by collective  
+bargaining agreementsNone of our United States employees are covered by collective bargaining agreements. Outside the U.S., less than 5 percent of our employees are covered by collective bargaining agreements. We are compliant with all collective agreements regarding significant operational changes as required by country laws and regulations.
+G4-12 Organization’s supply chain
+About Qualcomm ; 10-K/Annual Report
+G4-13 Significant changes during the reporting period regarding size, structure, or ownership We disclose all significant changes regarding size, structure or ownership in our periodic filings. 10-K/Annual ReportOur 2016 GRI Content Index
+We report on our sustainability initiatives annually according to the Global Reporting Initiative  (GRI) G4 Sustainability Reporting Guidelines. We self-
+declare this report to be GRI “In Accordance—Core” level. Only standard disclosures deemed meaningful to Qualcomm’s sustainability performance 
+are contained in the index. All partially covered disclosures are marked.*2016 Qualcomm Sustainability Report  |  51Category or 
+AspectStandard DisclosureDescription Location or Response
+G4-14 Whether and how the precautionary approach or principle is addressed by the organizationWe practice the “precautionary principle” of identifying and taking preventative measures regarding chemicals, including in circumstances in which there is a high degree of scientific uncertainty regarding potentially hazardous chemicals. Our own policies are often more stringent than applicable law. We continuously monitor opportunities to improve our 
+products and make them as sustainable as technically and economically feasible.
+G4-15 Externally developed economic, environmental, and social charters, principles, or other initiatives to which the organization subscribes or which it endorses Qualcomm participates in, subscribes to or endorses a wide range of different externally developed economic, environmental and social charters, principles and initiatives. Our approach is described at Sustainability . 
+G4-16 List memberships of associations and national or international advocacy organizations in which the organization is involved
+Our 2016 Memberships and Industry Affiliations 
+Material Aspects and BoundariesG4-17 Entities included in the organization’s consolidated financial statements or equivalent documents 
+10-K/Annual Report
+G4-18 Process for defining report content and Aspect boundaries Our Sustainability Governance and Strategy ; About This Report 
+G4-19 Identified material Aspects Our Sustainability Governance and Strategy
+G4-20 For each material Aspect, report the Aspect Boundary within the organization About This Report 
+G4-21 For each material Aspect, report the Aspect Boundary outside the organization About This Report 
+G4-22 Effect of any restatements of information provided inprevious reports Our Performance Summary ; 10-K/Annual Report
+G4-23 Significant changes from previous reporting periods in Scope and Aspect Boundaries There have been no significant changes from previous reporting periods in the scope, boundary or measurement methods applied in this report.
+Stakeholder EngagementG4-24 Stakeholder groups engaged 
+Our Sustainability Governance and Strategy ; Stakeholder Engagement  
+G4-25 Basis for identification and selection of stakeholders Our Sustainability Governance and Strategy ; Stakeholder Engagement  
+G4-26 Approach to stakeholder engagement Our Sustainability Governance and Strategy ; Stakeholder Engagement  
+G4-27 Key topics and concerns raised through stakeholder engagement, and organization’s response The materiality assessment described in Our Sustainability Governance and Strategy  incorporated key issues raised through stakeholder engagement. 
+Our response to these issues is contained throughout this report.
+Report Profile G4-28 Reporting period 
+About This Report 
+G4-29 Date of most recent previous report Our 2015 Qualcomm Sustainability Report covers events and highlights occurring in our 2015 fiscal year, from September 29, 2014 to September 27, 2015.
+G4-30 Reporting cycle 
+About This Report 52  |  2016 Qualcomm Sustainability ReportCategory or 
+AspectStandard DisclosureDescription Location or Response
+G4-31 Contact point for questions regarding report About This Report 
+G4-33 Policy and current practice with regard to seeking external assurance for the report About This Report 
+Governance G4-34 Governance structure, including committees of highest governing body The Governance Committee receives and reviews a report on our policies and programs concerning corporate citizenship and social responsibility, including charitable giving, annually. Corporate Governance ; Governance 
+Committee ; Our Sustainability Governance and Strategy     
+Ethics and IntegrityG4-56 Organization’s values, principles, and standards
+The Qualcomm Way ; Corporate Governance
+G4-57 Internal and external mechanisms for seeking advice on ethical and lawful behavior Code of Ethics ; Ethical Governance ; Business Conduct Hotline  
+G4-58 Internal and external mechanisms for reporting concerns on ethical and lawful behavior Code of Ethics ; Ethical Governance ; Business Conduct Hotline
+Economic DMA Disclosure on management approach 10-K/Annual Report ; Proxy Statement ; Corporate Governance ; The 
+Qualcomm Way ; Code of Ethics ; Supplier Diversity Policy
+Economic PerformanceG4-EC1 Direct economic value generated and distributed 
+Our Performance Summary ; 10-K/Annual Report  
+G4-EC2 Financial implications and other risks and opportunities for the organization’s activities due to climate change CDP Investor Response 
+G4-EC3 Coverage of the organization’s defined benefit plan obligations We maintain defined benefit plans in several countries outside of the United States: • Belgium, Germany and Switzerland: This is a hybrid Defined        Contribution/ Defined Benefit plan where employees make      contributions but they are guaranteed a minimum investment    return on their capital.  • India: Gratuity Benefit - Lump sum payment of 15 days’ basic    salary upon retirement, termination, death or permanent disability.• South Korea, Mexico and France: Mandated termination indemnities based.
+Indirect Economic ImpactsG4-EC7* Infrastructure investments and services supported
+Wireless Reach
+G4-EC8* Significant indirect economic impacts Wireless Reach
+Environmental DMA Disclosure on management approach Our Environmental Guiding Principles ; Supply Chain Management ; The 
+Qualcomm Way ; EICC Code of Conduct ; Our Environment ; Qualcomm’s 
+Commitment to Responsible Water Management 
+Materials G4-EN1 Materials used by weight or volume Materials use is a priority sustainability topic for Qualcomm, but this specific GRI standard disclosure is not suited to our impacts. You can read about our approach in Product Responsibility . 2016 Qualcomm Sustainability Report  |  53Category or 
+AspectStandard DisclosureDescription Location or Response
+G4-EN2 Percentage of materials used that are recycled  
+input materialsMaterials use is a priority sustainability topic for Qualcomm, but this specific GRI standard disclosure is not suited to our impacts. You can read about our approach in Product Responsibility .
+Energy G4-EN3 Direct energy consumption by primary source
+Our Performance Summary  
+G4-EN4 Indirect energy consumption by primary source Our Performance Summary  
+G4-EN6 Reduction of energy consumption Our Performance Summary  
+G4-EN7 Reductions in energy requirements of products and services Products
+Water G4-EN8* Total water withdrawal by source Our Performance Summary
+G4-EN10* Percentage and total volume of water recycled Our Performance Summary
+Emissions G4-EN15 Direct greenhouse gas (GHG) emissions (Scope 1) Our Performance Summary  
+G4-EN16 Energy indirect GHG emissions (Scope 2) Our Performance Summary
+G4-EN17* Other indirect GHG emissions (Scope 3) Our Performance Summary
+G4-EN18 GHG emissions intensity Our Performance Summary
+G4-EN21* NOx, SOx, and other air emissions Our Performance Summary
+Effluents and WasteG4-EN23 Total weight of waste by type and disposal method
+Our Performance Summary
+G4-EN25 Total weight of hazardous waste Our Performance Summary
+Compliance G4-EN29 Non-compliance with environmental lawsand regulationsQualcomm received no monetary fines and no non-monetary sanctions for non-compliance with environmental laws and regulations in 2016.
+Supplier Environmental AssessmentG4-EN32* Percentage of new suppliers that were screened using environmental criteria
+Supply Chain Management
+G4-EN33* Significant actual and potential negative environmental impacts in the supply chain, and actions taken Supply Chain Management
+Labor Practices and Decent WorkDMA Disclosure on management approach
+The Qualcomm Way ; Our Workplace; Ethical Governance ; Supply Chain 
+Management ; EICC Code of Conduct
+Employment G4-LA1* Total number and rates of new employee hires and turnover Our Performance Summary ; total workforce by region and employment type 
+provided; employee voluntary turnover rates provided.54  |  2016 Qualcomm Sustainability ReportCategory or 
+AspectStandard DisclosureDescription Location or Response
+G4-LA2 Benefits provided to full-time employees that are not provided to temporary or part time employeesOur benefits package for regular full-time employees is market competitive and comprehensive. In the U.S., it includes medical, dental and prescription drug benefits, among others, for employees working 30 or more hours per week. In all locations, where legally permitted, we may prorate some full-time employee benefits according to standard work hours for part-time employees. Qualcomm does not offer a benefits package to temporary employees. Temporary employees may receive health insurance benefits from their staffing agency employer.
+Labor / Management RelationsG4-LA4 Minimum notice periods regarding operational changes, including whether these are specified in collective agreementsQualcomm complies with all legally and contractually required minimum notice periods.
+Occupational Health and SafetyG4-LA6 Type of injury and rates of injury, occupational diseases, lost days, and absenteeism, and total number of work-related fatalities
+We had zero work-related fatalities. Our Performance Summary
+G4-LA8 Health and safety topics covered in formal agreements with trade unionsQualcomm complies with any health and safety requirements that are covered in applicable trade union agreements.
+Training and EducationG4-LA9 Average hours of training per year per employee by gender, and by employee category
+Our Performance Summary  
+G4-LA10 Programs for skills management and lifelong learning that support the continued employability of employees and assist them in managing  career endings Our Workplace; Benefits
+Diversity and Equal OpportunityG4-LA12 Composition of governance bodies and breakdown of employees per employee category according to gender, age group, minority group membership, and other indicatorsof diversity
+Our Performance Summary  
+Supplier Assessment of Labor PracticesG4-LA14* Percentage of new suppliers that were screened using labor practices criteria
+Our approach to labor practices in the supply chain is described in Supply Chain Management . Qualcomm is applying the EICC Membership 
+Requirements .
+G4-LA15* Significant actual and potential negative impacts for labor practices in the supply chain, and actions taken
+Our approach to labor practices in the supply chain is described in Supply Chain Management . Qualcomm is applying the EICC Membership 
+Requirements .
+Human Rights DMA Disclosure on management approach
+The Qualcomm Way ; Qualcomm’s Commitment to Human Rights ; Supply 
+Chain Management ; Qualcomm Communication on Progress ; EICC Code
+of Conduct ; Human Rights2016 Qualcomm Sustainability Report  |  55Category or 
+AspectStandard DisclosureDescription Location or Response
+Investment G4-HR2* Total hours of employee training on human rights policies or procedures concerning aspects of human rights that are relevant to operations, including the percentage ofemployees trainedOur Performance Summary
+Non-DiscriminationG4-HR3 Total number of incidents of discrimination and corrective actions takenQualcomm has never been found to have unlawfully discriminated against any of our employees.
+Freedom of Association and Collective BargainingG4-HR4 Operations and suppliers identified in which the right to exercise freedom of association and collective bargaining may be violated or at significant risk, and measures taken to support these rightsQualcomm is unaware of any operations in which the right to exercise freedom of association and/or collective bargaining are at significant risk. See G4-LA14 and G4-LA15 for suppliers.
+Child Labor G4-HR5 Operations and suppliers identified as having significant risk for incidents of child labor, and measures taken to contribute to the effective abolition of child labor 
+Qualcomm is unaware of any operations in which there is a significant risk for incidents of child labor. See G4-LA14 and G4-LA15 for suppliers. Conflict Free Minerals
+Forced or Compulsory LaborG4-HR6 Operations and suppliers identified as having significant risk for incidents of forced or compulsory labor, and measures to contribute to the elimination of all forms of forced or compulsory labor
+Qualcomm is unaware of any operations in which there is a significant risk for incidents of forced or compulsory labor. See G4-LA14 and G4-LA15 for suppliers. Conflict Free Minerals
+Security PracticesG4-HR7 Percentage of security personnel trained in human rights policies or proceduresOne hundred percent of security personnel are trained in the organization’s policies or procedures concerning aspects of human rights that are relevant to operations.
+Assessment G4-HR9 Total number and percentage of operations that have been subject to human rights reviews or impact assessments
+We completed a corporate Human Rights Impact Assessment .
+Qualcomm’s Commitment to Human Rights
+Supplier Human Rights AssessmentG4-HR10* Percentage of new suppliers that were screened using human rights criteria 
+Our approach to labor practices in the supply chain is described in Supply Chain Management . Qualcomm is applying the EICC Membership 
+Requirements .
+G4-HR11* Significant actual and potential negative human rights impacts in the supply chain, and actions taken
+Our approach to labor practices in the supply chain is described in Supply Chain Management . Qualcomm is applying the EICC Membership 
+Requirements .
+Society DMA Disclosure on management approach
+The Qualcomm Way ; Supply Chain Management ; Our Society ; Wireless 
+Reach
+Anti-Corruption G4-SO3* Total number and percentage of operations assessed for risks related to corruption and the significant risks identified We annually evaluate our Company for risks related to corruption. We also assess additional risk areas on a case-by-case basis. The Qualcomm Way ; 
+Ethical Governance  56  |  2016 Qualcomm Sustainability ReportCategory or 
+AspectStandard DisclosureDescription Location or Response
+G4-SO4 Communication and training on anti-corruption policies  
+and proceduresQualcomm requires its employees to complete a certification process that covers the Company’s global FCPA and Anti-Corruption policy and procedures. With respect to our FY16 certification, which was sent out to all employees and temporary workers on 8/23/16, 98 percent of all employees have completed the requirement. In addition, 154 in-person training sessions on Qualcomm’s FCPA and Anti-Corruption Compliance program were offered to employees in higher risk roles in 2016. The Qualcomm Way ; Ethical 
+Governance
+G4-SO5 Confirmed incidents of corruption and actions taken
+We disclose all material pending legal proceedings in our periodic filings10-K/Annual Report .
+Public Policy G4-SO6 Total value of political contributions by country and recipient/beneficiary
+Disclosures Under Political Contributions and Expenditures Policy
+Anti-Competitive BehaviorG4-SO7 Total number of legal actions for anti-competitive behavior, anti-trust, and monopoly practices and their outcomes  
+We disclose all material pending legal proceedings in our periodic filings 10-K/Annual Report .
+Compliance G4-SO8 Monetary value of significant fines and total number of nonmonetary sanctions for noncompliance with lawsand regulations  
+We disclose all material pending legal proceedings in our periodic filings10-K/Annual Report
+Supplier AssessmentsG4-SO9* Percentage of new suppliers that were screened using criteria for impacts on society 
+Our approach to labor practices in the supply chain is described in Supply Chain Management . Qualcomm is applying the EICC Membership 
+Requirements .
+G4-SO10* Significant actual and potential negative impacts on society in the supply chain, and actions taken
+Our approach to labor practices in the supply chain is described in Supply Chain Management . Qualcomm is applying the EICC Membership 
+Requirements .
+Product ResponsibilityDMA Disclosure on management approach
+Sustainable Product Design ; The Qualcomm Way ; EICC Code of Conduct
+Customer Health & SafetyG4-PR1* Percentage of significant product and service categories for which health and safety impacts are assessed for improvement
+Qualcomm’s approach to the health and safety impacts of products is found in Product Responsibility .
+G4-PR2 Total number of incidents of non-compliance with regulations and voluntary codes concerning the health and safety impact of products and servicesZero
+Customer Privacy G4-PR8 Total number of substantiated complaints regarding breaches of customer privacy and losses of customer dataWe did not receive any substantiated complaints regarding breaches of customer privacy or data in 2016 or in the three years prior.
+Compliance G4-PR9 Monetary value of significant fines for non-compliance with laws and regulations concerning the provision and use of products and services
+We disclose all material pending legal proceedings in our periodic filings10-K/Annual Report .Qualcomm Headquarters
+5775 Morehouse DriveSan Diego, CA 92121Phone 858-587-1121www.qualcomm.com/sustainability
+We welcome your comments and feedback at qsr@qualcomm.com© 2017 Qualcomm Incorporated.  All Rights Reserved.
+ Qualcomm, Qualcomm Halo, Why Wait, MSM and Wireless Reach are trademarks of Qualcomm Incorporated, registered in the United States and other countries.  Thinkabit Lab is a trademark of Qualcomm Incorporated.  Other products and brand names may be trademarks or registered trademarks of their respective owners. References in this report to “Qualcomm” may mean Qualcomm Incorporated, Qualcomm Technologies, Inc., and/or other subsidiaries or business units within the Qualcomm corporate structure, as applicable. Qualcomm Incorporated includes Qualcomm’s licensing business, QTL, and the vast majority of its patent portfolio. Qualcomm Technologies, Inc., a wholly-owned subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of Qualcomm’s engineering, research and development functions, and substantially all of its product and services businesses, including its semiconductor business, QCT.

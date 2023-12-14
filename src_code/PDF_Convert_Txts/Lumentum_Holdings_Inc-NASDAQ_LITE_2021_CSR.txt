@@ -1,0 +1,2837 @@
+  CREATING A BRIGHTER FUTURE  |  1
+CREATING A 
+BRIGHTER FUTURE
+2021 Corporate Social Responsibility Report  CREATING A BRIGHTER FUTURE  |  2
+CONTENTS
+ABOUT THIS REPORT
+This is Lumentum’s inaugural corporate social 
+responsibility (CSR) report, covering activities for the 
+fiscal year ending July 3rd, 2021. Although this report 
+represents FY21, it includes some details from FY20 
+where noted. This report has been prepared in 
+accordance with the Global Reporting Initiative (GRI) 
+Standards: Core option. We have not sought external 
+assurance of this entire report; however, our energy and 
+emissions data have been verified by an independent 
+third party.
+We are excited to embark on our reporting journey and 
+plan to regularly update our stakeholders on our CSR 
+performance. We welcome your feedback. For any 
+questions regarding the report, please contact 
+CorporateSocialResponsibility@Lumentum.com . 
+See what a brighter future looks like …03 Welcome
+05 Introduction
+09 Our Business
+12 CSR at Lumentum 
+15 Integrating the UN Sustainable Development Goals
+16 Rising to the Challenge: Our COVID-19 Response  
+19 Supply Chain Responsibility  
+23 Innovation: Breakthrough Impact  
+26 Spotlight on Quality: Building a Kaizen Culture   
+29 The Pursuit of Excellence: Lumentum Navanakorn Factory   
+33 Planet: Lighter Impact     
+40 People: Positive Impact     
+46 ESG KPI Data Summary  
+50 GRI Content Index
+55 SASB Index
+56 UN Sustainable Development Goal Index
+57 Verification Statement  CREATING A BRIGHTER FUTURE  |  3
+A Message from the Board  
+ 
+Thank you for this opportunity to share our progress and 
+vision for corporate social responsibility at Lumentum. We 
+believe in the value of good corporate citizenship. For years, 
+we have incorporated strong governance practices into our 
+business, and now we will leverage this foundation to 
+illuminate our path toward a more sustainable future. 
+We envision a brighter world by accelerating our photonic 
+innovations. Over the next decade, organizations’ actions to 
+mitigate and adapt to climate change will determine not only 
+economic performance but long-term economic strength and 
+viability. We recognize that we have a responsibility to all of 
+our stakeholders, including employees, our shareholders, 
+customers, suppliers, as well as to society as a whole, to act 
+now. It is with this great sense of urgency that we have 
+committed to a net zero emissions target by 2030.
+Our work toward this goal has already begun with the 
+transition to renewable energy at our headquarters and other 
+sites. Actions such as renewable energy procurement, onsite energy generation, and energy efficiency improvements in 
+our operations will continue to be identified and executed 
+upon across our global footprint. These efforts not only are 
+beneficial for the environment, but also drive innovation 
+and enable us to continually improve our organization and 
+our products. 
+Telecommunications, high-speed internet access, and 
+connectivity are ever-increasing priorities for the world. As a 
+leading supplier of optical components and subsystems, 
+Lumentum plays an important role in the innovation, design 
+and performance of virtually all communication networks. We 
+are a key enabler in providing internet access to people 
+around the world. We optimize our products for best-in class 
+performance, improved power efficiency, and best-in-class 
+materials and processes.
+To carry out this effort, employee health and safety is a key 
+priority within Lumentum. In addition to our regular safety 
+program and activities, we are proud of our response to the 
+COVID-19 pandemic. We were successful in ensuring a safe 
+workplace for all our employees around the globe.
+Social equity and racial justice are other challenges that we are 
+taking very seriously here at Lumentum. Our commitment to 
+diversity, equity and inclusion is making us a better company. 
+We support and develop our employees, partners, and 
+communities through this effort, which is driven across the 
+company by our Diversity, Inclusion, and Belonging Council 
+that we established in 2019. We work hard to engage 
+underrepresented groups and offer an environment in which 
+they can shine their brightest. Employing a diverse workforce 
+is essential for Lumentum to build a long-term sustainable 
+business and foster an inclusive culture that values differences 
+and inspires creativity. 
+Our Board, our management, and our employees are actively 
+engaged in driving change to create a brighter future. We are 
+excited that the organization is energized behind this effort, 
+from top to bottom. We are proud of what we have 
+accomplished to date and where we are going. Thank you for 
+joining us on this journey and we welcome your feedback 
+along the way.  
+ 
+Respectfully,
+Penelope Herscher   Julie Johnson  
+Board Member  
+and Chair  
+Board Member and 
+CSR LiaisonWelcome  CREATING A BRIGHTER FUTURE  |  4
+Our leadership in product innovation is both a strength and a 
+challenge. Maintaining our leadership means attracting and 
+keeping the best and brightest employees. We know that 
+innovation flourishes in an environment where motivated and 
+skilled people can thrive. We recognize that being responsible 
+corporate citizens is part of a foundation needed to keep 
+innovation alive and well . As we move forward, we continue 
+striving for the highest quality in all that we do. This includes 
+expanding our CSR efforts to enhance and secure innovation’s 
+place in our future. 
+As good corporate citizens, we have focused diligently on 
+compliance for many years, and we have a consistent track 
+record of recognition from our customers in this space.  As a 
+result of that commitment and focus, we go beyond necessary 
+compliance in many areas, such as conflict minerals and 
+restricted substances. Our efforts in other functional areas of 
+CSR are in various stages of deployment. As we continue to 
+build our CSR program, we are committed to making strides 
+across the entire company to match our zero-defect culture 
+and focus. To ensure the program’s success, we have 
+introduced a cross-functional CSR Council that is sponsored by 
+our Chief Quality Officer and Head of Operations. The Council 
+consists of representatives and leaders from across our 
+company and our business units who collaborate to develop 
+and implement the various aspects of the program. A member 
+of our Board of Directors serves as a liaison between the CSR 
+Council and the Board, enabling awareness, focus, and 
+prioritization of our CSR effort at the Board level. As we seek 
+to be a leader in CSR, we believe the CSR Council and our 
+Board’s involvement is integral to our journey.
+Efforts to mitigate our environmental footprint and our 
+contribution to climate change are core to the CSR program. 
+Our goal of achieving global net-zero emissions by 2030 
+exemplifies our commitment to environmental leadership.  
+Although we have participated in global initiatives such as CDP 
+for several years, this goal formalizes our strong dedication to climate action. Establishing onsite renewable energy 
+generation, onsite energy efficiency projects, and entering into 
+power purchase agreements highlight our actions in pursuit of 
+our goal. We take pride in realizing 100% renewable energy 
+procurement at our headquarters in FY21, two years ahead of 
+schedule. This investment not only benefits Lumentum, but 
+also helps the city of San Jose in reaching its emissions 
+reduction goals to provide 100% renewable energy by 2050. 
+This is a sign of good things to come.
+We support equitable digital access and believe that our 
+innovative products foster a global communications 
+infrastructure that meets the digital demands of tomorrow. 
+The Internet of Things touches education, work, and social 
+interaction in ways we could not have imagined a few years 
+ago. We will continue to drive our innovation to support new 
+ways of doing business and living life. 
+Our work toward social equity is a core tenet of our CSR 
+program. Our Diversity, Inclusion, and Belonging (DIB) Council, 
+formed in 2019 with representation from all business units 
+and functions, aligns our diversity goals and objectives with 
+our company goals and objectives. As part of this effort, we 
+provide unconscious bias training that focuses on three areas 
+of the candidate and employee experience: attraction, 
+development, and retention. One of the DIB initiatives is to 
+offer scholarships to underrepresented college students, 
+including at historically Black colleges and universities to 
+create more opportunities for traditionally underrepresented 
+groups. We have introduced employee resource groups to 
+foster a culture of inclusion and belonging and to engage 
+people of different backgrounds. Our diversity makes us a 
+better company.
+Throughout the COVID-19 pandemic, we have reinforced our 
+commitment to employee health and safety. Each Lumentum 
+facility is assessed for safe and clean working conditions, and 
+hygiene practices are amplified. Personal protective equipment is distributed and made readily available to 
+employees working on site. To maintain safe distances and 
+collaborative communications in our workplaces, we have 
+implemented technology solutions such as action cameras and 
+wearable proximity sensors. These and other employee-driven 
+innovations enable us to excel in our work with reduced travel, 
+and we expect several of these improvements to persist.
+Finally, we support the UN Sustainable Development Goals 
+(SDGs) because we believe that CSR is part of the global effort 
+needed to achieve these goals. We have identified several 
+SDGs aligned to our business. In our report, we discuss our 
+contributions to these SDG’s progress and the opportunities to 
+continue our support.
+We aim to be a model for doing what is right and just for all 
+people and the planet . This ambition spurs us to measure and 
+manage our social and environmental impacts with great care 
+and dedication. The journey will not be without its challenges, 
+but we are ready for what lies ahead. Thank you for the 
+opportunity to share our progress and goals with you. 
+Sincerely,  
+ 
+Alan S. Lowe  
+President and Chief Executive Officer iA MESSAGE FROM THE CEO 
+ 
+Dear Stakeholders,
+It gives me great pleasure to introduce Lumentum’s inaugural Corporate Social Responsibility 
+(CSR) Report. We are proud to share our many accomplishments in CSR, along with programs 
+designed to meet the economic, environmental, and social challenges ahead. This report 
+portrays our past and present sustainability efforts and our vision for the future. Introduction
+ABOUT LUMENTUM
+Lumentum Holdings Inc. (NASDAQ: LITE) is an industry-
+leading provider of optical and photonic products. We 
+provide critical components for integration into end-
+market applications such as communication networks 
+and industrial machining. With our headquarters in San 
+Jose, California, we operate and manufacture in 
+various properties in the United States and eleven 
+other countries around the world. We compete in three 
+primary markets: optical communications, commercial 
+lasers, and 3D sensing. Our optical communications portfolio consists of chips, 
+components, and subsystems that are the buildings blocks 
+for communication networks and data centers that 
+connect people around the globe. Our commercial laser 
+solutions enable faster, higher-precision volume 
+manufacturing techniques with lower power consumption, 
+a reduced manufacturing footprint, and increased 
+productivity. Our 3D sensing chip technology drives 
+leading-edge mobile applications and will improve the 
+implementation of future technologies, such as the safety 
+of autonomous vehicles.  CREATING A BRIGHTER FUTURE  |  6Lumentum spun off from JDS Uniphase (now 
+VIAVI Solutions) to become an independent 
+publicly-traded company
+Completed the Responsible Business Alliance 
+(RBA) Self-Assessment Questionnaires, rated 
+low risk
+Submitted first response to EcoVadis
+Established our Navanakorn, Thailand factory
+Reported $1 billion annual revenue for the 
+first time
+Submitted first responses to CDP’s Climate 
+Change and Water Security Questionnaires
+Acquired Oclaro, Inc.
+Achieved an Ecovadis Silver Sustainability 
+Rating
+Formed our Diversity, Inclusion, and Belonging 
+Council
+Joined the Responsible Business Alliance 
+Included, for the first time, on Barron’s Top 
+100 Most Sustainable Companies List
+Formed our CSR Council
+Introduced Lumentum’s first Employee 
+Resource Groups
+Set our net zero emissions target
+Opened our factory in Škofljica, Slovenia 
+Published our inaugural CSR report2015
+2016
+2017
+2018
+2019
+2020
+2021GLOBAL OPERATIONSBY THE NUMBERS 
+Lumentum headquarters  
+• San Jose, USA
+ 
+Lumentum design site
+• San Jose, USA
+• Ottawa, Canada
+• Milan, Italy
+• Škofljica, Slovenia
+• Zurich, Switzerland
+• Paignton, UK
+• Shenzhen, China
+• Sagamihara, Japan
+• Taipei, Taiwan
+• Bangkok, Thailand  
+Lumentum manufacturing 
+• San Jose, USA
+• Škofljica, Slovenia 
+• Caswell, UK
+• Shenzhen, China
+• Sagamihara, Japan 
+• Bangkok, Thailand  
+Contract manufacturing
+• Penang, Malyasia 
+• Taipei, Taiwan 
+• Bangkok, Thailand  $1.74 Billion  
+FY21 REVENUEIntroduction
+>5,400  
+EMPLOYEES~1,850  
+PATENTSOUR HISTORY   CREATING A BRIGHTER FUTURE  |  7
+Releasing the power of light to create a brighter future
+Light enables human connection 
+and allows systems to thrive. It is 
+one of the most influential and 
+powerful forces in our world, yet it 
+is weightless.We aim to emulate the properties of light, as it lies at 
+the core of all our innovations. Our solutions drive 
+applications for cloud and networking, advanced 
+manufacturing, and 3D sensing. All are shaping the 
+way people connect, create, and interact. 
+By releasing the full potential of light, we envision a 
+future that is brighter for the world. To create a 
+brighter future, we:OUR VISION
+OUR GUIDING PRINCIPLES
+Our guiding principles reflect our core values, driving the decisions that determine our global performance 
+and shape our culture. We truly dedicate ourselves to applying them through our work, actions, and the 
+conversations we have with all our stakeholders.
+innovate  
+We foster a culture of 
+innovation across the 
+organization—where 
+everyone is encouraged to 
+find new and creative ways 
+to solve problems.engage  
+We provide a great place to 
+work by communicating with 
+transparency, learning from 
+each other, and making 
+meaningful contributions  
+to society.deliver  
+We feel a sense of ownership 
+for achieving results and  
+are accountable to deliver on 
+our commitments.excel  
+We achieve organizational 
+excellence by driving a 
+zero-defect mindset with 
+continuous pursuit of 
+perfection. win  
+We have a passion for winning 
+with a competitive team  
+spirit that incorporates fairness 
+and integrity in everything  
+we do.• Harness the power of light to connect people and 
+keep them safe and secure while enabling 
+businesses to operate faster and more efficiently,
+• Support and develop our people, partners, and 
+communities to shine their brightest
+• Create products and manufacturing processes 
+that improve lives with the lightest impact on 
+the environment
+  CREATING A BRIGHTER FUTURE  |  8Our ultimate goal is to illuminate the path forward to a more sustainable 
+future. We recognize that our actions affect the people and communities 
+where we live and work. We take our responsibility to the global community 
+seriously, and to live up to that responsibility, we have built our corporate 
+social responsibility (CSR) program upon three pillars:  
+INNOVATION:  
+BREAKTHROUGH IMPACT
+Push the boundaries to design products and processes that deliver 
+value and delight our customers.
+Continuously improve our products and processes to create the safest 
+and most efficient products with the highest standards.
+PEOPLE:  
+POSITIVE IMPACT
+Develop our employees to succeed while creating a diverse and 
+inclusive culture that values differences and inspires creativity.
+Operate to the highest social, ethical, and safety standards within our 
+facilities and propagating that model across our value chain.
+Contribute to the communities in which we live and operate.PLANET:  
+LIGHTER IMPACT
+Lighten our environmental footprint by reducing our energy 
+consumption, greenhouse gas emissions, water consumption, and 
+waste generation.Introduction
+APPROACH TO CORPORATE SOCIAL RESPONSIBILITY CSR GOVERNANCE 
+Our CSR Council develops corporate social responsibility strategy 
+and drives performance within Lumentum. Led by the CSR 
+Council Chair and the Executive Sponsor, this cross-functional 
+team is composed of representatives from all our business 
+departments, including Human Resources; Environment, Health, 
+and Safety (EHS); Supply Chain; Legal; and Quality, as well as 
+leaders from each business unit. Each member serves as a 
+representative of their respective department and is responsible 
+for determining the relevance of emerging topics, developing 
+associated action plans, and disseminating information related to 
+CSR at Lumentum to their team. 
+CSR Council activities are reported to the CEO and Board of 
+Directors on a quarterly basis. The Governance Committee is 
+responsible for oversight consistent of the policies and programs 
+supporting our CSR strategy. The Board of Directors has also 
+nominated a CSR Liaison from the Board who works closely with 
+the CSR Council to guide efforts and provide a continuous 
+feedback loop between recommendations of the Board of 
+Directors and implementation by the CSR Council.
+CEO / BOARD 
+/parenleft.caseGOVERNANCE COMMITTEE/parenright.case
+BOARD CSR LIAISON
+CSR COUNCIL/hyphen.case
+EXECUTIVE SPONSOR 
+AND CHAIR
+CSR AND
+COMPLIANCE TEAMCSR
+COUNCILEHS
+DEPARTMENTLUMENTUM WAS 
+INCLUDED IN 
+BARRON’S TOP 100 
+MOST SUSTAINABLE 
+COMPANIES LIST FOR 
+THE SECOND YEAR  
+IN A ROW.
+Reprinted with permission of Barron’sOPERATING WITH INTEGRITY 
+Lumentum is committed to the highest standards of social, ethical, 
+and environmental conduct and responsibility. This applies to our 
+facilities, processes, and employees, as well as to the companies with 
+which we do business.
+Our Business  CREATING A BRIGHTER FUTURE  |  10
+BUSINESS CONDUCT AND ETHICS
+At Lumentum, we conduct our business affairs with uncompromising integrity. 
+Integrity is at the heart of our reputation for providing the highest-quality products 
+and services and ensuring a fair and equitable workplace.   
+Lumentum’s Code of Business Conduct outlines the 
+broad principles of legal and ethical business conduct 
+embraced by the company as part of our commitment 
+to integrity. We expect all Directors, employees, agents, 
+and contractors to act in a manner that complies both 
+with the letter and the spirit of the Code.
+The global footprint of Lumentum and the breadth of 
+our supply chain expose us to certain regulatory and 
+compliance risks. Conducting our business with 
+uncompromising integrity means acting ethically and 
+complying with all applicable laws and regulations of 
+the countries where we do business, and we expect all 
+parties affiliated with Lumentum to do so. Local laws 
+and customs may differ by country, thus having a global 
+code of conduct is critically important. What are 
+considered common local business practices may differ 
+significantly from, or conflict with, our Code. The Code 
+is intended to provide a summary of the beliefs and 
+behaviors that are fundamental to our success, principal 
+among which is to act in a manner that reflects honesty, 
+fairness, and integrity. 
+Communication with and training of our stakeholders 
+are our best opportunities to ensure understanding of 
+and compliance with applicable legal requirements and 
+our standard of conduct. During new hire orientation, Lumentum policies, including the Code, are reviewed, 
+and a signed acknowledgement is required from each 
+worker. We conduct annual training for our employees 
+and, starting in FY21, implemented annual training for 
+our governance body members.
+To strengthen our approach, in FY20 we expanded our 
+training to include all contingent employees. This change 
+in scope, along with limitations on conducting in-person 
+training at certain manufacturing facilities due to 
+COVID-19, impacted our FY20 training coverage. We 
+have identified opportunities to improve our practices, 
+and beginning in FY21, we increased the frequency of 
+governance body member training from biennial to 
+annual. In addition, we are assessing alternative ways in 
+which we can conduct training with employees who 
+have historically attended in-person classroom training.
+We provide multiple mechanisms for reporting 
+concerns, including anonymous reporting. All 
+stakeholders are encouraged to report suspected or 
+actual violations of the Code, of laws or government 
+rules and regulations. To provide a description of the 
+suspected violation, complaint, or concern, email  
+LumentumLegal@Lumentum.com , visit our EthicsPoint 
+site or access our Anonymous Reporting hotline .
+Anti-corruption and anti-competitive behavior FY21 FY20 FY19
+Percentage receiving communication on anti-corruption policies and procedures
+∙ Governance body members 100% 100% 100%
+∙ Employees 100% 100% 100%
+Percentage trained on anti-corruption policies and procedures
+∙ Governance body members 100% * 100%
+∙ Employees 100% 77% 99.7%
+Percentage of suppliers receiving communication on anti-corruption policies and procedures
+∙ Direct suppliers 35% N/R N/R
+∙ Indirect suppliers 94% N/R N/R
+Total number of confirmed incidents of corruption 0 0 0
+Legal actions for anti-competitive behavior 0 0 0
+ 
+* *raining previously occurred biennially. N/R – Not previously trackedOur Business  
+IN FY21, LUMENTUM  HAD  
+ZERO FINES OR 
+SANCTIONS   
+FOR NON-COMPLIANCE WITH 
+ENVIRONMENTAL AND 
+SOCIOECONOMIC LAWS AND 
+REGULATIONS.  CREATING A BRIGHTER FUTURE  |  11The security of our information systems is critical to our business success. Information 
+security can impact both reputational and competitive aspects of our work. It helps us to 
+capture our innovations through the protection of intellectual property and it enables 
+our everyday work across all our teams. A lapse in protection or an event that threatens 
+our network can have a significant impact on our ability to conduct business. 
+We have developed a Privacy Program Committee 
+whose primary purpose is to provide guidance and 
+assistance in our oversight of:
+• Protection of information and assets belonging to 
+Lumentum or our customers, consumers, employees, 
+and/or business partners
+• Protection of our customers’, consumers’, and 
+employees’ privacy, and personal information/data
+• Compliance with all applicable global data privacy 
+requirements
+The Privacy Program Committee is comprised of 
+members from various functional groups, including 
+Legal, Information Technology/Information Security, 
+Human Resources, Sales, Finance, and Marketing. The 
+committee is empowered to investigate any matter with 
+the necessary access to all records and systems across 
+the organization and leverages outside counsel, outside 
+security experts, or other experts, as needed.
+To prepare our systems and teams, we have developed 
+comprehensive policies for IT security, incident 
+response, third-party security, and an overarching 
+privacy program. Our Information Security Department 
+defines information security standards, procedures, 
+policies, and other requirements applicable to the entire organization. This includes access control, monitoring of 
+security controls, providing training and awareness 
+programs to Lumentum associates, and carrying out 
+investigations and audits. In addition, third-party 
+penetration tests are performed annually, and internal 
+tests are conducted periodically to ensure Lumentum 
+assets are secure. 
+All employees are provided training and resources to 
+protect their systems, information, and the Lumentum 
+network, while operating their devices. Signed 
+acknowledgement and agreement forms are required 
+from all internal and external stakeholders that may be 
+interacting on, or with, Lumentum networks or 
+employees. 
+If our systems, networks, or data are threatened, we 
+have a clearly defined incident response plan to provide 
+an organized approach for handling any such potential 
+threats. We created a Cyber Security Incident Response 
+Team responsible for the investigation and management 
+of any incidents and to execute our response plan. The 
+plan describes the nature and scope of handling a cyber 
+security incident and includes the functions that make 
+up this service, how the functions interrelate, and the 
+necessary tools, processes and roles required to 
+implement the service. DATA PRIVACY AND SECURITY Our Business  
+LUMENTUM RECORDED  
+NO COMPLAINTS, 
+LEAKS, OR LOSSES OF 
+CUSTOMER DATA.“WE ARE COMMITTED TO THE HIGHEST STANDARDS OF SOCIAL, 
+ETHICAL, ENVIRONMENTAL, AND SAFE CONDUCT WITHIN OUR 
+FACILITIES, PROCESSES, AND THROUGHOUT OUR SUPPLY CHAIN”  
+— Alan Lowe, President and Chief Executive OfficerCSR at Lumentum    CREATING A BRIGHTER FUTURE  |  13Adhering to GRI’s definition of materiality, Lumentum’s material topics are our significant 
+economic, environmental, and social impacts or significant topics that influence our 
+stakeholders’ assessments and decisions. Mapping our value chain enables us to better 
+locate, understand, and manage the material topics that we control or influence. In 
+addition, it helps us to identify stakeholders with whom to engage. VALUE CHAIN AND BOUNDARIESCSR at Lumentum  
+Wafer Fabrication
+Other Support Services: R&D, Sales, Marketing,
+Service & Support, Corporate OperationsSUPPLIERS
+CONTRACT 
+MANUFACTURERSCUSTOMER 
+INTEGRATION
+END
+CUSTOMERAssemblyOPERATIONS WHERE LUMENTUM
+HAS DIRECT CONTROLWe work with suppliers and contract manufacturers to 
+procure the materials and products to our specifications. 
+Our relationships with our vendors are critical to ensure 
+product quality and to promote ethical and responsible 
+sourcing throughout our supply chain. Our manufacturing 
+operations, consisting of wafer fabrication and assembly, 
+are areas within our direct control and where we seek 
+continuous improvement in everything we do. Our global footprint of support services from research and 
+development to service and support are essential to 
+enable our business to thrive. Finally, our products are 
+integrated by our customers into larger systems and 
+delivered to the end users, where we aim to influence 
+responsible use and treatment.  CREATING A BRIGHTER FUTURE  |  14In FY20, we conducted a stakeholder-informed materiality assessment to build our 
+CSR program and identify topics relevant for us to consider and material for us to 
+actively manage.
+To determine the topics relevant to Lumentum, we used a 
+variety of approaches. We referenced GRI’s universe of 
+sustainability topics, SASB industries relevant to our 
+industry, assessed questionnaires and survey requests 
+from our customers and investors, reviewed ESG reports 
+from third parties such as ISS, Sustainalytics, and MSCI, 
+referred to industry frameworks and conventions such as 
+the RBA and Ecovadis, and benchmarked reporting 
+practices of peers and customers. 
+With this list of relevant topics, we engaged investors 
+through direct outreach and four additional key 
+stakeholder groups – employees, customers, suppliers, and 
+the Board of Directors - via survey. The seven-question 
+survey touched on social, economic, and environmental 
+topics and asked respondents to rank which CSR issues 
+were the most important for Lumentum to address. We 
+found strong alignment throughout the nearly 2,000 
+responses across stakeholder groups, and the results 
+informed our assessment of each topics’ importance to STAKEHOLDER ENGAGEMENT & MATERIALITY
+As we continue to evolve our CSR program, we will update 
+our materiality assessment as the nature of our business 
+or operating environment changes. In addition, we plan to 
+evaluate our approach to stakeholder engagement 
+periodically to assess opportunities for improvement. We 
+consider additional groups, such as industry associations, 
+government and regulatory agencies, community 
+members, and non-governmental organizations as our 
+stakeholders. We closely monitor the development of 
+regulations and industry standards impacting our industry; 
+however we did not engage these groups in our inaugural 
+effort, but rather elicited feedback by proxy via indirect 
+methods such as review of public information, client 
+questionnaires, and reports.stakeholders. The goal of our outreach was to collect 
+critical feedback to help us prioritize CSR issues and 
+establish improvement goals to be reported in this report. 
+The results of the engagement and our assessment of the 
+significance of each topic’s impact has been mapped on 
+our materiality matrix. The matrix was then subject to 
+internal validation involving a review by select 
+stakeholders, including the CSR Council. Any adjustments, 
+such as the grouping of related topics, the relative 
+weighting of stakeholder groups, topic alignment with 
+strategic priorities, and the setting of a materiality 
+threshold were determined in this stage. The outcome 
+defined two topics that were of high importance and 
+significance, ten topics of either high importance or 
+significance, and four topics of both medium importance 
+and significance. Additional topics fell below our 
+materiality threshold and several others were deemed not 
+relevant for current reporting. Stakeholder 
+GroupEngagement 
+MethodsTop 3 Topics
+Board of 
+DirectorsAnnual interview 
+and survey1) Product safety
+2) Health and safety
+3) Human rights
+Customers Annual survey1) Human rights
+2) Data privacy and security 
+3) Product safety
+EmployeesAnnual interview 
+and survey1) Product safety
+2) Customer satisfaction
+3) Health and safety
+InvestorsAnnual interview 
+and by proxy via 
+SASB and ESG 
+ratings reports1) Economic performance 
+2) Impact on climate change
+3) Health and safety
+Suppliers/ 
+Contract 
+ManufacturersAnnual interview 
+and survey1) Business conduct and ethics
+2) Human rights
+3) Product safetyCSR at Lumentum 
+Data privacy and security
+Health and safety
+Human rights
+Product safetyEconomic performance
+Impact on climate change
+Customer value
+Innovation
+Product environmental impact
+Supply chain managementBusiness conduct and ethics
+Diversity, inclusion, and belonging 
+Talent management
+Materials and waste 
+Water
+Signi/f_icance of Economic, Environmental, and Social ImpactsImportance to Stakeholders
+MEDIUM HIGHMEDIUM HIGHGoal (Targets) Indicator Lumentum Topics
+                 5 Gender Equality
+                 (5.1, 5.5)5.1.1 Non -discrimination
+5.5.2 Proportion of women in managerial positionsTalent Management
+Diversity, Inclusion, and Belonging
+                 7 Affordable and Clean Energy
+                 (7.2, 7.3)7.2.1 Renewable energy share
+7.3.1 Energy intensityImpact on Climate Change
+                  8 Decent Work and Economic  
+                   Growth
+                  (8.1, 8.4, 8.5, 8.8)8.1.1 Annual growth rate of real GDP per capita
+8.4.1 Material footprint
+8.5.1 Average hourly earnings of employees
+8.8.1 Occupational injuries
+8.8.2 Compliance with labor rightsEconomic Performance
+Materials and Waste
+Health and Safety
+Human Rights
+                  9 Industry, Innovation, and       
+                  Infrastructure
+                  (9.2, 9.5)9.2.1 Manufacturing value added 
+9.2.2 Manufacturing employment
+9.5.1 Research and development expenditureTalent Management
+Diversity, Inclusion, and Belonging
+                 10 Reduced Inequalities
+                  (10.4, 10.7)10.4.1 Labor share of GDP
+10.7.1 Recruitment cost borne by employeeEconomic Performance
+Talent Management
+                  12 Responsible Consumption &   
+                  Production
+                  (12.2, 12.4, 12.7, 12.a)12.2.1 Material footprint   
+12.4.2 Hazardous waste   
+12.7.1 Sustainable procurement policies  
+12.a.1 Installed renewable energy-generating  
+capacity in developing countriesMaterials and Waste
+Supply Chain Management
+Impact on Climate Change
+                 13 Climate Action
+                 (13.2)13.2.2 Total greenhouse gas emissions per year Impact on Climate Change
+Integrating the UN Sustainable 
+Development Goals
+Lumentum recognizes the 2030 Agenda 
+for Sustainable Development, adopted 
+by all United Nations Member States in 
+2015, and the 17 Sustainable 
+Development Goals (SDGs) at its heart. 
+These goals, and their underlying targets 
+and indicators, will lead our world to the 
+brighter future we envision.  
+We have aligned our reporting with 
+seven of the 17 Goals which we can 
+most deeply impact and that are 
+relevant to our business. See our SDG 
+Index for more information.Protecting the health and safety of our workforce and meeting the 
+needs of our customers took on new urgency during the COVID-19 
+global pandemic. The health and safety of our employees and their 
+families is our number one priority. As information was shared from our 
+colleagues in China, who were first impacted by COVID-19, we enacted 
+new global practices immediately. Rising to the Ch allenge:   
+Our COVID-19 Response   
+  CREATING A BRIGHTER FUTURE  |  17Global travel restrictions were implemented in January 
+2020 along with limited access to Lumentum facilities for 
+external visitors. COVID-19 response teams were 
+established at every site and a Scenario Planning 
+Playbook was developed that details instructions and 
+risk mitigation plans for situations ranging from an 
+infected employee on a Lumentum site to a potential 
+manufacturing shutdown. We transitioned employees 
+who were able to perform their job functions remotely to 
+work from home, ahead of national requirements and 
+government lockdowns. As a result, our manufacturing 
+operations were fully operational within two days of the 
+first California lockdown in March 2020.
+We evaluated every site and made necessary 
+adjustments including social distancing, signage, face 
+coverings, touchless temperature sensors, disinfecting 
+stations, HVAC upgrades for air purification, seating 
+adjustments and physical barriers.  We introduced 
+contact tracing via wearable technology, which warns 
+employees if a safe social distance is not kept. In 
+Navanakorn, Thailand, we installed new equipment at 
+entry points for temperature screening and proper mask 
+wearing detection. In addition, we developed and 
+required online training which informed our employees 
+about COVID-19 and prevention measures. 
+We responded with site disinfecting, contact tracing, and 
+quarantines and are not aware of anyone who has caught 
+nor spread COVID-19 at any of our sites. We have taken a 
+risk-based approach to COVID-19 testing of our workforce.  
+Based on onsite cases, and the situation in the local 
+communities, we have implemented a range of solutions 
+from weekly mandatory testing to voluntary testing.
+We are proud of our COVID-19 response, and we 
+continue to work with other companies to share best 
+practices. We are a member of CoreNet, The Global 
+Association for Corporate Real Estate, and actively 
+participate in benchmarking to share tools and 
+information resources to help others with business 
+continuity planning.  
+Rising to the Challenge: Our COVID-19 Response   
+SUPPORTING EMPLOYEE WELLNESS 
+AND THE COMMUNITY
+Through these challenges, our employees have been 
+resilient, and we have worked diligently to be responsive 
+to their suggestions and needs. To keep employees 
+informed, we enhanced our communication practices 
+with a COVID-19 section on our intranet site, all-hands 
+meetings, and weekly email updates. We notify all 
+employees and contractors immediately if an employee 
+was on site that has tested positive for COVID-19.
+To ensure the wellbeing of our team members, we offer a 
+variety of employee assistance programs. Online 
+programs include “how to recognize present-day 
+emotions with the uncertainty of COVID-19” to 
+“addressing work from home and adjusting to lifestyle 
+changes.” With additional programs supporting mental, 
+physical, and financial health, we aim to enable our 
+employees to continue to be kind to themselves through 
+these times.  
+At the beginning of the pandemic, we compensated 
+employees whose job function required them to be 
+onsite even if they were unable to perform their duties, 
+THE HEALTH AND SAFETY  
+OF OUR TEAM IS  
+#1 PRIORITY  for a variety of reasons. Those working from home were 
+offered a stipend for internet expenses, and ergonomic 
+assessments were conducted, when requested, to 
+minimize the risk of injury while working remotely. 
+During the most challenging times of the pandemic, we 
+recognized our essential employees coming into the 
+workplace in various ways, including special care 
+packages, cash or stock awards. We continued to deliver 
+merit and / or equity as part of our employee 
+compensation and rewards programs. A portion of our 
+bonus program was paid in advance to employees below 
+the director level in December 2020, to support 
+employees and their families during the holidays, with 
+the remainder of the bonus achievement paid on 
+schedule in February 2021. 
+The efforts and commitment of our employees allowed 
+Lumentum to continue to excel and grow throughout the 
+pandemic. Hiring continued, and our global team grew 
+through the pandemic. Starting in FY21, in 
+acknowledgment of the challenging times, both for those 
+who are working remotely and those who work onsite, 
+we have implemented several paid “thank you” days off 
+– a day when the whole company, worldwide, can relax.  CREATING A BRIGHTER FUTURE  |  18Our internship program in North America is critical to 
+engage the future leaders of Lumentum, and when faced 
+with lockdowns, we shifted the program to 100% remote. 
+We are proud to have successfully adapted the program to 
+provide valuable experience to over 50 interns, 
+incorporated team building exercises, and went on to hire 
+over 80% of the cohort. As we continue to grow, we are 
+identifying ways to effectively train and onboard new 
+employees. For example, in Caswell, UK, we are leveraging 
+wireless cameras, headsets, and tablets when social 
+distancing and production floor noise hinders our ability to 
+conduct close proximity, on-the-job training. We initiated a new leave program, the Global Emergency 
+Leave, providing employees added flexibility to respond to 
+self and family care needs such as homeschooling or 
+caring for a sick family member. We are also formalizing a 
+flexible workplace policy that enables employees, based 
+on the requirements of their specific role, to have the 
+flexibility to work remotely even after it is safe for all 
+employees to return to the office. CREATIVE SOLUTIONS FOR LASTING CHANGE
+Adapting to the “new normal” has transformed the way we work at Lumentum, and 
+we have found effective solutions to the challenges of COVID-19. We leveraged 
+virtual collaboration tools to transfer the production of our products across our 
+global network. These product launches would typically involve engineering teams 
+traveling to the manufacturing sites. Due to the pandemic, these transfers occurred 
+virtually, with research and development teams and global manufacturing sites  
+collaborating online to complete these production transitions.  
+R&D team in Zurich, Switzerland (left) and production team in Nava, Thailand (right) collaborated to transfer production seamlessly using virtual tools.Rising to the Challenge: Our COVID-19 Response   Supply Chain Responsibility   
+Key to our success is our relationship with, and the performance 
+of, our supply chain partners. We engage with over 700 direct 
+suppliers and several core contract manufacturers. Strategically, 
+we aim to design agility, resiliency, and scale into our global supply 
+chain for all new and existing products.  CREATING A BRIGHTER FUTURE  |  20Lumentum is committed to conducting our business affairs 
+with uncompromising integrity, protecting the 
+environment, and preserving the welfare of our personnel, 
+our business partners, and the public. This commitment 
+means acting ethically and complying with all applicable 
+laws and regulations of the countries in which we do 
+business or where business is being conducted on behalf 
+of Lumentum and our subsidiaries. We have the same high 
+expectations of our suppliers. In keeping with our 
+commitment, we developed our Supplier Code of Conduct 
+in 2018, and initially sent it to our top 100 suppliers by 
+spend. All suppliers are required to sign our Supplier Code 
+of Conduct upon onboarding, and we expect that all 
+suppliers act and conduct business in a manner that 
+complies both with the letter and spirit of this code.
+Upon onboarding, we leverage RapidRatings’ Financial 
+Health Rating (FHR) which helps us to evaluate supply 
+chain resiliency through predictive analytics. These 
+insights into the financial stability of our supply chain help 
+us determine the ability to withstand disruption, identify 
+partnership opportunities to support critical suppliers, and 
+create contingency plans to mitigate supply chain risks.
+Beyond financial health, we partner with our suppliers to 
+identify and address potential areas of risk. These may 
+include physical impacts of climate change, such as 
+extreme weather events, to geopolitical or business risks 
+that may threaten our suppliers’ ability to conduct 
+business. In addition to working closely with our suppliers, 
+we have engaged third-party providers to assist in 
+assessing the risk within our supply base. 
+Supply Risk Solutions (SRS) is a third-party cloud-based 
+software that helps us to monitor and assess physical risks 
+and supply chain disruptions. Predictive technology 
+enables us to identify the likelihood of future events 
+through machine learning, global trends, and statistical 
+associations. In addition, SRS requires each of our critical 
+suppliers to complete an annual Business Continuity 
+Assessment, which allows us to understand where risks lie 
+within our supply chain, thus allowing us to partner with 
+our suppliers to mitigate them. We can then leverage this 
+information to improve Lumentum’s, and our suppliers’, 
+business continuity plans. 
+RESPONSIBLE BUSINESS ALLIANCE  
+Lumentum is a proud member of the 
+Responsible Business Alliance (RBA), the 
+world’s largest industry coalition 
+dedicated to corporate social 
+responsibility in supply chains. Lumentum 
+fully supports the vision and mission of 
+the RBA, and the collaborative approach 
+to improving working and environmental 
+conditions across the supply chain. 
+As part of our commitment, 100% of our manufacturing 
+sites complete an annual RBA Self-Assessment 
+Questionnaire (SAQ). The SAQ risk assessment evaluates 
+the labor, health and safety, environment, ethics, and 
+management systems of the site and provides a risk 
+rating related to CSR risks and compliance with the RBA 
+Code of Conduct.  All of our sites have been rated as low 
+risk. Since 2019, all of our active manufacturing sites 
+completed internal or external social responsibility audits. 
+In FY21, we rolled out company-wide training on the RBA 
+Code of Conduct to all employees, including onsite 
+contingent workers, and achieved 100% completion. This 
+training is also required of all new employees. 
+We require our next-tier suppliers to acknowledge, 
+implement, and comply with all applicable labor, 
+environmental, and health and safety laws and 
+regulations, including those requirements in the RBA Code 
+of Conduct. To verify this practice, we conduct due 
+diligence on our supply chain, assessing risk from a 
+country level as well as facility level. We require our top 
+direct suppliers to complete assessments that evaluate 
+facility risks on labor, environment, health and safety, and 
+ethics. In addition, all contract manufacturers undergo 
+third-party audits covering the full RBA Code of Conduct 
+every two years to evaluate their conformance. We work 
+with our contract manufacturers on corrective actions 
+until closure and require third-party verification audits to 
+confirm resolutions of any adverse findings. In FY21, key 
+personnel at all of our contract manufacturers completed 
+online training on the RBA Code.100% OF OUR 
+MANUFACTURING SITES  
+COMPLETE AN ANNUAL RBA SELF-
+ASSESSMENT QUESTIONNAIRE (SAQ) 
+AND ALL HAVE BEEN RATED AS 
+LOW RISK.
+100% OF OUR CONTRACT 
+MANUFACTURERS   
+COMPLETED AUDITS TO VERIFY 
+COMPLIANCE WITH THE RBA CODE 
+OF CONDUCT.Supply Chain Responsibility  CREATING A BRIGHTER FUTURE  |  21Lumentum understands the risks of forced labor and has 
+implemented practices to ensure it does not exist in our 
+operations as well as being prohibited in our supply chain. 
+Lumentum pays all fees associated with recruitment and 
+ongoing employment, and prohibits suppliers, including 
+subcontractors and labor or recruitment agencies, from 
+charging workers any fees or deposits for employment. 
+This applies to all types of workers, including migrant, 
+temporary or subcontracted. All Lumentum sites require 
+official government identity documents to verify age and 
+right to work. Identity documents are used for verification 
+purposes only and retained by the employee. Employment 
+is at-will, and each employee is provided an employment 
+agreement with clearly defined terms and conditions. 
+Suppliers are expected to follow these same requirements. 
+Lumentum does not tolerate harassment, intimidation, or 
+discrimination of any kind, which is clearly stated in our 
+Code of Business Conduct and Supplier Code of Conduct.  
+As an equal opportunity employer, Lumentum is 
+committed to providing a workplace free of harassment, 
+discrimination, and retaliation, as well as disrespectful, 
+abusive, or unprofessional conduct. If such cases should 
+arise, employees are encouraged to communicate with their manager, Human Resources, or file a grievance 
+through our anonymous hotline, EthicsPoint. All reports 
+through our hotline of suspected violations, concerns, or 
+complaints are directed to the General Counsel. The 
+information is promptly evaluated, and the appropriate 
+actions are taken, including investigation, in accordance 
+with application laws, rules, and regulations.
+Lumentum maintains a rigorous audit program. Third-party 
+organizations and our internal CSR team conduct regular 
+audits of our global facilities. These audits are conducted 
+according to the RBA standard, or equivalent, which 
+includes the requirement of freely chosen employment 
+and no child labor. The scope of these audits includes 
+subcontracted labor and contingent workers. Company-
+wide training on RBA includes topics relevant to human 
+rights, such as forced labor, child labor, and freedom of 
+association. We have also delivered specialized trainings to 
+our supply chain staff and our global talent acquisition 
+teams addressing human rights risks that are relevant to 
+their roles.Supply Chain Responsibility
+HUMAN RIGHTS
+Lumentum is committed to uphold the human rights of workers and to treat each of 
+them with dignity and respect. Lumentum enforces several policies to protect the 
+rights of its workers. However, we acknowledge our primary human rights risk exists 
+in our supply chain, and we expect all suppliers to apply the same level of protection 
+to workers’ rights. We prohibit the use or support of any form of child labor, forced 
+labor or human trafficking at Lumentum and at our suppliers. This requirement is 
+embedded in our Corporate Social Responsibility Policy , Code of Business Conduct , 
+Supplier Code of Conduct  and through our commitment to the Responsible Labor 
+Initiative (RLI). In addition, we ensure there is transparency in our own business and 
+in our approach to tackling modern slavery throughout our supply chain, consistent 
+with obligations under the UK Modern Slavery Act (MSA 2015) and the California 
+Transparency in Supply Chains Act (SB 657).
+LUMENTUM IS   
+COMMITTED   
+TO UPHOLD  
+THE HUMAN RIGHTS   
+OF WORKERS AND TO TREAT  
+EACH OF THEM WITH DIGNITY  
+AND RESPECT.  CREATING A BRIGHTER FUTURE  |  22ENVIRONMENTAL ASSESSMENT
+In addition to our commitment to uphold the human rights 
+of workers in our supply chain, suppliers must have EHS 
+policies and processes in place to demonstrate a 
+commitment to safe and environmentally responsible 
+operations, services, and management. This includes 
+procedures and systems to identify, prevent, manage, and 
+track environmental and health and safety hazards, 
+including maintenance of emergency response plans. 
+Suppliers must have EHS audit programs to periodically 
+assess their prevention plans and measures, facilities, and 
+operations for compliance and effectiveness. Lumentum 
+expects suppliers to maintain compliant EHS systems and 
+to provide a record of compliance with all applicable laws 
+and regulations when conducting business.  CONFLICT MINERALS
+Lumentum is committed to sourcing components and 
+materials from companies that share our values regarding 
+respect for human rights, integrity, and environmental 
+responsibility. Lumentum complies with the OECD Due 
+Diligence Guidance for Responsible Supply Chains of 
+Minerals from Conflict-Affected and High-Risk Areas , as 
+well as the applicable requirements of Section 1502 of the 
+Dodd-Frank Act, which aims to prevent the use of minerals 
+that directly or indirectly finance or benefit armed groups 
+in the Democratic Republic of the Congo (DRC) or in 
+adjoining countries.
+Affected suppliers are required to provide a completed 
+Conflict Minerals Reporting Templates (CMRT) detailing the 
+tin, tantalum, tungsten, and gold (3TG) smelters in their 
+supply chain and source only from conflict-free smelters or 
+refiners (SORs). In 2020, the program was extended to 
+include cobalt, which follows the same reporting process. 
+Lumentum pays additional attention to suppliers reporting 
+high-risk smelters (i.e. a smelter that sources from the 
+covered countries and is not currently RMAP conformant). 
+Lumentum has a dedicated employee to manage and 
+review our conflict minerals program work. We engage a 
+third-party to collect data from suppliers and review 
+smelter information. More than 90% of surveyed suppliers 
+respond to our annual reasonable country of origin inquiry 
+with a completed CMRT. As a member of the Responsible Minerals Initiative  (RMI) 
+we require all our suppliers to source tin, tantalum, 
+tungsten, and gold only from smelters conformant with the 
+Responsible Minerals Assurance Process (RMAP) 
+assessment protocols. After a review of suppliers’ CMRTs, 
+we address the identified risk by verifying with suppliers if 
+the declared non-RMAP conformant smelters are used for 
+parts Lumentum purchased. If confirmed to be part of 
+Lumentum’s supply chain, we require suppliers to actively 
+engage either to remove the non-RMAP conformant 
+smelters from our supply chain or to encourage such 
+smelters to participate in the RMAP audit program. Rather 
+than prohibiting high-risk countries from our supply chain 
+we seek to work with and support responsible raw 
+material sourcing from high-risk countries based on RMAP 
+conformant smelters. 
+Overall, 80% of 3TG smelters and refiners identified in 
+our supply chain in 2020 are verified to be RMAP 
+conformant or are actively undergoing RMAP assessment 
+process. Based on our due diligence process, an 
+additional 15% of smelters can be reasonably considered 
+as low risk, however, they did not undergo the RMAP 
+assessment. 2% of smelters were identified as high risk. 
+These high risk smelters were declared by a single source 
+supplier for a legacy product.
+Metals Total SORs (2020)# of RMAP 
+Conformant/Active 
+SORs (2020)% of RMAP Conformant/Active SORs
+CY2020 CY2019 CY2018
+Gold 154 110 71% 75% 75%
+Tantalum 37 37 100% 100% 100%
+Tin 73 60 82% 84% 90%
+Tungsten 44 43 98% 96% 95%
+Total 308 250 81% 79% 82%
+  
+SOR: Smelters or refinersSupply Chain Responsibility
+ZERO SIGNIFICANT FINES  
+AND NON-MONETARY 
+SANCTIONS   
+FOR NON-COMPLIANCE WITH  
+ENVIRONMENTAL LAWS OR 
+REGULATIONS
+Our Guiding Principles include Innovate and Engage. We look to foster a culture of innovation 
+across the organization – where all are encouraged to find and support new and creative ways 
+to solve problems. Our legacy of innovation is evident in our product leadership positions and 
+extensive intellectual property portfolio. Today, we own nearly 1,000 US patents and 850 
+foreign patents, with expiration dates through 2040, and have about 600  patent applications 
+pending throughout the world. Our patent portfolio is constantly evolving, with strengths in 
+optical switching, coherent transmission, source lasers, 3D sensing, photonic integrated circuits, 
+and ultrafast lasers. This is what sets us apart as trailblazers and leaders in the industries we 
+serve. We value our innovators, highlight and reward their achievements, and celebrate their 
+patents in our company-wide meetings. Innovation:   
+Breakthrough Impact   
+WE OWN NEARLY 1,000 US PATENTS 
+AND 850 FOREIGN PATENTS , 
+WITH ABOUT 600 PATENT APPLICATIONS 
+PENDING THROUGHOUT THE WORLD.  CREATING A BRIGHTER FUTURE  |  24LUMINARY PROGRAM
+An example of these Principles is displayed through our Luminary Program. Twice 
+annually, the Luminary Program solicits, evaluates, selects, and corporately funds 
+employee-conceived innovative concept investigation projects that address 
+challenging topics in technology, products, and applications.   PROGRAMInnovation: Breakthrough Impact
+The program offers employees the opportunity to 
+develop their innovative ideas through company-
+sponsored exploratory projects; ideas that may not 
+neatly fit into traditional product roadmaps, address our 
+conventional markets, or meet our traditional corporate 
+investment profile.
+CUSTOMER VALUE
+We aim to deliver value and delight our customers by pushing the boundaries when 
+designing products and processes. We develop and launch all new products using a 
+Lumentum unique Product Development Process (PDP) framework that allows us to 
+complete as many design iterations as possible prior to production readiness. This 
+enables teams to quickly identify programs that may need to be discontinued or revised 
+to strengthen their applications before spending resources on ramping up production. 
+This has not only improved product quality and saved production costs, but helped 
+teams identify higher power, more efficient, and lower cost solutions for products. 
+These benefits can be transferred to our customers and leveraged as added value in 
+their businesses. Our robust Quality Management System covers all our sites and fulfills 
+the requirements of ISO 9001:2015. Typically, several projects are funded with each 
+program cycle and winning participants are presented 
+with a monetary reward, recognition, and the 
+opportunity to personally see their project come to 
+life. Due to the success of the program, we continue to 
+grow our corporate support for funding projects 
+which have led to several product improvements and 
+entrance into new application areas.  
+In addition, design review cycles and revisions have led 
+to faster product commercialization. We have rethought 
+production flows and, in some instances, insourced 
+components reducing both component lead time and 
+cost. Processes and production indicators are measured 
+by shift, rather than by day or week, to quickly adapt 
+when areas for improvement are identified. This level of 
+review and detail has supported improvements in our 
+time-to-market and on-time-delivery rates. The more 
+efficiently we can introduce products to market, the 
+more value we can create for our customers.Product quality FY21 FY20 FY19
+Total number of sites 15 16 14
+ISO 9001 certified sites 15 16 14
+Percentage ISO 9001 certified sites 100% 100% 100%
+  
+  CREATING A BRIGHTER FUTURE  |  25manufacturing surveillance to ensure continued safety 
+compliance as a condition of product certification. This 
+manufacturing surveillance consists of periodic, 
+unannounced factory inspections of our certified products 
+and factory quality system.  Since FY19, the number of the 
+factory inspections has decreased due to the consolidation 
+of the manufacturing sites. 
+Additionally, we self-declare CE compliance to applicable 
+EU directive(s) based upon the formal evaluation 
+performed by the third-party certification body.We have formal product development processes covering 
+product safety requirements which address design, testing, 
+and product safety certification. We assess the safety risks 
+arising from the use of our products or components within 
+our product development processes. This safety evaluation 
+considers all aspects of product safety, including any 
+possible negative electromagnetic compatibility (EMC) 
+effects on the product.
+In FY21 we improved our processes with regards to 
+product quality management, formalizing safety reviews of 
+100% of product returns and in-field incidents to better 
+capture and address any potential safety and health issues 
+during product use.
+Lumentum typically employs an independent third-party 
+certification body to evaluate and certify the safety of our 
+products according to national and international product 
+safety standards. This certification is maintained 
+throughout the product lifecycle including product 
+modifications. Each certification body conducts their own 100% OF SIGNIFICANT 
+PRODUCTS  ARE ASSESSED FOR 
+IMPROVEMENT OF HEALTH  
+AND SAFETY IMPACTS.
+ZERO PRODUCT RECALLS 
+AND ZERO INCIDENTS OF 
+NON-COMPLIANCE CONCERNING 
+HEALTH, SAFETY, MARKETING, OR 
+LABELING OF OUR PRODUCTSProduct Safety 
+Lumentum is committed to ensuring the health and safety of our customers, including 
+the end users of our products. Product safety is a critical design requirement for all of 
+our products, and goals and objectives are specified at the business unit and 
+functional engineering level. The strategies employed to meet these goals and 
+objectives are reviewed quarterly with assessments reported to management.
+Innovation: Breakthrough Impact
+Product safety FY21 FY20 FY19
+Total number of 3rd-party audits 
+or inspections19 22 35
+Number of audit or inspection 
+failures 0 0 0
+  Beginning in 2017, Lumentum embarked on a journey to radically 
+reinvent our culture through organizational excellence and establishing a 
+zero-defect mindset in everything we do. Using the fundamentals of 
+Kaizen (continuous improvement) and based on best practices and 
+methods compiled across a variety of industries, we created the 
+Lumentum Production System (LPS). At the heart of this system is a 
+collective mindset to continuously improve our products and services 
+with proactive, data-driven, quality-first systems and processes.Spotlight on Quality:   
+Building a Kaizen Culture      CREATING A BRIGHTER FUTURE  |  27SETTING A STRONG FOUNDATION 
+To ensure success of this journey, we weaved the 
+knowledge of Kaizen methods into the fabric of the 
+entire company, from our production line operators to 
+our Board of Directors. We established a new position, 
+Chief Quality Officer, and developed a quality policy 
+that is displayed prominently at every site and is 
+printed on every employee’s badge. Review of this 
+policy has been instilled as part of the onboarding 
+process for every new employee.  
+The next step was to establish a strong, data-based 
+foundation with robust measurement systems and a 
+specialized team of statisticians and data analysts to 
+help engineers and technicians identify potential 
+weaknesses and areas for improvement. We scrutinized 
+and revised every quality metric, investigated data 
+sources, data integrity, and validation methods. We 
+standardized and verified that we are using the same 
+measures across all sites and design teams. Each 
+employee has a stake in these metrics, as the incentive 
+plan for every employee at Lumentum is tied to these 
+quality measures. Finally, we listened to the voice of our 
+customers to align and adjust our measures to meet and 
+exceed their expectations. This process of evaluating 
+our measurement systems is now done quarterly to 
+ensure we are responding to changing conditions and 
+the needs of our customers. We even have key 
+customers who have endorsed our success by adopting 
+our methods!Spotlight on quality:  Building a Kaizen culture  
+Kaizen initiatives FY21 FY20 FY19
+Total number of Kaizen projects 64 92 89
+∙ Closed projects 24 69 55
+ ∙ Projects in review 40 23 34
+Yearly benefits from Kaizen projects - hard savings $ 13.2M $ 10.9M $ 10.8M
+Yearly benefits from Kaizen projects - soft savings $ 600k $ 560k $ 1.8MQuality Policy  
+We deliver superior customer value  
+through innovative products and services
+We strive to continuously improve our 
+products with proactive, data-driven, 
+quality-first systems and process.AN INCLUSIVE STRATEGY 
+Lumentum’s Kaizen-enabling team, known as the Kaizen 
+Promotion Office (KPO), works to empower each 
+employee. Our goal is to have a trained and tested 
+member of the KPO team at each site to build capability 
+and apply our continuous improvement methods. They 
+engage, train, and enable everyone at the site, from 
+operators on the shop floor to management and 
+leadership, to play an active role in our success. 
+Empowerment of our teams from the boardroom to the 
+factory floor as a cornerstone of our quality approach, 
+is achieved in multiple ways: 
+• We believe the best way to learn is by doing. Each 
+site is given training and provided facilitation through 
+the first several projects. 
+• We have built a culture where employees are 
+empowered and encouraged to identify opportunities 
+for improvement. Employees, including operators on 
+the shop floor, are given the time and freedom to 
+suggest and implement improvements in their work 
+areas. 
+• During day-to-day production line walks, managers go 
+to where the work is being done to listen and learn 
+from employees on the production floor. 
+• We maintain an online portal where all employees can 
+access information about the Kaizen team, current 
+projects, project resources, and training. 
+  CREATING A BRIGHTER FUTURE  |  28At the heart of our Kaizen approach is the goal of 
+dramatically eliminating waste and reducing our 
+environmental impact. This cultural mindset aligns 
+perfectly with our Corporate Social Responsibility 
+principles. Lightening our environmental footprint and 
+capturing these benefits is even embedded into our 
+project report out templates, so that it is top of mind 
+for all employees and leaders. Since the beginning of 
+our journey, we have successfully completed multiple 
+Kaizen projects that have: 
+• Reduced the space required to manufacture our 
+products, minimizing our footprint
+• Shortened the time needed to test our products, 
+lessening energy consumption
+• Optimized the environmental controls within our 
+factory, reducing CO2 emissions 
+• Developed new ways to collaborate virtually, 
+minimizing the need for travel
+• Modified our working stations across factories to be 
+reconfigurable and reusable
+• Connected operation steps and eliminated 
+unnecessary packaging between operations
+• Lessened our excess and obsolescent inventory
+• Reexamined our recruitment processes to ensure we 
+use inclusive hiring practices
+Our plant in Navanakorn, Thailand (Nava) is a testament 
+to the success of our quality culture. As a greenfield 
+site, Nava adopted the zero-defect Kaizen mindset from 
+day one. In 2020, the plant received the Thailand Prime 
+Minister’s Industry Award for Outstanding Achievement 
+in Quality Management, as part of a distinguished list of 
+recipients that included the well-established Thailand 
+plants of Toyota and Proctor & Gamble. Nava earned the 
+honor just three years after its opening, faster than any 
+other factory in the history of the award. BEYOND THE FACTORY 
+At Lumentum, quality does not stop at the production 
+floor. We have embedded quality into our business 
+processes and new product development. We have 
+taken great strides in improving quality, predictability, 
+and reliability of new product introductions. We have 
+also embedded Kaizen thinking into our strategic 
+planning process, embracing both a top-down and 
+bottom-up approach to ensure progress and 
+accountability at every level.   
+At Lumentum, we are proud of the breakthrough 
+improvements our teams have delivered. Our Kaizen and 
+quality initiatives help us identify opportunities and 
+eliminate potential risks both internally and with our 
+suppliers and contract manufacturers. While we have been 
+able to deliver great results in a relatively short time, we 
+know our improvement journey is just beginning!KAIZEN CONTINUESSpotlight on quality:  Building a Kaizen culture  
+Kaizen events and participation FY21 FY20 FY19
+Kaizen Academy Participants 0 75 114
+Kaizen Event Participants 646 789 599
+Monthly Topic Attendees 3,249 2,951 1791
+Number of Kaizen Academies 0 3 4
+Number of Kaizen Events 64 83 87
+Number of Monthly Topic Events 36 36 12
+ 
+Note: Academy events were put on hold in FY21 due to the pandemic.The Pursuit of Excellence:   
+Lumentum Navanakorn Factory    
+Lumentum’s state-of-the-art manufacturing facility in Navanakorn 
+(Nava) is leading the way in sustainability, not only for our company, 
+but also for others in Thailand.   CREATING A BRIGHTER FUTURE  |  30A SECOND VISIT FROM HER ROYAL 
+HIGHNESS PRINCESS MAHA CHAKRI 
+SIRINDHORN  – IN RECOGNITION AS A 
+LEADING HIGH-TECH MANUFACTURER IN 
+THAILAND The Prime Minister’s Industry Award for 
+Outstanding Achievement in Quality 
+Management was established in 1981 and 
+has become the pinnacle of excellence for 
+enterprises across Thailand. The award 
+recognizes top performers in quality 
+management across industrial companies.  
+The pursuit of excellence: Lumentum Navanakorn Factory
+THE FACTORY IS  
+CERTIFIED ISO 9001, 
+14001, AND 45001.
+ 
+ 
+IN FY21, NAVA 
+COMPLETED TL 9000 
+AND ESD 20.20 
+CERTIFICATIONS.AFTER BEING OPEN FOR JUST OVER THREE YEARS, THE NAVA FACTORY WAS HONORED IN 2020 WITH:
+THAILAND’S NATIONAL HEALTH AND 
+SAFETY AWARD AT THE SILVER LEVEL  
+FOR HAVING ZERO ACCIDENTS
+“THIS AWARD IS A TREMENDOUS 
+ACHIEVEMENT FOR THE ENTIRE SITE. 
+LUMENTUM NAVA MADE HISTORY BY 
+WINNING THE AWARD IN ITS FIRST 
+ATTEMPT – THE QUICKEST SINCE THE 
+AWARD’S INCEPTION.”  
+— Dr. Prong Kongsubto,  
+Lumentum Senior Quality Director, NavaTHE PRESTIGIOUS PRIME MINISTER’S 
+INDUSTRY AWARD FOR OUTSTANDING 
+ACHIEVEMENT IN QUALITY MANAGEMENT
+Assessed against the ISO9001 standard, the award 
+encourages local companies to further advance  
+national industrial development and involves an 
+evaluation and assessment based upon an 
+organization’s leadership vision and strategy, and 
+quality management system deployment.
+Deploying fundamentals of the Lumentum Production 
+System with a continuous improvement mindset and 
+maintaining our adherence to ISO9001 demonstrated 
+Nava’s unrelenting drive for excellence in every aspect 
+of manufacturing.   CREATING A BRIGHTER FUTURE  |  31
+NAVA HAS ACCUMULATED OVER 
+15.9 MILLION LABOR-HOURS 
+WITHOUT AN ACCIDENT AND 
+WAS AWARDED  THE GOLD LEVEL 
+STATUS FOR THE FIRST TIME IN 2021  We have achieved zero landfill of hazardous waste 
+through the conversion to alternative fuels in the cement 
+incineration process, and 90% of non-hazardous waste is 
+recycled. In FY21, we had zero major incidents, surpassed 
+15.9 million cumulative labor-hours without any accident, 
+and more than 97% of employees completed online EHS 
+training. In June 2021, we were recognized by the Thailand 
+Institute of Occupation Safety and Health for the first time 
+with “Gold” level status for our great safety record of zero 
+accidents since inception. We also reduced energy use by 
+almost 4.5% through improved chiller machine efficiency, 
+lighting use management, and process improvements.
+The Nava team’s environmental agenda aligns with our 
+global goals including initiating the following activities 
+in FY21:
+• Assessment of installing a rooftop solar array, 
+increasing energy from renewables
+• Evaluation of onsite water reclamation and recycling, 
+reducing withdrawal from municipal sources
+• Review of reducing pallet waste to landfill through 
+repair or energy recovery30% FEMALE REPRESENTATION 
+IN ENGINEERING FUNCTIONS   
+AT NAVASTRATEGIC ADVANTAGE
+Operating our own factory gives us control and better 
+management over all aspects of our business – including 
+quality, cost,  research, technology, engineering, and 
+environmental footprint – to achieve best in class 
+manufacturing.
+The Nava management team and manufacturing operation 
+are directly accountable to customers and have come 
+together with common goals for the plant’s overall success 
+to meet customers’ expectations. Our internal and external 
+customers select us because we reliably deliver on time, to 
+specification, and at a competitive cost, and recognize our 
+responsibility for environmental and social stewardship. 
+The operation is dynamic and flexible and can go from 
+research and development to engineering to market more 
+quickly. This shortens the product development time and 
+time-to-market, to better serve our customers’ needs and 
+demands. In addition, the vertical integration of a variety 
+of our products enables a more efficient supply chain and 
+demand response. All the while, we are nurturing our 
+in-house teams and protecting our intellectual property.
+Adapting to the COVID-19 pandemic brought the team 
+together as we developed ways to respond and ensure the 
+safety of employees and neighbors by increasing security 
+and nursing support, checking temperatures with no-
+contact sensors, and on-site tracing with dedicated badge 
+devices – all without losing a day of productivity. SUSTAINABLE OPERATION
+Innovative thinking and a can-do mindset are helping the Nava site tackle 
+environmental improvement projects. The plant is tracking energy, water use, and 
+waste generation and has set reduction goals in each area to contribute towards 
+progress to achieve our global environmental goals.The pursuit of excellence: Lumentum Navanakorn Factory
+Nava team celebrates shipping the first product  
+produced at the Navanakorn factory in 2017  CREATING A BRIGHTER FUTURE  |  32
+A BRIGHT FUTURE
+Nava has enjoyed rapid growth in the number of people 
+we employ and the products produced there. We are 
+poised to continue that trajectory while maintaining our 
+mission to reliably deliver on time, to specification, and at 
+a competitive cost, while recognizing responsibility for the 
+environment and social stewardship. Lumentum and the 
+Nava team believe in our mission and will continue to 
+pursue excellence in all that we do.  
+Team celebrates the first kW fiber laser produced at Nava in 2020Our employees are actively engaged in several committees 
+(EHS, Energy, Welfare, Kaizen and e²) and are encouraged 
+to share, own, and lead initiatives surrounding their ideas. 
+COVID-19 has provided an opportunity for more 
+empowerment on site. Rather than external R&D and 
+engineering teams flying into the site, our Nava team 
+excelled in adopting the Kaizen mindset and approach to 
+problem solving. 
+The Kaizen culture and strategic planning process are also 
+key mechanisms for the team and culture. Kaizen ensures 
+that continuous improvement can be implemented at any 
+stage of the product life cycle. When a new product is 
+being developed or transferred from another site, the 
+production development process is utilized to ensure the 
+highest efficiency and lowest waste can be achieved prior 
+to production ramp-up. This ensures the minimum space is 
+utilized, which in turn saves energy and lessens our impact 
+on the environment.
+We have a strong focus on diversity with 30% female 
+representation in engineering functions, but recognize we 
+still have opportunities to improve. Fairness is a guiding 
+principle at Nava, and we are proud of the team we have 
+assembled. Our aim is to build a culture organically, one 
+that feels natural and is a blend of Western and Eastern 
+influences. We believe we have achieved this goal, and it is 
+this unique culture that enables our success. 
+LEADING BY EXAMPLE
+The Nava factory aims to be a good corporate citizen to 
+Thailand, and we seek out ways to engage with and help 
+the community. We maintain an internship program with 
+Chitralada Technology Institute, an apprenticeship program CULTIVATING OUR PEOPLE
+At Nava, we believe in empowering our people to make the right decisions. Our engage and 
+excel (e²) initiative guides the team in creating a culture of engagement and a sense of unity 
+between staff and leaders. Receipt of over 1,000 suggestions for improvements to our 
+operations lead us down a path of continuous improvement in quality, productivity, safety 
+and environmental impact. The success of this constant engagement can be demonstrated 
+by our average monthly attrition rate of 1.03%, compared to the industry average of 1.25% 
+(Mercer 2019 Thailand Remuneration Surveys). 
+for students in the last year of their degree programs, and 
+collaborate with the Cadet school and universities. These 
+programs help students through knowledge and tools 
+sharing and provide a hands-on experience in a high-tech 
+manufacturing environment. Cooperative programs not 
+only benefit the student directly, but provide us the 
+opportunity to hire talent who understand our business 
+and can hit the ground running. Engineering talent is in 
+high demand, and the more we can engage with students 
+and young professionals, the stronger our team will grow.
+We share what we learn with other companies and 
+organizations. During the COVID-19 pandemic, we worked 
+with local governments to train communities about safety, 
+and we shared best practices with other businesses. Both 
+the Princess of Thailand and the governor of Prathum 
+Thani province were welcomed to the site during the 
+pandemic. The governor highlighted Lumentum Nava as 
+the exemplary manufacturer for others to emulate. We 
+also worked collaboratively with the provincial office to 
+help support community welfare for the citizens in the 
+province. 
+We shared, with other companies in Thailand, our 
+strategies and actions to successfully combat the spread of 
+COVID-19, such as 24-hour central command for situation 
+monitoring and production shift scheduling techniques.
+We are continuing to explore ways to contribute to the 
+local community. We have identified initiatives such as 
+financial contributions, and Employee Volunteer Days to 
+support local projects by closing the plant and transporting 
+volunteer employees to a project site. These efforts are to 
+strengthen our ties to the community so we can raise 
+awareness of our organization and our impact. The pursuit of excellence: Lumentum Navanakorn FactoryPlanet:  
+Lighter Impact      
+Through our innovations we contribute to a more 
+efficient world. Efforts to lighten the environmental 
+footprint of our products and operations are core 
+to Lumentum.  CREATING A BRIGHTER FUTURE  |  34
+Our products enable a more connected society, 
+allowing for information to flow at faster rates and 
+people to interact from around the world. More areas 
+of the world are gaining access to the internet, which is 
+unlocking vast resources and reducing the burden of 
+travel, as education and employment are now more 
+accessible from home. Our laser technology unlocks 
+more precise and powerful technologies that further 
+drive down the scale and increase the power of data 
+and communication networks. These factors all further 
+Lumentum’s role in contributing to a more efficient 
+world that operates with a lighter footprint.
+However, the demand for our products and the demand 
+on data and communications infrastructure highlight 
+our need to offer innovative solutions and actively 
+manage our own environmental impacts. It is our 
+mission to lighten our impact by reducing our energy 
+consumption, greenhouse gas emissions, water 
+consumption, and waste generation. By integrating 
+sound environmental management practices into our 
+business, we can offer technologically innovative 
+products and services while conserving and enhancing 
+resources for future generations.
+Our journey to net zero has begun by procuring 100% 
+renewable electricity to power our headquarters in San 
+Jose, California, USA, a new R&D facility in Milan, Italy, 
+and a manufacturing facility in Škofljica, Slovenia. Our 
+site leads actively review their energy consumption for 
+possible ways to reduce use, and we have already 
+implemented projects at several sites. Caswell, UK, for Planet:  Lighter Impact      
+NET ZERO BY 2030
+The environmental impact of organizations and their responsibility to manage 
+their contributions to climate change have become clear priorities for our 
+stakeholders. At Lumentum, we recognize the climate change we are facing and 
+believe we have a responsibility to act. Therefore, we are proud of our 
+commitment to achieve a net zero scope 1 and 2 emissions target by 2030.
+example, has completed an LED light retrofit and 
+replaced chiller units with newer, more efficient types 
+to save energy.
+As we grasp the challenges and opportunities that lie 
+ahead, we are committed to rising to the occasion.Over 60% of our manufacturing sites have ISO 
+14001-certified environmental management systems 
+(EMS) and we are continuing to expand this coverage. In 
+FY21, we recorded zero significant environmental fines, 
+reinforcing the efficacy of our environmental management 
+systems. Alignment to a best-in-class framework for 
+environmental management allows us to go beyond 
+compliance and proactively manage our environmental 
+aspects while understanding our environmental risks and 
+opportunities. In addition, we integrate our ISO 9001 and 
+Kaizen culture to our environmental management to 
+further strengthen our program.Environmental management FY21
+Percentage ISO 14001 certified sites 67%
+Total number of manufacturing sites 6
+   CREATING A BRIGHTER FUTURE  |  35IMPACT ON CLIMATE
+Lumentum recognizes the global effort needed to mitigate the worst impacts of 
+climate change and align our actions with SDG 7 – Affordable and Clean Energy and 
+SDG 13 – Climate Action. We realize the risk that climate change has on our business 
+in the short, medium, and long term and have begun to incorporate climate change 
+mitigation into our business objectives and strategy.   
+020406080100120
+020,00040,00060,00080,000100,000120,000140,000
+FY19 FY20 FY21
+MT CO2E /$MMT CO2EGREENHOUSE GAS EMISSIONS
+Scope 1 Scope 2 (Market-based)
+Scope 3 GHG IntensityTo monitor and manage our contributions to climate 
+change, we have responded to CDP’s Climate Change 
+Questionnaire every year since 2017. CDP’s alignment to 
+the recommendations from the Task Force for Climate-
+related Financial Disclosures (TCFD) help us refine our 
+governance structure and consider the risks and 
+opportunities associated with climate change. 
+We aim to strengthen our practices and disclose our 
+progress, and we are further developing our greenhouse 
+gas management program. Our current inventory includes 
+accounting for scope 1 and scope 2 emissions associated 
+with our facilities’ energy consumption and the scope 3 
+emissions from our contract manufacturers, business 
+travel and other fuel- and energy-related activities. We 
+encourage our suppliers to participate in CDP and leverage 
+tools, such as Supply Risk Solutions, to monitor our supply 
+chain’s climate-related risks.In FY21, our overall emissions decreased 12%. This was 
+driven by an 18% decrease in scope 3 emissions from 
+reductions in contract  manufacturing. As we continue to 
+expand production at Nava, we are capitalizing on 
+process efficiencies and reduced exposure to third-party 
+contract manufacturers. We also saw a 6% decrease in 
+our market-based scope 2 emissions from the 
+consolidation of our own manufacturing operations and 
+reduced electricity use. However, counteracting these 
+gains, we increased air circulation in cleanrooms due to 
+COVID-19, requiring added fuel consumption, which 
+resulted in an increase in our scope 1 emissions and 
+scope 3 emissions from fuel-related activities.  While we 
+continue to explore global opportunities for more 
+efficient processing and the procurement of cleaner 
+energy, we expect to see a downward trend in our 
+overall emissions towards our net zero goal.
+As we continue to account for our greenhouse inventory, 
+we expect to capture a wider range of scope 3 emissions Planet: Lighter Impact     
+categories from supplier emissions to the emissions 
+associated with transportation and distribution. We are 
+already taking steps to reduce our impact in these 
+categories. In FY20, our 3D-sensing team partnered with 
+a material supplier to nearshore their operations to a 
+key contract manufacturer’s location. This change 
+eliminated the need to ship supplies internationally, 
+avoiding nearly 2.3 million miles flown, or approximately 
+131 million commercial ton-miles. We estimate this 
+resulted in an annual reduction of 90 metric tons of 
+CO2e attributable to our operations.  
+Energy FY21 FY20 FY19
+Total energy 
+consumption (MWh) 142,299 148,048 149,191
+Energy intensity 
+(MWh/$MM)82 88 95
+Revenue ($MM) 1,742.8 1,678.6 1,565.3
+ IN FY20, WE PARTNERED WITH A SUPPLIER TO 
+OPTIMIZE OUR LOGISTICS  REDUCING 
+NEARLY 2.3 MILLION MILES 
+FLOWN OR APPROXIMATELY 131 
+MILLION COMMERCIAL TON-MILES ANNUALLY.  CREATING A BRIGHTER FUTURE  |  36Planet: Lighter Impact     
+Telecommunications and Internet Infrastructure
+Internet speed and access is an ever-increasing priority 
+across the world. The recent challenges of the global 
+COVID-19 pandemic have only heightened the priority of 
+national internet infrastructure upgrades. As a leading 
+supplier of optical components and subsystems used in 
+building internet backbone equipment, Lumentum plays 
+an important role in the design and performance of 
+these networks and in providing internet access across 
+the world. 
+One of the key limitations to deploying terrestrial and 
+submarine networks is electrical power. The ability to 
+provide and dissipate power is often the most 
+constraining factor, due to physical space limitations and 
+atmospheric conditions.Cloud Data Center Infrastructure
+We continually invest in the development of solutions to 
+meet the need for reduced energy consumption in data 
+centers. With the launch of our 100G B5 PAM4 externally 
+modulated laser (EML), the laser power consumption per 
+100Gbps (Gigabits per second) was reduced by 53% over 
+the preceding 50G B4 PAM4 EML and reduced by 80% 
+from the original 25G B2 EML product.
+In addition, we have invested in the development of a 
+higher bandwidth 100G direct modulated laser (DML) with 
+improved temperature control. New lasers can operate at 
+higher temperature ranges, enabling less air-conditioning 
+and power consumption in data centers. These factors 
+enable savings of over 1 watt of power consumption per 
+400G 2 km transceiver module in the datacenter, which 
+equates to an additional 8% power savings over an EML 
+based 400G 2 km transceiver.PRODUCT ENERGY EFFICIENCY  
+Our teams are continuing to push power efficiency improvements in our products to 
+meet the need for reduced energy consumption in the markets where we operate.
+Lumentum’s advances in its products and technologies are 
+helping to increase power efficiency. For example, a 
+comparative analysis was performed on our high-speed 
+coherent optical data transmission modules, which are 
+used in internet backbone applications, on a basis of watts 
+per Gigabit (W/Gb), from 100 Gigabits per second to 400 
+Gigabits per second, and from the Generation 1 (Gen1) to 
+Generation 2 (Gen2) modules. We achieved a power 
+efficiency improvement from Gen1 to Gen2 of 64% (W/Gb).
+In addition, Lumentum’s high power pump lasers are 
+critical to the world’s internet infrastructure upgrades. In 
+the span of less than 5 years, Lumentum’s new generation 
+pump lasers have doubled wall-plug efficiency compared 
+to our previous generation. The efficiency increase allows 
+our customers to transport more data farther while using 
+less power. Additionally, these improvements increase the 
+density providing more features and functions in a smaller 
+package. Our S35 series pumps with ultra-low power 
+consumption of less than 3.5 watts use 50% less power 
+than the preceding S34 series pumps to generate the same 
+optical output power.
+Our leading-edge products and technologies are being 
+used today to expand the reach of broadband throughout 
+the world.
+100G DCO Gen1POWER USAGE IMPROVEMENTS OF COHERENT TRANSMISSION MODULES
+LUMENTUM MODULE PRODUCT PROGRESSION OVER TIME 200G DCO Gen1 200G DCO Gen2 400G DCO Gen2RELATIVE /parenleft.case%/parenright.case POWER USAGE
+WATT PER BIT64%100%
+58%
+36%
+  CREATING A BRIGHTER FUTURE  |  37
+Commercial Lasers
+Our commercial laser products are used in a wide range of 
+material processing applications in manufacturing, 
+including in the medical, consumer electronics, and solar 
+device industries, as well as in sheet metal cutting and 
+welding. In all of these applications, energy efficiency is an 
+increasingly critical performance requirement.
+Lumentum’s high-precision pulsed lasers enable reliable 
+manufacturing processes and consistent quality for a 
+broad range of materials. The evolution of our higher 
+power, ultrafast, picosecond laser systems has resulted in 
+several efficiency improvements, moving from the 
+PicoBlade2 (PB2) to the PicoBlade3 (PB3). We have 
+improved wall plug efficiency by 62.5%, which results in 
+savings of 47 MWh/year for each PB3 when run 24 hours 
+a day, 7 days a week. Optical output power has increased 
+3.6x with only a 1.5x increase in size, providing our 
+customers a more efficient use of space. We are also able 
+to reduce waste and decrease downtime up to 67% with a 
+3x improvement in the typical lifetime of consumables. 
+The increased performance and reliability of the PB3 led 
+to avoided emissions from transportation due to lighter 
+weights (on a watt/kg basis) and fewer return-to-factory 
+service requirements.In the area of metal processing, Lumentum has partnered 
+with a customer, Amada Co. Ltd. (Amada), for over 10 
+years in developing multiple generations of kilo-watt class 
+fiber lasers for industrial metal cutting and welding 
+applications. These leading-edge lasers have displaced 
+traditional technologies, including less efficient CO 2 lasers 
+as well as water-jet systems, which produce significant 
+environmental waste. Our fiber laser technology has 
+enabled Amada to accelerate the transition of their 
+machine tool portfolio from being 90% CO 2 laser based in 
+2012 to their goal of less than 10% in 2022. Our fiber laser 
+portfolio includes power levels from 4,000 watts to 
+12,000 watts and have a wall-plug efficiency of 30% 
+compared to 10% for CO 2 lasers.  
+Further, Lumentum and Amada have partnered to develop 
+unique laser beam shapes to enable even more efficient 
+use of the laser light. This was a fundamental shift for the 
+industry that enabled single machine tools to be used for a 
+variety of applications. Lumentum continues to innovate 
+and develop more advanced lasers in smaller and smaller 
+footprints. We have shipped thousands of fiber lasers, 
+which are deployed worldwide and have helped accelerate 
+the transition to more sustainable technologies.  
+Planet: Lighter Impact     
+3D Sensing 
+Computer and machine vision applications employing laser-
+based 3D sensing are emerging to enhance safety, security, 
+and functionality in a wide range of products the world 
+increasingly relies on. These include biometric 
+authentication in the consumer electronic devices we use 
+every day that contain our personal information and, over 
+the long-term, automobile safety systems. 
+Lumentum has shipped over a billion of vertical-cavity 
+surface-emitting laser (VCSEL) arrays for 3D sensing over 
+the past several years, most of which are used for 
+biometric authentication in consumer electronics. We have 
+continuously been focused on improving wall plug 
+efficiency (WPE) of these products and have achieved 
+year-over-year success. The aggregate improvement in 
+WPE today compared to four years ago is approximately 
+10%. We estimate our efficiency improvements in VCSEL 
+products have resulted in a cumulative energy savings of 
+approximately 200,000 kWh, assuming typical usage in 
+mobile phone applications.  CREATING A BRIGHTER FUTURE  |  38WATER AND EFFLUENTS
+Lumentum withdraws but does not consume large 
+quantities of water in our operations as it is an important 
+resource for cooling, cleaning, and hygienic use at our 
+production facilities. In addition, several of our 
+manufacturing facilities are in areas that experience 
+water stress, and over half of our facilities carry out 
+activities that could be subject to disruption due to a lack 
+of water supply. 
+Integrated with our Environmental Management System 
+(EMS), we have formal water quality management 
+programs in place covering aspects from wastewater 
+treatment to storm water runoff and drainage. In addition, 
+we evaluate our water impacts through our annual 
+submission to CDP’s Water Security Questionnaire, which 
+we’ve responded to each year since 2017. 
+We understand that water is a key resource within the 
+communities where we operate. It is with this mindset that 
+we introduced a goal to reduce our annual water 
+withdrawal by 5% by 2023. We have taken measures such 
+as the installation of closed cooling systems, which reuse 
+and recirculate water and minimize our consumption, 
+through the installation of efficient fixtures such as push 
+taps and automatic taps in our restrooms and canteens. In 
+Slovenia, we entered into an agreement with a local 
+company for the beneficial reuse of their hot water supply. 
+Due to increased insourcing at our Nava factory, our water 
+withdrawal increased 14%, however water consumption 
+decreased 20%.
+In our operations where we do use water, we ensure the 
+proper wastewater management steps are taken before 
+discharge. We actively monitor and manage wastewater 
+quality globally and ensure we are in compliance with all 
+local requirements. We have received recognition for our 
+wastewater treatment practices and have been awarded 
+the wastewater regulatory compliance award from the city 
+of San Jose, California, USA. Planet:  Lighter Impact      
+ 
+250300350400450500
+FY19 FY20 FY21Megaliters (Ml)
+Megaliters (Ml)WATER AND EFFLUENTS
+Withdrawal Consumption5075100TRACKING PROGRESS ON 
+ENVIRONMENTAL GOALS
+We believe developing and maintaining sustainable, 
+responsible practices in our global operations makes 
+business sense. By reducing our chemical use and 
+transitioning from fossil fuels to renewable energy, we are 
+reducing costs. In a society where companies and workers 
+are putting greater value on sustainability, greening our 
+operations also gives us a competitive advantage with 
+customers, increases employee morale, and aids our 
+recruitment efforts.As part of our commitment to a sustainable future, 
+we set several ambitious goals in the beginning of 
+FY21. Despite COVID-19’s impact on our operations, 
+we were able to progress on several of our goals: 
+NET ZERO EMISSIONS FROM OUR GLOBAL 
+OPERATIONS (SCOPE 1 AND 2) BY 2030  
+Achieved 5% reduction in greenhouse gas emissions  
+from FY20 to FY2 1
+USE 100% RENEWABLE ELECTRICITY  AT 
+OUR CORPORATE HEADQUARTERS BY 2023  
+Achieved in FY21    
+REDUCE OUR ABSOLUTE ENERGY 
+CONSUMPTION BY 5% AT ALL GLOBAL 
+RESEARCH AND DEVELOPMENT SITES BY 2023  
+Achieved in FY21
+REDUCE OUR EMISSIONS FROM AIR TRAVEL 
+BY 20% ANNUALLY  
+In FY21, air travel was restricted due to COVID-19 
+resulting in 0 emissions
+REDUCE OUR ANNUAL WATER WITHDRAWAL 
+BY 5% BY 2023  
+16% increase in water withdrawal from FY20 to FY21.
+  CREATING A BRIGHTER FUTURE  |  39Planet: Lighter Impact      
+full material declarations, we determined one component 
+with PIP 3:1 substance, which was used in an already 
+discontinued product. To ensure compliance of all our 
+products, we have reached out to over 600 suppliers to 
+obtain information on the presence of both substances in 
+our components and conducted testing of selected 
+high-risk parts. 
+We will continuously monitor technical progress and 
+work closely with our suppliers to proactively reduce the 
+use of hazardous substances in our products. We 
+regularly evaluate our products against declarable 
+substances included in the International Electrotechnical 
+Commissions (IEC) 62474 standard. In FY21, 55% of our 
+revenue was of products that contain IEC 62474 
+declarable substances, down from 61% and 68% in FY20 
+and FY19, respectively, primarily due to lead in 
+components covered by RoHS exemptions.
+WASTE
+We understand the impacts that waste generation can 
+have on surrounding communities, particularly if not 
+treated properly. We believe organizations have a 
+responsibility to reduce their contributions to waste 
+streams wherever possible and align our goals with those 
+of SDG 12 – Responsible Consumption & Production. 
+Our global sites produce both hazardous and non-
+hazardous waste through our production processes and 
+from general operations. The generation of hazardous 
+waste is inherent in our industry, but at Lumentum, we 
+ensure strict compliance with all local laws as they relate 
+to the generation, treatment, and transportation of 
+hazardous waste.
+Workforce training and education are critical, and we carry 
+out specific training pertaining to the proper handling and 
+disposal of general, industrial, and hazardous waste. We 
+have introduced a comprehensive program to promote the 
+3Rs (Reduce, Reuse, Recycle) to reduce industrial waste. At 
+our Nava factory, recycling rates for both hazardous and 
+non-hazardous waste are over 90%.As we continue to develop programs and seek out 
+opportunities to reduce waste and the input materials 
+required, we will develop a goal in FY22 to drive our waste 
+management programs. We have already found success 
+with waste generation decreasing over 25% from FY19 to 
+FY20. We plan to build upon this success to continue this 
+trend as well as increasing the percentage of waste 
+diverted from landfill.MATERIALS  
+Lumentum is committed to compliance with all applicable 
+product environmental laws and regulations, inclusive of 
+EU Directive 2011/65/EC (RoHS), Directive 2012/19/EC 
+(WEEE) and Regulation 1907/2006/EC (REACH).
+Lumentum currently fulfills, and commits to fulfill, all of 
+our obligations under these regulatory schemes. We 
+participate in technical working groups and stakeholder 
+consultations for EU RoHS legislation reviews and RoHS 
+exemptions evaluations to ensure we are up to date on the 
+latest and future regulations to appropriately plan our 
+product development. We have issued position statements 
+on REACH , RoHS and WEEE .
+We require all of our suppliers to complete Lumentum’s 
+Compliance Data Form with material composition and to 
+disclose any regulated substances present in parts and 
+materials purchased by Lumentum. Compliance with 
+substance restrictions is required for component 
+qualification, release to manufacturing, and is continuously 
+reviewed against new substance requirements until 
+product discontinuance.
+An example of our commitment was evident when 
+Lumentum eliminated four phthalates (BBP, DBP, DEHP and 
+DIBP) restricted by the RoHS amending Directive (EU) 
+2015/863 from all of our products. In FY20 we reviewed 
+18,000 parts and surveyed over 600 suppliers to ensure 
+all our products comply with Perfluorooctanoic acid 
+(PFOA) restrictions of EU REACH regulation and the 
+Stockholm Convention on Persistent Organic Pollutants.  
+In FY21, in response to a new restriction of Phenol, 
+Isopropylated Phosphate (3:1) (PIP 3:1) and 
+Pentachlorothiophenol (PCTP) in articles under the US 
+Toxic Substance Control Act (TSCA) published in January 
+2021, we immediately performed an impact analysis and 
+identified potentially impacted components. Based on our IN CASWELL, UK 100% OF 
+MUNICIPAL WASTE   
+IS DIVERTED FROM LANDFILL
+REVENUES FROM PRODUCTS WITH  
+IEC 62474 DECLARABLE  
+SUBSTANCES DECREASED  
+6% IN FY21At Lumentum, our people are the key to our success. We offer 
+an environment where our employees feel respected and 
+appreciated, and we unite our team behind our Guiding 
+Principles. We develop our team to enable their success, while 
+creating a diverse and inclusive culture that values differences 
+and inspires creativity.
+We conduct our work to the highest social, ethical and safety 
+standards within our facilities, and we propagate that 
+expectation across our value chain. We aim to influence those 
+around us beyond our value chain and work hard to positively 
+contribute to the communities in which we live and operate.People:  
+Positive Impact        CREATING A BRIGHTER FUTURE  |  41TALENT MANAGEMENT 
+We recognize the future performance of Lumentum relies upon the strength of our 
+team. Consequently, our ability to recruit and retain the services of executive, 
+engineering, sales and marketing, and support personnel is of critical importance. The 
+supply of highly qualified individuals–in particular, engineers in specialized technical 
+areas and salespeople specializing in the service provider, enterprise, and commercial 
+laser markets–is limited, and competition for such individuals is intense. Therefore, we 
+understand the importance of creating an attractive work environment for our 
+employees and managing our brand in the job market.  
+At Lumentum, we invest in programs that help us bring 
+our best to work each and every day.  Our 
+comprehensive benefits program and wellness initiatives 
+reflect the best standards of the high-tech industry, 
+promoting healthy minds and bodies for both our 
+diverse employee population and their families.  Since 
+we are a global company, our benefit programs differ by 
+country to meet the needs of our geographically diverse 
+employee population as well as statutory requirements 
+and industry best practices.  Benefits are one 
+component that reinforces our Total Rewards Philosophy, 
+and our goal is to be the employer of choice with 
+competitive offerings. 
+We are proud of the work environment we have created 
+and have received recognition at our Lumentum Ottawa, 
+Canada site for the fourth year in a row as a best 
+employer for recent university graduates under The 
+Career Directory, a guide to entry-level recruitment. In 
+addition, Lumentum Ottawa was recognized by Canada’s 
+Top 100 Employers Project as the National Capital 
+Region’s Top Employers for the fifth consecutive year.
+BrightPath, our talent development process, is designed 
+to light the way for personal and business growth, 
+reflecting the future growth focus of Lumentum. This 
+process encourages managers and employees to talk 
+more often about how employees can raise their 
+performance and skill level to support our success. 
+Employees and managers are encouraged to meet at 
+least monthly, or more frequently as needed, to remove 
+roadblocks, refocus priorities, and give and receive 
+feedback. At least once a quarter, employees and 
+managers have an individual talent discussion. The People:  Positive Impact      
+future of Lumentum is bright, and our employees are the 
+critical defining factor in our company’s future. Through 
+the BrightPath process, we can apply our core beliefs of 
+accountability, employee development, and engagement 
+outlined in our Guiding Principles to develop a workforce 
+that will enable us to achieve our growth objectives.
+We offer our employees the opportunity to learn and 
+grow as individuals and professionals. The training and 
+education of our employees are essential to maintain 
+Lumentum’s high standards for design and manufacturing 
+of our products along with the safety of our employees. 
+Our learning management platform, Percipio, leverages 
+artificial intelligence to curate learning paths and gamify 
+skills development for recognition and celebration. 
+Opportunities are available to learn new in-demand skills 
+and reinforce existing knowledge for increased 
+confidence, empowerment, and on-the-job engagement.
+In addition to self-paced courses, we invest in our 
+employees’ development in safety, technical expertise, 
+and professional business skills to meet our ongoing 
+needs for innovation and quality control. We offer 
+support for job-related degree programs and 
+certifications through our learning assistance and 
+reimbursement program. This program covers all 
+full-time Lumentum employees across various learning 
+types, from certificate programs to the pursuit of a 
+degree at an accredited university.Finally, we maintain an engaged workforce by eliciting 
+and responding to feedback regularly. We leverage a tool 
+called Glint to help us understand our organizational 
+performance and identify areas to improve. We have 
+asked employees to rate their level of agreement with 
+continuous improvement processes supporting their 
+understanding of roles and responsibilities. Between May 
+2019 and May 2021, the overall company score has 
+increased 7 points from a low of 68 to a high of 75. 
+Education on process improvement has taken place 
+throughout the company at all levels. Email updates, 
+articles, learning sessions, and metrics have helped 
+identify areas of opportunity and address them.
+Employee engagement remained a priority throughout 
+the pandemic, and we saw strong responses in our 
+engagement surveys. We believe this was tied to our 
+response and ongoing communication regarding 
+COVID-19, and we quickly implemented what feedback 
+we received. For example, within one week of request, 
+we enabled cashless transactions for our entire canteen 
+in our Nava factory. 100% OF EMPLOYEES   
+RECEIVE REGULAR PERFORMANCE AND CAREER 
+DEVELOPMENT REVIEWS  CREATING A BRIGHTER FUTURE  |  42DIVERSITY, INCLUSION, AND BELONGING  
+Although we come from all corners of the globe—representing people of diverse 
+cultures and perspectives—we share the same goals and vision for our company. We 
+are unified in our commitment to live our Guiding Principles: Innovate, Engage, 
+Deliver, Excel, and Win. Our differences make us stronger, more creative, and 
+capable of delivering better results. As a global, multicultural company driven by 
+innovation, we are building a diverse and inclusive culture where differences are 
+valued, but we realize there is still room for improvement.     
+We have identified a maturity model and vision of progression for the diversity, 
+inclusion, and belonging (DIB) program at Lumentum. While early in our journey, 
+we acknowledge that diversity is a business benefit but is also the right thing to 
+do. By fostering a more inclusive culture, our talent pool will become larger, and 
+our competitive advantages will become greater. Our desire is to integrate and 
+embed DIB into our daily activities. Our first step in this journey was a Kaizen 
+project that launched in the fall of 2020 with a focus on how we recruit new 
+talent. Everything from how job postings are written, how interviews are 
+conducted, to how we assess talent in the organization were evaluated to ensure 
+a consistent and unbiased process. 
+We review our DIB initiatives with our Nominating and Governance Committee 
+at least quarterly. Progress toward our multiyear DIB strategy for sustainable 
+cultural change is measured quarterly for support and accountability by our 
+Compensation Committee. Our DIB Council, formed in 2019, aligns our diversity 
+goals and objectives with our wider company goals and objectives. The council 
+is co-chaired by our Chief Executive Officer and our Vice President of Talent and 
+Chief Diversity Officer, with representation by all business units and functions. People:  Positive Impact      
+Gender Equality
+Aligned with SDG 5 – Gender Equality, Lumentum is 
+committed to equal treatment and equal pay of 
+employees regardless of gender. 
+We regularly conduct our assessment and reporting for 
+UK gender pay gap reporting. However, in June 2020, 
+we completed a more comprehensive analysis of 
+employee compensation with an aim to identify gaps 
+based on gender. The analysis resulted in a subset of 
+employees who were determined should receive salary 
+adjustments, which were quickly implemented. This pay 
+equity analysis has been integrated as standard 
+practice in our compensation program, as we monitor 
+and make necessary adjustments quarterly. We are 
+committed to eliminating inexplicable differences in 
+pay and monitoring our recruitment, talent, and pay 
+practices to identify areas that may be leading to 
+unintentional pay differences.
+0.13%
+58%
+2%6%1%2%29%EMPLOYEE DIVERSITY /parenleft.caseU.S.A./parenright.case
+American Indian or Alaska Native
+Asian
+Black or African American
+Hispanic or Latinx
+Native Hawaiian or Other Paci/f_ic
+Islander
+Two or More Races
+White020406080100
+FY19 FY20 FY21% OF TOTALNEW HIRES BY GENDER
+Female Male Not Disclosed
+We are committed to gender diversity across the organization, from 
+female representation in new hires to our goal of women in 21% of 
+senior leadership positions.  CREATING A BRIGHTER FUTURE  |  43
+Social Justice  
+In the wake of the protests and conversations about 
+race in the U.S.A. sparked by the death of George Floyd, 
+we have worked to better share our plans and thinking 
+about diversity, inclusion, and belonging with our 
+workforce that already started in 2019. Our CEO has 
+sent clear messages to all employees that racism of any 
+kind will not be tolerated at Lumentum and expressed 
+support for our Black employees. Also, in response to 
+the increased hate crimes in the U.S.A. against Asian 
+Americans and East Asians since the start of the People:  Positive Impact      
+To bring employees together, we launched employee-led employee resource groups 
+(ERGs) for early career hires, women, Latinx and Hispanic employees, Black employees, 
+and AAPI employees, with plans to expand to other employee groups. These ERGs 
+provide a safe space for conversation and help us address company-wide challenges and 
+communicate with senior leaders across the organization.
+We set annual goals to increase the representation of several traditionally 
+underrepresented populations in our organization. See our FY21 DIB goals below:
+FY21 DIB Goal FY21 Target FY21 Outcome Context
+Increase the percentage of women in 
+senior leadership positions 21% 20.7%We increased the proportion of women in senior leadership 
+roles to 20.7%, just below our 21% goal. We have increased the 
+number of women globally to 50% of our population and females 
+hold 28% of our people management roles.
+Increase the percentage of early career 
+new hires 33% 48.0%We exceeded our early career hire goals with 48% of our new 
+employees being within the first five years of their career.
+Increase the percentage of Black/
+African American new hires  
+(U.S.A. only) 10% 10.2%We achieved our goal for Black/African American representation 
+of new hires and understand this is an important step in 
+fostering a more diverse workforce.
+Increase the percentage of Latinx/
+Hispanics new hires (U.S.A. only) 10% 4.6%In FY21, our Latinx/Hispanic representation of new hires was 
+under our 10% goal. Looking ahead, we believe our university 
+relations program, increased diverse partnerships, and further 
+development of our ERGs will continue to strengthen our reach 
+to a diverse candidate pool. These efforts support our desire to 
+foster a culture of inclusiveness and a sense of belonging for all 
+employees, improving our desirability as an employer.
+Less than a 2% gender pay gap, globally <2% <2%We are proud to have achieved our goal and understand it 
+takes regular monitoring to ensure we remain equitable in our 
+compensation.Less than a 2% pay gap for 
+underrepresented minorities (U.S.A. only) <2% <2%
+pandemic, our CEO condemned the violence and racism, 
+and emphasized the importance that all people stand 
+together to support one another. 
+Lumentum is committed to creating a space where all 
+employees feel empowered, are respected and can 
+contribute to the fullest extent of their potential.
+Early in 2021, Lumentum committed to the 25×25 
+diversity initiative developed by the Silicon Valley 
+Leadership Group, of which our CEO is an executive board member. As a participating company, we pledged that by 
+2025, at least 25% of our leadership will be comprised of 
+persons of color and/or women or that we will increase 
+the number of underrepresented executives in leadership 
+roles by at least 25%. We will keep the pledge by making 
+diversity data and annual progress towards meeting 
+committed metrics public. In addition, we commit to 
+increase resources for funding and/or community 
+engagement in support of underrepresented groups and 
+expansion of minority talent pipelines by 25% by 2025.In addition, to progress towards these goals we 
+introduced initiatives including unconscious bias training 
+focusing on three areas of the candidate and employee 
+experience: attraction, development, and retention. We 
+expanded our university relations program and 
+partnerships to engage with the National Society of 
+Black Engineers (NSBE), the Society of Women Engineers 
+(SWE), and the Society of Hispanic Professional 
+Engineers (SHPE). We also introduced a partnership with 
+fourteen universities, of which four are Historically 
+Black Colleges or Universities (HBCUs), to provide 
+internship opportunities with a $10,000 scholarship 
+awarded at the successful completion of the internship. 
+We also participate in external initiatives to drive DIB in 
+the San Francisco Bay Area. We are a member of the 
+Silicon Valley Leadership Group supporting three key 
+areas: the Racial Equity Task Force to increase the 
+representation of underrepresented minorities in the 
+Bay Area through their 25x25 initiative, the Education 
+committee to increase partnership with California 
+Community Colleges, and the Housing Committee in 
+support of affordable housing for Bay Area residents.  CREATING A BRIGHTER FUTURE  |  44
+Our Lumentum Production System (LPS) extends beyond 
+product quality and aims to create a safety culture based 
+on safe people and safe places. We apply the zero-defect 
+mindset and strive for zero work-related injuries at all 
+sites. In Thailand, we were awarded Thailand’s National 
+Health and Safety award for operating over 15.9 million 
+hours with zero accidents. Practices to support this 
+success include the implementation of weekly safety 
+walks conducted by local EHS and CSR team members to 
+ensure a safe workplace and that employees are adhering 
+to safety policies. We conduct more detailed health and 
+safety risk assessments at all manufacturing sites on at 
+least an annual basis.
+We have a comprehensive corporate health and safety 
+policy that covers a range of issues from evaluation of 
+EHS compliance to hazardous waste management to 
+noise exposure and hearing protection. The 
+occupational health and safety management system at 
+our largest manufacturing facility, based in Thailand, 
+has been ISO45001-certified and we will continue to 
+advance our program through sharing best practices 
+learned and implemented from our global operations. 
+All employees are required to comply with all 
+Lumentum environmental, health and safety policies.
+Global health and safety teams come together monthly 
+to discuss incidents, events, and learnings to share best 
+practices. Within each facility, meetings are held weekly to identify any risks or problem areas and 
+determine action plans for resolution. Regular audits 
+and drills are conducted onsite to simulate fire incidents 
+or chemical spills.
+Employee training and education is critical to ensure a safe 
+and controlled workplace. Employees are required to 
+undergo mandatory safety training and comply with the 
+policies relevant to their work. To encourage engagement, 
+in 2020, we held safety fairs in the United States, a safety 
+education week in Slovenia and a 2-day safety event in 
+Thailand to promote our commitment to safety. People:  Positive Impact      
+OCCUPATIONAL HEALTH AND SAFETY  
+Protecting the health and safety of our employees is vital to our core values. Caring 
+for and attending to everyone who comes through our doors is fundamental to 
+Lumentum’s success and plays a major role in quality control. Providing a productive 
+work environment means ensuring that all of our facilities, and those of our supply 
+partners, are safe and comply with all applicable workplace health and safety laws 
+and regulations.
+Another aspect to encourage engagement is through 
+joint labor-management health and safety committees. 
+Each facility has a safety committee which consists of 
+representatives across operational functions and 
+responsibility-types. These committees have proven 
+successful in increasing the awareness of safety 
+practices and distributing the responsibility of health 
+and safety to each employee within the facility. 
+Health and Safety management system FY21 FY20 FY19
+Number of all employees who are covered 4,869 4,906 4,625
+Percentage covered 100 100 100
+Number of all employees who are covered by a system that has been 
+internally audited4,869 4,906 4,625
+Percentage covered 100 100 100
+Number of all employees who are covered by a system that has been 
+audited or certified by an external party1,991 1,759 0
+Percentage covered 41% 36% 0%
+Note: FY19 and FY20 employee totals have been restated to reflect and updated reporting methodology.
+Safety
+Near Miss Frequency Rate (NMFR) 1.69 2.08 3.92
+Total Recordable Incident Rate (TRIR) 0.16 0.17 0.29
+Hours worked 11,491,279 11,764,571 10,286,926
+Note: Rates have been calculated based on 200,000 hours worked. We are expanding our coverage of NMFR reporting. Sites where data is not yet 
+available have been excluded.100% OF EMPLOYEES AND 
+CONTRACTORS  ARE COVERED BY AN 
+INTERNALLY AUDITED HEALTH AND SAFETY 
+MANAGEMENT SYSTEM  CREATING A BRIGHTER FUTURE  |  45COMMUNITY ENGAGEMENT AND SUPPORT  
+The act of giving back, whether that be through volunteering or in-kind or monetary 
+donations, is deeply rooted in our culture and is tied to one of our Guiding Principles, 
+Engage. We consistently strive for a better tomorrow by uplifting our communities 
+while continuing to make Lumentum a great place to work. 
+This competition recognizes employers who go above and 
+beyond by demonstrating unwavering support for their 
+employees and the local community. Part of the 
+recognition was of our program to encourage employees 
+to volunteer with a paid day off. Volunteer hours 
+accumulated  almost 1,000 hours on company time to 
+complement a company match program. 
+In addition to our ongoing efforts through flexible 
+volunteer hours, in 2020 we introduced Lumentum Gives. 
+This all-encompassing program was designed to introduce 
+additional paths for community engagement. Created by 
+employees for the community, the program includes three People:  Positive Impact      
+Team donation during COVID-19 in Nava, Thailand
+Food drive in support of the Food Bank in Ottawa, Canada Volunteers donated their time and contributed to Shenzhen Nanshan 
+Xingguang Special Children Rehabilitation Center in Shenzhen, ChinaFood donation for Second Harvest Food Bank in San Jose, USA pillars–flexible volunteer hours, disaster relief, and 
+company donation-matching. Our mission is to fan the 
+spark of generosity that is within all employees to make 
+positive change through meaningful contributions. 
+At the beginning of the COVID-19 pandemic, when 
+personal protective equipment was in short supply, we 
+donated our all-in-one cleanroom apparel, hats, gloves, 
+and touchless thermal scanners to local hospitals and 
+health workers in the USA and Thailand. In San Jose, 
+California, a portion of our on-site testing capability is 
+being used to support testing for underserved people. In 
+Thailand, our team partnered with the local government 
+to offer safety training and shared best practices with 
+other businesses.
+Our Lumentum Gives donation matching program is 
+available to all our sites and we are working towards 
+expanding formal coverage of the remaining two pillars, 
+flexible volunteer hours and disaster relief. Meanwhile, 
+each location continues to be active in their communities 
+through site-specific engagement with local community 
+organizations. 
+To help support the communities where we operate 
+around the globe, we donated $500,000 in FY20 and 
+$415,000 in FY21 to local institutions that serve the 
+communities where our employees live and work. This 
+includes employee donations that were matched by 
+Lumentum. Each of our global sites had the opportunity to 
+select their local institutions to support. For example, in 
+Canada, since April 2020, we developed a program to 
+provide hot meals to at-risk groups and frontline workers, 
+serving over 23,000 meals and making 430 deliveries.In Canada, since April 2020, WE SERVED 
+OVER 23,000 MEALS AND MADE 
+430 DELIVERIES to at-risk groups and 
+frontline workersLUMENTUM OTTAWA WAS 
+RECOGNIZED BY CANADA’S TOP 
+100 EMPLOYERS PROJECT  AS THE 
+NATIONAL CAPITAL REGION’S TOP EMPLOYERS FOR 
+THE FIFTH CONSECUTIVE YEAR.    CREATING A BRIGHTER FUTURE  |  46ESG KPI DATA SUMMARY  
+Energy (MWh) FY21 FY20 FY19
+Total energy consumption 142,299 148,048 149,191
+Total fuel consumption 29,106 26,065 29,892
+∙ Natural gas 29,094 26,053 29,836
+∙ Diesel 12 12 55
+Total electricity consumption 113,192 121,983 119,299
+∙ Self-generated electricity 0 0 0
+   - Electricity purchased from the grid (%) 100% 100% 100%
+Energy consumption from renewable sources 2,180 0 0
+Energy intensity (MWh/$MM) 82 88 95
+Revenue ($MM) 1,742.8 1,678.6 1,565.3
+Emissions  (MT CO2e) FY21 FY20 FY19
+Total GHG emissions 96,441 109,333 123,324
+Scope 1 GHG emissions 6,273 5,698 5,502
+Scope 2 location-based GHG emissions 43,999 46,651 44,232
+Scope 2 market-based GHG emissions 42,235 45,168 42,524
+Scope 3 GHG emissions 47,933 58,467 75,298
+∙ Purchased goods & services 31,249 45,034 60,528
+ ∙ Fuel- & energy-related activities 16,684 12,183 11,782
+ ∙ Business travel 0  1,250 2,988
+GHG emissions intensity (MT CO2e/$MM) 55 65 79
+ 
+Waste (MT) FY21 FY20 FY19
+Total weight of waste generated 1,212 1,400 1,876
+Hazardous 339 380 453
+∙ Diverted 19 29 68
+∙ Disposed 319 351 385
+Non-hazardous 874 1,020 1,423
+∙ Diverted 676 721 918
+ ∙ Disposed 198 299 505
+ 
+Note: Waste data is reported for all global manufacturing facilities and facilities over 50,000 square feet and/or with over 100 headcount.Water and effluents (ML) All Areas Water Stressed All Areas Water Stressed All Areas Water Stressed
+Water withdrawal by source 444 93 381 107 421 310
+Groundwater 49 15 35 0 0 0
+Third-party water 395 78 346 107 421 310
+Water discharge by destination 376 86 304 99  N/R  N/R 
+Surface water 8 - 17 -    N/R  N/R 
+Third-party water 368 86 287 99  N/R  N/R 
+Total water consumption 68 7 77 7  N/R  N/R 
+ 
+N/R indicates not recorded.
+Note: Water and effluents data is reported for all global manufacturing facilities and facilities over 50,000 square feet and/or with over 100 headcount.Planet  CREATING A BRIGHTER FUTURE  |  47ESG KPI DATA SUMMARY 
+People
+Information on employees and other workers FY21 FY20 FY19
+Total number of employees  6,056 5,859 5,681
+Total number of permanent employees  5,426 5,306 5,011
+Female  2,695 2,593 2,354
+Male  2,731 2,713 2,657
+APAC  3,721 3,552 3,196
+EMEA  601 491 534
+AMER  1,104 1,263 1,281
+Total number of temporary employees  630 553 670
+% of temporary employees 10.4% 9.4% 11.8%
+Female  94 93 144
+Male  181 203 280
+Not Disclosed  355 257 246
+APAC  327 235 227
+EMEA  66 51 48
+AMER  237 267 395
+Total number of full-time employees  5,402 5,281 4,969
+Female  2,681 2,580 2,326
+Male  2,721 2,701 2,643
+Total number of part-time employees  24 25 42
+Female  14 13 28
+Male  10 12 14
+Percentage that are foreign nationals 2.4% 3.3% 3.0%
+Percentage that are located offshore  NA NA NA
+Employment FY21 FY20 FY19
+Total number of new employee hires 1,280 1,829 2,729
+<30 years old 556 808 777
+30-50 years old 663 956 1,616
+>50 years old 61 65 336
+Female 670 925 1,235
+Male 610 893 1,494
+Not Disclosed - 11 -
+APAC 973 1,542 2,053
+EMEA 175 129 505
+AMER 132 158 171
+Total employee turnover 1,174 1,479 1,205
+Voluntary turnover 923 1,231 810
+Involuntary turnover 251 248 395
+<30 years old 407 652 38
+30-50 years old 566 691 617
+>50 years old 201 136 200
+Female 574 675 525
+Male 600 793 679
+Not Disclosed -   11 1
+APAC 809 1,147 876
+EMEA 67 170 61
+AMER 298 162 268  CREATING A BRIGHTER FUTURE  |  48ESG KPI DATA SUMMARY 
+People
+Diversity & equal opportunity FY21 FY20 FY19
+Number of employees in management roles  690 631 609
+Female  186 163 157
+Male 504 468 452
+<30 years old  7 6 5
+30-50 years old 421 395 392
+>50 years old  262 230 212
+Diverse Employees  19 18 14
+Number of employees in technical roles 1,879 1,886 2,063
+Female  481 506 522
+Male 1,398 1,380 1,541
+<30 years old  234 181 235
+30-50 years old 1,154 1,140 1,241
+>50 years old  491 565 587
+Diverse Employees  41 53 58
+Number of all other employees 3,547 3,420 2,948
+Female 2,214 2,087 1,832
+Male 1,333 1,333 1,116
+<30 years old 1,082 1,161 1,062
+30-50 years old 2,113 1,942 1,568
+>50 years old  352 317 318
+Diverse Employees  51 42 38
+ 
+Note: Diverse employee data reflects US operations only. Lumentum identifies diverse employees as those who are not of Asian or Caucasian descent.
+Training & education FY21 FY20 FY19
+Total hours of training undertaken  68,132 43,565 30,683
+Average hours of training per employee 11.3 7.4 5.4
+Employee reviews
+Percentage of employees receiving regular performance 
+reviews100% 100% 100%
+Percentage of employees receiving regular career 
+development reviews100% 100% 100%
+ 
+Note: Training is conducted across business functions and tracked locally. We believe the reported value is well below actual hours and we are working on increasing our data 
+tracking mechanisms for reporting.  CREATING A BRIGHTER FUTURE  |  49H&S-related injuries FY21 FY20 FY19
+Near miss frequency rate 1.69 2.08 3.92
+Number of recordable work-related injuries 9 10 15
+∙ Rate 0.16 0.17 0.29
+Number of high-consequence work-related injuries 0 0 1
+∙ Rate 0 0 0.02
+Number of fatalities as a result of work-related injuries 0 0 0
+∙ Rate 0 0 0
+Number of hours worked 11,491,279 11,764,571 10,286,926
+ 
+Note: Data covers employee cases only. Rates have been calculated based on 200,000 hours worked. We are expanding our coverage of NMFR reporting. Sites where data is not 
+yet available have been excluded.  CREATING A BRIGHTER FUTURE  |  50GRI CONTENT INDEX
+Disclosure No. Disclosure Description Direct Response or Report Location
+102-1 Name of the organization Lumentum Holdings, Inc.
+102-2 Activities, brands, products, and services About Lumentum, page 5.
+102-3 Location of headquarters San Jose, California, USA.
+102-4 Location of operations About Lumentum, page 6.
+102-5 Ownership and legal form Lumentum is publicly listed and traded on the Nasdaq Stock Market.
+102-6 Markets servedAbout Lumentum, page 5-6.  
+FY20 Form 10-K, pages 4 - 6.
+102-7 Scale of the organizationAbout Lumentum, page 6.
+ESG KPI Data Summary, page 47.
+102-8 Information on employees and other workersPeople, page 41. 
+ESG KPI Data Summary, page 47.
+102-9 Supply chain Supply Chain Responsibility, page 20.
+102-10Significant changes to the organization and its 
+supply chainNo significant changes occurred in our supply chain during the reporting year.
+102-11 Precautionary Principle or approach Planet, page 34.
+102-12 External initiativesThe United Nations Sustainable Development Goals
+The Global Reporting Initiative (GRI) Sustainability Reporting Standards
+CDP Climate Change and Water Security Questionnaires
+The Sustainability Accounting Standards Board (SASB) Standards
+The United National Universal Declaration of Human Rights
+The International Labour Organization (ILO) Declaration on Fundamental Principles and Rights at Work
+The International Organization for Standardization (ISO)
+102-13 Membership of associationsThe Responsible Business Alliance (RBA)
+- The Responsible Labor Initiative (RLI)
+- The Responsible Minerals Initiative (RMI)
+The Automotive Industry Action Group (AIAG)
+The Silicon Valley Leadership Group (SVLG)
+102-14 Statement from senior decision-makerA Message from the Board, page 3.
+A Message from the CEO, page 4.
+102-16Values, principles, standards, and norms of 
+behaviorOur Vision, page 7.
+Our Guiding Principles, page 7.
+102-18 Governance structure CSR Governance, page 8.
+102-40 List of stakeholder groups Stakeholder Engagement & Materiality, page 14.
+102-41 Collective bargaining agreementsLumentum supports employees’ rights to collective bargaining. No employees are covered by collective bargaining 
+agreements. 
+102-42 Identifying and selecting stakeholders Stakeholder Engagement & Materiality, page 14.
+102-43 Approach to stakeholder engagement Stakeholder Engagement & Materiality, page 14.
+102-44 Key topics and concerns raised Stakeholder Engagement & Materiality, page 14.
+102-45Entities included in the consolidated financial 
+statementsFY20 Form 10-K, pages 136 - 137.
+102-46 Defining report content and topic Boundaries Stakeholder Engagement & Materiality, page 14.
+102-47 List of material topics Stakeholder Engagement & Materiality, page 14.
+102-48 Restatements of information This is our inaugural report. No restatements have been made.
+102-49 Changes in reporting There have been no changes in reporting.
+102-50 Reporting period July 1, 2020 - June 30, 2021.  CREATING A BRIGHTER FUTURE  |  51Disclosure No. Disclosure Description Direct Response or Report Location
+102-51 Date of most recent report This is the first report prepared by Lumentum.
+102-52 Reporting cycle Annual.
+102-53 Contact point for questions regarding the report CorporateSocialResponsibility@Lumentum.com
+102-54Claims of reporting in accordance with the GRI 
+StandardsThis report has been prepared in accordance with the GRI Standards: Core option.
+102-55 GRI Content Index GRI Content Index, page 50.
+102-56 External assuranceVerification Statement, page 57.
+We have not sought external assurance of this report, however, certain environmental metrics have been verified by 
+an independent third-party.  
+2020 GHG Assurance Statement
+201 Economic Performance
+103 Management approachSupply Chain Responsibility, page 19 - 20.
+Impact on Climate, page 35.
+Lumentum supports economic development through the economic value that is generated and distributed to 
+employees, contractors, suppliers, and taxes paid to governments.
+201-1 Direct economic value generated and distributedSupply Chain Responsibility, page 20.
+FY20 Form 10-K, pages 47.
+201-2Financial implications and other risks and 
+opportunities due to climate changeImpact on Climate, page 35.  
+2021 CDP Climate Change Response.
+205 Anti-corruption
+103 Management approach Business Conduct and Ethics, page 10.
+205-1 Operations assessed for risks related to corruption Business Conduct and Ethics, page 10.
+205-2Communication and training about anti-corruption 
+policies and proceduresBusiness Conduct and Ethics, page 10.
+205-3Confirmed incidents of corruption and actions 
+takenBusiness Conduct and Ethics, page 10.
+206 Anti-competitive Behaviors
+103 Management approach Business Conduct and Ethics, page 10.
+206-1Legal actions for anti-competitive behavior, anti-
+trust, and monopoly practicesBusiness Conduct and Ethics, page 10.
+301 Materials
+103 Management approach Materials, page 39.
+302 Energy
+103 Management approachEnergy data is reported for all global sites.  
+Impact on Climate, page 35.
+302-1 Energy consumption within the organization Impact on Climate, page 35.
+302-3 Energy intensity Impact on Climate, page 35.
+303 Water
+103 Management approachWater data is reported for all global manufacturing facilities and facilities over 50,000 square feet and/or with over 
+100 headcount.
+Water and Effluents, page 38. 
+303-1 Interactions with water as a shared resource Water and Effluents, page 38.
+303-2 Management of water discharge-related impacts Water and Effluents, page 38.
+303-3 Water withdrawal by source Water and Effluents, page 38.
+303-4 Water discharged Water and Effluents, page 38.
+303-5 Water consumption Water and Effluents, page 38.  CREATING A BRIGHTER FUTURE  |  52Disclosure No. Disclosure Description Direct Response or Report Location
+305 Emissions
+103 Management approach Impact on Climate, page 35.
+305-1 Direct (Scope 1) GHG emissions ESG KPI Data Summary, page 46.
+305-2 Energy indirect (Scope 2) GHG emissions ESG KPI Data Summary, page 46.
+305-3 Other indirect (Scope 3) GHG emissions ESG KPI Data Summary, page 46.
+305-4 GHG emissions intensity ESG KPI Data Summary, page 46.
+306 Waste
+103 Management approachWaste data is reported for all global manufacturing facilities and facilities over 50,000 square feet and/or with over 100 
+headcount.  
+Waste, page 38. 
+306-1Waste generation and significant waste-related 
+impactsWater and Effluents, page 38.
+306-2 Management of waste-related impacts Water and Effluents, page 38.
+306-3 Waste generated ESG KPI Data Summary, page 46.
+306-4 Waste diverted from disposal ESG KPI Data Summary, page 46.
+306-5 Waste directed to disposal ESG KPI Data Summary, page 46.
+307 Environmental Compliance
+307-1Non-compliance with environmental laws and 
+regulationsLumentum received zero significant fines, non-monetary sanctions, and cases regarding environmental compliance.
+401 Employment
+103 Management approach Talent Management, page 41. 
+401-1 New employee hires and employee turnoverTalent Management, page 41.
+ESG KPI Data Summary, page 47.
+403 Occupational Health and Safety
+103 Management approachOccupational Health and Safety data is reported for all global manufacturing facilities and facilities over 50,000 square 
+feet and/or with over 100 headcount.  
+Occupational Health and Safety, page 44.
+403-1Occupational health and safety management 
+systemOccupational Health and Safety, page 44.
+403-2Hazard identification, risk assessment, and 
+incident investigationOccupational Health and Safety, page 44.
+403-3 Occupational health services Occupational Health and Safety, page 44.
+403-4Worker participation, consultation, and 
+communication on occupational health and 
+safetyOccupational Health and Safety, page 44.
+403-5Worker training on occupational health and 
+safetyOccupational Health and Safety, page 44.
+403-6 Promotion of worker health Occupational Health and Safety, page 44.
+403-7Prevention and mitigation of occupational health 
+and safety impacts directly linked by business 
+relationshipsOccupational Health and Safety, page 44.
+403-8Workers covered by an occupational health and 
+safety management systemOccupational Health and Safety, page 44.
+403-9 Work-related injuriesOccupational Health and Safety, page 44.
+ESG KPI Data Summary, page 49.
+404 Training and Education
+103 Management approach Talent Management, page 41.
+404-1 Average hours of training per year per employeeTalent Management, page 41.
+ESG KPI Data Summary, page 48.
+404-3Percentage of employees receiving regular 
+performance and career development reviewsTalent Management, page 41.  CREATING A BRIGHTER FUTURE  |  53Disclosure No. Disclosure Description Direct Response or Report Location
+405 Diversity and Equal Opportunity
+103 Management approach Diversity, Inclusion, and Belonging, page 42-43. 
+405-1 Diversity of governance bodies and employeesDiversity, Inclusion, and Belonging, page 42.
+ESG KPI Data Summary, page 48.
+406 Non-discrimination
+406-1Incidents of discrimination and corrective 
+actions takenNon-discrimination FY21 FY20 FY19
+Total number of incidents 0 1 1
+Incident status
+Reviewed 1 2 1
+Remediation developed 0 1 1
+Remediation implemented 0 1 1
+Closed 1 2 1
+407
+408
+409Freedom of Association
+Child Labor
+Forced Labor
+407-1
+408-1
+409-1Operations in which human rights may be at riskHuman rights FY21 FY20 FY19
+Freedom of association and collective bargaining (by country)
+∙ Company operations 0 0 0
+∙ Supplier operations 11  countries 11 countries NA
+Child labor (by country)
+∙ Company operations 0 0 0
+∙ Supplier operations 1  country  1 country NA
+Forced or compulsory labor (by country)
+∙ Company operations 0 0 0
+∙ Supplier operations 4 countries 7 countries NA
+We follow RBA’s risk assessment model to evaluate risk in our supply chain. We first evaluate our Top 200 suppliers by 
+spend from a country-level perspective, and secondly, at the facility level. All our major suppliers, and any high-risk 
+suppliers from the country-level assessment, must complete the RBA self-assessment questionnaire for each facility 
+supplying to Lumentum.
+415 Public Policy
+415-1 Political contributions Lumentum does not provide financial or in-kind political contributions.
+416 Customer Health and Safety
+416-1Incidents of non-compliance concerning the 
+health and safety impacts of products and 
+servicesLumentum received zero substantiated complaints or losses of customer data.  CREATING A BRIGHTER FUTURE  |  54Disclosure No. Disclosure Description Comment/Response
+417 Marketing and Labeling
+417-2Incidents of non-compliance concerning 
+product and service information and labelingLumentum recorded zero incidents of non-compliance.
+417-3Incidents of non-compliance concerning 
+marketing communicationsLumentum recorded zero incidents of non-compliance.
+418 Customer Privacy
+418-1Substantiated complaints concerning breaches 
+of customer privacy and losses of customer 
+dataLumentum received zero substantiated complaints or losses of customer data.
+419 Socioeconomic Compliance  
+419-1Non-compliance with laws and regulations in 
+the social and economic areaLumentum received zero fines, non-monetary sanctions, and cases regarding socioeconomic compliance.
+ N/A Product Quality & Innovation
+103 Management approachInnovation, page 23-24.  
+Spotlight on Quality: Building a Kaizen Culture, page 26-28.
+ N/A Number of 3rd party audits or inspections Innovation, page 25.
+ N/A Number of ISO 14001 certified sites Planet: Lighter Impact, page 34.
+ N/A Kaizen projects and benefits Spotlight on Quality: Building a Kaizen Culture, page 27.
+ N/A Kaizen events and participation Spotlight on Quality: Building a Kaizen Culture, page 27.  CREATING A BRIGHTER FUTURE  |  55SASB INDEX
+Disclosure No. Disclosure Description Direct Response or Location in Report
+Quantitative Metric Area of manufacturing facilities FY20 Form 10-K, page 33.
+Quantitative Metric Number of employees ESG KPI Data Summary, page 47.
+EE - 510a.1Description of policies and practices for prevention 
+of: (1) corruption and bribery and (2) anti-
+competitive behaviorBusiness Conduct and Ethics, page 10.
+EE - 510a.2Total amount of monetary losses as a result of legal 
+proceedings associated with bribery or corruption$0 monetary losses.
+SC/EE - 510a.3Total amount of monetary losses as a result of 
+legal proceedings associated with anticompetitive 
+behavior regulations$0 monetary losses.
+HW/SC/EE - 410a.1Percentage of products by revenue that contain IEC 
+62474 declarable substancesMaterials FY21 FY20 FY19
+Total revenue of products that contain IEC 62474 
+declarable substances55% 61% 68%
+Revenue from products with declarable 
+substances other than covered by RoHS 
+exemptions4.9% 5.2% 6.6%
+HW/SC/EE - 440a.1Description of the management of risks associated 
+with the use of critical materialsMaterials, page 39.
+HW - 410a.4Weight of end-of-life products and e-waste 
+recovered, percentage recycledOmitted.
+SC/EE - 130a.1(1) Total energy consumed, (2) percentage grid 
+electricity, (3) percentage renewableImpact on Climate, page 35.
+ESG KPI Data Summary, page 46.
+SC - 140a.1(1) Total water withdrawn, (2) total water consumed, 
+percentage of each in regions with High or Extremely 
+High Baseline Water StressESG KPI Data Summary, page 46.
+SC - 110a.1(1) Gross global Scope 1 emissions and (2) amount of 
+total emissions from perfluorinated compoundsImpact on Climate, page 35.
+ESG KPI Data Summary, page 46.
+SC - 110a.2Discussion of long-term and short-term strategy 
+or plan to manage Scope 1 emissions, emissions 
+reduction targets, and an analysis of performance 
+against those targets Impact on Climate, page 35.
+SC/EE - 150a.1Amount of hazardous waste generated, percentage 
+recycled ESG KPI Data Summary, page 46.
+EE - 150a.2Number and aggregate quantity of reportable spills, 
+quantity recovered 0 recordable spills.
+HW - 430a.1Percentage of Tier 1 supplier facilities audited in the 
+RBA Validated Audit Process (VAP) or equivalent, by 
+(a) all facilities and (b) high-risk facilitiesSupplier social & environmental assessment FY21 FY20 FY19
+Number of Tier 1 supplier facilities audited 1  5.0  2.0 
+Percentage audited 20%  83%  29%
+Percentage of high-risk facilities audited NA NA NA
+All of our Contract Manufacturers (CM) are required to complete an RBA audit every two years. Our 
+CMs represent close to 80% of direct spend.
+HW - 430a.2Tier 1 suppliers’ (1) non-conformance rate with the 
+RBA Validated Audit Process (VAP) or equivalent, and 
+(2) associated corrective action rate for (a) priority 
+non-conformances and (b) other non-conformancesOmitted.
+SC - 330a.1Percentage of employees that are (1) foreign 
+nationals and (2) located offshoreESG KPI Data Summary, page 47.
+SC - 320a.1Description of efforts to assess, monitor, and reduce 
+exposure of employees to human health hazardsOccupational Health and Safety, page 44.
+SC - 320a.2Total amount of monetary losses as a result of legal 
+proceedings associated with employee health and 
+safety violations$0 monetary losses.
+HW - 330a.1Percentage of gender and racial/ethnic group 
+representation for (1) management, (2) technical 
+staff, and (3) all other employeesDiversity, Inclusion, and Belonging, page 42-43.
+ESG KPI Data Summary, page 48. 
+EE - 250a.1 Number of recalls issued, total units recalled 0 recalls.
+EE - 250a.2Total amount of monetary losses as a result of legal 
+proceedings associated with product safety$0 monetary losses.  CREATING A BRIGHTER FUTURE  |  56UN SUSTAINABLE DEVELOPMENT GOAL INDEX
+Goal (Targets) Indicator Lumentum’s Contribution Lumentum Topic
+5
+Gender Equality
+(5.1, 5.5)5.1.1 Non -discrimination
+5.5.2 Proportion of women in managerial positions• Assessing gender pay gaps as standard practice in its 
+compensation program and making pay adjustments. 
+• Setting specific goals to promote women to senior leadership 
+position and to be early career hires.Talent Management
+Diversity, Inclusion, and Belonging
+7
+Affordable and 
+Clean Energy
+(7.2, 7.3)7.2.1 Renewable energy share
+7.3.1 Energy intensity• Using 100% renewable electricity at corporate headquarters 
+and select global facilities.
+• Developing products and technologies to increase power 
+efficiencies and expand broadband coverage throughout the 
+world along with solutions to reduce energy consumption in 
+data centers.Impact on Climate
+8
+Decent Work and 
+Economic Growth
+(8.1, 8.4, 8.5, 8.8)8.1.1 Annual growth rate of real GDP per capita
+8.4.1 Material footprint
+8.5.1 Average hourly earnings of employees
+8.8.1 Occupational injuries
+8.8.2 Compliance with labor rights• Monitoring compliance of restricted materials, including conflict 
+minerals, and decreasing the use of hazardous substances.
+• Adhering to our own health and safety policy involving safety 
+training and compliance procedures.
+• Monitoring compliance with all workplace health and safety 
+and labor rights laws and regulations within our operations and 
+supply chain.Economic Performance
+Materials and Waste
+Health and Safety
+Human Rights
+9
+Industry, 
+Innovation, and 
+Infrastructure
+(9.2, 9.5)9.2.1 Manufacturing value added 
+9.2.2 Manufacturing employment
+9.5.1 Research and development expenditure• Operating manufacturing facilities and engaging with contract 
+manufacturing in various parts of the world. 
+• Conducting research and development at various design sites in 
+a variety of locations around the globe.Economic Performance
+Talent Management
+10
+Reduced 
+Inequalities
+(10.4, 10.7)10.4.1 Labor share of GDP
+10.7.1 Recruitment cost borne by employee• Paying competitive wages and salaries that contribute to the 
+GDP in countries where we operate.
+• Offering skilled manufacturing jobs and policies to pay all fees 
+associated with recruitment, while also prohibiting partners 
+from charging fees.Economic Performance
+Talent Management
+12
+Responsible 
+Consumption & 
+Production
+(12.2, 12.4,
+12.7, 12.a)12.2.1 Material footprint
+12.4.2 Hazardous waste
+12.7.1 Sustainable procurement policies
+12.a.1 Installed renewable energy-generating 
+capacity in developing countries• Monitoring compliance of restricted materials, including conflict 
+minerals, and decreasing the use of hazardous substances.
+• Using 100% renewable electricity at corporate headquarters 
+along with establishing onsite renewable energy generation, 
+onsite energy efficiency projects, and entering into power 
+purchase agreements.
+• Requiring all suppliers to sign company Supplier Code of 
+Conduct upon onboarding along with using 3rd party-
+developed tools to assess suppliers on financial, environmental 
+and social risks factors.Materials and Waste
+Supply Chain Management
+Impact on Climate
+13
+Climate Action
+(13.2)13.2.2 Total greenhouse gas emissions per year• Committing to achieving net zero scope 1 and 2 GHG emissions 
+target by 2030 and incorporating climate change mitigation into 
+business objectives and strategy.
+• Having ISO 14001-certified environmental management 
+systems in over 50% of manufacturing sites with plans to 
+expand coverage.Impact on Climate
+  CREATING A BRIGHTER FUTURE  |  57VERIFICATION STATEMENT
+Independent GHG Assurance Statement to Lumentum Holdings Inc. 
+ERM Certification and Verification Services Inc. (ERM CVS) was engaged by Lumentum Holdings Inc. (‘Lumentum’) to provide assurance in 
+relation to specified greenhouse gas (GHG) emissions reported in Sections C6.1, C6.3 and C6.5 of its CDP Climate Change Questionnaire 2021.
+Engagement Summary
+Scope of our 
+assurance 
+engagementWhether the following consolidated corporate GHG emissions data (on an operational control basis) for Lumentum’s global operations for the financial year 2020 (1st 
+July 2019 to 30th June 2020) are, in all material respects, fairly presented in accordance with the reporting criteria:
+• Scope 1 Direct GHG emissions from on-site combustion of natural gas and diesel, fugitive emissions, and emissions from the use of refrigerant gases  
+(metric tonnes CO 2e).
+• Scope 2 Indirect GHG emissions (location-based and market-based) associated with purchased electricity (metric tonnes CO 2e).
+•  Scope 3 Other indirect emissions from the following categories (metric tonnes CO 2e):
+ -Category 3: Fuel-and-energy-related activities (not included in Scope 1 or 2); and
+ -Category 6: Business travel (by air only).
+Reporting criteriaThe World Resources Institute and the World Business Council for Sustainable Development (WRI/WBCSD) GHG Protocol Corporate Accounting and Reporting Standard 
+(Revised Edition).
+Assurance 
+StandardISO14064-3:2019 Specification with guidance for the verification and validation of greenhouse gas statements
+Assurance level Limited assurance
+Respective 
+responsibilitiesLumentum is responsible for preparing the GHG emissions data and for the information included in its CDP Climate Change Questionnaire 2021.
+ERM CVS’ responsibility is to provide conclusions on the agreed scope based on the assurance activities performed and exercising our professional judgement.
+Our conclusions  
+Based on our activities, nothing has come to our attention to 
+indicate that the following financial year 2020 GHG emissions data 
+are not fairly presented, in all material respects, with the reporting 
+criteria:
+Total Scope 1 GHG emissions:  5,750  tCO 2e 
+Total Scope 2 GHG emissions:  
+Location-based    46,651 tCO 2e 
+Market-based    45,168  tCO 2e 
+Total Scope 3 GHG emissions:  13,441  tCO 2e
+Our assurance activities  
+Our objective was to assess whether the selected information is 
+reported in accordance with the reporting criteria based on the 
+principles of completeness, accuracy and consistency. We planned 
+and performed our work to obtain all the information and 
+explanations that we believed were necessary to provide a basis 
+for our assurance conclusions. A team of GHG and assurance 
+specialists performed the following activities:
+• Interviews with relevant staff to understand and evaluate the 
+data management systems and processes (including systems 
+and internal review processes) used for collecting and 
+reporting the selected data;
+• An analytical review of the data from all Lumentum facilities, 
+a review of the completeness of the data and a check of the 
+accuracy of the corporate data consolidation;
+• A review of samples of documentary evidence, including 
+internal and external documents, supporting the underlying 
+activity data on which the GHG emissions are based; and
+• A review of the unit conversion factors and emissions factors 
+used to calculate the GHG emissions from the underlying 
+activity data, and the reasonableness of estimations and 
+extrapolations used in those calculations.The limitations of our assurance engagement  
+The reliability of the assured data is subject to inherent 
+uncertainties, given the available methods for determining, 
+calculating or estimating the underlying information.
+Our assurance work for the 2020 reporting period was desk-based 
+and used virtual interviews with Lumentum. We did not undertake 
+any in-person visits to Lumentum operations.
+For the Scope 3 category 6 Business Travel, our work was limited to 
+reviewing the accuracy of the calculation of the GHG emissions from 
+the underlying activity data provided by Lumentum’s third-party 
+travel booking agency. We have not separately assured those 
+underlying activity data.
+Beth Wyke  
+Partner, Head of Corporate Assurance  
+23 July 2021  
+ERM Certification and Verification Services Inc.
+ERM CVS is a member of the ERM Group. The work that ERM CVS 
+conducts for clients is solely related to independent assurance 
+activities and auditor training. Our processes are designed and 
+implemented to ensure that the work we undertake with clients is 
+free from bias and conflict of interest. The ERM CVS and ERM staff 
+that have undertaken this engagement work have provided no 
+consultancy related services to Lumentum in any respect.
+© 2021 Lumentum Operations LLC  
+csr2021-br-ae  30179673  000  0821

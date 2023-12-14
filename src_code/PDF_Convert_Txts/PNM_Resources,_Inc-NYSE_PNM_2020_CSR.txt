@@ -1,0 +1,340 @@
+2020Sustainability Report 
+                        Published  August 4 , 202 2 
+Table of Contents  
+Forward -Looking Statements  ........................................................................................................................ 2 
+Introduction  .................................................................................................................................................. 3 
+Data  ............................................................................................................................................................... 4 
+Policies  ........................................................................................................................................................ 10 
+Board of Directors Committee Charters  .................................................................................................  10 
+Articles and Bylaws  .................................................................................................................................  10 
+ 
+Forward -Looking Statements  
+Statements made in this Report that relate to future events or our expectations, projections, estimates, 
+intentions, goals, targets, and strategies are made pursuant to the Private Securities Litigation Reform Act of 1995. Readers are cautioned that all forward‐looking statements are based upon current expectations and estimates. We assume no obligation to update this information.  Because a ctual results 
+may differ materially from those expressed or implied by these forward ‐looking statements, we caution 
+readers not to place undue reliance on these statements. Our business, financial condition, cash flows, and operating results are influenced  by many factors, which are often beyond our control, that can 
+cause actual results to differ from those expressed or implied by the forward ‐looking statements. These 
+factors include the risks and uncertainties described in the "Risk Factors," "Quantitativ e and Qualitative 
+Disclosures about Market Risk," and "Management's Discussion and Analysis" sections of our Forms 10 ‐K 
+and 10 ‐Q filed with the SEC . 
+ 
+ 
+ 
+ 
+ 
+ 
+ Introduction  
+PNM Resources practiced sustainability in 2020 in a very different way, along with the rest of the world, 
+as we responded to a global pandemic. The Social component of our commitment to Environmental, Social and Governance principles was brought to the forefront, and we quickly adapted to ensure that safety of our teams and caring for our customers and communities.  
+W
+e took the next steps in our path to emissions ‐fre
+e energy by 2040 with regulatory approval of our 
+plan to retire the remaining units at the San Juan Generating Station in 2022 and a proposal to exit our ownership share of the Fou r Corners Power Plant at the end of 2024 . These plans would accelerate 
+PNM’s full exit from coal by seven years . 
+T
+hese plans uniquely couple Environmental and Social considerations by including securitization to 
+create greater savings for customers and provide funds to support the communities impacted by the transition away from coal, particularly tribal communities.  
+As part of our commitment to environmental, social and governance reporting and transparency , we 
+have furnished data in this report and on our dedicated webpage 
+www.pnmresources.com/ESG ‐
+commitment . This info rmation expands on our prior year disclosures , which remain available in the 
+reporting section of the ESG Commitment website.  
+PNM continues the significant transition in generation resources necessary to achieve 100% emissions -
+free energy by 2040.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  Data  
+PNM Resources, Inc. ESG Data           
+             
+Generation Capacity (MW)*  2016  2017  2018  2019  2020  
+  Coal**  983 983 762 762 762 
+             
+  Gas***  989 989 989 989 1,001  
+             
+  Nuclear  402 402 402 402 402 
+             
+  Solar  107 117 137 237 287 
+             
+  Wind  306 306 356 356 352 
+             
+  Geothermal  4 4 15 15 11 
+             
+  Total Renewable Capacity  417 427 508 608 650 
+             
+  Total Generation Capacity  2,791 2,801 2,661 2,761 2,816  
+  
+  
+  
+             
+             
+Net Generation (MWh)*  2016  2017  2018  2019  2020  
+  Coal  5,638,971  5,830,411  4,160,727  4,265,222  4,045,720  
+             
+  Gas 1,232,844  951,451  1,722,484  1,840,249  1,637,626  
+             
+  Nuclear  3,291,008  3,298,684  3,172,848  3,255,777  3,219,563  
+             
+  Solar  257,235  247,336  330,812  382,945  685,964  
+             
+  Wind  712,964  712,457  716,812  1,018,043  991,099  
+             
+  Geothermal  14,255  12,960  13,108  58,082  53,364  
+             
+  Total Renewable Generation  984,454  972,753   1,060,732   1,459,070   1,730,427  
+             
+  Total Generation  11,147,277  11,053,299  10,116,791  10,820,318  10,633,336  
+  
+             
+             
+Emissions*  2016 2017 2018 2019 2020  
+  CO 2 (short tons)  7,271,164  7,551,124  6,074,753  6,141,623  5,932,220  
+             
+  CO 2 (metric tons)  6,596,289  6,850,264  5,510,923  5,571,587  5,381,589  
+             
+  NO x (short tons)  9,528  9,877  5,458  5,078  4,956               
+  NO x (metric tons)  8,644  8,960  4,951  4,607  5,085  
+             
+  SO2 (short tons)  1,904 2,608 1,090 1,251 1,079  
+             
+  SO2 (metric tons)  1,727  2,366  989 1,135  995 
+             
+  PM 10 (short tons)  179 185 149 187 191 
+             
+  PM 10 (metric tons)  162 168 135 170 198 
+             
+  Mercury (pounds)  10.40  10.17  5.07  3.60  4.42  
+             
+  CO2 Emission intensity (short 
+tons/MWh)   0.6565 0.6880 0.6130   0.5875 0.57  
+             
+  CO2 Emission intensity (metric 
+tons/MWh)  0.5921 0.6199 0.5498 0.5282 0.5155  
+  
+             
+             
+Water (million U.S. gallons):  2016  2017  2018  2019  2020  
+  Surface Water Withdrawal  3,439  3,785  2,544  2,537  2,440  
+             
+  Surface Water Return Flow  0 0 0 0 0 
+             
+  Total Surface Water Consumption  3,439  3,785  2,544  2,537  2,440  
+             
+  Ground Water Withdrawal  375 362 516 328 331 
+             
+  Ground Water Return Flow  0 0 0 0 0 
+             
+  Total Ground Water Consumption  375 362 516 328 331 
+             
+  Total Fresh Water Withdrawals  3,814  4,147  3,060  2,865  2,771  
+             
+  Total  Water Return Flows  0 0 0 0 0 
+             
+  Total Water Consumption  3,814  4,147  3,060  2,865  2,771  
+             
+             
+Coal Combustion Residuals (CCR)  2016 2017 2018 2019 2020  
+  CCR Generated (tons)  2,496,951   2,425,447  1,501,770  1,770,572  1,689,048  
+             
+  CCR Recycled (tons)   513,903  548,348  540,599  632,514  547,981  
+             
+  Percentage Recycled   20.6% 22.6% 36.0% 35.7% 32.4%  Energy Efficiency           
+  Annual Electricity Savings (GWh)  2016  2017  2018  2019  2020  
+  PNM  74 78 72 78 87 
+             
+  TNMP  22 21 17 16 17 
+             
+             
+Reliability Indices:  2016  2017  2018  2019  2020  
+  PNM           
+  SAIDI  84.2  87.4  107.3  103.4  89.2  
+             
+  SAIFI  0.93  0.88  0.98  0.89  0.71  
+             
+  CAIDI  90.9  99.5  109 116.5  125.1  
+             
+  TNMP           
+  SAIDI  78 104.7  113.5  131.7  134.5  
+             
+  SAIFI  1.31  1.39  1.73  1.54  1.48  
+             
+  CAIDI  62.9  100.4  65.9  85.6  88.7  
+             
+             
+Employees           
+  Includes PNM Resources, PNM & TNMP  2016  2017  2018  2019  2020  
+  Total Employees  1,814 1,697 1,689 1,668 1,706  
+             
+  Number of Employees (full time)  1,807 1,690 1,684 1,667 1,703  
+             
+  Number of Employees (part time)  7 7 5 1 3 
+             
+  % of union employees  39.8%  40.8%  39.4%  39.6%  39.0%  
+             
+  % of women employees  25.5%  25.0%  25.6%  25.6%  26.1%  
+             
+  % of  minority employees  46.6%  47.5%  49.3%  50.1%  50.4%  
+             
+  % of veteran employees  7.4%  8.5%  9.1%  8.5%  8.5%  
+             
+  Total company officers  8 9 8 8 10 
+             
+  Number of women company officers  3 3 2 2 3 
+             
+  Number of minority company officers  1 1 1 1 2 
+             
+  Number of employees at risk for 
+retirement  10.2% 10.6% 9.8% 12.8% 12.0% 
+             
+  Annual employee turnover  9.2%  12.4%  10.2%  11.8%  7.6%  
+             Safety  2016  2017  2018  2019  2020  
+  Employee DART Rate   2.31  1.45  1.83   1.13  1.63  
+             
+  Total Employee Recordable Incident 
+Rate (TRIR)  2.86 2.9 2.37 1.88 2.7 
+             
+  Employee Lost Time Incident Rate (LTIR)  1.65  0.79  0.81  1.00 1.07  
+             
+  Employee Fatalities  0 0 0 0 0 
+             
+             
+Customers and Community:           
+  PNM Customers  2016  2017  2018  2019  2020  
+  Residential  462,921  465,950  470,192  473,803  479,112  
+             
+  Commercial  56,357  56,655  57,000  57,369  57,669  
+             
+  Industrial  247 239 236 201 194 
+             
+  Economy service  1 1 1 1 1 
+             
+  Other  sales for resale  36 36 39 26 19 
+             
+  Other  887 931 932 930 935 
+             
+  Total  520,449  523,812  528,400  532,330  537,930  
+             
+  TNMP Customers  2016  2017  2018  2019  2020  
+  Residential  204,744  207,788  210,696  213,435  217,511  
+             
+  Commercial  39,817  39,814  40,508  41,054  41,267  
+             
+  Industrial  66 82 88 96 97 
+             
+  Other  1,993  1,948  1,924  1,911  1,901  
+             
+  Total  246,620  249,632  253,216  256,496  260,776  
+             
+    2016  2017  2018  2019  2020  
+  Corporate giving, including donations  $1,352,614  $1,856,000  $1,899,000  $2,461,747  $3,301,938  
+             
+  PNM Resources Foundation giving  $1,025,790  $1,210,146  $1,656,375  $1,561,731  $1,237,730  
+             
+  Total charitable giving  $2,378,404  $3,066,146  $3,555,375  $4,023,478  $4,539,668  
+             
+  PNM Low ‐i ncome assistance provided 
+(families helped)  3,770 3,804 3,703 3,734 3,477 
+               Number of organizations helped  471 460 442 455 358 
+             
+  Employee volunteer hours  8,963  10,479  11,500  13,317  6,500  
+             
+             
+Supplier Spend (in thousands)*  2016  2017  2018  2019  2020  
+  Total Supplier Spend  $579,755  $507,438  $789,165  $669,408  $683,004  
+             
+  Total Small Business Spend  $122,173  $113,399  $149,662  $158,422  $172,756  
+             
+  Veteran Owned Small Businesses Spend  $4,858  $3,141  $4,826  $3,436  $7,837  
+             
+  Service Disabled Veteran OSB Spend  $423  $979  $1,016  $4,495  $5,005  
+             
+  Women Owned Small Businesses Spend  $24,189  $19,474  $28,087  $27,687  $26,494  
+             
+  Small Disadvantaged Businesses Spend  $8,167  $7,377  $8,677  $13,103  $9,462  
+             
+  Hub Zone Small Businesses Spend  $735  $800  $934  $8,437  $7,031  
+  
+  
+             
+Financial Results  2016  2017  2018  2019  2020  
+  Total revenue (in thousands)  $1,362,951  $1,445,003  $1,436,613  $1,457,603  $1,523,012  
+             
+  GAAP EPS ‐ Diluted  $1.46  $1.00  $1.07  $0.97  $2.15  
+             
+  Ongoing EPS ‐ Diluted*  $1.65  $1.94  $2.00  $2.16  $2.28  
+             
+  Dividends Declared per Common Share  $0.9025  $0.9925  $1.0850  $1.1775  $1.2500  
+  
+             
+             
+Taxes           
+  Federal Taxes  2016  2017  2018  2019  2020  
+    Heavy Highway Vehicle Use  $5,045  $6,681  $9,194  $5,428  $6,256  
+             
+    Federal excise tax  $40,307  $29,576  $29,757  $33,938  $10,918  
+             
+    FICA (Employer)  $12,652,959  $12,658,964  $12,213,670  $12,530,941  $12,840,541  
+             
+    Federal unemployment tax  $83,668  $80,572  $78,471  $78,116  $41,271  
+             
+    Total Federal Taxes  $12,781,979  $12,775,793  $12,331,093  $12,648,422  $12,898,986  
+             
+  State Property Tax           
+      New Mexico  $26,477,032  $27,058,467  $27,930,032  $29,044,654  $28,942,137  
+             
+      Arizona  $4,637,219  $4,509,376  $4,604,969  $4,514,834  $4,474,613  
+                   Texas  $12,772,027  $14,442,044  $14,401,928  $15,816,354  $16,271,611  
+             
+    Gross Receipts/Sales Tax           
+      New Mexico  $64,973,482  $70,457,707  $66,606,182  $66,787,559  $72,148,849  
+             
+      Texas  $1,187,692  $2,497,021  $3,490,715  $4,262,462  $1,912,392  
+             
+             
+Political Contributions and Lobbying  2016  2017  2018  2019  2020  
+  Political contributions  $5,100  $17,100  $7,050  $35,500  $5,600  
+             
+  Lobbying Portion of Trade Association 
+Dues  $151,154 $154,939 $139,064 $176,033 $178,624 
+             
+             
+Governance  2016  2017  2018  2019  2020  
+  Total board members   8** 8 8   10 9 
+             
+  Women board members   3 3  3 4 4 
+             
+  Minority board members  2 1  1  2 2 
+             
+  Board meetings held  6 5 10 9 16 
+             
+  Average board attendance  100%  100%  100%  97.80%  75%  
+  
+  
+ 
+ 
+  Policies  
+ Do the Right Think: Principles of Business Conduct  
+ Corporate Environmental Policy  
+ Equal Employment Opportunity and Diversity  
+ Corporate Governance Principles  
+ Equity Compensations Awards Policy  
+ Complaint Procedures  
+ Related Party Transactions  
+ Audit, Audit ‐Related and Non ‐Audit Fees and Services  
+ 
+Board of Directors Committee Charters  
+ Compensation and H uman Resources Committee  
+ Nomin ating and Governance Committee  
+ Audit and Ethics Committee  
+  Finance Committee  
+ 
+Articles and Bylaws  
+ Restated Articles of Incorporation  
+ Bylaws  
+ 

@@ -1,0 +1,1757 @@
+CORPORATE  
+Sustainability  
+Report
+SUPPORTING THE ENERGY TRANSITIONTABLE OF CONTENTS
+Founders’ Message to Our Stakeholders ...... 1  
+ Our Company  ............................................ 11 
+ Report Highlights ....................................... 12
+Sustainability Leadership, Strategy,  
+& Governance  ................................................ 14 
+ Our Leadership  .......................................... 15 
+ Our Strategy .............................................. 17 
+ Corporate Governance  .............................. 19
+Community & Stakeholder Engagement  ...... 20
+Antero Foundation  ........................................ 24
+Environment  .................................................. 25 
+ Environmental Management System  ......... 26 
+ Emissions  ................................................... 30 
+  GHG & Air Pollutant Emissions .............. 31 
+  Leaders in Emission Reduction ............. 36 
+  Emission Mitigation Efforts  ................... 38 
+ Energy Use  ................................................ 40 
+ Natural Resources & Biodiversity  ............. 41  Water Resources & Management  ............. 47 
+  Water Quality  ........................................ 48 
+  Produced Water Management  ............. 49 
+  Spill Preventionz Management,  
+  & Performance  ...................................... 52 
+  Waste  .................................................... 55 
+  Recycling  .............................................. 58
+Health & Safety .............................................. 59 
+ Safety Management System  ..................... 60 
+ Risk Assessment & Hazard Recognition   ...61 
+ Incident Reporting System  ....................... 63 
+ HSSE, Social & Governance Training  ........ 64 
+ Emergency Preparedness & Planning  ...... 66 
+ Contractor Safety Management  ............... 69 
+ Occupational Health  ................................. 70 
+ Health and Safety Performance  ................ 71
+Security  ......................................................... 72
+Pipeline Integrity  ........................................... 74
+Contact Us  ..................................................... 82Headings are linked to each individual section.
+FOUNDERS’ MESSAGE TO OUR STAKEHOLDERS
+Since we embarked on this incredible journey as shale gas pioneers in 2003, we have 
+remained true to our values of creating a sustainable business model and a resilient 
+company. Our company culture is based on core business principles of safety for our 
+employees, contractors and the community, integrity, performance, stewardship of 
+the land and environment, and relentless innovation. These values and principles are 
+ingrained in our corporate DNA.
+Our core sustainability programs strengthen our business and inspire confidence  
+in our employees, investors, creditors, and contractors, as well as with regulatory  
+agencies and within the communities in which we operate. We take a highly proactive 
+approach to develop and implement work practices and technologies to deliver 
+natural gas, natural gas liquids and oil in the most ethical, environmentally and socially 
+responsible way possible. 
+Natural gas is a key component in the energy transition and to our ability to address 
+the risks associated with climate change. If produced and transported properly, natural 
+gas development should be supported by the investment and regulatory communities. 
+As the lightest and least greenhouse gas (GHG) intensive hydrocarbon, natural gas is 
+expected to play a fundamental role as both the U.S. and global economies to transition 
+to a lower carbon future. Natural gas is part of the solution and can be produced and 
+transported with de minimis leakage and loss.
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 1
+Environment
+We recognize the growing concern over climate change and are committed to 
+proactively managing our business to reduce GHG emissions, including methane 
+emissions and limit the environmental impact of our operations. We lead the industry 
+with our low GHG intensity, which has remained relatively constant since 2016. Our 
+methane leak loss rate, calculated per the ONE Future protocol, was at 0.017% in 2019, 
+well below ONE Future industry and sector targets of 1.00% and 0.08%, respectively. 
+Water is a critical resource that is utilized in shale completion operations. Antero has 
+the most extensive freshwater pipeline network in the industry, which is used to deliver 
+water to well pads for completion operations. Each year our freshwater pipeline system 
+eliminates the need for hundreds of thousands of water truckloads traversing local roads 
+in and around the communities where we operate. Our freshwater pipeline system has a 
+tremendous positive impact on emissions reduction and safety. 
+Further, Antero has utilized a rigorous leak detection and repair (LDAR) program on 
+all of its facilities and pipelines for many years. These best practices have resulted 
+in our industry-leading GHG intensity and leak loss rate numbers. Antero actively 
+participates in a number of voluntary programs that focus on reducing emissions. In 
+2018, Antero became a member of ONE Future, an industry collective focused on 
+voluntarily  reducing methane emissions across the natural gas supply chain. Antero’s 
+GHG performance metrics demonstrate that natural gas can live up to its promise as a 
+transition fuel and reduce GHG emissions by more than half, as compared to coal.
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 2
+Safety
+Safety performance starts with culture, and we have built a strong safety culture and 
+dedicated environmental stewardship that starts at the top of the organization. We are 
+laser-focused on health, safety, security, and preservation of the environment (HSSE). 
+Importantly, we empower everyone on the job site, employee or contractor, with Stop 
+Work Authority.  We believe that our HSSE success is partly due to continuous incident 
+and risk evaluation and improvements to our safety leadership, management and 
+systems. We have earned a reputation as an industry leading safe and environmentally 
+responsible operator through continuous emphasis on our HSSE performance. This 
+reputation also makes Antero an employer of choice in Appalachia.
+In 2019, we continued to focus on the health and safety of our employees and the 
+public, managing greenhouse gas emissions and recycling produced water from Antero 
+Resources’ operations to reduce freshwater use. We focused on enhancing our safety 
+and environmental management systems and continued open, honest, and transparent 
+dialogues with our shareholders, communities, industry peers, and regulators. Our plan 
+for 2020 includes continued improvement of our management systems, developing 
+of a disclosure strategy to align with both the Task Force for Climate-related Financial 
+Disclosures (TCFD) guidelines and the Sustainability Accounting Standards  
+Board (SASB).
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 3
+Every day, the safety of our employees and contractors is our top priority. In 2019, 
+Antero Midstream work locations experienced zero employee or contractor fatalities 
+and an employee and contractor Lost Time Incident Rate (LTIR) of 0.055, a 51% 
+reduction since 2016. Similarly, the Antero employee and contractor Total Recordable 
+Rate (TRIR) of 0.547, represents a 56% improvement since 2016. In comparison,  
+the 2019 ISNetworld onshore oil and gas benchmark averages for our industry are 0.32 
+LTIR and 0.95 TRIR. These results significantly outperformed the 2018 U.S. Bureau of 
+Labor Statistics benchmark averages for our industry. Antero’s highly successful HSSE 
+team guides us toward our stipulated goal of “Zero Incidents, Zero Harm and Zero 
+Compromise.” 
+Governance
+We have worked aggressively to ensure appropriate alignment among all our 
+constituents. As part of the 2019 combination of two of our publicly-traded midstream 
+entities, Antero Midstream eliminated its Incentive Distribution Rights (IDRs), converted 
+into a C-Corp and redesigned its board to include a majority of independent directors; 
+together these actions represented the most comprehensive governance changes 
+among such “Simplification” transactions. Subsequently, we have added a number of 
+new directors to both the Antero Resources and the Antero Midstream boards. We are 
+excited about the many years of industry technical and leadership experience which 
+our directors bring to the board. We are also focused on gender diversity, as two of 
+our nine directors at both companies are women. In addition, we are proud to note 
+that the head of our operations, geology, accounting, legal and land administration 
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 4
+departments are all women. We also recently formed Environmental, Sustainability, and 
+Social Governance (ESG) committees of the board for both Antero Resources and Antero 
+Midstream which further reinforces our emphasis on the importance of accelerating the 
+agenda on environmental sustainability, safety, and governance topics.
+The Energy Transition
+There is growing momentum to identify and implement solutions to reduce GHG 
+emissions without sacrificing economic and humanitarian imperatives such as a rising 
+standard of living for much of the underdeveloped world, in particular. Stable and 
+affordable energy supplies will make it possible for more people to access healthcare, 
+transportation and education that contribute to improved living standards and a higher 
+quality of life. Embrace of the energy transition to a lower carbon environment is 
+ubiquitous across government, industry, investors, creditors and the public sectors.  
+We believe that it is critical for Antero to be a leader in the global energy transition and 
+to be part of the solution. 
+For context, the world consumes almost 600 exajoules (EJ) of primary energy per year, 
+the vast majority of which is derived from hydrocarbons (Figure 1 World Consumption). 
+Natural gas consumption has been increasing for the last 25 years, while renewables 
+began to increase at a rapid rate about 15 years ago (Figure 2 Shares of Global Primary 
+Energy). Natural gas and renewables are slowly displacing oil and coal in the energy mix. 
+Much of that displacement is a result of the electrification that has occurred over the  
+past 20 years.
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 5
+Source: BP Statistical Review of World Energy 2020300500600
+400
+200
+100Figure 1: World Consumption (Exajoules)
+1994 2004 2014 1999 2009 2019
+Renewables Coal
+Hydroelectrycity
+OilNatural Gas
+Nuclear EnergyCoal
+Natural Gas
+OilFigure 2: Shares of Global Primary Energy (%)
+50%
+40%
+30%
+20%
+10%
+1994 2004 2014 1999 2009 2019
+RenewablesCoalHydroelectrycity Oil
+Natural GasNuclear Energy
+Source: BP Statistical Review of World Energy 2020Oil
+Coal
+Natural Gas
+Renewables
+Figure 3, entitled World Energy Demand by Source, forecasts energy consumption 
+through 2050, where hydrocarbons still comprise about 55% of energy demand. Figure 
+4, entitled World Final Energy Demand by Carrier, converts some of the global energy 
+consumption to electricity. The reduction in scale and change in composition between 
+Figure 3 and 4 reflects the impact of conversion losses and the fact that a significant 
+amount of primary energy is used to generate electricity. The displacement trend is 
+forecast to continue over the next 30 years as the consumption of oil and coal eventually 
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 6
+decline and global natural gas consumption grows slowly. Overall energy consumption 
+is forecast to continue to grow due to an expanding global economy and population 
+until efficiency gains slow growth around 2030. 
+Wind GeothermalSolar PV
+Natural Gas
+OilCoalNuclear
+Solar ThermalHydropowerBiomass100300
+200400500600700
+1980 1990 2000 2010 2020 2030 2040 2050Figure 3: World Energy Demand by Source (Ej/yr)
+Source: IEA Electricity Information 2019Coal
+Natural Gas
+Oil
+HydrogenOff-grid PV
+Natural Gas
+OilCoalBiomass
+Solar ThermalElectricityDirect Heat100200300400500Figure 4: World Final Energy Demand by Carrier (Ej/yr)
+Source: IEA Electricity Information 20191980 1990 2000 2010 2020 2030 2040 2050Coal
+Natural GasElectricity
+Oil
+Within the final energy demand stack, electricity demand is expected to accelerate 
+and more than double during the next 30 years as the manufacturing, commercial 
+building, and transport sectors rely more heavily on electricity as opposed to direct 
+fossil fuels as an energy source (Figure 5 World Electricity Generation Mix). Meeting 
+this increased electricity demand with zero and lower carbon electricity generation 
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 7
+alternatives such as solar, wind, and natural gas, is the key to the success of the energy 
+transition. In the International Energy Administration (IEA) forecast below, renewables 
+are expected to grow from a single digit contribution to almost two-thirds of electricity 
+supply by 2050, while natural gas consumption grows slightly and coal use for electricity 
+generation declines to very low levels. Fulfillment of these objectives will require a mix 
+of both lower carbon conventional supply and zero carbon new builds over the next few 
+decades along with policy support from governments around the world, as well as a 
+significant amount of capital.
+Figure 5: World Electricity Generation by Power Station Type (PWh/yr)
+Wind
+GeothermalSolar PVNatural Gas
+Oil
+Coal01040
+2050
+3060
+1980 1990 2000 2010 2020 2030 2040 2050
+Source: IEA Electricity Information 2019NuclearHydropower
+BiomassWind
+Solar
+Natural Gas
+CoalHydro
+Mostly recently, the 2015 Paris Agreement aims to hold the increase in global average 
+temperatures to well below 2 degrees Celsius above pre-industrial levels. The IEA, 
+in turn, has developed two long term projections for energy supply and demand. 
+The importance of these projections cannot be overstated as even under the IEA’s 
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 8
+Sustainable Development Scenario which is “Paris Agreement-aligned”, natural gas 
+consumption is forecast to grow slightly between 2018 and 2040 as its share of the 
+global energy demand mix increases from 22.9% to 23.8% (Figure 6 Energy Demand Mix 
+by Source). Moreover, under the IEA’s Stated Policy Scenerio, natural gas consumption is 
+forecast to increase by 35.8% and contribute 25.1% of the global energy demand mix  
+by 2040. Given the scale of global energy demand and the capital and incentives 
+required to meaningfully shift the mix, decarbonize does not mean eliminate all 
+hydrocarbons over the next 20 years.  
+Source: IEA World Energy Outlook 201920183,821
+STATED  
+POLICIES  
+SCENARIOSUSTAINABLE  
+DEVELOPMENT  
+SCENARIO
+2040361361
+36170970929317,723
+13,279
+3,821 3,779
+1,4703,0413,1621,1491,6282,231
+4,9214,4451,8281,320
+3,2731,357
+4,50114,315Figure 6: Energy Demand Mix by Source (Mtoe)
+Natural Gas
+OilCoal Renewables
+Bioenergy“Decarbonize”  does not  
+mean “eliminate”
+22.9%25.1%
+23.8%
+NuclearHydropower
+Leed Gold Certified Denver Headquarters buildingANTERO MIDSTREAM  / 9
+GLEN C. WARREN, JR.
+President, CFO and Director  
+Co-FounderPAUL M. RADY
+Chairman and CEO 
+Co-FounderSummary
+In short, investors, creditors, the communities in which we operate, and employees 
+can be stakeholders in a hydrocarbon business that is natural gas focused while at the 
+same time meeting high environmental sustainability, safety, and governance standards. 
+Antero meets or beats all of those standards. It is clear that the only way to reduce 
+the carbon footprint while addressing the needs of a growing global economy and 
+population is to transition to an energy supply stack with much less coal, eventually less 
+oil and a growing baseload of natural gas and renewables, primarily delivered in the 
+form of electricity. 
+Our outstanding ESG performance exemplifies our unwavering commitment to make 
+every effort to do the right thing, take accountability for our actions and maintain our 
+position as a world-class sustainable energy producer, partner, and employer of choice. 
+We are dedicated to adapting, leading, and operating ethically and responsibly. This 
+commitment is evident in our performance and culture as we proactively care for our 
+employees, contractors, community, and the environment. In sum, we are intensely 
+focused on and have unwavering confidence that the Antero companies are doing the 
+right things, the right way, for the right reasons.
+Leed Gold Certified Denver Headquarters building
+ANTERO MIDSTREAM  / 10
+OUR COMPANY
+532,000+LARGEST FRESHWATER 
+PIPELINE DELIVERY NETWORK 
+IN APPALACHIA, ELIMINATED 
+590,000 WATER TRUCK TRIPS 
+IN 2019#1
+50/50 JOINT VENTURE 
+PARTNER IN LARGEST GAS 
+PROCESSING COMPLEX IN 
+NORTH AMERICA (1)
+SUPPORTS 3RD 
+LARGEST U.S. NATURAL 
+GAS PRODUCERSUPPORTS 2ND 
+LARGEST U.S. NGL 
+PRODUCER430+ MILES OF LOW 
+AND HIGH PRESSURE 
+GATHERING PIPELINE
+Antero Midstream Corporation (NYSE: AM) owns, operates and develops midstream gathering, 
+compression, processing and fractionation assets located in West Virginia and Ohio, as well as  
+integrated water assets that primarily service Antero Resources Corporation’s properties. 
+(1) 50/50 Joint Venture on plants 7 through 
+13, which accounts for 27% net of full 
+Sherwood Processing Facility 
+ANTERO MIDSTREAM  / 11
+REPORT HIGHLIGHTS
+2025 GOALS  
+Continued Environmental Improvement
+STRONG Governance Gender Diversity
+Proactive Engagement with 
+Shareholders Regarding  
+ESG Performance and  
+Management Compensation Formed ESG Committee  of 
+Board to Guide and Govern 
+ESG Initiatives66.7%100% Reduction  in pigging 
+emissions by 2025
+22% of Directors, SVPs, and VPs including Head of 
+Operations, Head of Geology, Chief Accounting 
+Officer, and General Counsel are Female  33% of Independent Directors are Female
+COMMUNITY Engagement
+Contributed $570,000  to Community  
+and Civic Organizations in 2019Independent Directors
+3,200 Employee Hours Volunteered in 2019Align with TCFD  
+and SASB Guidelines
+ANTERO MIDSTREAM  / 12
+REPORT HIGHLIGHTS
+0.017% in 2019  
+One of the Lowest Methane 
+Leak Loss Rates  in the IndustryOne of the Lowest GHG 
+Emission Intensity Metrics   
+in the Industry in 2019
+7,556  Employee  
+Safety Training Hours  in 201988%  of Total Produced Water 
+Gathered was Reused0.055 Lost Time Incident Rate  
+in 2019, one of the Lowest in the Industry
+6 Straight Years  Without an 
+Employee Lost Time Incident100%  of Freshwater Supplied was 
+Transported by PipelineWater Pipeline Eliminated  
+590,000 Truck Trips  in 2019
+6 yrs
+ANTERO MIDSTREAM  / 13
+SUSTAINABILITY LEADERSHIP , STRATEGY , & GOVERNANCE
+Our forward-looking, beyond-compliance, and proactive approach allows us to assess 
+and manage risks and opportunities effectively. Management employs prospective 
+strategies to mitigate risks and reduce the impact on people, the environment, and 
+the community. The company relies upon technical expertise and an experienced 
+employee base to drive solutions and innovation related to risks and opportunities. 
+In 2019, we continued to focus on managing greenhouse gas emissions and  
+recycling produced water from Antero Resources’ operations to reduce freshwater  
+use, as well as the health and safety of our employees and the public. We focused  
+on enhancing our safety and environmental management systems and continued 
+open, honest, and transparent dialogues with our shareholders, communities,  
+industry peers, and regulators. Our plan for 2020 includes continued improvement  
+of our management systems, developing a disclosure strategy to align with both 
+the Task Force for Climate-related Financial Disclosures (TCFD) guidelines and 
+the Sustainability Accounting Standards Board (SASB). Governance of ESG issues, 
+including climate-related risks and opportunities, are delegated to the newly formed 
+ESG Board Committee.
+ANTERO MIDSTREAM  / 14
+OUR LEADERSHIP
+HSSE leadership at Antero starts at the very top of the organization, with executives and 
+senior management driving the HSSE culture of the company. A focus on health, safety, 
+security, and preservation of the environment (HSSE) puts people and the community 
+first. It is the right thing to do and also makes good business sense. Dedicated 
+environmental stewardship and a strong safety culture reduces risk and enhances 
+productivity. We have earned a reputation as a safe and environmentally responsible 
+operator through continuous emphasis on our HSSE performance. This reputation also 
+makes Antero an employer of choice in Appalachia.
+SUSTAINABILITY LEADERSHIP , STRATEGY , & GOVERNANCE
+THE CORPORATE SUSTAINABILITY COMMITTEE (CSC) 
+REVIEWS AND PROVIDES FEEDBACK ON HSSE INITIATIVES 
+TO DRIVE IMPROVEMENT IN OUR EVOLVING SAFETY AND 
+ENVIRONMENTAL WORK PRACTICES FOR EMPLOYEES  
+AND CONTRACTORS.
+ANTERO MIDSTREAM  / 15
+Corporate and field senior staff members, including the Chairman/CEO and  
+President/Director for Antero Midstream, congregate weekly in an Antero operations 
+meeting which begins with reviews of Antero HSSE incidents, incident rates, and 
+initiatives. The tone for our safety culture and environmental sensitivity is set at the  
+top of the organization. 
+Antero’s senior management is active in several committees, such as the Corporate 
+Sustainability Committee (CSC) and the Field HSSE Committee (FHSSEC). The CSC 
+consists of the Chief Administrative Officer/SVP of Appalachian Region, SVP of 
+Production, VP of Operations, VP of HSSE, along with other key senior staff. The CSC 
+committee reviews and provides feedback on our HSSE initiatives to drive improvement 
+in our evolving safety and environmental work practices for employees and contractors. 
+The CSC meetings are well attended and occur quarterly. 
+The Field HSSE Committee consists of thirty key senior field staff who are responsible 
+for reviewing and updating new programs and technology in support of Antero’s 
+commitment to achieving the best safety and environmental practices in the industry. 
+This Antero committee meets once a quarter to review relevant items from Antero’s safe 
+and environmental work practices, management of change, safety and environmental 
+data systems, and key leading and lagging performance indicators. The Field 
+Committee and VP of HSSE presents new initiatives to the CSC for approval.
+ANTERO MIDSTREAM  / 16
+OUR STRATEGY
+Commitment to the health and safety of our employees, security of our assets, and 
+preservation of the environment are all core values of our organization and essential  
+to our ability to add sustainable value as a business. We focus on maximizing 
+shareholder value while maintaining a heavy commitment to health, safety, security,  
+and the environment.
+Antero Midstream is committed to the following:
+  Conducting our business in compliance with applicable health, safety, and 
+environmental (HSE) laws, rules and regulations 
+ Using natural resources and energy efficiently
+  Expecting every employee and contractor working for, and on Antero Midstream’s 
+behalf, to share our values and commitment to Zero Incidents, Zero Harm,  
+Zero Compromise 
+  Proactively working and operating to protect our people, the community, the 
+environment, and our assets 
+  Empowering employees through our HSSE Leadership model which encourages 
+people to speak up about safety, security, and environmental concerns and take 
+responsibility for their actions through our Stop Work Authority program
+  Implementing and monitoring continual improvement workflows necessary to create 
+quantifiable, resilient HSSE programs (the “HSSE Management Systems”) 
+  Investing in HSSE training and coaching, promoting risk assessments, and 
+encouraging visible HSSE leadership 
+SUSTAINABILITY LEADERSHIP , STRATEGY , & GOVERNANCE
+ANTERO MIDSTREAM  / 17
+  Reducing emissions, releases, and increasing efficiency by evaluating and 
+implementing new technologies while continually improving our designs  
+and workflows
+  Maintaining emergency preparedness systems and Crisis and Field Incident 
+Management Teams (IMT)
+ Monitoring and reporting sustainability performance regularly
+  Conducting routine assessments and inspections to assess and improve  
+our performance 
+  Minimizing waste at the source and, when generated, to handle such waste in  
+an environmentally safe and compliant manner
+  Engaging with investors, customers, employees, contractors, local communities, 
+regulatory agencies, surface and mineral owners, and peers to provide an 
+opportunity for transparent dialogue, information sharing, and problem solving
+Our risk management process involves a review of short and long-term risks. Quarterly, 
+the risk lead for each department identifies new risks and previously identified risks and 
+proposed mitigation actions, and presents them for approval by the department vice 
+president or senior vice president. Upon approval, the Internal Audit, Compliance, and 
+Risk Department compiles all risks for tracking purposes. Annually, we discuss long-term 
+risks with the executive team and incorporate them into the company risk register. We 
+present a full update of short and long-term risks to the Board of Directors regularly and 
+have more substantive conversations with the Board on a specific risk area at least three 
+times in a year. 
+ANTERO MIDSTREAM  / 18
+CORPORATE GOVERNANCE
+Antero’s corporate governance foundation is laid in its Certificate of Incorporation;  
+By-Laws; Audit, Compensation, Nominating and Governance and ESG Board  
+Committee Charters; and in its Corporate Code of Business Conduct, its Financial  
+Code of Ethics and its Corporate Governance Guidelines, each of which are publicly 
+available on our website. 
+The Board of Directors of Antero Midstream has delegated advisory authority to the 
+Environment, Sustainability, and Social Governance (ESG) Committee, a committee of 
+independent directors appointed by the Board on matters relating to ESG, including 
+climate-related risks. The purpose of the ESG Committee is to: 
+  Provide guidance to the Company and its Board on matters relating to the 
+identification, evaluation and monitoring of environmental sustainability,  
+corporate citizenship and social and political trends, issues, and concerns
+  Oversee and provide advice on improvements to corporate sustainability or  
+other public policy initiatives, policies, and practices to enhance its alignment with, 
+and promote the achievement of, the Company’s strategy in a manner consistent 
+with its values
+  Advise the Board and management on significant public policy issues that are 
+pertinent to the Company and its stakeholders
+The ESG Committee meets regularly throughout the year. 
+Members: 
+Brooks Klimley – Chair  |  Janine McArdle  |  John Mollenkopf
+SUSTAINABILITY LEADERSHIP , STRATEGY , & GOVERNANCE
+ANTERO MIDSTREAM  / 19
+COMMUNITY & STAKEHOLDER ENGAGEMENT
+Antero’s economic impact in North Central West Virginia and Southeast Ohio is 
+significant. With 276 direct employees and more than three-thousand contract 
+personnel, the company is a meaningful contribution to regional employment. Further, 
+Antero paid $680 million in royalties and lease bonuses, and $121 million in severance, 
+ad valorem and sales tax in 2019 – enabling state and municipal governments to provide 
+needed services to West Virginians and Ohioans. 
+Antero is committed to generating solutions to community issues, promoting economic 
+opportunities, and building relationships with people in the communities where we 
+operate to help those communities develop and thrive. Antero’s senior management 
+team proactively responds to concerns logged in a dedicated system for monitoring 
+social issues. We expect our employees to be kind, courteous, and good neighbors to 
+those in the community. 
+A high level of engagement with our customers, employees, contractors, local 
+communities, regulatory agencies, surface and mineral owners, shareholders and 
+bondholders, and peers is critical to our success. Open dialogue with our stakeholders 
+about important issues creates opportunities for information sharing and problem 
+solving. The following are ways we maintain and build stakeholder engagement:
+  Antero provides investors, via our website, with financial presentations, SEC 
+filings, and press releases. Antero senior management attends equity and bond 
+conferences, meets with institutional investors, and communicates to investors 
+interested in sustainability issues. Antero’s Investor Relations team maintains  
+contact with investors on an ongoing basis and responds to customer requests  
+for sustainability information.
+ANTERO MIDSTREAM  / 20
+  Antero engages contractors through daily tailgate meetings, site orientations, 
+recognition programs, training, and performance management through a vendor 
+management service. Antero holds an annual Contractor HSSE conference in West 
+Virginia to provide relevant training, new HSSE initiatives, and recognition for 
+performance to our contractors and vendors. Antero held a hands-on Environmental 
+workshop for its contractors in 2019 to focus on sustainability and regulatory 
+compliance issues.
+  Our communities include emergency management agencies (EMAs), residents, 
+and elected officials. We promote transparency by providing tours of our facilities 
+to local and state officials, including active drilling and completion operations. We 
+meet regularly with EMAs to discuss emergency preparedness plans and conduct 
+drills. Antero has donated emergency response equipment to EMAs. For the past 
+several years, we sponsored the Emergency Management Association of Ohio 
+spring conference. 
+  Antero meets with local, state, and federal regulatory agencies regularly. Our 
+engagement includes discussing regulatory issues and sharing lessons learned  
+and current industry perspectives.
+  We work with state and local elected officials to serve their constituents through 
+job creation, environmental stewardship, and community development. We provide 
+technical marketing expertise to state development offices eager to capture 
+the downstream economic growth that comes from natural gas liquids. We sit 
+on boards, panels, and sponsor conferences, all working toward stimulating the 
+Appalachian economy. 
+ANTERO MIDSTREAM  / 21
+  Antero employees serve on local county oil and gas task forces. Some examples of  
+local task force initiatives include operational traffic curfews to avoid interacting with 
+school bus traffic on local roads, traffic planning programs, provision of pilot vehicles 
+to guide traffic on rural roads, and road repairs. 
+  Feedback received from our 24/7 hotline goes to our Community Relations team for 
+review and resolution. Antero implements operational best practices in response 
+to community feedback. Examples include the restricted use of Jake brakes by 
+commercial vehicles, the placement of flaggers and escort vehicles in high volume 
+traffic areas, and the use of dust suppressant to mitigate dust on roads with heavy 
+traffic. Since 2013, Antero has spent over $200 million on local road maintenance 
+and upgrades. 
+  Before building any site, Antero’s land agents meet with surface owners to negotiate 
+their land use. Once agreements are in place, Antero conducts impact studies to 
+mitigate concerns such as light, noise, dust, vibrations, odor, and traffic in the design 
+of the site. Measures to combat those concerns include the installation of sound 
+walls and light shields, and the use of dust suppressant. 
+  Antero provides snow removal and ice control to many of the communities where 
+we operate, relieving some financial impact on local WVDOH and county offices. 
+Often, several pads are built off one access road, keeping drilling and completion 
+equipment moves on lease roads, and off state and local routes. When feasible,  
+we perform operations simultaneously to lessen the timeline for disruption in  
+the community.
+ANTERO MIDSTREAM  / 22
+Antero’s Community Relations hotline is a telephone and email system that collects 
+reports of issues such as noise, dust, speeding, road maintenance, and property 
+damage. Our hotline contact information is broadly distributed to surface owners,  
+at community events, on social media, and provided to our vendors. We make every 
+effort for a live representative to answer calls made to the hotline during regular  
+business hours, or return calls within 24 hours. Complaints are assigned to the 
+appropriate department for review and resolution. A site visit is often scheduled to 
+investigate further. Our Community Relations staff has broad authority to address 
+problems and dedicate resources. We consistently follow up with each caller to  
+discuss our response and resolution before closure. 
+We proudly invest in our communities and charitable and civic groups. Antero Midstream 
+donates to The Antero Foundation which has donated more than $570,000 to local 
+causes and organizations in 2019.
+ANTERO MIDSTREAM  / 23
+THEANTERO FOUNDATIONANTERO FOUNDATION
+The Antero Foundation was established to cultivate Antero’s rich history of charitable 
+giving. It focuses on expanding community involvement and cultivating new charitable 
+partnerships, while ensuring future giving aligns with Antero’s core values of protecting 
+our people, communities, and the environment.  
+Mission and Areas of Focus
+Mission:  We strive to build thriving and healthy communities by supporting nonprofit 
+organizations where Antero operates, and where our employees work and live.  
+Areas of Focus: Education, Community Development, Health and Human Services, 
+Environmental Causes, Arts, and Culture.
+Geographic Focus: We focus our giving on communities located in West Virginia and 
+Ohio. Additional geographic areas may be added from time to time, should Antero’s 
+operational area diversify, and as determined by our Board of Directors. 
+HISTORICAL GIVING  FUTURE Giving
+Antero Historical Giving:   Approximately $500,000 annually  
+$2.0 million over previous four year period
+$100,000$400,000
+$200,000$500,000
+$300,000$600,000$700,000
+2016 2017 2018 2019$570,000 $630,000
+$390,000$450,000Arts and Culture  
+$410,000Environmental Causes  
+$160,000
+Health and Human Services  
+$530,000Education  
+$500,000Community Development  
+$440,000
+THEANTERO FOUNDATION
+ANTERO MIDSTREAM  / 24
+ENVIRONMENT
+Stewardship of the environment is a fundamental value in our overall business 
+strategy. We strive to:
+  Proactively manage environmental risks and hazards, and achieve or exceed 
+regulatory compliance to protect and respect the communities and resources 
+where we operate
+ Minimize our impacts on the environment and natural resources 
+  Improve overall performance by utilizing a plan-do-check-act model, core to our 
+environmental management system 
+  Actively work with the regulatory community, industry trade associations, and the 
+localities where we operate, to achieve beneficial environmental outcomes 
+ANTERO MIDSTREAM  / 25
+Antero has implemented an Environmental Management System (EMS), influenced by 
+the ISO 14001:2015 standard, establishes requirements for managing environmental 
+risks and compliance requirements. Antero’s management fully supports the EMS, which 
+applies to all employees and contractors working for, or on behalf of, Antero. The EMS is 
+a constantly evolving tool for Antero.
+As part of the plan-do-check-act process, we focused our improvements to the EMS 
+on measuring overall environmental performance and providing weekly updates to 
+management on environmental and regulatory targets, established by Antero’s  
+senior management. Environmental and regulatory metrics and targets including 
+greenhouse gas metrics are part of our EMS. 
+The EMS has 11 elements, which are: 
+1. Environmental Leadership, Compliance, and Commitment  
+2. Organization, Roles, and Responsibilities 
+3. Risk and Hazard Assessment/Risk Registers 
+4. Incident Reporting and Investigation  
+5. Training and Competency  
+6. Document Management 
+7. Emergency Preparedness and Planning 
+8. Communication Planning  
+9. Environmental Compliance Program  
+10. Standard Operating Procedures and Guidance  
+11. Performance Measurement and Evaluation 
+Employees can view and access the Environmental Management System via the 
+company’s intranet. 
+ENVIRONMENTENVIRONMENTAL MANAGEMENT SYSTEMS
+ANTERO MIDSTREAM  / 26
+Risk and Hazard Assessment/Risk Registers
+Our risk and hazard assessment programs document potential environmental and 
+regulatory risks for each phase of operation in the our risk register. Antero’s proprietary 
+risk matrix quantifies potential risks and impacts to our employees, contractors, assets, 
+and communities. Antero uses the risk matrix during a risk assessment to define the level 
+of risk by considering the probability against the severity of the consequence. The risk 
+matrix is a simple mechanism to increase the visibility of risks and assist management 
+decision-making. 
+Incident Reporting System
+Environmental and near miss incidents are reported and tracked in our incident 
+reporting system per the requirements of the incident reporting system detailed under 
+the Health & Safety section. 
+We identify factors that contribute to the incident and develop a comprehensive plan  
+with corrective and preventive actions to prevent reoccurrence.  
+We track regulatory agency interactions in our incident management system. We 
+define regulatory agency interactions as interactions with a regulatory agency that 
+are proactive in nature, or have resulted in a request for corrective action. Tracking 
+and trending this information allows us to evaluate the issue and apply corrective and 
+preventive actions across our operations. This information is presented to the CSC 
+quarterly as part of our overall HSSE performance metrics. 
+ANTERO MIDSTREAM  / 27
+Training
+Antero conducts extensive training on relevant environmental and regulatory subjects. 
+Our subject matter experts receive and conduct training in their area of expertise. 
+We provide training across operations and other ancillary service teams to provide 
+an understanding of what is required and how to assure compliance. The HSSE team 
+conducts training and provides regular updates to its contractors and employees at 
+tailgate, weekly, monthly, and annual meetings. In 2019, the Environmental team held a 
+field workshop for its contractors to review requirements, best practices, and evaluate 
+performance towards our environmental goals. 
+Emergency Preparedness and Planning
+Our HSSE teams work collaboratively on emergency preparedness and planning and 
+utilize the same processes and procedures identified under the Health & Safety section. 
+Environmental team members are often first to respond to spills and releases. We 
+conduct and participate in emergency response scenario drills with regulatory agencies, 
+local EMAs, and other operators. Antero has placed spill equipment throughout its 
+operational area to allow for a swift response and environmental impact mitigation. 
+ANTERO MIDSTREAM  / 28
+Contractor Compliance
+Antero’s Contractor Compliance Program strives to verify work performed at Antero 
+sites meet Antero HSSE minimum expectations. Antero collaborates with a leading third-
+party data management service to collect and evaluate environmental and regulatory 
+compliance information from our contractors. We apply our unique risk profile and 
+grading specifications to the data to review contractor performance against Antero’s 
+expectations.
+Per master agreements, Antero requires that each contractor and service provider 
+are fully compliant with their own environmental risk, hazard mitigation, and incident 
+management programs, and have policies in place to ensure their compliance with 
+relevant environmental laws prior to performing work for Antero.
+ANTERO MIDSTREAM  / 29
+Antero is focused on managing and reducing its greenhouse gas and air pollutant 
+emissions. We participate in voluntary emission reduction programs, report our 
+emissions of greenhouse gases (GHGs), including methane, criteria and hazardous air 
+pollutants, and continuously evaluate the feasibility of emission control and mitigation 
+technologies to be implemented across our operations.
+In 2019, we reported our GHG and methane emissions to our management and board  
+of directors. The commitment and oversight of our executives drive our actions to 
+reduce and mitigate emissions and climate-related risks. We reported a climate-related 
+risk discussion in our Form 10-K.
+We set a goal of reducing 100% of our pigging emissions by 2025. These goals will be 
+achieved through the implementation of operational improvements, work practices, 
+technologies, and through the purchase of carbon credits. In 2020, we plan to integrate 
+climate-related risks into our existing risk management system and align our disclosures 
+with the Task Force for Climate-related Financial Disclosures (TCFD) guidelines and the 
+Sustainability Accounting Standards Board (SASB) framework. EMISSIONS
+ENVIRONMENT 
+ANTERO MIDSTREAM  / 30
+Despite increases in gas throughput, our GHG emissions intensity and methane leak loss 
+rate remains steady from 2016 to 2019. As discussed in more detail under the Leaders 
+in Emission Reduction section, Antero’s leak loss rate is impressive when compared 
+to industry peers. We attribute these results to our commitment to GHG emission 
+reduction practices.
+1.  The GHG Emissions Intensity ratio is calculated by dividing the metric tons of CO2e reported to the EPA under Subpart W by  
+MMscf gas sold. 
+2.  The methane leak/loss rate is calculated by dividing methane emitted by the methane transferred. The methane leak loss rate 
+represented in this report conforms with the ONE Future calculation protocol.
+3. GHG Emissions Intensity does not include emissions from the Antero Clearwater Facility. GHG & AIR POLLUTANT EMISSIONS
+ENVIRONMENT / EMISSIONS
+Table 1: GHG Emissions IntensitY
+2016 2017 2018 2019
+GHG Emissions Intensity metric tons CO2e/MMscf sold1,3
+1.65 1.81 1.57 1.81
+Methane Leak Loss Rate2,3 
+0.018 % 0.016 % 0.015 % 0.017 %
+Gas Sold MMscf
+260,346.50 424,469.40 615,425.70 766,869.80
+ANTERO MIDSTREAM  / 31
+Scope 1 emissions are a result of our gathering and transporting of natural gas. 
+They are direct emissions that occur at our compressor station facilities. Antero 
+reports under the EPA’s Greenhouse Gas Reporting Program (GHGRP). As part of 
+the requirement, Antero discloses Scope 1 direct GHG emissions covered under 
+the GHGRP at a basin-wide level (Appalachian Basin and Appalachian Basin Eastern 
+Overthrust) to EPA. Antero reports methane emissions as part of total organic 
+compounds released to the Ohio EPA. We calculate emissions using a combination 
+of actual measurements, engineering calculations, and emission factors as required 
+by each reporting program. The following table presents our total GHG Scope 1 
+emissions as CO2e, the applicable GHGs covered under the Kyoto Protocol, along with 
+other metrics requested in SASB EM-MD-110a.1. 
+Table 2: GHG Scope 1 (SASB EM-MD-110A.1)
+2016 2017 2018 2019
+Total GHG Scope 1 Emissions1,2,3,4 metric tons CO2e 428,835 766,750 1,031,110 1,462,632
+Total Carbon Dioxide (CO2) Emissions metric tons CO2e 408,829 738,108 994,964 1,412,304
+Total Methane (CH4) Emissions metric tons CO2e 19,772 28,234 35,602 49,548
+Total Nitrous Oxide (N2O) Emissions metric tons CO2e 233.6 408.4 544.5 780.2
+% Gross Scope 1 Emissions from Methane 4.6 3.7 3.5 3.4
+% of Emissions Covered under Emission Limiting Regulation 3.7 3.0 6.9 5.6
+1. IPCC 4AR GWP.
+2.  Total GHG Scope 1 emissions are based on emissions reported to the EPA under 40 CFR Part 98 Subpart W. 
+3. Antero does not emit hydrofluorocarbons, perfluorocarbons, sulfur hexafluoride, and nitrogen trifluoride. 
+4. GHG Scope 1 emissions include those that are a result of operating the Antero Clearwater Facility in 2018 and 2019. 
+ANTERO MIDSTREAM  / 32
+The trend in increased GHG Scope 1 emissions is a direct result of our infrastructure 
+growth, which involves the addition of more compressor stations and compressor engines. 
+Antero Midstream’s 2019 Scope 1 emissions can be broken down into five categories: 
+combustion, process emissions, vented emissions, fugitive emissions, and flared 
+hydrocarbons. Figure 7 shows the breakdown of emissions in each category. 
+The main source of Scope 1 emissions is from the combustion of fuel to drive our 
+compressor engines. 
+Antero’s short-term strategy to manage Scope 1 emissions includes: 
+  Our GHG/methane reduction team meets quarterly to discuss emission  
+reduction opportunities 
+  Subject matter experts stay abreast of leading technologies and research  
+from the science community
+Flaring  
+264 metric tons  
+0.02%
+Fugitives  
+1,227 metric tons  
+0.08%Venting    
+3,884 metric tons  
+0.28%
+Combustion   
+1,376,635 metric tons  
+94.12%Process  
+80,622 metric tons  
+5.51%Figure 7: 2019 Scope 1 Emissions (CO2e)
+ANTERO MIDSTREAM  / 33
+  Participation in voluntary emission reduction programs
+ Monitoring of state and federal regulations
+We have explored and implemented multiple emission reduction initiatives due to 
+the efforts outlined above. We provide a list detailing the results under the Emission 
+Mitigation Efforts  section. (SASB-EM-MD-110a.2.)
+Scope 2 emissions are a result of the electricity usage required to power Antero’s 
+operations. A third party entity, typically a utility, generates these emissions at their 
+facility. A summary of our Scope 2 emissions for the previous three years is in the  
+following table. 
+Scope 3 emissions are a result of consumer use of our product, as well as other indirect 
+emissions that occur as part of our supply chain. Antero is currently evaluating its 
+Scope 3 emissions to provide in future reports. 
+Table 3: GHG Scope 2 Emissions
+2017 2018 2019
+Total GHG Scope 2 Emissions metric tons CO2e1,217,911 31,649 32,935
+1. World Resources Institute GHG Protocol: Scope 2 Guidance.
+2. eGRID2018 average emission factors. 
+ANTERO MIDSTREAM  / 34
+Antero operations emit criteria and hazardous air pollutants (HAPs). Table 4  
+summarizes these emissions. We calculate our emissions using engineering calculations, 
+emission tests, process simulations, and EPA AP-42 emission factors.
+ Table 4: Air Quality Emissions (SASB EM-MD-120a.1)
+2019
+NO x Emissions metric tons 687
+SOx Emissions metric tons 5
+VOC Emissions metric tons 607
+PM10 Emissions metric tons 143
+HAP Emissions metric tons 63
+Antero’s strategies to reduce VOC emissions are the same as those to reduce methane 
+emissions because we are controlling both pollutants in the same manner. Our reduction  
+efforts for the remaining criteria and hazardous air pollutants include identifying 
+operational efficiencies and taking emission sources out of service as soon as they are  
+no longer needed. 
+Zero percentage of our air emissions are in, or near areas of dense population because 
+our operations are located in rural areas of West Virginia and Ohio. For this analysis, 
+Antero compared the counties in which we operate with counties defined as part of a 
+metropolitan statistical area, as defined by the Office of Management and Budget, and 
+there is no overlap (at the time of that analysis).
+ANTERO MIDSTREAM  / 35
+In 2018, Antero Midstream became a member of ONE Future. 
+ONE Future is an industry collective focused on voluntarily 
+reducing methane emissions across the natural gas supply 
+chain, to lower emissions to 1.0% or less of total natural gas 
+production by 2025. ONE Future’s target is a science-based 
+methane emission intensity target. The target seeks to ensure 
+that fuel switching to natural gas will create GHG reduction benefits. Antero’s methane 
+leak loss rate was at 0.017% in 2019, which is well ahead of the ONE Future cumulative 
+LEADERS IN EMISSION REDUCTION
+ENVIRONMENT / EMISSIONS
+Antero demonstrates its commitment to methane mitigation and reducing climate 
+change risks by actively participating in voluntary programs that focus on reducing 
+emissions: EPA Natural Gas STAR Program and ONE Future. 
+Antero joined the EPA Natural Gas STAR Program in 2017. By joining the EPA program, 
+we expanded our commitment to evaluate and implement methane reduction projects. 
+We transparently report voluntary reductions of methane emissions and participate in 
+information sharing and technology transfer by working with our peers to keep up with 
+industry trends.
+ANTERO MIDSTREAM  / 36
+1%
+0.08%
+0.03%0.017%Figure 8: Methane Leak Loss Rate
+OF Industry Target 2025
+Gathering and Boosting Sector Target2018 OF Gathering and Boosting Sector Avg.
+AM 2019LEADERS IN EMISSION REDUCTION
+ENVIRONMENT / EMISSIONS
+industry goal of 1.0% and the gathering and boosting segment goal of 0.08% by 
+2025. At 0.017%, Antero out performed above their industry peers in 2018 who had an 
+average intensity of 0.03%. ONE Future releases an annual report that is available for 
+public review here . 
+ANTERO MIDSTREAM  / 37
+Leak Detection and Repair: 
+Our methane and air emission controls include a robust leak detection and repair 
+(LDAR) program. We repair detected leaks found during periodic inspections promptly 
+to minimize emissions. Antero has committed to conducting LDAR surveys at all of our 
+compressor stations quarterly. In cases where the station is not subject to New Source 
+Performance Standard OOOOa, this commitment exceeds federal requirements. The 
+LDAR program inspections utilize a state-of-the-art Optical Gas Imaging Forward-
+Looking Infrared Radar camera to identify leaks. We employ one full-time technician 
+to conduct and record the results of the LDAR inspections. This technician is trained 
+as a compressor station operator. This background allows him to typically repair leaks 
+identified during the inspection, thereby eliminating emissions as quickly as possible. 
+If the repair cannot occur during the inspection, the leak is tracked in our maintenance 
+ticketing software and is repaired as soon as practicable, but no later than 30 days, 
+unless there is justification for placement on our Delay of Repair list. Antero conducts 
+quarterly LDAR inspections at 100% of its compressor stations. In 2019, 90 LDAR surveys 
+were conducted, 95% of leaks identified were repaired during the inspection, and the 5% 
+of leaks that could not be fixed immediately were repaired on average within one day.
+Reduced Truck Traffic:
+As discussed in more detail in the Water Management section, Antero Midstream has 
+reduced truck traffic significantly over the years through an extensive freshwater delivery 
+system and utilizing the Pioneer Blending Facility. In turn, the reduced truck traffic has 
+eliminated 405 metric tons of CO2e emissions in 2019. That is equivalent to the amount 
+of carbon sequestered by 529 acres of U.S. forests in one year, according to the EPA 
+equivalency calculator. EMISSION MITIGATION EFFORTS
+ENVIRONMENT / EMISSIONS
+ANTERO MIDSTREAM  / 38
+Additional GHG Mitigation Efforts:
+  Air actuated pneumatic control valves are utilized at 96% of facilities. The remaining 
+4% of sites have gas-operated pneumatics and are being evaluated for retrofit 
+ 96% of compressor engine starters are outfitted with air driven starters 
+  Upgraded glycol dehydration systems to optimize recirculation rates while reducing 
+flash tank separators vapors
+  Hot taps and pipeline pump down techniques are utilized that lower pipeline 
+pressure and capture gas volume before maintenance
+  Pilot testing the use of LDAR surveys conducted by drones and aircraft at 
+compressor stations and along the pipeline rights of way 
+ Reviewing solutions to recover gas from pigging operations
+ Injecting blowdown gas into the fuel system at new compressor stations
+  Exploring the use of electric compression at future stations beyond 2022,  
+where feasible 
+ Reviewing thermal oxidizer efficiency 
+Antero’s GHG/Methane Reduction team, comprised of company leaders across different 
+functional groups, reviews, analyzes, and determines whether emerging methane 
+detection and quantification technologies can be implemented, best management 
+practices, and new reduction technologies applicable to midstream operations. The 
+standing agenda includes a discussion and status update of previously identified 
+opportunities, new and emerging mitigation opportunities to explore, an update on our 
+reporting and volunteer commitments, and a discussion on climate-related risks.
+ANTERO MIDSTREAM  / 39
+We are working to make our operations more efficient while providing a cleaner source 
+of energy to our customers. Antero utilizes energy sources, including electricity, natural 
+gas, and diesel for its compression, treatment, and transportation operations. 
+1.  2018 data has been updated from the previous report to represent better available data and utilize a more representative 
+calculation methodology. ENERGY USE
+ENVIRONMENT
+Table 5: Energy Use
+201812019
+Total Energy Use (GJ) 14,744,796 20,752,267
+   Non-Renewable 14,733,480 99.92 % 20,726,693 99.88 %
+   Renewable 11,317 0.08% 25,574 0.12%
+Total Electrical Use (kWh) 59,411,574 61,829,972
+   Non-Renewable 56,268,016 94.71 % 58,566,561 94.72 %
+      Coal 44.40 % 44.40 %
+      Natural Gas 21.02 % 21.01 %
+      Oil 0.30% 0.30%
+      Other Fossil 0.70% 0.70%
+      Nuclear 28.19 % 28.21 %
+      Unknown or Purchased Fuel 0.10% 0.10%
+   Renewable 3,143,558 5.29% 3,263,411 5.28 %
+      Biomass 0.60% 0.60%
+      Wind 3.64% 3.64%
+      Solar 0.11% 0.10%
+      Hydro 0.94% 0.94%
+   Consumed Energy from the grid 1.45% 1.07%
+ANTERO MIDSTREAM  / 40
+Antero highly values streams and wetlands, rare, threatened, or endangered species, 
+and cultural resources. We strive to contribute to the maintenance of healthy and diverse 
+ecosystems and communities in the areas where we operate. Our natural resources and 
+biodiversity policy outlines our approach and framework for assessing projects in areas 
+of high ecological and cultural importance to ensure that management of biodiversity 
+is integrated into our project development and operations throughout their lifecycle. 
+We are committed to continuously assessing and managing our environmental risks 
+to minimize impacts on the diverse ecological systems that exist where we operate, in 
+accordance with the applicable regulatory requirements and through the implementation 
+of one or more of the following approaches:
+  Avoidance – We evaluate proposed project scopes to identify avoidance options 
+by working with the surface owner(s), design, and construction teams to consider 
+primary and alternative locations and scope and/or timing of project construction 
+to avoid impacts to a vulnerable species and/or sensitive ecosystems. We survey 
+medium to high probability areas for potential cultural sites and avoid identified sites.
+  Minimization – We evaluate minimization options by working with the landowner, 
+design, and construction teams to consider proposed project constraints that 
+may require primary and alternative locations and scope and/or timing of project 
+construction to avoid impacts to a vulnerable species and/or sensitive ecosystems  
+and known cultural sites, when possible. To the extent possible, projects are 
+designed to utilize existing rights-of-way and avoid biologically diverse, protected,  
+or other sensitive areas. 
+  Restoration – During planning and post-construction, we work with the surface 
+owner(s) to conduct on-site restoration to the extent practicable, to reestablish an 
+ecosystem’s composition, structure, and function to maintain a healthy state.NATURAL RESOURCES & BIODIVERSITY
+ENVIRONMENT
+ANTERO MIDSTREAM  / 41
+  Mitigation – We develop and achieve measurable conservation outcomes that 
+can mitigate unavoidable impacts after appropriate avoidance, minimization, and 
+restoration measures have been applied.
+In the planning, development, and construction process, Antero takes measures to:
+  Understand and comply with laws and regulations intended to protect and preserve 
+the ecosystems in which we operate, including the requirements to conduct 
+baseline studies and impact assessments
+  Train employees on the importance of environmental protection and provide 
+information on the species or habitat sensitivities on the location or project which 
+they are working
+  Engage with stakeholders on biodiversity issues pertaining to our proposed, new, 
+and ongoing operations
+  Implement industry best practices and lessons learned from previous projects
+In the pipeline planning process, the pipeline route selection process is iterative and 
+typically starts with a wide corridor of interest between two fixed start and end points 
+and then narrows down to a more defined route at each design stage as more data is 
+acquired, to a final ‘right of way’. Antero’s Midstream project team, who reviews and 
+considers public safety, pipeline integrity, environmental impact, social, economic, 
+technical environmental grounds, constructability, land ownership, access, regulatory 
+requirements, and cost, conduct this process. The shortest route might not be the most 
+suitable, and physical obstacles, environmental constraints and other factors may dictate 
+routing to minimize the need or potential impacts of the line.
+ANTERO MIDSTREAM  / 42
+Antero evaluates the impacts of projects in critical habitats or other areas with 
+recognized high biodiversity value and High Conservation Value areas. Managing 
+the environmental footprint of our pipelines, gas gathering facilities, water handling, 
+and treatment assets is a constant focus of our efforts to be an industry leader and 
+community partner in protecting our natural environment.
+We perform an extensive desktop analysis in the early planning stages utilizing the 
+project’s proposed limits of disturbance (LOD). We developed a checklist to document 
+the results of our project research. We utilize tools, regulations, and guidance provided 
+by regulatory agencies such as the U.S. Army Corps of Engineers, U.S. Environmental 
+Protection Agency, U.S. Fish and Wildlife Service (USFWS), West Virginia and Ohio State 
+Historic Preservation Office (SHPO), Ohio Environmental Protection Agency, WV Division 
+of Natural Resources (WV DNR), Ohio Department of Natural Resources (ODNR), WV 
+Department of Environmental Protection, WV DNR Office of Land and Streams, and 
+county floodplain ordinances. Antero evaluates an expanded area of interest (AOI) 
+beyond the proposed limits of disturbance of a project (e.g., 150 feet in both directions 
+from the outer limits of disturbance on linear projects and 150 feet from the outer limits 
+of disturbance of non-linear projects). Through this analysis, we consider and evaluate 
+the following:
+  Known aquatic features and hydric soils, utilizing the USFWS National Wetland 
+Inventory (NWI) and Natural Resources Conservation Service Web Soil Survey, 
+occurring within an AOI
+ANTERO MIDSTREAM  / 43
+  Threatened, endangered or otherwise protected species and their designated 
+critical habitat as defined in our Protected Species Matrix utilizing the USFWS 
+Information for Planning and Consultation online tool (IPaC) and our environmental 
+viewer, an internal environmental mapping tool, displaying state protected aquatic 
+species habitat locations occurring within an expanded AOI
+  Known cultural resource finds and other medium and high probability sites for 
+historic properties by utilizing historical aerial photographs, U.S. Geological Survey 
+(USGS) maps, our internal GIS viewer (which shows landscape types more likely to 
+have a high probability of cultural finds), and state SHPO viewers
+  Federal Emergency Management Agency data to determine if the project will be 
+located in a floodplain
+  How earthmoving and grading activity may affect stormwater runoff, in order to 
+develop erosion and sediment control plans to protect aquatic resources 
+  Whether the project LOD occurs in a Total Maximum Daily  
+Load (TMDL) watershed
+ State-protected waters
+  Sensitive areas or sites of concern identified during this stage of project planning
+Following the desktop analysis and upon receipt of landowner permission, we 
+conduct a field assessment to investigate and evaluate the aforementioned resources 
+further. During this subsequent investigation, a Qualified Wetland Professional (and, if 
+applicable, a protected species and habitat specialist and cultural resources specialist) 
+conducts a field assessment of the proposed project area. We maintain historical project 
+data in our internal environmental viewer and mapping system, which allows us to 
+ANTERO MIDSTREAM  / 44
+better plan for future project construction in our operational areas. When impacts are 
+unavoidable, we consult with the appropriate state and federal agencies on a permitting 
+strategy that incorporates minimization, restoration, and offsetting of potential impacts.
+Only 0.8% of the land owned, leased, and/or operated by Antero Midstream is within 
+areas of protected conservation status of endangered species habitat. We evaluated a 
+number of data sets for this determination, including available mapping of protected 
+mussels, aquatic buffers, NWI, IPaC analysis and terrestrial habitat preservation and 
+restoration from the WV Watershed Resources Registry. (SASB EM-MD-160.a.2)
+In addition to these efforts to protect threatened and endangered species, Antero 
+implements best management practices in all of our construction and development 
+activities. For example, when we cut trees for projects, they are stacked strategically 
+to enhance wildlife habitat. During the initial assessment and before construction, all 
+aquatic features are marked with flagging. We stabilize and reseed the right-of-ways with 
+seed mixes that provide habitat and food sources for wildlife. 
+Antero understands the importance of cultural resources. If there is a federal nexus 
+and we determine that sites exist, or have the potential to exist within our project area, 
+a third party, cultural expert performs a field survey. We then work with SHPO to first 
+avoid, and then minimize and offset impacts on cultural resources.
+Often, Antero goes beyond what is required by performing voluntary due diligence 
+on projects. At several sites, we have documented historic properties through local 
+interviews, architectural drawings, and written accounts. Artifacts found during Antero 
+ANTERO MIDSTREAM  / 45
+cultural surveys are documented and then returned to the landowners where they were 
+found. If the owner does not want to retain the artifacts, Antero curates and donates 
+them to West Virginia’s Grave Creek Mound Archeological Complex or the Ohio History 
+Connection for permanent curation.
+Antero created an inadvertent discovery plan that details what to do if cultural resources 
+are found during construction. The plan includes halting all work immediately, bringing 
+in a cultural expert to determine if the resources are historical, and consulting SHPO 
+guidance, if needed.
+ANTERO MIDSTREAM  / 46
+Our relationship with Antero Resources allows us to provide the necessary fresh and 
+recycled water for use in drilling and completion operations, as well as services to 
+recycle and reuse, or dispose of produced water resulting from those operations. 
+Antero Midstream has built an extensive network of 351 miles of freshwater pipelines 
+and 37 impoundments, delivering 197 thousand barrels of freshwater per day to Antero 
+Resources. Our infrastructure reduces the number of water trucks traversing local roads 
+in and around the communities where Antero operates. Additionally, during seasonal 
+dry periods, Antero’s freshwater impoundments provide an alternative source of 
+freshwater to alleviate stress on local streams and reservoirs. 
+Antero Midstream treated and blended water at a variety of locations in 2019 to provide 
+recycled produced water and flowback for use by Antero Resources in its drilling 
+and completions operations. Antero Midstream added the Pioneer Water Facility, a 
+water blending and recycling facility, and surface water lines to its water-recycling 
+infrastructure. Another benefit of the implementation of blending operations within 
+our active operating area is the reduction in the amount of water sent to injection for 
+disposal in 2019.
+Antero Midstream uses a limited amount of freshwater, primarily for construction 
+activities and dust suppression on access roads. WATER MANAGEMENT
+ENVIRONMENT / WATER RESOURCES & MANAGEMENT
+ANTERO MIDSTREAM  / 47
+Antero has been testing water sources near our operations for over a decade. The 
+protection of water quality within all areas of Antero operations is of the utmost 
+importance. Antero assesses groundwater quality before initiating midstream 
+construction activities. We sample domestic water wells, springs, ponds, or streams 
+within 150 feet from the centerline of buried waterlines and gas pipelines, a 300-foot 
+radius of the waterline and gas pipeline bores, a 1,000-foot radius of compressor 
+stations, and a 2,000-foot radius of centralized impoundments and pits in both West 
+Virginia and Ohio, none of which is required. Water samples are collected by third-party 
+environmental consultants and analyzed at state-certified laboratories. Water samples 
+are analyzed for a list of parameters that goes above and beyond the parameters 
+required by regulation in both WV and OH for water well sampling adjacent to oil and 
+gas well pads. Sample results are shared with the landowners, and records are archived 
+and maintained electronically by Antero. 
+Our Antero community relations hotline handles all complaints and concerns regarding 
+water quality. Antero’s practice is to respond to all water concerns by phone within  
+24 hours. If Antero and the landowner agree that additional testing is necessary, Antero 
+will conduct additional sampling of the water supply using a third-party environmental 
+consultant and a state-certified laboratory. WATER QUALITY
+ENVIRONMENT / WATER RESOURCES & MANAGEMENT
+ANTERO MIDSTREAM  / 48
+In 2019, Antero Resources implemented operational changes to increase the reuse  
+of produced water downhole in completion activities. Antero Midstream provided 
+localized mobile treatment facilities to treat and recycle produced water from Antero 
+operations. The treated water is blended with freshwater and transported through trucks 
+or pipeline infrastructure directly to an Antero Resources’ well pad for downhole use in 
+completion operations. 
+Antero Midstream also operates a limited number of centralized produced water pits 
+that were designed and built to robust regulatory standards including a dual liner 
+system with a leak detection layer, a network of groundwater monitoring wells, which  
+are sampled quarterly for a list of parameters beyond what is required by regulations.  
+A concrete containment with offload manifold to facilitate truck offloading reduces  
+the risk of spills and releases. Centralized produced water pits have fencing and bird 
+netting installed as a best management practice to protect migratory birds. These 
+facilities provide for additional storage of produced water that cannot be immediately  
+reused downhole.
+Volumes reported in the Produced Water Management section therein refer only to 
+produced water generated by Antero Midstream. Other facilities that generate or 
+receive liquids (ex. compressor stations) utilize closed top tanks and employ secondary 
+containment and perimeter berms to manage liquids onsite and reduce potential PRODUCED WATER MANAGEMENT
+ENVIRONMENT / WASTE MANAGEMENT & RECYCLING
+ANTERO MIDSTREAM  / 49
+impacts on the environment and wildlife. A summary of produced water generated by 
+Midstream Operations and the various methods of disposition is presented below. It 
+is essential to note the increasing trend in reused water volumes and a decrease in the 
+volume of water sent to injection since 2017.
+Antero Midstream’s produced water disposition is presented in Table 6. 
+Table 6: Antero Midstream PRODUCED WATER (thousand barrels) 
+West Virginia 249 356 143.6
+ Recycled 2.9 1% 17 5% 0.3 0.2%
+ Reused * * * * 18.1 12.6%
+ Offsite Disposal 0.8 0% 1 0% 0.3 0.2%
+ UIC 246 99% 338 95% 124.8 86.9%
+Ohio 19 44 7.8
+ Recycled 0.5 3% 0 0% 0 -
+ Reused * * * * 0 -
+ Offsite Disposal 0 0% 0.1 0% 0 -
+ Injection 18.5 97% 44 100% 7.8 100%
+ Antero considers produced water treated either at the centralized Antero Clearwater Facility or at local blending 
+treatment facilities as “Recycled” water.  
+Water taken directly to a well pad for use downhole, such as stormwater or water accumulated in secondary containment, 
+is included under the “Reuse” category.2017 2018 2019
+ANTERO MIDSTREAM  / 50
+Antero Midstream began tracking, recycling and reusing its own produced water 
+in 2019. This includes water generated at compressor stations, within secondary 
+containments around tanks, etc. This resulted in a reduction in over 100,000 miles of 
+truck traffic on local roads, and reduced CO2e emissions by 405.17 metric tons in 2019. 
+We are on track to recycle upwards of 99% of our produced water in 2020 and beyond. 
+Figure 10 shows the reduction in truck trips needed to dispose of Antero Midstream 
+generated produced water due to its increased produced water recycling and  
+reuse measures.
+Figure 9: Reduction in Truck Trips Due to Increased Produced Water Recycling and Reuse
+Trips Reduced % of Total Produced Water Recycled2019 Q1 2019 Q3 2019 Q2 2019 Q40%30%60%
+40090%
+1,000
+10%40%
+070%
+600100% 1,200
+20%50%
+20080%
+800
+ANTERO MIDSTREAM  / 51
+In the event of an incident, our spill response program includes a vast network of on-call 
+spill response contractors who promptly remediate any impacted areas.
+Our program includes:
+  Implementing SPCC plans in accordance with federal regulations to help prevent 
+and minimize the impacts of spills
+  Utilizing secondary and tertiary containment systems such as:
+  Polyethylene liners for water blending and recycling activities
+  Lined secondary containments for storage tanks and equipment
+  Double-walled tanks 
+  Catchments at load out areas 
+  Fluid recovery systems for pigging operations 
+  Skid-mounted compressors with skids capable of catching potential spills
+ Strategically placing Antero spill response trailers for large scale incident response
+  Creating Emergency Response Plans to streamline interactions with first responders 
+and emergency services during large scale incidences
+  Providing training to pertinent personnel on regulatory and internal  
+environmental programs
+ Setting goals and creating initiatives to reduce environmental incident rates
+  Using web-based programs to track environmental incidents and generate metrics 
+which can be utilized for continuous improvementSPILL PREVENTION, MANAGEMENT & PERFORMANCE
+ENVIRONMENT / WATER RESOURCES & MANAGEMENT
+ANTERO MIDSTREAM  / 52
+When spills occur, Antero responds by determining the source and type of the spill and 
+utilizes the following corrective actions:
+  Safely isolating and controlling the source of the spill 
+  Containing spilled material to prevent migration
+  Initiating remediation activities such as removal or treatment of  
+contaminated material
+  Analytical testing of soil/water, when necessary, to verify completion  
+of spill remediation
+  Reporting spills to agencies in accordance with local, state, and federal regulations
+  Disposal of contaminated materials in accordance with local, state,  
+and federal regulations
+  Internal documentation of incidents in web-based programs for reporting  
+and metric trending
+Antero Midstream utilizes the same incident management system as Antero Resources to 
+report, track, investigate, and mitigate environmental releases and other incidents. Spills 
+are tracked and ranked according to the actual and potential risk to the environment, 
+and based on severity, corrective actions, and lessons learned are developed and 
+communicated to stakeholders.
+Antero defines reportable spills as any spill, release, or discharge to the environment that 
+must be reported to a state or federal agency per the regulations. Antero’s spill rate is 
+defined as the volume of reportable spills over the total barrels of fluid handled. Antero 
+Midstream did not have any spills in the Arctic or in unusually sensitive areas.
+ANTERO MIDSTREAM  / 53
+Table 7: Antero Midstream Reportable Spills (SASB EM-MD-160.A.4)
+2017 2018 2019
+Total Spills 10 18 4
+ Produced Water 4 13 1
+ Hydrocarbons 3 3 1
+ Other 3 2 2
+Volume of Reportable Spills (barrels) 74.8 396.5 2.3
+Produced Water 72.4 272.6 0.2
+Hydrocarbons 0.3 4.6 0.4
+Other 2.1 119.2 1.7
+Total Barrels Handled Total Number of Spills Total Volume of Spills 
+(barrels)Spill Rate
+195,992,597
+165,464,330
+209,405,8742019
+2018
+20174
+18
+102.3
+396.5
+74.80.00000001%
+0.00024000%
+0.00000036%
+1. This table has been updated from previous reports to utilize a more representative calculation methodology.Table 8: Antero Midstream Reportable Spills1 (SASB EM-MD-160.A.4)
+ANTERO MIDSTREAM  / 54
+Special permits, mandates, and company responsibilities related to waste are developed 
+at the corporate level. Waste program details, such as standard operating procedures, 
+regulatory compliance, safe work practices, and vendor (e.g., supplier and contractors) 
+audits, are developed at the field level and approved at the corporate level to guarantee 
+quality and consistency. The inclusion of field level operational staff promotes a well-
+balanced platform to monitor and regulate waste on a daily basis.
+The typical waste hierarchy involves four steps: Identification & Source Reduction, 
+Recycle/Reuse, Treatment, and Disposal. Operations takes measures to eliminate, 
+minimize, or recycle waste streams with oversight provided by Antero’s HSSE 
+department. Data is collected and reported at the corporate level.
+Waste generated from Antero’s operations is characterized, managed and disposed 
+of in accordance with regulatory requirements. Waste streams are primarily treated, 
+recycled, or disposed of within the Appalachian Basin: West Virginia, Ohio, and 
+Pennsylvania. Each state’s regulatory requirements dictate the organization and 
+direction of the disposal process. The only instance when a waste is disposed of outside WASTE
+ENVIRONMENT / WASTE MANAGEMENT & RECYCLING
+Identification &  
+Source ReductionRecycle/Reuse Treatment DisposalThe waste hierarchy involves four steps:
+ANTERO MIDSTREAM  / 55
+of these three states has been for NORM/TENORM waste that exceeds the  
+acceptance criteria for oil and gas waste as defined by state-specific regulations.  
+These NORM/TENORM wastes are disposed of at approved facilities outside of  
+the Appalachian region. 
+Before onboarding and regardless of the type of waste, disposal facilities are subject 
+to a pre-approval process where subject matter experts perform an audit of regulatory 
+records. Antero representatives conduct routine site visits and audits of approved 
+disposal facilities. We use the results of the audit to extend or revoke the approval 
+status for a disposal facility.
+Antero tracks waste from cradle to grave, regardless of operational origin and 
+characterization. Non-hazardous waste manifests are generated at the point of origin 
+and signed by Antero representatives. Manifests identify the type and quantity of 
+waste, transportation company, final disposal facility, and require signatures to identify 
+the responsible parties. A “Bill of Lading” is used to track the same information as 
+the non-hazardous waste manifest. Antero’s permanent facilities at well locations are 
+equipped with electronic metering devices that send live data from the well sites to 
+confirm produced water volumes leaving the site. The non-hazardous waste manifests 
+and Bills of Lading are returned to Antero when the disposal facility submits its 
+invoices, which are filed in an Antero database.
+ANTERO MIDSTREAM  / 56
+Landfill volume includes salt placed in the Antero Landfill Facility. 
+Antero Midstream manages chemical waste on a case-by-case basis. Table 9: Antero Midstream Waste
+Hazardous Waste (tons) 0 0%
+Non-Hazardous Waste (tons) 319,561 100%
+ Landfilled 316,673 99.09%
+ Incinerated 0 0%
+ Injected 2,773 0.86%
+ Recycled/Reused 115 0.04%
+Recycled Waste Oil (bbls) 3,253.172019
+ANTERO MIDSTREAM  / 57
+In 2019, Antero Midstream began an oil-testing program to evaluate the efficiency of the 
+engines at our compressor stations. Through this program, we were able to extend the 
+life of the engine oil by double. The program has resulted in a reduction in the amount 
+of waste oil that needs to be recycled and the amount of filters requiring disposal. 
+Approximately 1,095 barrels of oil are no longer required, and 1,180 filters are not 
+landfilled. Antero’s Water Department implemented a similar program that eliminated 
+the need to landfill 900 oil filters, 900 water separator filters, and 900 fuel filters. This 
+also resulted in a reduction of 246 barrels of oil used. 
+Currently, Antero recycles waste oil that includes engine oil and condensate. RECYCLING
+ENVIRONMENT / WASTE MANAGEMENT & RECYCLING
+What Antero Recycles:
+Plastic water pipelines Batteries both from 
+operations and office use
+Office paper and general trashWaste oil
+E-waste  
+(Computers, cell phones, electronics)
+ANTERO MIDSTREAM  / 58
+HEALTH & SAFETY
+We sponsor emergency preparedness programs, conduct regular audits to assess 
+our performance, and celebrate our successes through the annual contractor HSSE 
+conference, where we acknowledge employees and contractors alike who have 
+exhibited strong HSSE leadership during the course of the year. These efforts combine 
+to create a culture of HSSE excellence throughout the company and positively influence 
+our contractor community. 
+Through our HSSE challenge coin program, Antero leaders acknowledge individuals or 
+groups that have demonstrated exceptional operation safety service, either in an office 
+or field environment. There are three levels of recognition in the program which include 
+peer to peer, supervisory, and executive level recognition.
+Antero meets periodically with contractors to review HSSE performance, collaboratively 
+solve problems, address public concerns, provide an open forum, and most 
+importantly, recognize our contractor’s dedication and commitment to upholding 
+Antero HSSE ideals.
+Antero’s HSSE representatives are available on site 24/7 during every  
+significant operation. 
+ANTERO MIDSTREAM  / 59
+SAFETY MANAGEMENT SYSTEM
+The Antero Midstream Safety Management System (SMS) is utilized by all employees 
+and contractors working for, or on behalf of, Antero Midstream entities. The managerial 
+principles outlined in the Occupational Health and Safety Assessment Series 45001 
+heavily influenced our SMS. The objective of the SMS is to establish requirements for 
+managing health and safety risks. 
+The SMS is comprised of 13 elements, which are: 
+1. Safety Leadership, Compliance, and Commitment  
+2. Organization, Roles, and Responsibilities 
+3. Risk and Hazard Assessment/Risk Registers 
+4. Incident Reporting and Investigation  
+5. Training and Competency  
+6. Safety Manual and Safe Work Practices/Guides 
+7. Security and Sustainability (Travel, Personal Safety) 
+8. Emergency Preparedness and Planning 
+9. Safety Communications  
+10. Occupational Health and Wellness 
+11. Contractor Safety Management 
+12. Business Continuity and Resiliency 
+13. Performance Measurement and Evaluation 
+Antero’s employees can view and access the Safety Management System on the 
+company’s intranet.
+HEALTH & SAFETY
+ANTERO MIDSTREAM  / 60
+RISK ASSESSMENT & HAZARD RECOGNITION
+Risk assessments, hazard recognition programs, and risk registers are critical 
+components of the Antero SMS. Antero utilizes a proprietary risk matrix during a risk 
+assessment to define the level of risk by considering the probability against the severity 
+of the consequence for an incident or risk. The risk matrix is a simple mechanism to 
+increase the visibility of risks and assist management decision-making. 
+A Job Safety Analysis (JSA) must be completed and documented prior to the start of 
+work on an Antero location. Antero expects each worker involved in a task, whether 
+an employee or a contractor, be fully briefed on any related hazards and acknowledge 
+them by signing the JSA. 
+At the core of Antero’s risk assessment and hazard recognition program is Stop Work 
+Authority (SWA). SWA establishes the responsibility and authority of every worker on 
+an Antero location, to stop work when an unsafe act or condition is discovered.
+ 
+HEALTH & SAFETY
+STOP
+CORRECT RESUME FOLLOW-UPNOTIFY INVESTIGATESWA Steps
+ANTERO MIDSTREAM  / 61
+Antero expects mitigation of any identified risk or hazard to a level as low as 
+reasonably practical before beginning or resuming work. Antero maintains a library of 
+safe work practices to guide our contractors and service providers on how to mitigate 
+any identified unsafe act or condition. These documents evolve as laws and regulatory 
+requirements change and are updated when necessary. 
+In 2019, Antero developed and implemented the Take 5 Program, which supports 
+contractors and operations while driving improvement in areas of safety performance 
+and responsibility. The Take 5 Program demonstrates Antero’s support for taking five 
+minutes on any Antero owned, operated, or leased worksite to verify that all hazards 
+and risks associated with the job task or activity are mitigated and controlled.
+ANTERO MIDSTREAM  / 62
+INCIDENT REPORTING SYSTEM
+Antero’s incident reporting system facilitates data collection, investigations, and 
+information tracking on incidents that occur on our sites. We identify factors contributing 
+to the incident and develop a comprehensive plan to help prevent reoccurrence. We use 
+incidents as learning opportunities to create safety alerts, bulletins, and reminders for 
+distribution to our contractors.
+All incidents are categorized using Antero’s HSSE Risk Matrix and are investigated to 
+determine the root cause and contributing factors so we can take action to reduce and, 
+where possible, eliminate factors that led to the incident or near-miss. The HSSE and 
+Operations teams review incidents for systemic trends (frequency, location, phase of 
+operation, cause) and implement corrective and preventive actions to avoid reoccurrence. 
+We use a RACI (responsible, accountable, consulted, informed) process to assign and 
+track completion of corrective actions. We create HSSE alerts to communicate the 
+incident and findings to other operational groups to improve awareness, and when 
+appropriate, to other industry parties, regulatory agencies, and first responders.
+We use the same process for near-miss incidents involving service providers and 
+contractors, with the exception that the contractor completes the investigation, and 
+identifies the root cause(s) and subsequent corrective actions. Antero then verifies 
+completion of corrective actions. We define a ‘near miss’ as an unplanned event that 
+did not result in injury, illness, or damage, inclusive of spills, but under slightly different 
+circumstances, would have had the potential to do so. Near miss incidents are reported 
+to the Antero operations or HSSE teams and are tracked in our incident and behavior-
+based safety management system, and are reported in our performance metrics.
+HEALTH & SAFETY
+ANTERO MIDSTREAM  / 63
+HSSE, SOCIAL & GOVERNANCE TRAINING
+We influence safety behaviors by developing our employees’ knowledge, skills,  
+and awareness of safety-related issues, leading to improved safety performance.  
+Our employee safety-training matrix specifies the required training for every employee 
+job description (office and field) within the company. Safety training starts at the 
+beginning, continues throughout an employee’s career, and includes refresher training 
+at appropriate intervals. 
+Antero’s training process describes how we:
+IDENTIFY  
+TRAINING  
+NEEDSDESIGN  
+TRAININGPRODUCE  
+AND CONTROL  
+MATERIALSSELECT  
+OR QUALIFY  
+COMPETENT  
+TRAINERS
+SCHEDULE  
+TRAININGDELIVER 
+AND ASSESS 
+EFFECTIVENESS 
+OF TRAINING MAINTAIN  
+RECORDSMONITOR  
+AND REVIEW  
+TRAINING
+HEALTH & SAFETY
+ANTERO MIDSTREAM  / 64
+Training is assigned to each employee through the learning management system and all 
+completed training is tracked within their training transcript.
+Antero also provides an on-site HSSE orientation which is required for all employees and 
+contractors who plan to visit an Antero field location. The on-site orientation describes 
+Antero’s expectations upon arrival at an Antero location. It covers topics such as general 
+PPE requirements, training requirements, Short-Service Employees, driving on-site, 
+JSAs, and Stop Work Authority. Employees may not perform certain tasks without 
+required safety training. 
+Antero Resources and Antero Midstream share employees and resources. Data is based on 547 combined employees as of 
+December 31, 2019.Table 10: Antero Midstream All Employee Training 
+2018 2019
+HSSE Training Hours 4,288 6,037
+   HSSE Training Hours per Employee 6.9 10.5
+Social & Governance Training Hours 2,934 1,824
+   Social & Governance Training Hours per Employee 4.7 3.3
+Total Training Hours 7, 221 7, 556
+   Training Hours per Employee 11.6 13.8
+ANTERO MIDSTREAM  / 65
+EMERGENCY PREPAREDNESS & PLANNING
+Our Crisis and Field Incident Management Teams (IMT), based on the U.S. Department 
+of Homeland Security’s National Incident Management System (NIMS), incorporates 
+existing best practices into a comprehensive national approach to domestic incident 
+management, and is applicable at all jurisdictional levels and across all functional 
+disciplines. This system applies across all phases of incident management: prevention, 
+mitigation, preparedness, response, recovery, and resumption. 
+Antero uses the Incident Command System (ICS) designed by the NIMS. Our model 
+of the ICS allows for a rapid, flexible, and efficient response to incidents. The ICS is 
+modular and scalable, allowing the response to (de)escalate uniformly with the incident 
+without loss of command continuity. 
+Antero’s IMTs are comprised of a Crisis Commander–Corporate Activities (CC), 
+Incident Commander–Field Activities (IC), Command Staff, and General Staff. The 
+CC and IC are responsible for the overall management of the response, including the 
+coordination of Command and General Staff activities. The Command Staff includes the 
+Public Information Officer, Safety Officer, Legal Officer, Liaison Officer, and Security, 
+Information, and Intelligence Officer.
+HEALTH & SAFETY
+ANTERO MIDSTREAM  / 66
+Antero uses a notification system to communicate with external stakeholders in the 
+event of an emergency. The third-party notification system is a web-based notification 
+service, offering immediate and simultaneous one, to many communications using 
+wired and wireless communication devices (telephone, SMS devices, and email). The 
+system provides automated and remote problem-solving capabilities to improve 
+communication in large organizations – both internally and externally. It enables the 
+recipient to send an immediate reply to resolve an issue and convey a new status 
+condition to the appropriate person(s) or groups. 
+The system sends time-sensitive notifications through multiple devices, including cell, 
+one-or two-way SMS devices, and email. Messages may be sent to all communication 
+devices simultaneously, or in any defined order. Other features of the system include:
+ Delivery of notifications in real-time. 
+ Recipients can select any number of predefined response choices. 
+ Allows storage and management of user contact data. 
+ Allows grouping of users to better organize contacting recipients. 
+  Allows grouping of notifications and delivery of unique messages to different 
+groups of recipients and devices. 
+ANTERO MIDSTREAM  / 67
+Antero’s company-wide pandemic, business continuity, and disaster recovery policies 
+and procedures allow for continued communication and continuity of significant 
+operations across the Appalachian region. During a pandemic, Antero expects 
+employees and contractors who exhibit pandemic disease symptoms to quarantine 
+themselves. In 2020, we implemented a work from home program where 85% of our 
+workforce has worked remotely with minimal interruption to established business 
+processes. Our executives rely upon situation progress reports to make decisions 
+concerning the workforce. The Antero Crisis Team works with local officials and 
+emergency management agencies to assist with procedures for activating and 
+terminating the pandemic response plan. Strong execution of our pandemic plan  
+has resulted in ZERO Antero work-related COVID-19 infections to date.
+Preventive Measures implemented as part of our Pandemic plan to combat  
+COVID-19 include:
+ Use advanced disinfectant and cleaning processes 
+ Temperature screening kiosks 
+ Adaptive PPE program 
+ Health questionnaires 
+ Mobile testing protocols for field operations 
+ Implemented a work from home program 
+ANTERO MIDSTREAM  / 68
+CONTRACTOR SAFETY MANAGEMENT
+Antero’s Contractor Safety Management Program strives to verify work performed 
+at Antero sites meet Antero HSSE minimum expectations. Antero collaborates with 
+a leading third-party data management service to collect and evaluate health and 
+safety information from our contractors. We apply our unique risk profile and grading 
+specifications to the data to review contractor performance against Antero’s expectations.
+Per master agreements, Antero expects that each contractor and service provider 
+are fully compliant with their own JSA, SWA, risk, hazard mitigation, and incident 
+management programs, and have policies in place to ensure their compliance with 
+relevant health and safety laws prior to performing work for Antero.
+Safety Improvement Plans
+Antero partners with its insurance broker to provide our contractors with a complete 
+SMS review. We identify contractors that can benefit from a professional, third-party 
+review of their SMS. After our insurance broker conducts the assessment, they share 
+identified learning opportunities with the contractor.
+Contractor Program Reviews
+Antero strives for continuous improvement of its Contractor Management program, 
+which includes a structured review, research, evaluation, and implementation of industry 
+best practices. We conduct a thorough review of our contractor’s written safety and 
+training programs, and leading and lagging performance indicators. We review our 
+contractor’s Department of Transportation (DOT) programs to assess compliance with 
+regulatory requirements. We monitor a contractor’s on-site performance and adherence 
+to the regulations and Antero’s site-specific procedures. 
+HEALTH & SAFETY
+ANTERO MIDSTREAM  / 69
+OCCUPATIONAL HEALTH
+Antero has adopted an Occupational Health Surveillance Program, a framework for 
+evaluating impacts on Antero employees’ and contractors’ health. Occupational Safety 
+and Health Administration (OSHA) regulation 29 CFR. §1910.1000 contains the Z tables 
+that list analytics or agents that have specific regulations that mandate baseline evaluation 
+or monitored health surveillance requirements.
+DOT Testing
+Antero is a drug- and alcohol-free workplace. Per PHMSA requirements, we conduct 
+random drug screening on 25% to 50% of employees on an annual basis, who perform 
+work on pipeline and liquefied natural gas facilities. The company screens each of those 
+affected employees before their first day of employment, after an accident, or upon 
+reasonable suspicion. These drug-testing standards comply with PHMSA DOT 49 CFR, 
+Parts 40 and 199. In addition, Antero assesses its contractor’s written drug and alcohol 
+programs, including a review of the testing policy, testing techniques, and the panel of 
+drugs screened. 
+HEALTH & SAFETY
+ANTERO MIDSTREAM  / 70
+We track, trend, and analyze our employee and contractor health and safety 
+performance. We use leading and lagging indicators to pinpoint opportunities for 
+improvement to our safety program. We track fatalities, lost time incidents, total 
+recordable incidents, near misses and their respective rates. 
+In 2019, Antero Resources and Antero Midstream work locations experienced zero 
+employee or contractor fatalities, a combined employee and contractor Lost Time 
+Incident Rate (LTIR) of 0.035, a 75% reduction since 2016. The combined Antero 
+employee and contractor Total Recordable Rate (TRIR) of 0.369, represents a 47% 
+improvement since 2016. In 2019, Antero Midstream’s employee and contractor TRIR 
+and LTIR was 0.547 and 0.055 respectively. In comparison, the 2019 ISNetworld onshore 
+oil and gas benchmark averages for our industry are 0.32 LTIR and 0.95 TRIR. As part of 
+our Behavior-Based Safety program, we track and evaluate near misses — those events 
+that did not result in injury, illness, or damage, inclusive of spills, but under slightly 
+different circumstances, would have had the potential to do so.
+HEALTH & SAFETYHEALTH AND SAFETY PERFORMANCE
+Loss Time Incident Rate (LTIR) Total Recordable Incident Rate (TRIR)Figure 10: Antero Midstream Health & Safety Performance Metrics (incidents per exposure hours)
+0.00.91.2
+0.31.5
+0.6
+2016 2017 2018 20190.0550.547
+TRIR is calculated as the total number of OSHA recordable injuries x 200,000 hours/# of exposure hours.
+LTIR is calculated as the total number of lost time or restricted time injuries x 200,000 hours/# of exposure hours. 
+ANTERO MIDSTREAM  / 71
+SECURITY
+Antero Midstream is committed to the safety and security of our organization and the 
+communities in which we operate. We strive to plan, prepare, prevent, and recover from 
+adverse security incidents that could injure, harm, disrupt, or affect our workers, sites, 
+business or communities. Through strategic alignment with our business and operational 
+teams, we can efficiently and swiftly identify and direct resources to preserve and 
+safeguard our assets, both tangible and intangible.
+Our efforts to initiate the Security and Safety committee through our membership in 
+the West Virginia Oil and Natural Gas Association (WVONGA) is a good example of our 
+leadership in this area. The Security and Safety committee is a valuable collaboration 
+of industry peers sharing information and education on mitigation and emergency 
+response efforts related to security and crime-related matters. 
+Our field security personnel are certified Terrorism Liaison Officers (TLO) through 
+the West Virginia Intelligence Fusion Center. A TLO is a public citizen of the United 
+States trained to report suspicious activity observed during the course of their normal 
+occupation as part of the United States’ War on Terror. Our strong relationship with 
+federal, state, and local first responders strengthens our commitment to keeping our 
+communities and homeland safe.
+ANTERO MIDSTREAM  / 72
+Cyber Security:
+The traditional model for information technology security has changed. The 
+Confidentiality, Integrity, and Availability Triad has evolved to include Safety. Antero 
+leverages information technology in significant ways: traditionally, in the areas of 
+Operational Technology, and the Internet of Things. As the company’s use of technology 
+continues to advance, so do our cybersecurity strategies. Our commitment to 
+sustainable governance and security best practices helps us navigate the ever-changing 
+threat landscape.
+We take a comprehensive, holistic approach to our cybersecurity efforts. This approach 
+incorporates our people, processes, and technology to effectively prevent, mitigate, and 
+remediate issues.
+The Board of Directors approved a Protection of Personal Identifiable Information (PII) 
+Policy in 2019. The purpose of the policy is to protect the PII of its employees and other 
+individuals whose PII may be collected by Antero in the course of doing business. 
+ANTERO MIDSTREAM  / 73
+PIPELINE INTEGRITY
+Antero Midstream established the Pipeline Integrity Program as part of its overall 
+comprehensive asset management system, to meet and exceed safety, environmental 
+and integrity expectations. Hazardous liquid and natural gas transmission pipelines and 
+facilities are included in the scope of this program. The purpose of the integrity program 
+is to protect the public, our employees and contractors, and the environment through 
+adherence to a set of safety management, analytical, operating, and maintenance 
+processes. 
+The program framework includes five assessment categories: 
+Governing  
+Factors
+Asset  
+ManagementProgram 
+ManagamentDocumentation  
+& Reporting
+Conservation  
+ActionsProcedures  
+& Training
+ANTERO MIDSTREAM  / 74
+Governing Factors
+The pressure and flow of transported product passing through our midstream assets, 
+along with environmental, climate, and topography in our areas of operation, are the 
+factors that govern this program. The following regulating bodies that help govern the 
+integrity of our regulated assets are: 
+ Pipeline and Hazardous Materials Safety Administration (PHMSA)
+ Department of Transportation (DOT) 49 CFR Parts 191, 192 and 195
+ West Virginia Public Service Commission (WVPSC)
+ Public Utilities Commission of Ohio (PUCO)
+ Occupational Safety & Health Administration (OSHA)
+ National Association of Corrosion Engineers (NACE)
+ American Petroleum Institute (API)
+ American Society of Mechanical Engineers (ASME)
+Program Management
+Integrity management tasks are shared across many company departments including 
+engineering, operations, HSSE and management. 
+Procedures and Training
+Antero’s procedures and training programs support our integrity programs. 
+ANTERO MIDSTREAM  / 75
+Training
+ HSSE training
+  Operator Qualifications (OQ) Program, tracked through Veriforce with  
+81 active tasks
+ Antero Midstream has 16 internal operators trained on 46 OQ tasks
+  Antero Midstream has 3 internal OQ trainers qualified to test 40 of 46 different OQ 
+tasks with the remaining 6 tasks being testing by 3rd party trainers 
+ Contractors perform the other 35 OQ tasks for Antero Midstream
+Antero Midstream Operations, Maintenance, Construction Manuals,  
+and Pipeline Integrity Management Plans
+ Internal Corrosion
+ External Corrosion
+ Maintenance & Inspection
+Conservation Actions 
+We use the following conservation actions to assure integrity and compliance:
+ Continuous Pigging Regiment
+ Chemical Injection
+ Right-of-Way Surveys
+ In-Line Inspection (ILI) Smart Pigging
+ Corrosion Coupon Evaluation
+ANTERO MIDSTREAM  / 76
+ Cathodic Protection
+ Valve Inspections
+ 811 Program/One Call
+ Emergency Response Plan
+ Public Awareness Program
+ Atmospheric Corrosion Inspections
+ Class Location Studies
+ Engine Emissions Testing
+ Ground Flare Inspections
+ Re-boiler Inspections
+ Pressure Safety Device Testing
+ Vessel Inspections
+ Oil and Triethylene Glycol Testing
+ Aboveground and Underground Storage Tank Inspections
+ Leak Detection and Repair (LDAR)
+ Annual Safety Device Testing
+Documentation & Regulated Reporting
+Antero documents and reports activities in annual reports as part of the Integrity 
+Management Program. 
+ANTERO MIDSTREAM  / 77
+Pipeline Integrity
+Antero’s Integrity Management Program (IMP) is designed to meet the requirements of 
+49 CFR 192 Subpart O and 49 CFR 195 Subpart F & H, which are required for covered 
+pipelines that could affect High Consequence Areas (HCAs). The purpose of the IMP is 
+to guide actions to proactively identify and manage risks associated with pipelines such 
+as ruptures and leaks. Through the IMP , we are committed to the structural integrity of 
+our pipeline infrastructure. We analyze information collected on the pipeline systems to 
+determine what measures to take to detect and prevent leaks and unintentional releases. 
+Antero operates approximately 10.37 miles of jurisdictional natural gas transmission 
+pipelines and 5.73 miles of jurisdictional Type A pipelines, as defined in 49 CFR Part 192. 
+We also operate approximately 19.46 miles of jurisdictional hazardous liquid pipelines, 
+as defined in 49 CFR Part 195. The pipelines are located in the following areas: 
+West Virginia  
+ 10.4 miles of Transmission Pipelines 
+ 2.9 miles of Gathering Type A Pipelines
+Ohio  
+ 1.9 miles of Gathering Type A Pipelines 
+ 19.5 miles of Hazardous Liquids Pipelines
+Antero operates approximately 415 miles of non-jurisdictional gas gathering pipelines in 
+West Virginia (308 miles) and Ohio (107 miles). 
+ANTERO MIDSTREAM  / 78
+In 2019, Antero Midstream made progress on its baseline assessment plan (BAP) 
+for jurisdictional and non-jurisdictional pipeline segments totaling up to 15 miles, or 
+approximately 2.5%, of its total infrastructure. In 2020, Antero plans to inspect up to six 
+jurisdictional pipeline segments that total 11 miles, or approximately 3.3% of its total 
+infrastructure, and 42% of its jurisdictional pipeline infrastructure. 
+Antero performs annual evaluations of its asset management program to assess 
+effectiveness and documents the results in an annual report. We use the evaluation 
+process to compare current performance against past performance and develop specific  
+goals for the program. Antero employs the following best integrity management practices:1. Antero did not transport any volume of liquids in the hazardous liquids pipeline in 2019.Table 11: Volume of Natural Gas Transported by Pipeline Type (SASB EM-MD-000.A)
+Pipeline Type Volume Transported (MMCF)
+  Transmission Pipelines   46
+  Jurisdictional and Non-jurisdictional Pipelines   965,0031
+Prevent Inspect/Detect Repair
+Higher Hydro-test pressures Automated SCADA system Pipeline Isolation Quick Reference 
+Tool
+Limit Pressures to 95% MAOP 100% x-ray of welds PHMSA required maintenance on 
+non-regulated items
+Pipelines designed and constructed 
+to transmission pipeline standardsDynamic system health 
+reporting dashboardDocument control and retention
+Low pressure pipelines built to high 
+pressure standardsPipeline gas and liquid 
+sampling
+Close Interval Surveys
+Right-of-way patrols; leak 
+detection, slip identification
+ANTERO MIDSTREAM  / 79
+While we believe all historical calculations presented herein were completed consistent with current industry standards, the 
+numbers provided have not been audited by a third party audit firm.
+Some of the information in this Corporate Sustainability Report may also contain “forward-looking statements.” All statements, 
+other than statements of historical fact included in this Corporate Sustainability Report, regarding our strategy, future operations 
+and forecasts of future events, including our environmental goals, are forward-looking statements. Words such as “may,” 
+“assume,” “forecast,” “position,” “predict,” “strategy,” “expect,” “intend,” “plan,” “estimate,” “anticipate,” “believe,” “project,” 
+“budget,” “potential,” or “continue,” and similar expressions are used to identify forward-looking statements, although not all 
+forward-looking statements contain such identifying words. These forward-looking statements speak only as of the date of this 
+report and are based on our current expectations and assumptions about future events and currently available information as to 
+the outcome and timing of future events. When considering these forward-looking statements, investors should keep in mind any 
+cautionary statements in this Corporate Sustainability Report, as well as the risk factors and other cautionary statements in our 
+filings with the Securities and Exchange Commission (“SEC”). These forward-looking statements are management’s belief, based 
+on currently available information, as to the outcome and timing of future events.  Although we believe that the plans, intentions 
+and expectations reflected in or suggested by the forward-looking statements are reasonable, there is no assurance that these 
+plans, intentions or expectations will be achieved. Therefore, actual outcomes and results could materially differ from what is 
+expressed, implied or forecast in such statements. Except as required by law, we expressly disclaim any obligation to, and do not 
+intend, to publicly update or revise any forward-looking statements.
+In addition, many of the standards and metrics used in preparing this Corporate Sustainability Report continue to evolve and 
+are based on management expectations and assumptions believed to be reasonable at the time of preparation, but should not 
+be considered guarantees. The standards and metrics used, and the expectations and assumptions they are based on, have not 
+been verified by any third party. 
+Factors that could cause our actual results to differ materially from the results contemplated by such forward-looking statements 
+include:
+ —Antero Resources Corporation’s (“Antero Resources”) expected production and development plan; 
+ —Impacts to producer customers of insufficient storage capacity;
+ —our ability to execute our business strategy;
+ —  our ability to obtain debt or equity financing on satisfactory terms to fund additional acquisitions, expansion projects, 
+working capital requirements and the repayment or refinancing of indebtedness;
+ —our ability to realize the anticipated benefits of our investments in unconsolidated affiliates;
+ —natural gas, natural gas liquids (“NGLs”) and oil prices;
+ —impacts of world health events, including the coronavirus (COVID-19) pandemic;CAUTIONARY STATEMENTS
+ANTERO MIDSTREAM  / 80
+ —  our ability to complete the construction of or purchase new gathering and compression, processing, water handling or 
+other assets on schedule, at the budgeted cost or at all, and the ability of such assets to operate as designed or  
+at expected levels;
+ —our ability to execute our share repurchase program;
+ —competition and government regulations;
+ —actions taken by third-party producers, operators, processors and transporters;
+ —pending legal or environmental matters;
+ —costs of conducting our operations;
+ —general economic conditions;
+ —credit markets;
+ —operating hazards, natural disasters, weather-related delays, casualty losses and other matters beyond our control;
+ —uncertainty regarding our future operating results; and
+ —our other plans, objectives, expectations and intentions contained in our filings with the SEC.
+We caution investors that these forward-looking statements are subject to all of the risks and uncertainties incidental to our 
+business, most of which are difficult to predict and are beyond our control. These risks include, but are not limited to, commodity 
+price volatility, inflation, environmental risks, Antero Resources’ drilling and completion and other operating risks, regulatory 
+changes, the uncertainty inherent in projecting Antero Resources’ future rates of production, cash flows and access to capital, 
+the timing of development expenditures, impacts of world health events, including the COVID-19 pandemic, potential shut-ins 
+of production by producers due to lack of downstream demand or storage capacity, and the other risks described under the 
+heading “Risk Factors” in our filings with the SEC.
+Should one or more of the risks or uncertainties described therein occur, or should underlying assumptions prove incorrect, our 
+actual results and plans could differ materially from those expressed in any forward-looking statements.
+This Corporate Sustainability Report contains statements based on hypothetical or severely adverse scenarios and assumptions, 
+and these statements should not necessarily be viewed as being representative of current or actual risk or forecasts of expected 
+risk. While future events discussed in this report may be significant, any significance should not be read as necessarily rising to 
+the level of materiality of certain disclosures included in our SEC filings.CAUTIONARY STATEMENTS
+ANTERO MIDSTREAM  / 81
+CONTACT US
+ANTERO MIDSTREAM CORPORATION  
+  1615 Wynkoop Street 
+Denver, CO 80202
+   anteromidstream.com
+facebook.com/AnteroResources  
+@AnteroResourcesFOLLOW US

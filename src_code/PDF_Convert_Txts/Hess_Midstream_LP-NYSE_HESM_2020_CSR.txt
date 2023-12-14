@@ -1,0 +1,2113 @@
+HESS MIDSTREAM
+2020 Sustainability ReportCORPORATE VALUES 
+AND POLICIES
+Hess Midstream is committed to the Hess 
+Values of integrity, performance, social 
+responsibility, independent spirit, value creation 
+and people, which set the framework and 
+establish the ethical standards by which we 
+conduct business. For further detail, please visit 
+the Hess website at hess.com/company/values .
+For copies of our Environment, Health and 
+Safety Policy, Social Responsibility Policy or 
+Human Rights Policy, please visit our website at 
+hessmidstream.gcs-web.com/company . For more 
+information regarding our operations, please 
+visit our website at hessmidstream.com .
+REPORTING SCOPE 
+AND STANDARDS
+Hess Midstream’s inaugural sustainability report 
+is a companion to Hess’ 2020 Sustainability 
+Report that provides additional detail on our 
+management approach and performance data 
+with respect to our most material sustainability 
+issues. This report should be read in conjunction 
+with Hess’ 2020 Sustainability Report,  
+available at hess.com/sustainability , which 
+provides greater detail on sustainability 
+strategy, management systems and programs 
+for Hess that also apply to Hess Midstream.
+We used leading sustainability reporting 
+frameworks to guide the content for this report, 
+including the Energy Infrastructure Council (EIC) 
+and GPA Midstream Association (GPA) 
+Environment, Social and Governance (ESG) 
+Reporting Template, a midstream specific 
+guide for sustainability reporting; the 
+Sustainability Accounting Standards Board 
+standard for oil and gas – midstream; the 
+Taskforce for Climate-Related Financial 
+Disclosures; and the Global Reporting Initiative 
+Standards. Direct responses to the EIC/GPA 
+ESG Reporting Template, as well as an index of 
+our sustainability reporting indicators, can be 
+found at hessmidstream.gcs-web.com/
+sustainability-report .
+Select performance data disclosed in this 
+report – including greenhouse gas emissions 
+data – were reviewed as part of the third party 
+assurance of consolidated data in Hess’ 2020 
+Sustainability Report.
+21
+7
+11
+15TABLE OF CONTENTS
+1
+MESSAGE TO OUR 
+STAKEHOLDERS
+Our view on building a sustainable company
+2
+ABOUT HESS MIDSTREAM
+Our company operations in brief
+3
+SUSTAINABILITY APPROACH
+A description of our sustainability journey, 
+materiality assessment and reporting scope
+7
+HOW WE OPERATE
+Our approach to sustainable management  
+and performance
+11
+SAFETY AND HEALTH
+Aiming to get everyone, everywhere, every day, 
+home safe
+15
+CLIMATE CHANGE  
+AND ENERGY
+Balancing the world’s growing energy needs 
+with greenhouse gas emissions reduction
+21
+ENVIRONMENT
+Responsible management of our environmental 
+footprint
+23
+PERFORMANCE DATA
+ON THE COVER
+Gas Processing Operations, 
+North Dakota
+2020 HESS MIDSTREAM SUSTAINABILITY REPORT   1Hess Midstream is committed to building a sustainable enterprise 
+that helps meet the world’s energy needs in a safe, environmentally 
+responsible, socially sensitive and profitable way. Climate change is 
+one of the greatest challenges of the 21st century. We believe climate 
+risks can and should be addressed while at the same time meeting 
+the growing demand for the safe, affordable and reliable energy that 
+is necessary to ensure a just and secure energy transition. 
+As a growth oriented provider of midstream services to Hess 
+Corporation and other third party crude oil and natural gas 
+producers, we recognize the importance of sustainability to our 
+business strategy and to all of our stakeholders – our shareholders, 
+business partners and the local communities where we operate. 
+Enabling production of and access to affordable and reliable 
+energy is key to human welfare and global economic development 
+in the context of the U.N. Sustainable Development Goals, 
+especially as the world continues to recover from the effects of  
+the COVID-19 pandemic. 
+Hess Midstream is aligned with Hess Corporation in its aim to 
+help meet the world’s growing energy needs while reducing its 
+greenhouse gas (GHG) emissions. We support the aim of the 
+Paris Agreement and also a global ambition to achieve net zero 
+emissions by 2050. We play an important part in Hess’ emissions 
+reduction efforts by providing the infrastructure to move oil, natural 
+gas liquids and natural gas to market and reduce wellhead flaring 
+as well as through actions to reduce Hess Midstream’s GHG 
+emissions, which are included in Hess’ overall emissions footprint. 
+Hess Midstream completed a number of important initiatives in the 
+past year to enhance safety, reduce environmental impacts and 
+drive performance improvements. We maintained strict protocols 
+to help mitigate the risks of COVID-19 in our operations and 
+our communities, continued to enhance integrity management 
+programs across our facilities to minimize process safety risk, 
+followed a robust preventative maintenance program and executed 
+infrastructure improvements focused on spill prevention.
+A key recent milestone was the safe completion of a planned 
+maintenance turnaround at our Tioga Gas Plant in the summer 
+of 2021, which we proactively deferred from 2020 to reduce MESSAGE TO OUR STAKEHOLDERS
+COVID-19 related risks. The maintenance activities completed 
+during the turnaround and tie-in of the 2020 plant expansion will 
+increase processing capacity and reduce flaring from production 
+operations as well as help maintain a safe and reliable plant. 
+In 2020, Hess significantly surpassed its five year targets for GHG 
+emissions intensity and flaring intensity reduction and announced 
+new five year GHG reduction targets for 2025. Hess Midstream’s 
+continued focus on gas gathering infrastructure, natural gas 
+capture and flare reduction initiatives in the Bakken plays a 
+critical role in support of these emissions reduction targets, 
+as described in this report. Expansion of Hess Midstream’s 
+produced water gathering and disposal system to support 
+growth of Hess’ Bakken asset has also allowed us to gather 
+water by pipeline in place of trucks, reducing truck related air 
+emissions and the risk of spills.
+In 2021, we conducted an assessment of the most material 
+sustainability issues for Hess Midstream to guide development of 
+our future strategy and goals. This materiality assessment shaped 
+the content for this Sustainability Report, which was guided 
+by leading sustainability reporting frameworks. We expect to 
+communicate further progress in our next Sustainability Report.
+Publication of our inaugural Sustainability Report for Hess 
+Midstream reflects our commitment to transparency about our 
+environmental, social and governance plans and performance. 
+We want to thank our customers, business partners, investors, 
+communities and the Hess employees who serve Hess 
+Midstream for their continued support. We also are grateful to our 
+sponsors and our Board of Directors for their engagement and 
+support of our sustainability efforts.
+John B. Hess 
+Chairman and Chief Executive Officer, Hess Midstream LP
+February 20222
+ABOUT HESS MIDSTREAM
+   
+ Hess Midstream owns and operates an 
+expansive and diverse set of midstream 
+assets that provides basin leading services to 
+affiliates of Hess Corporation and a growing 
+third party customer base. Our facilities are 
+primarily located in the Bakken and Three 
+Forks shale plays in the Williston Basin area 
+of North Dakota, which we collectively refer 
+to as the Bakken – one of the most prolific 
+crude oil producing basins in North America.
+“We,” “our,” “us,” “Hess Midstream” 
+or like terms refer to and include Hess 
+Midstream LP and our subsidiaries, 
+including Hess Midstream Operations LP 
+and its subsidiaries, as well as our general 
+partner Hess Midstream GP LP . The terms 
+“enterprise” and “enterprisewide” as used 
+within this report refer to Hess Corporation, 
+also referred to in this document as “Hess.”Through our agreements with Hess, Hess 
+employees and contractors perform all 
+operational and administrative services 
+for us in support of our assets, including 
+matters related to environment, health, 
+safety and social responsibility (EHS & 
+SR). In addition, Hess employees are 
+seconded as necessary to develop and 
+execute our business strategy. As a result, 
+Hess Midstream’s operations are generally 
+conducted in accordance with Hess’ strong 
+management and assurance systems, 
+programs and practices. As described in 
+more detail throughout this report, we also 
+follow Hess’ management approach to 
+EHS & SR issues and benefit from Hess’ 
+significant experience in these areas.GATHERING
+Hess Midstream owns and operates 
+approximately 1,900 miles of crude oil 
+and natural gas gathering pipelines and 
+facilities, located primarily in McKenzie, 
+Williams and Mountrail counties, North 
+Dakota, in the Bakken region. These 
+facilities compress natural gas and move 
+crude oil and natural gas from remote wells 
+to processing and storage facilities and 
+have a capacity to gather approximately 
+240,000 barrels per day (BBLD) of crude 
+oil and 450 million standard cubic feet per 
+day (MMSCFD) of natural gas.
+Hess Midstream also owns and operates 
+a produced water gathering and disposal 
+business that supports Hess’ produced 
+water gathering and disposal needs in North 
+Dakota and serves third party customers.
+PROCESSING AND STORAGE
+Hess Midstream owns and operates the 
+Tioga Gas Plant, a large, strategically 
+located gas processing plant north of the 
+Missouri River, and owns 50% of the Little 
+Missouri 4 gas processing plant south 
+of the Missouri River, for a combined 
+processing capacity of 500 MMSCFD. In 
+addition, Hess Midstream owns a propane 
+storage cavern and terminal in Minnesota.
+TERMINALS AND EXPORT
+Hess Midstream owns and operates 
+integrated, interconnected terminal facilities 
+that provide flexibility for crude oil export, 
+with an approximate capacity of  
+385,000 BBLD, and natural gas liquids 
+export of 80,000 BBLD. These include 
+truck and pipeline terminals, a rail terminal 
+and rail cars, and a header system, all of 
+which provide access to intrastate and 
+interstate pipeline systems and markets.Hess Midstream Current Portfolio of Operations
+n  Hess Operated Acreage 
+ County and State Borders
+ Crude Oil Gathering Pipelines
+ Natural Gas Gathering Pipelines
+ Water Gathering PipelinesTioga Gas Plant 
+Tioga Rail Terminal 
+Ramberg Terminal Facility
+Hawkeye Gas Facility
+Hawkeye Oil Facility
+Johnson’s Corner Header System
+Little Missouri 4 Gas Plant
+MOUNTRAI L
+DUNNMcKENZIEDIVIDE BURKE
+WILLIAM S2020 HESS MIDSTREAM SUSTAINABILITY REPORT   3
+Hess Midstream is committed to 
+sustainability and responsible operations. 
+We are aligned with Hess in its aim to help 
+meet the world’s growing energy needs and 
+address key challenges facing the world 
+today, including climate change. We believe 
+sustainable and responsible operations 
+create value for the benefit of all our 
+stakeholders – our shareholders, business 
+partners and the local communities and 
+economies where we operate – which in 
+turn benefits society at large. 
+We are aligned with Hess’ environment, 
+health, safety and social responsibility 
+strategy and management systems, and we 
+play a critical role in achieving enterprisewide 
+goals and performance improvements. Hess 
+Midstream supports Hess’ greenhouse 
+gas (GHG) emissions reduction goals and 
+performance by providing the infrastructure 
+needed to move natural gas to market and 
+to reduce wellhead flaring, as well as through 
+actions to reduce our own GHG emissions, 
+which are included in Hess’ overall emissions 
+footprint. See page 15 for further detail.
+Hess Midstream aims to develop our own 
+sustainability strategy and goals to further 
+drive our performance and enhance our 
+support of Hess’ sustainability efforts. In 
+late 2020, we developed a sustainability 
+reporting and strategy road map to 
+guide our journey toward sustainability 
+leadership. Following this planning 
+exercise, in early 2021 we conducted 
+a materiality assessment to help further 
+define the most material sustainability 
+issues for Hess Midstream and where 
+these issues may warrant more emphasis 
+for the midstream business compared 
+to the enterprise, and to guide our future 
+strategy and goals development. We 
+expect to communicate further progress on 
+our journey in our next sustainability report.SUSTAINABILITY APPROACH
+SUSTAINABILITY REPORTING  
+SCOPE AND BOUNDARIES
+Hess Midstream’s inaugural sustainability 
+report is a companion to Hess’ 2020 
+Sustainability Report. We used leading 
+sustainability reporting frameworks to  
+guide the content for this report, including  
+the Energy Infrastructure Council (EIC) 
+and GPA Midstream Association (GPA) 
+Environment, Social and Governance 
+(ESG) Reporting Template, a midstream 
+specific guide for sustainability reporting 
+developed in collaboration with ESG 
+specialists, operational and technical 
+experts, and investors.
+Access our index of sustainability reporting 
+indicators at hessmidstream.gcs-web.com/
+sustainability-report
+Materiality and Report Content
+Our materiality assessment completed in 
+2021 helped to validate the most material 
+sustainability issues for Hess Midstream 
+and guide the content development for 
+this report. We started with the inputs and 
+results from Hess’ most recent materiality 
+assessment (see pages 6 and 9 of Hess’ 
+2020 Sustainability Report), which included 
+Hess Midstream, and then prioritized the 
+issues and identified any gaps with respect 
+to the midstream business. The midstream 
+assessment included a range of inputs as 
+follows: interviews and workshops with 
+internal stakeholders; topics identified by 
+midstream specific sustainability reporting 
+frameworks, including the EIC/GPA ESG 
+Reporting Template and the Sustainability 
+Accounting Standards Board standard for 
+oil and gas – midstream; benchmarking 
+midstream peers’ material issues; and 
+consultation with third party sustainability 
+experts.
+Based on the materiality assessment, the 
+five most material sustainability issues for 
+Hess Midstream are as follows:• Asset Integrity and Process Safety
+• Occupational Health and Safety
+• Climate Related Risk and GHG 
+Emissions
+• Corporate Governance
+• Community and Stakeholder 
+Engagement
+Reporting boundaries and public disclosures 
+for each sustainability topic relevant to Hess 
+Midstream are described on pages 4–5.
+RESTATEMENTS
+Hess Midstream follows the Hess GHG 
+Inventory Protocol, and we believe this 
+approach to restating data complies 
+with the Global Reporting Initiative (GRI) 
+Standards’ principle of comparability and 
+specific disclosure regarding restatements 
+of information.
+Access the Hess GHG Inventory Protocol  
+at hess.com/sustainability/climate-change-
+energy
+ASSURANCE
+We utilize Hess’ internal information 
+systems for the centralized collection 
+of data from Hess Midstream facilities. 
+In order to evaluate accuracy and 
+reliability, we conduct quality assurance/
+quality control reviews and validation of 
+both aggregated and facility level data. 
+Individual numbers in the charts, tables 
+and text may not precisely sum to the  
+total amounts shown due to rounding.
+Select performance data disclosed in 
+this report including GHG emissions data 
+were reviewed as part of the third party 
+assurance of consolidated data in Hess’ 
+2020 Sustainability Report. External 
+reviews help to ensure consistent and 
+objective data collection and reporting of 
+our sustainability performance.4SUSTAINABILITY APPROACH
+ * Hess Midstream top material issueREPORTING BOUNDARIES BY SUSTAINABILITY TOPIC
+The following are the reporting boundaries and references to further discussion of sustainability issues covered within this report.  
+In addition to the segregated Hess Midstream performance data found on pages 23–24 of this report, and online at hessmidstream.gcs-
+web.com/sustainability-report, data for Hess Midstream (for topics denoted below with “**”) are included in the aggregated data found on 
+pages 62–63 of Hess’ 2020 Sustainability Report and online at hess.com/sustainability/performance-data/key-sustainability-metrics.
+Water Management
+We follow Hess’ risk based, lifecycle 
+approach to managing water, through 
+which we carefully assess and work 
+to mitigate potential impacts on water 
+resources.
+See page 22 of this report.**
+Corporate Governance*
+We provide oversight over sustainability 
+issues through our Board of 
+Directors, our executive leadership 
+and integration with Hess’ corporate 
+governance.
+See page 7 of this report.
+Enterprise Risk Management
+We are fully integrated in Hess’ 
+enterprise risk management process 
+– a comprehensive, standardized 
+approach to identifying and managing 
+risks, such as those related to climate 
+change and cybersecurity, across  
+our operations.
+See page 8 of this report.
+Occupational Health and Safety*
+We emphasize a culture of ownership 
+for occupational health and safety by 
+following the safety standards and 
+assurance processes of the Hess 
+Operational Management System 
+(HOMS).
+See pages 11−12 of this report.**
+Community and  
+Stakeholder Engagement*
+We follow Hess’ community and 
+stakeholder engagement processes, 
+actively pursuing dialogue with 
+stakeholders to share our values, vision 
+and goals and to seek feedback.
+See page 9 of this report.
+Climate Related Risk and 
+Greenhouse Gas Emissions*
+We play an integral role in Hess’ climate 
+goals and strategy and are aligned 
+with Hess’ oversight and management 
+approach to climate related risk, 
+including accounting for the cost of 
+carbon in significant new investment 
+decisions and assessing a broad range 
+of energy transition risks as an integral 
+part of Hess’ business planning cycle.
+See pages 15−19 of this report.**
+Asset Integrity and  
+Process Safety*
+We aim to prevent the unplanned 
+or uncontrolled loss of primary 
+containment of any material by 
+following the asset integrity and 
+process safety related standards and 
+assurance processes of HOMS.
+See pages 12−13 of this report.
+Energy Use
+We follow Hess’ energy management 
+approach, which incorporates 
+energy reduction principles and 
+the procurement of electricity from 
+renewable sources.
+See page 19 of this report.**
+Air Emissions Management
+We follow Hess’ air quality management 
+approach including its leak detection 
+and repair program, which helps us 
+maintain regulatory compliance and 
+achieve emissions reductions.
+See page 22 of this report.**
+Release Prevention
+We follow Hess’ approach to release 
+prevention, including standards for 
+produced water management, pipeline 
+asset integrity and well integrity, to help 
+manage potential environmental impacts 
+to water and surface ecosystems.
+See page 21 of this report.**2020 HESS MIDSTREAM SUSTAINABILITY REPORT   5While our top material issues have driven the content for this report, many of the other relevant topics included in our materiality 
+assessment are also important to our stakeholders and our company and will continue to be addressed in our business processes  
+and external reporting. Here we provide a brief description of each topic, as well as resources to learn more about our management 
+approach and performance data for each. Additionally, mitigation measures and other activities related to the COVID-19 pandemic, 
+including Hess’ occupational safety and emergency response efforts, community involvement and investments, and employee support 
+services, are described in Hess’ 2020 Sustainability Report, available at hess.com/sustainability.
+Business Conduct
+We have adopted Hess’ business 
+ethics and integrity programs and 
+practices, including Hess’ Code of 
+Business Conduct and Ethics and 
+related training.
+See page 16 of the Hess  
+2020 Sustainability Report.
+Political Engagement
+We are represented by Hess in its 
+advocacy efforts with an array of 
+stakeholders, including legislators  
+and regulators at the local, state and 
+federal level.
+See pages 16–18 of the Hess 2020 
+Sustainability Report.Emergency Preparedness  
+and Response
+By following Hess’ approach to 
+emergency preparedness and response, 
+we respond to actual or threatened 
+injuries to people, spills and releases to  
+the environment; damage to our assets; 
+and impacts to the company’s reputation.
+See pages 31–32 of the Hess  
+2020 Sustainability Report.
+Economic Contributions
+We contribute to the local economy 
+in North Dakota through community 
+capacity building and supplier spend.
+See pages 5 and 24 of the  
+Hess 2020 Sustainability Report.
+Human Capital Management
+We do not have our own employees. 
+Hess Midstream utilizes Hess 
+employees through both a secondment 
+agreement and an omnibus agreement, 
+so employee demographics and 
+employment practices, including 
+those related to diversity, equity and 
+inclusion, are as reported for Hess.
+See pages 13–14 and 35–37 of  
+the Hess 2020 Sustainability Report.
+Supply Chain and  
+Contractor Management
+We follow Hess’ approach to supply 
+chain and contractor management, 
+collaborating with suppliers and 
+contractors to promote efficient 
+operations; maintain high standards 
+of environment, health and safety 
+performance; mitigate risks; and create 
+shared value.
+See pages 18–19 and 32–33 of  
+the Hess 2020 Sustainability Report.
+Waste Management
+We follow the Hess Waste 
+Management Standard, which requires 
+application of the waste minimization 
+principles – Remove, Reduce, Reuse, 
+Recycle, Recover, Treat and Dispose – 
+across our operations.
+See page 60 of the Hess  
+2020 Sustainability Report.
+Regulatory Compliance
+We are committed to compliance  
+with applicable regulations, an 
+important element of HOMS, and we 
+follow Hess’ approach.
+See page 61 of the Hess  
+2020 Sustainability Report.
+Biodiversity and  
+Ecosystem Services
+We are committed to conserving 
+biodiversity and habitats in the places 
+where we operate and follow Hess’ 
+biodiversity management approach.
+See pages 59–60 of the  
+Hess 2020 Sustainability Report.Gas Gathering Operations, North Dakota2020 HESS MIDSTREAM SUSTAINABILITY REPORT   7
+HOW WE OPERATE
+Hess Midstream supports Hess’ aim to 
+help meet the world’s growing energy 
+needs in a way that protects the health and 
+safety of the Hess workforce, safeguards 
+the environment and contributes to 
+the sustainability of the communities 
+where Hess operates while delivering 
+long term value to shareholders and 
+other stakeholders. Along with the Hess 
+Values and Code of Business Conduct 
+and Ethics (Code of Conduct), our Social 
+Responsibility (SR) Policy, Human Rights 
+Policy, and Environment, Health and 
+Safety (EHS) Policy define our internal 
+expectations for sustainable management 
+and performance. We apply these 
+principles to key company processes and 
+initiatives, as described in this section.
+CORPORATE GOVERNANCE
+The highest level of oversight at Hess 
+Midstream rests with our Board of Directors, 
+which is comprised of four Hess executives, 
+three directors from Global Infrastructure 
+Partners and three independent directors.
+Our Board is actively engaged in overseeing 
+our company’s strategy and performance, 
+including sustainability issues and risk 
+management. For more information on 
+the Board’s involvement in climate change 
+related issues, see the Climate Change 
+and Energy section (page 15). 
+Our Board has a standing Audit Committee 
+and may, from time to time, establish a 
+Conflicts Committee. The Audit Committee 
+provides oversight of the integrity of our 
+financial statements and our compliance 
+with legal and regulatory requirements and 
+corporate policies and controls, as well as 
+risk management, while our Board retains 
+oversight of sustainability and climate 
+related issues. All three members of the 
+Audit Committee are independent under 
+standards established by the New York 
+Stock Exchange and the Exchange Act and  all are “audit committee financial experts” as 
+defined by relevant Securities and Exchange 
+Commission (SEC) rules. The Conflicts 
+Committee, when established, reviews 
+specific matters that may involve conflicts of 
+interest in accordance with the terms of our 
+partnership agreement, and all members of 
+the committee are independent.
+Hess Midstream is led by executive officers 
+who manage our business and provide 
+executive oversight under our employee 
+secondment agreement with Hess. These 
+officers may also perform responsibilities 
+for Hess and its affiliates unrelated to our 
+business. Hess Midstream’s President and 
+COO meets regularly with our Board to 
+provide updates on sustainability related 
+issues, including climate change, and to 
+prioritize ongoing and future actions. Other 
+Hess executives provide management and 
+oversight of Hess Midstream, also through 
+our employee secondment agreement 
+with Hess (see page 5). These executives 
+routinely participate in Hess meetings 
+focusing on operational, strategic, financial 
+and EHS & SR matters and generally 
+manage our business following Hess’ 
+policies and processes. Access our 2020 U.S. SEC Form 10-K filing, 
+which has further detail on our executives’ 
+roles, at hessmidstream.gcs-web.com/
+investors/sec-filings
+MANAGEMENT SYSTEM
+The Hess Operational Management 
+System (HOMS) is a common operational 
+framework outlining how Hess Midstream 
+addresses risk management, process 
+safety, environmental responsibility, and 
+management of Hess employees and 
+contractors, as well as the efficient and 
+reliable design and operation of our 
+assets. This integrated and consistent 
+enterprisewide approach is designed to help 
+Hess Midstream manage risks associated 
+with a changing organization; coordinate 
+technical expertise, standards and 
+processes across the organization; and align 
+asset level operations with enterprisewide 
+standards and business priorities. 
+HOMS activities are managed through a 
+“Heads of” and Technical Authority Network, 
+composed of leaders for each key function 
+(e.g., EHS, Wells, Reliability Operations, 
+Projects and Facilities Engineering, and 
+Global Supply Chain) who are supported 
+by relevant technical authorities and subject 
+Oil Gathering Operations, North Dakota8matter experts. The Head of each functional 
+area is responsible for overseeing activities 
+in that area across the enterprise, verifying 
+that relevant standards are applied as 
+appropriate and working with each asset, 
+including Hess Midstream, to optimize 
+safety, quality, delivery and cost. This 
+group meets monthly with asset leaders, 
+including Hess Midstream executives, to 
+optimize synergies across Hess’ and Hess 
+Midstream’s functions and assets, support 
+enterprisewide initiatives and promote 
+transparency of activities.
+KEY ENTERPRISE PROCESSES
+We utilize Hess’ key business processes, 
+such as enterprise risk management 
+(ERM), value assurance, due diligence 
+and Lean thinking, to help identify and 
+mitigate risks in potential, new and existing 
+operations; achieve operational excellence; 
+and evaluate investment opportunities. 
+See pages 14–16 of the Hess 2020 
+Sustainability Report for more information 
+on these key processes.Enterprise Risk Management
+Hess Midstream’s Board of Directors has 
+ultimate oversight over ERM and is charged 
+with understanding the key risks affecting 
+the company’s business and how those 
+risks can be managed. The ERM process 
+provides a framework that enables the Board 
+and executive leadership to work together 
+to strengthen the consistency of risk 
+consideration in making business decisions.
+We annually refresh midstream related risk 
+assessments and plans, which consists of 
+identifying key risks including those related 
+to EHS & SR; assessing the likelihood and potential impact of these key risks to 
+people, the environment, our reputation 
+and our business; and adopting controls 
+and mitigations to manage them. Hess  
+Midstream’s risk assessments and plans 
+are then considered when updating Hess’ 
+corporate risk register. We provide regular 
+updates to the Hess Midstream Board 
+on identified risks and risk management 
+strategies utilized under the Hess Risk 
+Management Standard.
+See pages 14–15 of the Hess 2020 
+Sustainability Report for more information 
+on the ERM process and page 15 of this 
+report for more details on Hess Midstream’s 
+management of climate related risks.
+SOCIAL RESPONSIBILITY
+Social responsibility (SR), one of the Hess 
+Values, requires us to maintain the highest 
+corporate citizenship standards while 
+delivering the energy the world needs by 
+protecting the health and safety of Hess’ 
+employees and contractors, safeguarding 
+the environment, and creating a long 
+lasting, positive impact on the communities 
+where we operate. For information on 
+Hess’ strategic social investments, 
+see pages 24–25 of the Hess 2020 
+Sustainability Report.
+Our Code of Conduct, SR Policy, and 
+Human Rights Policy embody our 
+commitment to corporate citizenship 
+by compelling Hess Midstream to 
+demonstrate high standards of ethics and HOW WE OPERATE
+Gas Processing Operations, North Dakota
+Cybersecurity
+We utilize a comprehensive, standardized approach to identifying and managing 
+cybersecurity risks, which requires annual cybersecurity training for Hess’ employees and 
+contractors and cybersecurity drills with different scenarios to help ensure employees 
+and contractors know what to do in the case of a cybersecurity event. As part of our 
+pandemic response, Hess also launched a remote work resource center that included tips 
+for maintaining cybersecurity in a remote work environment. To provide oversight of our 
+approach, we regularly review cybersecurity with our Board of Directors.2020 HESS MIDSTREAM SUSTAINABILITY REPORT   9integrity and to respect human and labor 
+rights including the prohibition of child labor, 
+forced labor and workplace harassment  
+in our operations and our supply chain.  
+These policies are supported through 
+procedures and training programs 
+specific to the needs of Hess Midstream’s 
+operational locations.
+Stakeholder Engagement
+Hess Midstream’s approach to SR 
+emphasizes proactive stakeholder 
+engagement and social risk and impact 
+management in the communities where 
+we operate.
+We follow Hess’ stakeholder planning and 
+engagement process to prioritize safety, 
+integrity and transparency, and we are 
+committed to managing our stakeholder 
+relationships with respect. This process 
+is aligned with, and included in, the Hess 
+Risk Management Standard and results 
+in an External Affairs and Stakeholder 
+Plan that includes midstream. The plan 
+identifies relevant stakeholders and 
+proposes stakeholder specific engagement 
+strategies, allowing Hess Midstream to build 
+relationships with external stakeholders 
+and to identify opportunities for benefiting 
+communities while improving our business 
+and strengthening our license to operate.
+We work with Hess to engage with a wide 
+range of external stakeholders to share our 
+values, vision and goals; seek feedback on 
+operations; and mitigate impacts.
+These stakeholders include the following:
+• Land Users/Landowners: Residents, 
+landowners, commercial land interests, 
+farmers, ranchers
+• Resources Users/Rights Holders: Mineral 
+rights owners, water rights owners and 
+users, hunters, fishers, gatherers• Governments: Local, regional and federal 
+authorities
+• Parties with Direct Economic Interests: 
+Investors, vendors and suppliers, 
+contractors, shareholders
+• Parties with External Business Interests: 
+Chambers of commerce, industry 
+organizations, local businesses, 
+sustainability initiatives
+• Special Interest Groups: Nongovernmental 
+organizations, religious groups, cause 
+oriented nonprofits, community groups
+• Community Services: Police, fire and 
+emergency medical services; health 
+care services; education; human service 
+agencies
+• Indigenous Groups: Formally recognized 
+groups, tribal coalitions, government 
+supporting agencies, Indigenous 
+advocacy groups
+Access recent examples of stakeholder 
+engagement activities at hess.com/
+sustainability/social-responsibilityGrievance Mechanisms
+In the communities where we operate, we 
+do our best to address potential issues 
+early, before they mature into more severe 
+challenges. Formal grievance mechanisms 
+are an important part of soliciting 
+stakeholder feedback for our operational 
+impacts and help us respond to and act on 
+feedback through an established process.
+Hess Midstream’s operations utilize Hess’ 
+formal grievance mechanisms, which accept 
+feedback and complaints (anonymously, 
+if desired) through several access points. 
+When alerted to a potential issue, the 
+response team draws personnel from various 
+disciplines – such as EHS, operations, 
+maintenance, civil construction and human 
+resources – that are best able to respond to 
+the concern and reach a resolution.
+We track grievances from start to 
+completion using Hess’ internal 
+stakeholder management database. 
+In 2020, Hess Midstream received 49 
+grievances through this process, all of 
+which we believe have been resolved.In Tioga, where we operate a large gas plant, we meet regularly with the local volunteer 
+fire department as part of the development and annual review of pre-incident plans, which 
+allows us to understand how we can best advance local emergency preparedness, build 
+the department’s capacity and support the overall community. These plans identify water 
+sources and other relevant infrastructure within nearby facilities, thereby helping the fire 
+department to plan for equipment it may need to respond to an incident, including fire 
+and rescue efforts at these facilities. This allows for a more effective incident response and 
+ultimately lowers fire insurance costs for the surrounding community. 
+While advancing emergency preparedness for our facilities is an important goal of 
+these engagements, we take added measures to demonstrate our commitment to the 
+local community. We bring first responders to key facilities and office locations for walk 
+throughs to support our ability to work together during an incident. We also host regular 
+emergency response training drills with the fire department. For example, in early 2021, 
+we hosted a drill simulating a tank explosion at the Tioga Gas Plant, providing a unique 
+training opportunity for first responders and an important collaborative preparedness 
+experience. We also use our ongoing engagement with local first responders to inform 
+Hess’ social investment efforts, such as funding equipment purchases and supporting 
+training opportunities based on their feedback.Engaging with Tioga’s Local First RespondersGas Processing Operations, North Dakota2020 HESS MIDSTREAM SUSTAINABILITY REPORT   11
+Safety is our top priority and is 
+embodied within the Hess Value of 
+Social Responsibility, which also sets 
+the framework for how Hess Midstream 
+conducts business. Occupational health and 
+safety, asset integrity and process safety 
+are among our most material sustainability 
+issues and are described in this section. 
+Emergency preparedness and response, 
+another important issue for Hess Midstream, 
+is covered in the Hess Sustainability Report.
+We faced significant health and safety 
+challenges related to the COVID-19 
+pandemic in 2020. We responded with 
+what is always our main objective: putting 
+the safety of the Hess workforce first. Hess 
+Midstream’s safety programs and practices 
+aim to maintain a culture in which Hess 
+employees and contractors keep each other 
+safe on the job so that everyone across 
+our operations returns home safe every 
+day. Our commitment to safety begins with 
+leadership, and we work to reinforce it at 
+every level across our business. We also 
+conduct leadership site visits and safety 
+observations at our operational locations to 
+engage with workers on safety performance.
+The Hess Operational Management System 
+(HOMS), which incorporates the Hess 
+Environment, Health and Safety (EHS) 
+Global Standards, serves as a framework 
+for managing and measuring our safety 
+performance and ensuring continuous 
+improvement. The safety standards and 
+associated procedures address key areas 
+of safety risk – such as energy isolation, 
+dropped objects and confined space entry 
+– and promote leadership, awareness, 
+consistency and accountability across 
+all levels of the enterprise. The HOMS 
+Audit Element and associated Assurance 
+Procedure measures conformance with 
+external and internal requirements (e.g., 
+regulations, policies, standards and 
+procedures) using the following three tiers:SAFETY AND HEALTH
+OCCUPATIONAL HEALTH & SAFETY
+Hess Midstream promotes a culture 
+of ownership by empowering workers 
+with responsibility for identifying and 
+mitigating safety issues relevant to their 
+operations. Through Hess’ behavioral 
+safety observation program, workers are 
+trained to conduct peer to peer workplace 
+observations to identify and track safe and 
+at risk behaviors. Immediate feedback is 
+given to workers who have been observed.
+Hess Midstream has implemented a 
+formal behavioral safety program at all 
+locations and provides ongoing training 
+on behavioral safety, analysis and 
+identification, and conversation skills.
+Key Performance Metrics
+Following an exceptional year for safety 
+performance in 2019, we saw an increase 
+in our workforce total recordable incident 
+rate (TRIR) and workforce lost time incident 
+rate (LTIR) in 2020. Our TRIR increased 
+from 0.13 in 2019 to 0.78 in 2020, and our 
+LTIR increased from 0.13 to 0.19.• Tier I Assurance: Hess’ Corporate Audit 
+Department (CAD), an independent 
+assurance function, conducts annual 
+audits covering occupational health and 
+safety; drilling, completions and production 
+process safety; and management of 
+environmental impacts. CAD’s annual plan 
+is reviewed by the Audit Committee of 
+Hess Midstream’s Board of Directors.
+• Tier II Assurance: Hess subject matter 
+experts and technical authorities work 
+with Hess Midstream to conduct 
+assessments of conformance with 
+applicable Hess corporate and EHS 
+standards and procedures, as well as 
+with applicable regulations, and assist in 
+addressing improvement opportunities.
+• Tier III Assurance: Hess Midstream 
+conducts routine self assessments 
+against Hess EHS standards, business 
+level procedures and regulations.
+Beginning in 2021, we adopted a revised 
+tiered assurance framework, described on 
+page 28 of the Hess 2020 Sustainability 
+Report.
+Terminaling and Export Operations, North Dakota120.00.20.40.60.81.01.2
+2020 2019 2018
+■Employee Total Recordable Incident Rate (TRIR)
+Contractor TRIR■  Employee and Contractor
+Safety Performance
+Cases per 200,000 Hours
+ 
+1.12
+0.720.92
+0.17
+0.000.74
+0.00.20.40.60.81.0
+2020 2019 2018
+■  Workforce TRIR
+■  Workforce Lost Time Incident Rate (LTIR)
+*Workforce data includes both Hess employees and contractors.  
+ When calculating LTIR, calendar workdays are used. A lost time  
+ incident involves one or more days away from work, excluding  
+ the day of the incident.Workforce
+Safety Performance*
+Cases per 200,000 Hours
+0.82
+0.140.78
+0.13 0.130.19
+In response to incidents at midstream 
+locations during the year, root cause analyses 
+were conducted and corrective actions 
+were implemented. In addition, following 
+the uptick in incidents in 2020, Hess 
+Midstream participated in a systemic review 
+that addressed factors impacting our safety 
+performance, including worker distraction due 
+to COVID-19. We were able to apply lessons 
+learned through that review to our planning 
+for the 2021 Tioga Gas Plant turnaround 
+(see page 13).SAFETY AND HEALTH
+• Design integrity: Reducing risks in the 
+design and construction of facilities
+• Technical integrity: Inspecting, testing 
+and maintaining hardware and software 
+barriers
+• Operational integrity: Working within 
+operational design parameters
+We perform Pre-Startup Safety Reviews for 
+new and, as relevant, modified facilities that 
+validate compliance with equipment and 
+construction design specifications, adoption 
+of proper operating procedures, completion 
+of necessary training and resolution of 
+any issues identified in previous risk 
+assessments prior to starting operations.
+Once facilities are in operation, we 
+undertake ongoing integrity inspections 
+and maintenance, guided by a risk 
+based approach that helps us prioritize 
+equipment with higher potential for integrity 
+issues. For facilities we have classified 
+as subject to the OSHA PSM standard 
+and/or the U.S. Environmental Protection 
+Agency (EPA) Risk Management Plan 
+(RMP) program, we undertake regular 
+Process Hazard Analyses (PHAs) that 
+follow the requirements of the Hazard and 
+Operability methodology for the OSHA 
+PSM and the EPA RMP . This PHA process 
+includes identifying potential hazards, 
+controls and safety issues associated with 
+existing facilities and proposed designs, 
+and then developing safeguards and 
+mitigations for identified hazards. PHAs 
+promote a consistent approach to risk 
+and hazard assessment, reporting of 
+findings and implementation of mitigation 
+efforts. See the Environment section of 
+this report (page 21) for more detail on our 
+pipeline related integrity efforts.
+In 2020, we continued to enhance facility 
+level integrity management programs to 
+minimize process safety risk. Integrity 
+critical equipment (ICE) are barriers and 
+safeguards that prevent or mitigate PSEs 
+through detection, isolation, containment, While we continue to pursue efforts to 
+reverse this uptick in incidents, we are 
+encouraged that our safety performance 
+has trended downward over the past four 
+years, with our TRIR decreasing by 29%, 
+from 1.10 in 2017 to 0.78 in 2020. We also 
+experienced no fatalities among either Hess 
+employees or contractors during this time.
+Hess Midstream sets an annual target 
+aimed at reducing the rate of severe and 
+significant safety incidents (SSSI), which 
+is reviewed by our Board of Directors. As 
+part of Hess Midstream’s SSSI rate, we 
+track near miss incidents with potential 
+to result in severe consequences, as 
+well as incidents that result in an actual 
+consequence, including Tier 1 and 
+2 process safety events (PSEs) and 
+recordable incidents. Near miss incidents 
+must be reported internally and recorded 
+in the Hess incident management system 
+as if an actual consequence had occurred.
+PROCESS SAFETY  
+AND ASSET INTEGRITY
+Hess Midstream’s process safety 
+standards aim to prevent the unplanned 
+or uncontrolled loss of primary 
+containment of any material that could 
+result in an incident such as an injury, 
+fire, explosion, toxic release or other 
+environmental impact. These standards 
+support our compliance with regulatory 
+requirements, including, where applicable, 
+the U.S. Occupational Health and 
+Safety Administration’s (OSHA) Process 
+Safety Management (PSM) and the 
+U.S. Department of Transportation’s 
+Pipeline and Hazardous Materials Safety 
+Administration requirements. 
+We focus on understanding and identifying 
+key points within the process safety 
+systems at our facilities that could impact 
+asset integrity and the safe and proper 
+operation of equipment. In particular, we 
+address:2020 HESS MIDSTREAM SUSTAINABILITY REPORT   13control or emergency preparedness and 
+response within our facilities. We utilize 
+Hess’ ICE performance standards, which 
+set specific requirements and criteria for 
+inspections and tests to help ensure ICE 
+barriers are effective. In 2020, we again met 
+our target of 100% inspection and testing 
+of ICE, with approximately 964 critical 
+performance standard assurance test work 
+orders completed, further expanding our 
+understanding of barrier health.
+Following the Hess Management of Change 
+(MOC) Standard is an important element 
+of our process safety efforts. The standard 
+provides requirements and best practices 
+for identifying, reviewing, approving and 
+documenting changes that could impact the 
+safety of people, the environment or assets, 
+as well as recommendations for facility design 
+and project execution. In 2020, we completed 
+implementation of an electronic MOC (eMOC) 
+system across our operations to further 
+strengthen and standardize our efforts.
+We also began implementation of an 
+electronic Permit to Work (ePTW) system 
+at the Tioga Gas Plant in 2020. PTW 
+requirements seek to ensure that risks 
+are mitigated prior to conducting work, 
+personnel are involved in planning the work 
+and conducting a risk assessment, proper 
+authorization is in place for the work to be 
+carried out, the person in charge of an area 
+is aware of the ongoing work, and a formal 
+hand back of the facility or equipment in 
+a safe condition is in place. We expect to 
+complete implementation of this system 
+across our operations in 2023.
+Both the eMOC and ePTW systems are 
+expected to improve our understanding of 
+risk and support better risk management 
+and decision making.
+Key Performance Metrics
+After having just one PSE in 2018, we 
+returned to counts comparable to historical 
+levels in 2019 and 2020. While the number 
+of PSEs has remained flat, the recorded severity of these events was lower in 
+2020. For the Tier 2 PSEs that occurred 
+in 2020, Hess Midstream has completed 
+investigations and is implementing 
+appropriate corrective actions to help 
+prevent similar incidents in the future.
+Hess Midstream also tracks Tier 3 
+and Tier 4 key performance indicators 
+(KPIs), which are leading process safety 
+indicators primarily designed to monitor 
+risk control systems and process 
+safety barriers at the facility, asset or 
+enterprise level. We use these KPIs to drive continuous improvement at our 
+facilities. An example of a Tier 4 KPI is 
+the execution of required maintenance 
+on ICE, which was an indicator included 
+in the 2020 annual incentive plan bonus 
+calculation for Hess employees.
+Process Safety Ev ents
+2018 2019 2020
+Tier 1
+PSE Count040
+Tier 2
+PSE Count15 9Hess Midstream successfully and safely 
+completed a planned maintenance 
+turnaround at the Tioga Gas Plant in the 
+summer of 2021. The maintenance activities 
+completed during the turnaround will help 
+to maintain a safe and reliable plant. The 
+turnaround, along with an expansion project 
+that was mechanically completed in 2020, 
+will increase processing capacity and reduce 
+flaring from production operations.
+The turnaround was originally scheduled to occur in 2020, but we chose to delay all 
+maintenance activities requiring a plant outage until 2021 to reduce COVID-19 related risks 
+associated with assembling the large number of workers required to complete this project. 
+We implemented strict COVID-19 safe work practices for all workers, including hygiene 
+protocols, wearing masks, social distancing, completing daily health questionnaires, and 
+regular COVID-19 testing for the entire workforce. 
+Following months of preplanning and cross functional collaboration between Hess, Hess 
+Midstream and our service providers, we protected the health and safety of our team while 
+minimizing impacts to operations and to the local community, including increased vehicular 
+traffic and additional workers in the area. More than 650 workers, including 300 who were 
+contracted specifically for this project, completed more than 120,000 work hours. With no 
+recordable incidents during the turnaround, we achieved our goal of “everyone, everywhere, 
+every day, home safe” for the project.
+Enhancing the ongoing integrity and safety of our equipment was a key part of this project. 
+We successfully completed over 300 asset integrity and process safety inspections, tests and 
+equipment replacements as part of the turnaround. Other highlights include the following:
+• 120,000 hours worked with zero reported recordable safety incidents
+• 44 vessels/exchangers/heaters cleaned and inspected
+• 37 comprehensive integrity inspections
+• 125 safety valves tested, more than 250 valves replaced and 25 valves overhauled
+•  20 pressure relief valves replaced, 13 tested and 66 relief system piping modifications 
+completed
+In addition, we successfully minimized upstream gas flaring during the turnaround by 
+entering into natural gas offload agreements and executing pipeline interconnects that 
+allowed Hess to sell natural gas that would otherwise have been flared. Tioga Gas Plant Turnaround Supports Safety Performance
+Gas Processing Operations, North Dakota2020 HESS MIDSTREAM SUSTAINABILITY REPORT   15
+Hess Midstream is fully aligned with  
+Hess’ position on climate change, which is 
+one of the greatest scientific challenges of 
+the 21st century. 
+Hess’ climate strategy is closely aligned 
+with the recommendations of the Task 
+Force on Climate-Related Financial 
+Disclosures (TCFD), established by the 
+G20 Financial Stability Board, and its 
+implementation is led by senior members  
+of the Hess leadership team, which 
+includes Hess Midstream executives.
+In 2020, Hess significantly surpassed its 
+five year targets for greenhouse gas (GHG) 
+emissions intensity and flaring intensity 
+reduction. In 2021, Hess announced new five 
+year GHG reduction targets for 2025. Hess 
+Midstream plays a critical role in support of 
+these targets, as described on pages 17−19.
+Hess and Hess Midstream understand 
+that a substantive climate strategy 
+requires companies to look beyond a five 
+year timeframe and have established an 
+executive led task force, which includes 
+Hess Midstream executives, to consider the 
+medium and longer term climate strategy for 
+the enterprise.
+See the full Hess Climate Change Position 
+statement on page 39 of the 2020 Hess 
+Sustainability Report.
+GOVERNANCE
+The Hess Midstream Board of Directors 
+oversees Hess Midstream’s sustainability 
+practices so that sustainability risks and 
+opportunities, including those related to 
+climate change, are taken into account when 
+making strategic decisions. The President 
+and Chief Operating Officer of Hess 
+Midstream meets regularly with the Hess 
+Midstream Board and provides updates on 
+strategic initiatives, including those related  
+to climate change.CLIMATE CHANGE AND ENERGY
+RISK MANAGEMENT
+Through the Hess enterprise risk 
+management (ERM) process, we have 
+developed a risk profile for all midstream 
+operations. The risk profile identifies key 
+risks including those related to climate 
+change. For each risk scenario, we 
+estimate the likelihood and potential 
+impact that the identified risks, including 
+physical, reputational and transition related 
+climate change risks, could have on the 
+business. We compile all identified risks 
+on risk registers, including summaries that 
+catalog actions for managing or mitigating 
+each identified risk.
+Energy Transition Risks
+Energy transition risks are the risks 
+associated with the rate of change in 
+policy actions, technologies or market 
+conditions aimed at emissions reductions, 
+energy efficiencies, subsidies or taxes that 
+may be needed to achieve climate related 
+aims. In order to assess a broad range of 
+energy transition risks, and as an integral 
+part of its planning cycle, Hess conducts 
+an annual scenario based carbon asset 
+risk assessment. Hess’ asset specific 
+annual scenario planning exercise includes 
+Hess Midstream and tests the resilience of 
+Hess’ portfolio against a range of energy 
+supply and demand, environmental policies 
+and market conditions. For all scenarios, 
+each asset is viewed independently with 
+regard to its contribution to Hess’ overall 
+portfolio. In addition, Hess Midstream 
+accounts for the cost of carbon in 
+significant new investment decisions.
+Physical Risks
+Hess Midstream considers the potential 
+physical risks associated with climate 
+change – such as increased severity of 
+storms, droughts and flooding – for both 
+new projects and existing operations 
+through the Hess ERM and value assurance processes. Mitigations to 
+address changing storm magnitude are 
+incorporated into the design of Hess 
+Midstream facilities, where appropriate, 
+and severe weather management and 
+business continuity plans are maintained 
+for severe weather events. 
+We carry insurance policies for business 
+interruption, certain property damage and 
+third party liabilities, including sudden and 
+accidental pollution liabilities, at varying 
+levels of deductibles and limits that we 
+believe are reasonable and prudent under 
+the circumstances to cover our operations 
+and assets.
+Hess Midstream is included in certain 
+analyses conducted by Hess, including its 
+assessment of how climate change may 
+impact water availability and water stress in 
+the areas where Hess and Hess Midstream 
+operate using the World Resources Institute’s 
+Aqueduct tool. Hess is also in the process 
+of conducting an in depth assessment 
+of existing Bakken operations, including 
+Hess Midstream, utilizing geographical 
+information system tools to incorporate 
+climate modeling scenarios to evaluate 
+changing vulnerabilities, such as the 
+potential for heat stress and flooding.
+METRICS AND TARGETS
+Hess Midstream played a critical role in Hess 
+achieving its 2020 targets to reduce Scope 1  
+and Scope 2 GHG emissions intensity by 
+25% and flaring intensity by 50% from its 
+operated assets compared to 2014 levels. 
+As previously reported, Hess has significantly 
+surpassed both of these targets. Specifically, 
+it has achieved the following:
+• Reduced the GHG emissions intensity of 
+its operated assets from 41 tonnes per 
+thousand barrels of oil equivalent (BOE) in 
+2014 to 22 tonnes per thousand BOE in 
+2020, or by 46% versus our target of 25%
+16(CO2e) per BOE (equivalent to 17 tonnes 
+CO2e per thousand BOE) by 2025. This 
+new GHG reduction target utilizes a market 
+based approach to GHG accounting, which 
+allows the use of market based instruments 
+such as renewable energy certificates 
+(RECs) to offset the environmental impact of 
+Scope 2 GHG emissions.
+Hess’ GHG intensity reduction target, 
+which would result in a 44% GHG intensity 
+reduction between 2017 and 2025, is 
+designed to keep pace with the latest 
+energy supply and demand scenarios from 
+the International Energy Agency (IEA) in 
+its 2021 World Energy Outlook. The IEA’s 
+Sustainable Development Scenario and 
+Net Zero Scenario require a 21% and 36% 
+carbon intensity reduction, respectively, 
+between 2017 and 2030 in order to be 
+consistent with the Paris Agreement’s less 
+than 2°C and net zero ambitions.
+Continued flare reduction is a primary driver 
+for achieving Hess’ 2025 GHG emissions 
+intensity target, and Hess has tied flare 
+reduction to compensation to help drive 
+further GHG reductions. Specifically, Hess 
+has set a target to achieve a 7% gross flaring 
+rate from its wells and pads, as reported 
+to the North Dakota Industrial Commission 
+(NDIC), in 2021. This target is more 
+aggressive than the 9% gross flaring rate 
+currently required by the NDIC.
+As part of advancing its updated climate 
+change strategy, Hess has established 
+a new executive led task force including 
+Hess Midstream executives that will 
+evaluate and implement the medium and 
+longer term aspects of the strategy.
+GREENHOUSE GAS PERFORMANCE 
+Hess Midstream reports GHG emissions 
+from our operated facilities. GHG emissions 
+estimates include carbon dioxide (CO2), 
+methane and nitrous oxide, which are reported in units of CO2e. We use global 
+warming potentials based on the values 
+in the Fourth Assessment Report: Climate 
+Change 2007 (AR-4), prepared by the 
+Intergovernmental Panel on Climate 
+Change, to estimate CO2e totals.
+Hess Midstream reports direct (Scope 1) 
+operated GHG emissions from stationary 
+combustion sources such as flaring, 
+heaters, turbines and engines, and 
+noncombustion fugitive emissions 
+sources, such as storage tanks, 
+compressor seals, pneumatic pumps and 
+valves. In addition, we also report indirect 
+emissions (Scope 2) associated with 
+purchased electricity. The factors used to 
+estimate emissions for these combustion 
+and noncombustion sources are those 
+prescribed by the U.S. Environmental 
+Protection Agency (EPA) in its GHG 
+Mandatory Reporting Rule (40 CFR Part  
+98, Subpart C and Subpart W).
+Key Performance Metrics
+Hess Midstream represented 
+approximately 22% of Hess’ Scope 1  
+and Scope 2 GHG emissions profile in 
+2020, as illustrated at left.
+In 2020, of our total estimated 811,600 
+tonnes of GHG emissions, process 
+operations accounted for 270,600 tonnes, 
+flaring accounted for 158,300 tonnes 
+and purchased electricity accounted for 
+319,700 tonnes of emissions. Fugitive 
+emissions and venting accounted for 
+the remaining 63,000 tonnes. When 
+considering the total 811,600 tonnes of 
+emissions on a facility basis, gas gathering 
+accounted for 426,400 tonnes, the Tioga 
+Gas Plant accounted for 357,700 tonnes 
+and the Tioga Rail Terminal accounted for 
+the remaining 27,500 tonnes.• Reduced the flaring intensity of its 
+operated assets from 276 standard 
+cubic feet (SCF) per BOE in 2014 to 
+114 SCF per BOE in 2020, or by 59% 
+versus its target of 50%
+These targets were primarily achieved 
+through investing more than $3.4 billion in 
+midstream infrastructure in North Dakota 
+between 2012 and 2020 and strong 
+production performance by Hess.
+We expect Hess Midstream’s continued 
+focus on gas gathering infrastructure and 
+flare reduction initiatives in the Bakken 
+will also contribute significantly to the 
+achievement of Hess’ new 2025 GHG 
+intensity target and 2021 gross flaring rate 
+target, as described further below.
+As part of Hess’ updated climate change 
+strategy and in alignment with TCFD’s 
+criteria for target setting, Hess has 
+established a new GHG intensity reduction 
+target for 2025, using 2017 as a baseline. 
+Hess’ target is to reduce the GHG 
+emissions intensity of its operated assets to 
+17 kilograms (kg) carbon dioxide equivalent CLIMATE CHANGE AND ENERGY
+3.924.33
+3.67
+012345
+2020 2019 2018Hess Midstream as a Portion
+of Hess’ Operated GHG 
+Emissions (Scopes 1 and 2)
+Million Tonnes of CO2e
+■  Hess Upstream ■  Hess Midstream2020 HESS MIDSTREAM SUSTAINABILITY REPORT   17Our absolute Scope 1 and Scope 2 GHG 
+emissions were reduced by approximately 
+88,300 tonnes in 2020, or by 10%, 
+compared to 2019. This decrease was led 
+by reductions in our Scope 1 emissions –  
+primarily related to enhancements in 
+natural gas gathering infrastructure, 
+which helped to reduce flaring, as well 
+as continued implementation of our leak 
+detection and repair (LDAR) program, 
+which helped to reduce fugitive emissions. 
+The decrease in our Scope 1 emissions 
+was partially offset by an increase in 
+Scope 2 indirect emissions, which was 
+due to additional electricity use related to 
+the electrification of compressor stations.
+In 2020, as in previous years, we used  
+RECs to offset the environmental impact 
+of our Scope 2 CO2e emissions. As a 
+result, Hess Midstream’s absolute 2020 
+GHG emissions were reduced by 241,600 
+tonnes – from 811,600 tonnes on a 
+location basis to 569,900 tonnes on a 
+market basis.
+Currently, there is no standardized 
+methodology among midstream producers 
+to calculate GHG emissions intensity, 
+and as a result there are many different 
+intensity metrics used by midstream 
+companies. For emissions intensity 
+purposes, we include in our denominator 
+all the natural gas, natural gas liquids 
+and crude oil that passes through our 
+gathering and handling facilities, from 
+the point of leaving the well pad to the 
+terminals and gas processing plants.
+Based on this methodology, Hess 
+Midstream has reduced our market 
+based GHG emissions intensity from 
+approximately 10 kg per BOE in 2018 to  
+5 kg per BOE in 2020, or by 48%, through 
+a series of flare reduction initiatives and 
+electrification of gas compressor stations.EMISSIONS REDUCTION 
+INITIATIVES
+We are focused on identifying GHG 
+reduction opportunities, evaluating and 
+implementing technologies as appropriate 
+and evaluating capital and infrastructure 
+requirements. In collaboration with Hess, 
+Hess Midstream has prioritized the 
+following emissions reduction initiatives:
+• Continuing to optimize field development 
+and infrastructure plans for our Bakken 
+operations through the following:
+ −Tioga Gas Plant expansion and 
+debottlenecking to provide an additional 
+150 million standard cubic feet per day 
+(MMSCFD) in processing capacity
+ −Installing additional compression 
+capacity in 2020 and 2021, with more 
+planned for the future
+ −Utilizing advanced modeling tools 
+to maximize the capabilities of our 
+infrastructure
+• Examining and implementing 
+alternatives to flaring, such as utilizing 
+natural gas that would have been 
+flared for onsite power generation or 
+conversion to liquified natural gas
+• Pursuing studies to improve energy 
+efficiency
+• Examining potential power purchase 
+agreement structures to address Hess’ 
+and Hess Midstream’s electricity needs 
+through renewable energy, thereby 
+offsetting or eliminating our collective 
+Scope 2 GHG emissions
+The Hess Midstream Board of Directors 
+will be updated on the progress of these 
+initiatives. 
+Please refer to case studies on page 50  
+of Hess’ 2020 Sustainability Report 
+for additional examples of emissions 
+reduction initiatives.2020 Operated GHG Emissions
+(Scopes 1 and 2) by Facility
+Tonnes CO2e
+■  Gas Gathering  426,393
+■  Tioga Gas Plant  357,675
+■  Tioga Rail Terminal  27,4923%
+53% 44%
+00.20.40.60.81.0
+0246810
+2020 2019 2018Operated GHG Emissions
+(Scopes 1 and 2)                                                  
+■  Scope 1 CO 2 Emissions
+■  Scope 1 Methane Emissions
+■ Scope 2 GHG Emissions (market based)
+■■ Scope 2 GHG Emissions (incremental 
+ location based)
+ GHG Intensity (kg CO2e/BOE)Million Tonnes CO2e
+GHG Intensity (kilograms CO 2e per BOE)2020 Operated GHG Emissions
+(Scopes 1 and 2) by Source
+Tonnes CO2e
+■  Electricity (Scope 2)  319,706
+■  Fuel Gas Combustion  270,551
+■  Flaring  158,344
+■  Venting  43,838
+■  Fugitives  19,1206%
+39%20%2%
+33%18
+Flaring
+In 2020, flaring from Hess Midstream 
+facilities totaled approximately 2.5 billion 
+standard cubic feet (BSCF), a decrease of 
+nearly 1 BSCF from 2019 or approximately 
+28%. This reduction was primarily related 
+to our focus on natural gas capture through 
+increased availability and reliability at our 
+compressor stations, expansion of gathering 
+infrastructure, enhanced communication 
+with third party gatherers and improved 
+planning of new wells to prioritize gathering 
+of new natural gas production.
+The majority (approximately 73%) of 
+our 2020 flaring volume occurred in the 
+gathering systems at compressor stations, 
+which is mainly attributed to constraints 
+in downstream infrastructure that are 
+being actively addressed, as discussed 
+below. Around 19% of total flaring in 2020 
+was from safety flaring associated with 
+rail car loading vapors at the Tioga Rail 
+Terminal. The remaining 0.2 BSCF or 8% 
+of 2020 flaring was from the Tioga Gas 
+Plant, mostly due to operational changes 
+resulting from lower levels of hydrogen 
+sulfide in the inlet gas, and subsequent 
+decommissioning of the sulfur recovery 
+unit (SRU). (See page 22 for more on 
+the SRU.) When normalized against the volume of hydrocarbons processed 
+(thousand standard cubic feet per BOE), 
+our flaring intensity in 2020 was around 
+0.023, a 31% reduction from 2019.
+We are taking steps to continue driving 
+flare reductions in the next several years, 
+including continued execution of capital 
+projects to increase natural gas capture 
+rates in Hess’ production operations and in 
+the Bakken region. As detailed in the Safety 
+and Health section of this report, the Tioga 
+Gas Plant was shut down for approximately 
+45 days in the third quarter of 2021 for 
+required maintenance and completion of 
+an expansion project that commenced in 
+2020. The expansion increased the plant’s 
+capacity from 250 MMSCFD to 400 
+MMSCFD and allows the plant to process 
+Hess and third party natural gas. We also 
+continue to add capacity throughout our 
+gas gathering systems as needed. (See 
+pages 50–51 of the Hess Sustainability 
+Report for more detail.)
+Methane
+In 2020, our total Scope 1 methane 
+emissions were reduced by approximately 
+13% to 1,197 tonnes, down from 1,371 
+tonnes in 2019. This equates to 29,913 
+tonnes of CO2e (assuming a Global 
+Warming Potential of 25), which represents 
+approximately 6% of our operated Scope 1 
+GHG emissions. Major sources of methane 
+are fugitive emissions from pneumatic 
+devices, pumps, tanks, compressor seals 
+and pipelines, and the residual unburned 
+methane associated with flaring.
+One ongoing element of Hess’ 
+environment, health, safety and social 
+responsibility (EHS & SR) strategy has been 
+to pursue voluntary reductions in methane 
+emissions from two angles: performance 
+based targets and best practices.  
+In support of this strategy, Hess and 
+seven other companies founded the ONE Future Coalition in 2014 – a group with 
+representation from across the natural gas 
+industry including midstream operations, 
+focused on identifying policy and 
+technical solutions that yield continuous 
+improvement in the management of 
+methane emissions associated with the 
+production, processing, transportation 
+and distribution of natural gas. By the 
+end of 2020, ONE Future membership 
+had grown to around 40 companies. 
+ONE Future offers a performance based, 
+flexible approach that is expected to 
+yield significant reductions in methane 
+emissions. ONE Future’s measurement 
+protocol has been approved by the EPA.
+The goal of ONE Future is to voluntarily 
+lower methane emissions to less than 1% 
+of gross methane production across the 
+U.S. value chain by 2025. Peer reviewed 
+analyses indicate that a leak/loss rate of 1% 
+or less across the U.S. natural gas value 
+chain provides immediate GHG reduction 
+benefits. To achieve this goal, ONE Future 
+has established 2025 methane emissions 
+rate targets for each sector of the natural gas 
+value chain: production (0.28%), gathering 
+and boosting (0.08%), processing 
+(0.11%), transmission and storage (0.30%) 
+and distribution (0.22%), which cumulatively 
+total the 1% target. 
+Hess Midstream operates in two of the 
+ONE Future sectors – gathering and 
+boosting and processing.  We have made 
+significant progress toward the 0.08% 
+methane emissions intensity target for 
+gathering and boosting between 2018 and 
+2020, reducing our rate from around 0.20% 
+to 0.09% during that time. This reduction 
+is mainly attributable to the electrification 
+of compressors. Our methane emissions 
+intensity from processing, which has 
+consistently been well below the ONE 
+Future target of 0.11%, was reduced from 
+0.05% in 2018 to 0.03% in 2020.2020 Flaring by Facility
+Million Standard Cubic Feet
+■  Gas Gathering  1,859
+■  Tioga Rail Terminal  475
+■  Tioga Gas Plant  2068%
+73%19%CLIMATE CHANGE AND ENERGY2020 HESS MIDSTREAM SUSTAINABILITY REPORT   19
+Initiatives involving Hess Midstream 
+operations – including the provision of 
+gathering infrastructure and resultant flaring 
+intensity reduction, as well as the continued 
+implementation of our LDAR program – 
+have also been instrumental in lowering 
+Hess’ production methane emissions 
+intensity from 0.26% in 2018 to 0.22% in 
+2020 (further surpassing the 0.28% ONE 
+Future production target).
+With further efficiency improvements planned 
+for the coming years, we anticipate that we  
+will achieve our sectoral ONE Future targets  
+by 2025.
+In addition to this ONE Future commitment, 
+as part of its EHS & SR strategy update, 
+Hess has established a global methane 
+intensity target of 0.19% by 2025. The 
+new target uses natural gas sales as a 
+denominator, where the ONE Future protocol 
+uses methane production. We expect that 
+Hess Midstream’s continued efforts to 
+increase natural gas capture and reduce 
+flaring, paired with our LDAR program, will 
+support Hess in achieving this global target.
+Other External Commitments
+In a related voluntary effort to adopt and 
+promote industry best practices, Hess 
+became one of the founding participants 
+of The Environmental Partnership (The 
+Partnership) in 2017. The Partnership is 
+focused on technologically feasible and 
+commercially proven solutions that result  
+in significant emissions reductions. 
+A key goal of The Partnership is furthering 
+action to reduce air emissions associated  
+with natural gas and oil production. The 
+Partnership has initiated several programs  
+and allows member companies to decide 
+which are best suited for their operations. 
+The Partnership originally launched three 
+oil and gas emissions reduction programs 
+primarily focused on production operations. 
+The Partnership has recently initiated 
+three new programs, two of which have a midstream focus: pipeline blowdowns and 
+compressor station emissions reductions. 
+Hess and Hess Midstream have committed 
+to participating in both.
+Hess submits information on its 
+implementation of all of these programs to 
+The Partnership, which in turn publishes 
+an annual report every summer. Hess also 
+plans to report on its progress in each 
+of these programs as part of its annual 
+sustainability report.
+ENERGY USE
+Hess Midstream generates and purchases 
+energy primarily for power, processing, 
+heating and cooling. In 2020, energy 
+consumption from midstream facilities 
+was approximately 10.6 million gigajoules, 
+8% higher than in 2019. This increase 
+is primarily due to increased energy 
+use associated with gas gathering and 
+processing due to increased production 
+in North Dakota and increased electricity 
+usage from the conversion from natural 
+gas to electric compression. 
+Forty-four percent of our energy use was 
+directly generated from our operations – 
+primarily at our gathering, boosting and 
+processing facilities in North Dakota. The 
+remaining 56% was indirect energy (i.e., 
+energy used by utilities to provide electricity) 
+primarily purchased for use at the Tioga Gas 
+Plant and our electric compression facilities.
+Based on U.S. electricity generation profiles, 
+we estimate that approximately 27% of our 
+purchased electricity was generated from 
+renewable sources, primarily wind power. 
+To offset Hess Midstream’s total 481,000 
+megawatt hours of purchased electricity that 
+came from nonrenewable sources, a total of 
+481,000 Green-e Energy certified Renewable 
+Energy Certificates (RECs) were purchased 
+from Multiple Mix Products. In total, including 
+the RECs, 100% of our indirect energy use 
+came from renewable sources.■ Gathering and Boosting
+ Gathering and Boosting 2025 Target
+■ Processing
+ Processing 2025 Target   0.00%0.05%0.10%0.15%0.20%
+2020 2019 2018Methane Emissions 
+Intensity, Based on the ONE 
+Future Protocol Methodology
+(Tonnes Methane Emitted/Tonnes 
+Methane Produced)
+ 
+9,224
+02,0004,0006,0008,00010,00012,000
+2020 2019 2018Energy Use
+Thousand Gigajoules
+ 
+9,82110,585
+■  Direct ■  Indirect
+   Export Operations, North Dakota2020 HESS MIDSTREAM SUSTAINABILITY REPORT   21Hess Midstream is committed to 
+protecting the environment, and doing 
+so is a central part of our daily work. We 
+follow Hess’ environmental management 
+standards and procedures, which help us 
+to mitigate and manage potential impacts 
+from our operations and help ensure 
+compliance with environmental laws 
+and regulations, internal standards and 
+voluntary commitments. Spill prevention, 
+air emissions management and water 
+management are described in this section, 
+while our approaches to biodiversity, 
+waste management and environmental 
+compliance – which mirror Hess’ – are as 
+described on pages 59–61 of the Hess 
+2020 Sustainability Report.
+SPILL PREVENTION
+The prevention of releases and our related 
+asset integrity efforts are among Hess 
+Midstream’s top material sustainability 
+issues. We follow Hess’ standards for 
+produced water management, pipeline 
+asset integrity and well integrity, which help 
+us to manage potential environmental 
+impacts on water and surface ecosystems. 
+We do this by taking a lifecycle approach 
+– from initial project planning through 
+construction, operations, maintenance 
+and decommissioning – and follow the 
+U.S. Department of Transportation’s 
+Pipeline and Hazardous Materials Safety 
+Administration (PHMSA)’s asset integrity 
+requirements on all regulated as well as 
+most nonregulated pipelines.
+During project planning and construction, 
+Hess Midstream undertakes localized 
+risk assessments and develops designs 
+based on specific landscape, ecosystem, 
+community and regulatory criteria. We use 
+best practice construction techniques, 
+including location and function specific 
+choices about materials, cathodic protection 
+and corrosion prevention, to maximize ENVIRONMENT
+the integrity of our facilities. We perform 
+extensive testing, including hydrostatic 
+testing and smart pigging of pipelines, before 
+operating the pipelines or adjoining facilities.
+Once operating, we follow a risk based 
+approach for ongoing inspections and 
+preventive maintenance where we employ 
+remote and in person monitoring, smart 
+pigging, corrosion monitoring and aerial 
+surveillance practices. Hess has extended 
+its cathodic protection program and aerial 
+surveillance practices to include pipelines 
+that are not under PHMSA jurisdiction. 
+We also perform inline inspections; close 
+interval, soil-to-pipeline gradient cathodic 
+protection surveys; and flyover inspections 
+that go beyond applicable regulations on 
+some pipelines. In 2020, we implemented 
+enhanced, real time, remote monitoring 
+systems for our equipment, including 
+integrity critical equipment. These systems 
+track alignment with applicable operating 
+parameters to help us identify and prioritize 
+maintenance planning and response.
+We are continuing a multiyear effort through 
+the American Petroleum Institute’s (API) 
+Pipeline Safety Management System group 
+to implement, evaluate and enhance API 
+Recommended Practice 1173, a best 
+practice pipeline safety management system.
+In the event a spill or release should 
+occur, we maintain spill preparedness and 
+response plans and conduct emergency 
+response exercises and other training. To 
+support a swift and effective response to 
+any loss of primary containment (LOPC) 
+incident, we maintain strong relationships 
+with mutual aid and emergency response 
+organizations at the local and regional level. 
+Key Performance Metrics
+We track LOPC events through the Hess 
+incident reporting system by size and 
+material, and we report spills following applicable industry and regulatory 
+guidance. We also use leading and lagging 
+indicators to monitor performance on 
+environmental releases and set annual 
+performance targets that are reviewed 
+regularly with our Board of Directors. In 
+addition, we continue to enhance the range 
+of key performance indicators we use to 
+track performance internally and increase 
+internal transparency and reporting.
+The LOPC metrics included in this report 
+are based on the EIC/GPA ESG Reporting 
+Template (see page 3), which defines 
+a hydrocarbon release as “a release of 
+liquid materials containing hydrocarbons 
+to the ground or water from facilities and 
+pipelines outside of sized secondary 
+containment that stays onsite or migrates 
+offsite that is greater than five barrels.”
+In 2020, we had no spills over five barrels 
+outside of secondary containment. We 
+attribute this achievement to a concerted 
+effort to update infrastructure and continued 
+use of robust preventive maintenance.020406080100
+01234
+2020 2019 2018Hydrocarbon Spills
+ 
+14
+3881
+■  Volume of Spills    Number of Spills
+   Volume of Spills (Barrels)
+Number of Spills22ENVIRONMENT
+AIR EMISSIONS
+The normal operation of fuel combustion 
+and processing equipment as well as flaring 
+activities results in air emissions of nitrogen 
+oxides (NOx), sulfur dioxide (SO2) and 
+volatile organic compounds (VOCs). Fugitive 
+emissions sources, including compressor 
+seals, pneumatic pumps and valves, can 
+also contribute to VOC emissions.
+Key Performance Metrics
+Emissions of NOX, SO2 and VOC emissions 
+have been steadily decreasing from our 
+operations, with a 57% reduction between 
+2018 and 2020.
+We observed a 19% decrease in NOX 
+emissions and a 28% decrease in our VOC 
+emissions from 2019 to 2020. This was due 
+in part to decreased consumption of fuel 
+gas at compressor stations by utilizing newer 
+electric compressors, decreased flaring and 
+increased usage of cleaner burning gas 
+powered engines at the Tioga Gas Plant.
+SO2 emissions decreased by 87% in 
+2020 compared with 2019, mainly due 
+to the phaseout of processing legacy 
+gas containing hydrogen sulfide and 
+decommissioning of the sulfur recovery unit 
+(SRU) at the Tioga Gas Plant. This legacy gas, which was previously processed 
+through the SRU, has been significantly 
+reduced and is now incinerated.
+Moving forward, we expect that our 
+continued efforts to improve equipment 
+at the Tioga Gas Plant and update our 
+infrastructure will support additional 
+reductions in emissions.
+WATER MANAGEMENT
+Hess Midstream’s use and discharge 
+of water is very limited and is primarily 
+associated with hydrostatic testing of 
+pipelines and other facilities and cooling 
+water. Nonetheless, reducing the potential 
+for impacts to freshwater resources 
+remains important to Hess Midstream and 
+our stakeholders. In the Bakken region, 
+we have developed our water use strategy 
+based on engagement and feedback 
+with local stakeholders, including local 
+governmental authorities.
+In 2020, Hess updated its stressed water 
+resource analysis in the Bakken region 
+using the World Resources Institute’s 
+Aqueduct tool and confirmed that Hess 
+Midstream is not operating in a high 
+baseline water stress area. While the 
+potential for us to impact fresh water is 
+not significant, we remain committed 
+to responsible water management. 
+See pages 55–57 of the Hess 2020 
+Sustainability Report for further detail  
+on the enterprise level approach to  
+water management.Produced Water Disposal
+Hess Midstream operates a produced 
+water gathering and disposal system 
+that helps improve safety and operational 
+efficiency and allows us to better manage 
+and mitigate environmental impacts. 
+In 2019, we purchased approximately 
+75 miles of water gathering pipelines in 
+addition to pipelines already owned and 
+began building new produced water 
+disposal facilities to support the growth 
+of the Bakken asset. This allowed us to 
+move water by pipeline in place of trucks, 
+significantly reducing the risk of spills and 
+reducing truck related air emissions.
+This growth continued into 2020, when  
+we achieved the following: 
+• Transported more than 50 million barrels 
+of produced water
+• Piped 70% of Hess’ produced water 
+by the end of 2020, a more than 40% 
+increase year on year
+• Tied more than 820 Hess wells into 
+the approximate 270 miles of Hess 
+Midstream water gathering pipelines
+• Injected 8.7 million barrels of produced 
+water into produced water disposal 
+facilities operated by Hess Midstream
+Hess Midstream continues to innovate 
+and pursue the optimum use of the 
+pipelines and produced water disposal 
+facilities to safely and effectively dispose of 
+the produced water from well operations.0500100015002000
+2020 2019 20181,642
+7199431,247
+162668710
+511Emissions (Tonnes)888Air Emissions  
+NO x SO 2 VOC
+Water Gathering Operations, North Dakota2020 HESS MIDSTREAM SUSTAINABILITY REPORT   23PERFORMANCE DATA
+This table shows our publicly reported performance data for Hess Midstream. Additionally, we have reported our performance metrics  
+in alignment with the Energy Infrastructure Council (EIC) and GPA Midstream Association ESG Reporting Template, which can be found  
+at hessmidstream.gcs-web.com/sustainability-report.
+Our U.S. Securities and Exchange Commission (SEC) Form 10-K filing, which can be found at hessmidstream.gcs-web.com/investors/ 
+sec-filings, provides more detail on our financial and governance information.
+UNITS 2020 2019 2018
+Business Performance and Selected Economic Metrics
+Sales and other operating revenue $ Million 1,092 848 713
+Net income $ Million 485 318 326
+Total assets $ Million 3,375 3,278 2,991
+Total liabilities $ Million 2,049 1,946 1,115
+Adjusted earnings before interest, taxes, depreciation & amortization (EBITDA)
+ $ Million 749 551 505
+Debt to adjusted EBITDA ratio # 2.6 3.2 2.0
+Capital expenditure $ Million 253 317 271
+Activity
+Gross throughput BOE 110,092,758 104,779,325 76,454,889
+Mile of pipeline Mile 1,826 1,785 1,688
+Number of reportable pipeline incidents # 0 0 0
+Natural gas pipelines inspected % 23 0 0
+Hazardous liquid pipelines inspected % 16 36 10
+Governance *
+Directors that are female % 0 0 -
+Corporate officers (Vice President and above) that are female % 20 20 -
+Directors from minority groups◊% 0 0 -
+Corporate officers (Vice President and above) from minority groups◊% 0 0 -
+Directors under the age of 50 % 10 10 -
+Independent directors % 30 30 -
+Directors receiving less than 80% votes cast in favor when running 
+unopposed in last five years# 0 0 -
+% of the Limited Partnership board elected by unit holders % 100 (Sponsors) 100 (Sponsors) -
+Safety Performance §¤
+Employee total recordable incident rate Per 200,000 hours worked 0.92 0.00 1.12
+Contractor total recordable incident rate Per 200,000 hours worked 0.74 0.17 0.72
+Employee days away, restricted or transferred Per 200,000 hours worked 0.46 0.00 0.00
+Contractor days away, restricted or transferred Per 200,000 hours worked 0.37 0.17 0.18
+Employee lost time incident rate Per 200,000 hours worked 0.46 0.00 0.00
+Contractor lost time incident rate Per 200,000 hours worked 0.12 0.17 0.18
+Fatalities – workforce (employees + contractors) # 0 0 0
+Number of process safety events (Tier 1) # 0 4 0
+Number of process safety events (Tier 2) # 9 5 1
+  Adjusted EBITDA and Debt to Adjusted EBITDA are non-GAAP (U.S. Generally Accepted Accounting Principles) measures and should not be considered an alternative  
+to, or more meaningful than, other measures reported in accordance with GAAP. For definitions and reconciliations of Adjusted EBITDA and Debt to Adjusted EBITDA  
+to their most directly comparable financial measures calculated and presented in accordance with GAAP, see Item 7. Management’s Discussion and Analysis of Financial 
+Condition and Results of Operations in 2020 Hess Midstream 10-K report.
+*  Due to restructuring of our Board of Directors in 2019, governance data requested by the EIC has been reported for 2019 and 2020 only. See page 5 of our 2020 SEC Form 
+10-K for further detail.
+◊  Minority status is as defined by the U.S. Equal Employment Opportunity Commission.    
+§  The rates reflected above for incidents and illness do not account for COVID-19 cases that were determined to be work related on the basis that an alternative explanation  
+for how an employee contracted the disease could not be identified. While not included in our rates, these cases are recorded on Hess’ OSHA Injury and Illness logs, 
+where applicable.
+¤  While Hess Midstream does not have any direct employees, we are able to report Hess Midstream specific safety incident data safety because incidents are attributed  
+to Hess midstream facilities and locations in Hess’ incident reporting system.24
+UNITS 2020 2019 2018
+Greenhouse Gas (GHG) Emissions and Flaring †
+Total GHG emissions (Scopes 1 and 2) (location based) Tonnes CO2e 811,560 899,860 784,693
+Scope 1 GHG emissions Tonnes CO2e 491,854 601,432 537,507
+Scope 1 carbon dioxide (CO2) emissions Tonnes CO2e 462,488 566,892 502,874
+Scope 1 methane emissions Tonnes CO2e 29,150 34,282 34,386
+Scope 2 GHG emissions (location based) Tonnes CO2e 319,706 298,428 247,186
+Scope 2 GHG emissions (market based) Tonnes CO2e 78,057 74,608 218,610
+Total GHG emissions (Scopes 1 and 2) (market based) Tonnes CO2e 569,911 676,040 756,117
+GHG emissions intensity (market based) Kg CO2e/BOE 5.18 6.45 9.89
+GHG emissions (Scopes 1 and 2) intensity per billion BOE-mile Tonnes CO2e/Billion BOE-Mile 4,037 4,811 6,080
+GHG emissions (Scopes 1 and 2) intensity per EBITDA Tonnes CO2e/$ Million 1,084 1,634 1,554
+Scope 1 methane emissions intensity from gathering and boosting ¥ % 0.091 0.127 0.196
+Scope 1 methane emissions intensity from processing ¥ % 0.031 0.054 0.045
+Flaring Thousand SCF 2,540,090 3,524,883 2,795,407
+Flaring intensity SCF/BOE 23.07 33.64 36.56
+Energy Use
+Operated direct energy use Thousand gigajoules 4,705 4,959 5,192
+Operated indirect energy use (gross) Thousand gigajoules 5,880 4,862 4,032
+Net purchased electricity by primary energy source* Thousand MWh 637 527 437
+Green-e certified renewable energy certificates (RECs) Thousand MWh 481 395 50
+% of energy used (direct and indirect) that is renewable energy
+ % 56 50 17
+Environment
+Number of hydrocarbon liquid releases** # 0 4 1
+Volume of hydrocarbon liquid releases** Barrels 0 81 38
+Hydrocarbon liquid releases intensity per mile of pipeline** Barrels/Mile 0 0.05 0.02
+Nitrogen oxides emissions Tonnes 719 888 1,642
+Sulfur dioxide emissions Tonnes 162 1,247 943
+Volatile organic compounds emissions Tonnes 511 710 668
+Environmental fines and penalties – operated $ 0 0 9,000
+ † All GHG emissions and flaring values are reported on an operated basis.
+ ¥ Based on ONE Future methodology.
+ * Third party power generation.
+ 
+ This percentage is the sum of our purchased electricity generated from renewable sources and purchased RECs divided by our total energy use (direct and indirect).
+** Includes releases that are both beyond secondary containment and greater than five barrels.PERFORMANCE DATA
+Terminaling and Export Operations, North DakotaDesign: incdesign.comThis report contains “forward-looking statements” within the meaning 
+of U.S. federal securities laws. Words such as “anticipate,” “estimate,” 
+“expect,” “forecast,” “guidance,” “could,” “may,” “should,” “would,” 
+“believe,” “intend,” “project,” “plan,” “predict,” “will,” “target” and 
+similar expressions identify forward-looking statements, which are 
+not historical in nature. Our forward-looking statements may include, 
+without limitation: our future financial and operational results; our 
+business strategy; our industry; our expected revenues; our future 
+profitability; our maintenance or expansion projects and the expected 
+timing, completion and benefits of our projects; our projected budget 
+and capital expenditures and the impact of such expenditures on our 
+performance; future economic and market conditions in the oil and 
+gas industry; and information about sustainability goals and targets  
+and planned social, safety and environmental policies, programs  
+and initiatives. 
+Forward-looking statements are based on our current understanding, 
+assessments, estimates and projections of relevant factors and 
+reasonable assumptions about the future. Forward-looking statements 
+are subject to certain known and unknown risks and uncertainties 
+that could cause actual results to differ materially from our historical 
+experience and our current projections or expectations of future 
+results expressed or implied by these forward-looking statements. 
+The following important factors could cause actual results to differ 
+materially from those in our forward-looking statements: the direct and 
+indirect effects of the COVID-19 global pandemic and other public 
+health developments on our business and those of our business 
+partners, suppliers and customers, including Hess; the ability of 
+Hess and other parties to satisfy their obligations to us, including 
+Hess’ ability to meet its drilling and development plans on a timely 
+basis or at all and the operation of joint ventures that we may not 
+control; our ability to generate sufficient cash flow to pay current and 
+expected levels of distributions; reductions in the volumes of crude 
+oil, natural gas, NGLs and produced water we gather, process, 
+terminal or store; fluctuations in the prices and demand for crude oil, 
+natural gas and NGLs, including as a result of the COVID-19 global 
+pandemic; changes in global economic conditions and the effects 
+of a global economic downturn on our business and the business of SPECIAL NOTE REGARDING FORWARD-LOOKING INFORMATION
+our suppliers, customers, business partners and lenders; our ability 
+to comply with government regulations or make capital expenditures 
+required to maintain compliance, including our ability to obtain or 
+maintain permits necessary for capital projects in a timely manner, if at 
+all, or the revocation or modification of existing permits; our ability to 
+successfully identify, evaluate and timely execute our capital projects, 
+investment opportunities and growth strategies, whether through 
+organic growth or acquisitions; costs or liabilities associated with federal, 
+state and local laws, regulations and governmental actions applicable 
+to our business, including legislation and regulatory initiatives relating 
+to environmental protection and safety, such as spills, releases, 
+pipeline integrity and measures to limit greenhouse gas emissions; our 
+ability to comply with the terms of our credit facility, indebtedness and 
+other financing arrangements, which, if accelerated, we may not be 
+able to repay; reduced demand for our midstream services, including 
+the impact of weather or the availability of the competing third-party 
+midstream gathering, processing and transportation operations; 
+potential disruption or interruption of our business due to catastrophic 
+events, such as accidents, severe weather events, labor disputes, 
+information technology failures, constraints or disruptions and cyber-
+attacks; any limitations on our ability to access debt or capital markets 
+on terms that we deem acceptable, including as a result of weakness 
+in the oil and gas industry or negative outcomes within commodity 
+and financial markets; liability resulting from litigation; and other factors 
+described in Item 1A—Risk Factors in our Annual Report on Form  
+10-K, as well as any additional risks described in our other filings with 
+the Securities and Exchange Commission.
+As and when made, we believe that our forward-looking statements 
+are reasonable. However, given these risks and uncertainties, caution 
+should be taken not to place undue reliance on any such forward-
+looking statements since such statements speak only as of the date 
+when made and there can be no assurance that such forward-looking 
+statements will occur and actual results may differ materially from 
+those contained in any forward-looking statement we make. Except 
+as required by law, we undertake no obligation to publicly update 
+or revise any forward-looking statements, whether because of new 
+information, future events or otherwise.
+REQUESTS FOR INFORMATION 
+We invite your questions, comments and suggestions regarding this 
+report. To send us your questions or comments, or to request more 
+information or additional copies of this report, please contact:
+President and Chief Operating Officer  
+Hess Midstream  
+1501 McKinney Street  
+Houston, TX 77010
+You can also send us an email at hessmidstream@hess.com .

@@ -1,0 +1,2605 @@
+ABOUT THIS REPORT
+MESSAGE FROM THE CEOABOUT EQTSAFETYENVIRONMENTAL STEWARDSHIPSOCIAL RESPONSIBILITYECONOMIC IMPACTKEY PERFORMANCE DATAGLOBAL REPORTING INITIATIVE 
+CONTENT INDEX2
+348
+1222344042
+TABLE OF CONTENTS
+7864_Text_C4.indd   1 8/29/14   1:10 PMAbout this Report
+The 2014 Corporate Social Responsibility Report for EQT Corporation (EQT or “the Company”) is presented in accordance 
+with Global Reporting Initiative (GRI) Guidelines 3.1 and the Oil and Gas Sector Supplement (OGSS). GRI standards and 
+technical protocols were used to determine the materiality of data, the methods for reporting that data, and the validation 
+of completeness. Internal risk assessment, benchmarking, and gap analysis helped decide which sustainability topics were 
+most relevant to EQT and its stakeholders.
+The current report covers activity at EQT headquarters and the Company’s two business segments — Production and 
+Midstream — for the period January 1, 2013 to December 31, 2013. The domain of this report does not include 
+operational activity at Equitable Gas Company, which EQT sold in 2013; however EQT’s ownership interest in this entity 
+is reﬂ ected in all reported 2013 ﬁ  nancial data for the Company, including economic impact analyses. Also excluded 
+from this report are the Company’s foreign subsidiaries, which are either inactive or in the process of winding down. 
+Most quantitative data provided is derived from direct measurements. Where actual data is not available, appropriate 
+estimates and calculations may be used following industry or internationally recognized standards. Based on GRI 3.1/OGSS 
+guidelines, EQT self-declares that this report meets the requirements of GRI Application Level B.
+This report addresses the sustainability concerns and expectations that EQT’s diverse stakeholder groups have regarding 
+the processes used to extract natural gas, as well as the steps EQT takes to ensure safety and protect the environment. 
+With this in mind, the Company’s commitment to community goes beyond creating new jobs and stimulating economic 
+growth. EQT recognizes its responsibility to openly and honestly identify and answer questions about its operations.
+The design of EQT’s Corporate Social Responsibility report speaks to the predominant interests of internal and external 
+stakeholders. For this reason, the Company continues to evolve its outreach efforts, monitor feedback, and adjust the 
+materiality assessment as needed. The publication of this report is one of many ways that EQT remains accountable to 
+its stakeholders, and demonstrates that sustainability is transparent and integrated into every aspect of its business.
+2
+7864_Text_C4.indd   2 8/29/14   1:10 PMGo back to Table of ContentsMessage from the CEO
+Message from the CEO
+Dear Stakeholders,
+Innovation is woven in the fabric that created EQT Corporation. It’s what launched this Company from drilling our ﬁ  rst 
+natural gas well more than a century ago, all the way to what makes us who we are today — a thriving, forward-thinking 
+energy leader molded by hard work, integrity and, above all, a commitment to safety in all we do each and every day. 
+We respect our stakeholder audiences and are committed to addressing their concerns regarding how our operations 
+may impact the environment and our neighbors. In fact, many of our neighbors are also EQT employees who take pride 
+in conducting our business with integrity. That’s why all of us at EQT are dedicated to protecting the environment we 
+share, maintaining the health and safety of our employees, and preserving the surrounding land and neighborhoods. 
+Innovation drives EQT’s successes and fuels the Company’s longevity. We’re always looking for better ways to drill 
+wells, reduce emissions, or transport natural gas while planning for new and sustainable ways to grow our business, 
+our industry and our communities. When you read our 2014 Corporate Social Responsibility report, you’ll learn how 
+“green completions” are reducing the need for gas ﬂ  ares before a well can begin producing; how drilling rigs are 
+now being powered by “ﬁ  eld” gas instead of diesel, lowering emissions and reducing noise and truck trafﬁ  c; and 
+how we’re improving the ﬂ  uids we use for hydraulic fracturing by recycling and re-using water from completed wells 
+to drill new wells. 
+The dynamic growth of the natural gas industry from its birth in the 1800s through today has brought both successes 
+and challenges to our communities, and to our country. As a partner through it all, EQT knows that safe and responsible 
+development is as important to you as it is to us. That is why integrating our efforts to manage the internal and external 
+sustainability impacts of our work is such a vital part of our business model. It is also why we prepare reports like this one,  
+to openly share our performance with you — our stakeholders.
+David L. Porges
+Chief Executive Ofﬁ  cer
+EQT Corporation
+ 
+3
+7864_Text_C4.indd   3 8/29/14   1:10 PMGo back to Table of ContentsABOUT EQT
+7864_Text_C4.indd   4 8/29/14   1:10 PMCorporate Structure
+EQT ended 2013 with more than 1,600 employees 
+working in Pennsylvania (PA), West Virginia (WV), Ohio 
+(OH), Kentucky (KY), and Virginia (VA) through two primary 
+operating segments: Production and Midstream.    
+The Production segment is one of the largest natural gas 
+producers in the Appalachian Basin, with 8.3 trillion cubic 
+feet equivalent (Tcfe) of proved natural gas and crude oil 
+reserves across approximately 3.6 million gross acres; about 
+580,000 of those gross acres are located in the Marcellus 
+Shale play. In May 2013, EQT achieved a major milestone 
+when Production set a Company record for natural gas 
+production of one billion cubic feet per day.   
+The Midstream segment is seizing opportunities created 
+by the Appalachian Basin’s growing production of natural 
+gas and other energy products. With approximately 10,400 
+miles of gathering and transmission pipeline, 1,500 million 
+cubic feet of gathering capacity per day, and 47 billion 
+cubic feet of working gas storage capacity, EQT is building 
+and operating the infrastructure needed to deliver clean-
+burning natural gas throughout the Northeast and other 
+areas of the United States. EQT Corporation (NYSE: EQT) is a Standard & Poor’s 
+500 investor-owned corporation, headquartered in 
+Pittsburgh, Pennsylvania, and operating primarily in 
+the United States. EQT’s role in the natural gas industry 
+originated more than 125 years ago with the formation 
+of the Equitable Gas Company by renowned inventor 
+and businessman George Westinghouse. As the natural 
+gas sector — and the broader energy industry — 
+changed, the Company expanded and grew into the 
+entity now known as EQT Corporation.Governance
+EQT’s corporate governance policies and practices are 
+compliant with all applicable corporate governance 
+requirements and are overseen by the Board of Directors 
+(Board), the top governing body of the Company. The 
+Audit Committee, for example, oversees the Company’s 
+compliance program as set forth in its charter. The Public 
+Policy and Corporate Responsibility Committee (PPCR) 
+provides oversight of and makes recommendations 
+regarding the Company’s social, environmental, health 
+and safety policies, and other sustainability matters 
+similarly enumerated in its charter. The PPCR Committee 
+meets as needed (on average, four times per year) to 
+assess the Company’s performance and make procedural 
+improvement recommendations to EQT management 
+and its Board. The frequency of this and other Board 
+committee meetings can be found in the Company’s 
+annual Proxy Statement. 
+EQT maintains a corporate governance page on its external 
+website, which includes key information regarding its 
+corporate governance practices — including its corporate 
+governance guidelines, code of business conduct and About EQT
+FAST FACTS: EQT CORPORATION
+Type  Investor-Owned
+NYSE  EQT
+Founded  1888
+Headquarters  Pittsburgh, Pennsylvania
+Employees  1,626
+Business Segments  Production
+ MidstreamSAFETY , INTEGRITY ,  
+ACCOUNTABILITY , 
+AND TRANSPARENCY .WE ARE A COMPANY 
+BUILT ON CORE VALUES:
+5
+7864_Text_C4.indd   5 8/29/14   1:10 PMGo back to Table of ContentsIntegrated Sustainability
+After more than 125 years as an integrated energy 
+company, EQT has developed a keen understanding of the 
+industry, giving it a unique perspective on the past, present 
+and future of natural gas production. EQT’s contributions 
+to the development of innovative technologies, coupled 
+with industry leading standards for integrated sustainability, 
+perfectly balance the needs and concerns of a very diverse 
+community of stakeholders with the obligations of 
+the Company.      These initiatives help establish trust and demonstrate 
+awareness of and sensitivity towards how the Company’s 
+core activities directly affect the lives and livelihoods of 
+thousands of people. EQT rarely labels these efforts as 
+“sustainability,” but they are thoroughly integrated into the 
+corporate responsibility goals of the business model and 
+play a key role in assuring that EQT operates responsibly 
+in regard to the economic, environmental, and social 
+implications of its actions. 
+EQT works hard to maintain its reputation as a company 
+built on safety, integrity, accountability, and transparency; 
+its employees know instinctively that these are the most 
+important pillars of the business. During 2013, a number 
+of initiatives were launched to help employees understand 
+and communicate these core principles, starting with the 
+Company’s revision of its Environment, Health and Safety 
+policy. Employees received consistent afﬁ  rmation that safety 
+is truly a core value at EQT through local safety meetings, 
+as well as direct mail outreach from the CEO. 
+In 2014 and beyond, the Company intends to publicly 
+communicate more of its core operating standards and its 
+mission and vision statements. With sustainability at the 
+heart of everything EQT does, the Company’s strategies 
+for organizational success (current, near-term and long-
+term) also are guided by its intrinsic values. Articulating 
+these to internal and external audiences helps demonstrate 
+EQT’s awareness and understanding of what matters most 
+to its stakeholders. Monitoring activities in these areas, 
+and following established procedures to continuously 
+evaluate operations, identify areas for improvement, and 
+ensure compliance with regulatory policies, will increase 
+transparency and build trust by expanding public awareness 
+of the Company’s performance. Executive Independent Total
+Total Members, Male  1 8 9
+Total Members, Female  0 2 2
+Male 100% 80% 82%
+Female 0% 20% 18%
+Minority 0% 20% 18%
+Non-Minority 100% 80% 82%
+Age    30 0% 0%   0%
+Age 30-50 0% 10%   9%
+Age    50 100% 90% 91% 
+ <<
+EQT Board committees and responsibilities are described at COMPOSITION:  
+EQT BOARD OF DIRECTORS – 2013
+OUR CORE ACTIVITIES  ARE 
+AFFECTING LIVES
+AND LIVELIHOODS.WE ARE A COMPANY 
+THAT UNDERSTANDS HOW
+6ethics, and charters for the Audit, Corporate Governance, 
+Management Development and Compensation, and PPCR 
+Committees of the Board.
+The principal guide for all directors, ofﬁ  cers, employees, 
+suppliers, agents, contractors, and consultants of the 
+Company is EQT’s Code of Business Conduct and Ethics.  
+Its purpose is to ensure a high standard of responsible 
+performance — economically, environmentally and socially. 
+The code underwent a major update in 2013. It was 
+distributed to all EQT employees, followed by a series 
+of onsite presentations to review major changes, 
+answer questions, and reiterate the importance of 
+compliance. The code is posted on EQT’s website at 
+ir.eqt.com/charters-and-documents  
+7864_Text_C4.indd   6 8/29/14   1:10 PMhttp://www.eqt.com/about/board-directors.aspx
+Go back to Table of Contents 
+August 2013 ............................................................................................................................... ............... 
+............................................................................................................................... ............... ENVIRONMENT, HEALTH AND SAFETY POLICY 
+EQT Corporation is committed to achieving superior 
+Environment, Health and Safety performance 
+ 
+ 
+Safety is a core value for our organization. EQT will provide a safe and 
+healthful workplace for its employees and contractors and through continuous 
+improvement, we will work to create and maintain a zero-injury culture. We will 
+not compromise safety to gain a business advantage. 
+ 
+EQT also has a steadfast commitment to the protection of our environment.  
+EQT will conduct its business operations in a sustainable and environmentally 
+responsible manner at all times – striving to preserve and protect the land, air 
+and water where we live and do business. 
+ 
+The following principles will guide us toward superior Environmental, Health 
+and Safety (EHS) performance. EQT and its employees will: 
+ Provide and foster leadership to ensure all employees and contractors 
+understand their responsibilities and that all employees are provided 
+with the training and support necessary to integrate EHS principles into 
+their work 
+ Manage our business to prevent incidents that could result in harm to 
+people, property or the environment 
+ Seek public input regarding our operations in order to facilitate 
+continuous improvement in our EHS performance 
+ Integrate EHS considerations into planning, design, construction and 
+operation of all our processes, programs, and facilities 
+ Optimize conservation of natural resources 
+ Commit the resources necessary for successful implementation of this 
+EHS Policy 
+ Provide an effective EHS management system that drives continuous 
+review and improvement, as well as employee adherence to EQT 
+processes and requirements 
+ Foster business relationships with companies committed to superior 
+EHS performance 
+ Operate in accordance with all applicable laws and regulations; and 
+contribute to the development of responsible EHS legislation, regulation, 
+and industry best practices. 
+ 
+   
+David L. Porges  
+Chairman, President and Chief Executive Officer  
+7864_Text_C4.indd   7 8/29/14   1:10 PMGo back to Table of ContentsSAFETY
+7864_Text_C4.indd   8 8/29/14   1:10 PMAll EQT employees are expected to take direct responsibility 
+for maintaining an accident-free working environment. 
+The Company provides employees with the training and 
+support needed to integrate superior health and safety 
+principles into their work, no matter what they do or where 
+they do it. Contractors working for EQT are expected to 
+provide a similar level of commitment to their employees, 
+and those of their subcontractors, and the Company has 
+implemented programs to ensure that happens. EQT is also 
+committed to the safety of those who live and work near 
+the Company’s operations. EQT’s long-standing success in the natural gas industry 
+is a direct result of its refusal to compromise safety to 
+gain a business advantage. That means providing every 
+EQT employee, and employees of its contractors, with 
+a safe and healthy workplace. It also means focusing 
+on continuous improvement to create and maintain 
+a zero-injury culture.    AND COMMITS TO CONTINUOUS  
+IMPROVEMENT.WE ARE A COMPANY 
+THAT PROMOTES A  
+CULTURE OF SAFETY 
+Workplace Safety
+For EQT employees, safety training is ongoing throughout 
+their careers, and they are encouraged to share their 
+knowledge and experiences with family and friends to 
+help extend the culture of safety into their communities. 
+The frequency, type, and delivery method of training may 
+change based on the work performed and the issues 
+faced on a daily basis.    
+For example, ﬁ  eld employees participate in monthly 
+workplace safety meetings because of the large and 
+varied number of situations they may face on a job site. 
+In 2013, these employees received comprehensive 
+training in a number of circumstances common to their 
+work activities.  
+Driving is a major activity for most of the Company’s 
+employees and contractors, so EQT instituted initiatives to 
+improve trafﬁ  c safety, including web-based and behind-the-
+wheel driver training for employees, safe driver initiatives, 
+speed restrictions, vehicle curfews for contractor trafﬁ  c, 
+enhanced policies concerning the use of electronic devices 
+while driving, and enhanced monitoring and enforcement.  
+Performance monitoring is another critical element of EQT’s 
+safety program; besides highlighting actual results, it also 
+identiﬁ  es opportunities for improvement. EQT experienced 
+a slight increase in its lost time accident (LTA) rate compared 
+to previous years. The 2013 LTA rate was 0.39 incidents per 
+every 200,000 person-hours worked compared to a rate of 
+0.34 in 2012. Although the reasons behind each incident 
+vary, and the Company’s performance is still signiﬁ  cantly 
+below the industry average, studying the cause of each 
+injury, and the ongoing quest for zero injuries, inﬂ  uences 
+initiatives to improve performance in future years.
+9Safety
+7864_Text_C4.indd   9 8/29/14   1:10 PMGo back to Table of Contents10MONTH MONTHLY SAFETY TOPICS
+January Slip/Trip/Fall Prevention; Cold Stress; 
+Records Access; Workplace Violence 
+Policy; Tailgate Safety Meetings; 
+Driving Safety
+February Safety Value Drivers; Incident Reporting/
+Investigation; Lifting (Ergonomics - Best 
+Practice); Hand Tool Safety - Wrenching; 
+Pinch Point Hazards; Driving - Safety    
+March Working Around Mobile Equipment; 
+Fall Protection; Ladder Safety; Scaffold 
+Safety Awareness; Weed-Eating/Chainsaw 
+Safety; Driving Safety 
+April Blood borne Pathogens; Lead-Paint 
+Awareness; Asbestos Awareness; 
+Driving Safety 
+May Heat Related Illness Prevention; 
+Outdoor/Wildlife Safety; Conﬁ  ned Space 
+Awareness; Driving Safety
+June Emergency Action Plans/Site Safety 
+Plans; Excavation Safety; Dogs; 
+Driving Safety 
+July Electrical Safety Procedures; PPE; Driving 
+Safety; Production & Midstream – Coal 
+Company Procedures  
+August Lockout-Tagout; Hearing Conservation; 
+Hazard Communication;  Driving Safety  
+September Natural Gas Hazards; Fire Safety 
+(including potential ignition sources); 
+Lone Worker Safety; Hot Work; 
+Driving Safety 
+October EQT EHS Policy; PCB Awareness; 
+Hydrogen Sulﬁ  de Awareness; 
+Driving SafetyREQUIRED SAFETY TOPICS FOR 
+FIELD EMPLOYEE TRAINING – 2013
+SAFETY INDICATORS – 2013
+2013 SAFETY INDICATORS PERFORMANCE RATE
+ 2011       2012      2013
+Lost Time Accident (LTA) 0.47        0.34       0.39
+Days Away, Restricted or 
+Transferred (DART)0.70        0.78       0.98
+Preventable Vehicle 
+Accident (PVA)1.00        1.22       1.37
+OSHA Recordable Rate 1.98        2.52       2.04
+Absentee Rate By Region:
+  Kentucky 4.7%     3.17%   3.2%
+  Pennsylvania 4.1%     1.91%   1.5%
+  Virginia 2.6%     3.66%   2.9%
+  West Virginia 3.8%     1.62%   1.8%
+Absentee Rate By Gender:
+  Males    4.0%     1.97%   1.7%
+  Females 3.6%     3.01%   2.5%
+7864_Text_C4.indd   10 8/29/14   1:10 PMGo back to Table of ContentsContractor Safety
+EQT, and all its contractors and their subcontractors, are 
+required to follow state and federal requirements for 
+providing a safe and healthy workplace for employees.  
+The specialized nature of EQT’s ﬁ  eld operations requires 
+the use of numerous vendors to perform each aspect of 
+work, sometimes simultaneously. In addition to keeping 
+its own workers safe, EQT insists that every vendor 
+performing work at one of its facilities maintains the 
+same high standards for workplace safety.    
+Companies that expect to perform contract services in 
+the areas of drilling, construction, maintenance, and 
+operations must agree to adhere to the EQT Contractor 
+Safety Program and its companion, Contractor Safe 
+Work Rules. The rules and standards apply to all work 
+performed by the employees of the contractor, as well as 
+those of their subcontractors and agents. These include:
+ Development and implementation of safety policies 
+and procedures that are in compliance with all 
+applicable regulations, laws, and standards for the 
+contractor’s employees, subcontractors, and agents
+ Performance of all necessary audits and inspections of 
+the worksite and relevant premises as often as needed 
+to ascertain whether any conditions, including those 
+created by work performed by the contractors or 
+others, may pose hazards to the contractor or others
+ Assurance that all employees and subcontracted 
+employees of the contractor have the necessary 
+training, skills, certiﬁ  cations, tools and equipment 
+to complete the job safely and in compliance with 
+regulations
+ Maintenance of a safe, healthy, and clean work 
+environment
+ Assurance that daily Tailgate Safety Meetings 
+or similar discussions on the tasks performed that 
+day and any relevant safety precautions are conducted 
+and documented
+ Provision of a “Competent Person” as deﬁ  ned and 
+required by OSHA, who possesses the ability to 
+recognize hazards on the jobsite and also has the 
+authority to correct those hazards.  Each contractor 
+is required to designate a Competent Person at 
+every work location who is familiar with the site-
+speciﬁ  c hazards
+ Investigation and reporting of all injuries, incidents 
+with property damage, and near-missesIn 2013, EQT began transitioning its contractor safety pre-
+qualiﬁ  cation procedures to a third-party contractor/supplier 
+information management system. The ISNetworld database 
+expands the Company’s ability to consistently monitor key 
+performance indicators for current contractors, and verify 
+contractor safety program documentation before qualifying 
+a new contractor to work for EQT. Many of EQT’s current 
+suppliers had already subscribed to ISNetworld; those that 
+had not were required to become subscribers before they 
+could continue to perform services for EQT.
+First Responders
+As EQT identiﬁ  es ways to improve its response to safety 
+related incidents in the ﬁ  eld, the Company routinely shares 
+this new knowledge with local emergency responders, 
+who in some cases may be ﬁ  rst on the scene. The shared 
+knowledge helps these agencies become effective partners 
+in maintaining a safe environment for all.    
+For example, EQT’s Well Site Awareness program provides 
+emergency responders a greater level of awareness 
+regarding operations at a well site, and of what they can 
+expect from EQT should an incident occur. The attendees 
+develop a better understanding of what they should, and 
+should not, do in different scenarios and whom to contact 
+in various situations. They also are then better equipped 
+to respond to local inquiries and concerns in the event 
+of an incident.
+School Zones
+An important concern of EQT’s stakeholders is the increase 
+in operations-related truck trafﬁ  c on local roads shared with 
+school buses in suburban and more densely populated rural 
+areas. In 2013, with the support and cooperation of local 
+school districts as well as neighbors and elected ofﬁ  cials, 
+EQT implemented a school zone curfew program for truck 
+trafﬁ c near, or in route to, EQT jobsites. The Company 
+placed signs along active truck routes in Pennsylvania, 
+West Virginia, and Ohio, notifying its drivers, and those 
+of its contractors, that truck travel along these routes is 
+prohibited during the posted hours when school buses 
+are picking up and dropping off students. EQT actively 
+monitors employee and contractor adherence to the 
+curfews, and promptly addresses reported violations of 
+these posted curfews.   Safety
+11
+7864_Text_C4.indd   11 8/29/14   1:10 PMGo back to Table of ContentsEnvironmental
+ STEWARDSHIP
+7864_Text_C4.indd   12 8/29/14   1:10 PMEQT is committed to conducting business in a 
+sustainable and environmentally responsible manner 
+at all times, striving to preserve and protect the land, 
+air and water near all business operations. These 
+efforts contribute to EQT’s long-standing reputation 
+as a responsible operator.   
+Respecting the rights and expectations of interested 
+stakeholders is important, so EQT works to protect natural 
+resources during the many phases of the Company’s 
+development and operating processes. In addition, WE ARE A COMPANY 
+THAT ROUTINELY IMPOSES THEEQT is subject to an extensive list of federal, state and 
+local regulations relating to environmental protection, 
+including air quality, water conservation and land 
+reclamation. The Company actively works to meet or 
+exceed all applicable regulations.
+Putting safeguards in place that allow EQT to respond 
+quickly and effectively to an unexpected event is 
+embedded in the Company’s operating strategy. 
+So is the continuous monitoring of its own experiences, 
+and those of its counterparts in the industry, enabling 
+EQT to make continuous process improvements that 
+mirror the best practices in the industry.    
+Protecting the Appalachian Basin
+EQT’s Marcellus Operations Guiding Principles, adopted 
+several years ago, are just one example of protocols 
+established by the Company to infuse sustainability 
+and achieve operational excellence in its drilling 
+operations in the vast Marcellus Shale play.  
+To further support responsible natural gas development 
+in the Appalachian Basin, EQT became a founding member
+13Environmental Stewardship
+MARCELLUS OPERATIONS GUIDING PRINCIPLES
+FLAMMABLE 
+ATMOSPHERESNatural gas encountered during the drilling process is vented away from the work area. 
+During completions and ﬂ  owback, ﬂ  ammable zones are established in areas where natural gas 
+will be vented. Natural gas liquids produced during ﬂ  owback are stored in ﬂ  ammable zones 
+during ﬂ  owback and removed after ﬂ  owback.
+HIGH PRESSURE 
+SYSTEMSAll equipment and components used in pressurized systems are appropriately rated and capable 
+of operating under the maximum rated pressure. High pressure pumps and equipment are only 
+used when necessary and appropriate for the task, and are routinely tested for integrity.
+PIT DESIGN 
+AND OPERATIONPrior to construction, potential pit locations are evaluated to establish suitability. Pits are 
+engineered and designed to be stable and impervious, and are inspected to establish that they 
+are constructed as designed. Inspections are conducted regularly to evaluate pit integrity.
+WELL CONTROL EQT maintains a minimum of two barriers at all times between the open producing formation 
+and the atmosphere. A responsible person with a well-control certiﬁ  cation from an accredited 
+training program is on-site during drilling and completions. Blowout preventers are tested 
+prior to being placed into service, and remote actuators are maintained away from the rig and 
+not tied to the rig hydraulic system.
+WELL DESIGN 
+AND 
+CONSTRUCTIONWells are designed to protect fresh groundwater and prevent methane migration. Surface casing 
+is installed and the void outside of the casing is ﬁ  lled with cement. If cement circulation to the 
+surface is not possible for the surface casing, EQT installs baskets at appropriate depths and then 
+grouts the annulus to the surface to create a barrier between subsurface zones.
+7864_Text_C4.indd   13 8/29/14   1:10 PMGo back to Table of ContentsGo back to Table of ContentsGo back to Table of Contentsof the Center for Sustainable Shale Development 
+(CSSD), which was launched in early 2013. The CSSD, 
+an independent coalition of foundations, environmental 
+organizations and energy companies, promotes 
+collaborative efforts by industry and its stakeholders as 
+called for by the Shale Gas Production Subcommittee 
+of the U.S. Secretary of Energy’s Advisory Board.
+The CSSD developed 15 initial performance standards 
+for operators, representing industry best practices that 
+are protective of air quality, water resources, and climate.  
+These standards represent consensus on what is achievable 
+and protective of human health and the environment.  
+Arising from these standards is CSSD’s independent, third-
+party certiﬁ  cation and veriﬁ  cation program. Companies can 
+seek certiﬁ  cations in Air and Climate, Water and Waste, or 
+both, concurrently. As a strategic partner of CSSD, EQT is 
+evaluating its current practices and expects to apply for Air 
+and Climate certiﬁ  cation in 2014. EQT is currently reviewing 
+the Water and Waste certiﬁ  cation standards against its 
+operations to determine a schedule for certiﬁ  cation but 
+has not yet reached a decision on a date for application.
+Additional information about CSSD, the performance 
+standards, and the certiﬁ  cation process can be found at 
+sustainableshale.org . 
+Managing Water Resources
+Water plays a major role in the successful creation of a 
+producing natural gas well, and EQT is committed to 
+managing its use of this environmental resource in a 
+responsible way so that no water sources are signiﬁ  cantly 
+affected by the Company’s activity.  
+Water Withdrawals 
+EQT obtains nearly 100% of the fresh water used for 
+production activities from surface water, municipal water, 
+or groundwater sources. Strict adherence to all water 
+withdrawal regulations in the states where EQT operates 
+ensures that withdrawal from a water source does not 
+adversely affect the ecological and recreational uses of that 
+source. This is accomplished by installing and monitoring 
+Company placed stream gauges, monitoring existing 
+U.S. Geological Survey stream gauges, and using online 
+water withdrawal tools when available. Full compliance with 
+established regulations eliminates the need for EQT to establish 
+a separate water withdrawal or consumption threshold.The ability to withdraw surface water in a given year 
+is largely seasonal and often heavily controlled by the 
+location and timing of completions operations. The volume 
+of surface water  withdrawn by EQT in 2013 increased 
+signiﬁ  cantly from 2012 totals. This was due to a combination 
+of more wells completed (94 in 2012 vs 139 in 2013) and 
+slightly larger water volumes associated with each well 
+(166,414 bbls/well in 2012 vs 171,228 bbls/well in 2013) 
+as the Company increased the length of laterals.   
+The volume of ground water  withdrawn in 2013, although 
+a relatively small percentage compared to overall water 
+withdrawals, increased 88% from the 2012 requirement.  
+This was due to an increased focus on drilling operations 
+in northern West Virginia, near areas where the Company 
+developed groundwater supply wells. The entire volume of 
+groundwater was pumped from four separate groundwater 
+supply wells operated by EQT (one in Pennsylvania and three 
+in West Virginia). The increase in northern West Virginia 
+operations also resulted in a 25% decrease in municipal 
+water withdrawals because of limited access to municipal 
+water supply near current well sites.
+EQT’s water management goal is to routinely collect nearly 
+100% of the water that ﬂ  ows back from completed wells 
+and then reuse that water to produce new wells at other 
+sites. During 2013, EQT recycled 823,778 m3 of wastewater 
+from ﬂ  owback water, ﬁ  ltered drilling water, and produced 
+water. This represents a continuing increase in water reuse 
+over previous years due to dedicated efforts to recycle 
+wastewater from the Company’s drilling activity. 
+Although the total volume of recycled water increased, the 
+concurrent increase in total water withdrawals during 2013 
+caused the Company’s total recycled-to-withdrawn rate to 
+drop to 22%, down from the 2012 result of 32%.
+  
+Disposition of Produced Water 
+In 2013, EQT reused 4.6 million barrels of ﬂ  owback water, 
+drill pit liquids, and production ﬂ  uids from its Marcellus 
+and Utica drilling completions. When water is no longer 
+suitable for recycling or production purposes, EQT sends 
+the water to state and federally permitted underground 
+injection facilities for safe disposal.
+14
+7864_Text_C4.indd   14 8/29/14   1:10 PMGo back to Table of Contents15Environmental Stewardship
+• All produced water is either injected or reused so EQT does not discharge any produced water to surface water, however EQT do es ﬂ ow back water to 
+permitted, lined, above-ground impoundments.  
+• Because there is no discharge, no report standards for produced water quality are required or reported, nor, accordingly, doe s EQT measure the volume of 
+hydrocarbon discharge in produced water.VOLUME AND DISPOSITION OF PRODUCED WATER – 2013
+LOCATION WELL TYPE VOLUME DISPOSITION METHOD
+West Virginia Conventional 66,652 bbls Injection Well:    100%
+Marcellus 1,270,614 bbls Injection Well:      68%
+Reused:       32%
+Kentucky Conventional 21,757 bbls Injection Well:    100%
+Virginia Conventional 871,230 bbls Injection Well:    100%
+Pennsylvania Conventional 1,693 bbls Injection Well:      94%
+Reused:        6%
+Marcellus 2,882,590 bbls Injection Well:      11%
+Reused:      89%
+Ohio Marcellus 57,103 bbls Injection Well:      37%
+Reused:      63%TOTAL FRESH WATER WITHDRAWAL BY SOURCE
+WATER SOURCE VOLUME
+2011 2012 2013
+Surface water (wetlands, rivers, 
+lakes and oceans)1,495,418 m31,387,075 m32,976,947 m3
+Groundwater 7,972 m322,082 m341,557 m3 
+Rainwater 0 m30 m30 m3 
+Waste water from another organization 0 m30 m30 m3 
+Municipal water or other water utilities 506,953 m3882,077 m3659,248 m3 
+Total Water Withdrawn 2,010,343 m32,291,234 m33,677,752 m3
+Total Water Recycled
+(includes ﬂ  owback, ﬁ  ltered drilling water, 
+produced water)Not available 740,947 m3823,778 m3
+Total Water Recycled as a percentage of 
+Total Water WithdrawnNot available 32% 22%
+Fresh water by million barrel oil equivalent 
+(all from natural gas production)0.050 m3/boe 0.040 m3/boe 0.050 m3/boe
+• EQT fresh water withdrawals did not signiﬁ  cantly affect water sources of any type, including those in designated protected areas or those having biodiversity value.
+• No water sources having value/importance to local communities were signiﬁ  cantly affected by EQT fresh water withdrawals, nor were any people or their 
+livelihoods affected due to dependence on water resources.
+7864_Text_C4.indd   15 8/29/14   1:10 PMGo back to Table of ContentsProtecting Drinking Water 
+Producing natural gas is a water-intensive process, but 
+most of it occurs underground, miles below the surface. As 
+awareness of the process increases, so does the interest in, 
+and questions about, the impact of gas extraction processes 
+on drinking water. EQT takes great care to protect these 
+resources, and is transparent about the steps taken to make 
+sure the water near its operations is safe to drink and use.      
+EQT begins with the establishment of a water quality 
+baseline by sampling nearby groundwater sources before 
+starting any operational activities, including drilling. Any 
+pre-existing conditions are reviewed.      
+Once drilling begins, EQT uses multiple layers of steel and 
+cement casings to isolate freshwater sources from the 
+drilling process. The legally required standard of using at 
+least three layers of steel and cement — known as triple 
+casing — ensures that nothing used to stimulate the ﬂ  ow 
+of natural gas from the well can migrate into the drinking 
+water supplies. In some cases, EQT may re-sample local 
+water sources after the well is drilled.
+Hydraulic Fracturing
+Freshwater aquifers, the source for drinking water in many 
+rural locations, sit just a few hundred feet below the earth’s 
+surface. The process of hydraulic fracturing, on the other 
+hand, occurs several thousand feet below ground level, 
+far below any freshwater zone. Risk posed to surface or 
+groundwater resources tends to lie in surface operations 
+rather than the hydraulic fracturing process itself. EQT 
+accordingly goes to great lengths to manage and control 
+liquids at the surface, thereby reducing the risk of any 
+releases or adverse impact on water resources.   
+EQT conducts hydraulic fracturing in accordance with state 
+regulations using water recycled from previously fractured 
+wells or obtained from freshwater sources. This water is mixed 
+with sand and a small percentage of chemical additives.    
+The fracturing ﬂ  uid is injected under controlled high 
+pressure into triple-cased wells designed to prevent any 
+effect on ground or surface water. The pressure breaks 
+open and expands the targeted rock formation, and the 
+sand particles hold the fractures open, allowing natural 
+gas to ﬂ  ow to the well head. EQT is committed to operational transparency and was 
+one of the ﬁ  rst natural gas producers in Appalachia to 
+voluntarily disclose the actual content of the hydraulic 
+fracturing ﬂ  uid used at each of its well sites. This information 
+is published on the Company’s website, EQT.com .   
+EQT is also a charter participant on FracFocus.org , an 
+independent educational website created by the Ground 
+Water Protection Council and the Interstate Oil and Gas 
+Compact Commission. This website provides information 
+to help stakeholders understand the additives in the water 
+being used for natural gas development in their own 
+communities. On both the EQT and FracFocus websites, the 
+Company’s postings disclose the general mixture amounts 
+of the ﬂ  uid, and also explain the speciﬁ  c use of each 
+chemical additive. 
+The hydraulic fracturing ﬂ  uids EQT currently uses in 
+its Marcellus operations do not contain additives with 
+diesel carriers. In addition, traditional biocides in EQT’s 
+Marcellus fracturing ﬂ  uids have been replaced by non-toxic 
+substitutes. The Company has signiﬁ  cantly reduced the 
+amount of other chemicals being used during hydraulic 
+fracturing:
+ Traditional biocides have been replaced with a variety 
+of environmentally friendly, non-chemical alternatives
+ Acid utilization has been reduced by approximately 50%
+ Improved friction-reducing products have 
+allowed the quantity of this chemical used to be 
+signiﬁ  cantly reduced
+16
+7864_Text_C4.indd   16 8/29/14   1:10 PMGo back to Table of ContentsWaste Disposal
+EQT employs the most efﬁ  cient, environmentally responsible 
+and cost-effective disposal methods possible.  The Company 
+reuses (or sells as a usable product) materials such as ﬂ owback 
+ﬂ uid and condensate, whenever possible. Those materials 
+that cannot be reused or sold are disposed of at permitted 
+injection wells, landﬁ  ll facilities, and treatment facilities. 
+Liquid Waste
+EQT disposed of 1,222,249 barrels of ﬂ  owback, drill pit, 
+and production ﬂ  uid from Marcellus/Utica operations and 
+960,487 barrels of production ﬂ  uid from conventional 
+operations in injection wells. In addition, 258 tons of 
+hazardous waste liquids (from midstream compressor 
+stations and ﬂ  uids associated with drilling and completions) 
+were sent to approved treatment facilities for disposal.  
+Solid Drilling Waste
+Drilling waste, consisting of drill mud and cuttings, is 
+processed through solids control equipment to efﬁ  ciently 
+separate the drilling ﬂ  uids from the drill cuttings. For 2013, 
+76.4% of the wells drilled by EQT were completed using 
+closed loop systems (Marcellus – 100%; Utica – 57.1%; 
+Lower Huron – 0%). The residual moisture of the drilling 
+ﬂ uid left on the drill cuttings themselves is further dried 
+using drying agents/mix off materials. The dried cuttings are 
+then loaded into containers to be transported to landﬁ  lls 
+that accept preapproved drill cuttings in their permitted 
+disposal cells. EQT continues to improve the efﬁ  ciency of 
+the solids control equipment used at its locations. These 
+higher efﬁ  ciency systems create better separation of drilling 
+ﬂ uid and drill cuttings, which in turn will reduce the overall 
+weight of the disposed product. Also, by utilizing fewer and 
+more effective drying agents, the disposed product has a 
+minimal amount of additional drying agent weight.
+EQT currently tracks waste volumes and disposal for 
+landﬁ lls, routine operations, and other activities on a 
+project-by-project basis. The Company continues to 
+explore more detailed reporting data collection systems.  
+Hazardous wastes relating to the following operations 
+are not applicable to EQT:
+ Composting
+ Recycling
+ Recovery
+ Incineration or use as fuel
+ On-site storage
+17Environmental Stewardship
+DRILL MID AND CUTTINGS 
+PRODUCED – 2013
+DRILLING 
+FLUIDPA*
+(MARCELLUS)WV*
+(MARCELLUS)OH*
+(UTICA)
+Non-
+aqueous 
+(tons)3,045.10 0.00 2,101.68
+Aqueous 
+(tons)116,107.11 116,348.57 7,709.85
+* Derived from disposal numbers for horizontal wells spud in 2013
+Radioactive Waste
+EQT manages naturally occurring radioactive materials 
+(NORM) pursuant to applicable state and federal 
+regulations. The Company recently implemented processes 
+to reduce generation of NORM waste from ﬂ  owback ﬂ  uids 
+by improving the efﬁ  ciency of its use of recycled ﬂ  uids 
+and by reducing the holding time of these ﬂ  uids. This has 
+led to a signiﬁ  cant reduction of generated NORM wastes 
+requiring disposal.
+EQT’s Process for Managing Naturally 
+Occurring Radioactive Materials
+During 2013, EQT generated technologically enhanced 
+naturally occurring radioactive material (TENORM) primarily 
+from two sources. These were in the form of proppant sand 
+that returned to storage containers at the surface during 
+ﬂ owback operations and in sludge that accumulated in 
+(impaired) water storage units (i.e. pits and tanks). 
+The Company’s process for managing these materials 
+consists of the following components: Waste Minimization, 
+Waste Characterization, Waste Collection/Containerization, 
+and Waste Transportation and Disposal.
+7864_Text_C4.indd   17 8/29/14   1:10 PMGo back to Table of Contents18Waste minimization (typically associated with sludge 
+accumulations) is accomplished by limiting the holding 
+time of impaired water to minimize solids settling and 
+precipitation of constituents. EQT reclaims or cleans and 
+relines pits on a routine schedule to minimize sludge 
+accumulation. When practicable, mobile and modular tanks 
+are used instead of pits, which further limits holding time 
+and sludge accumulation.
+Prior to offering waste potentially containing TENORM 
+for disposal, EQT collects a representative sample of the 
+material for waste characterization. The waste sample 
+is sent to an independent laboratory and analyzed for 
+parameters including radiological isotopes. The analytical 
+data is reviewed and sent to the appropriate disposal 
+facility for approval, prior to scheduling the shipment of 
+TENORM waste off-site.
+TENORM waste accumulated in pits and tanks is collected 
+using vacuum trucks. EQT’s contractor enters the storage 
+units with a collection hose from the vacuum truck. The 
+accumulated waste is pushed to the vacuum hose using 
+pressure washers. The waste is placed directly into sealed roll-
+off containers suitable for transport. If necessary, additional 
+solidiﬁ  cation using various bulking agents is conducted. 
+Once approved by the disposal facility, the containerized 
+waste is placed on trucks for transportation to the chosen 
+disposal facility. EQT has used two disposal options for 
+TENORM waste. The primary option consists of getting the 
+TENORM waste approved into local landﬁ  lls using existing 
+state approval processes. If TENORM levels are above the 
+local landﬁ  ll acceptance limits, then the waste is shipped to 
+an alternative out-of-state facility that treats the TENORM 
+levels to acceptable limits prior to landﬁ  ll placement.
+Preventing and Managing Spills
+Spill prevention is another top priority at EQT. Every 
+worksite has its own Spill Prevention, Control and 
+Countermeasure (SPCC) plan to minimize the chance for a 
+release, and dictate actions to be taken should a spill occur.   
+The plans also guide the implementation of rigorous 
+training programs, inspection protocols, and secondary 
+containment monitoring and repair programs for all of 
+the Company’s natural gas wells and compressor stations. 
+The Company conducts monthly inspections of its facilities 
+and tracks the data electronically to enable rapid repairs.  
+If a spill does occur, EQT uses appropriate and effective 
+cleanup measures to quickly achieve complete remediation 
+of the spill, including any affected soil. The Company 
+typically uses vacuums, absorbent booms and pads, along 
+with tools and equipment for soil excavation, to contain 
+and ultimately remove the contents of the spill because 
+these methods are effective and release no dispersants to 
+the environment. Coupled with the controlled removal and 
+disposal of the cleanup materials according to prevailing 
+federal, state and local regulatory requirements in effect 
+at the time of the spill, these cleanup measures have a 
+minimal effect on nearby communities.  
+At EQT, a signiﬁ  cant spill is one requiring notiﬁ  cation to 
+state or federal ofﬁ  cials. In 2013, EQT experienced 34 
+reportable spills, with a total volume of 474.72 barrels (bbls) 
+or 19,938 U.S. gallons. These spills were not a required 
+disclosure in the Company’s 2013 Form 10-K or any 
+other required ﬁ  nancial statements. EQT experienced two 
+reportable spills of more than 100 bbls (4,200 gallons) into 
+the environment: a 168 bbls (7,056 U.S. gallons) ﬂ  owback 
+release and a 117 bbls (4,914 U.S. gallons) brine release. 
+EQT’s standard procedure is to follow every incident with 
+an evaluation of the cause of the spill so it can identify and 
+implement corrective action. To prevent recurrences, the 
+Company shares these new techniques and protocols with 
+its ﬁ eld employees and contractors, and integrates them 
+into its design standards and operations.
+7864_Text_C4.indd   18 8/29/14   1:10 PMGo back to Table of ContentsGreenhouse Gas Reduction
+The Company’s greenhouse gas (GHG) management 
+program formally began in 2008. The goal was to help EQT 
+improve air quality in its communities by reducing its own 
+greenhouse gas emissions associated with ﬁ  eld operations.  
+Efforts continue to reduce the Company’s total estimated 
+Environmental Protection Agency (EPA) reportable GHG 
+emissions, and each of the Company’s two business 
+segments has identiﬁ  ed key areas that provide the most 
+opportunities for GHG reductions. 
+During 2013, EQT’s business segments reported the 
+following greenhouse gas emissions:
+Production:  583,037 metric tons CO2e  
+Midstream:  466,235 metric tons CO2e
+Distribution:  70,105 metric tons CO2e 
+  (direct emissions up to the divestiture)
+EQT Total:  1,119,377 metric tons CO2e
+ Reducing Air Emissions
+EQT monitors and reports on speciﬁ  c types of air emissions 
+that are relevant to its business operations and/or required 
+by state or federal regulations.  
+19Environmental Stewardship
+AIR EMISSIONS INTENSITY 
+BY BUSINESS SECTOR – 2013
+SECTOR AIR EMISSION TYPE WEIGHT
+EQT 
+ProductionNitrogen oxides 
+(NOx)10.64 tons/Bcfe
+Sulfur oxides (SOx) 0.01 ton/Bcfe
+Volatile organic 
+compounds (VOC)0.72 ton/Bcfe
+EQT 
+MidstreamNitrogen oxides 
+(NOx)9.85 tons/Tbtu
+Sulfur oxides (SOx) 0.00 ton/Tbtu
+Volatile organic 
+compounds (VOC)1.14 ton/Tbtu
+SIGNIFICANT AIR EMISSIONS BY TYPE AND WEIGHT – 2013
+AIR EMISSION TYPE WEIGHT
+Nitrogen oxides (NOx) 8,713 tons
+Sulfur oxides (SOx) 7.0 tons
+Volatile organic compounds (VOC) 807 tons
+Hazardous air pollutants (HAP) 117 tons
+Particulate matter (PM) 148 tons
+Other standard categories of air emissions identiﬁ  ed in regulationsFormaldehyde = 23 tons
+Carbon Monoxide (CO) = 3,040 tons
+Emissions related to activities of special interest to stakeholders (e.g., oil 
+sands, shale gas) speciﬁ  c to EQT’s shale gas production operations in PANOx = 1,756 tons
+SOx = 1.3 tons
+VOC = 99 tons
+HAP = 2 tons
+PM-10 and PM-2.5 = 93 tons
+CO = 468 tons
+• All data reﬂ  ects required air emissions inventory submittals and have been expanded to include all Production and Midstream operations. 
+The PA shale gas production emissions numbers represented separately are not included in the total air emission quantity number s.
+• EQT gathers operational data and calculates emissions annually to comply with the emissions inventory requirements of each st ate.  
+• Formaldehyde, although a HAP, is reported separately and is not included in the total HAP quantity.
+• EQT does not measure or report the following: air emissions for persistent organic pollutants, air emissions for stack and fu gitive emissions. 
+There are no plans to measure or report this data in the future as there is no business or regulatory reason to do so.
+• Calculations are based on site speciﬁ  c data, stack tests, and manufacturer’s information.
+7864_Text_C4.indd   19 8/29/14   1:10 PMGo back to Table of ContentsGreen Completions
+For a few days before a new well begins to produce gas, it 
+also produces associated water, sand, chemicals and drilling 
+debris. This time period is referred to as “completions” 
+and the material is referred to as “ﬂ  owback.” In the past, 
+producers collected the ﬂ  uid and solids in a pit and ﬂ  ared 
+or vented the initial ﬂ  ow of gas into the atmosphere 
+to allow the impurities in the ﬂ  owback to clear before 
+connecting the well to the pipeline system.  
+Alternatively, green completions techniques now 
+enable EQT to capture the initial gas emitted during the 
+well-completion process instead of releasing it to the 
+atmosphere. Doing so successfully limits the amount of 
+ﬂ ared and vented gas released to the atmosphere at the 
+Company’s well sites. In 2013, 96% of completed EQT 
+wells utilized “green completions,” as deﬁ  ned by the 
+United States Environmental Protection Agency (EPA). 
+The few instances precluding reaching 100% typically 
+resulted from discrete site or operational characteristics.  
+With a green completion, the pipeline network is extended 
+to the well site before well completion begins so it is 
+ready to immediately receive any gas produced. During 
+this process, the ﬂ  owback mixture is captured and routed 
+through a separator to collect the solid materials, which 
+are sent to an approved landﬁ  ll. The water, containing the chemicals and mineral constituents, is separated and stored 
+for reuse in subsequent fracturing operations. 
+The natural gas that traditionally used to be ﬂ  ared or 
+vented is directed into the pipeline and sent off to market, 
+drastically reducing methane emissions.  
+During 2013, the volume of ﬂ  ared gas during well 
+completions was 55,520 mcf, while the amount of 
+vented gas during well completions was 14,503 mcf. 
+In relation to the volume of natural gas produced in the 
+year, the total volume of ﬂ  ared and vented gas was only 
+0.000033 million barrel oil equivalent.
+EQT provides emissions, including methane, as part of 
+Subpart W reporting to the EPA for each of the 13,000 wells 
+it operates. For Subpart W reporting, EQT uses EPA’s 
+emission factors to estimate both CO2 and CH4 emissions 
+from all wells. The factors can be found at Table W-1A of 
+Subpart W - Default Whole Gas Emission Factors for Onshore 
+Production, 40 CFR 98, Subpart W, except for pneumatics, 
+which are set at NSPS OOOO limits. EQT’s 2013 upstream 
+methane emissions were 0.19% of the Company’s total 
+2013 production, as reported in EQT’s EPA 2013 Subpart W.
+Using Natural Gas as an Alternate Fuel
+In mid-2012, EQT began exploring the use of natural 
+gas-powered drill rigs and completion equipment at its 
+well sites. The design of these new drill rigs makes them 
+cleaner and quieter to operate than conventional diesel-
+powered equipment. Although they cost more to build, the 
+natural gas rigs can be less expensive to operate. The major 
+beneﬁ  t is to the environment, as the rigs running on natural 
+gas emit 20% to 30% less carbon dioxide compared to 
+their diesel counterparts, and have a small fraction of the 
+emissions of nitrogen oxides, sulfur oxides, and particulates.   
+EQT ﬁ  eld tested two different options for displacing diesel 
+fuel in production activities. One used a drilling rig powered 
+by liqueﬁ  ed natural gas (LNG); the other was a rig converted 
+to use “ﬁ  eld gas,” which is unprocessed gas that comes 
+directly from a nearby well. This latter method taps into 
+gathering pipelines that carry gas from onsite production.  
+In addition to reducing emissions, powering rigs with 
+ﬁ eld gas eliminates the noise and truck trafﬁ  c associated 
+with deliveries of diesel fuel used to power traditional rig 
+equipment. The success of EQT’s initial pilot operations 
+led to more rig conversions in 2013; by the end of the 
+year, the Company was regularly using four rigs powered 
+by ﬁ eld gas, and expects to have at least two more in 
+service by the end of 2014.
+20ONGOING EQT GREENHOUSE 
+GAS REDUCTION INITIATIVES
+SEGMENT GHG INITIATIVE
+Production  Continue conversion of drill rigs 
+from diesel to natural gas
+Reduce duration of completions 
+in Lower Huron Shale
+Increase number of ﬂ  areless 
+completions in Marcellus Shale
+Directed maintenance and best 
+management practices (BMPs)
+Tubing string installation
+Midstream Rich burn engine retroﬁ  ts
+Flash tank separators in 
+glycol dehydrators
+Instrument air
+Micro turbine generators
+Automated control systems
+7864_Text_C4.indd   20 8/29/14   1:10 PMGo back to Table of ContentsGo back to Table of ContentsUse of Land Resources 
+EQT maintains a strong commitment to minimizing impacts 
+on protected species, minimizing surface disruptions, and 
+reclaiming the land to its original state after the Company’s 
+active operations are complete. EQT holds leases that 
+include protected areas such as wetlands, national and 
+state forests, and Army Corps of Engineers property; 
+however in 2013 EQT did not drill wells in any of these 
+sensitive areas.   
+EQT actively tries to avoid drilling inside protected areas; 
+however it sometimes has operations that are located 
+nearby. As a leader in the use of horizontal drilling 
+technology, the Company is able to drill multiple wells 
+from the same pad, minimizing the impact on the land 
+and surrounding environmental resources. EQT can also 
+drill directionally to extract gas from nearby sensitive areas, 
+following all federal, state and local regulations and guidelines.   
+Where any protected species may be present, EQT conducts 
+environmental studies on and near the proposed site to 
+conﬁ rm the presence of that species before any ﬁ  eld activity 
+begins. If the species is found and cannot be avoided, EQT 
+works with the appropriate agencies to create protection 
+plans. In some cases, local resources are recruited to help 
+identify threatened, endangered, or special-concerns 
+species. If potential impacts emerge, EQT coordinates with 
+those local agencies to develop and implement avoidance 
+and/or mitigation measures.
+21Environmental Stewardship
+EQT ACTIVE ACREAGE LEASED OR 
+OWNED IN PROTECTED AREAS - 2013
+STATEWETLANDS
+SQ. KM FEDERAL LAND OR 
+PARKS SQ. KM
+Kentucky 15 920
+Ohio 3 0
+Pennsylvania 8 83
+Virginia 14 428
+West Virginia 10 107
+Total 50 1,538
+21Another area where EQT continues to actively promote 
+the use of natural gas is as a cleaner-burning alternative to 
+carbon-rich fuels such as gasoline and diesel for vehicles. 
+In response to demand from ﬂ  eet owners and individual 
+users, the Company added additional pump capacity at 
+its public-access compressed natural gas (CNG) fueling 
+station in Pittsburgh, Pennsylvania, and actively supported 
+initiatives to expand the infrastructure needed to promote 
+greater use of CNG as a transportation fuel in all states 
+where EQT has business operations.   
+As new CNG fueling stations spread across Pennsylvania 
+and West Virginia in 2013, the Company continued the 
+conversion of its ﬂ  eet to run on compressed natural gas 
+(CNG). This has helped reduce EQT’s vehicle-related carbon 
+emissions by 20% - 30% compared to the older gasoline 
+and diesel fueled vehicles.
+Using Energy Wisely 
+Natural gas is EQT’s primary direct energy source for 
+conditioning building spaces for occupancy (with a small need 
+for heating oil in locations where gas is not readily available). 
+The Company also uses a signiﬁ  cant amount of electricity for 
+heating/cooling, lighting, and various support equipment.   
+EQT maintains an extensive preventative maintenance 
+program for all of its facilities, and uses benchmarking 
+against similar buildings in an effort to identify 
+opportunities for improvement and ensure that all facilities 
+run efﬁ  ciently. As maintenance or renovations take 
+place, the Company upgrades lighting ﬁ  xtures; installs 
+motion sensors; uses night and weekend setbacks to 
+control temperature during low occupancy; and upgrades 
+equipment to take advantage of energy efﬁ  ciencies.
+EQT also encourages its employees to contribute to 
+the reduction of GHG emissions. For those based in 
+traditional ofﬁ  ce environments, ﬂ  exible work schedules and commuting options such as public transportation are 
+encouraged, as is the use of web-based meeting services 
+and conference calls, to reduce the need for vehicle travel.  
+EQT also launched a cash incentive program to help interested 
+employees purchase CNG vehicles for personal use.
+7864_Text_C4.indd   21 8/29/14   1:10 PMGo back to Table of ContentsSOCIAL
+Responsibility
+7864_Text_C4.indd   22 8/29/14   1:10 PMEQT has numerous policies and procedures in 
+place to make sure employees are treated justly, 
+and the related processes and reporting mechanisms 
+help monitor program implementation, facilitate 
+adjustments when conditions warrant a change, 
+and communicate clearly with employees and 
+their families so they understand all that is available  
+to them.
+The EQT Workforce
+As of December 2013, EQT had 1,626 employees on 
+the payroll; all are classiﬁ  ed as either full-time or part-
+time. EQT does not use individual contractors nor does 
+it supervise the work of individuals employed by others. 
+When the company executes purchase agreements with 
+various companies to provide specialized equipment 
+and services at job sites and other work locations on 
+an as-needed basis, the contracted company remains 
+responsible for hiring and supervising its own employees, 
+as well as maintaining workforce data for these individuals.   WITH DEEP AND AUTHENTIC WE ARE A COMPANY
+THAT TREATS INDIVIDUALS
+23Social Responsibility
+EQT EMPLOYEE DEMOGRAPHICS – 2013 
+WORKFORCE BY GENDER
+MALE FEMALE TOTAL
+Total Workforce 1,301 325 1,626
+Full-time 1,301 314 1,615
+Part-time 0 11 11
+Non-Union 1,301 325 1,626
+Union (0% of total workforce) 00 0
+Minority 2.3% 2.0% 4.3%
+Non-Minority 77.7% 18.0% 95.7%
+Location 
+Kentucky 185 11 196
+Pennsylvania 621 261 882
+Virginia 120 4 124
+West Virginia 375 49 424
+New Hires 200 61 261
+Rate of New Hires 12.3% 3.8% 16.1%
+Employees Leaving 128 36 164
+Rate of Employees 
+Leaving7.9% 2.2% 10.1%
+Parental Leave
+Eligible 1,166 289 1,455
+Not Eligible 135 36 171
+Took Parental Leave 
+in 201321 0 1 2
+Returned from 
+Parental Leave in 2013
+(Retention Rate)2
+(100%)10
+(100%)12
+(100%)
+Still employed 12 months 
+after return (Retention Rate)2
+(100%)9
+(90%)11
+(92%)
+7864_Text_C4.indd   23 8/29/14   1:10 PMGo back to Table of Contents24EQT EMPLOYEE DEMOGRAPHICS – 2013 
+WORKFORCE BY JOB CATEGORY 
+SENIOR 
+MANAGEMENTALL OTHER 
+SUPERVISORS 
+AND MANAGERSEXEMPT 
+PROFESSIONALS 
+AND MANAGERSNON-EXEMPT/
+HOURLYTOTAL
+Gender
+   Male 0.3% 15.9% 27.2% 36.5% 80%
+   Female 0.1% 3.4% 8.7% 7.9% 20%
+Minority Group
+   Minority 0.0% 0.3% 2.2% 1.8% 4.3%
+   Non-minority 0.4% 19.1% 33.6% 42.6% 95.7%
+Age Group
+   <30 0.0% 0.7% 7.1% 6.8% 14.6%
+   30 – 50 0.1% 12.0% 20.8% 24.9% 57.8%
+   >50 0.3% 6.7% 7.9% 12.7% 27.6%
+EQT EMPLOYEE DEMOGRAPHICS – 2013 
+TURNOVER RATES
+NUMBER RATE
+New Hires by Age
+   <30 89 5.5%
+   30 - 50 144 8.9%
+   >50 28 1.7%
+Employees Leaving by Age
+   <30 21 1.3%
+   30 - 50 90 5.5%
+   >50 53 3.3%
+New Hires by Location
+Kentucky 13 0.8%
+Pennsylvania 189 11.7%
+Virginia 2 0.1%
+West Virginia 57 3.5%
+Employees Leaving by Location
+Kentucky 15 0.9%
+Pennsylvania 111 6.8%
+Virginia 6 0.4%
+West Virginia 32 2.0%
+7864_Text_C4.indd   24 8/29/14   1:10 PMGo back to Table of ContentsBeneﬁ  ts
+The EQT core beneﬁ  t package is designed to meet 
+the personal and professional needs and expectations 
+of employees and their families. Where appropriate, 
+specialized training relevant to an individual’s position and 
+area of responsibility may be offered, plus the Company 
+provides general training in areas such as corporate ethics 
+and compliance, and safety.   
+Supplementing the beneﬁ  t package is EQT’s “Take Charge” 
+wellness program, that offers personal health coaching, 
+wellness information, and health management programs to 
+help employees and their families address personal health 
+and wellness issues. These resources are administered 
+outside of EQT, and individual results or information from 
+any part of the Program remain strictly conﬁ  dential and are 
+not provided to EQT. The Take Charge program includes 
+quarterly employee educational sessions that are facilitated 
+by professional medical staff and scheduled during work 
+hours, as well as newsletters mailed to employees’ homes 
+for the beneﬁ  t of their families.
+EQT’s Employee Assistance Program compliments Take 
+Charge by providing conﬁ  dential short-term counseling 
+25Social Responsibility
+services and treatment programs; as well as referrals for 
+issues such as family and relationship concerns, elder care, 
+money management and legal problems. All employees, 
+including those who waive the Company’s medical 
+coverage, are enrolled in this beneﬁ  t — and anyone living 
+in the employee’s household is also eligible. The Company 
+pays the full cost for up to ﬁ  ve in-person visits with a 
+counselor for each problem.
+In 2013, EQT instituted an on-site health screening program 
+for all employees. This program assesses body mass index, 
+blood pressure, glucose and cholesterol levels. Immediate 
+results are provided to the employee and reviewed with 
+the employee by medical professionals. The Company also 
+provides a $150 incentive to employees that participate 
+in online or telephone-based health coaching programs 
+offered through the University of Pittsburgh Medical 
+Center’s MyHealth Wellness program.
+EQT has detailed standards for assessing potential hazards 
+in the work environment and selecting the appropriate 
+forms of equipment to protect employees, contractors, 
+service providers and visitors. The Company also maintains 
+a robust workplace safety training program that includes 
+both regulatory and risk-based training for its employees.
+EQT BENEFITS FOR FULL-TIME EMPLOYEES
+HEALTHCARE INSURANCE FINANCIAL LIFESTYLE
+Medical* Accidental Death and 
+DismembermentSeverance Pay Paid Vacation
+Dental* Short-term Disability Relocation Assistance Education Assistance Program
+Vision* Long-term Disability 401(k) Retirement Savings 
+with Matching Contributions9/80 Work Schedule (Optional)
+Business Travel Accident Health Saving Account* Jury Duty Paid Time Off
+Life Insurance – Employee, 
+Spouse, ChildrenCredit Union Extended Unpaid Leave of Absence
+Employee Stock Purchase Employee Assistance Program*
+Retirement Contribution Family and Medical Leave 
+(Includes Maternity/Paternity Leave)
+Commuter Reimbursement Accounts
+Wellness Programs
+Computer Purchase Program
+Matching Gift Program  
+(100% match up to $25,000/year)
+*  Part-time employees are also eligible for these beneﬁ  ts
+7864_Text_C4.indd   25 8/29/14   1:10 PMGo back to Table of ContentsStakeholder Engagement
+EQT actively strives to engage its stakeholders who have 
+an active interest in the Company’s operations and how 
+these activities affect their lives. Because each group 
+has speciﬁ  c needs, interests, and preferences, EQT has 
+developed a number of communications tools to address 
+key concerns and ensure that stakeholders have the 
+information they need regarding the business and its role 
+in their communities.   
+EQT identiﬁ  es its stakeholder groups based on their 
+recurring contact with, or interest in, the operations of the 
+Company. As with any collection of diverse entities, one 
+size does not ﬁ  t all so the approaches used to engage, 
+hear, understand, and inform these interested parties are 
+numerous. EQT’s primary stakeholder groups include:
+ Investors
+ Employees
+ Communities
+ Landowners/Royalty Owners
+ Elected Ofﬁ  cials
+ Regulators
+ Non-Government Organizations (NGOs)
+ Nonproﬁ  t Organizations and Charities
+ Suppliers
+ News Media/Industry Analysts
+ Industry Associations
+What follows on the next page is a broad sampling of 
+the types and frequency of interactions EQT has with its 
+stakeholders, along with some speciﬁ  c approaches to 
+maintaining contact with the broad EQT community.
+26Addressing Community Concerns
+EQT belongs to a number of civic and trade associations at 
+the local, state, and national level (see the Public Policy and 
+Political Engagement section of this report). The Company’s 
+strategic involvement in these organizations enables it 
+to share transparent and accurate information about the 
+natural gas industry, including the beneﬁ  ts of natural gas 
+and related services. The participation of EQT employees in 
+these organizations, often in leadership roles, also enables 
+the Company to add its knowledge and experience to the 
+development of best practices for operational activities and 
+stakeholder engagement that can be used across the industry.
+Community open houses and sponsorship of local fairs 
+and festivals continue to be a popular outreach method.  
+These forums allow stakeholders to informally meet EQT 
+employees, ask questions or offer comments on topics 
+that they believe are most important — in return, EQT 
+stakeholders receive immediate feedback. Some of the 
+issues and resulting response mechanisms are summarized  
+in the chart on the following page.
+With changes in laws, ordinances, and regulatory 
+requirements, EQT’s stakeholder communications and 
+community relations efforts must continually improve — 
+and in an effort to develop viable, two-way partnerships 
+with the Company’s operating communities, the position of 
+Community Advisor was created in 2012 to provide a more 
+personal point of contact. The Community Advisors, who 
+are employees of EQT, are situated regionally (southwest 
+Pennsylvania, north central Pennsylvania, and West Virginia/
+Kentucky) and have worked to cultivate relationships 
+with local ofﬁ  cials and ﬁ  rst responder personnel, as well 
+as with existing and potential landowners. Because they 
+are in EQT’s operating communities on a daily basis, the 
+Community Advisors are a great source of information that 
+the Company uses to identify concerns before they become 
+problems, as well as suggest ways that EQT can strengthen 
+its processes and procedures. They also serve as community 
+advocates, ensuring that issues reach the right person in 
+the Company and ultimately achieve resolution.
+In 2013, as result of the Community Advisor roles, EQT 
+initiated an “issues tracking and resolution” process to 
+document community and landowner questions/concerns 
+in order to develop an ongoing dialogue and problem-
+resolution methodology. The ultimate goal of the process 
+is to identify common issues so the Company can better 
+anticipate and resolve them before they arise at similar 
+operations. The internally managed database captures the 
+7864_Text_C4.indd   26 8/29/14   1:10 PMGo back to Table of Contents27Social Responsibility
+EQT STAKEHOLDER ENGAGEMENT – AUDIENCES AND ACTIVITIES
+STAKEHOLDER 
+GROUPAPPROACHES TO ENGAGEMENT WITH EQT FREQUENCY OF ENGAGEMENT
+Investors Earnings releases, SEC ﬁ  lings, investor 
+teleconferences, investor relations contacts, 
+annual shareholder meeting, Corporate Secretary 
+and Lead Independent Director contacts, found on 
+the EQT websiteQuarterly, at minimum
+Employees Print, electronic and video communications, 
+employee staff meetings, intranet, electronic 
+employee newsletters, lunch and learn 
+seminars, volunteer activities, surveys, 
+formal reporting channels, compliance hotlineDaily
+Communities Face-to face meetings with EQT 
+community advisors
+Facility and site operations tours, community 
+meetings, open houses, public safety 
+communications, phone hotlines to report 
+problems or provide feedback, advertising, 
+community relationships, philanthropic giving 
+programs, sponsorships, surveys, focus groupsAccess to region-speciﬁ  c community 
+advisors is available as needed or 
+requested 
+Phone hotlines, email, corporate websites, 
+Facebook and YouTube available 24/7
+Facility and operations tours, public 
+safety communications, etc. scheduled 
+upon request
+Community meetings and open houses 
+are scheduled several times each year
+Advertising, focus groups, surveys, 
+sponsorships used as needed
+Landowners and 
+royalty ownersPersonal meetings, letters, access to company 
+landmen, open houses, public meetingsAs needed or requested. Phone hotlines, 
+email, corporate websites, Facebook, and 
+YouTube are available 24/7  
+Legislators and 
+RegulatorsPolicy discussions, Political Action Committee, 
+frequent meetings with national and state regulators 
+and local municipal leaders, lobbyists, membership 
+in trade associations, surveysAs needed or requested
+Non-Governmental  
+Organizations 
+(NGOs)Project partnerships, reporting on environmental, 
+economic and social topics, philanthropic giving, 
+surveys, accessibility to dialogues, environmental 
+assessmentsAs needed or requested
+Nonproﬁ  t 
+Organizations 
+and CharitiesPersonal meetings, Internet, access to 
+EQT FoundationAs needed or requested
+Suppliers and
+ContractorsCommercial relationships, websites, request-for-
+proposal process, training sessions, trade shows, 
+chamber of commerce membershipsAs needed or requested
+News Media and 
+Industry AnalystsNews releases, website, phone calls, email 
+exchanges, interviews, trade shows and speaking 
+engagements by executives and senior managersAs needed or requested
+7864_Text_C4.indd   27 8/29/14   1:10 PMGo back to Table of Contents28
+steps taken to address an issue; the ongoing status of the 
+issue, including when and how it was resolved; and lessons 
+learned to help avoid a recurrence. The database also 
+facilitates the reporting of community concerns upward 
+within the Company. Of the 113 issues reported to the 
+issues tracking database in 2013, 54% were related to 
+construction trafﬁ  c or road conditions; 20% were about 
+possible property damage; and the remaining 27% were 
+individual inquiries about leasing, tour requests, donations, 
+veriﬁ cations of permits, noise, easements, rights of way, 
+and the status of future activities.
+Internally, EQT’s operating segments organize their 
+responses to community issues in accordance with the 
+source and nature of concern; therefore, many, but not all, 
+may be included in the issues tracking system maintained 
+by the Community Advisors. The Production segment’s 
+land administration department handles royalty complaints 
+and certain change of lease ownership questions, while its 
+land department handles leasing questions and landowner 
+complaints about drilling and associated activities. The 
+Midstream segment’s land department handles questions 
+and landowner complaints about pipeline construction, 
+pipeline safety, and compressor station operations. Each 
+group has a different tracking process tailored to the nature 
+of the inquiry or complaint and various new systems are 
+under review and development.
+In the Environment, Health and Safety department, EQT 
+also has implemented a fresh water source protection, 
+monitoring, and internal reporting program. This 
+program is designed to assess and understand pre-
+existing groundwater conditions, monitor conditions 
+during drilling and fracturing operations, and quickly 
+respond to any discovered water issues or landowner 
+complaints. The report includes analytical data, complaints, 
+complaint status, and updates on whether the complaint EQT STAKEHOLDER ENGAGEMENT – 
+ADDRESSING CONCERNS
+TOPIC/
+CONCERN RESPONSE METHODS
+What’s 
+involved in 
+drilling a 
+well?Videos describing the process posted 
+to YouTube: How We Develop a Well; 
+Addressing Our Neighbors Concerns – Well 
+Safety; EQT Horizontal Drilling animation 
+What is in 
+the fracking 
+ﬂ uid?Fluid compositions for each well posted 
+to eqt.com  and fracfocus.org   
+Employment 
+OpportunitiesJob openings posted on  eqt.com 
+and other major job sites; participation in 
+college recruiting and regional job fairs
+Safety Regular meetings with municipal leaders, 
+ﬁ re departments, EMS managers
+Published EQT Guiding Principles at 
+eqt.com/production/principles.aspx 
+Information and contacts posted on 
+eqt.com
+Investor 
+InquiriesInformation posted at ir.eqt.com ; quarterly 
+earning calls and transcripts; attendance 
+at investor conferences; meeting 
+individually with investors
+Landowner 
+RelationsPersonal meetings, letters, direct access 
+to Company landmen and land agents, 
+open houses, public meetings 
+Information and contacts posted on 
+eqt.com
+Videos describing the process posted to 
+YouTube:  Addressing Our Neighbors’ 
+Concerns – Land;  Addressing Our 
+Neighbors’ Concerns – Noise; How We 
+Develop a Well
+Land and 
+Water 
+PreservationVideos describing the process posted 
+to YouTube:  Addressing Our Neighbors’ 
+Concerns – Land;  Addressing Our 
+Neighbors’ Concerns – Water; 
+How We Develop a Well
+Pipeline 
+SafetyVideo describing the process posted to 
+YouTube:  Addressing Our Neighbors’ 
+Concerns – Pipeline Safety; annual safety 
+mailing to residents/businesses situated 
+near active EQT pipelines
+Emissions Video describing the process posted to 
+YouTube: How We Develop a Well
+Roads/Noise/
+Trafﬁ  c/
+Municipality 
+ConcernsRegion-speciﬁ  c Community Advisors 
+maintain regular contact with township 
+and municipal authorities to address 
+concerns raised by local residents about 
+the Company’s operations
+7864_Text_C4.indd   28 8/29/14   1:10 PMGo back to Table of ContentsGo back to Table of Contents29Social Responsibility
+was potentially related to EQT’s activities. The number 
+of complaints received per 100 wells spud provides a 
+benchmark value for ongoing quarterly comparisons. This 
+report is provided on a periodic basis to senior Production 
+leadership and to EQT’s Executive Environmental Council.
+Community Investment
+In the oil and gas industry, having a “social license to 
+operate” is imperative and EQT works hard to integrate the 
+concept of social responsibility into the many facets of its 
+business. With all employees located in the United States, 
+the Company strives to hire from within its operating 
+regions when the required skill sets are available. This effort 
+also is extended to the supply chain, going so far as to help 
+local companies partner with larger vendors to gain valuable 
+industry experience. EQT and the EQT Foundation also 
+provide substantial support to local non-proﬁ  t and charitable 
+organizations that work to improve the quality of life for those 
+living within and around the Company’s operating regions.   
+In 2013, EQT and the EQT Foundation invested more than 
+$5.3 million in charitable giving to local communities. The 
+EQT Foundation, a separate 501(c)(3) organization, awarded 
+nearly $4 million of that amount to support programing in 
+Education, Arts and Culture, Environment, and Community 
+— areas of mutual importance to EQT and its various 
+stakeholders in the communities near its operations in 
+Pennsylvania, West Virginia, Ohio, Kentucky, and Virginia.   
+In Pennsylvania, the Company continues to award funds to 
+support public school education via the state’s Educational 
+Improvement Tax Credit (EITC) program. The popularity of EQT COMMUNITY INVESTMENTS – 2013
+INVESTMENT 
+TYPEEQT 
+CORPORATIONEQT 
+FOUNDATION
+Pennsylvania EITC Grants $590,555
+Local Giving 
+(all states)  $320,200
+Sponsorships and 
+Other Community 
+Events  (all states)  $432,650
+Road and Infrastruc-
+ture Improvements$18,934,021
+Grants and 
+Contributions
+(all states)          
+$3,962,000
+this program, along with state budgeting constraints, can 
+affect how much EQT is allowed to contribute each year.  
+Across its ﬁ  ve-state footprint, EQT also contributed funds to 
+local ﬁ  re departments, food banks, and other community-
+based charities; and sponsored fairs, festivals, and various 
+community events in counties where the Company has a 
+regional headquarters or signiﬁ  cant ﬁ  eld operations. EQT 
+supplies in-kind support via company endorsed employee 
+volunteerism, including service on committees or governance 
+boards of local non-proﬁ  t organizations and associations.
+During 2013, EQT also invested almost $19 million to 
+improve local roads and infrastructure in 23 counties 
+where the Company had active operations. 
+SAMPLING OF COMMUNITY FAIRS/FESTIVALS/SPONSORSHIPS 
+SUPPORTED BY EQT IN 2013 
+ORGANIZATION LOCATION
+Dickenson County Fair VA
+West Virginia 150 Celebration WV
+Wetzel Town & Country Days WV
+EQT Energy Classic (tri-state high school basketball tournament – men and women) PA, KY, WV
+EQT Pittsburgh Three Rivers Regatta PA
+Greene County Fair PA
+Guernsey County Fair OH
+Guernsey County Shale-a-bration OH
+Pike County Hillbilly Days KY
+Mountain Heritage Festival KY
+7864_Text_C4.indd   29 8/29/14   1:10 PMGo back to Table of ContentsPublic Policy and 
+Political Engagement
+As a publicly traded organization, EQT governs its activities 
+by, and fully complies with, all U.S. laws and regulations 
+that oversee public policy and political engagement for 
+energy companies. EQT supports federal, state, and local 
+policies that promote stable investment climates for the 
+exploration, production, and transportation of natural gas. 
+These include policies governing environmental protection, 
+taxes, natural gas production, and transportation, as 
+well as policies expanding the use of natural gas in the 
+transportation, manufacturing and electricity generation 
+sectors. A summary of EQT’s political activity policy is 
+provided in the Company’s Code of Business Conduct 
+and Ethics  available on the EQT website at ir.eqt.com/
+charters-and-documents .  Corporate Engagement
+EQT’s political engagement takes on many forms. Upon 
+approval by Company management, EQT corporate 
+treasury dollars may be used to pay business and industry 
+trade association membership dues. These organizations 
+support member companies by educating the public, 
+advocating the interests of its member companies and 
+industry, fostering critical relationships, and supporting 
+informed public policy decisions. Business and industry 
+trade associations may allocate a portion of their 
+membership dues to lobbying activities. A complete list of 
+memberships, including dues paid and dollars applied to 
+lobbying activities, is shown in the chart on the next page.  
+In 2013, political spending using EQT corporate treasury 
+dollars totaled $43,800. The Company supported the 
+Democratic Governors Association and the Republican 
+Governors Association, both of which are organized under 
+Section 527 of the Internal Revenue Code, but EQT did 
+not make any contributions or payments of corporate 
+dollars to Super PACs, ballot measure committees, or 
+social welfare organizations for political purposes. EQT also 
+used corporate treasury dollars to support candidates for, 
+and members of, the Virginia General Assembly, subject 
+to the campaign ﬁ  nance laws of that state and disclosed 
+by the Virginia Public Access Project (vpap.org) . Refer to 
+Performance Indicator SO6 in the GRI Content Index of this 
+report for details of all political spending in 2013.
+30SAMPLING OF GRANTS AWARDED BY THE EQT FOUNDATION IN 2013
+ORGANIZATION AMOUNT PURPOSE
+American Heart Association 
+(PA and WV)$146,162 CPR training for middle school students in select counties
+Belfry Volunteer Fire Department 
+(KY)$50,000 Purchase truck to haul the department’s ATV Rope Rescue Trailer
+Carnegie Museum of Art (P A) $130,000 Underwrite the Impressionism exhibit
+Guernsey County Fireﬁ  ghters 
+Association (OH)$23,335 Support program to help local ﬁ  rst responders assist with  
+hazardous materials incidents
+Nine Mile Run Watershed 
+Association (PA)$60,000 Support watershed protection and urban ecology projects 
+in the watershed
+Pittsburgh Children’s Museum (PA) $125,000 Underwrite rebuild of the Interactive Water Exhibit
+University of Kentucky (KY) $50,000 Robinson Scholars Program 
+WQED Multimedia (PA and WV) $90,000 Sponsor annual PBS Kids Go Writers Contest for K-3 students in 
+selected states
+WV Students of Excellence (WV) $78,230 Award college scholarship to one student in every county of the state
+7864_Text_C4.indd   30 8/29/14   1:10 PMGo back to Table of Contents31Social Responsibility
+EQT CORPORATE MEMBERSHIPS – 2013
+ASSOCIATION TOTAL DUES PORTION OF DUES 
+ALLOCATED TO LOBBYING
+Allegheny Conference on Community & Economic D evelopment $121,000 $24,200 
+American Gas Association  $208,552 $6,257 
+American Natural Gas Alliance  $1,165,500 $58,275
+Armstrong County Chamber of Commerce $1,275 n/a 
+Center for Sustainable Shale Development  $50,000 n/a 
+Dickenson County Chamber of Commerce $1,000 n/a 
+Harrison County Chamber of Commerce $600 n/a 
+Institute for Gas Drilling Excellence (IGDE) $50,000 n/a 
+Interstate Natural Gas As sociation $85,000 $11,050 
+Kentucky Chamber of Commer ce  $10,000 $1,500
+Kentucky Oil and Gas As sociation $12,500  $3,125 
+Marcellus Shal e Coalition $250,000 $70,750
+Marion County Chamber of Commerce $564  $6
+Pennsylvania Busines s Council $13,358 $1,603
+Pennsylvania Chamber of Commerce $12,862 $5,788 
+Philadelphia Chamber of Commerce  $10,000 $500 
+Ritchey County Chamber of Commerce $165 n/a
+Southeast Kentucky Chamber of Commerce  $999 n/a
+United States Chamber of Commerce  $50,000 $27,500 
+Utilities, Telecommunications and Energy Association of West Virginia $2,500 n/a
+Virginia Chamber of Commerce  $1,000  $150 
+Virginia Oil and Gas As sociation  $4,500  $4,500
+Waynesburg Chamber of Commerce  $400 n/a
+Waynesburg Area Rotary 1st Quarter  $128 n/a
+West Virginia Chamber of Commerce  $2,000  $150 
+West Virginia Oil and Natural Gas As sociation $40,000 $2,400
+Wetzel County Chamber of Commerce  $500 n/a
+Southern Gas Association $34,500 n/a
+Ohio Oil and Gas Association $51,000 $19,380
+TOTAL – 2013 $2,179,902 $237,134
+7864_Text_C4.indd   31 8/29/14   1:10 PMGo back to Table of Contents32In addition to routine memberships, EQT provides in-kind 
+support to business and industry trade associations to further 
+enhance their advocacy, educational outreach, scientiﬁ  c 
+research and public awareness efforts. EQT employees are 
+active participants in the governance of the organizations 
+to which the Company belongs, often serving as chair of 
+key committees or subcommittees. Depending upon the 
+structure of the association, these chair positions may be 
+considered part of the governance body.
+As active participants on association committees and related 
+programs or projects, EQT employees speak at industry 
+conferences and conventions, address the public and/
+media, and represent the industry in testimony before 
+government or other regulatory bodies. 
+EQT views all of these memberships as strategic components 
+of its efforts to engage stakeholders, develop and implement 
+best practices, and encourage ﬁ  nancial, social and 
+environmental sustainability by members of the industry.
+Employee Engagement
+As individuals, EQT employees participate in the political 
+process on a strictly voluntary basis. Some employees 
+participate by making voluntary contributions to the EQT 
+Employees’ Pennsylvania State Political Action Committee 
+(PAC) and the EQT Employees’ Federal PAC. These PACs 
+make contributions to candidates, political parties, and 
+political committees. The EQT Employees’ Pennsylvania 
+State PAC is primarily funded through transfers from 
+the EQT Employees’ Federal PAC.or
+All of these contributions were made in compliance 
+with the laws and regulations of each jurisdiction of 
+the Company’s business operations, including all U.S. 
+federal and state campaign ﬁ  nance laws. EQT discloses 
+contributions from the PACs to the United States Federal 
+Elections Commission (fec.gov) .
+In 2013, total political spending from the two EQT 
+employee PACs totalled $109,959. There were no ﬁ  nancial 
+or in-kind contributions to political parties, politicians, 
+or related institutions outside the United States. Refer to 
+Performance Indicator SO6 in the GRI Content Index of 
+this report for details of all political spending in 2013.
+7864_Text_C4.indd   32 8/29/14   1:10 PMGo back to Table of Contents7864_Text_C4.indd   33 8/29/14   1:10 PMECONOMIC
+IMPACT
+7864_Text_C4.indd   34 8/29/14   1:10 PMIn 2013, EQT achieved net income of $390.6 million. 
+Other highlights worth sharing:
+ Cash ﬂ  ow per share was $8.26; 
+42% higher than 2012 
+ Record annual production sales volume of 378.2 Bcfe; 
+43% higher than 2012 
+ Record gathered volume of 466.4 TBtu; 
+39% higher than 2012 
+ Year-end proved reserves of 8.3 Tcfe; 
+39% higher than 2012 
+ Completed the sale of EQT’s distribution business, 
+Equitable Gas Company, LLC Of the components that drive EQT’s integrated 
+sustainability, the ﬁ  nancial impact the Company 
+has on its employees, shareholders, and other 
+stakeholders is among the most signiﬁ  cant. EQT’s 
+ﬁ nancial results have been impressive, and the direct 
+and indirect economic boost the Company provides 
+to local economies is substantial. AS A GOOD WE ARE A COMPANY 
+THAT IS STRIVING TO DO BUSINESS
+35Economic Impact
+CORPORATE  CITIZEN.
+Reserves and Production
+EQT’s involvement in the development and production of 
+natural gas reserves is a major factor in the Company’s 
+economic impact. EQT reports its reserves and production 
+activities in ﬁ  lings submitted to the U.S. Securities and 
+Exchange Commission (SEC), including its annual Form 10-K.  
+The data is calculated in accordance with SEC regulations 
+and the requirements of the Financial Accounting Standards 
+Board. For 2013, all EQT operations took place onshore 
+within the states of Pennsylvania, West Virginia, Ohio, EQT KEY FINANCIAL INDICATORS – 2013
+FINANCIAL INDICATOR2013 RESULTS
+(MILLIONS)
+Operating Revenue $1,862.00
+Operating Expenses $1,227.00
+Operating Income $654.60
+Dividends paid to shareholders $18.09
+Taxes paid to the United States 
+government (including state 
+and local taxing entities)$175.19
+Net Income (attributable to EQT) $390.57
+2012 Employee Wages + Beneﬁ  ts  $368.93
+Community Investments
+EQT Foundation Grants $3.96
+EQT Corporation Contributions 
+and Sponsorships$1.34
+Roads and Infrastructure $18.93
+* EQT includes the Lower Huron, Cleveland, Berea sandstone and other Devonian age formations in its Huron play.  Also included in the Huron play is 0.7 Tcfe of 
+reserves from non-shale formations accessed through vertical wells. This data is consistent with the EQT 2013 Form 10-K ﬁ  led with the SEC.EQT ESTIMATED PROVED RESERVES AND PRODUCTION BY RESOURCE TYPE 
+AND OPERATING ENVIRONMENT – 2013  
+     (BCFE) MARCELLUS HURON * UPPER DEV ONIAN CBM/ UTICA/OTHER TOTAL
+Proved Devel oped 1,899 1,118 109 860 3,986
+Proved Und eveloped 4,057 198 106 1 4,362
+  Total Proved Reserves 5,956 1,316 215 861 8,348
+7864_Text_C4.indd   35 8/29/14   1:10 PMGo back to Table of ContentsLocal Economic Impact
+Beyond its corporate philanthropy and other community 
+investments, EQT supports the severance taxes and impact 
+fees imposed by state legislatures to compensate local 
+communities that are affected by active drilling operations.   
+In addition to working with landowners to remediate 
+and restore the land to its original condition after drilling 
+is complete, EQT invests millions of dollars each year to 
+improve local roads and infrastructure affected by its 
+activities. In 2013, the Company invested almost $19 
+million on roads in Pennsylvania, Ohio, and West Virginia.
+As of December 31, 2013, EQT employed 1,626 
+employees, excluding the 342 employees of Equitable Gas 
+Company, which was sold to a third-party in December 
+2013. EQT’s year-end 2013 annual payroll, before beneﬁ  ts, 
+exceeded $283 million. The Company paid approximately 
+$12 million in state and local wage-related taxes in 2013, 
+with much of that being returned to its operating areas.  
+EQT’s operational activity supported approximately 6,200 
+full and part-time jobs, and added approximately $0.9 
+billion in total value to the economy. The Company’s 
+capital expenditures supported more than 15,200 direct 
+and indirect jobs and contributed just over $1.4 million in 
+economic value across the ﬁ  ve states where EQT operated.EQT’s positive indirect impact on local economies during 
+2013 takes many forms:
+ Every direct EQT job supports an additional 2.2 jobs in 
+the broader economy
+ The wages of EQT employees and service providers have 
+a ripple effect on the broader economy because these 
+wages are used to buy goods and services
+ Royalty payments made by EQT also have a ripple 
+effect on the economy as they provide resources to fuel 
+additional consumer spending 
+ Through its supply chain, EQT created jobs in various, 
+related industries that may not exist without EQT’s 
+business activities
+ Local businesses that provide products and services to 
+EQT make their own supply chain purchase and hire 
+employees who in turn spend their salaries and wages 
+throughout the local and state economies
+To further demonstrate the contributions that EQT has 
+made to its communities, the Pennsylvania Economy 
+League of Greater Pittsburgh conducted several analyses 
+to estimate the economic impact of the Company’s 
+operations, its capital expenditures, and its royalty 
+payments. There is overlap between the analyzed data; 
+therefore, the ﬁ  gures should not be added together, 
+as this may signiﬁ  cantly overstate EQT’s effect on local 
+economies.  The following four tables are a compilation of 
+results from EQT’s 2013 economic impact analysis provided 
+by the Pennsylvania Economy League of Greater Pittsburgh, 
+and based on data as of December 31, 2013.
+36EQT POSITIVE ECONOMIC IMPACT – 2013
+(Millions of dollars, unless otherwise noted)
+ 
+PENNSYLVANIA WEST VIRGINIA KENTUCKY VIRGINIA OHIO TOTAL
+EQT Employees (#) 1,194 447 203 124 0 1,968
+Payroll & Beneﬁ  ts $276.9 $60.4 $21.6 $13.5 $0.0 $372.3
+State & local taxes $7.6 $2.8 $1.0 $0.6 $0.0 $12.0
+Ancillary job creation (#) 4,364 1,039 512 307 0 6,222
+ECONOMIC IMPACT OF 
+EQT OPERATIONS$732.1 $118.2 $48.7 $37.3 $0.0 $936.3
+Capital Expenditures $1,137.1 $924.6 $75.3 $7.4 $58.5 $2,202.9
+Ancillary job creation (#) 7,797 5,936 729 56 722 15,240
+ECONOMIC IMPACT OF EQT 
+CAPITAL EXPENDITURES$945.7 $394.4 $37.7 $4.9 $44.4 $1427.1
+• 2013 Economic impact data includes the employment and expenditure data from the Distribution Business Segment (Equitable Gas Company) through the date 
+of divesture in December 2013.Kentucky, and Virginia. Excluded from this report are the 
+Company’s foreign subsidiaries, which are either inactive or 
+in the process of winding down.
+7864_Text_C4.indd   36 8/29/14   1:10 PMGo back to Table of Contents37Economic Impact
+ECONOMIC IMPACT – 2013 EQT OPERATIONS ON TOTAL VALUE ADDED
+LOCATION DIRECT EFFECT INDIRECT EFFECT INDUCED EFFECT TOTAL EFFECT
+Kentucky $26,115,405 $8,984,530 $13,583,517 $48,683,452 
+Pennsylvania $438,530,356 $100,731,515 $192,839,508 $732,101,379 
+Virginia $19,168,088 $9,119,866 $9,026,869 $37,314,823 
+West Virginia $72,995,283 $17,682,343 $27,516,405 $118,194,031 
+TOTAL $556,809,132 $136,518,254 $242,966,299 $936,293,685
+• Direct Effect represents direct spending by EQT on payroll, goods and services, and construction
+• Indirect Effect represents the spending of companies in the EQT supply chain for their own purchases and to hire employees 
+• Induced Effect represents the impact of employees of EQT, and the employees of companies in its supply chain, as they use the ir salaries and wages to purchase 
+goods and services from other businesses for personal consumption.
+ECONOMIC IMPACT – 2013 EQT CAPITAL EXPENDITURES ON TOTAL VALUE ADDED
+DIRECT EFFECT INDIRECT EFFECT INDUCED EFFECT TOTAL EFFECT
+Kentucky $10,833,096 $16,532,181 $10,355,033 $37,720,310 
+Ohio $10,230,118 $19,789,057 $14,362,997 $44,382,172
+Pennsylvania $496,338,435 $224,230,117 $225,166,125 $945,734,677 
+Virginia $1,896,368 $2,078,556 $906,802 $4,881,726 
+West Virginia $184,854,789 $129,431,331 $80,082,855 $394,368,975 
+TOTAL $704,152,806 $392,061,242 $330,873,812 $1,427,087,860 
+• Total Value Added is comprised of Labor Income, Property Owner Income, and Indirect Business Taxes
+ECONOMIC IMPACT – 2013 EQT ROYALTY PAYMENTS ON EMPLOYMENT 
+AND TOTAL VALUE ADDED
+INDUCED EMPLOYMENT IMPACT 
+(# OF JOBS)TOTAL VALUE ADDED TO THE STATE 
+ECONOMY (2013 DOLLARS)
+Kentucky 1,934 $139,950,131 
+Pennsylvania 7,669 $645,428,617 
+Virginia 1,185 $104,660,395 
+West Virginia 3,345 $236,084,840 
+TOTAL 14,133 $1,126,123,983 
+• Both full- and part-time jobs are included
+• Total Value Added is comprised of Labor Income, Property Owner Income, and Indirect Business Taxes
+7864_Text_C4.indd   37 8/29/14   1:10 PMGo back to Table of ContentsExpanding Local Content 
+via the Supply Chain
+EQT strives to award procurement contracts locally 
+whenever possible because it understands the socio-
+economic value of buying local to enhance indigenous 
+economies. The Company deﬁ  nes local as the ﬁ  ve states 
+where EQT conducted its operational activities in 2013.
+EQT actively seeks help from national and regional 
+trade associations, chambers of commerce and supplier 
+advisory councils throughout the United States to identify 
+local bidders; and after careful consideration through 
+its selection process, the Company aims to choose local 
+suppliers if all other factors are equal. Criteria that may 
+inﬂ uence EQT supplier selection include:
+ Safety  – Safe and environmentally responsible 
+operations are imperatives at EQT. To enforce these 
+essentials, suppliers must be pre-approved as applicable 
+to the good or service.  
+ Value  – EQT places signiﬁ  cance on the overall value that 
+suppliers offer. Suppliers who differentiate their offerings 
+from their competitors through increased value merit 
+greater consideration.                                                                                                                                  
+ Price  – In most cases, lower costs create a competitive 
+advantage for suppliers because EQT receives 
+cost-savings that impacts its bottom line, increases 
+shareholder value for investors, and positions the 
+Company to potentially pass these cost savings on 
+to its customers.                                                                                                                                      
+ Quality  – As EQT strives to increase overall quality 
+to better serve the communities where it operates, 
+the Company expects best-in-class supply chain 
+performance from suppliers.                                                                                                                                      
+ Delivery  – On-time delivery is a critical measurement 
+of consideration and is necessary to avoid expensive 
+operational delays.
+To foster development of diverse and/or local suppliers, 
+EQT participates in “opportunity” fairs and events targeting 
+small businesses. These events identify qualiﬁ  ed bidders 
+able to work directly with EQT, as well as to promote 
+subcontracting opportunities with EQT’s prime suppliers.   
+To further encourage these ﬁ  rst tier suppliers to consider 
+local vendors, EQT has enhanced its standard procurement 
+process to include: Bidding process and Request for Proposal (RFP) 
+Language  – To encourage local supplier utilization, 
+during the solicitation process EQT’s standard RFP 
+strongly encourages prime suppliers to seek out and 
+include diverse businesses as part of their proposed 
+solution. All bidders must complete and attach a 
+subcontracting form with their proposal. The inclusion 
+of diverse companies, most of which are local, will be 
+evaluated as part of the review process. 
+ Tier 2 Program  – In its efforts to promote local spend 
+and diverse supplier utilization, EQT’s Procurement 
+Department requires top suppliers to provide their 
+monthly spend with local and/or diverse subcontractors. 
+In support of second tier efforts to identify and utilize 
+products and services from local or diverse suppliers, 
+EQT coordinates meetings with its suppliers, buyers, 
+and various local ﬁ  rms. As an example, the annual 
+Supplier Diversity Matchmaking Event, conducted 
+by EQT in partnership with other leading energy 
+companies, creates an opportunity for qualiﬁ  ed small, 
+minority-owned, women-owned, and veteran-owned 
+businesses to meet the top suppliers for each company 
+and develop relationships that can lead to capacity-
+building projects for the local and diverse businesses.  
+ Procurement Value Drivers – To encourage diverse 
+supplier utilization and to ensure accountability, EQT 
+actively tracks and reports the following for diverse 
+suppliers: number of suppliers; aggregate spend; and 
+percentage of total spend. The majority of diverse 
+suppliers are local to EQT’s operations.
+In 2013, EQT spent 46% of its procurement budget 
+with local vendors compared to 49% in 2012. To assist 
+local companies who are unable to meet existing needs 
+or requirements, EQT provides educational seminars to 
+various small business organizations to help their members 
+build capacity. The Company also works closely with local 
+and diverse companies that have performed successfully 
+to ﬁ nd opportunities to expand the amount of work 
+they do for EQT. As these local ﬁ  rms build capacity and 
+are considered for larger projects, they can increase their 
+workforce and increase their purchases, adding to the 
+positive ripple effect on the local economy.
+38
+7864_Text_C4.indd   38 8/29/14   1:10 PMGo back to Table of ContentsGo back to Table of Contents7864_Text_C4.indd   39 8/29/14   1:10 PM40EQT PERFORMANCE BENCHMARK – KEY DATA  
+(As of December 31, 2013)
+HEALTH AND SAFETY INDICATORS 2011 2012 2013
+Number of Fatalities 0.00 1.00 0.00
+Lost-Time Accident Rate 0.47 0.34 0.39
+OSHA Recordable Rate 1.98 2.52 2.04
+Preventable Vehicle Accident Rate 1.00 1.22 1.37
+Days Away, Restricted or Transferred 0.70 0.78 0.98
+ *  None of the investigations of incidents Potentially Related to EQT Operations revealed any contamination associated with ei ther methane migration or ﬂ  uids 
+involved in the actual drilling or hydraulic fracturing processesENVIRONMENTAL INDICATORS 2011 2012 2013
+Fresh Water Withdrawals (1,000 cubic meters) 2,010.34 2,291.23 3,677.75
+Volume of Produced Water (1,000 bbls) 27,952.27 3,647.15 5,171.64
+Marcellus Wastewater Recycled 70% 73% 86%
+Greenhouse Gas Emissions 
+(1,000 metric tons CO2e)3,313.49 2,694.93 1,119.38
+Usage Rate of Compressed Natural Gas        
+(compared to all fuel sources used)0.10% 2.00% 2.00%
+EQT Acreage – Wetlands (square miles) 48.00 47.00 50.00
+EQT Acreage – Federal Land or Parks 
+(square miles)1,550.40 1,479.00 1,538.00
+Monetary Fines $142,997.00 $65,925.00 $149,185.00
+Number of Reportable Spills 56 55 34
+Total Volume of Spills (bbls) 244.00 155.00 474.72
+PRIVATE WATER SUPPLY COMPLAINTS 2011 2012 2013
+Total Water Supply Complaints Not available 18 19
+Potentially Related to EQT Operations*Not available 2 1
+Days to Resolution (average) Not available Not available 46
+WORKFORCE INDICATORS 2011 2012 2013*
+Number of Employees 1,835 1,873 1,626
+Employee Turnover Rate 9.9% 11.2% 10.1%
+* Excludes Equitable Gas Company employees 
+7864_Text_C4.indd   40 8/29/14   1:10 PMGo back to Table of Contents41Key Performance Data
+COMMUNITY INVESTMENT INDICATORS 2011 2012 2013
+EQT Foundation – Grants $3,508,035 $2,968,000 $3,962,000
+EQT Corporation – PA Educational 
+Improvement Grants$125,930 $1,146,666 $590,555
+EQT Corporation – Local Giving $125,930 $208,100 $320,200
+EQT Corporation – Sponsorships 
+& Community Events$295,440 $600,175 $432,650
+EQT Corporation – Roads & Infrastructure Not available Not available $18,934,021
+ECONOMIC IMPACT INDICATORS 2011 2012 2013
+Net Income (millions of dollars) $479.77 $183.40 $390.6
+Operating Income (millions of dollars) $861.30 $470.53 $654.6
+Capital Investment (billions of dollars) $1.20 $1.40 $1.80
+Total Proved Reserves (bcfe) 5,365.00 6,004.00 8,348.00
+Royalty Payments* (millions of dollars) $804.64 $949.79 $1,850.63
+Property Taxes (millions of dollars) $28.73 $30.14 $26.27
+Severanc e Taxes/Impact F ees (millions of dollars) $27.17 $35.12 $43.50
+* Total Royalty Income includes payments made to both Royalty Interest and Working Interest
+PUBLIC POLICY INDICATORS 2011 2012 2013
+Political Spending – EQT Corporate Treasury $14,350.00 $68,000.00 $43,800.00
+Political Spending – EQT Employee PACs $73,939.00 $127,150.00 $109,959.00EQT PERFORMANCE BENCHMARK – KEY DATA - CONTINUED   
+(As of December 31, 2013)
+7864_Text_C4.indd   41 8/29/14   1:10 PMGo back to Table of Contents42
+CONTENT
+INDEX
+7864_Text_C4.indd   42 8/29/14   1:10 PMGo back to Table of ContentsPROFILE DISCLOSURES
+        1. Strategy and Analysis
+1.1 Statement from the most senior decision-maker of the organization
+ Fully Reported
+ See “Message from the CEO.”
+1.2 Description of key impacts, risks, and opportunities
+ Fully Reported
+ See “About EQT” section of this report.
+ EQT Corporation operates primarily within the United States of America, but does have foreign subsidiaries, which are either 
+inactive or in the process of winding down. The Company’s active business operations are subject to various U. S. federal, stat e 
+and local environmental, health and safety laws and regulations pertaining to various sustainability issues. The Company’s vari ous 
+events and circumstances can present risks and opportunities to the business. See EQT’s 2013 Form 10-K pages 14-22, for more 
+discussion about these events and circumstances. This document is available on EQT’s website at ir.eqt.com  under SEC Filings, or 
+on the SEC’s website at sec.gov .
+ EQT does not establish speciﬁ  c targets for sustainability performance — instead the Company evaluates these issues as part of 
+its overall performance management. The Company also does not have governance mechanisms in place to speciﬁ  cally manage 
+sustainability risk and opportunities; however, many aspects of sustainability risks and opportunities are the responsibility o f the 
+Public Policy and Corporate Responsibility Committee of the EQT Board of Directors. Additional information about this committee  
+and its responsibilities can be found at ir.eqt.com/charters-and-documents  
+ 2. Organizational Profile 
+2.1 Name of the organization
+ Fully Reported
+ EQT Corporation
+2.2 Primary brands, products, and/or services
+ Fully Reported
+ See “About EQT” section of this report.
+2.3 Operational structure of the organization, including main divisions, operating companies, subsidiaries, and joint ventures.
+ Fully Reported
+ See “About EQT” section of this report.
+ The Company’s original Distribution segment, Equitable Gas Company, LLC (Equitable Gas), was sold to Peoples Natural Gas 
+Company in 2013. 
+2.4 Location of organization’s headquarters
+ Fully Reported
+ Pittsburgh, Pennsylvania. United States of America.Global Reporting Initiative Content Index
+43Global Reporting Initiative 
+Content Index - 2013
+EQT used the Global Reporting Initiative (GRI) G3.1 Guidelines with the Oil & Gas Sector Supplement, which 
+provide a recommended framework and indicators for reporting. The Company is reporting at a self-checked 
+application level of B. The GRI indicators and EQT’s responses to them are located in the following tables. 
+More information on the GRI Guidelines and application levels is available at globalreporting.org
+7864_Text_C4.indd   43 8/29/14   1:10 PMGo back to Table of Contents2.5 Number of countries where the organization operates, and names of countries with either major operations or that are 
+speciﬁ  cally relevant to the sustainability issues covered in the report
+ Fully Reported
+ See “About EQT” section of this report.
+2.6 Nature of ownership and legal form
+Fully Reported
+ See “About EQT” section of this report.
+2.7 Markets served (including geographic breakdown, sectors served, and types of customers/beneﬁ  ciaries)
+ Fully Reported
+ See “About EQT” section of this report.
+2.8 Scale of the reporting organization
+ Fully Reported
+ See “About EQT” section of this report.
+ Also refer to EQT’s Form 10-K for the ﬁ  scal year ended December 31, 2013 for a complete description of the company’s operations.  
+This document is available on EQT’s website at ir.eqt.com  under SEC Filings, or at sec.gov . 
+2.9 Signiﬁ  cant changes during the reporting period regarding size, structure, or ownership
+ Fully Reported
+ See “About EQT” section of this report.
+ Changes in share capital or other ﬁ  nancial indicators may be found in EQT’s Form 10-K for the ﬁ  scal year ended December 31, 2013.  
+This document is available on EQT’s website at  ir.eqt.com  under SEC Filings, or on the SEC’s website at sec.gov .
+2.10  Awards received in the reporting period
+Fully Reported
+ Social: Top Workplaces in Pittsburgh - 2013.
+ 3. Report Parameters 
+3.1 Reporting period (e.g., ﬁ  scal/calendar year) for information provided
+ Fully Reported
+ Calendar year January 1, 2013 – December 31, 2013.
+3.2 Date of most recent previous report (if any)
+ Fully Reported
+ September 2013.
+3.3  Reporting cycle (annual, biennial, etc.)
+ Fully Reported
+ Annual.
+3.4  Contact point for questions regarding the report or its contents
+ Fully Reported
+ Natalie Cox
+ Corporate Director, Communications
+ EQT Corporation
+ 625 Liberty Avenue, Suite 1700
+ Pittsburgh, PA 15222
+ United States of America
+3.5  Process for deﬁ  ning report content 
+ Fully Reported
+ See the “About This Report” section of this report.
+44
+7864_Text_C4.indd   44 8/29/14   1:10 PMGo back to Table of Contents3.6  Boundary of the report  - See GRI Boundary Protocol for further guidance
+ Fully Reported
+ See the “About This Report” section of this report.
+ The report covers all EQT Corporation headquarters activities, and the Company’s two business segments: Production and 
+Midstream. The domain of this report does not include operational activity at Equitable Gas Company (sold by EQT in 2013); 
+however EQT’s ownership interest in this entity is reﬂ  ected in all reported 2013 ﬁ  nancial data for the Company, including economic 
+impact analyses. Also excluded from this report are the Company’s foreign subsidiaries, which are either inactive or in the pro cess 
+of winding down.
+ For indicators where reporting data is not completely available, this is described within the individual disclosure.
+3.7 State any speciﬁ  c limitations on the scope or boundary of the report (see completeness principle for explanation of scope)
+ Fully Reported
+ On July 12, 2012, EQT Midstream Partners, LP (the Partnership) completed its initial public offering (IPO). EQT Corporation is  the 
+Partnership’s general partner and signiﬁ  cant equity owner, and the Partnership’s results are consolidated in the EQT Corporation 
+ﬁ nancial results, as well as the operational activities of EQT’s Midstream business segment.
+ On December 17, 2013, EQT Corporation completed the transfer of its natural gas Distribution segment, including Equitable Gas 
+Company, LLC, to Peoples Natural Gas, a subsidiary of Steel River Infrastructure Partners. With the transfer, all performance 
+data for Equitable Gas became the property of Peoples Natural Gas, so this report does not include the operating activities of this 
+organization. The ﬁ  nancial information of the Distribution segment is reﬂ  ected as discontinued operations on EQT’s Annual Report 
+on Form 10-K.
+3.8  Basis for reporting on joint ventures, subsidiaries, leased facilities, outsourced operations, and other entities that can 
+signiﬁ  cantly affect comparability from period to period and/or between organizations 
+ Fully Reported
+ Ownership share, unless otherwise noted. In 2013, EQT held 100% ownership in all entities included in the boundary of this rep ort as 
+deﬁ ned in Proﬁ  le Indicator 3.6 of this Content Index (unless otherwise indicated).
+3.9  Data measurement techniques and the basis of calculations, including assumptions and techniques underlying estimations 
+applied to the compilation of the indicators and other information in the report. Explain any decisions not to apply, or to 
+substantially diverge from, the GRI Indicator Protocols
+ Fully Reported
+ See the “About this Report” section of this report. EQT’s responses are consistent with the GRI Indicator Protocols.
+3.10  Explanation of the effect of any re-statements of information provided in earlier reports, and the reasons for such re-st atement
+ Fully Reported
+ There have been no re-statements of information provided in earlier reports.
+3.11  Signiﬁ  cant changes from previous reporting periods in the scope, boundary, or measurement methods applied in the report.
+ Fully Reported
+ See Proﬁ  le Indicator 3.7 of this Content Index for description of boundary changes.There have been no signiﬁ  cant changes in the 
+measurement methods applied in this report compared to earlier reports.
+3.12  Table identifying the location of the Standard Disclosures in the report
+ Fully Reported
+ Included in this table – the GRI Content Index.
+3.13  Policy and current practice with regard to seeking external assurance for the report 
+ Fully Reported
+ EQT has conducted a self-assessment of the report. The Company will not submit the 2014 report for external self-assurance.
+ 4. Governance, Committees, and Engagement 
+4.1  Governance structure of the organization, including committees under the highest governance body responsible for speciﬁ  c 
+tasks, such as setting strategy or organizational oversight
+ Fully Reported
+ See the “About EQT” section of this report.
+ EQT governance structure, committees and responsibilities can be found at ir.eqt.com/corporate-governanceGlobal Reporting Initiative Content Index
+45
+7864_Text_C4.indd   45 8/29/14   1:10 PMGo back to Table of Contents4.2  Indicate whether the Chair of the highest governance body is also an executive officer
+ Fully Reported
+	 The Chair of the EQT Board of Directors also serves as the President and Chief Executive Officer of EQT Corporation.
+4.3  For organizations that have a unitary board structure, state the number and gender of members in the highest governance body 
+that are independent and/or non-executive members
+ Fully Reported
+	 See the “About EQT” section of this report.
+ For a director to be considered an “Independent Director,” the EQT Board must affirmatively determine annually that she or 
+he has no material relationship with the Company (directly, or as a partner, shareholder or officer of an organization that has 
+a relationship with the Company). This determination shall comply with the rules of the New York Stock Exchange. Additional 
+information may be found in the EQT Corporate Governance Guidelines at ir.eqt.com/charters-and-documents .
+4.4  Mechanism for shareholders and employees to provide recommendations or direction to the highest governance body 
+ Fully Reported
+	 Shareholders can contact EQT Corporation’s Board of Directors at the following address:
+ Nicole King Yohe
+ Corporate Secretary
+ EQT Corporation
+ 625 Liberty Avenue, Suite 1700
+ Pittsburgh, Pennsylvania 15222
+ United State of America
+  Shareholders may submit concerns, recommendations or direction anonymously or confidentially by postal mail. Contact may also 
+be initiated online at http://ir.eqt.com/webform/surveys/contact-board.
+  Communications are directed to the Lead Independent Director. Shareholders can contact the Lead Independent Director via email 
+at presidingdirector@eqt.com.
+  Employees may use the ethics hotline, anonymously, if desired. EQT does not have a formal representation body for employees to 
+provide recommendations to the highest governing body, so no sustainability topics were raised through such a mechanism.
+4.5  Linkage between compensation for members of the highest governance body, senior managers, and executives (including 
+departure arrangements), and the organization’s performance (including social and environmental performance)
+ Fully Reported
+ Description of general linkages is found in the annual Form 10-K filed with the Securities and Exchange Commission. Specific 
+details, including linkages between compensation and EQT’s financial, social and environmental performance are defined by 
+individual employment agreements for senior managers and executives, which are confidential.
+ Since January 2012, all employees have at least one personal value driver linking them to the company’s Corporate Social 
+Responsibility objectives as they relate to each individual’s position in the company. This value driver has a direct impact on 
+personal compensation at all levels of the organization.
+4.6  Processes in place for the highest governance body to ensure conflicts of interest are avoided
+ Fully Reported
+	 See EQT Corporate Governance Committee Charter at  ir.eqt.com/charters-and-documents .
+4.7  Process for determining the composition, qualifications, and expertise of the members of the highest governance body and its 
+committees, including any consideration of gender and other indications of diversity
+ Fully Reported
+	 See EQT Corporate Governance Committee Charter at  ir.eqt.com/charters-and-documents .
+4.8  Internally developed statements of mission or values, codes of conduct, and principles relevant to economic, environmental, and 
+social performance and the status of their implementation 
+Fully Reported
+	 See the “About EQT” section of this report.
+ EQT’s Code of Business Conduct and Ethics is posted at ir.eqt.com/charters-and-documents .
+ Separately, the EQT Foundation’s mission, found at eqt.com/ourcommunities/history-mission.aspx , addresses the social, economic 
+and environmental goals for the organization’s philanthropic activities on behalf of EQT.
+ In 2012, EQT began drafting formal mission, vision and core value statements to help guide its economic, environmental and social 
+performance. These internally developed statements continue to evolve.
+46 Go back to Table of Contents4.9  Procedures of the highest governance body for overseeing the organization’s identification and management of economic, 
+environmental, and social performance, including relevant risks and opportunities, and adherence or compliance with 
+internationally agreed standards, codes of conduct, and principles
+ Fully Reported
+	 The 	Board 	of	Directors 	of	EQT	Corporation 	sets	high 	standards 	for	the	Company’s 	employees, 	officers 	and	directors. 	Implicit 	in	
+this	philosophy 	is	the	importance 	of	sound 	corporate 	governance. 	It	is	the	duty 	of	the	Board 	of	Directors 	to	serve 	as	a	fiduciary 	to	
+the	Company 	and	to	oversee 	management 	of	the	Company’s 	business 	and	affairs. 	The	Board, 	its	committees 	and	the	directors, 	
+individually, 	each 	annually 	conduct 	assessments 	of	their 	performance.
+	 To 	fulfill 	its	responsibilities 	and	to	discharge 	its	duty, 	the	Board 	of	Directors 	follows 	the	procedures 	and	standards 	that	are	set	forth 	
+in	the	guidelines 	found 	at	http://ir.eqt.com/charters-and-documents.
+	 EQT’s 		Public 	Policy 	and	Corporate 	Responsibility 	Committee 	Charter 	defines 	the	Committee’s 	responsibilities 	to	review, 	assess 	
+performance 	and	make 	recommendations 	regarding 	the	Company’s 	compliance 	with 	laws, 	regulations, 	policies, 	programs 	and	
+practices 	with 	regard 	to	environmental, 	health, 	safety 	and	other 	sustainability 	matters.
+	 The 	Public 	Policy 	and	Corporate 	Responsibility 	Committee 	performs 	its	responsibilities 	at	least 	annually, 	but	more 	often 	if	the	
+Committee 	determines 	it	necessary 	or	appropriate. 	
+4.10  Processes for evaluating the highest governance body’s own performance, particularly with respect to economic, environmental, 
+and social performance 
+Fully Reported
+	 Included 	in	response 	to	Profile 	Indicator 	4.9	in	this	Content 	Index.
+4.11  Explanation of whether and how the precautionary approach or principle is addressed by the organization
+ Fully Reported
+	 EQT 	meets 	or	exceeds 	federal, 	state 	and	local 	government 	regulations 	regarding 	its	activities 	in	the	United 	States. 	The	Company 	
+goes 	to	great 	lengths 	to	protect 	water, 	air	and	land 	in	the	areas 	where 	it	operates. 	EQT’s 	spill 	prevention 	plans 	lead 	the	industry; 	
+the	Company 	measures 	and	assesses 	its	emissions 	and	continually 	looks 	for	new	technologies 	and	processes 	for	reducing 	those 	
+emissions, 	and	it	works 	with 	property 	owners 	to	restore 	the	land 	to	its	original 	condition 	after 	operations 	are	complete. 		
+4.12  Externally developed economic, environmental, and social charters, principles, or other initiatives to which the organization 
+subscribes or endorses
+ Fully Reported
+ See	the	“Environmental 	Stewardship 	–	Protecting 	the	Appalachian 	Basin” 	section 	of	this	report.
+	 EQT 	continues 	to	evaluate 	externally 	developed 	charters, 	principles 	and	initiatives, 	as	well	as	opportunities 	to	develop 	these 	
+relationships, 	where 	appropriate, 	in	the	future.
+4.13  Memberships in associations (such as industry associations) and/or national/international advocacy 
+organizations in which the organization:    
+ •     Has positions in governance bodies;
+ •     Participates in projects or committees;
+ •     Provides substantive funding beyond routine membership dues; or 
+ •     Views membership as strategic
+ Fully Reported
+	 See 	the	“Social 	Responsibility 	–	Public 	Policy 	and	Political 	Contributions” 	section 	of	this	report.
+4.14  List of stakeholder groups engaged by the organization 
+Fully Reported
+ See	the	“Social 	Responsibility 	–	Stakeholder 	Engagement” 	section 	of	this	report.
+4.15  Basis for identification and selection of stakeholders with whom to engage
+ Fully Reported
+ See	the	“Social 	Responsibility 	–	Stakeholder 	Engagement” 	section 	of	this	report.
+4.16  Approaches to stakeholder engagement, including frequency of engagement by type and by stakeholder group
+ Fully Reported
+	 See	the	“Social 	Responsibility 	–	Stakeholder 	Engagement” 	section 	of	this	report.Global Reporting Initiative Content Index
+47 Go back to Table of Contents4.17  Key topics and concerns that have been raised through stakeholder engagement, and how the organization has responded to 
+those key topics and concerns, including through its reporting
+ Fully Reported
+ See the “Social Responsibility – Stakeholder Engagement” section of this report.
+ All engagement activity occurs as a normal part of EQT business activity.  None was undertaken speciﬁ  cally as part of this report.
+DISCLOSURES ON MANAGEMENT APPROACH (DMAs)
+Disclosure on Management Approach EC
+Economic performance 
+Fully Reported
+See the “Economic Impact” section of this report.
+Market presence, including local content
+Partially Reported
+See the “Economic Impact” section of this report.
+Indirect economic impacts
+Fully Reported
+See the “Economic Impact” section of this report.
+Reserves
+Fully Reported
+See the “Economic Impact” section of this report. 
+Disclosure on Management Approach EN 
+Energy 
+Partially Reported
+See the “Environmental Stewardship” section of this report.
+Water
+Partially Reported
+See the “Environmental Stewardship” section of this report.
+Ecosystem services including biodiversity
+Partially Reported
+See the “Environmental Stewardship” section of this report.
+Emissions, efﬂ  uents and waste
+Partially Reported
+See the “Environmental Stewardship” section of this report.
+Compliance
+Partially Reported
+See the “Environmental Stewardship” section of this report.
+Transport
+Partially Reported
+See the “Environmental Stewardship” section of this report.
+48
+7864_Text_C4.indd   48 8/29/14   1:10 PMGo back to Table of ContentsDisclosure on Management Approach LA 
+Employment 
+Partially Reported
+See the “Social Responsibility – The EQT Workforce” section of this report.
+Labor/management relations
+Partially Reported
+See the “Social Responsibility – The EQT Workforce” section of this report.
+Occupational health and safety
+Partially Reported
+See the “Safety” section of this report, and Performance Indicators LA6, LA7, LA8 and LA9 in this Content Index.
+Training and education
+Partially Reported
+See Performance Indicators LA11 and LA12 in this Content Index.
+Diversity and equal opportunity
+Partially Reported
+See the “Social Responsibility – The EQT Workforce,” “About EQT,” and “Economic Impact” sections of this report.
+Disclosure on Management Approach HR
+Freedom of association and collective bargaining
+Fully Reported
+See Performance Indicator HR5 in this Content Index.
+Disclosure on Management Approach SO
+Local communities
+Fully Reported
+See the “Social Responsibility” section of this report and Performance Indicator OG11 in this Content Index.
+Public policy
+Fully Reported
+See the “Social Responsibility” section of this report.
+Anti-competitive behavior
+Fully Reported
+See Performance Indicator SO7 in this Content Index.
+Compliance
+Fully Reported
+See Performance Indicator SO8 in this Content Index
+Involuntary resettlement
+Fully Reported
+See Performance Indicator OG12 in this Content Index.Global Reporting Initiative Content Index
+49
+7864_Text_C4.indd   49 8/29/14   1:10 PMGo back to Table of ContentsDisclosure on Management Approach PR
+Product and service labeling
+Partially Reported
+See Performance Indicator PR5 in this Content Index.
+Marketing communications
+Fully Reported
+See the “Social Responsibility” section of this report and Performance Indicator PR6 in this Content Index.
+PERFORMANCE INDICATORS - ECONOMIC
+ 
+Economic Performance 
+EC1 Direct economic value generated and distributed, including revenues, operating costs, employee compensation, donations and 
+other community investments, retained earnings, and payments to capital providers and governments
+ Fully Reported
+ See the “Economic Impact” section of this report.
+ Market Presence
+EC6 Policy, practices, and proportion of spending on locally based suppliers at signiﬁ  cant locations of operations
+ Fully Reported
+ See the “Social Responsibility” and “Economic Impact – Expanding Local Content via the Supply Chain” sections of this report.
+ Indirect Economic Impacts
+EC8   Development and impact of infrastructure investments and services provided primarily for public beneﬁ  t through commercial, 
+in-kind, or pro bono engagement
+ Fully Reported
+ See the “Economic Impact” section of this report.
+EC9  Understanding and describing signiﬁ  cant indirect economic impacts, including the extent of impacts
+ Fully Reported
+ See the “Economic Impact – Local Economic Impact” section of this report.
+OG1 Volume and type of estimated proved reserves and production
+ Fully Reported
+ See the “Economic Impact – Reserves and Production” section of this report.
+ Energy 
+EN3 Direct energy consumption by primary energy source
+ Fully Reported
+ See the “Environmental Stewardship – Using Energy Wisely” section of this report.  
+ EQT facilities used 14,275.8 gigajoules of direct energy in 2013, mostly natural gas (very limited use of heating oil and prop ane).  
+The vast majority was used for heating and cooling of facilities.
+ EQT’s vehicle ﬂ  eet used 235,729 gigajoules (1,770,506 gallons or gas gallon equivalents) of direct energy in 2013.
+50
+7864_Text_C4.indd   50 8/29/14   1:10 PMGo back to Table of Contents EQT has no oil/gasoline reﬁ  neries or petrochemical operations, so it has no energy intensities to report.
+ None of the Company’s direct energy utilization in 2013 was from renewable sources.
+EN4 Indirect energy consumption by primary source
+ Fully Reported
+ See the “Environmental Stewardship – Using Energy Wisely” section of this report.  
+ EQT facilities utilized 31,467.2 gigajoules of indirect energy in 2013, mostly electricity. Actual usage was determined from u tility 
+invoices for each facility. The primary fuels used to produce electricity in EQT’s operating areas are coal, natural gas and nu clear.  
+When calculating electricity usage, EQT used a conversion factor of 1kwh = 3,600,000 joules.
+ EQT leases all equipment used for its production, midstream and distribution ﬁ  eld activities, so the Company does not have any 
+indirect sources of energy for these activities.
+ None of the Company’s indirect energy utilization in 2013 was from renewable sources.
+ Water 
+EN8 Total water withdrawal by source
+ Fully Reported
+ See the “Environmental Stewardship – Managing Water Resources” section of this report.
+EN9 Water sources signiﬁ  cantly affected by withdrawal of water
+ Fully Reported
+ See the “Environmental Stewardship – Managing Water Resources” section of this report.
+EN10 Percentage and total volume of water recycled and reused
+ Fully Reported
+ See the “Environmental Stewardship – Managing Water Resources” section of this report.
+ Biodiversity
+EN11 Location and size of land owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside 
+protected areas
+ Fully Reported
+ See the “Environmental Stewardship – Use of Land Resources” section of this report.
+ Emissions, Efﬂ  uents and Waste 
+EN16 Total dir ect and indirect greenhouse gas emissions by weight
+ Fully Reported
+ EQT’s Scope 1 greenhouse gas emissions in 2013 totaled 1,119,377 MT CO2e. EQT reports annual Marcellus emissions via the PA Oil 
+& Gas Inventory, and in 2013, the Company reported 492,783 MT CO2e for its Production and Midstream segments.
+ All reported emissions are based on the United States Code of Federal Regulations, speciﬁ  cally 40 CFR 98. EQT’s emissions records 
+are maintained on an operation control basis only. EQT does not track equity basis or scope 2 emissions, nor does it track repo rted 
+emissions by major species.
+ Emissions Intensity within EQT’s boundary of operation control:
+ Production:  1,505.78 MT CO2e/Bcfe
+ Midstream:  999.65 MR CO2e/Tbtu
+EN17 Other relevant indirect greenhouse gas emissions by weight
+ Fully Reported
+ EQT’s Scope 3 greenhouse gas emissions in 2013 totaled 2,578,308 MT Co2e (includes CO2). The calculation represents estimated 
+emissions associated with end use of products (consumer consumption of natural gas). All reported emissions are based on the 
+United States Code of Federal Regulations, speciﬁ  cally 40 CFR 98 subpart NN methodologies.   Global Reporting Initiative Content Index
+51
+7864_Text_C4.indd   51 8/29/14   1:10 PMGo back to Table of ContentsEN18 Initiatives to reduce greenhouse gas emissions and reductions achieved
+ Fully Reported
+ See the “Environmental Stewardship – Reducing Air Emissions” section of this report.
+EN20 NOx, SOx and other signiﬁ  cant air emissions by type and weight
+ Fully Reported
+ See the “Environmental Stewardship – Reducing Air Emissions” section of this report.
+EN21  Total water discharge by quality and destination 
+ Fully Reported
+ See the “Environmental Stewardship – Disposition of Produced Water” section of this report.
+OG5 Volume of formation or produced water
+Fully Reported
+ See the “Environmental Stewardship – Managing Water Resources” section of this report.
+EN22 Total weight of waste by type and disposal method
+Fully Reported
+ See the “Environmental Stewardship – Waste Disposal” section of this report.
+ Note:  EQT does not have any oil sands/tar sands mining operations.
+EN23  Total number and volume of signiﬁ  cant spills 
+ Fully Reported
+ See the “Environmental Stewardship – Preventing and Managing Spills” section of this report.
+OG6 Volume of ﬂ  ared and vented hydrocarbons
+Fully Reported
+ All of EQT’s operations are located within the United States:
+ Flared hydrocarbons …………………………………………………………………………………………………………………………55,520 Mcf
+ Vented hydrocarbons ………………………………………………………………………………………………………………………14,503 Mcf
+ Flared and Vented Hydrocarbons for natural gas production in relation to volume produced ……………0.000033 MMBOE
+OG7 Amount of drilling waste (drill mud and cuttings) and strategies for treatment and disposal
+Fully Reported
+ See the “Environmental Stewardship – Waste Disposal” section of this report. 
+ 
+ Compliance
+EN28 Monetary value of signiﬁ  cant ﬁ  nes and total number of non-monetary sanctions for non-compliance with environmental laws 
+and regulations  
+Fully Reported
+ EQT received eight ﬁ  nes in 2013 totaling $149,185. There were no non-monetary sanctions, and no cases brought through dispute 
+resolution mechanism.
+ Transport
+EN29 Signiﬁ  cant environmental impacts of transporting products and other goods and materials used for the organization’s 
+operations, and transporting members of the workforce
+Fully Reported
+ See the “Environmental Stewardship” section of this report.  
+ EQT only maintains data for the vehicle ﬂ  eet that it owns and operates. This analysis does not include employees’ personal vehicles; 
+however the Company does have other programs in place to help reduce the environmental impact of transporting employees.
+ Logistical Transportation (Production and Midstream operations)
+ Fleet vehicles: 1,161*
+ Gasoline Used: 1,484,863 gallons*
+ Diesel Fuel Used: 164,486 gallons*
+ CNG Fuel Used: 13,193 gas gallon equivalent*
+52
+7864_Text_C4.indd   52 8/29/14   1:10 PMGo back to Table of ContentsGo back to Table of Contents CO2 emissions (calculated): 13,924 metric tons
+ CH4 emissions (calculated): 0.46 metric ton*
+ N2O emissions (calculated): 0.11 metric ton*                        
+ *Does not include Equitable Gas Company, which was sold in 2013.
+ Methodology
+ EQT utilizes ARI for the management of its vehicle ﬂ  eet, and they provide data on vehicle type, model year and usage including 
+miles driven and fuel purchased.   
+ Emissions factors from The Climate Registry (TCR) were utilized to convert fuel consumed to emissions. TCR General Reporting 
+Protocol Table 13.1 — US Default CO2 emissions factors — was used for CO2 emissions, and TCR General Reporting Protocol Table 
+13.4 — Default CH4 and N2O Emissions factors for highway vehicles by model year — was used for CH4 and N2O reporting.
+ PERFORMANCE INDICATORS - SOCIAL:
+LABOR PRACTICES AND DECENT WORK
+ Employment 
+LA1 Total workforce by employment type, employment contract, and region, broken down by gender, compensation, donations and 
+other community investments, retained earnings, and payments to capital providers and governments 
+ Fully Reported
+ See “Social Responsibility – The EQT Workforce” section of this report. 
+ EQT categorizes all employees as either non-union or union (i.e., represented by a collective bargaining agreement).  
+ EQT makes no distinction between permanent and temporary contracts, and there are no seasonal variations in EQT’s 
+employment numbers.
+LA2 Total number and rate of new employee hires and employee turnover by age group, gender, and region
+ Fully Reported
+ See “Social Responsibility – The EQT Workforce” section of this report.
+LA3  Beneﬁ  ts provided to full-time employees that are not provided to temporary or part-time employees, by major operations
+ Fully Reported
+ See “Social Responsibility – The EQT Workforce” section of this report.
+LA15  Return to work and retention rates after parental leave, by gender
+ Fully Reported
+ See “Social Responsibility – The EQT Workforce” section of this report.
+ EQT does not separately track Maternity/Paternity Leave; rather, the data reported includes all employees who took Family and 
+Medical Leave Act of 1993 (FMLA) leave in 2013.
+ Regular full and part-time employees of EQT Corporation and its subsidiaries, who did not meet all of the following requiremen ts 
+by December 31, 2013 were not eligible for FMLA leave:  
+ • At least 12 months of service with the Company (does not have to be consecutive); and 
+ • A minimum of 1,250 hours of work with EQT during the 12 month period immediately 
+     preceding the commencement of the FMLA leave. 
+ Part-time employees with less than one year of service are not eligible for FMLA leave.
+ Labor/Management Relations 
+LA4 Percentage of employees covered by collective bargaining agreements
+ Fully Reported
+ As of December 31, 2013, none of EQT’s workforce was covered by a collective bargaining agreement.Global Reporting Initiative Content Index
+53
+7864_Text_C4.indd   53 8/29/14   1:10 PMGo back to Table of ContentsLA5 Minimum notice period(s) regarding signiﬁ  cant operational changes, including whether it is speciﬁ  ed in collective agreements
+Fully Reported
+ EQT has not pre-determined (as a matter of policy) the minimum number of weeks of notice that will be given in the event of 
+signiﬁ  cant operational changes. The length of the notice period is determined on a case-by-case basis considering several 
+factors which include, but are not limited to, number of employees affected, type or impact of operational change, timeframe fo r 
+implementing change, etc.
+ As of December 31, 2013, EQT had no employees covered by collective bargaining agreements.
+Occupational Health and Safety 
+LA6 Percentage of total workforce represented in formal joint management-worker health and safety committees that help monitor 
+and advise on occupational health and safety programs
+ Fully Reported
+ Approximately 20% of the total workforce was represented in joint health and safety committees during 2013. These joint 
+committees typically operate at the District or Area Supervisor level down to hourly workers. The number is signiﬁ  cantly less than 
+previous years due to the transfer of Distribution segment (Equitable Gas Company) employees to Peoples Natural Gas.
+LA7 Rates of injury, occupational diseases, lost days, and absenteeism, and number of work related fatalities by region and gen der
+Fully Reported
+ See “Social Responsibility – The EQT Workforce” and “Workplace Safety” sections of this report.
+ EQT does not utilize supervised workers as deﬁ  ned by GRI, nor does the company utilize independent contractors for onsite 
+work, so it does not maintain safety data for these categories of workers. All reported data applies to EQT’s total workforce 
+of 1,626 employees as reported in Performance Indicator LA1 and includes minor (ﬁ  rst-aid level) injuries. EQT uses OSHA 
+accepted calculation rates that utilize total work hours. The normalization factor is 200,000; this represents 100 full-time 
+workers for one year.
+ EQT records the nature of each incident for the U.S. Occupational Safety and Health Administration (OSHA).  OSHA does not 
+require, nor does EQT track, region or gender details. EQT’s IR for 2013 = OSHA Recordable Rate = 2.04. OSHA does not require, 
+nor does EQT track, occupational disease rates for its workforce.
+ When calculating lost days, days means ‘calendar days’ and the lost day count begins when a medical professional classiﬁ  es it as 
+a lost time accident. EQT’s lost day rate (LDR) for the total workforce was 0.39, and included four males in KY, one male in VA , and 
+one male in PA.
+ There were no EQT employee fatalities in 2013.
+ EQT employees are required to report all safety incidents. Reporting and recording are conducted in compliance with 
+OSHA requirements.
+LA8 Education, training, counseling, prevention, and risk-control programs in place to assist workforce members, their families , 
+or community members regarding serious disease 
+Fully Reported
+ See the “Social Responsibility – The EQT Workforce” section of this report.
+LA9 Health and safety topics covered in formal agreements with trade unions
+Fully Reported
+ As of December 31, 2013, EQT had no employees covered by collective bargaining agreements.
+Training and Education 
+LA10 Average hours of training per year per employee, by gender, and by employee category 
+ Fully Reported
+ EQT does not have a mechanism for accurately tracking the training completed by individual employees.
+LA11 Programs for skills management and lifelong learning that support the continued employability of employees and assist them  
+in managing career endings
+ Fully Reported
+ EQT offers an Education Assistance Program to all full-time employees who have completed at least six months of service. There  is no 
+54
+7864_Text_C4.indd   54 8/29/14   1:10 PMGo back to Table of Contentsmaximum beneﬁ  t under the Program, provided the employee receives necessary course approvals in advance and receives the required 
+grade levels.  
+ The Company also provides Leadership Development Training, facilitated by EQT Human Resources employees who are certiﬁ  ed trainers, for all 
+employees with direct reports. The training includes ﬁ  ve modules, totaling 19 hours. In addition, individual department budgets include funding 
+for external executive education and/or seminars.  
+ Finally, with the approval of the employee’s business unit or functional leader and the Vice President and Chief Human Resourc es Ofﬁ  cer, 
+an unpaid personal leave of absence may be granted for personal reasons (which include a sabbatical). The duration of job-prote cted leave 
+depends on the employee’s length of Company service.
+ EQT works with employees nearing retirement to ensure a smooth transition at the end of employment. Sessions were also conduct ed in 
+person by Fidelity Investments in 2013 to cover employment transition issues. Fidelity also offers on-line courses, one-on-one meetings in their 
+local ofﬁ  ces and telephone based advice for those employees seeking advice and personalized services. Additionally, the Employee Assist ance 
+Program offers on-line courses and individual counseling sessions for those employees retiring or terminating from the company.
+ EQT also provides educational sessions for active employees on Medicare and Social Security beneﬁ  ts, as well as how to best utilize the 
+resources available through the Beneﬁ  ts Service Center. In the event of involuntary termination without cause, the Company’s Severance 
+Pay Plan provides pay and beneﬁ  ts (medical, dental and vision) continuation. The duration of pay and beneﬁ  ts continuation is based on the 
+employee’s length of Company service.  
+LA12 Percentage of employees receiving regular performance and career development reviews, by gender
+ Fully Reported
+ As of December 31, 2013, 97% of all EQT employees received a formal performance appraisal and review for 2013.
+ Of these employees, 78% were male and 19% were female.
+ Diversity and Equal Opportunity 
+LA13 Composition of governance bodies and breakdown of employees per employee category according to gender, age group, 
+minority group membership, and other indicators of diversity 
+ Fully Reported
+ See the “Social Responsibility – The EQT Workforce” section of this report for information about the EQT workforce, and the 
+“About EQT” section of this report for information about the EQT Board of Directors.
+SOCIAL: HUMAN RIGHTS
+ Freedom of Association and Collective Bargaining
+HR5 Operations and signiﬁ  cant suppliers identiﬁ  ed in which the right to exercise freedom of association and collective bargaining 
+may be violated or at signiﬁ  cant risk, and actions taken to support these rights
+ Fully Reported
+ All of EQT’s operations are in the United States. As such, EQT and the suppliers who provide it with signiﬁ  cant goods or services are 
+subject to applicable federal and state laws governing employment, the right to associate (or not associate) with a labor union  and 
+collective bargaining (i.e., National Labor Relations Act, etc.).  
+ Because of long-standing U.S. labor laws and the mechanisms available for enforcing those laws, the rights of employees to exe rcise 
+freedom of association or collective bargaining are not at signiﬁ  cant risk in any of EQT’s operations.
+ All suppliers are also required to submit documentation including a current certiﬁ  cate of liability insurance and Department of 
+Treasury Internal Revenue Service (IRS) form W-9 certifying the company’s location of operations and status as a U.S. person as  
+deﬁ ned by the United States Internal Revenue Service (IRS).
+ EQT complies (and requires its suppliers to comply) with applicable laws and regulations. When appropriate, during the applica ble 
+reporting period, EQT provided training to managers/supervisors concerning applicable labor laws and EQT’s responsibility 
+under them.
+  Global Reporting Initiative Content Index
+55
+7864_Text_C4.indd   55 8/29/14   1:10 PMGo back to Table of ContentsSOCIAL: SOCIETY
+ Local Communitites
+OG11 Number of sites that have been decommissioned and sites that are in the process of being decommissioned
+ Fully Reported
+ EQT Corporation is only involved with onshore activities. There are no offshore decommissioning activities to report.  
+ Active Sites
+Midstream: 128 active compressor stations and 9 active dehydration stations 
+Production: Approx. 14,200 active wells and 2,221 shut-in wells
+ Inactive Sites
+Midstream: 38 inactive compressor stations and 3 stations decommissioned in 2013
+Production: 69 wells plugged and abandoned in 2013
+ For purposes of this report, EQT deﬁ  nes inactive sites as non-operating compressor stations (midstream operations) and shut-in 
+wells (production operations) that are closed off and do not produce natural gas.
+ EQT does not explicitly track the total land area of active and inactive sites, but the Company will explore its ability to me asure and 
+report this data for future reports.
+ EQT bases decommissioning decisions on the economic viability of the site (e.g., natural gas wells that are no longer producin g gas 
+are shut-in); no EQT sites that were active in 2013 had decommissioning plans in place. Perry station in KY is scheduled to be shut 
+down in 2014.  
+ There were no complaints on outstanding local community issues nor any government notices on decommissioning.
+ Public Policy 
+SO5 Public policy positions and participation in public policy development and lobbying
+ Partially Reported
+ See the “Social Responsibility – Public Policy and Political Engagement” section of this report.
+SO6 Total value of ﬁ  nancial and in-kind contributions to political parties, politicians, and related institutions by country
+Fully Reported
+ See the “Social Responsibility – Public Policy and Political Engagement” section of this report.
+ EQT Employee PACs   
+ (includes transfers to EQT Employees Pennsylvania State PAC to fund contributions in PA) 
+ • Contributions to candidates for and members of The Pennsylvania General Assembly and candidates for governor: $48,873
+ • Contributions to candidates for and members of West Virginia Legislature and candidate for governor: $1,000
+ • Contributions to candidates for Pennsylvania County and City Ofﬁ  ces: $17,250 
+ • Contributions to candidates for and members of Kentucky Legislature:  $10,450
+ • Contributions to candidates for U.S. Congress and U.S. Senate:  $32,386
+ EQT Corporation
+ • Contributions to candidates for and members of Virginia Legislature: $23,800
+ • Contributions to organizations organized under Section 527 of the Internal Revenue Code, which consisted of memberships 
+ to the Democratic Governors Association and the Republican Governors Association: $20,000
+ EQT made no ﬁ  nancial or in-kind contributions to political parties, politicians, and related institutions outside the United States.   
+56
+7864_Text_C4.indd   56 8/29/14   1:10 PMGo back to Table of Contents Anti-Competitive Behavior
+SO7 Total number of legal actions for anti-competitive behavior, anti-trust, and monopoly practices and their outcomes
+ Fully Reported
+ EQT is not involved in any legal actions for anti-competitive behavior, anti-trust, or monopoly practices, so there are no outc omes, 
+decisions or judgments to report.
+ Compliance
+SO8 Monetary value of signiﬁ  cant ﬁ  nes and total number of non-monetary sanctions for non-compliance with laws and regulations
+ Fully Reported
+ See Performance Indicator EN28 in this Content Index.
+ Involuntary Resettlement
+OG12 Operations where involuntary resettlement took place, the number of households resettled in each and how their livelihoods  
+were affected in the process
+ Fully Reported
+ None of EQT’s business segments performed any involuntary settlements in 2013, so no households were displaced and no 
+livelihoods were affected. EQT routes pipelines and sites compressor stations away from residences wherever possible to avoid 
+impact to the community or involuntary re-settlements.
+SOCIAL: PRODUCT RESPONSIBILITY
+ Product and Service Labeling
+PR5 Practices related to customer satisfaction
+ Fully Reported
+ See the “Social Responsibility – Stakeholder Engagement” section of this report.
+ Marketing Communications
+PR6 Programs for adherence to laws, standards, and voluntary codes related to marketing communications, including advertising, 
+promotion, and sponsorship 
+Fully Reported
+ EQT does not sell any products that are banned in any markets. It produces marketing communications programs and materials 
+that are consistent with known industry standards as well as the requirements of applicable state and local regulatory bodies.  
+These communications are reviewed at least once per year, and during program updates.Global Reporting Initiative Content Index
+57
+7864_Text_C4.indd   57 8/29/14   1:10 PMGo back to Table of Contents58
+7864_Text_C4.indd   58 8/29/14   1:10 PMGo back to Table of ContentsGo back to Table of ContentsGlobal Reporting Initiative Content Index
+59
+7864_Text_C4.indd   59 8/29/14   1:10 PMGo back to Table of ContentsThis report is printed on Neenah environmentally responsible papers.
+Cover: Neenah ROYAL SUNDANCE Fiber 80# Cover in SUNFLOWER. Made with a minimum of 30% post-consumer ﬁ  bers.
+Text: Neenah ENVIRONMENT Smooth 80# Text in NATURAL WHITE. Made with a minimum of 30% post-consumer ﬁ  bers.
+7864_Text_C4.indd   60 8/29/14   1:10 PM

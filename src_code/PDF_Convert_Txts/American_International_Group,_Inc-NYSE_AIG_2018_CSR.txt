@@ -1,0 +1,1387 @@
+20 1 8 Climate-Related 
+Financial Disclosures Report
+JULY 201 9AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT2
+AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT1CONTENTS
+AIG has a legacy of leadership in sustainability, which we believe is integral to our long-
+term success as an insurer, investor, employer and corporate citizen. From supporting 
+low carbon renewable energy projects to providing insurance to the underserved and 
+promoting paperless processes, we are engaged in a variety of sustainability efforts 
+across our global footprint.   
+AIG supports the scientific consensus that climate change is a reality of increasing 
+global concern. In 2006, AIG was one of the first U.S.-based insurers to formally 
+recognize anthropogenic climate change, indicated by higher concentrations of 
+greenhouse gases, a warming atmosphere and ocean, diminished snow and ice,  
+and rising sea levels.  
+As the effects of climate change accelerate, they have the potential to impact both the 
+frequency and severity of extreme weather conditions. These and other climate-related 
+risks present opportunities and challenges for the insurance sector with implications 
+for insurers’ underwriting, risk capacity, financial reserving, investing, risk modeling 
+and own operations.    
+In response, AIG consistently employs its expertise in underwriting and risk 
+management to help address the impacts of climate change on our clients, our 
+business and on our stakeholders. For example, we continually assess changes in 
+climate and weather patterns as part of our General Insurance underwriting process. 
+Our General Insurance business continues to identify, adapt, and respond to the 
+developing risk exposures attributed to climate change. AIG is committed to providing 
+insurance products and services to help our clients be proactive against the risks 
+associated with climate change.  
+As part of our commitment, AIG established a Sustainability Task Force (Task Force) 
+with a mandate to develop recommendations for a corporate sustainability strategy. 
+The Task Force consists of a cross-functional group of AIG employees, including  
+AIG’s Executive Vice President and Chief Risk Officer (CRO) and Executive Vice President  
+and Vice Chair, AIG Life Holdings, Inc., who both serve as executive sponsors. 
+To contribute to this important dialogue and meet stakeholder expectations, we are 
+pleased to present our inaugural climate risk disclosure report, aligned to the Task 
+Force on Climate-related Financial Disclosures (TCFD) framework. It summarizes  
+how we incorporate climate-related risks and opportunities into our governance, 
+strategy and risk management approaches, as well as the metrics and targets we use  
+to track performance.  
+We look forward to engaging and working with our stakeholders on this important 
+effort and welcome your feedback along the way. 
+Jennifer Waldner
+AIG Chief Sustainability OfficerA MESSAGE FROM OUR CHIEF  1  
+SUSTAINABILITY OFFICER  
+1| GOVERNANCE OF  5 
+ CLIMATE-RELATED RISKS   
+2| STRATEGY FOR IDENTIFYING  6  
+ CLIMATE-RELATED RISKS  
+ AND OPPORTUNITIES  
+3| MANAGEMENT OF  14  
+ CLIMATE-RELATED RISKS   
+4| METRICS AND TARGETS 17
+5| SOURCES 19A MESSAGE FROM OUR CHIEF 
+SUSTAINABILITY OFFICERAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT220 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT
+About AIG
+American International Group, Inc. (AIG) is a leading global insurance organization. 
+Building on 100 years of experience, today AIG member companies provide a wide 
+range of property casualty, insurance, life insurance, retirement products, and other 
+financial services to customers in more than 80 countries and jurisdictions. These 
+diverse offerings include products and services that help businesses and individuals 
+protect their assets, manage risks and provide for retirement security. AIG common 
+stock is listed on the New York Stock Exchange.
+Additional information about AIG can be found at www.aig.com | 
+YouTube: www.youtube.com/aig | Twitter: @AIGinsurance: www.twitter.com/
+AIGinsurance | Linkedin: www.linkedin.com/company/aig. These references with 
+additional information about AIG have been provided as a convenience, and the 
+information contained on such websites is not incorporated by reference into this 
+presentation.
+AIG is the marketing name for the worldwide property-casualty, life and retirement, 
+and general insurance operations of American International Group, Inc. For 
+additional information, please visit our website at www.aig.com. All products and 
+services are written or provided by subsidiaries or affiliates of American International 
+Group, Inc. Products or services may not be available in all countries, and coverage 
+is subject to actual policy language. Non-insurance products and services may be 
+provided by independent third parties. Certain property-casualty coverages may be 
+provided by a surplus lines insurer. Surplus lines insurers do not generally participate 
+in state guarantee funds, and insureds are therefore not protected by such funds.
+The data contained in this presentation are for general informational purposes 
+only. The advice of a professional insurance broker and counsel should always be 
+obtained before purchasing any insurance product or service. The information 
+contained herein has been compiled from sources believed to be reliable. No 
+warranty, guarantee, or representation, either expressed or implied, is made as to 
+the correctness or sufficiency of any representation contained herein.
+To learn more about AIG’s corporate citizenship efforts, please visit www.aig.com/
+about-us/citizenship. 
+To read AIG’s most recent Annual Report, please visit https://www.aig.com/investor-
+relations/annual-report-and-proxy-statements.AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT3AIG OVERVIEW
+To best understand how AIG approaches 
+climate risk—both its own and that of its 
+clients—it is important to understand 
+AIG’s overall business footprint and its 
+organizational structure. 
+AIG provides a range of insurance 
+products to support our clients in 
+business and in life, including: general 
+property/casualty, life insurance, and 
+retirement and financial services 
+through our General Insurance, Life and 
+Retirement and Investments business 
+units. We serve customers in more than 
+80 countries and jurisdictions around 
+the world. 
+As of 2018, our customers included 
+more than 87% of the Fortune Global 
+500 companies and 81% of the Forbes 
+2000. AIG had $47.4 billion in 2018 total 
+revenues; as of 2018, we employed 
+approximately 49,000 employees, and 
+we had $492 billion in total assets. As of 
+2018, AIG had over $56 billion in 
+shareholder’s equity and $8.3 billion in 
+AIG parent liquidity resources.
+  
+General Insurance is a leading provider 
+of insurance products and services for 
+commercial and personal insurance 
+customers. It includes one of the world’s 
+most far-reaching property casualty 
+networks. General Insurance offers a 
+broad range of products to customers 
+through a diversified, multichannel 
+distribution network. Customers value 
+General Insurance’s strong capital 
+position, extensive risk management 
+and claims experience and its ability to 
+be a market leader in critical lines of the 
+insurance business. General Insurance is 
+managed by our geographic markets of 
+North America and International. Product categories within General 
+Insurance include:
+• Liability. General liability, 
+environmental, commercial 
+automobile liability, workers’ 
+compensation, excess casualty 
+and crisis management insurance, 
+as well as risk-sharing and other 
+customized structured programs  
+for large corporate and 
+multinational customers
+• Financial Lines. Professional 
+liability insurance for a range of 
+businesses and risks, including 
+directors and officers liability (D&O), 
+mergers and acquisitions (M&A), 
+fidelity, employment practices, 
+fiduciary liability, cyber risk, kidnap 
+and ransom, and errors and 
+omissions insurance (E&O)
+• Property. Commercial and 
+industrial property insurance 
+products and services that 
+cover exposures to man-made 
+and natural disasters, including 
+business interruption
+• Special Risks. Aerospace, political 
+risk, trade credit, portfolio 
+solutions, energy-related property 
+insurance products, surety, marine 
+and crop insurance
+• Personal Lines.Personal auto 
+and property in selected markets 
+and insurance for high net worth 
+individuals offered through AIG 
+Private Client Group (PCG) in the 
+U.S. that covers auto, homeowners, 
+umbrella, yacht, fine art and 
+collections. In addition, we offer 
+extended warranty insurance and 
+services covering electronics, 
+appliances, and HVACAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT4• Accident & Health. Voluntary 
+and sponsor-paid personal 
+accident and supplemental 
+health products for individuals, 
+employees, associations and other 
+organizations, as well as a broad 
+range of travel insurance products 
+and services for leisure and 
+business travelers
+Life and Retirement is a unique 
+franchise that brings together a broad 
+portfolio of life insurance, retirement 
+and institutional products offered 
+through an extensive, multichannel 
+distribution network. It holds 
+longstanding, leading market 
+positions in many of the markets it 
+serves in the U.S. With its strong capital 
+position, customer-focused service, 
+breadth of product expertise and deep 
+distribution relationships across 
+multiple channels, Life and Retirement 
+is well positioned to serve growing 
+market needs. Product categories within 
+Life and Retirement include:
+• Individual Retirement. Variable 
+annuities (annuities that offer a 
+combination of growth  
+potential, death benefit features 
+and income protection features), 
+index annuities (fixed index 
+annuities that provide growth 
+potential based in part on the 
+performance of a market index,  
+as well as certain fixed index 
+annuity products offer optional 
+income protection features),  
+fixed annuities (single-premium 
+fixed annuities, immediate 
+annuities and deferred income 
+annuities) and retail mutual  
+funds (mutual fund sales and 
+related administration and 
+servicing operations)
+• Group Retirement. Group mutual 
+funds, group fixed annuities, group 
+variable annuities, individual 
+annuity and investment products, 
+and financial planning and  
+advisory services• Life Insurance. U.S.: Primarily  
+term life and universal life 
+insurance; International: 
+Distribution of life and health 
+products in the UK and Ireland
+• Institutional Markets. Primarily 
+stable value wrap products, 
+structured settlement and pension 
+risk transfer annuities, corporate- 
+and bank-owned life insurance  
+and guaranteed investment 
+contracts (GICs)
+Investments oversees an investment 
+portfolio totaling more than $314 billion, 
+as of 2018. Our investment strategies are 
+tailored to the specific business needs of 
+each operating unit. The investment 
+objectives are driven by the respective 
+operating segments and AIG parent. The 
+primary objectives are generation of 
+investment income, preservation of 
+capital, liquidity management and 
+growth of surplus to support the 
+insurance products. The majority of 
+assets backing our insurance liabilities 
+consist of fixed maturity securities.
+Blackboard is a subsidiary focused on 
+delivering commercial insurance 
+solutions using digital technology, data 
+analytics and automation.
+AIG also has a Legacy Portfolio that 
+consists of our run-off insurance lines 
+and legacy investments that we 
+consider non-core. Effective February 
+2018, our Bermuda-domiciled 
+composite reinsurer, Fortitude Re, is 
+included in our Legacy Portfolio.
+AIG shared services consist of those 
+operations that service the enterprise as 
+a whole or do not otherwise exist within 
+a single business unit. 
+This includes operations such as Human 
+Resources, Legal, IT , Marketing and 
+Communications, Government Affairs, 
+Facilities and Security.
+This report draws from AIG’s 2018 Form 
+10-K filing. To read that filing in full, 
+please click here.20 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORTAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT5BOARD OVERSIGHT
+The AIG Board of Directors has 
+delegated overall responsibility for 
+climate-related issues facing the 
+company to the Nominating and 
+Corporate Governance Committee 
+(NCGC). The Risk and Capital Committee 
+(RCC) may be informed of climate-
+related risks insofar as the RCC’s role 
+and responsibility is to oversee and 
+review AIG’s material risks as well as its 
+approach to managing those risks.  
+Both committees meet at least four 
+times per year or more frequently, as 
+deemed necessary, in order to carry  
+out their responsibilities.  
+Nominating and Corporate 
+Governance Committee (NCGC) 
+The scope of duties and responsibilities 
+of the NCGC includes the regular review 
+and assessment of AIG’s policies, 
+practices and reporting with respect to 
+sustainability, which includes climate-
+related issues. The committee is also 
+responsible for how AIG engages in 
+public policy issues, social and 
+environmental practices and any other 
+matters corresponding with AIG’s 
+corporate social responsibility efforts. 
+Risk and Capital Committee (RCC) 
+The RCC oversees and reviews all 
+aspects of AIG’s Enterprise Risk 
+Management (ERM) framework. This involves reviewing policies, procedures 
+and practices employed to manage all 
+of AIG’s key risks (e.g., liquidity, credit, 
+market, operational and insurance), 
+which may be impacted by climate 
+change. The RCC also assists the  
+Board in its oversight of AIG’s  
+investment policies.  
+Management Oversight 
+AIG’s Executive Vice President, 
+Government Affairs, Public Policy and 
+Communications—as a member of the 
+senior management team that reports 
+to the CEO—has overall responsibility 
+for all sustainability-related issues 
+within the company, including matters 
+related to climate change. This 
+executive oversees colleagues who 
+regularly interact with external 
+stakeholders (e.g., policymakers, 
+government officials, regulators, interest 
+groups, the public, etc.) on a variety of 
+topics of interest, including climate 
+change. This role reports periodically, 
+and as appropriate to the NCGC, 
+including on climate-related matters.
+Enterprise Risk Management (ERM) 
+AIG’s Enterprise Risk Management (ERM) 
+function integrates the risk management 
+functions in each of our business units 
+and provides senior management with  
+a consolidated view of AIG’s key risks.  
+It supports our businesses and AIG’s Board of Directors and executive leadership team are 
+responsible for addressing the risks and opportunities posed 
+by climate change while providing the robust governance  
+and risk management oversight needed to ensure the 
+company’s ongoing financial strength. AIG strives for 
+transparent and clear communication with our stakeholders, 
+and adheres to high ethical standards in our financial and  
+non-financial disclosures. 1. GOVERNANCE OF CLIMATE- 
+ RELATED RISKS
+management in the embedding of  
+risk management in our business 
+processes and in identifying, assessing, 
+quantifying, managing, monitoring, 
+reporting and mitigating AIG’s  
+risk exposures.  
+Within each business unit, senior 
+leaders and executives approve 
+risk-taking policies, targeted risk 
+tolerance, and prioritize risks identified 
+within the framework provided by ERM. 
+Accountability for the implementation 
+and oversight of risk policies is aligned 
+with individual corporate executives, 
+with the risk committees receiving 
+regular reports regarding compliance 
+with each policy to support risk 
+governance at our corporate level as 
+well as in each business unit.  AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT6AIG recognizes that climate change is an 
+area of increasing attention amongst 
+our stakeholders and the wider public. 
+Global insured losses for the industry 
+from natural catastrophe events in 2018 
+were USD 76 billion, the fourth highest 
+on record.i More than 60 percent 
+resulted from so-called “secondary 
+perils” , defined as independent, 
+high-frequency, low- to medium-severity 
+loss events often associated with 
+climate change (e.g., hurricane-induced 
+precipitation/torrential rainfall, floods, 
+landslides, drought or wildfire 
+outbreaks). Ongoing urbanization  
+(and therefore concentration of 
+insurable risk) in areas that are 
+vulnerable to climate change is a trend 
+that may continue.
+AIG considers the potential impact from 
+climate-related issues on our business, 
+strategy and financial planning over 
+different time horizons ranging from 
+short- to longer-term. In the short- to 
+medium-term, we consider the physical 
+risks resulting from climate change—
+which can be event-driven or result from 
+shifts in climate patterns.. We view these 
+risks as manageable in light of AIG’s 
+modeling work, our broadly diversified 
+business, and through regular reviews of 
+our risk appetite and reinsurance 
+strategy. A meaningful proportion of our 
+general insurance policies are renewed 
+on an annual basis providing us the 
+opportunity to re-underwrite and 
+re-price the risk regularly. Medium- and 
+long-term impacts are considered in 
+strategy setting and asset liability 
+management decisions in both the 
+General Insurance and Life and 
+Retirement businesses. Fundamental 
+trends and significant changes over 
+longer horizons are more challenging as 
+precise forecasts are difficult to make.
+ SHORT-TO MEDIUM-TERM RISKS: 
+PHYSICAL RISKS
+Natural Catastrophe Risk  
+By the nature of our business, our 
+company is exposed to various potential 
+catastrophic events in which multiple 
+losses can occur and affect multiple 
+lines of business in any given calendar 
+year. Natural disasters such as 
+hurricanes, earthquakes and other 
+catastrophes have the potential to 
+adversely affect our operating results.
+AIG enjoys a unique profile as a 
+composite insurer (that is, life and 
+non-life businesses) operating in over  
+80 different countries and jurisdictions. 
+Such a broad diversity in business lines 
+helps us to limit the relative economic 
+impact of any single insured event.
+AIG’s Risk Appetite Framework 
+establishes and maintains appropriate 
+limits on the material risks identified for 
+our core businesses. Following an 
+extensive review, we have substantially 
+reduced our gross and net limits, 
+particularly in Property and Casualty 
+insurance, which has subsequently 
+lowered our risk of exposure to  
+natural disasters.Our notable progress on risk 
+management and underwriting in the 
+last year was also critical to a revised 
+reinsurance strategy. In 2018, we 
+reconfigured our reinsurance policies to 
+reduce the net risk in our portfolio, 
+which provided meaningful recoveries in 
+the second half of the year. We will 
+continue to adjust our use of 
+reinsurance to balance our portfolio, 
+manage volatility and protect against 
+extreme events. 
+The impacts of climate change vary 
+region by region and by type of hazard. 
+While climate change is affecting loss 
+patterns through shifts in hazard 
+frequency and severity,ii iii iv v vi factors also 
+contribute to changing loss patterns. 
+Shifting demographics has led to 
+increasing concentrations of 
+catastrophe risk, such as through rapid 
+growth in coastal development       
+and suburban growth next to forests  
+(in what is also known as the “wildland-
+urban interface”).x xi xii
+Operational Risk   
+At a physical asset level, AIG assesses 
+the risks and opportunities associated 
+with the physical impacts of climate 
+change, including individual facilities 
+and office locations. AIG has business 
+continuity plans to respond to incidents 
+that may disrupt business operations, 
+including extreme weather events. AIG 
+continuously reviews its existing 
+business continuity and disaster 
+recovery practices. Significant events 
+such as Superstorm Sandy and 
+Hurricane Harvey, for example,  
+have provided us with opportunities  
+to enhance and improve our  
+operational resiliency.2. STRATEGY FOR IDENTIFYING CLIMATE-  
+ RELATED RISKS AND OPPORTUNITIES 20 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORTAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT7AIG seeks to mitigate financial loss 
+arising from catastrophic events through 
+the purchase of insurance from 
+non-affiliated companies and to require 
+that AIG’s service providers and business 
+partners also maintain appropriate 
+insurance coverage. AIG, like many 
+companies with operations in high 
+hazard CAT areas, has experienced 
+property losses but has been able to 
+recoup those losses under its own 
+property insurance policies. To 
+determine the sufficiency of CAT limits, 
+we evaluate AIG’s aggregate 
+replacement cost values in high hazard 
+flood, wind and earthquake areas, as 
+well as rely on modeling for probable 
+maximum loss/average annual loss 
+expectancies. AIG continues to evaluate 
+past property losses annually. When we 
+renew our policies, we evaluate, with 
+modeling, the need for higher CAT limits 
+in high hazard areas where AIG has 
+owned/leased high-valued property. 
+ 
+Climate Risk and Business Continuity 
+The impacts of Superstorm Sandy and Hurricane Harvey in 2012 and 2017, respectively, underscored the importance of AIG’s 
+own business continuity planning against the potential impacts of climate risk, as the company was operationally impacted 
+by both storms. 
+In 2012, Superstorm Sandy struck the eastern coastline of the United States and caused particularly severe damage in New 
+York and New Jersey. At the time, Sandy was the first major Atlantic storm to hit the metropolitan New York area since 1936.
+Sandy’s storm surge flooded portions of New York City (including the portion of Lower Manhattan where AIG’s corporate 
+headquarters are located), disrupting travel and causing widespread power outages. As a result of this damage, AIG’s Lower 
+Manhattan offices remained closed for several weeks after the storm, requiring us to invoke our business continuity planning. 
+Many employees worked remotely, or from secondary locations to ensure steady service to our clients. 
+In 2017, Hurricane Harvey struck across the Caribbean, Texas and Louisiana, becoming the second costliest Atlantic hurricane 
+on record. Harvey inundated the city of Houston with between 30 and 60 inches of rain, causing severe flooding across the city, 
+where AIG’s Life & Retirement headquarters are located. As with Sandy, the storm caused serious disruption to our operations 
+in Houston causing us to rely on our business continuity plans for weeks after the storm.
+In response to Sandy, AIG strengthened its business continuity management approach in order to minimize losses and 
+business interruption in the future. Likewise, AIG conducted an after-action review of the impact of Hurricane Harvey.
+AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT8LONGER-TERM RISKS:  
+Transitioning to a low-carbon economy 
+often entails extensive policy, legal, 
+technology, and market changes to 
+address mitigation and adaptation 
+requirements related to climate change. 
+AIG is identifying these longer-term 
+transition risks through our ongoing 
+emerging risk assessment program. 
+In particular, AIG has established an 
+Emerging Risk Forum which conducts 
+horizon scanning to identify longer-term 
+emerging risks and opportunities—
+including climate change—to our 
+business to catalyze risk management 
+action and/or new product development. 
+Policy and Regulatory Risk 
+AIG constantly monitors and assesses 
+the potential future impacts that 
+regulatory developments may have  
+on the company. 
+As a global financial services provider 
+with a relatively small environmental 
+footprint we expect to be able to 
+comply with future potential regulatory 
+changes, such as heightened energy 
+efficiency standards or greenhouse gas 
+emissions limits/taxes, with minimal 
+financial impact. For example, in the 
+United Kingdom, AIG complies with 
+the Carbon Reduction Commitment 
+(CRC). For the year 2017, the CRC related 
+carbon tax for AIG UK office facilities was 
+£42,126 (2,380 tons emitted at a charge 
+of £17.70 per ton) or approximately 
+$53,790. This represents a small fraction 
+of AIG’s operating expenses globally. Beyond the potential impact to 
+our physical operations, insurance 
+regulatory bodies continue to show 
+interest in how the financial services 
+industry including insurance companies 
+are managing climate risk within 
+both their business operations and 
+investment portfolios. For example, 
+UK regulators have introduced climate 
+risk scenarios as part of periodic stress 
+testing of financial services firms. AIG 
+will continue to monitor the potential 
+impact of climate change-related 
+regulatory risks to our businesses or 
+investment management practices.
+Litigation and Legal Risk  
+In recent years the industry has seen 
+an overall increase in various climate-
+related litigation claims brought forward 
+for a multitude of reasons including 
+as a result of a perceived contribution 
+to climate change, or for insufficient 
+disclosure around material financial 
+risks. As the value of loss and damage 
+arising from climate change grows, it is 
+plausible that litigation risk of this kind 
+may increase. For example, Directors 
+and Officers (D&O) may be found 
+personally liable for breaching duty of 
+care and/or due diligence requirements, 
+where they may exist, if they fail 
+to properly consider and disclose 
+foreseeable climate-related risks, which 
+could result in increased D&O claims. 
+We track ongoing litigation in the United 
+States that seeks to compel companies 
+to remedy their perceived contribution 
+to climate change (i.e., mitigation 
+costs, third party property damage, 
+etc.). Litigation seeking to compel 
+companies to remedy their perceived 
+contribution to climate change may, if 
+successful, also lead to an increase in 
+claims. Based on our monitoring, while 
+the overall volume of litigation activity 
+has increased, past litigation seems 
+to have largely been unsuccessful on 
+numerous grounds including difficulties 
+in determining and attributing fault and 20 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORTAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT9liability to a particular company, and 
+the judiciary’s deference to the political 
+branches of government on questions 
+relating to climate change. AIG will 
+continue monitoring litigation trends 
+to assess the potential impact of any 
+developments on its businesses and 
+overall risk mitigation strategies. 
+Technology Risk  
+Technological advancements that 
+support the transition to a lower-
+carbon, energy-efficient economic 
+system may have a significant impact 
+on a wide range of companies and other 
+organizations. This may affect the nature 
+and financial impact of the risks our 
+customers seek to insure. This economic 
+transition may also materially affect 
+the demand for insurance in specific 
+sectors—most obviously in energy 
+and transport. Although this may not necessarily reduce the overall demand 
+for insurance products and services, it 
+may alter the patterns of demand and 
+the nature of insurance cover required, 
+to which AIG will need to respond to 
+remain competitive.
+Reputation Risk 
+Climate change has been identified 
+as a potential source of indirect 
+reputational risk to AIG’s corporate 
+brand due to the prospect of changing 
+customer or community perceptions 
+of an organization’s contribution to 
+or detraction from the transition to a 
+lower-carbon economy. To date, this  
+has had minimal reputational impact 
+upon AIG or the industry. 
+AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT10Investment/Credit Risks  
+AIG’s investment strategies are tailored 
+to specific business needs with the 
+primary objectives of investment 
+income, preservation of capital, liquidity 
+management and growth of surplus. 
+AIG is a diversified company that takes 
+on both short- and long-term liabilities 
+from policyholders. To the fullest extent 
+practicable, AIG seeks to duration-match 
+its assets to its liabilities. As such, for 
+our long-term liabilities that can stretch 30, 40, or even 50 years into the future, 
+we necessarily seek out long-term 
+investments. This involves taking a long-
+term view including the return profile 
+and sustainability of the investment(s).
+Broad asset classes in the portfolio 
+include fixed income securities, real 
+estate, and alternative investments. 
+Some of these investments are either 
+secured by, or heavily dependent on 
+physical assets. Although our credit process considers protections that are 
+in place such as property and business 
+interruption insurance, increased risk 
+from climate change may affect the 
+value of these assets in the future.  
+Given the long-dated nature of our 
+liabilities, our credit research process 
+assesses the long-term sustainability 
+of our borrowers and the assets that 
+secure them.Business Unit Spotlight: AIG Life & Retirement 
+AIG Life & Retirement is a unique franchise that brings together a broad portfolio of life insurance, retirement and institutional 
+products offered through an extensive, multichannel distribution network. It holds long-standing, leading market positions 
+in many of the markets it serves in the U.S. With its strong capital position, customer-focused service, breadth of product 
+expertise and deep distribution relationships across multiple channels, Life & Retirement is well positioned to serve growing 
+market needs. In 2018 Life and Retirement generated revenues of $14.1B, with adjusted pre-tax income of $3.2B.
+PHYSICAL RISK (natural catastrophe risk that gives rise to mortality risk, morbidity risk and business continuity risk):  
+AIG Life & Retirement is exposed to climate-related mortality and morbidity risks and potential higher than expected losses 
+from actual mortality and morbidity. Mortality risk exists in a number of our product lines but is most significant for our life 
+insurance products. 
+Higher mortality and morbidity could arise in the event of an increase in the frequency and intensity of natural catastrophes 
+(e.g., floods, droughts, heatwaves, etc.) associated with climate change, although this impact is generally expected to be 
+limited as our risks tend to be dispersed across the country. Nevertheless, climate-related insurance risks are placed relatively 
+low on the spectrum of risks within our Life & Retirement businesses. 
+The previously discussed business continuity risks resulting from climate change are due to the possibility of increased natural 
+catastrophes in Life & Retirements primary business locations (e.g., Texas coastal and California wildfire and earthquake 
+areas). The impact of Hurricane Harvey on our Houston location was a reminder of why we prepare to quickly respond to a 
+large-scale business disruption with minimal advanced warning. AIG continues to strengthen its business continuity plans and 
+develop mitigation strategies to further enhance our operational resiliency.  
+TRANSITION RISK (market risk): In the case of AIG Life & Retirement, certain policyholder obligations can stretch decades out 
+into the future which we seek to match with equally long-dated assets. In matching assets to these long-duration liabilities, 
+AIG necessarily seeks out investments that offer sustainable and predictable returns over the long-term. Assets identified as 
+posing an increased credit and/or market risk over the long-term would therefore receive additional scrutiny, or possibly may 
+be excluded from consideration in the portfolio. 
+OPPORTUNITY (products and services): AIG’s Retail Mutual Funds (RMFs) business launched the AIG Environmental, Social 
+and Governance (ESG) Fund(s) in 2016. This fund uses ESG practices and a rules-based investment approach to seek capital 
+appreciation and current income with a positive social impact. Looking ahead, Life & Retirement has identified expanding our 
+suite of ESG funds as an opportunity.20 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORTAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT11Over the longer-term, as efforts to move 
+away from a carbon-intensive economy 
+gather pace, we recognize the possibility 
+that, financial market participants 
+may fundamentally reassess the value 
+of carbon-intensive assets and the 
+businesses that rely on them. Shifts 
+in consumer behavior may affect the 
+long-term viability of these businesses 
+and their ability to repay debt. This re-
+valuation may lead to impairments to 
+the value of these assets. We consider 
+long-term trends as part of our initial 
+credit review process and regularly 
+reassess credit worthiness.
+CLIMATE-RELATED OPPORTUNITIES   
+An important part of AIG’s strategy for 
+managing climate risk is to pursue 
+climate-related market opportunities 
+that are consistent with our core 
+business strategy. Key areas of 
+opportunity for AIG include providing 
+our risk solutions and expertise to 
+clients, developing new products 
+and services to help our clients and 
+customers manage their climate-related 
+risks, establishing partnerships to 
+leverage expertise in order to contribute 
+to resiliency, supporting more energy-
+efficient operations, investing in 
+renewable energy sources and offering 
+sustainable investment products.
+Providing Risk Solutions and 
+Expertise to Clients  
+AIG delivers technical expertise and 
+tailored, solutions-based approaches  
+to assist clients in proactively identifying 
+their exposures, including those 
+stemming from climate change risk, 
+with the aim of managing them to lower 
+their cost of risk and build stronger 
+business resiliency. To this end, we are 
+able to deploy our catastrophe models, 
+consultants and engineers to partner 
+with clients to assess risks and build 
+business resiliency to natural perils  
+(e.g., flooding).New Products and Services 
+AIG regularly consults with our clients 
+to understand the unique and emerging 
+risks they face and to consider the 
+development of responsive products 
+and services that meet their needs. As 
+AIG collects relevant data and available 
+metrics on unaddressed risks, we can 
+use that data to guide new product 
+development and underwriting 
+approaches. As the impacts of climate 
+risk are more deeply felt—especially 
+those that currently lack an insurance 
+solution framework—we may explore 
+the development of new products and 
+services to address the needs of current 
+and potential clients. 
+AIG recognizes that without insurance, 
+the appetite for taking risks in a new or 
+unproven field of opportunity would 
+be dramatically reduced. Our role as 
+an insurer of renewable energy and 
+lower-carbon industries helps support 
+the overall market transition to a lower-
+carbon economy. AIG is a recognized 
+market leader in the insurance of 
+offshore wind farms, as well as a 
+sizeable number of solar (photovoltaic/
+concentrated solar power) plants and 
+other renewable energy operations.
+In addition to development 
+opportunities for new clean energy 
+products supporting industry migration 
+to a lower-carbon economy, AIG is a 
+provider of parametric insurance, which 
+protects against economic loss not 
+adequately addressed by traditional 
+property and casualty products. 
+Parametric coverage is not new to the 
+insurance industry but we are noting 
+an increasing demand for it as buyers 
+seek alternative insurance solutions that 
+will assist in recovering more quickly 
+from certain environmental conditions, 
+weather events or catastrophic perils.  
+Coverage is triggered by an event, such 
+as an earthquake or named storm, Business Unit Spotlight:  
+Lexington Insurance 
+Lexington Insurance Company,  
+part of our General Insurance 
+business, offers innovative 
+products and services to assist 
+U.S. clients in becoming more 
+resilient against the effects of 
+climate change. These include:
+• Private market flood 
+insurance that covers 
+flood damage and allows 
+policyholders to rebuild.
+• Upgrade to Green, a 
+product offering that 
+provides upgrade benefits 
+that allow for green 
+building upgrades to be 
+included in the recovery 
+from partial and total losses 
+to homes and commercial 
+buildings, and during the 
+construction phases  
+of building. 
+within a designated geographic area 
+and reaching specified parameters 
+(certain earthquake magnitude or 
+hurricane wind speed / central pressure 
+reading).  Parametric insurance links 
+the amount of the loss payment to 
+occurrence of the triggering event 
+– providing a predetermined dollar 
+payout upon its occurrence. Because 
+parametric insurance virtually 
+eliminates the need for claim adjusting, 
+the payout can be made relatively 
+quickly.  This, in turn, speeds up the 
+insured’s ability to recover from the 
+triggering event by having cash on  
+hand to handle collateral losses or 
+recovery expenses. AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT12Partnerships 
+Due to the scale and complexity 
+of the challenge associated with 
+climate change, AIG is increasingly 
+seeking to partner with private sector 
+peers, academic institutions, NGOs, 
+international organizations and other 
+groups to leverage our expertise in risk 
+management with other key skills sets.
+For example, AIG is a founding member 
+of Blue Marble, a consortium of nine 
+companies that provides small-
+premium, low-limits micro insurance 
+to smallholder farmers in Uganda and 
+Zimbabwe against extreme weather. 
+Through a partnership with Wood Plc 
+and Enactus, AIG is involved in the 
+Rockefeller Foundation’s 100 Resilient 
+Cities (100 RC) program, which assists 
+cities in identifying and managing the 
+risks associated with climate change 
+as well as design and construction 
+solutions to reduce or mitigate  
+these risks. 
+Through a partnership with the 
+Insurance Development Forum (IDF)— 
+a public-private sector partnership 
+bringing together the World Bank, 
+the United Nations and the insurance 
+sector—AIG is contributing to the goal of 
+developing solutions in order to tackle 
+low insurance penetration rates across 
+jurisdictions through commercially 
+viable means. The IDF is also acting as 
+a platform, bringing together a range of 
+stakeholders, such that the insurance 
+industry can address the issue of 
+climate change in a more coordinated 
+and focused manner. Resource Efficiency  
+AIG is not an energy-intensive business, 
+nor does AIG consume large amounts 
+of natural resources for the operation 
+of our business. However, we recognize 
+that shifting our energy usage toward 
+lower emission energy sources can 
+result in potential savings on annual 
+energy costs while contributing 
+to a lower-carbon economy. For 
+more information on how we are 
+implementing operational efficiency 
+initiatives, please refer to the Metrics 
+and Targets section of this report.
+Investment opportunities  
+AIG has been a leading investor in 
+renewable energy projects for over 
+30 years, with $2.9 billion invested 
+in private placement wind, solar, 
+geothermal and hydroelectric 
+projects worldwide in 2018, resulting 
+in significant reductions in carbon 
+emissions. In addition to renewable 
+power, AIG is a leading investor 
+in green energy projects, such as 
+waste-to-energy, transmission and 
+distributed generation. AIG also invests 
+in infrastructure assets that improve 
+energy efficiency, grid connectivity 
+and reliability. We are also investing 
+in innovative transportation networks 
+that improve mobility and use less 
+energy. Many of these investments are 
+characterized as “Green Bonds.”20 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORTAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT13
+Methanol as Ship Fuel 
+In 2018, AIG was a lead investor in a portfolio of dual-powered, 50,000 deadweight ton, ocean tankers. The tankers were 
+delivered in 2016 and are under long-term contract to Marinvest, a major international chemical company. The tankers are  
+built according to eco-design standards which enable the main engines to burn either standard bunker fuel or methanol.
+Methanol provides a cleaner marine fuel alternative, and it is estimated that the emissions reduction compared to burning 
+heavy fuel will be up to a 99% reduction in SOx, a 95% reduction in particulate matter, a 60% reduction in NOx, and a 5% 
+reduction in CO2.
+Since being placed in service, the tankers have operated almost exclusively on methanol.
+In addition to the reduction in greenhouse gases and airborne pollution, ship operations on methanol reduces the risk of 
+heavy fuel oil spills. Methanol readily dissolves in water and biodegrades rapidly.xiii
+AIG’s diverse investment portfolio 
+includes investments in both fossil 
+fuel generation as well as renewable 
+energy. We recognize that by investing 
+in clean energy technology, we diversify 
+our portfolio and further enable those 
+innovations to drop in cost, improve 
+storage capability and expand  
+uptake globally. 
+Sustainable investment products  
+AIG recognizes the investment 
+community’s growing interest in 
+Environmental, Social and Governance 
+(ESG) products. In 2009, SAAMCo, an AIG 
+asset management company, began 
+offering ESG investment products (VALIC 
+Socially Responsible and VALIC Global Social Awareness). In 2016, AIG launched 
+our first ESG product into the retail 
+mutual fund market (AIG ESG  
+Dividend Fund).
+LOOKING AHEAD  
+AIG continually works to augment its 
+strategic management of climate risk 
+and opportunities. AIG’s Executive 
+Leadership Team has committed in  
+2019 to explore the development of 
+a climate change scenario analysis, 
+which is a formal analysis of the impact 
+that a +2° Celsius scenario would have 
+across the company’s underwriting, 
+investments and operations.AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT14AIG has an integrated process for 
+managing risks throughout our 
+organization in accordance with our 
+robust risk management framework. 
+Climate-related risks are included in 
+AIG’s risk management framework 
+and integrated into our identification 
+processes, scenario modeling and 
+emerging risk assessment. 
+Risk Appetite Frameworks
+Our Risk Appetite Framework integrates 
+stakeholder interests, strategic business 
+goals and available financial resources. 
+We balance these by seeking to take 
+measured risks that are expected 
+to generate repeatable, sustainable 
+earnings and create long-term value 
+for our shareholders. The framework 
+reflects our risk appetite statement 
+approved by the Board of Directors or a 
+committee thereof. It also encompasses 
+a set of supporting tools, including 
+risk tolerances, risk limits and policies, 
+which we use to manage our risk profile 
+and allocation of financial resources.
+Risk Limits
+A key component of our Risk Appetite 
+Framework is having a process in 
+place that establishes and maintains 
+appropriate limits for the material risks 
+related to our core businesses. The 
+potential impact of climate-related risks 
+on these material risks are considered 
+within the framework. Further details on 
+our approach to risk limits can be found 
+on pages 145-146 of the AIG 2018 10-K. 
+Risk Identification
+Risk identification serves as a key 
+tool used to inform the Risk Appetite 
+Framework. We conduct risk 
+identification through a number of 
+processes at the business unit and 
+corporate level focused on capturing 
+our material risks and key areas of focus 
+for follow-up risk management actions. A key initiative is our integrated bottom-
+up risk identification and assessment 
+process down to the product-line level. 
+These processes are used as a critical 
+input to enhance and develop our 
+analytics for measuring and assessing 
+risks across the organization.
+Risk Modeling and Other Risk 
+Management Tools
+AIG employs recognized third-party 
+catastrophe risk models to evaluate 
+and simulate the frequency and severity 
+of catastrophe events and associated 
+losses to our portfolio of exposures. 
+These models are sophisticated, 
+employing physically based modeling 
+with parameters and assumptions 
+derived from historical hazard and 
+claims data. The models are updated as 
+new science and data become available 
+in order to ensure they are continually 
+improved and validated.  3. MANAGEMENT OF CLIMATE-RELATED RISKS 
+We make adjustments to modeled 
+losses to account for loss adjustment 
+expenses, model biases, data 
+quality and non-modeled risks. 
+Our modeling work contributes to 
+prudent underwriting and pricing of 
+traditional climate risks related to 
+natural catastrophes, as well as the 
+use of hedging/protective measures 
+such as issuing catastrophe bonds and 
+purchasing reinsurance.
+When catastrophic events happen, AIG 
+uses them as an opportunity to detect 
+and remedy any weaknesses in how we 
+model, select and price risk. Since most 
+of our policies exposed to catastrophic 
+risks are one-year contracts, we can 
+adjust our underwriting guidelines, 
+pricing and exposure accumulation in a 
+relatively short period. Lessons learned 
+from post-catastrophe event studies 
+are incorporated into modeling and 
+underwriting processes of risk pricing 
+and selection. 
+AIG also utilizes scenario or 
+deterministic analysis to measure and 
+monitor risks that may be exposed to 
+climate change, for example pandemic 
+risk or market and credit risks within our 
+investment portfolios.
+Underwriting and Pricing
+We recognize that climate change has 
+implications for the insurance industry 
+exposure to natural catastrophe risk. 
+With multiple levels of risk management 
+processes in place, we actively analyze 
+the latest climate science and policy to 
+anticipate potential changes to our risk 
+profile, pricing models and strategic 
+planning. For example, we continually 
+consider changes in climate and 
+weather patterns as an integral part of 
+the underwriting process.  
+We manage this exposure through 
+multiple approaches such as setting Emerging Risk Forum
+AIG has an Emerging Risk 
+Forum to monitor, assess and 
+analyze climate-related risks, 
+among other key emerging risks 
+facing the company. The forum 
+is comprised of AIG subject 
+matter experts from across 
+many global geographies and 
+functions and conducts horizon 
+scanning intended to facilitate 
+cross-functional dialogue, 
+improve information flow across 
+the company, catalyze risk 
+management action and spark 
+product innovation. Within its 
+mandate, the Forum considers a 
+range of risks to AIG associated 
+with climate change, including 
+climate-related insurance 
+liabilities, transition risks  
+and investments.20 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORTAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT15risk limits based on aggregate Probable 
+Maximum Loss (PML) modeling, 
+monitoring overall exposures and 
+risk accumulations, and purchasing 
+catastrophe reinsurance through both 
+the traditional reinsurance and capital 
+markets in addition to other  
+reinsurance protections.
+The majority of our general insurance 
+policies exposed to catastrophic risks 
+are one-year contracts that allow us 
+to adjust our underwriting guidelines, 
+pricing and exposure accumulation 
+in a relatively short period. We further 
+manage these risks through risk review 
+and selection processes, exposure 
+limitations, exclusions, deductibles, 
+self-insured retentions, coverage limits, 
+attachment points, and reinsurance. This management is supported by 
+sound underwriting practices, pricing 
+procedures and the use of actuarial 
+analysis to help determine overall 
+adequacy of provisions for insurance. 
+Underwriting practices and pricing 
+procedures incorporate historical 
+experience, changes in underlying 
+exposure, current regulation and 
+judicial decisions as well as proposed or 
+anticipated regulatory changes.
+Concentration Management
+We closely manage insurance risk by 
+monitoring and controlling the nature 
+and geographic location of the risks 
+in each line of business underwritten, 
+the terms and conditions of the 
+underwriting and the premiums we 
+charge for taking on the risk. The 
+aforementioned modeling techniques, 
+both stochastic and deterministic, are 
+used to analyze these concentrations. 
+Our broad-based distribution also 
+assists in managing concentrations. 
+In addition, we actively manage 
+concentration of exposure for our  
+group mortality risks.
+As previously mentioned some invested 
+assets may be impacted by climate 
+change in the future given their long-
+dated nature. Our credit risk mitigation 
+tools include the use of third party 
+guarantees or collateral. This assists  
+in mitigating or avoiding  
+unwanted accumulations.
+Credit and Market Exposure 
+Management 
+In recognition of the credit risk 
+exposures we face as a company 
+spanning, for example, real estate, fixed 
+income and equities investments, we 
+have a team of credit professionals 
+in place, subject to ERM oversight, 
+to assure appropriate credit risk 
+management in accordance with our 
+credit policies and procedures relative 
+to our credit risk parameters. AIG’s 
+Chief Credit Officer (CCO) and other credit executives within the company 
+are responsible for the development, 
+implementation and maintenance 
+of this risk management framework. 
+(For further details on AIG’s credit risk 
+management framework, please consult 
+AIG’s 2018 Form 10-K; pg. 147-148).
+We are engaged in a variety of insurance, 
+investment and other financial services 
+businesses that expose us to market 
+risk, directly and indirectly. We define 
+market risk as the risk of adverse impact 
+due to systemic movements in a variety 
+of market drivers, including: equity 
+and commodity prices, residential 
+and commercial real-estate values, 
+and credit spreads. The Risk Officer 
+with each business is responsible 
+for creating a framework to properly 
+identify these risks, then ensuring 
+that they are appropriately measured, 
+monitored and managed in accordance 
+with the risk governance framework 
+established by AIG’s Investments 
+Portfolio Managers, with support 
+from AIG’s CCO and AIG’s Chief Market 
+Risk Officer (CMRO). The scope and 
+magnitude of our market risk exposures 
+is managed under a robust framework 
+that contains defined risk limits and 
+minimum standards for managing 
+market risk in a manner consistent 
+with our risk appetite statement. Our 
+market risk management framework 
+focuses on quantifying the financial 
+repercussions of changes in these broad 
+market observables, as opposed to 
+the idiosyncratic risks associated with 
+individual assets that are addressed 
+through our credit risk management 
+function. (For further details on AIG’s 
+market risk management framework, 
+please consult AIG’s 2018 Form 10-K;  
+pg. 148-153)Hurricane and Flood Models
+In 2018, AIG developed an 
+internal U.S. hurricane model 
+in order to provide a more 
+bespoke view of the impacts of 
+climate change on wind, storm 
+surge and flood risks to our 
+business stemming from U.S. 
+hurricanes. Additionally, we used 
+our internally developed flood 
+models to create an AIG view 
+of flood maps in more than 25 
+countries, which can be 
+customized to incorporate 
+climate change views for 
+underwriting and pricing flood 
+risk. In addition to internal 
+models, we also analyze 
+extreme disaster scenarios, 
+such as flooding in London 
+resulting from the failure of 
+the Thames Barrier due to an 
+increase in windstorm intensity 
+and sea level rise from climate 
+change, to monitor and manage 
+concentration risks within  
+our portfolios.AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT16Mitigation Through Reinsurance 
+AIG uses reinsurance (that is, insurance 
+against losses experienced within our 
+own insurance portfolio) to manage 
+overall capital adequacy and mitigate 
+the insurance loss (Life and Non-Life) 
+exposure related to certain events, 
+such as natural and man-made 
+catastrophes or death events. AIG 
+purchases catastrophe reinsurance and 
+retrocessional cover through traditional 
+reinsurance markets, capital markets 
+through insurance-linked securities and 
+collateralized reinsurance transactions, 
+such as catastrophe bonds, sidecars and 
+similar vehicles.
+Life and Retirement 
+AIG’s Life and Retirement employs a variety of risk management practices that 
+mitigate the natural catastrophe and pandemic risks some of which may be 
+associated with climate change. In particular:
+Portfolio Concentration Risk Management
+• We have a broad-based distribution that markets our products across the 
+entire U.S. This mitigates concentration risk across our book. In addition 
+we actively manage concentration of exposure for our group mortality 
+risks.
+• We also limit the amount of losses attributable to a single policy and also 
+utilize reinsurance to mitigate volatility from a very large claim and the risk 
+of an unexpected significant event.
+Risk Monitoring & Trend Analysis
+• We conduct ongoing monitoring and assessment of mortality, longevity 
+and morbidity experience relative to that assumed in pricing, valuation, 
+stress testing and cash flow testing. Significant analysis is carried out 
+around claims and actual to expected mortality and longevity ratios to 
+understand trends and potential emerging risks. If experience significantly 
+deviates from our expectation then we are able to adjust our pricing 
+accordingly and establish higher reserves on inforce if necessary.
+• Within L&R, we have a Chief Medical Director and supporting medical 
+team responsible for researching emerging trends and suggesting 
+corresponding modifications to our underwriting guidelines.
+Underwriting
+Within Life & Retirement, product design that allows us to, in certain cases, 
+increase mortality charges to align them with our updated best estimate 
+mortality assumptions in the face of increasing rates is another example of 
+managing potential climate-related risks through our underwriting and  
+pricing processes.The AIG catastrophe reinsurance 
+program provides protection on both 
+an aggregate and occurrence basis. 
+AIG has also purchased property-per-
+risk covers that provide protections 
+against large losses globally, which 
+include those emanating from non-
+critical catastrophe events (i.e., all 
+events except for named windstorms 
+and earthquakes) globally as well as 
+critical catastrophe events (i.e., named 
+windstorms and earthquakes) outside 
+North America.20 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORTAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT17AIG uses select metrics to assess and 
+manage our climate-related risks and 
+opportunities in line with our strategy 
+and risk management process.
+We have responded publicly to the 
+CDP (formerly Carbon Disclosure 
+Project) Climate Change questionnaire 
+since 2010. Due to the complexity of 
+aggregating the data for our global 
+operations, we have historically 
+reported the data for which we have 
+the most visibility and verification, 
+specifically Scope 1 and 2 emissions for 
+our New York City and UK operations.
+As an insurance company that  
+does not manufacture or sell tangible 
+products, most indirect upstream and 
+downstream (Scope 3) emissions that 
+occur in AIG’s value chain are  
+not applicable. Business travel is 
+relevant to our operations, but not 
+currently disclosed.Emission Reduction Targets
+AIG has two regional targets set for 
+reducing operational emissions in  
+the UK and New York City.
+• AIG is a supporter of the UK Carbon 
+Reduction Commitment in the UK 
+and has committed to reducing 
+the Scope 1 and Scope 2 carbon 
+emissions associated with its UK 
+business operations by 20 percent 
+below the 2010 baseline level 
+by 2020. As of 1/1/2019, AIG’s UK 
+operations have exceeded the 
+target commitment, reducing 
+overall Scope 1 and Scope 2 
+emissions by 40 percent, 200 
+percent of the original target. 
+• As an original participant in the 
+2013 NYC Carbon Challenge, AIG 
+committed to reduce the carbon 
+emissions associated with its NYC 
+operations by 30 percent from 2011 levels within 10 years, or by 
+2023. As of the end of 2018 we 
+are on track to meeting that goal, 
+having achieved 77 percent of the 
+total reductions needed. In 2019, 
+AIG renewed its participation and 
+commitment to the NYC Carbon 
+Challenge, committing to further 
+reduce emissions by 40 percent 
+below 2011 levels by 2030. 
+For both of these regional targets, 
+AIG has reduced emissions through 
+a combination of energy-efficient 
+operational controls and investments  
+in energy efficient infrastructure.4. METRICS AND TARGETS 
+2016 2017 2018
+Scope 1 emissions 
+(metric tons CO2e)582 265 TBD
+Scope 1 emissions 
+(metric tons CO2e)12,135 9,781 TBD
+Total 12,717 10,046 TBDGreenhouse Gas Emissions
+AIG’s emissions disclosures to date are limited to Scope 1 and 2 emissions 
+associated with UK and New York City operations. We calculate our GHG 
+emissions in line with the GHG Protocol methodology.
+Our 2018 emissions reflect a 9 percent year-over-year reduction from the prior 
+reporting period. The decreases for the reported geographies were driven by  
+energy efficiency initiatives and consolidation/reductions of office footprints 
+through consolidation, densification, and work-from-home strategies.AIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT18Operational Efficiencies 
+AIG is committed to implementing 
+practices that reduce the environmental 
+impact of our business. Efforts include 
+encouraging the company’s suppliers to 
+improve the sustainability of products 
+and services, increasing the efficiencies 
+of internal company operations and 
+physical assets under the company’s 
+control, and reducing energy usage. 
+AIG has invested more than $800 million 
+over the past five years to continuously 
+update our worldwide offices, including 
+the use of high efficiency lighting, 
+sustainably manufactured products, 
+and energy-efficient mechanical 
+infrastructure and computer server 
+technologies. AIG currently occupies 
+over 1MM square feet of office space in 
+Leadership in Energy and Environmental 
+Design (LEED) certified green buildings, 
+and recently committed to relocating 
+our global headquarters office in New 
+York City to a LEED certified building for 
+target occupancy at the end of 2020. 
+Globally, AIG has continued to reduce 
+office footprints through consolidation, 
+densification, and work from home 
+strategies, delivering material impacts 
+which will result in future long-term 
+reductions to our overall GHG emissions.
+20 1 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORTAIG. 201 8 CLIMATE-RELATED FINANCIAL DISCLOSURES REPORT19i “Secondary natural catastrophe risks on the front line,” sigma, 2019
+ii  “Climate Change Is Forcing the Insurance Industry to Recalculate,” Wall Street Journal, 2018
+iii  “How is the issue of climate change affecting insurance?” The Telegraph/Allianz, 2017
+iv  “The Insurance Industry and Climate Change on the Prairies: A Status Report,” International Institute 
+for Sustainable Development 
+v  “Climate Change Could Make Insurance Unaffordable for Most People,” Yale Environment 360, 2019
+vi  “Climate Change and the Insurance Industry: Taking Action as Risk Managers and Investors,”  
+The Geneva Association, 2018
+vii  “Climate Change, Coasts and Coastal Risk,” Journal of Marine Science and Engineering, 2018 
+viii  “Doubling of coastal flooding frequency within decades due to sea-level rise,” Scientific Reports, 2017
+ix “Future flood losses in major coastal cities,” Nature Climate Change, 2013
+x  “Wildfire risk in the wildland-urban interface: A simulation study in northwestern Wisconsin,”  
+Forest Ecology and Management, 2009
+xi  “How risk management can prevent future wildfire disasters in the wildland-urban interface,” 
+Proceedings of the National Academy of Sciences of the United States of America, 2014
+xii  “A simulation of probabilistic wildfire risk components for the continental United States,”  
+Stochastic Environmental Research and Risk Assessment, 2011
+xiii “Methanol as a Marine Fuel Report,” Methanol Institute, 20155. SOURCES
+19American International Group, Inc. (AIG) is a leading global insurance organization. Building on 100 years of experience, today AIG 
+member companies provide a wide range of property casualty insurance, life insurance, retirement products, and other financial 
+services to customers in more than 80 countries and jurisdictions. These diverse offerings include products and services that help 
+businesses and individuals protect their assets, manage risks and provide for retirement security. AIG common stock is listed on the 
+New York Stock Exchange.
+Additional information about AIG can be found at www.aig.com | YouTube: www.youtube.com/aig | Twitter: @AIGinsurance  
+www.twitter.com/AIGinsurance | LinkedIn: www.linkedin.com/company/aig. These references with additional information  
+about AIG have been provided as a convenience, and the information contained on such websites is not incorporated by reference  
+into this report.
+AIG is the marketing name for the worldwide property-casualty, life and retirement, and general insurance operations of American 
+International Group, Inc. For additional information, please visit our website at www.aig.com. All products and services are written or 
+provided by subsidiaries or affiliates of American International Group, Inc. Products or services may not be available in all countries, 
+and coverage is subject to actual policy language. Non-insurance products and services may be provided by independent third parties. 
+Certain property-casualty coverages may be provided by a surplus lines insurer. Surplus lines insurers do not generally participate in 
+state guaranty funds, and insureds are therefore not protected by such funds.

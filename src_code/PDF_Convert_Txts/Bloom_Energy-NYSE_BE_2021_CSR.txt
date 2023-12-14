@@ -1,0 +1,2053 @@
+Solutions for a Decarbonized Future2021 Sustainability ReportDr. KR Sridhar
+Founder, Chairman and Chief Executive Officer
+Message from Leadership
+Dear Stakeholders, 
+I am pleased to present Bloom Energy’s 2021 
+Sustainability Report. The past year has been marked by mounting challenges around the world—from the ongoing COVID-19 pandemic and supply chain disruptions, to fuel shortages, energy security issues and extreme weather events. Fortunately, many individuals and organizations—including Bloom Energy—are facing these challenges through imagination and determination. We are inventing and implementing solutions to meet these and future risks. I am proud of our company’s groundbreaking work in creating sustainable solutions that protect our planet, while ensuring reliable access to energy. Our mission is to make clean, reliable energy affordable for everyone in the world.Meeting Societal Challenges
+The challenges of 2021 were historic. There was a 
+record-breaking number of climate-related disasters that each created losses exceeding $1 billion.
+1 More than four 
+in 10 Americans directly experienced a disaster linked to climate change.
+2 The higher frequency and severity of 
+natural disasters has imperiled reliable access to energy. The average home in the United States experienced more than eight hours without power last year, up from four hours just five years ago.
+3
+In addition, preliminary data indicates that greenhouse gas emissions in the United States increased 6.2% in 2021, compared to 2020.
+4 The culprit is clear—coal. For the first 
+time since 2014, the share of U.S. electricity generated from coal climbed in 2021 instead of falling, increasing 17%.
+5
+Bloom Energy is perfectly poised to both enhance resilience against the consequences of climate change, and help to mitigate those disastrous effects by cutting emissions and putting our customers on the road to net-zero. In just the past year, our innovative approach and new partnerships have helped us meet major milestones as we envision a future fueled by resilient, predictable and sustainable
+ 
+power.Leading on Hydrogen
+Our leadership in the emerging hydrogen economy is a source of incredible pride and excitement. In
+ 
+July, 
+we launched the commercial availability of our high-temperature hydrogen electrolyzer, bringing one of the world’s most efficient electrolyzers to the market. We’ve
+ 
+also solidified several key partnerships, detailed 
+in this report, to advance our hydrogen innovation. One example includes combining the Bloom Electrolyzer with Heliogen’s concentrated solar technology to provide a pathway to affordable green hydrogen production. Through another partnership with Idaho National Lab, we are testing the use of nuclear energy to create clean hydrogen. We also initiated a collaboration with industrial services giant Baker Hughes to explore the commercialization and deployment of integrated, low carbon power generation and hydrogen solutions to accelerate the energy transition.
+Globally, we are proud to have expanded our existing 
+partnership with SK ecoplant in Korea. In addition to Bloom Energy providing an additional 500 megawatts to SK, together we plan to create hydrogen innovation centers in both the United States and South Korea to advance the commercialization of green hydrogen.
+The energy industry is watching our progress with keen 
+interest. In December, the Bloom Electrolyzer was named “Emerging Technology of the Year” at the 23rd annual S&P Global Platts Global Energy Awards.
+1 https://www.ncdc.noaa.gov/billions/time-series 
+2 https://www.washingtonpost.com/climate-environment/2022/01/05/climate-disasters-2021-fires/#:~:text=More%20than%204%20in%2010,percent%20experienced%20
+a%20heat%20w
+ave.
+3 h ttps://www.eia.gov/todayinenergy/detail.php?id=50316
+4 https://rhg.com/research/preliminary-us-emissions-2021/#:~:text=Based%20on%20preliminary%20data%20for,year%20GDP%20growth%20at%205.7%25 
+5 https://www.eia.gov/todayinenergy/detail.php?id=49996
+2
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESOur mission is 
+to make clean, reliable energy affordable for everyone in the world.Transforming Industries
+In addition to our commitment to hydrogen, Bloom Energy 
+has also opened the door to using another sustainable fuel source—biogas. This fall, we announced our first dairy farm biogas project. We are capturing the potent methane gas released from manure at the farm, using it as a fuel to power our Energy Servers. The innovative project showcases Bloom’s broad capabilities at providing on-site, renewable electricity from multiple fuel sources and how waste can be utilized to transform agricultural, landfill, and wastewater treatment industries.
+In another first for Bloom Energy, we are advancing our 
+work in the maritime industry with new partners to build the world’s first cruise ship operating on solid oxide fuel cell technology. While the maritime industry’s greenhouse gas emissions now account for nearly 3% of the world’s total and are projected to increase, with our fuel-flexible technology, we are paving the way for the decarbonization of the maritime industry.
+6
+Leading by Example
+At Bloom Energy, we recognize that sustainability starts with us, and we must lead by example. To that end, we are converting the entirety of our global natural gas fleet to certified responsibly-sourced natural gas. In addition, we entered a new partnership to test and refine elements of the certified gas marketplace and educate stakeholders on its importance.
+We are fostering our employee’s sense of purpose and 
+connection to Bloom Energy with a recently introduced Contribution Assessment Program to provide employees with the resources they need to work effectively, to help them engage in meaningful feedback discussions, and to provide new experiences and training.We are continuing our work to further enhance our company’s diversity by recruiting forward-thinking innovators from a wide array of experiences and backgrounds. By using advertising and outreach—including a focus on underserved communities, universities, university-affiliated student groups, foster youth, and veterans’ associations—we are attracting talented minds to join our team, which is currently 60% ethnically diverse.
+We are also strengthening our relationships with the 
+communities we serve. Just as our teammates rallied to help community members at the beginning of the pandemic through our ventilator work, Bloom employees worked together to raise funds for frontline hospital and healthcare workers through our inaugural “Stars and Strides” community run/walk.
+As a leader driving the reality of a sustainable and energy 
+abundant future, we constantly innovate, build on our success, and continue to challenge ourselves to build our environmental, social and governance (ESG) capacity as an organization. Our technology is garnering top accolades, our story is powerful and the world needs our unique solutions. I look forward to 2022 and everything we will accomplish.
+Sincerely,
+KR Sridhar, Ph.D. 
+Founder, Chairman, and Chief Executive Officer
+6 https://www.reuters.com/business/sustainable-business/shipping-industry-proposes-levy-speed-up-zero-carbon-future-2021-09-06/
+3
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESAbout This Report
+We are proud to present our second annual sustainability report, which 
+covers the progress we have made in advancing our environmental, social and governance (ESG) initiatives during the 2021 calendar year. Where appropriate, we also provide updates on initiatives underway  in 2022.
+This report uses accepted ESG frameworks and standards, including alignment with 
+Sustainability Accounting Standards Board (SASB) standards and the Task Force on Climate-related Financial Disclosures (TCFD) recommendations. Additionally, this report utilizes certain Global Reporting Initiative (GRI) standards and United Nations Sustainable Development Goals (UN SDGs). 
+For specific information about this report or our sustainability program overall, 
+please contact us at sustainability@bloomenergy.com. This report will continue to be issued on an annual basis.
+All information included in this report is for the twelve month period ending 
+December 31, 2021 unless otherwise stated.
+Forward-looking Statements and Other Important Legal Information
+This document and the materials or websites cross-referenced contain statements that are aspirational or reflective 
+of our views about our future performance that constitute “forward-looking statements” within the meaning of the 
+Private Securities Litigation Reform Act of 1995. Forward-looking statements are generally identified through the 
+inclusion of words such as “aim,” “anticipate,” “aspire,” “believe,” commit,” “endeavor,” “estimate,” “expect,” “goal,” “intend,” “may,” “plan,” “seek,” “strive,” “target,” “projection,” “will,” and “work,” or similar statements or variations of such terms and other similar expressions. The forward-looking statements in this document and the materials or websites cross-referenced concern the Company’s goals, progress or expectations with respect to corporate responsibility, sustainability, employees, environmental matters, policy, and business risks and opportunities. Forward-looking statements inherently involve risks and uncertainties that could cause actual results to differ materially from those predicted in such statements. These statements are based on numerous assumptions that we believe are reasonable, but are open to a wide range of uncertainties and business risks. In addition, these statements may be based on standards for measuring progress that are still developing, controls and processes that continue to evolve, and assumptions that are subject to change in the future. Consequently, actual results may vary materially from what is contained in a forward-looking statement. For a further description of the risks and uncertainties that could cause actual results to differ from those expressed in these forward-looking statements, as well as risks relating to our business in general, see our Annual Report on Form 10-K filed with the Securities and Exchange Commission (SEC) on [date], 2022 and our subsequent periodic reports filed with the SEC. Forward-looking statements are aspirational and not guarantees or promises that goals or targets will be met. The Company undertakes no obligation to update 
+any forward- looking or other statements, whether as a result of new information, future events, or otherwise, and 
+notwithstanding any historical practice of doing so. The Company may determine to adjust any goals and targets or establish new ones to reflect changes in our business.
+The information included in, and any issues identified as material for purposes of, this document may not be considered 
+material for SEC reporting purposes. In the context of this report, the term “material” is distinct from, and should not be 
+confused with, such term as defined for SEC reporting purposes.
+Website references and hyperlinks throughout this document are provided for convenience only, and the content on the referenced third-party websites is not incorporated by reference into this report, nor does it constitute a part of this 
+report.
+ 
+ The Company assumes no liability for the content contained on the referenced third-party references.
+4
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESTable of Contents
+13 Materiali ty 
+14
+ Gr
+een Finance Program 
+16
+ Climate Rel
+ated Risks and Opportunities 
+19
+ Alignmen
+t with a Net-Zero Scenario
+12 Our Strategy
+29 Gr eenhouse Gas Emissions 
+29 Ener
+gy Management 
+30 Pr
+oduct Efficiency 
+30 Ener
+gy Intensity
+31 Air Quali
+ty 
+32
+ W
+ater Management
+33 Pr
+oduct Stewardship and Circularity 
+33 Haz
+ardous Materials and Waste Management
+34 Pr
+oduct End-of-Life Management
+27 Environment
+45 GRI Inde x 
+48
+ S
+ASB Index 
+49 T
+CFD Index 
+50 
+Assurance
+44 Appendices
+41 ESG Managemen t and Oversight 
+42 En
+vironmental Management System
+43 Busine
+ss Ethics and Compliance
+40 ESG Management 
+and Oversight
+7 About Us
+8 Sustainabl e Energy for the Digital World
+10
+ Living Our Purpo
+se
+11 T
+he Solid Oxide Platform
+20 Innovation
+21 Inno vation: A Powerful Differentiator
+22
+ Our Sol
+utions
+24
+ Hydr
+ogen: The Future Is Now
+35 People
+36 T aking Care of Our Employees
+38
+ Suppor
+ting Employee Well-Being
+39 Suppor
+ting Our Communities
+6 ESG Highlights
+5
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES2021 ESG HighlightsTOPIC 2021 HIGHLIGHTS SDG ALIGNMENT
+Climate Our weighted average avoided global greenhouse gas emissions from our 
+fleet increased by 4.45%. Our 2021 avoided emissions rate was 31.2% vs. grid alternatives. 
+We have deepened our analysis of the company’s net-zero alignment and 
+impacts of our product innovation.
+Air Quality Due to our non-combustion technology and low levels of criteria pollutant release, our projects saved local health systems throughout the country $16.6 to $37.6 million in estimated health system costs.
+Water Our projects avoided 412 billion gallons of water withdrawals from the power system in drought-stricken California, where most of Bloom’s installed base of Energy Servers is located.
+Waste We continued our strong end-of-life product management performance by maintaining our impressive 98% recycling rate of materials by weight.
+The company avoided 97 tonnes of hazardous waste through our innovative 
+and circular end-of-life program for our desulphurization units, where we recycle material into copper compounds that can be reused and avoid copper
+ 
+extraction.
+Supply ChainWe continued to work with suppliers to enhance our conflict minerals program, increasing our supplier response rate from 82% to 88%. The company also performed its first screening level life-cycle-assessment, looking for impact hot spots to inform further supply chain programming.
+Governance Bloom established an ISO 14001-informed Environmental Management System (EMS) that is consistent with its environmental policy  and provides 
+the framework for managing its environmental impacts in a comprehensive, systematic, planned, and documented manner. This will help ensure the organization is continuously improving its environmental performance.
+Community To support frontline hospital and healthcare workers, we launched our Inaugural Bloom Energy Stars & Strides community run/walk and collaborated 
+with other Bay Area organizations to raise $1.2 million dollars for the Valley Medical Center Foundation.
+6
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+With roots in NASA’s space program, Bloom Energy’s technology was born from innovation. We trace our 
+roots to work performed by KR Sridhar, PhD, our founder, chairman and chief executive officer, to enable a sustainable community on Mars. As a part of that work, Sridhar and his team built an electrolyzer capable of converting Martian atmospheric carbon dioxide into oxygen for life support and propulsion. They soon realized that this technology could have an even greater impact here on Earth – producing electricity from air and fuel. From this idea, our revolutionary Energy Server was born. Our Energy Server is an advanced distributed energy generation platform that provides cost-effective, clean, AlwaysON power. Using solid oxide technology, Bloom’s Energy Servers convert hydrogen, biogas or natural gas into electricity, at high efficiency without combustion, to create clean energy. About Us
+Contents 08 Sustainabl e Energy for the Digital World
+10 Living Our Purpo
+se
+11 T
+he Solid Oxide PlatformABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+7
+2021 Sustainability Report - Solutions for a Decarbonized FutureSustainable Energy for the Digital World
+IndiaSan Jose, 
+CaliforniaDelawareUnited Arab 
+EmiratesSouth 
+Korea
+HEADQUARTERS
+OFFICE LOCATIONS
+MANUFACTURING AND 
+R&D LOCATIONSJapan
+FOUNDED
+Established in 2001 
+as Ion America, renamed Bloom Energy in 2006TECHNOLOGY
+Bloom Energy Servers and Electrolyzers, powered by proprietary solid oxide technologyEMPLOYEES
+1,719  – Global 
+1,404  – U.S. 
+274 – India 
+41 – other countriesSOLUTIONS
+Distributed electricity production, Hydrogen generation, and Marine transportationCUSTOMERS
+100+  customers, 
+across 700+  sitesSYSTEMS DEPLOYED
+740+  megawatts 
+(MW)REVENUE
+2021 revenue of $972.2  millionTaipei, TaiwanShenzhen, 
+China
+O2H2
+ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+8
+2021 Sustainability Report - Solutions for a Decarbonized FutureSUSTAINABLE ENERGY FOR THE DIGITAL WORLD LIVING OUR PURPOSE THE SOLID OXIDE PLATFORMOur Mission
+To make clean, reliable energy affordable  
+for everyone in the world.
+Our Values
+At Bloom Energy, our values define who we are and shape our corporate culture. 
+Changing the future of energy is no small task, but our diverse group of thinkers, solvers and dreamers are up to the challenge. Driven by a shared passion for our planet, our employees help design, produce and distribute unique energy solutions that transform how we power our world.
+To achieve our mission of energy abundance without compromises, we strive to:
+BE Bold
+We always challenge the status quo to exceed our 
+customers’ needs and solve their most complex problems.
+BE Inspired
+Our compassion for our planet pushes us to deliver world-leading energy solutions. Our compassion and desire to do the right thing establishes trust and delivers excellence to the products we build and the customers we serve.
+BE Agile
+We adapt nascent ideas into best-in-class products that enable scalable, low-cost energy transformation.
+These shared values are what power our team to create a better, more sustainable future.The Future of Energy Starts Here
+Our Value Proposition
+An unwavering passion for creating a clean, healthy, and energy abundant world.
+Bloom Energy empowers businesses 
+and communities to responsibly take charge of their energy.
+Resilient
+Uninterrupted power 
+without compromise.Predictable
+Fixed power prices 
+over the long-term.Sustainable
+Addressing both the causes & 
+consequences of climate change.
+Empowering the Future
+Our future-proof energy platform unlocks multiple pathways to zero-carbon.Recognitions
+Power Generation
+Our power solutions including our AlwaysON microgrids, 
+carbon capture enabled systems, and those designed to run on biogas or hydrogen drive deep decarbonization potential.
+Hydrogen Production
+We’re leveraging our proven solid oxide platform to generate carbon-free hydrogen from renewable electricity
+Marine Decarbonization
+We’re engineering fuel-flexible solutions to reduce reliance on dirty fuels and accelerate decarbonization at sea.
+ Emerging Technology 
+ of the Y earWorld Changing  
+Ideas Award
+ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+9
+2021 Sustainability Report - Solutions for a Decarbonized FutureSUSTAINABLE ENERGY FOR THE DIGITAL WORLD LIVING OUR PURPOSE THE SOLID OXIDE PLATFORMTyrone Jones
+Senior Manager, Policy & Public AffairsIvor Castelino
+Managing Director, Structured Finance & 
+Business DevelopmentHarry Oh
+Managing Director at Bloom Energy KoreaAndrea Rodriguez
+University Talent Program ManagerSharelynn Moore
+CMO, EVP, Marketing
+I am humbled to work in a culture that allows me to 
+be genuine and bring my whole self to work. I truly believe that the purpose of Bloom and who I am, both personally and professionally, enable me to put power behind my pledge.In college, I experienced unreliable energy first-hand. At times, we’d only have power for a few hours a day. Working at
+ 
+Bloom Energy
+ 
+allows me to fulfill my 
+passion for energy equality. We provide access to clean, resilient power, creating energy equality for all. This is what powers me.Working at Bloom means you are contributing towards living in a carbon-free society. Bloom’s resilient, predictable and sustainable clean energy solutions are leading the way. And I am proud to be part of it!Working at Bloom Energy means committing to creating a clean, healthy, and energy abundant world. It’s empowering to work for a company that goes beyond the imaginable.What powers me is the virtuous cycle of being part 
+of a technology company that can do good in the world and aid decarbonization. The more we advance our technology, the better we can do in the world. As we flourish, we hire more people. This enables our employees to give back to their communities and Bloom Energy to invest more in philanthropy and R&D.
+#WhatPowersY ouI promise to be part of something bigger than myself
+#WhatPowersY ouI promise to do what’s best for our world
+#WhatPowersY ouI promise to make zero carbon a reality
+#WhatPowersY ouI promise to be part of something bigger than myself
+#WhatPowersY ouI promise to bring positive global change
+`
+Marisa Blackshire
+Senior Director, Environmental Compliance 
+and EHSSelwyn Simmons
+Account ExecutiveChuck Moesta
+VP Business Dev. Gas Manageme ntFaraz Ahmed
+Field Application Engineer, DubaiJessica Mahler
+Engineering Director
+I am passionate about technology that is reliable, 
+affordable, and improves air qual ity.What powers me is delivering clean, low-cost, zero-combustion energy to the world while simultaneously reducing CO
+2 emissions.Great to be a part of Bloom Energy and helping to drive the energy transition. I’m committed to leaving a better planet for my children and grandchildren. This is what powers me.I am committed to creating a clean, healthy and energy-abundant future. I promise to
+ 
+be the solution.Working at Bloom Energy means committing to creating a clean, healthy, and energy abundant world. 
+I promise to be the solution.
+#WhatPowersY ouI promise to be 
+the solution
+#WhatPowersY ouI promise choose clean energy
+#WhatPowersY ouI promise to power a better tomorrow
+#WhatPowersY ouI promise choose clean energy
+#WhatPowersY ouI promise to power a better tomorrowLiving Our PurposeAt Bloom, our employees are powered by their desire to create sustainable energy. We asked them to share 
+why they’re passionate about creating a cleaner, energy abundant world. This is what powers them.
+ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+10
+2021 Sustainability Report - Solutions for a Decarbonized FutureSUSTAINABLE ENERGY FOR THE DIGITAL WORLD LIVING OUR PURPOSE THE SOLID OXIDE PLATFORMThe Solid Oxide Platform
+Reaction produces 
+Hydrogen and 
+Oxygen
+Air passes over 
+the CathodeHow Fuel Cells Work How Electrolyzers Work
+Energy Server Bloom ElectrolyzerAnode
+Electrolyte
+CathodeFuel passes over 
+the Anode
+Reaction 
+produces 
+Electricity
+Air passes over 
+the AnodeSteam passes over 
+the CathodeCathode
+Electrolyte
+AnodeH
+Electricity
+ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+11
+2021 Sustainability Report - Solutions for a Decarbonized FutureSUSTAINABLE ENERGY FOR THE DIGITAL WORLD LIVING OUR PURPOSE THE SOLID OXIDE PLATFORMOur Strategy
+Contents 13 Materiali ty
+14
+ Gr
+een Finance Program
+16
+ Climate Rel
+ated Risks and Opportunities
+19
+ Alignmen
+t with a Net-Zero Scenario
+12
+2021 Sustainability Report - Solutions for a Decarbonized Future12ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+2021 Sustainability Report - Solutions for a Decarbonized FutureMateriality
+In 2021 we continued advancing our strategic agenda, deepening the company’s focus on its material 
+issues, developing our capacity internally, and advancing our commercial strategy in response to a rapidly evolving set of energy sector considerations.
+Community 
+ & Business 
+Resilience Inclusion and 
+Diversity
+Domestic  
+Manufacturing
+Product Safety
+Air Quality
+Fossil  
+TransitionCorporate 
+ Financial  
+Viability
+Renewable Fuels
+Climate Action/ 
+Decarbonization
+Corporate EthicsInnovation PeopleManagement EnvironmentIn September 2020, we issued the $230 million aggregate principal amount of our 2.50% Green Convertible Senior Notes due 2025 (the “Green Notes”). The investment framework reinforces our commitment to decarbonization and energy sector transformation by directing proceeds toward renewable energy projects and microgrid componentry, along with research and development detailed in the Innovation  Section . 
+The Green Notes were aligned with the International Capital Market Association’s Green Bond Principles (GBP), and a positive second party opinion was provided by Sustainalytics. We now have an annual obligation to report on use of proceeds and enabled impact across the investment framework, and we are pleased to provide our second report below, also reviewed  by Sustainalytics.Green Finance Program
+MATERIALITY GREEN FINANCE PROGRAM CLIMATE RELATED RISKS AND OPPORTUNITIES ALIGNMENT WITH A NET-ZERO SCENARIO
+13
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESGreen Notes Management Framework
+GBP ELIGIBLE 
+PROJECT CATEGORY ELIGIBILITY CRITERIA AND EXAMPLE PROJECTS ENVIRONMENTAL BENEFITSDG ALIGNMENT
+Use of Proceeds
+EXCLUDED FROM PROCEEDS
+Natural Gas
+Specifically excluded from the 
+Use of Proceeds are research and development (R&D), manufacturing, and fuel cell stack replacement activities related to natural gas applications. An exception to the R&D exclusion is R&D for carbon capture applications in order to enable BECCS projects.Renewable Energy Expenditures related to the manufacturing, construction, development, acquisition, 
+maintenance, and operation of Bloom’s renewable energy projects including biogas, hydrogen, and bioenergy to carbon capture (BECCS) applications.Energy Servers running on renewable biogas or hydrogen emit no greenhouse gases (GHG) with continued air quality, water, resilience, and land use benefits. BECCS projects may be carbon - negative with carbon
+ 
+removal. 
+Electrolyzing hydrogen from water using excess renewable generation creates a valuable form of renewable energy storage, which further enables wind and solar capacity and integration. Green hydrogen can also be used as renewable fuel in transport applications, displacing fossil alternatives, and can help reduce emissions in other hard-to-decarbonize sectors like
+ 
+buildings.
+Energy Efficiency Expenditures related to energy efficiency projects, including expenditures related to the replacement of fuel cell stacks for Energy Servers running on biogas or hydrogen and those transitioning into full hydrogen compatibility.Stack replacement improves efficiency for existing customers as fuel cells degrade over time, and lets them upgrade to full hydrogen compatibility.
+Climate Change AdaptationExpenditures related to manufacturing, construction, research, development, maintenance, and operation of microgrid specific componentry.Enables energy independence for critical community and business infrastructure threatened by climate-related grid instability. Bloom microgrids can also replace diesel backup generation, reducing GHG and air pollution.
+Sustainable Water and Wastewater ManagementExpenditures related to water efficiency projects and wastewater management including efficiency in water management of electrolyzer and fuel cell systems.Bloom’s electrolyzer technology enables efficient water use during the process of electrolysis.
+Pollution Prevention and ControlExpenditures related to reduction of air emissions, greenhouse gas control, soil remediation, waste prevention reduction, and recycling, and energy/emission-efficient waste to energy projects such as product end-of-life recycling.Enables reuse and recycling of 98% of Energy Server components.
+Green Buildings Expenditures related to new construction, upgrades, and buildout of properties that have received or are expected to receive LEED Gold or Platinum, BREEAM Very Good, Excellent or Outstanding, or Energy Star certifications.Reduces impact from corporate building and manufacturing footprint.
+Clean and Mass TransportationExpenditures related to electric vehicle (EV) or hydrogen charging infrastructure, including the manufacture and development of Energy Servers with EV charging capability, EV charging componentry, and electrolyzers to generate renewable hydrogen fuel for transport applications.Energy Servers natively produce DC power and can be configured to serve as resilient and low-carbon charging infrastructure for fleets and vehicles.Electrolyzers can generate renewable hydrogen fuel for use in zero-carbon land, ship, and air-based transportation applications.
+EvaluationWe have multiple budgeting and project evaluation processes established which we have extended to support our green notes approval process. We have a capital review committee that reviews large expenditures as well as quarterly, annual, and multi-year budgeting cycles that serve as an approval platform for access to proceeds generated by our Green Notes. Final approval will be made jointly by our Treasurer and our Chief Financial Officer.
+Fund TrackingWe have established an internal tracking system to monitor and account for the proceeds. Pending allocation of an amount equal to the net proceeds to eligible projects, proceeds will be invested in cash, cash equivalents, or liquid securities in accordance with our investment policy. As proceeds are allocated to the Green Notes, the amount of proceeds invested in cash or liquid securities will be reduced accordingly. In the case of divestment or if a project no longer meets the eligibility criteria, the funds will be reallocated to other eligible projects. Payment of principal and interest will be made from our general account and not be linked to the performance of the eligible projects.
+ReportingAnnually, until all the proceeds have been allocated, we will publish a Green Notes Report within this Sustainability Report that will include (i) the amount of net proceeds allocated to each Eligible Project Category, (ii) expected impact metrics that may include carbon dioxide equivalent (CO
+2e) emissions avoided, criteria pollutant emissions avoided, and water savings, where feasible, (iii) a selection of brief project descriptions, and (iv) the outstanding amount of net 
+proceeds yet to be allocated to projects at the end of the reporting period.
+MATERIALITY GREEN FINANCE PROGRAM CLIMATE RELATED RISKS AND OPPORTUNITIES ALIGNMENT WITH A NET-ZERO SCENARIO
+14
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES2021 Annual Progress Report
+In 2021, we allocated 19% of our green notes to finance a variety 
+of environmentally impactful projects such as end-of-life recycling, renewable energy, and resilient microgrid research and development. Our green note allocation through the end of 2021 is summarized below.
+NOTE DETAILS
+Issuer Bloom Energy Corp.
+Issue Date 8/11/2020
+Currency USD
+Tenor 5 year
+Issued Amount $230 million
+CUSIP 093712107
+ISIN US0937121079
+Use of Proceeds US Dollar ValueAllocated Percentage of 
+Notes to Date
+Amount distributed to eligible projects$105,900,000 46%Total Allocated
+Per Reporting Period 27%
+2018-2020
+19%
+202154% 
+UnallocatedUSE OF PROCEEDS 
+CATEGORYPROJECTS FINANCEDENVIRONMENTAL IMPACTS REPORTED
+Renewable Energy Biogas Research 
+and Development (R&D)
+Bloom is still in the process of measuring the environmental impact of the projects in this category.Biogas Energy Servers
+Hydrogen Energy 
+Servers
+Hydrogen R&DElectrolyzer R&D
+Climate Change 
+AdaptationMicrogrid 
+ComponentryIn CY2021, the microgrid componentry funded by the proceeds helped facilitate 200 ride-through events1 for customers, carrying a total 
+of 31,934 MWh of energy demand over 34,894 minutes of grid outages. From August 11, 2018 (Bloom’s lookback date) to December 31, 
+2020, Bloom’s microgrids facilitated 115 ride-through events for customers, carrying a total of 6,558 MWh of energy demand over 13,823 minutes of grid outages.Microgrid R&D
+Pollution 
+Prevention and ControlEnd of Life 
+Recycling Activity98% of products by weight that are sold are either recyclable or reusable.
+Weight of end-of-life material recovered and avoided landfill by year:
+•
+ 910 me
+tric tonnes in 2018
+•
+ 1,135 me
+tric tonnes in 2019•
+ 1,420 me
+tric tonnes in 2020
+•
+ 1,7
+38 metric tonnes in 2021
+Green Buildings None Bloom is currently constructing a new manufacturing facility in Fremont, California and is evaluating green building solutions to 
+incorporate into the design in 2022.
+Bloom’s headquarters were moved to a Level Gold Leadership in Energy and Environmental Design (LEED) certified building in Q3 2018. 
+These are the measurable environmental results that have been achieved by occupying a LEED certified building:
+Water
+• T he building is reducing its 
+indoor potable water use by at least 40% compared to baseline building.
+•
+ Irrigation and outdoor w
+ater 
+uses are reducing potable water use by at least 50% compared to a similar landscaped area.Energy
+• C ore and Shell 
+building is reducing its energy consumption by 28% compared to similar baseline buildings.Materials
+• T he project was able to divert at least 
+75% of its construction and demolition waste from the landfill during the construction phase.
+•
+ At l
+east 20% of the building materials 
+(by cost) were sourced from recycled content.
+•
+ At l
+east 20% of the building materials (by 
+cost) were harvested and manufactured within 500 miles of the project site.Indoor Environmental 
+Quality
+• 90% or mor e of the floor 
+areas have direct line of 
+sight to the outdoors.
+•
+ 75% or mor
+e of the floor 
+plan has at least 25 foot-candles of daylight during typical occupancy hours.
+Amount Allocated 
+in CY2021$42.9 million
+Total Allocated $105.9 million
+Total Funds Raised $230 million
+Total Unallocated $124.1 million
+1 Ride-thr ough events are those where a Bloom microgrid supplies power to a customer during a grid outage.
+MATERIALITY GREEN FINANCE PROGRAM CLIMATE RELATED RISKS AND OPPORTUNITIES ALIGNMENT WITH A NET-ZERO SCENARIO
+15
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESClimate Related Risks and Opportunities
+Market & Technology Shifts
+Risks Opportunities
+Time Horizon Medium-term Time Horizon Medium-term
+Description Acceleration of renewable energy procurement goals may occur. Description Increased customer interest in delivery of reliable, resilient, renewable, and/or zero-carbon baseload power creates opportunities for our innovative product offerings 
+and expands market opportunities to new utility scale applications.
+The focus on rapid decarbonization in the transportation sector expands market opportunities into transportation fuel, including electricity and hydrogen.
+IMPACT ON BUSINESS STRATEGY & FINANCIAL PLANNING
+The impact of natural gas-based customer concerns may require us to provide a greater 
+volume of renewable fuel options to our customer base with additional cost and shorter delivery timelines. Alternatively, we may need to develop a commercial offer for fuel cell stack upgrades to 100% hydrogen compatibility, which will require additional R&D investment and the development of formalized contractual and commercial commitments.We will need to develop in-house product development, engineering, and commercial expertise across a range of new applications. We will also need to develop new partnerships, including 
+new utility partnerships, to help position and test new technology and business models.
+MANAGEMENT ACTIONS IN RESPONSE
+We have announced our intention to diversify our customer base and product offerings, including through several high-profile commercial partnerships. We are expanding our offerings strategically including zero-carbon, renewable and carbon-negative power, and transportation solutions. Read more about those innovations in the Innovation section. In further response to the risk, our Green Notes, detailed earlier in the report, are dedicated to R&D and commercial development of renewable solutions with no application of the proceeds toward natural gas-based projects.We have expanded our partnership with Korean conglomerate SK ecoplant, an affiliate of SK Group, through an agreement that includes establishing a leading position in the hydrogen economy. The partnership includes SK ecoplant purchasing a minimum of 500 MW from Bloom Energy, representing a $4.5 billion revenue commitment; co-creating two hydrogen innovation centers; and targeting an equity investment of approximately $500 million.
+Additionally, the company has brought on several key product and commercial leaders with 
+deep experience in the energy and renewables industry to help drive innovation. They include:
+Executive Vice President, Sales – America
+Prior to joining Bloom, Billy Brooks oversaw the development of utility scale solar generation assets at a provider of clean energy solutions and services. With his experience, Brooks will help Bloom Energy position its emerging product offerings.
+Vice President, Global Product Management
+Deia Bayoumi has more than 20 years of experience leading global product management. He will be central to the company’s efforts to advance its product innovation.Vice President, Hydrogen Business
+Rick Beuttel oversaw the development and execution of large-scale energy projects, largely focused on hydrogen at his former company. He will help define Bloom’s hydrogen-related market strategy and develop relationships with industry leaders to continue momentum around Bloom’s hydrogen technology.
+Vice President, Gas Management
+Chuck Moesta previously led the development and implementation of new market growth initiatives, including groundwater desalination, wastewater reuse and biogas/waste-to-energy applications. He will drive expansion of Bloom’s bioenergy
+-
+related work.
+Senior Managing Director, International Business Development and Marine
+In addition to his 33 years of global business experience, Tim Schweikert has been leading the development of Bloom’s transformational marine offering on a contractual basis. His new appointment will help drive key international expansion opportunities.We take climate change risk seriously. While our products and technologies can help customers respond to current climate risks and mitigate future effects by reducing GHG emissions, we understand that our business is 
+subject to those same risks. We expect climate considerations to drive fundamental shifts in the energy industry for years to come. We identify climate-related business impacts in our Annual Report on Form 10-K , but 
+in response to TCFD recommendations, we identify in this section climate-related risks, opportunities, and management responses across four dimensions: market and technology shifts, reputation, policy and legal, and physical. We will continue to evaluate and formalize responses to risks as they arise through our emerging ESG management structure detailed in the Governance section .
+0-3 years
+Near-term3-10 yearsMedium-term10-30 yearsLong-term
+MATERIALITY GREEN FINANCE PROGRAM CLIMATE RELATED RISKS AND OPPORTUNITIES ALIGNMENT WITH A NET-ZERO SCENARIO
+16
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESReputation
+Risks Opportunities
+Time Horizon Near-term, Medium-term Time Horizon Near-term, Medium-term
+Description As the energy transition intensifies, industry, 
+non-governmental organizations (NGOs), 
+and policymakers may develop opposing viewpoints. Our unique deployment characteristics and value proposition may require us to engage across stakeholder groups in a nuanced and data-driven manner.Description Bloom is positioned as a thought leader on critical resilience and mitigation efforts. Additionally, emergency response to extreme weather events holds the potential to deliver policy and community stakeholder recognition.
+Continued delivery of community impact 
+projects can provide a platform for stakeholder engagement with the potential for reputational enhancement.
+Pilot activity can demonstrate new operating 
+models applicable beyond Bloom, reinforcing the company’s leadership position.
+IMPACT ON BUSINESS STRATEGY & FINANCIAL PLANNING
+The impact of natural gas-based customer concerns may grow, and solutions may include providing renewable fuel options and equipment upgrades to 100% hydrogen compatibility, which will require additional R&D investment and the development of formalized contractual and commercial commitments.The management team recognizes the benefit of business activities that impact local communities. The company will need to continue to devote resources to market development outside of traditional corporate commercial and industrial clients. An ongoing focus will be placed on microgrid offerings for cities and critical infrastructure like hospitals, as well as enhancing biogas-related market development, which serves key public infrastructure like wastewater treatment plants.
+MANAGEMENT ACTIONS IN RESPONSE
+In 2020, we brought on two senior leaders to drive external engagement: Sharelynn Moore, executive vice president and chief marketing officer, and Carl Guardino, executive vice president of government affairs and policy, who has championed public policy at the local, state and federal levels for more than three decades. In 2021, we strengthened our leadership team focused on reputational issues by adding Danielle Herrick, senior director of legal compliance & ethics, to continuously improve our ethics and compliance program to ensure the company lives its values every day.The company has effectively productized disaster preparedness, emergency response and community resilience for critical infrastructure, and has built dedicated commercial teams 
+advancing a variety of public impact projects.
+We have also funded additional community development 
+initiatives from our policy and sustainability teams which may improve relationships with the communities we serve, including the build-out of a dedicated community development focused team. More about this can be found in the People Section.
+The company has also realized its commitment to source certified 
+responsibly-sourced natural gas certificates for all of its North 
+American customers as of January 2022 and has become a leading early-market participant in the certified gas market. We have challenged leaders across the energy sector to join us in the effort. Read more about the program in the Innovation section.Policy & Legal
+Risks Opportunities
+Time Horizon Near-term, Medium-term, Long-term Time Horizon Near-term, Medium-term
+Description In some jurisdictions, our requests for utility service connection have been denied, or have been approved subject to additional operating conditions. This includes restrictions to natural gas system interconnection. 
+We may be subject to a heightened risk of 
+regulation and a potential loss of certain enabling incentives. 
+Our projects may also become subject to 
+carbon pricing.Description New federal and state incentives for biogas, hydrogen and carbon capture, and utilization and storage (CCUS) related energy projects are possible, including funding for hydrogen hubs and the potential for a federal hydrogen production tax credit, adjustments to 45Q tax provisions for CCUS projects and eRIN credit for biogas to EV renewable fuel pathways.
+The blending of renewable hydrogen into 
+existing natural gas infrastructure is also being tested actively by several gas utilities domestically, which offers opportunities for large-scale hydrogen offtake from our emerging electrolysis business and could help decarbonize fuel cell projects in our traditional commercial and industrial customer bases.
+IMPACT ON BUSINESS STRATEGY & FINANCIAL PLANNING
+Loss of gas access or enabling incentives may limit our ability to offer services to certain customer segments in certain regions. The introduction of meaningful carbon pricing may erode savings that drive customer value from our natural gas-fueled energy servers.These opportunities drive material incentive dollars applicable to Bloom projects with direct benefit to corporate financial performance. For example, the Federal ITC has provided up to a 30% benefit applicable to Bloom projects. New incentives under consideration can provide similar impacts.
+MANAGEMENT ACTIONS IN RESPONSE
+The Bloom policy team is directly engaged with relevant regulatory and policy authorities in key markets to maintain incentive structures, clarify exposure to carbon pricing regimes and regulatory issues associated with gas access. Key to the company’s regulatory efforts is newly added regulatory lead Arthur Haubenstock, vice president regulatory law, who has significant experience working for independent power producers, technology innovators, major utilities and governmental agencies who will help position the company for its next stage of strategic regulatory engagement.Our policy, legal and regulatory teams and consultants are focused heavily on direct policy engagement on local, state, and federal levels, as well as participation in key multi-stakeholder working groups such as the Fuel Cell and Hydrogen Industry Association and Green Hydrogen
+ 
+Coalition.
+Bloom and Southern California Gas Company (SoCalGas) are conducting a hydrogen blending project in 2022, further discussed in the Innovation section.
+MATERIALITY GREEN FINANCE PROGRAM CLIMATE RELATED RISKS AND OPPORTUNITIES ALIGNMENT WITH A NET-ZERO SCENARIO
+17
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESPhysical Risks
+Risks Opportunities
+Time Horizon Medium-term, Long-term Time Horizon Near-term, Medium-term, Long-term
+Description We rely on a limited number of third-party 
+suppliers for some of the raw materials and components for our Energy Servers. Our supply chain could be disrupted by severe weather events.
+Our offices and manufacturing facilities could 
+be impacted by climate-driven severe weather. Similarly, Bloom equipment in operation could be impacted by physical climate risks.Description Climate-driven severe weather (including wildfires, hurricanes and winter storms) will continue to intensify, straining grid operations and incentivizing resilient power solutions like our microgrids.
+IMPACT ON BUSINESS STRATEGY & FINANCIAL PLANNING
+If our operations, supply chain or equipment operation is disrupted by climate-driven severe weather, we may face material financial impacts.We will need to continue to invest in our microgrid offerings and increase the variety of resiliency options made available to customers. In 2021, microgrid sales increased and we expect demand for microgrids to continue to drive material aspects of corporate financial performance.
+MANAGEMENT ACTIONS IN RESPONSE
+We have created an internal Sourcing Council designed to mitigate business continuity risk and minimize compliance exposure, and have taken steps over the last several years to diversify our supplier base. Read more about these important initiatives in the Environment section.
+The development of virtual hybrid work structures for our office 
+staff due to the COVID-19 pandemic provides a framework for business continuity for our non-manufacturing staff. Additionally, Bloom has leased a new 164,000 square foot primary manufacturing facility in Fremont, California where the company will produce new equipment. The new manufacturing facility will benefit from enhanced resilience measures.
+Bloom’s equipment deployment model is inherently resilient. 
+We deploy in a small scale and distributed fashion, reducing risk of any one severe weather event impacting our fleet broadly. Additionally, Bloom has a unique deal structure. Most Bloom Energy Servers are sold through a Power Purchase Agreement (PPA) model, where Bloom equipment is sold to a third-party investor and power is then sold on to end users who subsequently service their equipment through Bloom. This provides additional climate risk mitigation for Bloom, as it does not own the equipment it services.Already identified as a leader in microgrid deployments with 140 projects installed to date, we are further investing in our microgrid capabilities, including through proceeds from our green notes, and exploring utility partnership models for public safety power shutoff (PSPS) mitigation. We have also developed skid
+-
+mounted, quick-deploy microgrid solutions, deployable in as 
+few as thirty days, that are removable to provide more flexibility to corporate tenants.
+MATERIALITY GREEN FINANCE PROGRAM CLIMATE RELATED RISKS AND OPPORTUNITIES ALIGNMENT WITH A NET-ZERO SCENARIO
+18
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESLast year, we evaluated whether our forward-looking business opportunities 
+are aligned with prevailing net-zero scenarios by 2050. We looked at the International Energy Agency (IEA)’s World Energy Outlook Stated Policies and Sustainable Development Scenarios and the underlying Intergovernmental Panel on Climate Change (IPCC) models to understand global research on the transition to decarbonized energy and compare it at a high level to the viability and timing of Bloom’s developing offers.
+This year we go a step further, and model the carbon and financial impact 
+of our product portfolio which aids in decarbonization across key elements of the energy sector’s contribution to a net-zero trajectory. We include projections through 2030 on the impact of our commercial strategy, from both a climate and financial lens in the following Innovation Section.
+Bloom’s product and commercial strategy offers incredible potential 
+to support the decarbonization of the energy sector as evidenced by the graphic. IEA data indicates that carbon reductions from solar and wind deployments, fuel switching, biogas, CCUS, reduction of upstream methane emissions, marine and hydrogen offer the potential to contribute to approximately 430 gigatons of carbon mitigation in alignment with the sustainable development scenario.
+Targets
+The company understands that sustainability targets and measurements are critical to guiding the business away from potential risks and toward opportunities. We continue to work to bring a comprehensive suite of corporate goals forward and have been focused on developing the appropriate framework for our unique business, greenhouse gas inventory approach and product deployment model. We have conducted a materiality mapping and benchmarking effort to understand the areas of highest impact for our sector and business.
+Our areas of focus for near, medium, and long-term target setting include: 
+greenhouse gases, renewable energy procurement, waste management, water reduction, upstream supply chain, product stewardship, and inclusion and diversity. We are evaluating the appropriateness of prevailing target setting standards, including science-based greenhouse gas targets. Until such time as we may announce targets, in the interest of transparency, we are presenting our initial impact projections mapped against our potential contribution to a transitioning energy sector. Such projections are estimated based on our current long-term operating plan and are not intended to be, and should not be construed as representing, company targets or goals in this area, which are still under development.
+-25-20-15Gt CO2-10-502020 2030 2040 2050ABATEMENT STRATEGY BLOOM CONTRIBUTION
+Hydrogen The Bloom Electrolyzer enables various types of hydrogen production and 
+our solid-oxide fuel cell can utilize hydrogen as a fuel feedstock, enabling two pathways for Bloom to contribute to the growth of the hydrogen economy. Dozens of countries across the globe have committed to net
+-
+zero emissions goals by 
+2050, and more than 30 countries have hydrogen
+-
+specific strategies that are 
+being activated. Hydrogen is well-suited for an array of applications, including transportation, and unlocks a net-zero emissions future for hard-to-decarbonize heavy industries.
+Bioenergy/
+BiogasThrough our pioneering use of onsite biogas, our solutions help mitigate methane 
+release and increase the viability of onsite, renewable power production particularly for agricultural and municipal waste sources.
+Renewables 
+(Solar and Wind)Bloom’s electrolyzer produces green hydrogen from solar and wind, and can 
+utilize otherwise curtailed energy from renewable projects, helping increase the capacity factor and economic viability of renewable projects. Additionally, hydrogen storage can helps balance intermittency (particularly seasonally) critical to continued renewable penetration.
+Electrification 
+of End-Use SectorsBloom supports end use electrification of buildings and the transportation sector. 
+Our distributed fuel cells are typically grid connected, helping with resilience of electrified buildings, and our systems produce DC power natively, ideal for serving fast charging EV systems for vehicles and port infrastructure. Additionally, Bloom is electrifying marine vessels, replacing some of the dirtiest fuels in use today.
+Fuel Shifts 
+(coal + oil to gas)Our solid oxide platform makes the most efficient use of natural gas in the power 
+sector today. As we begin moving our solutions from behind to the front of the meter, and expand to regions focused on a move toward gas, we can help displace coal generation as a cleaner baseload option.
+Technology 
+Performance/EfficiencyOur technology operates at a higher efficiency than other power generation 
+or hydrogen production technologies. Additionally, we can serve as a part of integrated multi-technology microgrids, which help maximize the capabilities of each individual technology component. We are actively sending a market signal to upstream gas producers to enhance their performance through our offtake of certified gas attributes.
+CCUS Our ability to efficiently separate relatively pure streams of CO2 is rare in power 
+generation. Our flexibility provides the potential for distributed carbon utilization as well as large scale sequestration capability with streams of CO
+2 devoid of 
+nitrogen which is typically present in combustion generation and is expensive and inefficient to separate.Alignment with a Net-Zero Scenario
+Approximately 430 
+Gt CO2 Mitigation 
+Potential Related to Bloom’s Technology Roadmap
+MATERIALITY GREEN FINANCE PROGRAM CLIMATE RELATED RISKS AND OPPORTUNITIES ALIGNMENT WITH A NET-ZERO SCENARIO
+19
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESInnovation Bloom Energy has been at the forefront of energy innovation for more than two decades, providing 
+alternatives to centralized energy in the form of on-site power generation. We developed the first large-scale, commercially viable solid oxide-based power generation platform that allows organizations, essential services, critical infrastructure, and communities to responsibly take charge of their energy. In addition, the same solid oxide platform can be harnessed to produce and utilize hydrogen, recognized as the renewable fuel of the future. 
+For more information on our history of innovation please see last year’s sustainability report.
+Contents 21 Inno vation: A Powerful Differentiator
+22
+ Our Sol
+utions
+24
+ Hydr
+ogen: The Future Is Now
+2021 Sustainability Report - Solutions for a Decarbonized Future
+20ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESInnovation: A Powerful Differentiator
+Bloom Energy has been at the forefront of the 
+energy sector since one of our co-founders built a hydrogen fuel cell intended for use on NASA space missions. Since Bloom was officially founded nearly two decades ago, we have been working to offer alternatives to centralized energy generation and delivery. We believe in the power of flexible and modular solutions that allow organizations and communities to customize the operational and sustainability profile of the power they consume. We are leveraging innovation as part of our strategy to transition to a low and net-zero carbon economy and to provide solutions to challenging problems. As the world moves toward decarbonization, our technology is ready to meet the requirements of our customers in alignment with a transformed energy sector that limits the trajectory of climate change. We are committed to playing a significant role in the global clean energy transition, and managing our climate risks and opportunities.
+  P ower gen includes Product, 
+Install, Electricity & Service for our 
+current SOFC business including natural gas, renewable fuels, and hydrogen
+  Decarbonizing technologies 
+incl
+udes sales for Electrolyzers & 
+Utility - scale Carbon Capture
+  Marine r epresents the future 
+SOFC business on the Marine platform
+Sustain Power Gen 
+Leadership
+•
+ Re
+silient, AlwaysOn power
+•
+ T
+ime to Power
+•
+ C
+ost predictabilityLeadership in Electrolyzer 
+and Carbon Capture
+•
+ Be
+st in class technology
+•
+ P
+artners & ecosystem 
+developmentTransform Marine Market• 
+ Unique o
+ffering to meet ESG 
+requirementsBloom has produced a long-term operating projection through 2031 that provides a breakdown of 
+revenue potential from a cross-section of our diversified commercial activities.
+As our platform expands, our impact accelerates
+2021 2026 2031$1B$2.5-3B$8-10B
+Power Gen
+(SOFC)$6-8B
+Decarbonizing
+Technologies$1-2B
+Marine
+$1-2B$4-5B$15-20B 30-35%
+Total Company
+CAGR
+25-30%
+CAGR
+Power Gen+5pp CAGR
+Making Clean Energy 
+Efficient and Affordable
+28% annual learn rate (cost down) 
+driven by: supplier diversity, scale, and technology advancementsProjected Impacts
+We used our long-term operating projections to inform an analysis of the possible impacts enabled by 
+the achievement of our commercial potential. Using the same type of methodology we use to track our annual avoided impact reporting, we used a series of assumptions surrounding the likely alternatives displaced by our projects. This included assumptions associated with regional/national emission and water consumption rates from marginal generators on the grid, and displaced alternatives from the utilization of hydrogen we produce. We used EPA tools to produce equivalencies including the Greenhouse Gas Equivalency Calculator and Co-Benefits Risk Assessment Health Impacts Screening and Mapping Tool (COBRA). The consulting firm Ramboll reviewed the commercial projections, Bloom equipment performance modeling, and impact factors utilized and found the calculation methodology to be sound. Additional breakdown by solution can be found further in the section. We estimate, given 
+achievement of our long-term operating projection, that by 2031:
+All of Bloom’s solutions provide climate, air quality, and water benefits to 
+customers and their communities
+OUR SOLUTIONS WILL A VOID APPROXIMATELY
+Equivalent to
+362-774M
+tonnes of GHGs1 79-168M
+cars being taken off the road
+226-682B
+gallons of water2Enough water to supply
+6-18M
+people’s domestic water usage for a  year
+$131B-$205B
+in US equivalent healthcare costs treating symptoms of air pollution3
+1. https://www.epa.gov/egrid/download-data
+ 
+https://www.iges.or.jp/en/pub/list-grid-emission-factor/en
+ 
+https://cea.nic.in/cdm-co2-baseline-database/?lang=en
+ 
+https://www.epa.gov/climateleadership/ghg-emission-factors-hub)
+2 https://www.wri. org/research/guidance-calculating-water-use-embedded-purchased-electricity
+ 
+https://www.nrel.gov/docs/fy11osti/50900.pdf
+3 https://cobra.epa .gov/
+21
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+MAKING CLEAN ENERGY EFFICIENT AND AFFORDABLE INNOV ATION: A POWERFUL DIFFERENTIATOR OUR SOLUTIONS HYDROGEN: THE FUTURE IS NOWOur Solutions
+We have committed to strategic expansion across our solid oxide platform spanning zero-carbon, renewable, and carbon-negative power, and transportation 
+solutions. Our platform delivers distributed electricity and hydrogen production through our solid oxide fuel cells and our solid oxide electrolyzers, respectively. We are excited by the potential of these solutions to empower us to deliver on our mission to make clean, reliable, and affordable energy for all and to drive our commercial success.
+In 2021, we helped our 
+customers ride through more than 1,008 hours of downtime between 607 outages across 71 sites — and kept critical services functional through severe weather events and over-burdened utility systems
+Natural Gas Fuel Cells & Microgrids Biogas
+Solution
+While we drive ahead to transform the energy landscape with our technology evolution, our 
+primary power and AlwaysON and microgrid offerings utilizing natural gas as fuel feedstock continue to be important solutions, particularly as centralized power grids become increasingly unstable. Our Energy Server platform is designed to be fuel flexible, capable of running on different fuels and fuel blends, quickly deployable and moveable when using our skid mounted design. Our systems are configurable as microgrids to allow customers to take charge of their energy future, eliminate diesel backup solutions, and insulate themselves against outages.Solution
+Our solid oxide fuel cells provide an electrochemical pathway to convert methane in biogas directly into electricity without combustion. We have pioneered the cleanup of biogas on which to run our fuel cells, without the need for processing the fuel into pipeline-quality biomethane. On-site biogas use avoids the release or flaring of harmful methane emissions. When used as a fuel it has a similar direct emission profile as natural gas but a lower, and potentially even negative, lifecycle carbon intensity. Bloom’s Energy Servers can provide an alternative to on-site combustion engines, helping vulnerable communities.
+Mitigation Potential Mitigation Potential
+Annual Potential Impacts for 100MW 
+of Installations1
+GHG Reduction
+•
+ 80,000-461,000 MT CO2e
+•
+ Equal to r
+emoving 17,000-100,000 cars off 
+of the roadWater Reduction•
+ Sa
+ves 165M-760M gallons of water per year
+•
+ Equal to 4,500-20,500 peopl
+e’s annual 
+domestic water use
+Air Quality Improvement •
+ Sa
+ves $36M-$245M in US equivalent 
+healthcare costs treating symptoms of air pollutionAnnual Potential Impacts for 100MW 
+of Installations
+1
+GHG Reduction
+•
+ 388,000-770,000 MT CO2e
+•
+ Equal to r
+emoving 84,000-167,000 cars off 
+of the roadWater Reduction•
+ Sa
+ves 165M-760M gallons of water per year
+•
+ Equal to 4,500-20,500 peopl
+e’s annual 
+domestic water use
+Air Quality Improvement •
+ Sa
+ves $36M-$245M in US equivalent 
+healthcare costs treating symptoms of air pollution
+2021 Development
+Our microgrids do not depend on transmission lines, eliminating the risk of being cut off from power 
+due to damage from hurricanes and other natural disasters. These microgrids can also be installed alongside batteries and solar panels to increase flexibility and reliability. Our systems have proven resilient through hurricanes, earthquakes, physical damage, and fire damage. Globally, more than 140 Bloom microgrids maintain an uninterruptible power supply for hospitals, supermarkets, data centers, high tech manufacturers, university campuses, and more.
+While we have historically done business in California and the Northeast domestically and in Korea 
+internationally, 2021 marked an important year for our global expansion. We increased the scale of our domestic and international market development efforts and increased the percentage of microgrid systems booked year-over-year. Importantly, our solid oxide fuel cell platform provides the technological and manufacturing capability the rest of our product innovation is based upon.2021 Development
+We recently announced our first dairy farm biogas project at Bar 20 Dairy Farms in Kerman, California. While the potent methane gas released from manure can have as much as 84 times the greenhouse gas effect than carbon dioxide, it also has potential to serve as a fuel when captured and prevented from entering the atmosphere. We are excited to demonstrate the ability to provide renewable electricity on-site from multiple fuel sources.
+We also have a working landfill project in conjunction with a well-known Silicon 
+Valley-based company; it has been operational since late Summer 2021, and we are capturing the methane from an adjacent landfill to power a part of this company’s buildings with carbon-neutral electricity.
+1 C onsistent assumptions were applied for mitigation potential as referenced on page 21
+22
+2021 Sustainability Report - Solutions for a Decarbonized FutureMAKING CLEAN ENERGY EFFICIENT AND AFFORDABLE INNOV ATION: A POWERFUL DIFFERENTIATOR OUR SOLUTIONS HYDROGEN: THE FUTURE IS NOWABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESCarbon Capture Utilization 
+& Storage (CCUS)Marine Hydrogen Fuel Cells
+Solution
+Our fuel cell platform is inherently suited for carbon capture. It captures and recycles 
+hydrogen and water from the fuel cell exhaust and then separates emitted water vapor and carbon dioxide (CO
+2). Once the water vapor is removed via condensation, a pure 
+stream of CO2 remains that can be easily captured and permanently sequestered in the 
+ground or utilized in new applications. 
+Our fuel cell’s non-combustion process already generates a relatively pure stream of 
+CO2 devoid of nitrogen and other impurities that are difficult or expensive to separate. 
+With the introduction of novel carbon separation technology, we can isolate more than 95% pure stream of CO
+2 that can be used or sequestered.
+CCUS partially or fully mitigates emissions from natural gas depending on sequestration or utilization dynamics. If paired with biogas in bioenergy to carbon capture (BECCS) projects, carbon removals are achieved. Carbon utilization projects support growth of the circular economy, creating opportunities for new supply chains and business models to form around the transformation of a pollutant into a useful product input.Solution
+We are extending our terrestrial fuel cell business to maritime applications by designing systems for marine environments. This includes ruggedization of our microgrid technology to support marine classification requirements like tilt, roll, pitch, vibration, and safety.
+Ships and their onboard equipment must withstand and continue to operate effectively 
+and safely with the constant motion of the ship. Initial deployments are expected to use liquified natural gas (LNG) as the primary fuel source with medium term opportunities to transition to hydrogen. Our maritime projects will displace the use of heavy fuel oils, which will create substantial health and environmental benefits, including for vulnerable port communities.
+When running on LNG, Bloom Energy’s technology reduces carbon equivalent emissions 
+up to 60% compared to incumbent propulsion sources, such as dual fuel diesel electric, and emits virtually zero harmful air pollutants like sulfur oxides, nitrogen oxides, and particulate matter.
+With more than 100 cruise ships requiring over four gigawatts of power commissioned 
+for construction by 2027 across the cruise line industry, Bloom’s fuel cells unlock a viable pathway to decarbonization while ensuring cruise ship passengers and coastal communities with heavy maritime traffic enjoy cleaner air. Solution
+Electricity production is the second largest contributor to greenhouse gas emissions in the United States, with 62% of electricity produced through the combustion of fossil fuels. Hydrogen technologies, like hydrogen-powered fuel cells, significantly reduce the environmental impacts associated with electricity production and eliminate greenhouse gas emissions.
+As the hydrogen economy grows, the need for hydrogen for energy storage 
+and power generation will accelerate. For power generation, as production of hydrogen becomes ubiquitous, Bloom Energy’s Hydrogen Fuel Cells will be another option in moving to net zero emissions.
+Hydrogen fuel cells, which convert hydrogen into electricity through a 
+non-combustion electrochemical process, are increasingly recognized by climate experts and governments across the globe as an essential tool for full decarbonization. Bloom first announced its initial plans to enter the commercial hydrogen market in July 2020, which includes an anticipated 1 megawatt hydrogen-powered Energy Server installation with SK E&C by 2022.
+Mitigation Potential Mitigation Potential Mitigation Potential
+Annual Potential Impacts for 100MW of 
+Installations1
+GHG Reduction•
+ 388,000-770,000 MT CO2e
+•
+ Equal to r
+emoving 84,000-167,000 cars 
+off of the roadWater Reduction•
+ Sa
+ves 165M-760M gallons of water 
+per year
+•
+ Equal to 4,500-20,500 peopl
+e’s annual 
+domestic water use
+Air Quality Improvement •
+ Sa
+ves $36M-$245M in US equivalent 
+healthcare costs treating symptoms of air pollutionAnnual Potential Impacts for 100MW of 
+Installations
+1
+GHG Reduction
+•
+ 298,000-608,000 MT CO2e
+•
+ Equal to r
+emoving 65,000-132,000 cars 
+off of the roadAir Quality Improvement •
+ Sa
+ves $69-$155M in US equivalent 
+healthcare costs treating symptoms of air pollutionAnnual Potential Impacts for 100MW of 
+Installations
+1
+GHG Reduction
+•
+ 388,000-770,000 MT CO2e
+•
+ Equal to r
+emoving 84,000-167,000 cars 
+off of the roadWater Reduction•
+ Sa
+ves 165M-760M gallons of water 
+per year
+• Equal to 4,500-20,500 people’s annual 
+domestic water use
+Air Quality Improvement •
+ Sa
+ves $36M-$245M in US equivalent 
+healthcare costs treating symptoms of air pollution
+2021 Development
+We are collaborating with energy technology company Baker Hughes on the potential 
+commercialization and deployment of integrated, low carbon power generation and hydrogen solutions to advance the energy transition. We are allying on prospective customer engagements with the objective of launching pilot projects over the next two to three years, and fully commercializing and scaling applications, products, and solutions shortly thereafter. Our joint efforts will involve exploration of technical collaboration and integrated hydrogen and power solutions with a focus on leveraging Bloom’s CCUS capabilities.2021 Development
+Building off of our already strong relationship with Samsung Heavy Industries, we deepened our reach into the industry through an announced pilot deployment with Chantiers de l’Atlantique and the cruise division of MSC Group. The partners announced plans to launch the first cruise ship operating on solid oxide fuel cell technology. The MSC World Europa, a new state-of-the-art cruise liner currently under construction at the CdA shipyard will be fitted with 150kW of Bloom fuel cells, which will provide auxiliary power to the ship.2021 Development
+In April 2021, Bloom successfully deployed the first 100 kilowatts of fuel cells powered solely by hydrogen in Ulsan, South Korea, generating zero-carbon on-site electricity.
+ 
+The project has been operating as expected for almost a year 
+and demonstrates how we can achieve a 24/7 zero-carbon distributed energy future. The company subsequently announced the commercial availability of its Hydrogen Fuel Cells – 100% hydrogen-powered fuel cells that deliver on-site, 24/7, zero-carbon electricity — all in a simple, modular, and flexible design.
+1 C onsistent assumptions were applied for mitigation potential as referenced on page 21
+23
+2021 Sustainability Report - Solutions for a Decarbonized FutureMAKING CLEAN ENERGY EFFICIENT AND AFFORDABLE INNOV ATION: A POWERFUL DIFFERENTIATOR OUR SOLUTIONS HYDROGEN: THE FUTURE IS NOWABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESTransportation Synthetic Fuels
+Upgrading Oil/
+BiomassAmmonia/
+Fertiliz erElectricityMetals 
+Production
+Chemical Industrial 
+ProcessesHeat/
+PowerHydrogen Electrolyzers  
+Solution
+Experts agree that hydrogen will be central to achieving a 
+net-zero carbon future. One way that we are establishing our place in that future is through the launch of our solid oxide electrolyzer, which can produce green hydrogen from renewable power.
+Green hydrogen is essential for grid stability in the transition to 
+24/7 100% renewable electricity. The grid is a multi-dimensional system, requiring a balance of electricity supply and demand. As renewable penetration increases, so does the potential for imbalances of supply and demand on the grid, particularly with significant or extended weather events. To continue to increase renewable power production, energy storage is required.
+Green hydrogen is an exciting storage medium because of 
+its ability to be stored in very large quantities, for a very long duration (months, not hours) and be moved over long distances. Green hydrogen can also be used to displace or replace transportation fuels, as well as to decarbonize industrial heat and other difficult to decarbonize applications. The flexibility green hydrogen provides will be critical to the design and operation of advanced energy systems of the
+ 
+future.
+Mitigation Potential
+Annual Potential Impacts for 100MW of Installations1
+GHG Reduction•
+ 303,000-688,000 MT CO2e
+•
+ Equal to r
+emoving 66,000-150,000 cars off of the road
+Water Reduction•
+ Sa
+ves 93M-500M gallons of water per year
+•
+ Equal to 2,500-13,000 peopl
+e’s annual domestic water use
+Air Quality Improvement •
+ Sa
+ves $33M-$192M in US equivalent healthcare costs treating 
+symptoms of air pollution
+1 C onsistent assumptions were applied for mitigation potential as referenced on page 21Hydrogen: The Future Is Now
+Safely StoredPowers a diversity of end use applications 
+including hard to decarbonize industrial sectorsGreen electricity produces hydrogen
+Transported through pipeline networks
+We are excited by the growing acceptance of the hydrogen economy and pleased to be 
+collaborating with some of the leading energy companies—all of them as committed to the 
+power of innovation as we are.
+24
+2021 Sustainability Report - Solutions for a Decarbonized FutureMAKING CLEAN ENERGY EFFICIENT AND AFFORDABLE INNOV ATION: A POWERFUL DIFFERENTIATOR OUR SOLUTIONS HYDROGEN: THE FUTURE IS NOWABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES2021 Development 
+Heliogen:
+We partnered with Heliogen and successfully demonstrated 
+the combination of their concentrated solar technology with the Bloom Electrolyzer as a pathway to affordable green hydrogen by using only concentrated solar power and water.
+Idaho National Laboratory (INL): 
+We are collaborating with the Department of Energy’s INL to test the use of nuclear energy to create clean hydrogen through our electrolyzer. This carbon-free hydrogen is obtained through electrolysis that is powered by nuclear generation making use of both electric power and steam to enhance efficiency. When the electric grid has ample power, rather than ramping down power generation, the electricity generated by nuclear plants can be used to produce cost-effective hydrogen.
+SoCalGas :
+We are collaborating with Southern California Gas Company (SoCalGas), the nation’s largest natural gas distribution utility, to generate and then blend hydrogen into the natural gas network to demonstrate how natural gas infrastructure can be decarbonized, while balancing future energy supply and demand. The project is set to commence in 2022 on the campus of the California Institute of Technology (Caltech) in Pasadena.The Bloom Electrolyzer relies on the same, commercially proven and proprietary solid oxide technology platform used by our Bloom Energy Servers. Highly versatile, it offers distinctive advantages for deployment across a broad variety of hydrogen applications, using varied energy sources including intermittent renewable energy and excess heat. When steam is used as an input, our electrolyzer technology uses even less electricity and water to produce hydrogen. Additionally, steam integration can also provide water, which can be used directly in the electrolysis process.
+Bloom Electrolyzer named Emerging 
+Technology of the Year
+The honor came at the 23rd annual S&P Global Platts 
+Global Energy Awards, often described as the Oscars of the energy industry. Our electrolyzer was recognized for its “
+inventive and efficient ” method of producing 
+hydrogen. Judges noted the technology is “on the radar for many people in the energy industry” and that it is an “exciting innovation” that will “be compatible with other sources” in the move to clean energy.
+Bloom Energy and Heliogen join forces 
+to harness the power of the sun to produce low-cost green hydrogen 
+By combining near 24/7 carbon-free power and steam, generated by Heliogen’s Sunlight 
+Refinery solar power generation system, with Bloom Energy’s highly efficient solid oxide electrolyzer, the companies will produce green hydrogen that can replace fossil-derived fuels in commercial and industrial applications. The complementary technologies make for economically viable green hydrogen production, on par with hydrogen produced from photovoltaic solar generation.
+25
+2021 Sustainability Report - Solutions for a Decarbonized FutureMAKING CLEAN ENERGY EFFICIENT AND AFFORDABLE INNOV ATION: A POWERFUL DIFFERENTIATOR OUR SOLUTIONS HYDROGEN: THE FUTURE IS NOWABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES75%
+Methane 
+emissions
+100% 60%Taking A Leadership Position
+On Transforming The Gas Sector
+The Methane Challenge  – Methane is at least 84 times
+more potent  than carbon dioxide (CO2) on a 20-year
+time scale and reached record highs last year  despite
+the pandemic.
+Bloom's global customers will be secured with
+certificates, reducing methane impact and accelerating
+emissions reductionreplacement
+of the world'scoal-fired powerplants withzero-emissionsgenerationfrom oil and gasproduction canbe technicallyeliminated today84x1xBloom is not only focused on technology 
+innovation, but also market evolution. We have a history of early participation in the environmental markets and that continues with our work to address the environmental, social, and governance profile of conventional fuel. While we bring renewable fuels and clean energy power generation of the future forward, we intend to use our market position, access to leading customers, and partnerships to drive ongoing evolution of the gas sector.
+Certified Gas
+Reducing methane emissions from oil and gas operations is 
+among the most viable and significant actions we can take in the near term to help address climate change. Methane is a powerful greenhouse gas and leakages from the oil and gas industry contribute over 84 million metric tonnes of methane to global emissions each year.
+While progress has been made over recent decades to 
+curb methane emissions, 75% of these emissions from oil and gas production can technically be eliminated today, many at no cost, shown in the figure to the right. Achieving methane reductions stemming from the oil and gas sector is the carbon equivalent of replacing 60% of the world’s coal-fired power plants with zero-emissions generation.
+1Driving Gas Sector Transformation through Market-based Innovation Corporate Financial Viability
+In acknowledgement of the importance of downstream users of natural gas to send an important demand signal to producers, Bloom made a commitment in July 2021 to help accelerate the development of a certified natural gas market and advance natural gas supply chain responsibility. To that end, we are converting our entire global fleet of natural gas fueled Energy Servers to certified responsibly-sourced natural gas to prevent the release of harmful methane emissions stemming from upstream gas production.
+To further advance our commitment, Bloom Energy will 
+help test and refine elements of the emerging marketplace through a collaboration with MiQ, a non-profit partnership between RMI and SYSTEMIQ. We will also work together to educate Bloom customers and other industry stakeholders on transactional dynamics of the emerging market and the importance of reducing the environmental impacts of natural gas production.
+The production will be jointly certified by MiQ and Equitable 
+Origin—and Bloom will retire certificates transferred from EQT on behalf of all of our North American customers. The work from these important organizations represents impartial and technology agnostic approaches to the verification and assurance of emissions profiles and a range of environmental, social and governance criteria of responsible gas production.
+Mitigation Potential
+Annual Potential Impacts for 100MW of Installations2
+GHG Reduction
+•
+ 1,436-1,466 MT CO2e
+•
+ Equal to r
+emoving 312-319 cars off of the roadBloom continues to build on its strong 
+commercial pipeline through an expanded relationship with SK ecoplant. In 2021, we announced the expansion of our existing partnership to fortify SK ecoplant’s market leadership in power generation and to establish market leadership in the hydrogen economy. Through this partnership, SK ecoplant is purchasing a minimum of 500 MW from Bloom Energy, representing a $4.5 billion revenue commitment. The partnership framework also includes the co-creation of two hydrogen innovation centers—one in the United States and one in Korea—and SK ecoplant targeting an equity investment in Bloom Energy of approximately $500 million.
+Since the start of our strategic partnership three years ago, 
+Bloom Energy and SK ecoplant have transacted nearly 200 MW of projects together totaling more than $1.8 billion of equipment and expected service revenue. This additional commitment makes Bloom SK ecoplant’s largest strategic partner in clean energy and solidifies a partnership with significant commercial, governance, and strategic impact for Bloom’s ongoing activity.
+1 https://www.iea.org/reports/methane-tracker-2020/methane-abatement-options
+2 C onsistent assumptions were applied for mitigation potential as referenced on page 21
+26
+2021 Sustainability Report - Solutions for a Decarbonized FutureMAKING CLEAN ENERGY EFFICIENT AND AFFORDABLE INNOV ATION: A POWERFUL DIFFERENTIATOR OUR SOLUTIONS HYDROGEN: THE FUTURE IS NOWABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESBloom Energy offers solutions that significantly lower local criteria pollutants and reduce global greenhouse 
+gas emissions. Our products displace less efficient energy forms, including combustion-based power producers and on-site stationary internal combustion engines. In addition to emitting near-zero criteria pollutants, Bloom’s products often lower greenhouse gas emissions by displacing a less efficient marginal generation on the grid. We design our products to consume minimal water and operate at a high-power density, which optimizes land use.Environment
+Contents 29 Gr eenhouse Gas Emissions
+29 Ener
+gy Management
+30
+ Pr
+oduct Efficiency
+30
+ Ener
+gy Intensity
+31 Air Quali
+ty
+32
+ W
+ater & Wastewater Management
+33 Pr
+oduct Stewardship and Circularity
+33 Haz
+ardous Materials and Waste Management
+34 Pr
+oduct End-of-Life Management
+27
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESHighly Efficient
+Electrochemical process 
+reduces CO2 emissions
+vs. grid alternatives
+Fuel Flexible
+Natural gas, biogas, or 
+hydrogen as fuelNo Water
+During normal operation
+Clean
+Non-combustion
+technology – Virtually
+no NOX or SOXFuel
+Ambient
+AirNo Combustion:
+Unlike traditional technologies Bloom does not require combustion, 
+eliminating harmful criteria pollutants
+Anode
+Electrolyte
+CathodeDesigned with Sustainability in Mind
+Our commitment to the 
+environment not only impacts the communities where our products operate, but also the communities in which we manufacture our products. Bloom’s manufacturing facilities are committed to resource efficiency, responsible design, material management, and recycling.
+28
+2021 Sustainability Report - Solutions for a Decarbonized FutureGREENHOUSE GAS 
+EMISSIONSENERGY MANAGEMENTPRODUCT EFFICIENCYENERGY INTENSITYAIR QUALITYW ATER MANAGEMENTPRODUCT STEW ARDSHIP AND CIRCULARITYHAZARDOUS MATERIALS AND W ASTE MANAGEMENTPRODUCT END-OF-LIFE MANAGEMENT
+ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESIn 2021, Bloom performed a GHG inventory of Scope 1 
+and Scope 2 emissions, building off our baseline emissions inventory completed in 2020. Bloom uses the operational control approach to set the organizational boundaries for inventory reporting, in which 100% of the GHG emissions for assets controlled/managed by Bloom are accounted for. The GHG inventory calculation approach is based on national and international standards from the GHG Protocol Corporate Standard, GHG Protocol Scope 2 Guidance, and the EPA Center for Corporate Climate Leadership Greenhouse Gas Inventory Guidance. All of our product emissions fall into the Scope 1 category due to the fact that we maintain operational control of all our fuel cells in operation. The remainder of our Scope 1 emissions are from our manufacturing, service fleet operations,  and other miscellaneous activity. In addition, 
+our GHG inventory went through a verification process in which our emissions accounting was formally verified  by 
+the consulting firm Ramboll. Our total GHG emissions are disclosed in carbon dioxide equivalents (CO
+2e) and a carbon 
+intensity value disclosed as CO2e per MWh.
+Each Energy Server deployment displaces power supply to our customers from an alternative source, typically centralized power grids. As a result, establishing the full climate impact of our equipment requires comparing our emissions to the emissions from displaced grid alternatives. Since Bloom Energy Servers are an efficient distributed energy resource, when a new Bloom Energy Server is brought online, it reduces the amount of power required from energy sources that generate “on the margin,” meaning those units that are operating to meet the last unit of energy demand. Since our Energy Servers’ carbon intensity is typically lower than the displaced (generally fossil-powered) alternatives, the net impact is measurable emissions reductions. Bloom’s total weighted average emissions performance relative to grid alternatives  detailed above will change over time as both Bloom and grids evolve.Greenhouse Gas Emissions Energy Management
+We are focused on energy efficiency in our production and administrative processes, and have introduced a significant amount of energy-efficient plant automation over the last several years. Our own Energy Servers power our facilities, where suitable, as efficient and resilient energy sources. Since our facility footprint is a mix of owned and leased assets, Bloom Energy Servers are not an ideal solution for every facility. They are, however, installed at our primary manufacturing facilities in California and Delaware. We also use our Energy Servers to charge employee vehicles at manufacturing facility locations and, as we broaden the integration of our Energy Servers across our real estate portfolio, we will continue to support our employees with lower carbon intensity and resilient on-site electric vehicle (EV) charging.2021 TOTAL ENERGY CONSUMED (GJ):
+103,035 GJ
+Includes Scope 2 energy consumption from Bloom facilities in California, Delaware, South Korea, and India. Assumptions are made for shared facilities where necessary.
+Scope 2 Location-Based 
+Indirect Emissions from Purchased Energy (MT CO
+2e)8,354
+Scope 2 Market-Based Indirect Emissions from Purchased Energy (MT CO
+2e)3,0532021 GROSS GLOBAL SCOPE 1 EMISSIONS:
+1,441,580
+Metric Tonnes CO2e
+Includes emissions from all Bloom Energy Servers in operation globally and from the company’s vehicles, facility operations, and test equipment
+2021 GROSS GLOBAL EQUIPMENT EMISSIONS 
+IMPACT VS. GRID ALTERNATIVES:
+-636,266
+Metric Tonnes CO2e
+RegionPercentage
+Impact vs. Grid
+USA 24.6%
+Korea 52.2%
+India 58.8%
+Japan 41.7%
+Global Weighted Average 31.2%
+Bloom maintains operational control over our Energy 
+Servers and reports our greenhouse gas emissions (GHG) utilizing the operational control boundary per the World Resources Institute’s GHG Protocol.Ramboll also conducted a review of Bloom’s marginal emissions displacement methodology and confirmed that Bloom’s approach was developed in accordance with WRI’s Guidelines for Quantifying GHG Reductions from Grid-Connected Electricity Projects.ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+29
+2021 Sustainability Report - Solutions for a Decarbonized FutureGREENHOUSE GAS 
+EMISSIONSENERGY MANAGEMENTPRODUCT EFFICIENCYENERGY INTENSITYAIR QUALITYW ATER MANAGEMENTPRODUCT STEW ARDSHIP AND CIRCULARITYHAZARDOUS MATERIALS AND WAST E  MANAGEMENTPRODUCT END-OF-LIFE MANAGEMENTProduct Efficiency Energy Intensity
+Our product efficiency is tracked closely through our 
+Remote Monitoring and Control Centers (RMCC) in San Jose, California and Mumbai, India. The RMCC tracks and monitors various operating data down to the individual stack level. Based on data provided by the RMCC, we repair Energy Servers not performing in accordance with customer warranties and standards. As the fuel cell ages, efficiency decreases and replacements are made to keep the Energy Server operating appropriately. We understand that product efficiency directly affects GHG emissions. Therefore, we will continue to report on average efficiency and stack life of our fleet to demonstrate our commitment to operating with the lowest emissions intensity possible and to reduce costs through fewer stack replacements over the system’s operating life.
+Initial lifetime statistics are subject to minor variations as 
+we gather additional data from fuel cells still operating until the entire product vintage is retired. For projected lifetimes (marked with an ‘*’) there is inadequate operating time (<5 years) for an initial estimate of median life. Projections are made from previous years data adjusted for estimated benefits of improvements implemented.WEIGHTED A VERAGE SYSTEM LIFETIME 
+EFFICIENCY AS OF EOY 2021:
+55.87%
+TIME TO REFURBISHMENT
+Product VintageMedium Time to 
+Refurbishment (Y ears)
+2015 4.9
+2016 4.9
+2017 4.9
+2018* 5.0
+2019* 5.2
+2020* 5.5
+2021* 5.5
+* ProjectedIn order to assess the eco-efficiency of our product, we 
+evaluated the amount of energy required to manufacture our fuel cells in 2021 against the amount of energy produced by our fuel cell fleet brought online in 2021. The manufacture of our fuel cells in 2021 consumed 0.33% of the production capacity of the fuel cells that were brought online last year. This means that our fuel cells produce 300 times the amount of energy that it takes to build them.
+Our manufacturing processes use only a fraction of the 
+energy our products are subsequently able to generate, representing an important added societal value from our manufacturing operations. Although it is not a comprehensive life-cycle accounting of the eco-efficiency of our products, it is a primary metric we use to measure our impact as an energy services provider. As we work to better understand the full lifecycle impact of our supply chain through our ongoing lifecycle assessment (LCA) work, our eco-efficiency metrics will become an important benchmark for our operations.ECO-EFFICIENCY OF BLOOM ENERGY SERVER:
+Our systems produce
+300X
+the amount of power used to 
+manufacture them 
+GREENHOUSE GAS 
+EMISSIONSENERGY MANAGEMENTPRODUCT EFFICIENCYENERGY INTENSITYAIR QUALITYW ATER MANAGEMENTPRODUCT STEW ARDSHIP AND CIRCULARITYHAZARDOUS MATERIALS AND W ASTE MANAGEMENTPRODUCT END-OF-LIFE MANAGEMENT
+30
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESAir Quality
+Our fuel cells convert fuel into electricity without 
+combustion. When a fuel cell is used for power, typically a less efficient power source (generally a combustion generator) is no longer needed. When compared to these marginal sources, our fuel cells reduce nitrogen and sulfur dioxide by over 99% and other criteria pollutants (volatile organic compounds, carbon monoxide and particulate matter) significantly. The emission reductions that occurred in the United States in 2021 from the operation of our fuel cells amount to a decrease in approximately 174 days of work lost due to illness, 59 cases of respiratory symptoms, as well as $16,677,131 - $37,611,034 decreased healthcare costs.
+1 The health and environmental impacts 
+of combustion-related pollutants are a major focus of the Environmental Protection Agency (EPA) and air quality districts nationwide. These impacts tend to disproportionately impact disadvantaged communities due to the increased likelihood of proximity to industrial facilities, including power plants or businesses utilizing large diesel backup systems. Our solution, which can provide up to a 99% reduction of these harmful air pollutants, continues to improve the air quality in these communities. It also provides a model for near-zero criteria pollutant energy generation for policymakers, regulators, and the environmental justice community, which can translate to emission reductions and health benefits today.
+Short-lived climate pollutants (SLCPs) such as methane 
+and anthropogenic black carbon have become a topic of considerable discussion. These pollutants are powerful climate forcers that carry large global warming potentials (GWPs) and have relatively short atmospheric lifetimes. Since these pollutants carry such high GWPs, reducing their emissions now will create rapid changes in their atmospheric concentrations. These benefits will materialize in a relatively shorter timeframe when compared to reducing concentrations of other greenhouse gases, such as carbon dioxide. Our solution converts methane into carbon dioxide without combustion and, therefore, produces no black carbon. Reducing black carbon and methane has the potential to reduce the amount of global warming by as much as 0.6 degrees C by 2050. Black carbon emissions also cause human health impacts, such as low birth weights, heart disease, and stroke.
+2
+Bloom’s natural gas fueled energy servers were first certified as meeting stringent California Air Resources Board (CARB) Distributed Generation (DG) standards in 2016. The DG certification program establishes the emission standards electrical generation technologies must meet to be exempted from local air district permitting requirements. The CARB must re-certify the technology covered by the program, including our Energy Servers every five years. Since our initial certification, Bloom has consistently improved our technology and during the most recent recertification process in 2021 our natural gas Energy Servers were certified based on data demonstrating our lowest criteria pollutant emission rates ever. In addition, last year we received Distributed Generation Certification for our product using digester gas and landfill gas.NOx:
+2021 Global Air Emissions of NO
+x 
+from Products (lbs)6,408
+2021 Domestic NOx 
+Reduction vs. Grid Alternatives (lbs)– 2,467,309
+% Reduction vs. Grid 99.8%
+Based on comparison to EPA eGRID non-baseload emissions rates inclusive of line losses as a proxy for marginal emissions
+SO2:
+2021 Global Air Emissions of SO
+2 
+from Products (lbs)22.4
+2021 Domestic SO2 
+Reduction vs. Grid Alternatives (lbs)– 550,651
+% Reduction vs Grid Alternatives: 100%
+Based on comparison to EPA eGRID non-baseload emissions rates inclusive of line losses as a proxy for marginal emissions
+1 https://cobra.epa.gov/
+2 https://www.ccacoalition.org/en/content/short-lived-climate-pollutants-slcps
+GREENHOUSE GAS 
+EMISSIONSENERGY MANAGEMENTPRODUCT EFFICIENCYENERGY INTENSITYAIR QUALITYW ATER MANAGEMENTPRODUCT STEW ARDSHIP AND CIRCULARITYHAZARDOUS MATERIALS AND W ASTE MANAGEMENTPRODUCT END-OF-LIFE MANAGEMENT
+31
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESOur Energy Servers consume minimal amounts of water when compared 
+to other grid power generation sources, and only consume water during start-up and/or if a restart is required. Otherwise, no water is used during operation. In 2020, the World Resources Institute released calculated water withdrawal and consumption values that result from a unit of electricity consumption on the grid. The U.S. grid average water withdrawal factor is 102,000 gal/MWh and average water consumption factor is 830 gal/MWh, while Bloom’s water consumption factor is 0.65 gal/MWh. In 2021 alone, our fuel cells avoided more than 4 billion gallons of water consumption and over 600 billion gallons of water withdrawal by grid electricity sources.
+2
+Based on data from the Energy Information Administration (EIA), total water withdrawal by U.S. thermoelectric power plants is over 50 trillion gallons annually. The water intensity of U.S. thermoelectric power plants is approximately 13,000 gallons/MWh.
+3 This results in over 108 
+Olympic
+-
+sized pools of water saved annually for a 1 MW Bloom fuel cell in 
+the United States. 
+Importantly, 55.4% of Bloom’s installed base of Energy Servers is 
+in California, where all 58 counties are under a drought emergency proclamation and the state is in the driest period in the last 1,200 years.
+4
+Critically, Bloom projects contribute to enhanced water abundance, improved watershed and ecosystem health through avoided water withdrawal and consumption across the state. In 2021, our fuel cells avoided 412 billion gallons of water withdrawal and over 2 billion gallons of water consumption from grid electricity sources in California.
+5 
+1 W RI Acquaduct Tool: https://www.wri.org/aqueduct
+2 https://files.wri.org/d8/s3fs-public/guidance-calculating-water-use-embedded-
+pur
+chased-electricity_0.pdf
+3 h ttps://www.eia.gov/todayinenergy/detail.php?id=37453.
+4 https://www.nature.com/articles/s41558-022-01290-z
+5 https://files.wri.org/d8/s3fs-public/guidance-calculating-water-use-embedded-pur
+chased-electricity_0.pdfBloom
+(Gal/MWh)United States Average Rates
+1 
+(Gal/MWh)2021 Fleetwide Water Reductions (Mg)
+1, 2
+Water 
+Consumption0.69 830 4,069
+Water Withdrawal 0.0 102,000 603,627
+1 Using  regional factors from WRI Guidance for Calculating Water 
+Use Embedded in Purchased Electricity for United States average 
+water consumption and withdrawal (https://files.wri.org/d8/s3fs-public/guidance-calculating-water-use-embedded-purchased-electricity_0.pdf)
+2 Bl oom’s water reductions were calculated using actual fleetwide energy 
+production in 2021.
+Overall Water Risk
+Low Low 
+MediumMedium 
+HighHigh Extremely High
+(0-1) (1-2) (2-3) (3-4) (4-5)Water Management
+California Water Risk Map
+Bloom’s 2021 Water Savings
+GREENHOUSE GAS 
+EMISSIONSENERGY MANAGEMENTPRODUCT EFFICIENCYENERGY INTENSITYAIR QUALITYW ATER MANAGEMENTPRODUCT STEW ARDSHIP AND CIRCULARITYHAZARDOUS MATERIALS AND W ASTE MANAGEMENTPRODUCT END-OF-LIFE MANAGEMENT
+32
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESWe take a cradle-to-cradle perspective on product 
+design and use. We strive to reuse components where feasible and use new resources where necessary focusing on conflict-free and non-toxic materials. At the end of 2021, Bloom performed a product screening life-cycle analysis, where we identified hot spots in our supply chain and are actively working to address them. We are in the process of reviewing results with a third-party and hope to make product improvements where feasible to reduce the impact of our products.Product Stewardship 
+and Circularity
+Materials Sourcing
+Our supply chain is structured so that we work with a group 
+of high-quality suppliers that support various industries, including automotive, semiconductor, and other traditional 
+manufacturing organizations. Manufacturing a fuel cell system requires rare earth elements, precious metals, scarce alloys, and industrial commodities. In general, we have multiple sources of supply for our raw materials and services. In addition, we have a supplier diversification strategy that supports business continuity. In the past year, the COVID-19 pandemic has challenged this strategy; nonetheless, we have been able to continue to broaden our supply base. We require all suppliers to adhere to the standards set out in our Global Business Partner Standards and Responsible Sourcing Policy, which include specific guidance on supplier-related anti-corruption practices, such as diligence, documentation, and legal circumvention. 
+Due to the nature of the raw materials we use in production, 
+we are particularly focused on preventing irresponsible smelting or refining activity of 3TG materials (tantalum, tin, tungsten and gold) in our supply chain. In 2021, we filed our second conflict minerals supplier report ( Form SD ) with 
+the Securities and Exchange Commission (SEC) covering reporting in the year 2020. The conflict mineral supplier response survey rate increased from 82% the first year to 88%. We are evaluating our suppliers’ responses and will escalate action with respect to any suppliers found with high risks.
+We have established an internal cross functional Sourcing 
+Council dedicated to developing supplier responsibility standards and institutionalizing supplier screening.Bloom Energy has a Hazardous Materials 
+Communication Program  to protect employees 
+from chemical hazards in the workplace. The 
+program outlines requirements and procedures related to roles and responsibilities, safety data sheets, storage of containers, disposal of hazardous materials and emergency response. All employees receive training on the program during new hire orientation. In addition, depending on the employee’s role, they receive additional training specific to their work tasks. In 2021, our Environmental Health & Safety (EH&S) team trained 41 employees in California and six in Delaware on hazardous waste requirements and procedures. Due to the nature of our manufacturing operations, we use a wide variety of chemicals, including solvents, corrosives, flammable liquids, and gases. As part of Bloom’s Environmental Management System (EMS), we have set an objective and action plan to refine our chemical inventory and improve the review and approval process for new chemicals. Execution of this action plan will take place in 2022.
+Bloom’s Hazardous Waste Management Program covers 
+management of our desulfurization material and canisters. This program includes a Hazardous Materials Business Plan (HMBP) document for customers that explains the desulfurization canister removal and material recycling process. EH&S trains Field Service personnel annually on the HMBP document and its contents. In addition, Bloom ensures that our company’s desulfurization material generated in the United States is recycled and not transported or disposed of as hazardous waste. It is shipped to our recycling partner, ShoreMet, in Indiana. ShoreMet chemically dissolves the copper metal within that material, which then can be used to manufacture copper compounds, including copper amine carbonate, copper oxide, basics copper carbonate, and copper chloride dehydrate. The recycle and reuse process further promotes end-of-life circularity and ensures the desulfurization material is not classified as hazardous waste under the Resource Conservation and Recovery Act.
+TOTAL AMOUNT OF HAZARDOUS 
+W ASTE GENERATED 
+26.5 
+tonnes
+PERCENT OF HAZARDOUS W ASTE RECYCLED
+4%
+HAZARDOUS W ASTE A VOIDED  THROUGH 
+CIRCULAR DESULPHURIZATION PROGRAM
+97.7 
+tonnesHazardous Materials and 
+Waste Management
+GREENHOUSE GAS 
+EMISSIONSENERGY MANAGEMENTPRODUCT EFFICIENCYENERGY INTENSITYAIR QUALITYW ATER MANAGEMENTPRODUCT STEW ARDSHIP AND CIRCULARITYHAZARDOUS MATERIALS AND W ASTE MANAGEMENTPRODUCT END-OF-LIFE MANAGEMENT
+33
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESProduct End-of-Life Management
+Bloom Energy Servers recycle and reuse an impressive 98% of 
+materials by weight. The total metric tonnes of end-of-life material increased from 1,420 to 1,738 metric tonnes due to increased volumes of fuel cell upgrades. After new units generate power for a period, and our Remote Monitoring and Control Center determines there is a need for repair or overhaul, the units return to our manufacturing facility. Our Repair and Overhaul Operations team, located in Newark, Delaware, performs the tasks required to deconstruct the units and build them back up to be redeployed into service. The materials that cannot be reused are sent to recycle streams, where they are repurposed in other industries. As a result, out of an approximately 30,000-pound Bloom Energy Server, the weight of components that go to the landfill without a recycling or refurbishment stream comprises approximately 510 pounds, or less than approximately 2% of the total server weight. Typical components that go directly to landfill without refurbishment or recycling are sealants, adhesives, gaskets, filters, tape, and nonrecyclable plastics.
+2021 PERCENTAGE BY WEIGHT OF PRODUCTS SOLD THAT ARE 
+RECYCLABLE OR REUSABLE 
+98%
+2021 ESTIMATED WEIGHT OF END-OF-LIFE MATERIAL RECOVERED, PERCENTAGE RECYCLED IN TONNES
+1,738  
+metric tonnesCell PrintStack Build
+Stack DisassemblyColumn Build
+Server DisassemblyEnergy 
+Server Build
+ElectrolyteRefining Field Return01
+0802
+0703
+0604
+05
+GREENHOUSE GAS 
+EMISSIONSENERGY MANAGEMENTPRODUCT EFFICIENCYENERGY INTENSITYAIR QUALITYW ATER MANAGEMENTPRODUCT STEW ARDSHIP AND CIRCULARITYHAZARDOUS MATERIALS AND W ASTE MANAGEMENTPRODUCT END-OF-LIFE MANAGEMENT
+34
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES35
+2021 Sustainability Report - Solutions for a Decarbonized FutureABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+35 2021 Sustainability Report - Solutions for a Decarbonized FuturePeople
+Contents 36 T aking Care of Our Employees
+38
+ Suppor
+ting Employee Well-Being
+39 Suppor
+ting Our CommunitiesOur mission is to make clean, reliable energy affordable for everyone in the world because we know that 
+allows our communities to be safe, prosperous, healthy, and resilient. Community impact is what motivates us every day to provide the highest quality products, solutions, and employee experience possible.We recognize that our achievements are possible 
+because of our talented, diverse team members, who live and work around the world. We are dedicated to creating a workplace where our employees feel valued and engaged in meaningful work. Just as our employees support and advance our mission, we foster a culture of innovation and transparency enabling the possibility of our employees to thrive. In order to attract and retain our teammates, we strive to maintain an inclusive, diverse, and safe workplace, with opportunities for our employees to grow and develop in their careers, supported by strong compensation, benefits, and health and wellness programs. It is also vital that we continue to encourage and nurture our employees’ engagement and connection to Bloom’s culture and mission.Connecting Employees and 
+Bloom’s Purpose
+Now, more than ever before, people are looking for 
+purposeful and fulfilling work. At Bloom, we recognize the importance of communicating our mission clearly, living our core values, and connecting our employees to our purpose. 
+This means addressing climate change and its impacts; 
+changing the future of energy by leading the world’s energy transition and how we power the world; underscoring the important role our employees have in advancing our mission and making the world a better place; and doing the right thing for the greater good of our society and our stakeholders. We are proud of the results achieved through our intense focus on retaining talent in a competitive job market. 
+As the world changes, our company is responding and 
+evolving. The COVID-19 pandemic changed many ways that we live and work—including how we address critical needs such as access to financial planning and mental healthcare. In the last two years, we’ve offered our employees flexibility, opportunities for vaccination, on-site testing and new mental health programs through our partner Lyra Health.
+Just as we take the long-view approach when planning for 
+the success of our company, we are also evaluating how we can improve our employees’ success and fulfilment—now and in the future. Moving into 2022, we plan to improve communication between the leadership team and employees, connect on social issues important to our employees, conduct our first employee survey, and respond 
+to areas of concern. All of these actions help connect our employees to our purpose.
+We recently enhanced our talent program through the introduction of a comprehensive Talent Management System designed to link performance to business results, enabling each employee to make a direct connection between their role and contributions and the success of Bloom. This comprehensive program includes goal setting, monthly check-ins, feedback solicitation and self-assessments. Our Talent Management System provides employees with the resources required to achieve their goals and engage in meaningful feedback discussions with their manager, leading to development, exposure to new experiences and real-time learnings.  
+We provide a series of global employee learning sessions 
+to support our employees’ ability to effectively engage with their manager. We have also expanded our development focus by investing in building management capabilities. 
+We’re passionate about creating a clean, healthy, 
+energy-abundant world and our employees are encouraged to share what drives them to be a part of Bloom’s mission.Taking Care of Our EmployeesMichael Recher
+Principal Engineer
+What Powers You? For me, it’s the knowledge that I’m 
+having a direct impact on the world around me. 
+When I decided I wanted to become an Electrical Engineer 
+while I was attending New York Tech 20 years ago, I was oblivious to the path my life would take in order to get there and the impact my decision would have on others. All I knew is I wanted to have an effect on the tangible world around me. 
+Along my journey I’ve had the opportunity to contribute to 
+the rebuilding of the World Trade Center and the recovery of NYC after Superstorm Sandy, as well as countless projects over the years that have helped to create a more resilient, sustainable, and predictable source of energy for millions of people. 
+These life changing moments in our history along with 
+many other disruptive events throughout my career have not only molded my mindset around the absolute necessity for energy in our daily world but have also strengthened my conviction to try and leave the world better off than when I came into it. 
+I continue today by working for Bloom Energy helping to 
+make clean, reliable energy affordable for everyone in the world. 
+36
+2021 Sustainability Report - Solutions for a Decarbonized FutureTAKING CARE OF OUR EMPLOYEES SUPPORTING EMPLOYEE WELL-BEING SUPPORTING OUR COMMUNITIESABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESPromoting Inclusion and Diversity
+Since our founding, we have been committed to advancing 
+inclusion and diversity, across our organization. We endeavor to foster a workplace that values each person and contribution, and promotes an environment of positive engagement and productivity. We recognize that having a multi-faceted team—with a wide array of knowledge, skills, experience and viewpoints—fuels our innovation and growth. Our company culture is built on results, respect, and doing the right thing for our employees, customers, investors, and the communities in which we live and work.
+One of our greatest strengths is the talent and distinctness 
+of our employees and we believe diverse leaders serve as role models for our inclusive workforce. 
+To attract, retain, and diversify our exceptionally talented 
+team, we continue to evolve our hiring strategies, track our 
+progress, and hold ourselves accountable to advancing global diversity. These efforts are led by our Human Resources department and overseen by the Board of Directors, but are imbedded in the hiring practices 
+ALL EMPLOYEES
+60% 
+ethnically diverse
+21% womenAll EEBOARD OF DIRECTORS  
+44%ethnicminoritiesBODSENIOR LEADERSHIP TEAM  
+20% womenSLTEXECUTIVE MANAGEMENT TEAM  
+33% ethnic minority
+40% womenEMTAS OF DECEMBER 31, 2021, WE HAD MORE  
+THAN 1,700 EMPLOYEES WORLDWIDE,  
+OF WHICH APPROXIMATELY 
+1,400  
+located in the United States
+270  
+located in India40  
+located in other 
+countriesof every department in the organization. Our talent 
+acquisition strategy centers on recruiting candidates from underrepresented groups through increased advertising and outreach. For example, our 2021 university intern program resulted in representation of 50% women, 45% underrepresented minorities, and 10% veterans. In addition, we take pride in the fact that over 9% of our United States employee population are veterans as of year-end 2021.
+We share new and open positions with university-affiliated 
+groups such as the Society of Women Engineers, Society of Hispanic Engineers, and National Society of Black Engineers. We partner with Historically Black Colleges and Universities (HCBU), as well as veteran associations to recruit the best and brightest minds. In 2022, our intern program will grow by 40% with a continued focus on attracting diverse representation. Our continued engagement with organizations that work with diverse communities has been vital to our efforts to increase women and minority representation in our workforce. For example, our “Careers at Bloom Silicon Valley” Campaign targets recruiting diverse talent from underserved communities for hourly manufacturing roles. 
+To ensure inclusivity, we promote our jobs in multiple 
+languages and participate in community job fairs giving equal access to opportunities. We actively engage local community leaders to gain access to untapped and underserved communities to attract talent that is generally not easily accessible, including emancipated foster youth, veterans and victims of human trafficking and domestic abuse. We are building a diverse talent slate of future generation leaders through our progressive outreach programs.
+As we work to enhance our programs in 2022, we are 
+excited to introduce unconscious bias training and expect broader engagement on relevant policy issues building on our support for California Assembly Bill 979, designed to produce more ethnically diverse members of public boards.  
+Sonja Wilkerson
+CPO, EVP HR
+A new generation of executive leaders like Sonja Wilkerson  
+are working hard to change the Silicon Valley approach 
+to inclusion and diversity. She recognizes that promoting I&D is not only the right thing to do but also a foundational element of a company’s success. This is what powers Sonja. Read more .
+37
+2021 Sustainability Report - Solutions for a Decarbonized FutureTAKING CARE OF OUR EMPLOYEES SUPPORTING EMPLOYEE WELL-BEING SUPPORTING OUR COMMUNITIESABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESCompensation and Benefits
+Our talent strategy is integral to our business success 
+and we design competitive and innovative compensation and benefits programs to help meet the needs of our employees. In addition to salaries, these programs (which vary by country/region) include annual bonuses, stock awards, an employee stock purchase plan, a 401(k) plan, healthcare and insurance benefits, health savings and flexible spending accounts, paid time off, parental leave, flexible work schedules, an extensive mental health program, fitness center and financial planning and education for all levels of the organization.Supporting Employee Well-Being
+investigation, hazard correction, risk assessment and training. We track all safety incidents electronically and require submittal of an incident report within 24 hours that includes identification of immediate, short-term and long-term corrective actions, as well as root causes. We review quarterly and annual data on incidents to identify trends and target resources for improvement.
+Required Employee EH&S Training
+1. Ne w workers before or at the time of initial job assignment.
+2.
+ W
+orkers given new job assignments for which training 
+has not previously occurred.
+3.
+ W
+henever new substances, processes, procedures 
+or equipment are introduced to the workplace and 
+represent a new potential hazard.
+4.
+ W
+henever new or previously unrecognized hazards 
+are identified.
+5.
+ Supervisor
+s to familiarize themselves with the safety 
+and health hazards to which workers under their immediate direction may be exposed.
+6.
+ Si
+te-specific training on emergency procedures and 
+potential hazards and controls relevant to job tasks and specific workstations.
+In response to the COVID-19 pandemic, in 2020 and again in 2021, we implemented significant changes to help our employees, as well as the communities in which we operate, and which comply with government regulations. This included some remote work, while implementing additional safety measures for the 40% of our employees continuing critical on-site work in our manufacturing, installation and service organizations. For these populations, we have developed an unparalleled program of on-site testing. Starting during the summer of 2021, we reopened our offices, with testing and vaccination requirements, but we continue to remain flexible and attentive to our employees concerns and safety. Employee Health, Safety 
+and Training
+We are committed to the health, safety and wellness 
+of our employees. We integrate safety throughout our operations through safety, health and environmental policies, procedures and ongoing training. Our “Design for Safety” initiatives focus on prevention and continuous improvement through interactive training programs with employees, hands-on audits, monthly team meetings, and deep-dive investigations when incidents do arise so we can learn and improve. 
+We manage occupational health and safety via our Injury 
+and Illness Prevention Program (“IIPP”). The IIPP is our EH&S standard and applies across our business. All of our employees, contractors, interns, visitors and subcontractors are expected to follow the IIPP, which details procedures for inspections, occupational injury/illness reporting and COVID Safety
+As the world still grapples with the COVID-19 pandemic, we remain committed to ensuring the health and safety of our employees. Our corporate headquarters continues to use state-of-the-art air filtration systems FDA-verified to destroy the virus. We follow stringent CDC and local guidelines as they continue to evolve. Throughout 2021, we required masks to be worn in our manufacturing facilities, as well as daily temperature, weekly COVID-19 testing and health checks for everyone entering the building. All areas are regularly cleaned and disinfected. Weekly COVID-19 testing is required of all employees with quarantine protocols in place.
+TAKING CARE OF OUR EMPLOYEES SUPPORTING EMPLOYEE WELL-BEING SUPPORTING OUR COMMUNITIESABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+38
+2021 Sustainability Report - Solutions for a Decarbonized FutureSupporting Our Communities
+Bloom Energy is committed to giving back to our local and 
+global communities and improving lives. This is what led one of our outstanding engineers to learn how to refurbish ventilators and teach others how to repair them when there was a shortage of the units at the beginning of the COVID-19 pandemic. Our team also developed ventilators 2.0, a reliable, user-friendly ventilator solution that provides ventilation support to four people simultaneously in emergency situations. For this, Bloom was recognized last year in 
+Fast Company’s  “Pandemic Response” category 
+of its “World Changing Ideas Awards.” The award honors businesses, policies, projects, and concepts that are actively engaged and deeply committed to pursuing innovation to solve health and climate crises, social injustice, or economic inequality.
+In 2021, to support frontline hospital and healthcare 
+workers, we launched our Inaugural Bloom Energy “Stars & Strides” community run/walk fundraiser where employees and families were encouraged to participate. All proceeds from the event benefited the VMC Foundation, a community-driven nonprofit organization that raises funds in support of Silicon Valley’s most vital public healthcare institution – Santa Clara Valley Medical Center Hospitals & Clinics. We also spearheaded the creation of a rapid PCR testing lab in collaboration with the University of Illinois’ Shield T3 and El Camino Health. With over 35 Bay Area organizations participating in the testing, more than $1.2 million dollars has been raised for the VMC Foundation, supporting the purchase of a mobile vaccination lab to bring vaccinations to housebound, elderly, disabled, children, and other residents in underserved areas. 
+Growing Clean 
+Energy Manufacturing Jobs Domestically
+Bloom’s domestic manufacturing employee 
+base continues to grow. In 2021 we increased our manufacturing workforce in both Newark, Delaware and California by over 50%. This included the conversion of approximately 120 contract employees to full-time staff with associated benefits. With more than 395 fulltime employees and 101 contractors now at our Delaware facility, we will continue to propel innovation at the University of Delaware’s Science, Technology, and Advanced Research (STAR) Campus, where we are an anchor tenant providing collaborative research and commercial opportunities surrounding our innovative product line including hydrogen products manufactured at the facility.
+To find out more about how we serve our 
+community, please see our 2020 Sustainability Report.
+TAKING CARE OF OUR EMPLOYEES SUPPORTING EMPLOYEE WELL-BEING SUPPORTING OUR COMMUNITIESABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+39
+2021 Sustainability Report - Solutions for a Decarbonized FutureWe continue the evolution of our board oversight and management processes to more fully and formally 
+incorporate ESG data and analysis into our strategy development, risk management, and operations. Our sustainability governance structure involves numerous participants engaging in information sharing and decision-making, capitalizing on the depth and breadth of expertise throughout the company.ESG 
+Management and Oversight
+Contents 41 ESG Managemen t and Oversight
+42 En
+vironmental Management System
+43 Busine
+ss Ethics and Compliance
+2021 Sustainability Report - Solutions for a Decarbonized Future
+INNOV ATION ENVIRONMENT PEOPLE APPENDICES MANAGEMENT ABOUT US OUR STRATEGY
+40ESG Management and Oversight
+CEO •Approves ESG goals and positioning•
+•Pushes executional mandates internally•Board of
+Directors •Approves company strategy, including ESG components
+•Provides strategic guidance on ESG matters relevant to the company’s business 
+Nominating, Governance & Public Policy Committee
+•Oversees and makes recommendations to the Board on governance and sustainability matters
+•Oversees all ESG matters
+•Provides guidance on significant social and political trends, legislative proposals and regulatory developments, and energyand environmental policyAudit Committee
+•Oversees the policies and processes established by management to assess, monitor, manage, and control the Company’s material risk exposures including those pertaining to ESG and the risks potential impact on the financials Compensation and Organizational Development Committee
+•Oversees all issues pertaining to human capital management - organizational development goals and programs including leadership development,talent assessments, and diversity and inclusion initiatives and objectives 
+•Responsible for executive compensation and any pay metrics tied to ESG performance
+•Information on ESG programs, goals, and metrics, and the identification, assessment, monitoring, and management of ESG risks
+•Information on processes for ESG risk identification, assessment, monitoring and management
+•Information on status of compliance programs
+•Reporting on culture, working environment, talent composition, 
+social or other issues impacting the workforce Information and recommendations
+ESG Committee
+EVP ,CFO EVP ,COO EVP ,CTO EVP ,CMO EVP , ChiefSales Officer 
+•Responsible for setting ESG priorities and objectives
+Cross-functional ESG Working Group 
+•
+•Department leaders deputized by ESG Committee to execute programs 
+Responsible to inform and produce relevant positioning, programs, policies, procedures, goals, or reporting as directedSenior Director,
+Environ mental
+Com pliance and EH&S 
+•Owns Compliance execution
+•Leads development and
+implementation of internalmanagement system  Senior Director , 
+Sustainability
+•Owns Voluntary execution
+•Leads public disclosure activitiesEVP Ser vices,  Quality,
+Reliability and EH&S 
+•Co-Chairs ESG CommitteeEVP Gove rnmen t Affairs
+and Policy 
+•Co-Chairs ESG Committee
+VOLUNTARY   PRO GRAMS COMP LIANCE   PROGRAMS•Information and recommendations
+EVP , Chief
+People Officer  EVP , General
+Counsel EVP , International
+Business Dev. Board Oversight of ESG
+The Board, both as a whole and through its independent committees, oversees 
+our strategy, ESG efforts, and risk management processes. All Board committees have active oversight of one or more key ESG components. In 2020, our Board delegated to the Nominating, Governance & Public Policy Committee (the “Nominating Committee”) oversight of ESG matters in general in recognition of their relevance to our business and that the Nominating Committee was already chartered with corporate governance matters, non-financial regulatory matters and policy. The Audit Committee, with its oversight of risk management processes and financial matters, and the Compensation and Organizational Development Committee (the “Compensation Committee”), which oversees human capital matters (including inclusion and diversity), share relevant information and analysis with the Nominating Committee. The full Board takes into account the work of these committees in considering and providing guidance on our strategy and objectives for the short-, medium-, and long-term, including on climate and other sustainability-related strategy and objectives. Management regularly provides the Nominating Committee with background on emerging trends, evolving external reporting frameworks, and the importance of ESG to the
+ 
+business.
+Risk Management Process
+Our ESG Committee is well positioned to identify and develop a response to ESG-related risks as they are encountered, and the formalized committee structure adds a level of transparency and accountability in the ongoing management of such risks. The senior director of sustainability and senior director of EH&S are tasked with coordinating dedicated cross-functional groups in their development of risk responses and programming once risks are identified. The ESG Committee evaluates related risks for significance and recommends to the CEO strategies for responding to and managing the risks.
+Climate-related risks are a high priority for us due to their likelihood, impact, and 
+velocity and are part of our sustainability-related governance framework. Climate risks are considered and addressed as needed in the budgeting process for product, services, and electricity costs, primarily related to the ESG risks of market and technology shift, policy and legal, and physical risks.
+41
+2021 Sustainability Report - Solutions for a Decarbonized FutureESG MANAGEMENT AND OVERSIGHT ENVIRONMENTAL MANAGEMENT SYSTEM BUSINESS ETHICS AND COMPLIANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESEnvironmental Management System
+In 2021, Bloom established an ISO 14001-informed 
+Environmental Management System (EMS) that is consistent with its Environmental Policy and provides the framework for managing its environmental impacts in a comprehensive, systematic, planned and documented manner. This will help ensure the organization is continuously improving its environmental performance. EMS development began in Q4 2020 and was overseen by a cross-functional team composed of talent from every part of the organization that provided input at all stages of development. As part of the process, the development team analyzed the needs and expectations of interested parties and internal and external issues relevant to the organization and the EMS. In addition, an EMS manual was developed and approved that includes our environmental policy and procedures that address among other things: roles, responsibilities,  and authorities; training; 
+communication; document control and management; and change management. The planning stage, initial aspects,  and 
+impacts analyses, and a gap assessment were completed in early 2021, and the findings informed the Environmental Objectives and Action Plans that were approved by relevant stakeholders including Bloom’s ESG Committee in Q3 2021. Our first company-wide EMS training was developed in Q4 2021.
+The next phase of Bloom’s EMS is to deploy the EMS 
+awareness training company-wide, which will occur in Q1 2022. The training provides an overview of what EMS is, highlights the work done to date and includes an overview of the highest-ranked environmental risks, otherwise known as significant environmental aspects (SEAs). The SEAs were determined by evaluating over 200 Bloom specific activities and using a prescribed process for risk ranking and identifying opportunities for improvement. Fortunately, existing operational controls are already addressing many SEAs that might otherwise be considered high risk. Via the SEA ranking process, however, Bloom did identify areas for improvement and developed its first set of Environmental Objectives and Action Plans, which will help reduce environmental risk and/or improve environmental performance in key areas including, but not limited to, chemical procurement and air permitting. Implementation of these first Action Plans and our first EMS audit will also occur in 2022. The ESG Committee will continue to provide the platform for executive level management review of progress on environmental objectives on at least an annual basis.
+An EMS is:
+A framework  for managing an 
+organization’s environmental program in 
+a comprehensive, systematic, planned, 
+and documented manner. It encourages an organization to continuously improve its environmental performance. The system follows a repeating cycle of Plan-Do-Check-Act.PLANDO
+CHECKACT
+42
+2021 Sustainability Report - Solutions for a Decarbonized FutureESG MANAGEMENT AND OVERSIGHT ENVIRONMENTAL MANAGEMENT SYSTEM BUSINESS ETHICS AND COMPLIANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESBusiness Ethics and Compliance
+At Bloom Energy, we endeavor to create a 
+culture of ethical decision making. Acting ethically builds loyalty, trust, and respect with our employees, business partners, customers, and the communities we serve. Each of the countries where we do business has its own laws, regulations, and customs. We strive to always comply with the law, wherever we live or work.
+Global Code of Business  
+Conduct and Ethics
+Our Global Code of Business Conduct and Ethics (“Code 
+of Conduct”) applies to Bloom Energy Corporation and its 
+subsidiaries and their employees, corporate officers,  and 
+directors, as well as contractors assigned to work at Bloom Energy. The Code of Conduct is available in all applicable languages and addresses a range of ethics and compliance issues Bloom faces around the world. It summarizes key compliance policies and helps put Bloom’s ethical principles into practice. The Audit Committee, on behalf of the Board, oversees compliance with the Code of Conduct, including the consideration of actual and potential conflicts of interest, the review and approval of related party transactions, and the review and approval of procedures for handling complaints regarding accounting or auditing matters.
+Leadership
+Leaders have additional responsibilities at Bloom Energy. Their everyday actions are the most key factors in fostering an ethical culture where employees act in compliance with the principles set forth in our Code of Conduct. They are responsible for regularly communicating the importance of ethically sound business practices, creating an open-door environment in which honest communication is encouraged , 
+and promptly reporting any concerns received from members of their team.
+Whistleblower Protection
+We provide an external channel for employees, contractors, and business partners to ask questions and report concerns or potential violation of the law, our Code of Conduct or our policies. Our Ethics Helpline is hosted by an independent third party and allows reporters to remain anonymous, where permitted by local law. We do not allow retaliation against anyone who, in good faith, discloses any actual or suspected violations of the law, our Code of Conduct or policies, or participates in an investigation.
+The Audit Committee receives a regular report from 
+executive management that summarizes the number and types of issues submitted to us through our Ethics Helpline and management’s responses.
+Employee Training
+We are committed to properly educating our employees on ethical matters. Training may take the form of computer-based or live training, policy acknowledgement or certification, and email communications.
+Together, our Human Resources and Legal teams work 
+to provide our employees with appropriate training on compliance-related issues upon hire and periodically thereafter. All new employees are required to complete training on our Code of Conduct and workplace harassment within their first 30 days. Non-manufacturing employees are also required to complete training on insider trading, anti-corruption, conflicts of interest, accurate books and records, and security awareness within their first 60 days of hire.In 2021, all our employees completed refresher training on our Code of Conduct, which also included a certification. Our non-manufacturing employees also participated in anti-bribery and corruption and security awareness training.
+Regulatory Compliance
+We are committed to complying with our Code of Conduct and obeying all applicable laws where we do business. We compete on the quality of our products and strictly prohibit all forms of bribery and corruption, in any form, whether government or commercial bribery.
+Business Partners
+We choose business partners who share our mission, and we intend to only work with those who agree that our shared success is based on acting ethically and lawfully. Following the law is not enough. Our business partners are asked to adhere to our Global Business Partner Standards, which include:
+•
+ C
+onducting business with high ethical standards;
+•
+ C
+omplying with applicable law;
+•
+ Suppor
+ting the human rights of workers and treating 
+employees with dignity;
+•
+ Main
+taining safe and healthy working conditions for 
+workers; and
+•
+ Reducing the en
+vironmental impact of business and 
+incorporating sustainable practices into operations.
+Compliance Governance
+We continue to invest in our compliance governance process. In 2021, we hired a new global leader for our corporate ethics and compliance program, and developed a network of Compliance and Ethics Champions, representing various departments and teams around the world.The Audit Committee, supported by the executive vice president and general counsel, oversees our global ethics and compliance program.
+Internal Audit
+Internal Audit performs a risk assessment to develop an annual audit plan which focuses on the strategic, operations, compliance and financial risks of the organization. The audit plan is approved by the Audit Committee. We perform internal audit reviews on a risk basis to review compliance with business and regulatory requirements, such as Sarbanes-Oxley. The results of each audit are reported to senior management and the Audit Committee.
+43
+2021 Sustainability Report - Solutions for a Decarbonized FutureESG MANAGEMENT AND OVERSIGHT ENVIRONMENTAL MANAGEMENT SYSTEM BUSINESS ETHICS AND COMPLIANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESAppendices
+Contents 45 GRI Inde x
+48 S
+ASB Index
+49 T
+CFD Index
+50 As
+surance
+44
+2021 Sustainability Report - Solutions for a Decarbonized Future
+2021 Sustainability Report - Solutions for a Decarbonized Future44ABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESGRI Index
+DISCLOSURE 
+NUMBER DISCLOSURE TITLE RESPONSE
+102-1 Name of the organization Bloom Energy Corporation
+102-2 Activities, brands, products, and 
+servicesSee About Us Section
+102-3 Location of headquarters 4353 North First Street San Jose, CA 95134 United States
+102-4 Location of operations See About Us Section
+102-5 Ownership and legal form See About Us Section
+102-6 Markets served See About Us Section
+102-7 Scale of the organization See About Us Section
+102-9 Supply chain See Materials Sourcing Section in Environment
+102-13 Membership of associations Business Council for Sustainable Energy, Advanced Energy Economy, TechNet, Fuel Cell and Hydrogen Energy Association, and Carbon Utilization Research Council
+102-14 Statement from senior decision-maker See CEO Letter
+102-15 Key impacts, risks, and opportunities See Strategy Section
+102-16 Values, principles, standards, and norms of behaviorSee ESG Governance and Oversight Section
+102-17 Mechanisms for advice and concerns about ethicsSee ESG Governance and Oversight Section
+102-18 Governance structure See Governance Section See ESG Governance and Oversight Section
+102-19 Delegating authority See Governance Section See ESG Governance and Oversight Section
+102-20 Executive-level responsibility for economic, environmental, and social topicsSee Governance Section See ESG Governance and Oversight Section
+102-21 Consulting stakeholders on economic, environmental, and social topicsSee Governance Section See ESG Governance and Oversight Section
+102-22 Composition of the highest governance body and its committeesSee Governance Section See ESG Governance and Oversight Section
+102-23 Chair of the highest governance body See Governance Section See ESG Governance and Oversight Section
+102-24 Nominating and selecting the highest governance bodySee ESG Governance Section
+102-25 Conflicts of interest See Proxy Statementhttps://investor.bloomenergy.com/financials-and-filings/sec-filings/default.aspx
+102-26 Role of highest governance body in setting purpose, values, and strategySee ESG Governance and Oversight Section
+102-27 Collective knowledge of highest governance bodySee ESG Governance and Oversight Section
+102-29 Identifying and managing economic, environmental, and social impactsSee ESG Governance and Oversight Section
+102-30 Effectiveness of risk management processesSee Governance Section See ESG Governance and Oversight SectionDISCLOSURE 
+NUMBER DISCLOSURE TITLE RESPONSE
+102-31 Review of economic, environmental, 
+and social topicsSee Governance Section See ESG Governance and Oversight Section
+102-32 Highest governance body’s role in sustainability reportingSee Governance Section See ESG Governance and Oversight Section
+102-33 Communicating critical concerns See Governance Section See ESG Governance and Oversight Section
+102-40 List of stakeholder groups See Materiality Analysis
+102-42 Identifying and selecting stakeholders See Materiality Analysis Section
+102-43 Approach to stakeholder engagement See Materiality Analysis Section
+102-44 Key topics and concerns raised See Materiality Analysis Section
+102-45 Entities included in the consolidated financial statementsSee 10-Khttps://investor.bloomenergy.com/financials-and-filings/sec-filings/default.aspx
+102-47 List of material topics See Materiality Analysis Section
+102-49 Changes in reporting See About Us Section
+102-50 Reporting period See About Us Section
+102-51 Date of most recent report See About Us Section
+102-52 Reporting cycle See About Us Section
+102-53 Contact point for questions regarding the reportSee About Us Section
+102-55 GRI content index See GRI Appendix
+102-56 External assurance See Green Finance Assurance Statement
+201-1 Direct economic value generated and distributedSee 10-K and Earnings Reporthttps://investor.bloomenergy.com/financials-and-filings/sec-filings/default.aspx
+201-2 Financial implications and other risks and opportunities due to climate changeSee Strategy Section
+203-1 Infrastructure investments and services supportedSee People Section
+205-2 Communication and training about anti-corruption policies and proceduresBloom’s anti-corruption policies and procedures have been communicated to all members of the governance body.Bloom does not require business partners to take the anti-corruption training. However, Bloom communicates the anti-corruption policies to business partners through contract language, which is agreed upon by both parties.A total of 99.9% of Bloom employees completed the anti-corruption company training in calendar year 2021.
+205-3 Confirmed incidents of corruption and actions takenNone
+206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practicesNone
+45
+2021 Sustainability Report - Solutions for a Decarbonized FutureGRI INDEX SASB INDEX TCFD INDEX ASSURANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES
+DISCLOSURE 
+NUMBER DISCLOSURE TITLE RESPONSE
+207-1 Approach to tax Our tax strategy is primarily focused on compliance with all applicable laws and tax efficiency.
+207-2 Tax governance, control, and risk 
+managementThe company stays current on tax law changes and utilizes outside tax advisors if needed. Significant tax issues are analyzed, tax risks are assessed and tax positions are documented.
+207-3 Stakeholder engagement and management of concerns related to taxBloom project finance partners do recognize tax benefit from the Section 48 federal investment tax credit. As such, Bloom does work with industry partners and environmental NGOs to advocate for ITC related program extensions, other tax credits, and payment alternatives which would support project economics. Additionally, Bloom has supported an extension of the Section 45Q tax credit for carbon capture and sequestration.
+207-4 Country-by-country reporting The Company stays compliant with country-by-country reporting in each jurisdiction.
+301-1 Materials used by weight or volume See Product End of Life Management Section
+301-2 Recycled input materials used See Product End of Life Management Section
+301-3 Reclaimed products and their packaging materialsSee Product End of Life Management Section
+302-1 Energy consumption within the organizationSee SASB Table
+302-3 Energy intensity See Eco-Efficiency Section
+302-5 Reductions in energy requirements of products and servicesSee Innovation Section or SASB Table on Equipment Efficiency
+303-1 Interactions with water as a shared resourceSee Environment Section on Water
+303-2 Management of water discharge-related impactsSee Environment Section on Water
+303-3 Water withdrawal See Environment Section on Water
+303-4 Water discharge See Environment Section on Water
+303-5 Water consumption See Environment Section on Water
+304-1 Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside protected areasNone
+305-1 Direct (Scope 1) GHG emissions See SASB Table
+305-2 Energy indirect (Scope 2) GHG emissionsSee SASB Table
+305-4 GHG emissions intensity See SASB Table
+305-5 Reduction of GHG emissions See Environment Section
+305-6 Emissions of ozone-depleting substances (ODS)See Environment Section
+305-7 Nitrogen oxides (NO
+X), sulfur oxides 
+(SOX), and other significant air 
+emissionsSee Environment Section
+306-1 Waste generation and significant waste-related impactsSee Product End of Life Management Section
+306-2 Management of significant waste-related impactsSee Product End of Life Management Section
+306-3 Waste generated See Product End of Life Management Section
+306-4 Waste diverted from disposal See Product End of Life Management Section
+306-5 Waste directed to disposal See Product End of Life Management SectionDISCLOSURE 
+NUMBER DISCLOSURE TITLE RESPONSE
+307-1 Non-compliance with environmental 
+laws and regulationsBloom has not identified any non-compliance with environmental laws and/or regulations in 2021.
+308-1 New suppliers that were screened using environmental criteriaSee Materials Sourcing Section
+308-2 Negative environmental impacts in the supply chain and actions takenBloom includes language in all supplier contracts which requires all suppliers comply with all applicable laws and ordinances including those governing environmental and health and safety. None of suppliers who are engaged in supply chain contracts with Bloom were audited to assess environmental or social impacts but are required to follow all of Bloom’s Business Partner Standards, available at bloomenergy.com/supply chain and is updated periodically.
+403-1 Occupational health and safety management systemSee Employee Safety and Training SectionBloom manages occupational health and safety via its Injury and Illness Prevention Program (IIPP). The IIPP is required by the California Occupational Safety and Health Administration (Cal/OSHA) as outlined in the California Code of Regulations (CCR) Title 8 General Industry Safety Orders Section 3202 and Title 8 Construction Safety Orders Section 1509. The IIPP is Bloom’s Corporate Environmental Health & Safety (EHS) standard and applies to all areas. All BE employees, contractors, interns, visitors and subcontractors are expected to follow the EHS policies that are referenced therein and applicable to operations being performed within BE facilities and at customer sites outside of BE facilities.
+403-2 Hazard identification, risk assessment, and incident investigationSee Employee Safety and Training SectionSee IIPP, which includes information on procedures relating to Inspections, Occupational Injury/Illness Reporting and Investigation, Hazard Correction, Risk Assessment and Training. Bloom Energy and its contractors are required to participate in training on hazard identification and risk assessment. This training is required to be provided to affected employees and contractors on a periodic basis, and as a refresher after a near miss occurs. Moreover, Bloom tracks all incidents via an electronic QuickBase system. To that end, Bloom requires completion and submittal of an electronic incident report within 24 hours of any Accident, Incident, Equipment Damage, Injury, Illness, and/or Near Miss. Among other things, the reporting form requires investigation and the identification of: immediate corrective action(s); short term corrective action(s); long-term corrective action(s); and root cause(s) and incident reports are not closed until corrective actions are completed. In order to get to root cause(s), Bloom employees utilize common techniques including the 5 Whys. All incident reports are tracked via the electronic system and at any point in time, Bloom can generate quarterly and annual data on each category of incident, including recordable injuries. This data is utilized to identify trends and target EHS resources for purposes of continuous improvement.
+403-3 Occupational health services See above.
+403-4 Worker participation, consultation, and communication on occupational health and safetyAs indicated above and below, Bloom has a robust occupational health and safety management system that requires training and retraining in a number of areas and circumstances and where workers actively participate in the incident reporting and resolution process. In addition, the Bloom Energy Safety Team (BEST) is a joint cross-functional worker and management committee instated to promote a safe and injury-free workplace. BEST meets at least quarterly to discuss EH&S updates and champion safety communication throughout the organization.
+46
+2021 Sustainability Report - Solutions for a Decarbonized FutureGRI INDEX SASB INDEX TCFD INDEX ASSURANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESDISCLOSURE 
+NUMBER DISCLOSURE TITLE RESPONSE
+403-5 Worker training on occupational 
+health and safetyIn order to ensure that employees receive the information required to complete job tasks appropriately and safely, Bloom uses the following training programs:(1) Training for all new workers prior to or at the time of initial job assignment; (2) Training for all workers given new job assignments for which training has not previously been received; (3) Training whenever new substances, processes, procedures or equipment are introduced to the workplace and represent a new hazard; (4) Training whenever Bloom is made aware of a new or previously unrecognized hazard; and (5) Training for supervisors to familiarize themselves with the safety and health hazards to which workers under their immediate direction and control may be exposed. In addition to the above, the following is also provided as needed: (a) additional training courses are provided to Bloom employees depending on job tasks and additional job duties (i.e., participation in emergency response activities); (b) additional training might also be provided for reasons including, but not limited to, emergency preparation, such as Fire extinguisher, First Aid/Cardiopulmonary Resuscitation (CPR), and lift trucks; and (c) Site Specific Training: All new employees will be provided site specific emergency procedures and potential hazards and controls training(s) according to their job tasks and specific workstations.
+403-7 Prevention and mitigation of occupational health and safety impacts directly linked by business relationshipsSee Employee Safety and Training SectionSee GRI 403-1
+403-9 Work-related injuries See SASB Table
+403-10 Work-related ill health See SASB Table
+404-3 Percentage of employees receiving regular performance and career development reviewsBloom is in the process of developing a performance development program. At this time, 95% of Bloom employees receive regular performance and career development reviews annually.
+405-1 Diversity of governance bodies and employeesSee Promoting Inclusion and Diversity Section
+408-1 Operations and suppliers at significant risk for incidents of child laborBloom’s suppliers are required by contract to undertake commercially reasonable efforts to ensure Bloom Energy products are not produced with labor from slavery or human trafficking. None of Bloom’s suppliers are considered to have significant risk for incidences of child or forced labor.
+409-1 Operations and suppliers at significant risk for incidents of forced or compulsory laborSee GRI 408-1
+413-1 Operations with local community engagement, impact assessments, and development programsSee Community Section
+413-2 Operations with significant actual and potential negative impacts on local communitiesSee Community Section
+414-1 New suppliers that were screened using social criteriaSee GRI 308-1 Response
+414-2 Negative social impacts in the supply chain and actions takenSee GRI 308-2 Response
+415-1 Political contributions $0, the Corporation did not make any financial or in-kind political contributions.The Bloom Energy Corporation Political Action Committee (Be PAC) was established in 2021. Be PAC is funded exclusively through voluntary contributions from Bloom Energy employees and shareholders. The purpose of the PAC is to create a forum for Bloom employees and shareholders to engage in the political process and support candidates for federal office that are aligned with Bloom’s policy goals. The Be PAC campaign finance data can be found at www.fec.gov.DISCLOSURE 
+NUMBER DISCLOSURE TITLE RESPONSE
+416-2 Incidents of non-compliance 
+concerning the health and safety impacts of products and servicesNone
+418-1 Substantiated complaints concerning breaches of customer privacy and losses of customer dataNone
+419-1 Non-compliance with laws and regulations in the social and economic areaNone
+47
+2021 Sustainability Report - Solutions for a Decarbonized FutureGRI INDEX SASB INDEX TCFD INDEX ASSURANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESSASB Index
+CODE ACCOUNTING METRIC RESPONSE
+Energy Management
+RR-FC-130a.1 (1) Total energy consumed See Environment Section
+(2) Percentage grid electricity See Environment Section
+(3) Percentage renewable See Environment Section
+Air Quality
+Within our operational portfolio, at our California manufacturing facilities, we operate production processes including ink production, cell manufacturing, 
+interconnect manufacturing and stack physical assembly processes that result in emissions of organic compounds that trigger Bay Area Air Quality Management District (BAAQMD) permitting requirements. In 2020, Bloom voluntarily amended its Plant 1 permit to install an emission control device, a regenerative thermal oxidizer (RTO), which controls Volatile Organic Compound (VOC) emissions from the cell printer dryer lines. All other sources are subject to permit limits that ensure compliance with BAAQMD rules. In 2021, Bloom opened a second manufacturing facility in Fremont, CA that also triggered BAAQMD permitting requirements. It is similarly subject to permit limits that ensure compliance with BAAQMD rules.Our Delaware facility includes the final stages of fuel cell manufacturing and among other things includes a pad where fuel cells are tested before going out into the field. The emissions associated with the testing process trigger Delaware Department of Natural Resources and Environmental Control (DNREC) jurisdiction. Up until 2021, Bloom maintained a permit for the facility that limited NOx, CO, VOC and SO
+2 emissions from that process. In 2021, 
+Bloom recertified its natural gas energy server with the California Air Resources Board (CARB). Additional emission benefits/reductions were documented in the source test report that was conducted to support that application. Using these updated and improved emission factors, Bloom was able to work with DNREC and expanded its testing capabilities in Delaware, while also qualifying for the air emissions registration in lieu of the more stringent air permitting requirement.
+Workforce Health & Safety
+RR-FC-320a.1 (1) Total recordable incident rate (TRIR) 1.97
+(2) Fatality rate 0
+RR-FC-320a.2 Description of efforts to assess, monitor, and reduce 
+exposure of workforce to human health hazardsBloom’s management is fully committed to providing a safe working environment. We believe in the principle of ‘safety first’ and that all incidents are preventable. We foster an environment with ongoing integration of safety into all activities to eliminate illness and injuries. To achieve this, the Company has established well-defined safety, health and environmental policies and procedures and ongoing training. We focus on prevention programs and driving continuous improvement via Design for Safety initiatives during development, interactive training programs with all employees, hands-on audits, employee engagement through monthly team meetings, and relentless focus on deep dive investigations ensuring that we learn and improve from incidents.
+Product Efficiency
+RR-FC-410a.1 Average storage capacity of batteries, by product 
+application and technology typeN/A
+RR-FC-410a.2 Average energy efficiency of fuel cells as
+(1) electrical efficiency55.87%
+(2) thermal efficiency, by product application and technology typeN/A
+RR-FC-410a.3 Average battery efficiency as coulombic efficiency, 
+by product application and technology typeN/ACODE ACCOUNTING METRIC RESPONSE
+RR-FC-410a.4 Average operating lifetime of fuel cells, by product 
+application and technology type5.5 years
+RR-FC-410a.5 Average operating lifetime of batteries, by product 
+application and technology typeN/A
+Product End-of-Life Management
+RR-FC-410b.1 Percentage of products sold that are recyclable or 
+reusableSee Environment Section
+RR-FC-410b.2 Weight of end-of-life material recovered, percentage 
+recycledSee Environment Section
+RR-FC-410b.3 Description of approach to manage use, reclamation, 
+and disposal of hazardous materialsSee Environment Section
+Materials Sourcing
+RR-FC-440a.1 Description of the management of risks associated 
+with the use of critical materialsSee Environment Section
+Product Safety
+Bloom’s current product lines, both ES 2.5 and 5.0 fuel cells and ancillary equipment are UL certified. UL is a third-party certification company that has been around for over a century and is universally recognized. UL Certification means that UL has determined that the product meets specific, defined requirements, requirements most often based on UL’s published and nationally recognized Standards for Safety. Being UL certified illustrates a businesses’ dedication to consumer safety, as well as the quality of their products.For reference, the ES 2.5 fuel cell is UL Listed as a “Stationary Fuel Cell Power System” to ANSI/CSA America FC 1-2004. It is UL Listed under UL Category IRGZ and UL File Number MH45102. The ES 5.0 fuel cell is UL Listed as a “Stationary Fuel Cell Power System” to ANSI/CSA FC 1-2014.
+RT-EE-250a.1 Number of recalls issued, total units recalled None
+RT-EE-250a.2 Total amount of monetary losses as a result of legal 
+proceedings associated with product safetyNone
+Business Ethics
+RT-EE-510a.1 Description of policies and practices for prevention 
+of: (1) corruption and bribery and (2) anti-competitive 
+behaviorBloom requires all employees to take anti-corruption training.
+RT-EE-510a.2 Total amount of monetary losses as a result of legal 
+proceedings associated with bribery or corruptionNone
+RT-EE-510a.3 Total amount of monetary losses as a result of 
+legal proceedings associated with anti-competitive behavior regulationsNone
+48
+2021 Sustainability Report - Solutions for a Decarbonized FutureGRI INDEX SASB INDEX TCFD INDEX ASSURANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESTCFD Index
+RECOMMENDED DISCLOSURES BLOOM ENERGY DISCLOSURE
+Governance
+Disclose the organization’s governance around climate-related risks and 
+opportunities.See Governance Section
+a
+ De
+scribe the organization’s governance around climate-related risks 
+and opportunities.See Governance Section
+b.
+ De
+scribe management’s role in assessing and managing climate-
+related risks and opportunities.See Governance Section
+Strategy
+Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning where such information is material.See Strategy Section
+a.
+ De
+scribe the climate-related risks and opportunities the organization 
+has identified over the short, medium, and long term.See Strategy Section
+b.
+ De
+scribe the impact of climate-related risks and opportunities on the 
+organization’s businesses, strategy, and financial planning.See Strategy Section
+c.
+ De
+scribe the resilience of the organization’s strategy, taking into 
+consideration different climate-related scenarios, including a 2°C or lower scenario.See Strategy SectionRECOMMENDED DISCLOSURES BLOOM ENERGY DISCLOSURE
+Risk Management
+Disclose how the organization identifies, assesses, and manages climate-related risks.See Governance Section
+a.
+ De
+scribe the organization’s processes for identifying and assessing 
+climate-related risks.See Governance Section
+b.
+ De
+scribe the organization’s processes for managing climate-related 
+risks.See Governance Section
+c.
+ De
+scribe how processes for identifying, assessing, and managing 
+climate-related risks are integrated into the organization’s overall risk management.See Governance Section
+Metrics and Targets
+Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.See Environment Section
+a.
+ Discl
+ose the metrics used by the organization to assess climate-
+related risks and opportunities in line with its strategy and risk management process.See Environment Section
+b. 
+ Discl
+ose Scope 1, Scope 2 and, if appropriate, Scope 3 greenhouse 
+gas (GHG) emissions and the related risks.See Environment Section
+c.
+ De
+scribe the targets used by the organization to manage climate-
+related risks and opportunities and performance against targets.This is our second year completing a greenhouse gas emissions inventory and associated ESG Report. We are in the process of evaluating our climate-related impacts and developing targets that align with a net-zero future.
+49
+2021 Sustainability Report - Solutions for a Decarbonized FutureGRI INDEX SASB INDEX TCFD INDEX ASSURANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESAssurance
+GHG verification statement
+ 
+ 
+ 
+  
+   
+VERIFICATION STATEMENT  
+Reference  1620013696  
+Client  Bloom Energy  
+Address  4353 North First Street, San Jose, CA 95134  
+Date 22nd March 2022 
+Reporting Period  01st January  2021 to 31st December  2021 
+Lead Verifier  Paul Parker  
+  
+Introduction and Scope  
+ 
+This Verification Statement has been prepared for Bloom Energy  (Bloom) . 
+Our verification was performed in accordance with the specification and guidance defined in ISO 14064 -
+3:2006 to provide  a limited  level of assurance  about whether the CY21 Bloom ’s Scope 1  and 2 
+greenhouse gas assertion is free from material misstatement and has been prepared in accordance with 
+the World Resources Institute (WRI)/World Business Council for Sustainable Development (WB CSD) 
+Greenhouse Gas (GHG) Protocol as agreed.  
+The GHG assertion rela tes to the following categories against which verification testing was conducted:  
+• Scope 1  – Direct GHG emissions from  stationary combustion, mobile combustion, fugitives, 
+purchased natural  gas and fuel cells  
+• Scope 2  – GHG emissions from purchased and consumed electricity  
+The management of Bloom  is responsible for all institutional, managerial, and technical arrangements 
+made for the collection of data, preparation of the GHG assertion, and implementation of steps to manage the quality of the GHG assertion.  
+It is Ramboll UK Limited’s  responsibility to express an independent GHG verification opinion on the GHG 
+assertion in accordance with our contract with Bloom . 
+The following work was performed by the verification team as a risk -based sampling exercise in order to 
+test the GHG information and associated GHG assertion:  
+• Reviewed the reporting organisation, roles and responsibilities, tools used and information flow in order to assess the correct  understanding and application of criteria  
+• Compared a sample of reported data and primary evidence  
+• Performed an arithmetic verification of calculations  
+• Reviewed the internal controls which have been implemented to ensure the reliability of reported data 
+A materiality level of 5% was applied.  
+There have been no exclusions  of any emissions source s 
+ 
+ 
+  
+k7YWXEMREP]XMGW
+
+&&PPSSSSQQ))RRIIVVKK]]''SSVVTTSSVVEEXXMMSSRR
+88]]TTIISSJJ))RRKKEEKKIIQQIIRRXX%RRYEP6IZMI[
+((EEXXII1EVGL
+))RRKKEEKKIIQQIIRRXX88IIEEQQ
+%QEPE( IZMEQEPEHIZM$QSVRMRKWXEVGSQ 
+,EQSHE=SYWWIJ LEQSHE]SYWWIJ$QSVRMRKWXEVGSQ
+
+--RRXXVVSSHHYYGGXXMMSSRR
+-R%YKYWX &PSSQ)RIVK]'SVTSVEXMSR “&PSSQ ” or the “Company” MWWYIHKVIIRRSXIWEMQIHEX JMRERGMRK
+projects that are expected to improve the carbon footprint associated with the Company’s own operations 
+ERHEGVSWWMXWIRXMVIZEPYIGLEMR under the Bloom Energy Green Bond Framework (“the Framework”) 
+7YWXEMREP]XMGWTVSZMHIHE7IGSRH 4EVX]3TMRMSRSRXLMW*VEQI[SVO MR7ITXIQFIV-R1EVGL
+7YWXEMREP]XMGWTYFPMWLIHER%RRYEP6IZMI[WYQQEVM^MRKXLIEPPSGEXMSRERHMQTEGXWSJXLIM WWYERGIXSHEXI 
+-R*IFVYEV] &PSSQIRKEKIH7YWXEMREP]XMGWXSVIZMI[XLITVSNIGXWJYRHIHXLVSYKLXLIMWWYIH KVIIRFSRHW
+ERHTVSZMHIEREWWIWWQIRXEWXS[LIXLIVXLITVSNIGXWQIXXLI 9WISJ4VSGIIHWGVMXIVMEERHXLI6ITSVXMRK
+GSQQMXQIRXW SYXPMRIHMRXLI *VEQI[SVO 
+))ZZEEPPYYEEXXMMSSRR''VVMMXXIIVVMMEE
+7YWXEMREP]XMGWIZEPYEXIHXLITVSNIGXWERH EWWIXWXLEX[IVIJMRERGIH ERHSVVIJMRERGIH [MXLXLITVSGIIHWSJ
+XLIKVIIRFSRH FEWIHSR[LIXLIVXLI] 
+ 1IXXLI9WISJ4VSGIIHWERH)PMKMFMPMX]'VMXIVMESYXPMRIHMRXLI &PSSQ)RIVK]+VIIR&SRH*VEQI[SVO
+ERH
+ 6ITSVXIHSREXPIEWXSRISJXLI/I]4IVJSVQERGI-RHMGEXSVW/4-WJSVIEGL9WISJ4VSGIIHWGVMXIVMESYXPMRIHMRXLI &PSSQ)RIVK]+VIIR&SRH*VEQI[SVO 
+8EFPIPMWXWXLI9WISJ4VSGIIHW )PMKMFMPMX]'VMXIVME ERHEWWS GMEXIH/4-W 
+8
+8EEFFPPII99WWIISSJJ44VVSSGGIIIIHHWW))PPMMKKMMFFMMPPMMXX]]''VVMMXXIIVVMMEEEERRHHEEWWWWSSGGMMEEXXIIHH//44--WW
+
+ &PSSQ )RIVK] +VIIR &SRH *VEQI[SVO MW MRGPYHIH MR XLI &PSSQ )RIVK]  7YWXEMREFMPMX] 6ITSVX 7YWXEMREFMPMX] VITSVX  EX
+LXXTW[[[FPSSQIRIVK]GSQWYWXEMREFMPMX] 
+ &PSSQ )RIVK] +VIIR &SRH *VEQI[SVO 7IGSRH 4EVX] 3TMRMSR  EX LXXTW[[[WYWXEMREP]XMGWGSQGSVTSVEXIWSPYXMSRWWYWXEMREFPIJMRERGI ERH
+PIRHMRKTYFPMWLIH TVSNIGXWTVSNIGXFPSSQ IRIVK]GSVTSVEXMSRFPSSQ IRIVK]KVIIRFSRHJVEQI[SVO WIGSRH TEVX]STMRMSRFPSSQ KVIIRFSRH
+JVEQI[SVO WIGSRH TEVX]STMRMSR THJ
+7YWXEMREP]XMGW%RRYEPVIZMI[VITSVXHEXIH1EVGLMWMRGPYHIHMR&PSSQ)RIVK]7YWXEMREFMPMX]6ITSVX 4EXFPSSQIRIVK]
+WYWXEMREFMPMX] VITSVXTHJFPSSQIRIVK]GSQ
+99WWIISSJJ
+44VVSSGGIIIIHHWW))PPMMKKMMFFMMPPMMXX]]''VVMMXXIIVVMMEE //II]]TTIIVVJJSSVVQQEERRGGIIMMRRHHMMGGEEXXSSVVWW//44--WW
+66IIRRII[[EEFFPPII
+))RRIIVVKK]])\TIRHMXYVIWVIPEXIHXSXLIQERYJEGXYVMRK
+GSRWXVYGXMSRHIZIPSTQIRX EGUYMWMXMSR
+maintenance, and operation of Bloom’s 
+VIRI[EFPIIRIVK]TVSNIGXWMRGPYHMRK 
+• 6IWIEVGLERHHIZIPSTQIRXJSVFMSKEW
+L]HVSKIRERHFMSIRIVK]XS'EVFSR'ETXYVI&)''7ETTPMGEXMSRW 
+• 1ERYJEGXYVMRKSJFMSKEWGPIERYT
+XIGLRSPSK] 
+• 1ERYJEGXYVMRKSJIPIGXVSP]^IVW
+• 1ERYJEGXYVMRKSJ)RIVK]7IVZIVW
+MRXIRHIHXSFIVYR[MXLSRWMXISVHMVIGXIHFMSKEWSVL]HVSKIR 
+• &MSKEWTVSNIGXHIZIPSTQIRXJVSQUYEPMJ]MRK[EWXIWSYVGIWEPMKRIH[MXLCBI’s draft biomethane sector criteria of 
+	IQMWWMSRWWEZMRKWERHWSYVGI• '3IQMWWMSRWEZSMHIH 
+• 'VMXIVMETSPPYXERXIQMWWMSRWEZSMHIH
+• ;EXIVWEZMRKW
+ Conclusion and Recommendations  
+Based upon the process and procedures conducted, there is no evidence that the Scope 1 and 2 GHG 
+assertion for the  period  01st January  2021 to 31st December  2021 as summarised in Table 1:  
+• is not materially correct and is not a fair representation of GHG data and information; and  
+• has not been prepared in accordance with the requirements defined by  the World Resources 
+Institute (WRI)/World Business Council for Sustainable Development (WBCSD) Greenhouse Gas 
+(GHG) Protocol as agreed . 
+ 
+In order to improve greenhouse gas  reporting, it is recommended that Bloom  should:  
+ 
+• Ensure purchased natural gas for heating buildings is reported in scope 1  
+• Implement a re -calculation policy  for future reporting years  
+• Kyoto  gases  should be reported  separately as per Chapter 9 of the GHG Protocol  
+• Review emission factors used for Korea and India mobile emissions and update if suitable 
+alternatives are found  which include CO2e or separate CH 4 and N20 f actors 
+ 
+ On behalf of:  
+Ramboll UK Limited  
+240 Blackfriars Road  
+London  
+SE1 8NW  Paul Parker  
+Lead Verifier  
+ 
+ 
+Table 1 : Summary of Bloom Energy’s  Scope  1 and 2 GHG Assertion  
+Category  CY2021 
+(MT CO2e) 
+Scope 1  1,441,580  
+Scope 2  Location -based 8,354  
+Total  (location -based approach): 1,449,934 
+Scope 2 Market -based  3,053  
+ 
+%RRYEP6IZMI[  
+&&PPSSSSQQ))RRIIVVKK]]''SSVVTTSSVVEEXXMMSSRR
+ 
+
+ 
+
+
+
+
+
+
+IIssssuuiinngg  EEnnttiittyy’’ss  RReessppoonnssiibbiilliittyy
+&PSSQMWVIWTSRWMFPIJSVTVSZMHMR KEGGYVEXIMRJSVQEXMSRERHHSGYQIRXEXMSRVIPEXMRKXSXLIHIXEMPWSJXLI
+TVSNIGXWXLEXLEZIFIIRJYRHIHMRGPYHMRKHIWGVM TXMSRSJTVSNIGXW EQSYRXWEPPSGEXIHERHTVSNIGXMQTEGXIPMKMFMPMX]GVMXIVMEMWWYIHF]XLI
+'EPMJSVRME%MV6IWSYVGIW&SEVHJSVMXW
+TVSKVEQWEWEVIJIVIRGIWXERHEVH  
+))RRIIVVKK]]
+))JJJJMMGGMMIIRRGG]])\TIRHMXYVIWVIPEXIHXSIRIVK] IJJMGMIRG]
+TVSNIGXWMRGPYHMRKIUYMTQIRXW]WXIQW
+STIVEXMSREPMQTVSZIQIRXWERHQEMRXIRERGI4VSNIGXWMRGPYHI 
+• The company’s fuel cell stack 
+VITPEGIQIRXTVSKVEQJSV)RIVK]7IVZIVWVYRRMRKSRFMSKEWSVL]HVSKIRERHXLSWIXVERW MXMSRMRKMRXSJYPP
+L]HVSKIRGSQTEXMFMPMX] 
+''PPMMQQEEXXII
+''LLEERRKKII
+%%HHEETTXXEEXXMMSSRR
+
+
+)\TIRHMXYVIWVIPEXIHXSQERYJEGXYVMRK
+GSRWXVYGXMSRVIWIEVGLHIZIPSTQIRX
+QEMRXIRERGIERHSTIVEXMSRSJ
+• 1MGVSKVMHWTIGMJMGGSQTSRIRXV] 
+77YYWWXXEEMMRREEFFPPII
+;;EEXXIIVVEERRHH
+;;EEWWXXII[[EEXXIIVV
+11EERREEKKIIQQIIRRXX
+)\TIRHMXYVIWVIPEXIHXS[EXIVIJJMGMIRG]TVSNIGXW
+ERH[EWXI[EXIVQEREKIQIRXMRGPYHMRK
+• )JJMGMIRG]MR[EXIVQEREKIQIRXSJ
+IPIGXVSP]^IVERH)RIVK]7IVZIVW]WXIQW 
+44SSPPPPYYXXMMSSRR
+44VVIIZZIIRRXXMMSSRR
+EERRHH''SSRRXXVVSSPP
+)\TIRHMXYVIWVIPEXIHXSVIHYGXMSRSJEMV
+IQMWWMSRWKVIIRLSYWIKEWGSRXVSPWSMP
+VIQIHMEXMSR[EWXITVIZIRXMSR[EWXIVIHYGXMSR[EWXIVIG]GPMRKERHIRIVK]IQMWWMSR IJJMGMIRX
+[EWXIXSIRIVK]WYGLEW 
+• 4VSHYGXIRHSJPMJIVIG]GPMRKEGXMZMX]  
+++VVIIIIRR
+&&YYMMPPHHMMRRKKWW
+
+)\TIRHMXYVIWVIPEXIHXSRI[ GSRWXVYGXMSR
+YTKVEHIWERHFYMPHSYXSJTVSTIVXMIWXLEXLEZI
+VIGIMZIHSVEVII\TIGXIHXSVIGIMZIGIVXMJMIH 
+• 0))(+SPHSV4PEXMRYQ
+• &6))%1:IV]+SSH)\GIPPIRXSV
+3YXWXERHMRK
+• )RIVK]7XEV  
+''PPIIEERREERRHH
+11EEWWWW
+88VVEERRWWTTSSVVXXEEXXMMSSRR)\TIRHMXYVIWVIPEXIHXS IPIGXVMGZILMGPISV
+L]HVSKIRGLEVKMRKMRJVEWXVYGXYVIMRGPYHMRK 
+• 1ERYJEGXYVISJ)RIVK]7IVZIVW[MXL):GLEVKMRKGETEFMPMX] 
+• 1ERYJEGXYVISJ):GLEVKMRKGSQTSRIRXV] 
+
+1ERYJEGXYVIERHHITPS]QIRXSJIPIGXVSP]^IVW XS
+KIRIVEXIVIRI[EFPIL]HVSKIRJYIPJSVXVERWTSVXETTPMGEXMSRW Green Bond Annual Review
+50
+2021 Sustainability Report - Solutions for a Decarbonized FutureGRI INDEX SASB INDEX TCFD INDEX ASSURANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES%RRYEP6IZMI[  
+&&PPSSSSQQ))RRIIVVKK]]''SSVVTTSSVVEEXXMMSSRR
+ 
+
+ 
+
+--RRHHIITTIIRRHHIIRRGGIIEERRHH55YYEEPPMMXX]]''SSRRXXVVSSPP
+7YWXEMREP]XMGW E PIEHMRK TVSZMHIV SJ )7+ ERH GSVTSVEXI KSZIVRERGI VIWIEVGL ERH VEXMRKW XS MRZIWXSVW
+GSRHYGXIHXLIZIVMJMGEXMSRSJ &PSSQ ’s +VIIR&SRH9WISJ4VSGIIH W8LI[SVOYRHIVXEOIREWTEVXSJXLMW
+IRKEKIQIRXMRGPYHIHGSPPIGXMSRSJHSGYQIRXEXMSRJVSQ &PSSQIQTPS]IIWERHVIZMI[SJHSGYQIRXEXMSRXS
+GSRJMVQXLIGSRJSVQERGI[MXLXLI&PSSQ)RIVK]+VIIR&SRH*VEQI[SVO 
+7YWXEMREP]XMGWLEWVIPMIHSRXLIMRJSVQEXMSRERHXLIJEGXWTVIWIRXIHF] &PSSQ[MXLVIWTIGXXSXLI2SQMREXIH
+4VSNIGXW7YWXEMREP]XMGWMWRSXVIWTSRWMFPIRSVWLEPPMXFILIPHPMEFPIMJER]SJXLISTMRMSRWJMRHMRKWSVGSRGPYWMSRWMXLEWWIXJSVXLLIVIMREVI RSXGSVVIGXHYIXSMRGSVVIGXSVMRGSQTPIXIHEXETVSZMHIHF] &PSSQ
+7YWXEMREP]XMGWQEHIEPPIJJSVXWXSIRWYVIXLILMKLIWXUYEPMX]ERHVMKSVHYVMRKMXWEWWIWWQIRXTVSGIWWERHIRPMWXIHMXW7YWXEMREFMPMX]&SRHW6IZMI['SQQMXXIIXSTVSZMHISZIVWMKLXSZIVXLIEWWIWWQIRXSJXLIVIZMI[ 
+''SSRRGGPPYYWWMMSSRR
+&EWIHSRXLIPMQMXIHEWWYVERGITVSGIHYVIWGSRHYGXIH nothing has come to Sustainalytics’ attention that 
+GEYWIWYWXSFIPMIZIXLEXMREPPQEXIVMEPVIWTIGXWXLIVIZMI[IHFSRHTVSNIGXWJYRHIHXLVSYKLTVSGIIHWSJ&PSSQ ’W+VIIR&SRHEVIRSXMRGSRJSVQERGI[MXLXLI9WISJ4VSGIIHWERH6ITSVXMRK'VMXIVMESYXPMRIHMRXLI
+&PSSQ)RIVK]+VIIR&SRH*VEQI[SVO &PSSQLEWHMWGPSWIHXS7YWXEMREP]XMGWXLEX EWSJIRHSJ	SJ
+XLIKVIIRFSRHTVSGIIHWLEZIFIIR EPPSGEXIH 
+((IIXXEEMMPPIIHH**MMRRHHMMRRKKWW
+88EEFFPPII((IIXXEEMMPPIIHH**MMRRHHMMRRKKWW
+))PPMMKKMMFFMMPPMMXX]]
+''VVMMXXIIVVMMEE44VVSSGGIIHHYYVVII44IIVVJJSSVVQQIIHH**EEGGXXYYEEPP**MMRRHHMMRRKKWW ((IIZZMMEEXXMMSSRRWWJJVVSSQQXXLLII**VVEEQQII[[SSVVOO
+MMHHIIRRXXMMJJMMIIHH
+99WWIISSJJ
+44VVSSGGIIIIHHWW
+''VVMMXXIIVVMMEE:IVMJMGEXMSRSJXLITVSNIGXW
+JYRHIHF]XLI KVIIRFSRH
+MRXSHIXIVQMR IMJ
+TVSNIGXWEPMKRIH[MXLXLI9WISJ4VSGIIHW'VMXIVMESYXPMRIHMRXLI &PSSQ
+)RIVK]+VIIR&SRH*VEQI[SVO ERHEFSZIMR
+8EFPI%PPTVSNIGXWVIZMI[IH 
+GSQTPMIH[MXLXLI9WISJ 
+4VSGIIHW GVMXIVME2SRI
+66IITTSSVVXXMMRRKK
+''VVMMXXIIVVMMEE:IVMJMGEXMSRSJXLITVSNIGXW
+JYRHIHF]XLI KVIIRFSRH
+MRXSHIXIVQMRIMJ
+MQTEGXSJTVSNIGXW[EWVITSVXIHMRPMRI [MXLXLI
+/4-WSYXPMRIHMRXLI &PSSQ
+)RIVK]+VIIR&SRH*VEQI[SVO ERHEFSZIMR
+8EFPI8LVIISJXLIJSYV TVSNIGX
+GEXIKSVMIW VIZMI[IH
+VITSVXIHSREXPIEWXSRI/4-VIPIZERXXSXLI 9WISJ
+4VSGIIHW 
+%PPSGEXMSRVITSVXMRKMWTVSZMHIHEXXLIGEXIKSV]
+PIZIP
+8LIVIMWRSIRZMVSRQIRXEPMQTEGX
+HEXEEZEMPEFPIJSV TVSNIGXW
+JMRERGIHYRHIVXLI6IRI[EFPI
+)RIVK]GEXIKSV] EWXLITVSNIGXWMR
+XLMWGEXIKSV]LEZIRSXFIGSQI
+STIVEXMSREPERHXLIVIJSVIXLI
+MQTEGXWLEZIRSX]IXFIIRVIEPM^IH7YWXEMREP]XMGWHSIWRSX
+ZMI[XLMWEWEJJIGXMRKXLISZIVEPPalignment of Bloom’s impact VITSVXMRK[MXLXLIGSQQMXQIRXWSJXLI*VEQI[SVO
+
+ 
+
+7YWXEMREP]XMGWPMQMXIHEWWYVERGITVSGIWWMRGPYHIWVIZMI[MRKXLIHSGYQIRXEXMSRVIPEXMRKXSXLIHIXEMPWSJXLITVSNIGXWXLEXLEZIFIIRJYRHIHMRGPYHMRK
+HIWGVMTXMSRSJTVSNIGXWIWXMQEXIHERHVIEPM^IHGSWXWSJTVSNIGXWERHTVSNIGXMQTEGX[LMGL[IVITVSZM HIHF]XLI-WWYIV8LI-WWYIVMWVIWTSRWMFPIJSV
+TVSZMHMRKEGGYVEXIMRJSVQEXMSR7YWXEMREP]XMGWLEWRSXGSRHYGXIHSRWMXIZMWMXWXSTVSNIGXW
+&PSSQLEWGSQQYRMGEXIHXS7YWXEMREP]XMGWXLEXMXI\TIGXWXLIVIRI[EFPIIRIVK]TVSNIGXWXSFIGSQISTIVEXMSREP FIX[IIRERH %RRYEP6IZMI[  
+&&PPSSSSQQ))RRIIVVKK]]''SSVVTTSSVVEEXXMMSSRR
+ 
+
+ 
+
+GSQTEVIHXSWMQMPEVFEWIPMRI
+FYMPHMRK
+• 8LITVSNIGX[EWEFPIXSHMZIVX
+EX PIEWX 	 SJ MXW
+GSRWXVYGXMSRERHHIQSPMXMSR[EWXIJVSQXLIPERHJMPPHYVMRKXLI GSRWXVYGXMSR TLEWI 
+At least 20% of the building’s 
+QEXIVMEPW F] GSWX [IVIWSYVGIH JVSQ VIG]GPIHGSRXIRX
+• %XPIEWX	SJXLI FYMPHMRK
+QEXIVMEPW F] GSWX [IVILEVZIWXIHERHQERYJEGXYVIH[MXLMR  QMPIW SJ XLI
+TVSNIGXWMXI
+• 	 SV QSVI SJ XLI JPSSV
+EVIEWLEZIHMVIGXPMRISJWMKLXXSXLISYXHSSVW
+• 	SVQSVISJXLIJPSSVTPERLEWEXPIEWXJSSXGERHPIWSJHE]PMKLX HYVMRK X]TMGE P
+SGGYTERG]LSYVW 
+
+88SSXXEEPP%%PPPPSSGGEEXXIIHH 97(QMPPMSR 
+88SSXXEEPP**YYRRHHWW66EEMMWWIIHH 97(QMPPMSR 
+88SSXXEEPP99RREEPPPPSSGGEEXXIIHH 97(QMPPMSR 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ %RRYEP6IZMI[  
+&&PPSSSSQQ))RRIIVVKK]]''SSVVTTSSVVEEXXMMSSRR
+ 
+
+ 
+
+%%TTTTIIRRHHMM\\
+%%TTTTIIRRHHMM\\%%PPPPSSGGEEXXMMSSRREERRHH--QQTTEEGGXX66IITTSSVVXXMMRRKKFF]]))PPMMKKMMFFMMPPMMXX]]''VVMMXXIIVVMMEE
+
+99WWIISSJJ
+44VVSSGGIIIIHHWW
+''EEXXIIKKSSVV]]44VVSSNNIIGGXXWW**MMRREERRGGIIHH%%QQSSYYRRXX%%PPPPSSGGEEXXIIHH
+11MMPPPPMMSSRR9977(())RRZZMMVVSSRRQQIIRRXXEEPP--QQTTEEGGXX66IITTSSVVXXIIHHFF]]
+))PPMMKKMMFFMMPPMMXX]]''VVMMXXIIVVMMEE
+
+66IIRRII[[EEFFPPII
+))RRIIVVKK]]&MSKEW6
+( 
+&MSKEW)RIVK]
+7IVZIVW
+,]HVSKIR6
+(
+,]HVSKIR)RIVK]
+7IVZIVW
+)PIGXVSP]^IV6
+(  8LI'SQTER]MWWXMPPMRXLITVSGIWWSJ
+QIEWYVMRKXLIIRZMVSRQIRXEPMQTEGX
+SJXLITVSNIGXWMRXLMWGEXIKSV] 
+''PPMMQQEEXXII''LLEERRKKII
+%%HHEETTXXEEXXMMSSRR1MGVSKVMH
+'SQTSRIRXV]1MGVSKVMH6
+(  -R'=&PSSQWQMGVSKVMHW
+JEGMPMXEXIH VMHIXLVSYKLIZIRXW
+JSVMXWGYWXSQIVWGEVV]MRKEXSXEPSJ
+1;LSJIRIVK]HIQERHSZIV
+QMRYXIWSJKVMHSYXEKIW *VSQ
+August 11, 2018 (Bloom’s lookback date) to December 31, 2020, Bloom’s QMGVSKVMHWLEZIJEGMPMXEXIHVMHIXLVSYKLIZIRXWJSV MXWGYWXSQIVW
+GEVV]MRKEXSXEPSJ 1;LSJ
+IRIVK]HIQERHSZIVQMRYXIWSJKVMHSYXEKIW 
+44SSPPPPYYXXMMSSRR
+44VVIIZZIIRRXXMMSSRREERRHH
+''SSRRXXVVSSPP)RHSJ0MJI
+6IG]GPMRK%GXMZMX]  8LI[IMKLXSJIRH SJPMJIQEXIVMEP
+VIGSZIVIHERHEZSMHIHPERHJMPP[EW
+• QIXVMGXSRRIWMR 
+• QIXVMGXSRRIW MR
+• QIXVMGXSRRIWMR
+• QIXVMGXSRRIWMR
+
+++VVIIIIRR&&YYMMPPHHMMRRKKWWBloom’s 
+,IEHUYEVXIVWGIVXMJMIH0))(+SPHMR
+ 8LI0))(+SPH GIVXMJMGEXMSRTVSGIWW
+VIWYPXIHMRXLIJSPPS[MRKQIEWYVEFPIIRZMVSRQIRXEPIJJIGXW
+• 8LI FYMPHMRK MW VIHYGMRK MXWMRHSSVTSXEFPI[EXIVYWIF]EXPIEWX	GSQTEVIHXS XLI
+FEWIPMRI FYMPHMRK
+TIVJSVQERGI
+• -VVMKEXMSRERHSYXHSSV[EXIVYWIW EVI VIHYGMRK TSXEFPI
+[ E X I V Y W I F ] E X P I E W X   	 
+GSQTEVIH XS WMQMPEVPERHWGETIHEVIE
+• 'SVI ERH 7LIPP FYMPHMRK MW
+VIHYGMRK MXW IRIVK]
+GSRWYQTXMSR F] 	
+
+6MHIXLVSYKLIZIRXWEVIXLSWI [LIVIE&PSSQQMGVSKVMHWYTTPMIWTS[IVXSEGYWXSQIVHYVMRKEKVMHSYXEKI 
+-REHHMXMSR&PSSQLEWHMWGPSWIHXS7YWXEMREP]XMGWXLEXMXMWGSRXIQTPEXMRKXLIJMRERGMRKSJMXWRI[QERYJEGXYVMRKJEGMPMX]XLEXMWGYVVIRXP]YRHIV
+GSRWXVYGXMSRMR*VIIQSRX'EPMJSVRME&PSSQMWGYVVIRXP]IZEPYEXMRK0))(GIVXMJMGEXMSRWJSVXLIFYMPHMRKJSVXLIWEQI XSIRWYVIIPMKMFMPMX]YRHIVXLI
+*VEQI[SVO 
+51
+2021 Sustainability Report - Solutions for a Decarbonized FutureGRI INDEX SASB INDEX TCFD INDEX ASSURANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICES%RRYEP6IZMI[  
+&&PPSSSSQQ))RRIIVVKK]]''SSVVTTSSVVEEXXMMSSRR
+ 
+
+ 
+
+((MMWWGGPPEEMMQQIIVV
+''SSTT]]VVMMKKLLXXkk77YYWWXXEEMMRREEPP]]XXMMGGWW%%PPPPVVMMKKLLXXWWVVIIWWIIVVZZIIHH
+8LIMRJSVQEXMSRQIXLSHSPSKMIW ERHSTMRMSRW GSRXEMRIHSVVIJPIGXIHLIVIMREVITVSTVMIXEV]SJ7YWXEMREP]XMGW
+ERHSVMXWXLMVHTEVX]WYTTPMIVW 8LMVH4EVX](EXEERH QE]FIQEHIEZEMPEFPIXSXLMVHTEVXMIWSRP]MRXLIJSVQ
+ERH JSVQEX HMWGPSWIH F] 7YWXEMREP]X MGW SVTVSZMHIH XLEX ETTVSTVMEXI GMXEXMSR ERH EGORS[PIHKIQIRX MW
+IRWYVIH8LI] EVITVSZMHIHJSVMRJSVQEXMSREPTYVTSWIWSRP]ERHHSRSXGSRWXMXYXIERIRHSVWIQIRXSJER]
+TVSHYGXSVTVSNIGX HSRSXGSRWXMXYXIMRZIWXQIRXEHZMGIJMRERGMEPEHZMGI SVETVSWTIGXYWGERRSXFI
+MRXIVTVIXIHEWERSJJIVSVMRHMGEXMSRXSFY]SVWIPPWIGYVMXMIWXSWIPIGXETVSNIGXSVQEOIER]OMRHSJFYWMRIWW
+transactions; (4) do not represent an assessment of the issuer’s economic performance, financial obligations RSVSJMXWGVIHMX[SVXLMRIWW ERHSVLEZIRSXERHGERRSXFIMRGSVTSVEXIHMRXSER]SJJIVMRKHMWGPSWYVI
+8LIWIEVI FEWIHSRMRJSVQEXMSRQEHIEZEMPEFPIF]XLIMWWYIVERHXLIVIJSVIEVIRSX[EVVERXIHEWXSXLIMV
+QIVGLERXEFMPMX]GSQTPIXIRIWWEGGYVEG]YT XSHEXIRIWWSVJMXRIWWJSVETEVXMGYPEVTYVTSWI8LIMRJSVQEXMSR
+and data are provided “as is” and reflect Sustainalytics` opinion at the date of their elaboration and publication. 7YWXEMREP]XMGWEGGITXWRSPMEFMPMX]JSVHEQEKIEVMWMRKJVSQXLIYWISJXLIMRJSVQEXM SRHEXESVSTMRMSRW
+GSRXEMRIHLIVIMRMRER]QERRIV[LEXWSIZIVI\GITX[LIVII\TPMGMXP]VIUYMVIHF]PE[%R]VIJIVIRGIXSXLMVHTEVX]REQIWSV8LMVH4EVX](EXEMWJSVETTVSTVMEXIEGORS[PIHKIQIRXSJXLIMVS[RIVWLMTERHHSIWRSXGSRWXMXYXIEWTSRWSVWLMTSV IRHSVWIQIRXF]WYGLS[RIV%PMWXSJSYVXLMVH TEVX]HEXETVSZMHIVWERHXLIMV
+VIWTIGXMZI XIVQW SJ YWI MW EZEMPEFPI SR SYV [IFWMXI *SV QSVI MRJSVQEXMSRZMWMXLXXT[[[WYWXEMREP]XMGWGSQPIKEP HMWGPEMQIVW 
+8LIMWWYIVMWJYPP]VIWTSRWMFPIJSVGIVXMJ]MRKE RHIRWYVMRKXLIGSQTPMERGI[MXLMXWGSQQMXQIRXWJSVXLIMV
+MQTPIQIRXEXMSRERHQSRMXSVMRK 
+-RGEWISJHMWGVITERGMIWFIX[IIRXLI)RKPMWLPERKYEKIERHXVERWPEXIHZIVWMSRWXLI)RKPMWLPERKYEKIZIVWMSRWLEPPTVIZEMP 
+%RRYEP6IZMI[  
+&&PPSSSSQQ))RRIIVVKK]]''SSVVTTSSVVEEXXMMSSRR
+ 
+
+ 
+
+%%FFSSYYXX77YYWWXXEEMMRREEPP]]XXMMGGWWEE11SSVVRRMMRRKKWWXXEEVV''SSQQTTEERR]]
+7YWXEMREP]XMGWE1SVRMRKWXEV'SQTER]MWEPIEHMRK)7+VIWIEVGLVEXMRKWERHHEXEJMVQXLEXWYTTSVXW
+MRZIWXSVWEVSYRHXLI[SVPH[MXLXLIHIZIPSTQIRXERHMQTPIQIRXEXMSRSJVIWTSRWMFPIMRZIWXQIRXWXVEXIKMIW
+The firm works with hundreds of the world’s lea HMRKEWWIXQEREKIVWERHTIRWMSRJYRHW[LSMRGSVTSVEXI)7+
+and corporate governance information and assessments into their investment processes. The world’s 
+JSVIQSWXMWWYIVWJVSQQYPXMREXMSREPGSVTSVEXMSRWXSJMRERGMEP MRWXMXYXMSRWXSKSZIVRQIRXWEPWSVIP ]SR
+7YWXEMREP]XMGWJSVGVIHMFPIWIGSRHTEVX]STMRMSRWSRKVIIRWSGMEPERHWYWXEMREFPIFSRHJVEQI[SVOW -R
+Climate Bonds Initiative named Sustainalytics the “Largest Approved Verifier for Certified Climate Bonds” for XLIJSYVXLGSRWIGYXMZI]IEV8LI firm was also recognized by Environmental Finance as the “Largest External 
+Reviewer” in 202 JSVXLIXLMVHGSRWIGYXMZI]IEV*SVQSVIMRJSVQEXMSRZMWMX [[[WYWXEMREP]XMGWGSQ 
+
+
+
+
+52
+2021 Sustainability Report - Solutions for a Decarbonized FutureGRI INDEX SASB INDEX TCFD INDEX ASSURANCEABOUT US OUR STRATEGY INNOV ATION ENVIRONMENT PEOPLE MANAGEMENT APPENDICESBloom Energy Headquarters
+4353 North First StreetSan Jose, CA 95134 USAbloomenergy.com
+© Bloom Energy Corporation 2022. All Rights Reserved.

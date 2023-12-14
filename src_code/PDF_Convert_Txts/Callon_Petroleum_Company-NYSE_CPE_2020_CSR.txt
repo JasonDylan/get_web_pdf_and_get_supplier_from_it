@@ -1,0 +1,5376 @@
+2020
+Sustainability
+ReportCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT0203  
+04 
+05 
+06
+07
+12  
+14 
+16  
+20  
+22 24  
+26 
+28
+29
+0832  
+34 
+36 
+37 
+39 
+40 
+41  
+46 
+47  Values
+CEO’s Letter
+About Callon
+About This Report
+Operations Management System 
+Overview
+Environmental Management System
+Air Emissions
+Water Management
+Land StewardshipOverview
+Safety
+Workforce
+Our Communities
+Climate-Related Risk StrategyOverview
+Board of Directors
+Enhanced Risk Oversight
+Pay for Performance
+Shareholder Engagement
+Ethics and Transparency
+SASB Disclosures
+TCFD Disclosures
+Forward-Looking StatementsTable of Contents
+FOREWORD
+ENVIRONMENTALSOCIAL
+TCFD DISCLOSUREGOVERNANCE
+DISCLOSURE FRAMEWORKS
+FORWARD-LOOKING STATEMENTSForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT03VALUES
+Our Values Are Our Foundation
+Integrity  
+We always strive to do the right thing and 
+pride ourselves on being a preferred partner. 
+We are consistently open, honest, ethical, 
+and genuine. We do what we say and are 
+accountable for our actions.Respect  
+We value the ideas and contributions of all 
+team members and show consideration and 
+appreciation for one another. We recognize 
+and embrace each other’s differences and 
+work towards our common goals.
+Excellence  
+Our business requires focused innovation 
+and evaluation of new opportunities for 
+resource extraction. We balance the 
+application of new technologies and 
+testing of new concepts with prudent risk 
+management and thorough data analysis. Responsibility  
+The safety of our employees, contractors, 
+and communities is of utmost importance —
+this is not negotiable. We recognize that 
+we earn the right to operate every day by 
+developing our assets responsibly and with 
+respect for the environment. We focus on 
+safety and protection of the environment 
+in every operation, and all Callon 
+representatives are authorized to “stop 
+work” if these are at risk.
+Drive  
+Keenly focused on leading, we relentlessly 
+challenge the status quo to meet and 
+exceed our expectations for top-tier 
+performance in all aspects of our business. Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW      INTEGRATION      SAFETY      WORKFORCE      OUR COMMUNITIES      COVID ADAPTATION VALUES        CEO’S LETTER        ABOUT CALLON        ABOUT THIS REPORT        OPERATIONS MANAGEMENT SYSTEMForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORTDear Stakeholders, 
+This past year was marked by an extraordinary 
+number of memorable events, which presented 
+both challenges and victories. Shortly after the 
+start of the year, our newly integrated workforce 
+was forced to transition to a fully remote work 
+environment and yet still faced the challenges of 
+a rapidly deteriorating commodity environment 
+and global economy. Normal life ground to a 
+halt, family routines were disrupted, and the 
+strain on our economy and industry was sharp 
+and debilitating for a time. 
+Rather than use these pervasive issues as an 
+excuse, our employees led by example and 
+pushed forward on initiatives that our board 
+and management team view as critical steps to 
+improve our long-term corporate sustainability. 
+We built upon on the meaningful progress from 
+2019 and achieved new corporate records for 
+safety and emissions. In 2020, gas flared as a 
+percent of gas produced was down 44%, and 
+greenhouse gas (GHG) intensity improved by 
+28%. Spill levels dropped meaningfully, and we 
+achieved our best safety year on record. We 
+demonstrated Callon’s ability to quickly pivot both field and office operations while maintaining 
+high levels of safety for our employees, vendors, 
+and communities, and retaining the efficiency 
+we worked hard to achieve.
+Our social initiatives were emblematic of the 
+culture of caring that Callon employees have 
+always shown. Our team supported a growing 
+variety of non-profit organizations serving our 
+direct communities, first responders, and schools 
+in need, and our employees gave their time and 
+money, utilizing our corporate donation matching 
+program to enhance the impact of those efforts. 
+Based on employee survey responses from our 
+newly integrated workforce, we were awarded 
+Top Workplaces in Houston by the Houston 
+Chronicle  for the fourth year in a row, reflecting 
+our strong culture and desire to bring out the 
+best in our employees. 
+Investors have continued to express their desire 
+for change, pushing companies to address climate 
+concerns, discuss social issues, and enhance 
+their governance practices. At Callon, we are not 
+only addressing these concerns as they pertain 
+to our company and our sector, but embracing 
+the opportunity they present to reassert our 
+core principle of responsibility. Changes to our 
+corporate incentive compensation programs, 
+realignment of our board responsibilities, and 
+new quantitative commitments to reduce green-
+house gas emissions have Callon on a clear path 
+to driving the type of change that not only will 
+make our company stronger, but will help our 
+industry achieve the change necessary to remain 
+good corporate citizens. We have accomplished 
+a great deal in a short period of time and have 
+set aggressive, meaningful goals that we expect 
+to achieve in the near-term. 
+PRESIDENT AND CHIEF EXECUTIVE OFFICER  
+JOSEPH C. GATTO JR.
+04CEO’S LETTER
+Our Commitment to Reducing 
+Greenhouse Gas (GHG) Emissions
+Callon is committed to mitigating the risks of 
+climate change. As such, we plan to achieve:
+ •A 40%-50% reduction in GHG emissions 
+intensity versus pro forma 2019 results
+ •The reduction of flared gas to less than 
+2% of gas produced
+ •The elimination of all routine field gas 
+flaring
+Please see page 16 for more details about 
+our GHG reduction goals and action plan.Callon is on a clear 
+path to driving the 
+type of change 
+necessary to remain 
+good corporate 
+citizens.”
+JOSEPH C. GATTO JR.Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW      INTEGRATION      SAFETY      WORKFORCE      OUR COMMUNITIES      COVID ADAPTATION VALUES        CEO’S LETTER        ABOUT CALLON        ABOUT THIS REPORT        OPERATIONS MANAGEMENT SYSTEMForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT101.6
+Full-year 2020 Net Production 
+(Mboe/d)
+475.9
+Year-end 2020 Proved Reserves 
+(MMboe)
+51%
+4-Year Reserves CAGR
+45%
+3-year Proved, Developed, 
+Producing (PDP) Reserves CAGR
+0.54
+Total Recordable Incident Rating 
+(TRIR)
+~ 180k
+Net Acres in TexasSince 2013, Callon Petroleum has focused on 
+the exploration, development, acquisition, and 
+production of unconventional onshore oil and 
+natural gas properties in the Permian Basin. 
+In 2019, we expanded our portfolio to nearly 
+200,000 net acres in the core of the Permian 
+Basin and Eagle Ford Shale through the 
+acquisition of Carrizo Oil & Gas, Inc. Over the 
+company’s 70-year history, we have weathered 
+the industry’s many volatile cycles by focusing 
+on our core strengths and evolving as needed.
+Because of our long operating history in the 
+Permian Basin, we have positioned ourselves 
+as an industry leader in horizontal drilling and 
+completion techniques in unconventional 
+resource plays. Today, we’re leveraging our meaningful 
+infrastructure investments and focusing on full 
+field development. This has allowed us to shift 
+towards a sustainable long-term development 
+model which benefits not only our company, 
+but the environment and communities around 
+us. Our mission is to build trust, create value, 
+and drive sustainable growth for our investors, 
+our employees, and the communities in 
+which we operate. We strive to protect the 
+health and safety of everyone who is part 
+of our operations and those who live in the 
+surrounding communities. As such, we work 
+with our communities to minimize the impact of 
+oil and natural gas development and ensure that 
+they also benefit from our operations. Our goal 
+is to instill a sense of community responsibility 
+and high ethical standards for all our employees.
+At Callon, we strive to deliver sustainable cash 
+flow generation for our shareholders. In order to 
+do this, we believe we must not only focus on 
+the bottom line but also act as a good corporate 
+citizen. Our management team, with support 
+from the Environmental, Health, and Safety 
+department, seeks to protect and improve 
+the well-being of our employees, contractors, 
+and the general public. We are committed to 
+an operating philosophy that provides our 
+employees a safe workplace while at the same 
+time conducting operations in a manner that is 
+environmentally sensitive and community aware. 
+We believe that operating responsibly benefits 
+not only Callon, but the community at large.
+05ABOUT CALLON
+We are committed to an operating philosophy 
+that provides our employees a safe workplace 
+while at the same time conducting operations 
+in a manner that is environmentally sensitive 
+and community aware.MIDLAND
+BASIN
+MIDLAND
+DILLEYHOUSTONDELAWARE
+BASIN
+EAGLE
+FORDForeword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW      INTEGRATION      SAFETY      WORKFORCE      OUR COMMUNITIES      COVID ADAPTATION VALUES        CEO’S LETTER        ABOUT CALLON        ABOUT THIS REPORT        OPERATIONS MANAGEMENT SYSTEMForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORTTrue Transparency 
+This is the second annual sustainability report 
+for Callon. In this report, we disclose information 
+about our environmental, social, and governance 
+(ESG) policies and programs that we believe is 
+of value to our stakeholders. Unless otherwise 
+noted, the information and data in this report 
+cover the company’s operated assets for the 
+calendar year that ended on December 31, 2020. 
+This report includes results for 2019 and 2020, 
+which are the only years for which pro forma 
+results are available following the December 
+2019 closing of our acquisition of Carrizo Oil & 
+Gas. Reported financial highlights were drawn 
+from the Callon Petroleum Company Form 10-K 
+for the fiscal year ended Dec. 31, 2020. 
+As part of our efforts to continuously improve our 
+ESG transparency, reporting, and performance, 
+we welcome feedback on this report. Please 
+send comments and questions about this report 
+to ir@callon.com or 
+Callon Petroleum Company  
+2000 W Sam Houston Parkway South,  
+Suite 2000  
+Houston, Texas 77042  
+Attn: Investor Relations
+Disclosure Framework 
+This report is informed by the Sustainability 
+Accounting Standards Board (SASB) standards 
+for Oil and Gas – Exploration & Production, and 
+the Task Force on Climate-related Financial 
+Disclosures (TCFD).
+Callon determined the contents for this report 
+in discussions with key internal and external 
+stakeholders — including investors, senior 
+management, and our internal subject matter 
+experts — as well as an internal review of industry 
+and peer ESG reporting practices. 
+Data Validation
+A quantitative review of the data included within 
+this report was performed internally by individuals 
+separate from those who compiled the data. This review included both discussions with data 
+owners to obtain a high-level understanding 
+of the systems and tools used to record and 
+consolidate the data, as well as verification that 
+the data adequately substantiates the information 
+disclosed in this report.  In addition, the Callon 
+Board of Directors reviewed this report, providing 
+the Company’s highest level of internal assurance.
+06ABOUT THIS REPORT
+Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW      INTEGRATION      SAFETY      WORKFORCE      OUR COMMUNITIES      COVID ADAPTATION VALUES        CEO’S LETTER        ABOUT CALLON        ABOUT THIS REPORT        OPERATIONS MANAGEMENT SYSTEMForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 07Management ProgramsOMSRisk Assessment& ManagementAssessment &Improvement
+Emergency
+Preparedness 
+& Community
+Awareness
+Incident
+Management
+Third-Party
+Services
+Managementof Change
+Operations & 
+MaintenanceTraining & CompetencyDesign & 
+Construction
+Information & DocumentationLeadership,
+Commitment &Accountability
+Environmental Safety & Health PolicyOperations Management System 
+Our Operations Management System (OMS) outlines expectations and accountability for conducting our operations 
+safely, responsibly, and in an environmentally sound manner for the benefit of our employees, those involved with 
+our operations, customers, and the public. The OMS framework is implemented with 11 essential elements designed 
+to identify, measure, and mitigate risks in our operations. As part of Callon’s OMS, our Environmental Management 
+System (EMS) is embedded within select elements.Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW      INTEGRATION      SAFETY      WORKFORCE      OUR COMMUNITIES      COVID ADAPTATION
+Enhancement of Data Management in 2020 
+We have continued to invest in processes and systems that allow 
+us to proactively manage our Environmental, Health, and Safety 
+(EHS) program. A strategic initiative for the company in 2020 was 
+the development and implementation of a new EHS information 
+management system that would cover our newly expanded asset 
+base. This involved a multifaceted approach that was challenged by 
+the effects of the pandemic as our teams were working remotely.  
+Nonetheless, our departments came together in a collaborative way, 
+and the system successfully went live in late 2020.
+The EHS information management system helps us in many ways by 
+improving the visibility and accountability for compliance and safety culture throughout the organization, especially when our employees 
+and assets are located across multiple operating assets. The 
+system also allows us to continue standardizing and improving our 
+EHS-related risk management by establishing an enterprise-level 
+platform that looks at our program from a more holistic standpoint 
+versus an individual or asset-only standpoint. We can efficiently 
+analyze and evaluate various EHS indicators, determine lessons 
+learned, develop best practices, and quickly share and implement 
+them across different regions within our company and externally 
+with our contractors. By moving to this industry-leading platform, 
+we have been able to reduce physical technology costs and better 
+manage the risks inherent in our operations.VALUES        CEO’S LETTER        ABOUT CALLON        ABOUT THIS REPORT        OPERATIONS MANAGEMENT SYSTEMForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 08Overview
+Climate-Related Risk Strategy
+At Callon, we share our stakeholders’ concerns about the risks of climate 
+change. We also recognize the potential impacts to our industry, including 
+the evolving preferences of consumers and investors as well as increasing 
+regulatory obligations. As concerned citizens and responsible operators, we 
+are committed to diligently minimizing and mitigating our environmental 
+impact while we work to responsibly meet the demand for affordable 
+energy in the United States and beyond. To address the increasing interest 
+of shareholders and other stakeholders in how climate-related risks and 
+opportunities can potentially impact Callon’s operational and financial 
+performance, we provide voluntary disclosures regarding our active 
+approach to assessing and managing climate risks in alignment with the 
+TCFD recommendations.  Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksGovernance & Management of Climate-Related Risks
+Board Oversight of Climate-Related Risks and Opportunities
+The highest level of oversight of business risk management rests with our Board of Directors. The Board recognizes that ESG risks are 
+interconnected with other business risks and opportunities. The Board regularly reviews salient ESG-related issues alongside other 
+operational, financial, and strategic matters. At each board meeting, time is reserved for reviewing specific progress on Callon’s safety 
+and environmental programs and targets.
+ 
+Each of our Board committees has a role in our climate-related risk strategies. The Nominating & ESG Committee has responsibility 
+for overseeing and guiding the Company’s policies and performance relating to ESG matters, including assessment and monitoring 
+of stakeholder concerns and emerging issues such as climate-related risks and opportunities. The Operations & Reserves Committee 
+oversees operational performance relative to established environmental goals, and the Audit Committee oversees the Company’s risk-
+related disclosures in compliance with regulatory requirements. The Compensation Committee is responsible for aligning executive 
+compensation with strategic Company priorities, including environmental performance. See page 37 for information about the 
+incorporation of GHG emissions reduction goals into the Company’s incentive compensation program.AUDIT
+COMMITTEECOMPENSATION
+COMMITTEEBOARD OF
+DIRECTORS
+NOMINATING &
+ESG COMMITTEEOPERATIONS &
+RESERVES COMMITTEE
+CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 09Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 10Management’s Role in Assessing and 
+Managing Climate-Related Risks
+Callon’s Chief Executive Officer, Chief Operating Officer, Chief 
+Financial Officer, and General Counsel (together, the Executive 
+Leadership Team or ELT) are responsible for executing the Company’s 
+business strategy and implementing the Board’s recommendations 
+regarding risk management efforts. The Callon ELT team regularly 
+reviews emerging risks, which are assessed based on their potential 
+impact and probability of occurrence.  Identified risks are integrated 
+into the Company’s risk assessment framework, and initiatives and 
+processes are recommended to mitigate, control, and manage 
+those risks. 
+To understand the potential long-term impacts of climate-related 
+risks and opportunities on Callon’s business, the ELT initiated the 
+scenario analysis described below to assess the resilience of the 
+Company’s business strategy in various future energy scenarios. 
+The ELT also assessed the Company’s GHG emissions and, with 
+input from the Board, established meaningful GHG emissions 
+reduction goals to mitigate climate-related risks. As members of the 
+ELT, Callon’s Chief Operating Officer is responsible for operational 
+execution in support of those goals, and the Company’s Senior 
+Vice President and General Counsel is responsible for overseeing 
+the Company’s sustainability efforts, including climate-related 
+assessments and disclosures. The ELT and Board are fully committed 
+to responsibly adapting Callon’s operations for the future. Processes for Identifying, Assessing, & 
+Managing Climate-Related Risks
+The Company utilizes an enterprise risk management (ERM) 
+framework that involves the assessment and ranking of risks 
+within an evolving risk universe whereby broader categories and 
+underlying specific risks are identified, assessed, and reviewed in 
+consideration of the likelihood of the risk to occur, the potential 
+impact of the risk, and the speed of onset for each particular risk. 
+Once management has performed the periodic update assessment, 
+the Board of Directors is engaged to ascertain independent director 
+views on the prevailing risks, as well as the nature of initiatives and 
+processes underway to mitigate, control, transfer, or capitalize on 
+identified risks. The Board periodically reviews the current actions 
+being taken by management to address these risks and seeks to 
+surface any emerging risks the Company should add to the evaluated 
+risk universe. With regard to climate-related risks, the Company has 
+implemented a defined set of GHG emissions reduction goals and 
+aligned incentive compensation metrics to reflect those goals.
+Company Strategy & Scenario Analysis
+Our Company provides affordable energy to our customers and 
+creates value for our shareholders through a strategy of scaled 
+development coupled with a “life of field” view that prioritizes 
+both near-term returns and long-term inventory value optimization. 
+Our diversified, multi-year inventory in the leading oil plays of the 
+Permian Basin and Eagle Ford Shale provides us the flexibility to 
+adapt our development plans to respond to commodity price cycles 
+and deliver returns to shareholders. In addition, our industry-leading 
+cash operating margins support durable cash flow generation 
+through periods of commodity price volatility.
+As we execute the development of our substantial resource base, 
+we are mindful of the climate-related risks we face as the world 
+seeks to balance progress towards a lower-carbon future with the 
+energy needed to support economic growth and human prosperity. 
+The risks we face include, among others, enhanced regulation of 
+GHG emissions and other environmental impacts of our business; 
+changing consumer energy preferences, potentially impacted 
+by the adoption of carbon pricing policies, that affect commodity prices; and changing investor strategies that may impact our 
+access to capital. We seek to lessen our exposure to these risks 
+with a variety of strategies, including our commitment to reduce 
+our environmental impact (see page 16 for our goals), maintaining 
+our low-cost scaled operating model, and reducing absolute debt 
+levels. As described above, we monitor and manage these risks 
+and strategies through the ERM process overseen by the Board and 
+management team. 
+In addition, as a prudent business practice in an evolving energy 
+landscape, we periodically evaluate the resiliency of our business 
+under future global energy scenarios developed by the International 
+Energy Agency (IEA) to reflect climate risks. Our recent analysis, 
+as described on the following page, indicates that our business 
+is projected to remain competitive and generate returns through 
+2040 and beyond under various climate scenarios. Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksIn its World Energy Outlook1, the IEA contemplates two main climate-
+related energy scenarios: the Stated Policies Scenario (STEPS), its 
+central scenario reflecting current and proposed policies, and the 
+Sustainable Development Scenario (SDS), which assumes alignment 
+with the Paris Agreement goal to limit global temperatures to no more 
+than 2°C above pre-industrial levels. In the SDS carbon-constrained 
+scenario, the world’s growing energy demand is increasingly met 
+by renewable energy sources but hydrocarbons continue to be 
+an essential part of the energy mix. As shown in the chart  to the 
+right, IEA projects oil prices of $85 and $53 in the STEPS and SDS 
+scenarios, respectively, in 2040. 
+These projected oil prices compare favorably to Callon’s breakeven 
+costs to develop and produce our hydrocarbon assets. Because 
+Callon’s internal breakeven costs are confidential, the data provided 
+here is based on analysis by the energy advisory firm Enverus. Per 
+Enverus analysis, Callon’s average half-cycle breakeven prices — 
+the price needed to recover capital expenditures (excluding sunk 
+capital), operating costs, royalties, and taxes and earn an acceptable 
+return on investment — in the Delaware, Midland and Eagle Ford 
+plays are in line with or below the peer average breakeven prices 
+as shown in the chart to the right2. This analysis suggests that Callon 
+can be expected to generate high returns in the STEPS scenario 
+at $85 oil and continue to operate profitably even in the case of 
+declining oil prices in the carbon-constrained SDS scenario.
+In addition, Callon has a robust portfolio that supports resiliency. 
+Our current asset inventory includes approximately 1,500 primary 
+locations with breakeven economics at $50 oil, with upside at 
+higher prices and from future development in additional zones. In 
+addition, Callon has a respected track record of executing accretive 
+acquisitions. Based on this scenario analysis, we believe Callon is 
+well-positioned to sustain our business and deliver value to our 
+shareholders and stakeholders in a wide range of climate scenarios. 
+Targets & Metrics
+See page 16 for Callon’s emissions reduction targets and related 
+strategies.3. IEA World Energy Documentation - 2020 (dated February 19, 2021); 
+Amounts reflected in real 2019 dollars.Callon Portfolio Resiliency
+CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 111. World Energy Outlook 2020, International Energy Agency, October 2020.
+2. Permian Play Fundamentals, Enverus, April 28, 2021, and Eagle Ford Play Fundamentals, 
+Enverus, March 24, 2021.Midland BasinAvg. WTI, IEA Crude - 2040 Stated Polices, $85/Bbl3
+Peer Avg:
+$33/Bbl2Peer Avg:
+$35/Bbl2Peer Avg:
+$43/Bbl2Avg. WTI, IEA Crude - 2025 Stated Polices, $71/Bbl3
+Avg. WTI, IEA Crude - 2025 Sustainable Development, $57/Bbl3
+Avg. WTI, IEA Crude - 2040 Sustainable Development, $53/Bbl3
+Delaware Basin Eagle Ford$0$20$30$40$50$60$70$80$90
+$10Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksOverview
+Committed to Safeguarding
+the Environment
+At Callon, respecting the environment as we develop our natural resources 
+is both a core value and a business imperative. When we protect the air, 
+water, and land, we preserve the future for our communities. Callon actively 
+works to reduce air emissions, protect local water supplies, minimize fresh 
+water use, and prevent spills. 
+CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 12OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 13Reduction in GHG 
+emissions intensityReduction of gas 
+flared as a percent  
+of gas produced
+Reduction in  
+Total Fluid Spill Rate 66%28% 44%2020 Environmental Performance Highlights1
+1. Percent reduction from 2019 to 2020.
+2. Methane intensity is calculated as total Methane (CO2-e) divided by total Scope 1 emissions.
+Callon’s Environmental Management 
+System (EMS), which is embedded 
+within select elements of our OMS, 
+is a multidimensional approach to 
+safeguard the environment. The 
+EMS consists of nine elements that 
+work together to set expectations 
+and goals, monitor and evaluate 
+performance, and drive continuous 
+improvement.Reduction in  
+Methane Intensity2 25%OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 14Management’s Environmental  
+Responsibilities
+Callon’s operations leaders establish 
+priorities and allocate resources to meet 
+our environmental commitments, including 
+the performance goals. Job assignments 
+are in place for employees to implement 
+the environmental programs and plans. 
+Management periodically reviews and 
+assesses the progress of our goals and 
+objectives, and assigns corrective actions  
+to stimulate continual improvement.Environmental Management  
+Programs  
+Our ongoing environmental programs 
+and requirements are described in 
+our Environmental, Health and Safety 
+Manual. These programs have not only 
+reduced our operational impacts, but also 
+improved efficiency, lowered costs, and 
+reduced risk. In this way, environmental 
+stewardship does more than allow us to 
+maintain our license to operate; it helps 
+drive the sustainability of our business. 
+Targets & Objectives
+Callon demonstrated its commitment to 
+protecting the environment and building a 
+sustainable business by establishing GHG 
+reduction targets by 2025, using 2019 
+as the baseline. These targets include a 
+40-50% reduction of our GHG Intensity, 
+the reduction of flared gas to less than 2% 
+of gas produced, and the elimination of all 
+routine field gas flaring. Our compensation 
+is linked to the achievement of short- and 
+medium-term emissions reduction goals,  
+as well as our spill prevention performance.Monitoring & Data  
+Management Systems
+We use a combination of internal and third-  
+party systems to collect and aggregate 
+environmental data so it can easily be 
+reviewed, monitored, and used to improve 
+our performance and meet our objectives 
+and goals. In addition, we use this data for 
+regulatory reporting purposes.Safety & Environmental Policy  
+Callon ensures that our workforce is 
+aware of our environmental programs, 
+protocols, and performance expectations 
+in compliance with all applicable 
+environmental laws and regulations. 
+Employees and contractors are held 
+accountable for adhering to the 
+operating principles in our Safety and 
+Environmental Policy.Board of Directors Oversight  
+The expectation that Callon will operate 
+an environmentally conscious business 
+starts with oversight of our performance by 
+our Board of Directors. To ensure that our 
+management team focuses on continuous 
+improvement, the Board has included 
+environmental performance as quantitative 
+and qualitative factors in Callon’s 2021 
+executive compensation program.Environmental Management System
+Commitment to Safeguarding the Environment Embedded in Our OMS OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 15Environmental Audits & Inspections 
+Routine inspections and maintenance 
+are performed by trained personnel to 
+verify that engineering controls are in 
+place and functioning properly to prevent 
+unnecessary releases to the environment. 
+We use optical gas imaging (OGI) cameras 
+to scan production facilities for leaks as 
+part of our leak detection and repair (LDAR) 
+program, including conducting voluntary 
+surveys beyond regulatory requirements. 
+Environmental audits are periodically 
+conducted on production facilities to verify 
+that environmental controls are in place. Environmental Training  
+& Awareness  
+Annual compliance training is conducted 
+for our operations personnel regarding spill 
+prevention and response. Awareness training 
+is also provided to operations personnel 
+regarding emissions leaks and repair. 
+Workers who are new to the industry receive 
+additional training during onboarding.Contractor Management 
+We believe that all contractors are  
+an extension of Callon Petroleum  
+and communicate our environmental  
+expectations to their personnel who  
+work on Callon locations. 
+OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks16
+ CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORTReducing Air Emissions Throughout the 
+Development and Production Lifecycle
+Callon is committed to sustainable and responsible development 
+of oil and natural gas resources, while assessing and mitigating 
+climate change risk. We recognize the heightened public focus 
+around GHG and other air emissions and their impacts on air 
+quality and global climate change. Due to these concerns, we 
+seek to reduce emissions throughout the development and 
+production lifecycle, primarily by implementing best practices and 
+new technologies. In 2020, we reduced our GHG intensity by 28% 
+over 2019 by implementing improvements across our operations, 
+as described in this report. This is the first step in our commitment 
+to reducing GHG intensity by 40%-50% by 2025.
+Our emissions management strategies focus on direct emissions 
+from our operations. The primary metric we use to evaluate our 
+progress is GHG intensity (emissions per unit of production), which 
+provides a comparable year-over-year measure of performance 
+normalized for changes in development activity levels, new 
+facility installation, acquisitions, and divestitures. A report of air 
+emissions from our operations for 2019 and 2020 for all SASB-
+aligned measures can be found on pages 41-45. Though not 
+required by SASB, we have added Scope 2 (indirect) emissions 
+to our list of disclosures, which reflect emissions from purchased 
+energy sources including purchased electricity to power our field 
+operations and all our offices.
+To determine our overall GHG inventory, we aggregate relevant 
+data sources for gross global Scope 1 throughout our operations, including combustion equipment, storage tanks, flaring, 
+dehydration, pneumatic devices, fugitive emissions, drilling, and 
+completions activity. Callon also reports gross operated GHG 
+emissions in accordance with the EPA Mandatory Reporting 
+of Greenhouse Gases Rule for our production and gathering 
+segments, and our annual reports are publicly available. Results 
+reflect our commitment and efforts to reduce emissions, both 
+voluntarily and as required, through continuous improvement and 
+capital investments in facilities and technology as described in the 
+following section.
+Strategies and Best Practices to 
+Reduce Emissions and Intensity
+Our efforts to reduce Scope 1 direct emissions (operational 
+emissions), lower our carbon footprint, and limit air polluting 
+emissions, while capturing and conserving valuable natural 
+resources. Callon implements long-term and short-term strategies, 
+as well as best practices, to address emissions from various sources.AIR EMISSIONS
+  28%
+We reduced our GHG intensity by  
+28% compared to 2019.
+Reduce GHG emissions intensity by 
+40-50% relative to pro forma 2019Reduce flared gas to less than 
+2% of gas producedEliminate all routine flaring< 2%GHG Emissions Targets by 2025
+1 2 3Callon is committed to mitigating the risks of climate change. As such, we plan to achieve the following by 2025:OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 17Expand field electrification to minimize diesel generators
+Evaluate field compression optimization projects
+Field-test dual fuel and electric frac fleetsAssess additional opportunities to expand gas gathering 
+optionality to mitigate third-party flaring risk
+Field-test low bleed and air-actuated pneumatic devices 
+to reduce our methane emissions2021 INITIATIVES
+•••••Path to Emission Reductions
+GHG Reduction Action Plan 
+PHASE 1: ESTABLISH TARGETS AND OBJECTIVES
+Complete
+PHASE 2: TECHNICAL EVALUATION
+In Progress
+PHASE 3: FULL PROGRAM
+IMPLEMENTATIONGHG emissions targets adopted in 
+ﬁrst quarter 2021
+40%-50% reduction in GHG 
+emissions intensity vs. pro forma 
+2019 results
+Reduction of ﬂared gas to less 
+than 2% of gas produced
+Elimination of all routine ﬁeld gas 
+ﬂaringRoot-cause analysis
+Feasibility studies
+Pilot programs
+Operational readiness
+Technology requirements and 
+limitationsEstablish scope and timing for 
+implementation of new technologies
+Prioritize implementation to 
+maximize emission reductions
+Increase capital investments in 
+proven operational enhancements•
+•
+••
+•
+•
+•
+••
+•
+•
+OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT
+   44%
+In 2020, we reduced our gas flared 
+as a percent of gas produced by 
+44% compared to 2019.
+   25%
+We reduced our methane intensity 
+by 25% compared to 2019.
+$13MM+
+In recent years, Callon has 
+invested more than $13 million to 
+connect our facilities to electric 
+power substations, which reduces 
+our use of internal combustion 
+engines, the associated GHG 
+emissions, and operating costs.Proactive Efforts to Reduce Flaring 
+Callon actively monitors and seeks to reduce 
+gas flaring by mitigating flaring risks within our 
+operations and routing our production to pipelines 
+for sale. In 2020, we reduced our gas flared as 
+a percent of gas produced by 44% compared 
+to 2019, which contributed to the reduction in 
+methane intensity by 25%. Our efforts to reduce 
+flaring continue. We have established a medium-
+term target to reduce our percent of gas flared by 
+2025 to under 2%, including the elimination of all 
+routine flaring.
+Historically, our flared gas volumes were 
+significantly impacted by operational upsets at  
+third-party natural gas processing and 
+transportation facilities. To reduce the risk 
+of future flaring due to these upsets, we 
+implemented secondary gathering options 
+to create offtake alternatives in the event of 
+compressor or processing downtime on third-
+party systems for our two highest-volume natural 
+gas gathering systems.
+Per our established practice, we do not allow 
+routine flaring on new well completions. While 
+some minimal routine flaring occurs on legacy 
+wells, we have committed to eliminate any 
+remaining routine flaring by 2025. 
+Within our own operations, we track combustion 
+engine runtimes and work with third-party 
+engine providers to achieve higher efficiency, 
+which reduces flaring and the risk of operational 
+upsets. In 2020, we initiated monthly reliability 
+reviews with third-party engine providers 
+throughout our operations and improved 
+compressor runtimes, resulting in decreased 
+flaring. When flaring is necessary to control the 
+safe operation of our facilities, we are diligent in 
+mitigating flares and ensuring flaring is properly 
+permitted and reported. In addition to securing 
+redundant third-party takeaway, our production 
+operations team, in conjunction with our asset 
+development team, completed an asset-wide 
+mapping analysis of our higher gas-to-oil ratio 
+wells and developed a multi-staged shut-in 
+process to further reduce our flaring exposure.Reducing Combustion Emissions 
+Throughout the Development and
+Production Lifecycle 
+In recent years, Callon has invested more than 
+$13MM, including $1.7MM in 2020, to connect 
+our facilities to electric power substations, 
+which reduces our use of internal combustion 
+engines, the associated GHG emissions, and 
+operating costs. In 2020, we expanded our 
+electrical substation network, allowing for 
+the removal of over 40 diesel generators and 
+resulting in improved operating reliability and 
+reduced carbon emissions.
+Callon also pursues production enhancement 
+measures to minimize combustion emissions 
+and improve performance. We continuously 
+evaluate conversions from natural gas lift to 
+rod pump and electric submersible pumps to 
+ensure the most efficient method of artificial 
+lift for each well. Other improvements include 
+replacing direct drive pumps with variable 
+frequency drive (VFD) pumps, which reduce 
+Scope 2 indirect emissions and electrical 
+energy costs and increase efficiency. 
+Callon works closely with our contractors to 
+deploy low-emitting equipment on the well pad 
+when available. In 2020, all drilling rigs were 
+converted to operate on Callon assets with 
+dual fuel rigs. These rigs use clean-burning 
+compressed natural gas (CNG) to power rigs 
+when possible, which cuts GHG emissions 
+from diesel engines in our operations by 
+over 20% per rig. For our 2021 completion 
+program, we pilot tested a dual-fuel capable 
+frac fleet, enabling substitution of diesel  
+fuel with clean-burning natural gas and field  
+gas. We  also pilot tested an electric frac fleet that  
+utilized gas turbines to generate the energy 
+source needed for completion operations.  
+These developments highlight our dedication 
+to sustainable development throughout  
+our operations.
+18OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 19Prevention and Detection Efforts  
+Reduce Emissions 
+Callon applies industry best practices to design 
+and build our facilities to reduce vented emissions 
+with emission control equipment that captures 
+the largest amount of natural gas, including vapor 
+recovery towers (VRT), vapor recovery units (VRU), 
+combustors, and low-pressure flares. Consistent 
+with industry best practice, we do not use high-
+bleed pneumatic controllers, which are a major 
+source of vented emissions. In 2021, we plan to 
+field-test low-bleed and air-actuated pneumatic 
+devices to evaluate full field implementation 
+where third-party electrical power is available. 
+By retro-fitting our existing pneumatic devices 
+with zero emission air-actuated or low-bleed 
+pneumatic devices, we can significantly reduce 
+our methane emissions as well as our total GHG 
+emissions from our operations. 
+We also seek to minimize the release of natural 
+gas by using “green completions” on 100% of 
+our wells. Following a brief stabilization period, water, oil, and natural gas produced during initial 
+flowback operations are routed via pipeline to 
+pre-installed Callon permanent facilities, where 
+they are processed before being sent to sales. 
+By processing these hydrocarbons through our 
+permanent facilities equipped with emissions 
+control equipment, we minimize natural gas 
+venting that can occur with extended use of 
+temporary flowback and testing equipment. 
+Callon uses optical gas imaging (OGI) cameras to 
+scan production facilities for leaks as part of our 
+leak detection and repair (LDAR) program, including 
+conducting voluntary surveys beyond regulatory 
+requirements. We inspect our facilities using OGI 
+cameras to identify and repair fugitive emissions 
+leaks from all equipment and associated piping 
+and fittings. Deficiencies found during these leak 
+inspections are repaired and re-inspected to 
+verify that the repair was effective. 100%
+We also seek to minimize the 
+release of natural gas by using 
+“green completions” on 100% of 
+our wells.
+Callon successfully completed the company’s first three-well pad using electric frac, or E-frac, technology. The benefits of E-frac are the 
+reduction in emissions and noise pollution.OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks20 CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORTUsing Water Responsibly
+Water is vital to our communities and is 
+also a necessary element of our drilling and 
+completions activities. We seek to minimize our 
+impact on local water supplies and are focused 
+on proper sourcing, recycling, reuse, and safe 
+disposal of water throughout our operations. We 
+also seek methods to reduce our water demand 
+through engineering design improvements and 
+by prioritizing water recycling.
+See page 42 for quantitative disclosure of our 
+2020 Water Management Activities, which 
+reflect reduced overall activity levels in 2020 
+due to the dramatic decline in oil prices as 
+a result of the COVID-19 pandemic and the 
+actions of certain oil-producing countries. 
+Callon strives to preserve local fresh water 
+supplies by using alternative sources such as 
+recycled produced water and non-fresh water 
+for our operational activities, particularly in areas 
+where community water supplies are at greatest 
+risk. In 2020, the global pandemic required us 
+to reduce our operational activity and shift focus 
+to other basins where we could realize short 
+cycle returns in order to protect our business. 
+While the resulting shift prevented us from fully 
+utilizing our recycling facilities, which are mainly 
+focused in the Delaware Basin, we were able to 
+reduced our overall usage of fresh water in high 
+water stress areas. 
+In 2020, approximately half of the water we 
+consumed was supplied from recycled or non-
+fresh water sources, and recycled volumes as 
+a share of water consumed increased by 10%. 
+In recent years, we have invested over $10MM 
+in water recycling facilities in the Delaware 
+Basin, where fresh water supplies are scarce. 
+We completed the expansion of our recycling 
+facilities in 2019, thus allowing for handling of 
+up to 60,000 barrels per day of produced water 
+volumes. By August 2020, our operations team 
+successfully completed two three-well pads in 
+the Delaware Basin that sourced more than 95% 
+of fracture stimulation volumes from recycled 
+produced water. That is nearly 100 million gallons. 
+By December 2020, we completed approximately 
+50 wells in our Permian assets utilizing recycled produced water at an average substitution rate 
+of 67%, equating to over 572 million gallons of 
+recycled volumes. This meaningful investment 
+in high-volume recycling facilities has already 
+shown benefits for the environment, as well 
+as our cost structure. Our goal is to expand the 
+use of recycled water in our completions where 
+feasible in the Delaware Basin.
+In addition to responsibly sourcing our 
+operational water needs when possible, 
+Callon also seeks to minimize water usage 
+through hydraulic fracture modeling and active 
+engineering oversight during well completion 
+operations. These efforts reduced water usage 
+by more than 20% in our Delaware Basin 
+operations in 2019, and more than 15% in our 
+Midland Basin operations in 2020.  We are 
+adopting this practice across our operations to 
+further conserve water resources. 
+Callon makes a concerted effort to manage 
+the water that is produced along with oil and 
+natural gas in our operations. We recycle water 
+whenever feasible through our own or third-
+party facilities, and plan for the safe transport 
+and disposal of water to mitigate spills, protect 
+underground resources, and ensure the safety 
+of our local communities. When recycling is not 
+feasible, we dispose of our water in safe, well-
+constructed saltwater disposal (SWD) wells that 
+are permitted by the Texas Railroad Commission. 
+In our Midland Basin operation in 2020, Callon 
+disposed of 90% of produced water volumes 
+in the Ellenberger formation, deeper than 
+our deepest hydrocarbon producing zone. 
+By disposing of produced water below our 
+hydrocarbon producing intervals, we protect 
+local water supplies and mitigate drilling 
+hazards associated with offset injection wells. 
+In the Delaware Basin, for produced water 
+volumes that are not recycled, we have a 
+strategic venture with a third-party vendor 
+to move volumes through a pipeline to older 
+depleted oil-producing areas where water 
+can be safely reinjected away from current 
+operations and future development zones. This 
+preserves future value and reduces potential 
+future issues for our stakeholders.WATER MANAGEMENT
+19%
+As of December 2020, over 19% 
+of  water consumed in our total 
+operated assets was sourced from 
+recycled production water.
+527MM
+The amount of recycled water 
+consumed in our Permian 
+operations since 2018.CONSUMED WATER SOURCES
+IN 2020
+Fresh Water
+Non-Fresh Water
+Recycled Water50%
+31%19%
+GallonsOVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks21 CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORTGroundwater Protection
+At Callon, we utilize hydraulic fracturing on all 
+of our wells in order to produce hydrocarbons 
+from depths that can exceed two miles beneath 
+the surface. During drilling operations to reach 
+these depths, we encounter multiple shallow 
+zones, some of which contain fresh water 
+sources. Our well designs and operational 
+procedures are crafted to ensure that we do not 
+impact these resources. 
+Fresh water protection is regulated by the 
+State of Texas, and Callon meets or exceeds 
+all State of Texas and federal guidelines. Our 
+wells are designed according to industry 
+standards, with layers of casing and cement to 
+protect underground sources of fresh water. 
+Casing and cementing are critical parts of the 
+well construction process that not only protect 
+groundwater, but also help ensure efficient 
+production of oil and natural gas from the well. 
+Before hydraulic fracturing, or fracking, begins, 
+the cased and cemented well is pressure 
+tested per industry standards to ensure well 
+integrity and safety. We also utilize available 
+3-D seismic data to interpret and evaluate geologic hazards, such as faults, and we use 
+those interpretations to drive our development 
+strategy and philosophy for acreage position. 
+As a neighbor to our peers, we notify nearby 
+operators of our drilling and completion 
+schedules to reduce the risk of impacting offset 
+operator activity. While this notice is required in 
+some areas, we operate under a good neighbor 
+policy, so we provide notice regardless of local 
+requirements. 
+Hydraulic fracturing requires different types of 
+sand, proppant, and chemicals. Our hydraulic 
+fracturing fluids do not contain diesel or volatile 
+organic compounds (VOCs) such as benzene, 
+toluene, ethylbenzene, or xylenes (BTEX). 
+We support public disclosure of the chemical 
+composition of fracturing fluids by working 
+with our vendors to submit information to 
+FracFocus. We seek to provide this information 
+in a transparent manner so that all of our 
+stakeholders can take comfort in the practices, 
+procedures, and technology necessary to 
+find and develop oil and natural gas. For 
+comprehensive information of our fluids usage 
+on a per-well basis, please visit the website 
+www.fracfocus.org.
+OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks22 CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORTPreventing Impacts to  
+the Land
+Callon demonstrates our respect for the 
+environment by striving to minimize the impact 
+of our operations on the land and wildlife. To 
+achieve this, we implement industry best practices 
+throughout the lifecycle of our operations, 
+including environmental site assessments prior 
+to new construction, spill prevention measures 
+during active operations, and responsible disposal 
+of waste when our activities are complete. 
+See page 43 for quantitative disclosure of our 
+2020 spills and other biodiversity impacts. 
+Spill Prevention Measures
+We implement numerous measures across our 
+operations to prevent unnecessary releases to 
+the environment. Spill prevention, along with 
+management and response plans, are prepared 
+and maintained for each operating area. 
+These plans describe preventative measures 
+as well as control and countermeasures in 
+the event a spill occurs. Routine inspections 
+and maintenance are performed by trained 
+personnel to verify that engineering controls are 
+in place and functioning properly. In addition, 
+annual training is required for our operations 
+personnel to review the requirements of the 
+plan and personnel responsibilities. 
+Callon has a system to track, record, and 
+determine the cause of any oil, produced water, 
+or other spill or release over one barrel. This 
+allows us to actively identify trends and improve 
+our processes to prevent future releases. We 
+are also working to implement additional spill 
+mitigation measures, including night-time 
+monitoring and actuated wellhead valves to 
+shut in wells based on overpressure and flow 
+alarms for higher-risk facilities and pipelines. 
+We proactively utilize new technology in our 
+efforts to reduce unintentional releases of 
+produced fluids. Callon utilizes aerial surveillance and drone units to identify active and potential 
+produced fluids releases in our field operations 
+facilities. We foresee the opportunity to further 
+enhance our drone usage for broad-scale aerial 
+imagery and observation operations, potentially 
+replacing small aircraft flyovers and significantly 
+lowering the carbon footprint of these operations. 
+Our commitment to protect the environment 
+and our proactive actions significantly reduced 
+our total fluids spill rate by 66% versus 2019. In 
+2020, we also achieved over 80% reduction in 
+hydrocarbon spills to the environment versus 
+baseline 2019. 
+Developing Acreage to Minimize  
+Surface Impacts
+Callon develops our acreage to minimize surface 
+impact and uses best practices to protect land 
+and wildlife in the areas where we operate. 
+When possible, we develop our assets through 
+multi-well, multi-pad drilling and completion 
+operations, which avoids disturbing the same 
+parcel of land more than once. Drilling multiple 
+wells on a single pad not only minimizes our 
+surface footprint, it also reduces cost structure 
+and enables us to complete our drilling program 
+in a highly efficient manner. 
+Callon does not have any acreage on federal 
+lands. We also do not have acreage or 
+reserves in areas containing critical habitats 
+of threatened or endangered species as 
+described in the U.S. Fish & Wildlife Service’s 
+IPaC (Information, Planning, and Consultation 
+System) report. Before new construction, 
+we identify the presence of any wetlands or 
+neighboring streams, and take appropriate 
+measures to protect these resources 
+throughout the life of our field operations. In 
+addition to preconstruction reviews, measures 
+are taken to ensure that all facilities are actively 
+maintained to prevent migratory birds and 
+other wildlife from accessing temporary pits, 
+stacks, heaters, and all other equipment that 
+could pose a hazard.LAND STEWARDSHIP
+ See page 43 for spill rate  
+definition.
+(Volume in Barrels)SPILL RATE
+HYDROCARBON SPILLS  
+TO ENVIRIONMENT2019115
+20203966% Spill Rate Reduction
+81% Reduction
+2019715
+2020135OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks23 CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORTWorking with Partners to Achieve  
+Environmental Improvements
+Callon is proud to support partnerships and initiatives that promote transparency and innovation in 
+environmental best practices. Callon actively participates in environmental and regulatory peer groups, 
+agency cooperative efforts, subject matter committees, and environmental non-profit organizations to 
+exchange technical knowledge, innovation, and emissions reduction strategies. These relationships 
+also provide opportunities to engage key stakeholders, develop an understanding of sound science, 
+and further progressive, responsible, and efficient oil and natural gas production.
+OVERVIEW       ENVIRONMENTAL MANAGEMENT SYSTEM       AIR EMISSIONS       WATER MANAGEMENT       LAND STEWARDSHIPForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 24We value each other’s ideas and contributions, and foster an entrepreneurial 
+environment and a respectful workplace where we work toward common 
+goals. We believe that a strong safety culture is a requirement to be a leading 
+operator in the exploration and production (E&P) business. Our values of 
+responsibility, integrity, drive, respect, and excellence are the foundation 
+upon which our Company was built, and upon which we will sustain  
+our success.Overview
+Callon ’s workforce is  talented 
+and committed to the safety, 
+health, and development of  
+each team member.Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW            SAFETY            WORKFORCE            OUR COMMUNITIESForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 25WE ARE CALLON
+Based on our annual employee 
+survey results, we were named a Top 
+Workplace by the Houston Chronicle  
+for the fourth year in a row
+2020 was our best 
+safety year on record
+Minorities represent over 
+a third of our full-time, 
+permanent employee baseA participation level of 93% in our 
+employee engagement survey
+Supported 60 unique nonprofit 
+organizations focused on education,  
+first responders, community support, 
+and environmental beautification 36%93%
+60#12020 Social Performance Highlights
+Our guiding principles for social responsibility start with our values, which enable us to foster trust 
+with our employees, contractors, our shareholders, and the communities in which we operate. Our 
+Board of Directors holds us accountable for actions and results that are consistent with those values. 
+Callon leadership provides the tone from the top with clear priorities and well-defined policies. Our 
+front-line managers set the example daily through ethical and safety-oriented business practices. 
+Finally, we embrace the variety of employee backgrounds represented in the Callon workforce that 
+allow us to better live the unifying principle of the Callon statement:Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW            SAFETY            WORKFORCE            OUR COMMUNITIESForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 26Adapting Our Business and 
+Protecting Our Employees 
+in Turbulent Times
+In March 2020, the COVID-19 pandemic caused 
+significant disruption to our communities, the 
+economy, and our industry. For the remainder 
+of the year, Callon’s decisions and actions 
+were guided by our commitment to meeting 
+our social obligations and the interests of our 
+many stakeholders. When COVID-19 began to 
+spread across the U.S., we took quick actions 
+to manage our business effectively, prioritizing 
+the health and safety of our team members 
+and their families. In our field locations, Callon 
+implemented COVID-19 screening, social 
+distancing, and other health and safety protocols 
+for  workers whose presence was required for 
+safe operations. We closed our office locations in 
+mid-March to reduce the risk of virus spread, and 
+provided employees with the equipment they 
+needed to work remotely. Callon also supported 
+the health needs of employees and their families 
+by continuing our long-standing practice of 
+paying 100% of medical insurance premiums and 
+engaging a third-party medical advisor to consult 
+with employees who had possible exposure to 
+COVID-19 and recommend proper protocols. In 
+addition to this, we incorporated a Families First 
+paid sick leave benefit to aid in the recovery of 
+those infected by the disease. Throughout the 
+pandemic, we have maintained a frequent pace 
+of formal and informal communications with our 
+workforce to reinforce safety protocols, apprise 
+the team of our plans, and continue to foster a 
+sense of connection across Team Callon.
+Continuously Improving 
+Our Safety Performance
+Protecting our employees, contractors, and 
+communities is a core value at Callon and our 
+top priority. We identify and mitigate safety risk 
+and integrate a culture of safety by operating 
+according to OMS standards, processes, and 
+procedures. 
+See page 7 for an overview of our OMS. Our Safety and Environmental Policy is 
+referenced in our OMS and shared with all 
+employees and contractors. This policy includes 
+our CEO’s signed commitment affirming their 
+authorization and responsibility to stop work on 
+any activity or situation believed to be a danger 
+or risk, without the threat or fear of job reprisal. 
+To reinforce accountability for safety results, 
+our Board includes safety performance as a 
+factor in our annual bonus program.
+Performance  
+Adherence to our OMS, careful contractor 
+management, engaged leaders, training, and 
+other initiatives contribute to our safety record. 
+We believe that all members of our workforce, 
+including employees and contractors, are 
+leaders on the job site, and we hold them to the 
+highest standards of personal conduct and safety 
+performance. By investigating safety incidents 
+and near misses, taking corrective actions, and 
+sharing lessons learned, we reinforce that safety 
+is a priority across our operations. As a result 
+of our commitment and actions to create a safe 
+work environment at our sites for all workers, 
+Callon achieved our best safety year on record 
+in 2020 with an OSHA Total Recordable Incident 
+Rate (TRIR) of 0.54, which is well below the 
+industry average of our peers. SAFETY
+Protecting our 
+employees, 
+contractors, and 
+communities is a 
+core value at Callon 
+and our top priority.
+TRIR PERFORMANCE
+10% Incident Rate Reduction
+2020 20190.54  0.60Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW            SAFETY            WORKFORCE            OUR COMMUNITIESForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 27We believe that all members of our workforce, 
+including employees and contractors, are 
+leaders on the job site, and we hold them to 
+the highest standards of personal conduct 
+and safety performance. Focus Areas for  
+Workplace Safety
+We are able to conduct our operations in a safe 
+and responsible manner, as outlined within the 
+framework and expectations of Callon’s OMS.  
+Engaged Leadership  
+Callon believes that active and engaged leaders 
+play the essential role of establishing our safety 
+culture. They do so by reinforcing our values, 
+setting expectations, providing the necessary 
+resources, and being accountable, and we 
+emphasize this by making leadership the first 
+element of our OMS. Our field employees, 
+contractors, and leaders enhance our safety 
+culture by actively participating in our behavior-
+based safety program to address unsafe acts and 
+conditions, as well as reinforcing our safe work 
+practices and requirements. In addition, our field 
+leaders conduct safety leadership engagements 
+with contractors to verify alignment with our safety 
+culture and requirements. We also ensure that our 
+site supervisors have the necessary training and 
+skills to manage their workplaces effectively.
+Risk Management
+The OMS Risk Assessment and Management 
+element provides guidance to prevent workplace 
+injuries, accidents, and fatalities. This involves 
+pre-job planning to identify hazards related to 
+work activities before work is initiated and to 
+communicate the controls to mitigate risks. Pre-
+job planning includes pre-job safety meetings, 
+job safety analysis (JSA), safe work permits, and 
+pre-startup safety reviews. Throughout work, 
+periodic risk assessments are performed and 
+specific levels of management address risks 
+according to their risk ranking.Contractor Management 
+Contractors make up a significant portion of 
+Callon’s field workforce, and we believe they 
+are an extension of our Company. The OMS 
+Third-party Services element requires that 
+all contractors acknowledge and adhere to  
+Callon’s core values, Safety and Environmental 
+Policy, and Environmental, Health, and Safety 
+(EHS) Manual. Safety performance and programs 
+are a priority factor when we select and 
+assess contractors. Before working on Callon 
+locations, contractors receive an orientation to 
+understand our expectations and requirements, 
+such as Life Saving Rules, incident reporting 
+and management, safe driving, and Stop Work 
+Authority. To ensure that contractors meet our 
+expectations and requirements, we monitor and 
+assess their performance, provide feedback, 
+and correct deficiencies.
+Training
+Training is necessary to achieve our requirements 
+and expectations for safe and efficient operations. 
+Short-service field employees, including contract 
+workers, who are new to the industry receive on 
+average 27 hours of initial training to understand 
+workplace hazards and personal safety. After 
+the initial training, full-time field employees and 
+contract workers received an average of 7 hours 
+of continuing education and hazard awareness 
+trainings in 2020, aimed at further enhancing 
+their health, safety, and environmental baseline 
+knowledge. 
+As a responsible employer, Callon will continue to 
+put the safety of our workforce and communities first.
+Foreword          Environmental          Social          Governance          SASB Disclosure
+Training is 
+necessary to 
+achieve our 
+requirements 
+and expectations 
+for safe and 
+efficient 
+operations.OVERVIEW            SAFETY            WORKFORCE            OUR COMMUNITIESForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 28Talented People Pursuing 
+Common Goals
+At Callon, our team comes first. We value every 
+team member and foster an entrepreneurial 
+environment where employees are treated with 
+respect and given autonomy to take ownership 
+of their work. With strong leadership and a 
+passionate team, together we set out to achieve 
+our personal and collective goals.
+Engaged and Empowered 
+Employees
+There’s an energy and excitement at Callon 
+that sets us apart. We empower our employees, 
+engage them in decision-making at every 
+level, and recognize their contributions to our 
+success. We reinforce a culture of connection 
+through quarterly town halls, access to senior 
+leadership, team building events, and frequent 
+communications about Company strategy, 
+execution, and workplace matters. This enriching 
+environment is reflected in our annual employee 
+survey results for 2020, of which 93% of our 
+employees participated. They commonly cited 
+teamwork, integrity, and drive for excellence as 
+valued Callon attributes. As a result, Callon was 
+selected as a Top Workplace by the Houston 
+Chronicle  for the fourth consecutive year.
+Supporting Our Team
+Our employees are the reason Callon is 
+successful, and we support our team members 
+with a competitive benefit package. Callon 
+invests in the health and well-being of our 
+employees and their families by paying 100% 
+of the premiums for our health care plan, 
+which includes telemedicine and an Employee 
+Assistance Program (EAP). To help employees 
+save for retirement, we sponsor a 401(k) plan 
+that includes a 1:1 Company match of employee 
+contributions up to 6%, and the potential for 
+profit-sharing contributions. Callon continues 
+to support employees throughout their careers 
+with a competitive vacation policy, family leave, an educational assistance program, and a variety 
+of insurance plans and other benefits. We do not 
+require mandatory arbitration of our employees.
+Fostering Diversity and  
+Inclusion
+At Callon, we believe that diversity of backgrounds 
+and experiences contributes to an innovative 
+workforce and an enriching environment for our 
+team. Our goal is to assemble and inspire a team 
+of passionate professionals in an environment 
+where they can achieve their career goals. We 
+are firmly committed to fostering an inclusive, 
+respectful environment and providing equal 
+opportunity to all qualified persons in our hiring, 
+development, and compensation practices. At 
+year-end 2020, 36% of our permanent, full-time 
+employees represented minorities and 18% were 
+female. Above the field level, 31% of our full-time 
+employees were female. Within our management 
+level, 25% of all managers were female.
+Developing Team and  
+Individual Capabilities
+At Callon, we foster an entrepreneurial 
+workplace where employees have autonomy 
+to take ownership of their work and to grow 
+professionally. As part of an aligned team 
+working in a fast-paced environment, our 
+employees gain outstanding experience 
+by connecting their work to the Company’s 
+strategic decisions. Our Company has enhanced 
+opportunities for personal development and 
+career growth. Since the beginning of 2020, 25% 
+of our employees have benefited from a new 
+role, developmental assignment, or promotion.
+Since the outbreak of the global COVID-19 
+pandemic in 2020, we have offered virtual in-
+house training programs across the workforce 
+on topics ranging from project management to 
+presentation skills to leader development. This 
+development approach boosted both team and 
+individual capabilities to manage our assets 
+safely, responsibly, and effectively.WORKFORCE
+Based on employee feedback, 
+Callon was selected as one of 
+the Top Places to Work by the 
+Houston Chronicle  in 2020 for the 
+fourth consecutive year.
+36%
+Minorities
+Female18%
+DEMOGRAPHICS
+At Callon, we will continue to find 
+ways of diversifying our talent.  
+At year-end 2020, our employee 
+base included:Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW            SAFETY            WORKFORCE            OUR COMMUNITIES
+Female
+Above Field31%Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 29Making a Positive Impact
+Part of Callon’s mission is to support strong, 
+sustainable communities where we operate. The 
+Company shares our employees’ commitment 
+to being a good neighbor and a meaningful 
+contributor in our communities.
+Going the Extra Mile for 
+Community Stakeholders
+We recognize that we earn the right to operate 
+every day and consider the safety of our 
+communities to be non-negotiable. To prevent 
+and mitigate safety, health, and environmental 
+incidents, we voluntarily post our emergency 
+call number in a visible place on each 
+wellsite, facility, and lease entry, and a Callon 
+team member responds timely to each call 
+received. We assess the situation and respond 
+appropriately — even if we determine that Callon 
+is not responsible for the issue. 
+When our work requires development projects 
+near populated areas, we make every effort 
+to mitigate the impact of our activities. Callon works closely with city officials and neighboring 
+landowners to proactively address noise, 
+traffic, greenhouse gas emissions, liquid spill 
+prevention, and other risks to our communities. 
+As a good community partner, when our 
+operations are within a proximate distance 
+to developed areas, Callon has proactively 
+installed sound barriers to minimize operational 
+disturbances to our neighbors. By going the 
+extra mile, we demonstrate our willingness 
+to work with our community and sustain our 
+reputation as the preferred energy company in 
+the Permian Basin. 
+Human Rights
+We have great respect for the protection 
+and advancement of universally recognized 
+human rights. All Company representatives are 
+prohibited from engaging in any activity that 
+supports, encourages, or is linked to forced 
+labor, modern slavery, or human trafficking.
+Please see our Code of Business Conduct and 
+Ethics for more information on our commitment 
+to human rights.OUR COMMUNITIES
+Foreword          Environmental          Social          Governance          SASB Disclosure
+Callon’s Lasso Recycle Facility: Each cell can store 500,000 barrels of treated produced water for a total capacity of one million barrels ready 
+for completion activity. The treatment plant, as seen on the left side of the photo, can handle a max capacity of 40,000 barrels per day. Callon 
+has recycled over 12,000,000 barrels of produced water from this facility since the summer of 2018.OVERVIEW            SAFETY            WORKFORCE            OUR COMMUNITIESForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 30Addressing Local Needs
+To help build strong communities, we focus our 
+corporate philanthropic efforts on three areas 
+we believe have meaningful impact, while 
+remaining consistent with our values: 
+ •Advancing education in underserved 
+areas, especially those that support the 
+communities where we operate
+ •Supporting local community food banks 
+and first responders, such as regional fire 
+departments and hospitals
+ •Improving and protecting the environments 
+where we live and operate
+At the start of the pandemic, Callon recognized 
+the hurdles many communities were facing 
+and decided on a broad approach to bridge 
+the gap. Education has always been a pillar 
+of giving for Callon, as we believe investing in 
+education for our communities will help children 
+and their families succeed in the future. During 
+2020, the shift to remote learning brought to 
+light the lack of available technology in many 
+homes, especially those in rural areas of Texas. 
+Recognizing this need, Callon partnered with 
+Comp-U-Dopt, an organization whose mission is focused on creating access to computers, 
+facilitating growth in technical and digital literacy 
+skills, and supporting the future of youth in 
+underserved communities. Together with their 
+staff, we provided enough equipment and 
+funding to support 150 families in the Permian 
+Basin in West Texas and 50 families in the Eagle 
+Ford Shale in South Texas.
+We also partnered with Adopt-a-Classroom, 
+an organization dedicated to advancing equity 
+in education, one classroom at a time, by 
+connecting teachers with donors to fund their 
+classroom needs. During our fall 2020 campaign, 
+we adopted 20 classrooms throughout our asset 
+base, benefitting over 500 students across eight 
+cities and six school districts.
+In addition to supporting families and schools 
+last year, we recognized that many children 
+relied on their local school cafeteria for their 
+dietary needs. Without in-person classes, there 
+was a large unmet need for food. As such, we 
+extended our support to all the regional food 
+banks that supported the communities around 
+our asset base.We purchased dry erase 
+markers, counters, whiteboards, 
+and other manipulatives to help 
+us close the gap because of 
+COVID-19. We will also purchase  
+more hands-on manipulatives  
+so we can get the students to 
+have a concrete understanding 
+of  the concept. Again, thank 
+you for all you have done to 
+help our students!”
+TEACHER AT MISSOURI CITY MIDDLE 
+SCHOOL, MISSOURI CITY, TX
+Your donation was the highlight 
+of my day and brought tears to 
+my eyes! It lets me know that 
+there are still amazing people in 
+the world! Thanks to you, 130 
+children, including exceptional 
+learners, will have access to 
+technology and manipulatives. 
+Callon Petroleum, thank you 
+once again for your generosity 
+and selfless giving. It truly 
+means the world to us!”
+TEACHER AT FLOYD HOFFMAN  
+MIDDLE SCHOOL, HOUSTON, TXCOMMUNITY PARTNERSHIPS
+Some of the organizations that Callon supports from a corporate level include:
+Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW            SAFETY            WORKFORCE            OUR COMMUNITIESForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 31Callon has been a long-time partner of first 
+responders throughout the Permian Basin and 
+Eagle Ford regions.  In the past, we donated acreage 
+and funded a new volunteer fire department 
+location outside of Midland, Texas. We have also 
+provided personal protective equipment (PPE) and  
+monetary donations to regional fire departments  
+to close their funding gap for equipment  
+purchases, vehicle repairs, and upgrades.  
+In 2020, Callon supported fire departments in 
+four counties throughout our asset base. Funding 
+was spent on much-needed equipment repairs, 
+upgrades, and PPE requirements. 
+Callon Cares Committees
+We believe corporate stewardship is both a 
+financial obligation and a social duty. Callon has 
+established Callon Cares Committees comprised 
+of local employees in our field locations to 
+guide regional philanthropic efforts through 
+volunteerism, donations, and leadership.  
+Our Permian Callon Cares Committee has 
+brought employees and families together 
+for bowling and a school supply drive for 
+Communities in School. They have also 
+supported Habitat for Humanity and West Texas 
+Food Bank with donations and volunteers, and 
+made financial contributions to the Midland 
+Education Foundation and other organizations.  
+In 2020, the committee hosted a mask and 
+school supply drive for a local elementary  school, collected supplies and personal 
+essentials for foster care facilities and senior 
+citizens, and sponsored a food drive for the local 
+food pantry.
+Our Eagle Ford employees have been long-
+standing, active members of LEPCs (local 
+emergency planning committees) in several 
+counties, enabling them to build relationships 
+with first responders and maintain readiness 
+for emergencies. Through their extensive 
+community connections, the Eagle Ford Callon 
+Cares Committee can address a variety of local 
+needs, such as providing Christmas gifts for at-
+risk children.
+In Houston, our employees donated surplus 
+pantry items to the Memorial Hermann 
+Emergency Room staff and EMTs in support 
+of their overnight shift staff in 2020.  We also 
+sponsored meals for our local county hospitals. 
+Our philanthropy program also includes a 
+charitable matching program for our employees 
+who contribute to registered nonprofit 
+organizations. As our employees donate, so does 
+Callon. Our Charitable Contribution Company 
+Matching Program matches approved employee 
+contributions made to qualifying organizations 
+up to $1,000 annually. This program was 
+launched in 2019, and as of January 2021, we 
+have distributed over $70,000 in matching 
+funds to over 85 organizations.
+Callon will continue to value the perspectives of 
+our community stakeholders and strive to be a 
+good neighbor.
+The children loved their gifts. 
+The young man who got the 
+jersey and jeans said he hasn’t 
+had a pair of jeans to wear to his 
+basketball games, so he wore 
+the team warm ups. ’Now I can 
+dress like the other guys.’”
+HIGH SCHOOL TEACHER FROM  
+EAGLE FORD REGION
+$1,000
+The amount Callon’s Charitable 
+Contribution Company Matching Program 
+will match up to annually for approved 
+employee contributions.
+20%
+There was a 20% increase in employee 
+donation matching requests in 2020.
+Callon employee Brian Daughtry presenting 
+the company’s donation to the Cotulla, 
+Texas fire department.  The funds helped 
+the department purchase new hazmat 
+equipment, wildfire protective gear, and new 
+fire truck hoses.Foreword          Environmental          Social          Governance          SASB Disclosure
+OVERVIEW            SAFETY            WORKFORCE            OUR COMMUNITIESForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksOverview
+Building Trust and Creating 
+Long-term Value
+Callon seeks to operate our business responsibly, ethically, and in a manner 
+aligned with the interests of our stakeholders. We are committed to effective 
+and sustainable corporate governance, which we believe strengthens 
+accountability, promotes the long-term interests of our stakeholders, and 
+helps build public trust in our Company. Our core values — responsibility, 
+integrity, drive, respect, and excellence — support good governance and 
+our efforts to integrate sustainable business practices and achieve long-
+term results.
+CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 32BOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 33Nearly half of the directors have less 
+than five years’ tenure.Ten of our 11 board directors are 
+independent, and a non-executive 
+director serves as chair of the Board.
+One minority and two female directors 
+serve on our Board.The board met formally 16 times in 2020  
+to address the challenges of COVID-19 
+and related commodity price volatility.
+We enhanced board oversight of ESG by expanding the scope and renaming our 
+Nominating & Corporate Governance Committee the Nominating & ESG Committee.
+5/1110/11
+2/112020 Governance HighlightsThe Callon Board of Directors is responsible 
+for providing oversight and direction to the 
+management of our Company for the benefit 
+of stakeholders. To assist the Board in fulfilling 
+its responsibilities, our Corporate Governance 
+Guidelines  describe foundational corporate 
+governance policies and practices related to 
+its composition, role, structure, and interaction 
+with external constituencies. Our Code of 
+Business Conduct and Ethics  and charters for 
+the four standing Board committees provide 
+additional guidance. 
+With our mission to build trust, Callon 
+recognizes the role our environmental, social, 
+and governance (ESG) performance plays in 
+fostering business sustainability. As part of 
+its corporate governance responsibilities, 
+our Board regularly addresses our progress 
+in safeguarding our team and communities, 
+minimizing our environmental impacts, and 
+developing and diversifying our workforce. 
+In early 2020, we strengthened the ESG 
+oversight role of the Board’s Nominating 
+and Governance Committee to ensure we focus our time, resources, and engagements 
+effectively to achieve our ESG goals. The 
+committee was then renamed the Nominating 
+and ESG Committee.
+We continuously assess our corporate 
+governance principles and practices to ensure 
+they are effective and help us perform to the 
+high ethical standards we set for ourselves. 
+Callon reviews our Corporate Governance 
+Guidelines, Code, and other governance 
+documents annually, or more often if business 
+needs warrant it. 
+To enhance our board effectiveness and  
+governance practices, in 2020 the Board 
+engaged a third-party advisory firm to conduct 
+its annual board evaluation process and provide 
+benchmarking on best practices.We continuously 
+assess our corporate 
+governance principles 
+and practices to 
+ensure they are 
+effective and help us 
+perform to the high 
+ethical standards we 
+set for ourselves. 
+16BOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 34Ensuring Effective Oversight 
+from Our Board of Directors
+At Callon, we believe that a Board with a variety 
+of skills and perspectives enhances constructive 
+discussion and decision-making among the 
+directors, allowing the Board to perform its 
+strategic and oversight roles satisfactorily  
+for our stakeholders. We are committed to 
+building a diverse Board of individuals with 
+different backgrounds, professional experiences, 
+education, gender, race or ethnicity, age, and 
+other individual qualifications and attributes, and 
+we have adopted a Board diversity policy within 
+our Corporate Governance Guidelines. When our 
+Nominating and ESG Committee considers new 
+candidates for the Board, they instruct search 
+firms to seek to present women and minorities 
+among the candidates. Two women and one 
+minority serve as Callon directors.
+Independent directors offer different perspectives 
+to our Board that contribute to developing a 
+sustainable corporate strategy. Callon maintains 
+an independent Board of Directors in accordance 
+with New York Stock Exchange (NYSE) standards, 
+U.S. Securities and Exchange Commission (SEC) rules and regulations, and our Corporate 
+Governance Guidelines. We have a policy 
+that requires the majority of the Board to be 
+independent, and ten of 11 Board members met 
+the qualifications for independence in 2020; only 
+the chief executive officer (CEO) did not qualify as 
+independent. In 2020, the roles of Chairman and 
+CEO were separate, with the Chairman meeting 
+the qualifications for independence.
+In 2020, the Nominating & ESG Committee and 
+the Board enhanced their focus on long-term 
+board composition, diversity, and succession, 
+with the objective of developing a view of the 
+key skills and experiences needed at the board 
+level to support the Company’s strategy in the 
+evolving energy landscape.  As part of this 
+evaluation, the Board adopted a retirement policy 
+as a governance best practice and in support of 
+continuing refreshment of board composition. 
+Under the policy, an independent director will 
+retire in conjunction with the annual meeting of 
+stockholders prior to his or her 75th birthday, 
+except in special circumstances upon the request 
+of a majority of the Board (not including the 
+subject director). BOARD OF DIRECTORS
+One minority  and  
+Two female  directors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Less than five years’  tenure  
+for nearly half the directors
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ten directors are independent,  
+and a non-executive director 
+serves as chair of the BoardStanding Committees of Callon Petroleum Board
+1
+2
+3
+4NOMINATING & ESG  
+Focuses on issues relating to corporate governance, ESG matters, and Board committee 
+composition. It also assists the Board in fulfilling its oversight responsibilities with respect to 
+succession planning for our directors and executive officers.
+COMPENSATION  
+Establishes our compensation programs, oversees their alignment with our business 
+strategies, and reviews our compensation policies to ensure they do not encourage 
+unnecessary or excessive risk-taking by management.
+OPERATIONS & RESERVES  
+Oversees production operations, the Company’s long-term resource development 
+strategy, and the integrity of our reserves estimation reporting process.AUDIT 
+Oversees material risk exposures in the areas of financial reporting, internal controls, 
+compliance, hedging, and cybersecurity.DIVERSITY
+REFRESHMENT
+INDEPENDENCE/211
+/511
+/1011BOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 35Gender Diversity
+Minority DiversityAge (as of April 1, 2021) 72
+769
+2 Tenure (as of April 1, 2021)NameJames M.
+TrimbleSteven A.
+Webster
+65
+2Frances Aldrich
+Sevilla-Sacasa
+64
+761
+365
+673
+1750
+365
+273
+1470
+10Barbara J.
+FaulkenberryMichael L.
+FinchL. Richard 
+FluryJoseph C.
+Gatto, Jr.S.P.
+Johnson IVLarry D.
+McVayAnthony J.
+NocchieroMatthew R.
+BobCHAIRMAN
+CEO/President
+Experience
+Senior Executive
+Leadership
+Outside Public Boards
+(Current)
+Outside Public Boards
+(Prior)
+E&P Industry 
+Experience
+Financial Expert
+Financial Literacy
+Financial Oversight/
+Accounting
+Petroleum and 
+Other Engineering
+Geologist or
+Geophysicist
+HES Experience/
+Environmental
+Strategic Advising
+Investment Banking
+Supply Chain
+Technology/IT/
+CybersecurityEnergy (Other than E&P)
+Industry Experience
+Government/
+Public Policy/
+Regulatory
+Current Composition of the BoardBOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 36Enhanced Risk Oversight
+As companies compete in a highly complex business and legal environment, prudent risk management 
+is essential for sustainable operations and for creating durable shareholder returns. Callon has enhanced 
+our risk oversight and risk management by integrating formal enterprise risk management processes  
+involving our Board and management with our internal audit function. These ongoing, linked 
+processes ensure we assess, identify, rank, and mitigate the most material risks to Callon, and the 
+Board and management regularly reassess the effectiveness of these processes. 
+The Callon management team has daily responsibility for assessing and managing material 
+operational and financial risks to the Company, and our Board provides oversight of risk management 
+as well as the Company’s long-term strategic direction. We believe this provides assurance that 
+risks we undertake are consistent with the Board’s risk tolerance. This Board leadership structure, 
+coupled with a high degree of interaction among our directors and senior leaders, facilitates the 
+Board’s oversight function and ensures information flow and communication throughout the year. 
+While the full Board is ultimately responsible for risk oversight, each Board committee has primary 
+risk oversight within its specific areas of responsibility. 
+For a comprehensive discussion of material risks Callon has identified, please refer to our Form 10-K  
+for the fiscal year ended December 31, 2020.ENHANCED RISK OVERSIGHT
+STRATEGIC
+FINANCIAL OPERATIONAL
+LEGAL ESGSEVERITYFREQUENCY
+ONSET SPEEDRISKENTERPRISE RISK 
+MANAGEMENT  
+A practice governed by the Board and led 
+by executive management, which focuses 
+on both current and emerging risks, 
+allowing Callon to protect stakeholder 
+interests by integrating targeted mitigation 
+efforts into its corporate planning process.Callon has enhanced 
+our risk oversight 
+and risk management 
+by integrating formal 
+enterprise risk 
+management 
+processes involving 
+our Board and 
+management with 
+our internal audit 
+function.BOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 37Executive Compensation 
+that Pays for Performance
+Callon’s executive compensation program is 
+designed to reward the management team 
+for delivering results consistent with our long-
+term strategic objectives and to align with our 
+shareholders’ interests. The Compensation 
+Committee, which is made up entirely of 
+independent directors, strives to evolve Callon’s 
+compensation to reflect shifts in shareholder 
+priorities. Our compensation program is heavily 
+weighted to “at-risk” compensation delivered 
+through annual cash incentives and long-term 
+incentive awards. The committee believes this 
+approach provides incentives for our named 
+executive officers (NEOs) to enhance shareholder 
+value, successfully implement our business 
+plan, and continuously improve corporate and 
+individual performance.We believe our compensation program 
+incorporates many sound practices, such 
+as substantial focus on performance-based  
+pay, strong alignment with shareholder 
+returns, peer group benchmarking of executive 
+compensation, and robust stock ownership 
+guidelines for NEOs and directors. Callon 
+also has a peer-leading clawback policy 
+that establishes conditions under which 
+the Committee may recoup previously paid 
+compensation in the event of error, misconduct, 
+or certain other circumstances. 
+The Compensation Committee evaluates 
+Callon’s incentive programs annually. For 
+2020, the committee added an absolute total 
+shareholder return (TSR) modifier to the 2020 
+performance share unit grants that reduces 
+outcomes if TSR is less than 5% over the 
+performance period, creating a further tie to 
+Following a comprehensive review of its executive compensation structure, in the first quarter 
+of 2021 the Compensation Committee adopted a leading-edge compensation program to align 
+with investor priorities and drive sustainable results. The 2021 program features the following: 
+ •A refreshed executive compensation program aligned with sustained delivery of free 
+cash flow, returns, reduced leverage, and ESG performance
+ •Reductions in overall compensation opportunities, led by a 17.5% reduction in target long-
+term incentive (‟ LTI”) value for the CEO, which lowered his total target compensation by 
+12.5%, and a 12.5% reduction in annual compensation for directors
+ •New annual bonus framework that prioritizes financial performance and ESG initiatives, 
+eliminates traditional operational and growth metrics, and caps payouts at target in the 
+event of negative total shareholder return (‟ TSR”)
+ •New LTI program that maintains a 60% weighting on performance-based LTI with 
+performance units tied to free cash flow and return on capital employed (‟ ROCE” ) 
+performance over a three-year periodPAY FOR PERFORMANCE
+The Compensation 
+Committee, which  
+is made up entirely  
+of independent 
+directors, strives  
+to evolve Callon’s 
+compensation to 
+reflect shifts in 
+shareholder priorities.BOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 38>90%
+Over 90% of votes cast were in favor of our 
+executive compensation program for the 
+past five years.
+Compensation Program Governance Practices 
+Strong alignment with shareholder returns 
+through significant weighting on long-term 
+incentivesNO employment agreements
+NO single trigger change in control benefitsReview of peer group benchmarks when 
+establishing compensation
+Clawback policy applies in the event of error, 
+fraud, or misconduct
+Double-trigger change in control severance for 
+both cash severance and equity vestingNO excessive benefits or perquisitesSubstantial focus on performance-based pay
+Robust stock ownership guidelines for our 
+NEOs and directorsNO hedging or pledging of our stock
+absolute shareholder returns. Following the 
+outbreak of the global COVID-19 pandemic, 
+our officers and directors temporarily agreed 
+to reduce their compensation, and the 
+Compensation Committee ultimately exercised 
+downward discretion for 2020 bonus payouts 
+in recognition of stock price performance.
+We believe our ESG initiatives, along with our 
+corporate goals of meaningful free cash flow 
+generation, absolute debt reduction, and returns 
+on capital, will create shareholder value.
+The Compensation Committee continues to 
+review shareholder votes and feedback to 
+ensure our executive compensation programs 
+align with their interests. Additional details about 
+Callon’s executive compensation program are 
+available in our 2021 proxy statement.BOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 39Shareholder Engagement
+At Callon, we believe delivering value to our stakeholders requires alignment. Our governance 
+structure and ongoing engagements with shareholders, employees, and communities where we 
+operated in 2020 helped position us to achieve our corporate goals. 
+We take shareholder feedback into consideration when planning our ESG activities. Callon’s Investor 
+Relations team facilitates engagement with shareholders, and feedback from these engagements are 
+collected and shared with leadership. During 2020, feedback from our various shareholders covered 
+corporate strategy, risk management, executive compensation, and ESG initiatives. In addition to 
+shareholder engagement, we also proactively engage with ESG rating agencies to better align our 
+ESG disclosures. The material included in this report is a result of these discussions and what we 
+believe are the most significant priorities to all our stakeholders.  We hope to continue expanding our 
+sustainability disclosures as our business evolves.SHAREHOLDER ENGAGEMENT
+BOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 40Committed to Being a  
+Responsible Corporate Citizen
+Callon has built a strong foundation over our 70-
+year history as a trusted partner in business and 
+in our communities. Our core value of integrity 
+drives us to strive to do the right thing by being 
+open, honest, ethical, and genuine. We do what 
+we say and are accountable for our actions. 
+Callon’s integrity, reputation, and success 
+depend on the individual actions of our 
+employees, directors, and others acting on 
+the Company’s behalf. Our Code of Business 
+Conduct and Ethics and related policies set out 
+our expectation that team members, including 
+employees, contractors, and vendors, maintain 
+high ethical standards and comply with all 
+applicable legal requirements when conducting 
+Callon’s business.
+The Code covers topics ranging from conflicts 
+of interest and equal employment opportunity to 
+anti-harassment, anti-corruption, and compliance 
+with applicable laws. The Code also explicitly 
+prohibits directors, officers, and employees 
+from engaging in insider trading or hedging 
+transactions in Callon stock. 
+All employees are required to commit to the Code 
+of Business Conduct annually, acknowledging 
+their understanding of and compliance with its key 
+policies, and we conduct annual Code training. We encourage Callon team members to bring 
+any issues or concerns to their supervisor, 
+human resources, the legal organization, or a 
+member of the leadership team. In addition, 
+we have a toll-free ethics hotline available for 
+anonymous, confidential reporting at 1-844-471-
+7637 and online at callon.ethicspoint.com. 
+Callon does not permit any form of retribution 
+or retaliation against any person who makes 
+a good-faith report of known or suspected 
+violations of the Code or suspected illegal or 
+unethical conduct. 
+Political Engagement 
+Consistent with our Code of Business Conduct, 
+Callon does not make corporate contributions 
+to individual candidates or political committees 
+supporting candidates in federal, state, or local 
+elections. We do not sponsor a political action 
+committee, and we encourage employees to 
+vote and support the candidates and parties 
+of their choice. To communicate our views on 
+legislative and regulatory matters affecting 
+our operations and industry, we engage in the 
+legislative and regulatory processes through 
+various trade associations.ETHICS AND TRANSPARENCY
+70+
+For over 70 years, Callon has been 
+a trusted partner in business and 
+in the communities in which it 
+operates.
+ 
+Anonymous ethics concerns  
+can be reported online at  
+callon.ethicspoint.com or by  
+phone at 1-844-471-7637.
+Our core value of integrity drives Callon to always 
+strive to do the right thing by being open, honest, 
+ethical, and genuine.BOARD OF 
+DIRECTORSPAY FOR  
+PERFORMANCESHAREHOLDER 
+ENGAGEMENTETHICS AND 
+TRANSPARENCYENHANCED RISK 
+OVERSIGHTOVERVIEWForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 41
+Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.Quantitative Results
+In this section, we disclose quantitative information about our ESG performance that we believe is of value to our stakeholders. Based on 
+investor feedback, we are using the Sustainability Accounting Standards Board (SASB) standards for Oil and Gas – Exploration & Production to 
+report our results, including quantitative metrics and qualitative examples. All 2019 data have been updated to reflect pro forma Callon results. 
+2019 Air Quality data has been updated to reflect updated gas analysis and BTU values which are consistent with 2020 GHG methodologies.SASB DISCLOSURES          TCFD DISCLOSURESForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure FrameworksCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 42
+Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks
+SASB DISCLOSURES          TCFD DISCLOSURESCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 43
+Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks
+SASB DISCLOSURES          TCFD DISCLOSURESCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 44
+Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.
+Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks
+SASB DISCLOSURES          TCFD DISCLOSURESCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 45
+Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.Total Permanent, Full-Time Employees
+Women, as a % of Workforce
+Minorities, as a % of Workforce
+Percent of Workforce represented by Union
+*2019 workforce statistics reﬂect Callon’s post-merger full-time, permanent workforce as of January 10, 2020.337
+20%
+35%
+0%Voluntary Disclosure
+Voluntary Disclosure
+Voluntary Disclosure
+Voluntary DisclosureNumber
+Percentage (%)
+Percentage (%)
+Percentage (%)303
+18%
+36%
+0%
+10-K / 10-Q Risks section EM-EP-530a.1 n/a5,010
+34%
+4,183
+36%
+1,484
+3,024
+8,691
+1,484
+15,854
+0%
+91%
+9%
+0
+100%
+>90%
+Page 11-12EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+EM-EP-140a.1
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+Voluntary disclosure
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.2
+EM-EP-140a.3
+Voluntary disclosure
+EM-EP-140a.4Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Percentage (%)
+Thousand Cubic 
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Thousand Cubic
+Meters (m3 )
+Percentage (%)
+Percentage (%)
+Percentage (%)
+Metric tons (t)
+Percentage (%)
+Percentage (%)
+n/aTotal fresh water withdrawn
+Percentage of total fresh water withdrawn in regions with
+High or Extremely High Baseline Water Stress
+Total fresh water consumed
+Percentage of fresh water consumed in regions with
+High or Extremely High Baseline Water Stress
+Total volume of Recycled Produced Water consumed
+Total volume of Non Fresh Water consumed
+Total volume of water consumed
+Total volume of Recycled Produced Water
+Volume of produced water and ﬂowback generated
+Percentage of produced water and ﬂowback discharged
+Percentage of produced water and ﬂowback injected
+Percentage of produced water and ﬂowback recycled
+Hydrocarbon content in discharged water
+Percentage of hydraulically fractured wells for which there
+is public disclosure of all fracturing ﬂuid chemicals used
+Percentage of produced water on pipe
+Discussion of policies and practices related to ground and
+surface water quality management
+Discussion of environmental management
+policies and practices for active sites
+Aggregate volume of hydrocarbon
+spills to the environment
+Number of hydrocarbon spills to the environment
+Aggregate volume of hydrocarbon spills in the Arctic
+Aggregate volume of hydrocarbon spills
+impacting shorelines with ESI rankings 8-10
+Aggregate volume of hydrocarbon recovered from the environment
+Total Fluids Spill Rate
+Percentage of proved reserves in or near sites with protected
+conservation status or endangered species habitat
+Percentage of probable reserves in or near sites with protected
+conservation status or endangered species habitat
+Volume of hazardous waste generated and disposed3,230
+35%
+2,014
+46%
+773
+1,272
+4,059
+953
+15,313
+0%
+94%
+6%
+0
+100%
+>90%
+Page 20-21DEFINITION UNIT OF MEASURE SASB METRIC 2019 2020
+1,450,165
+118,929
+27.3
+28%
+7.64
+100%
+544,678
+7%
+523,029
+0
+372,216
+10,242
+Page 8-10
+--EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.1
+Voluntary disclosure
+EM-EP-110a.1
+EM-EP-110a.2
+Voluntary disclosure
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.2
+EM-EP-110a.3
+EM-EP-110a.3Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e(t)/
+production (MBOE)
+Percentage (%)
+Metric tons CO₂-e
+Percentage (%)
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+Metric tons CO₂-e
+n/a
+n/a Gross Scope 1 GHG Emissions
+Gross Scope 2 GHG Emissions
+Gross Scope 1 GHG Intensity Rate
+Gross Scope 1 Methane Emissions
+as a percentage of GHG Emissions
+Gross Scope 1 Methane Intensity
+Percentage of Scope 1 GHG Emissions covered
+under emissions-limiting regulations
+Gross Scope 1 GHG emissions from ﬂared hydrocarbons
+Flare Percent, as a percent of gas produced
+Gross Scope 1 GHG emissions from other combustion
+Gross Scope 1 GHG emissions from process emissions
+Gross Scope 1 GHG emissions from other vented emissions
+Gross Scope 1 GHG emissions from fugitive emissions
+Long-term and short-term strategy or plan
+to manage Scope 1 emissions
+Emissions reduction targets and analysis
+of performance against those targets995,625
+116,292
+19.7
+29%
+5.70
+100%
+298,711
+4%
+429,557
+0
+256,359
+10,998
+Page 16-19
+Page 16-17Greenhouse Gas Emissions
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1
+EM-EP-120a.1Metric tons (t)
+Metric tons (t)
+Metric tons (t)
+Metric tons (t)Nitrogen Oxide (NO) Emissions
+Sulfur Dioxide (SO₂ ) Emissions
+Volatile Organic Compounds (VOCs) Emissions
+Particulate Matter (PM10) Emissions12,955
+1,015
+242,410
+33015,098
+1,485
+265,714
+257Air Quality
+Water Management
+--
+715
+35
+0
+0
+567
+115
+0%
+0%
+--EM-EP-160a.1
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+EM-EP-160a.2
+Voluntary disclosure
+EM-EP-160a.3
+EM-EP-160a.3
+Voluntary disclosuren/a
+Barrels (bbls)
+Number
+Barrels (bbls)
+Barrels (bbls)
+Barrels (bbls)
+Barrels of total ﬂuids
+spilled/million barrels
+produced
+Percentage (%)
+Percentage (%)
+Cubic Yards (yd3 )Page 7, 13-15
+134.9
+31
+0
+0
+28.5
+39
+0%
+0%
+10Biodiversity Impacts
+Total recordable incident rate (TRIR)
+Fatality Rate 
+Near miss frequency rate (NMFR)
+Average hours of health, safety, and emergency response training
+for full-time ﬁeld and contract employees
+Average hours of health, safety, and emergency response
+training short-service employees
+Discussion of management systems used to integrate a culture of
+safety throughout the exploration and production life cycle0.60
+0
+0.65*
+18
+37
+Page 19-20EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.1
+EM-EP-320a.2Number of work-related
+injuries and illnesses
+per 200,000 workhours
+Rate
+Rate
+Hours (h)
+Hours (h)
+n/a0.54
+0
+0.88
+7
+27
+Page 7, 26-27Workforce Health & Safety
+Percentage of (1) proved and (2) probable reserves in countries
+that have the 20 lowest rankings in Transparency International’s
+Corruption Perception Index
+Description of the management system for prevention of 
+corruption and bribery throughout the value chain0% EM-EP-510a.1
+EM-EP-510a.2Percentage (%)
+n/a0%Business Ethics & TransparencyEstimated carbon dioxide emissions
+embedded in proved hydrocarbon reserves
+Invested amount vs. revenue generated 
+by renewable energy sales
+Discussion of how price and demand for hydrocarbons and/or
+climate regulation inﬂuence the capital expenditure strategy
+for exploration, acquisition, and development of assets 61,238,606
+$273,750
+10-K / 10-Q Risks and MD&A section
+Refer to Code of Business Conduct and EthicsEM-EP-420a.2
+EM-EP-420a.3
+EM-EP-420a.4Metric tons (t) CO₂-e
+Reporting Currency
+n/a53,966,975
+$303,600Reserves Valuation & Capital Expenditures
+Percentage of (1) proved and (2) probable
+reserves in or near areas of conﬂict
+Percentage of (1) proved and (2) probable
+reserves in or near indigenous land
+Discussion of engagement processes and due diligence
+practices with respect to human rights, indigenous rights,
+and operation in areas of conﬂict0%
+0%
+--0%
+0%
+Page 29EM-EP-210a.1
+EM-EP-210a.2
+EM-EP-210a.3Percentage (%)
+Percentage (%)
+n/aSecurity, Human Rights, & Rights of Indigenous Peoples
+Discussion of process to manage risks and opportunities
+associated with community rights and interests
+Number and duration of non-technical delaysPage 23
+0Page 29
+0EM-EP-210b.1
+EM-EP-210b.2n/a
+Number, DaysCommunity Relations
+Discussion of corporate positions related to government regulations 
+and/or policy proposals that address environmental 
+and social factors aﬀecting the industryManagement of the Legal & Regulatory EnvironmentWorkforce*
+Oil production, total gross
+Natural Gas production, total gross
+Synthetic oil production
+Synthetic gas production
+Number of oﬀshore sites
+Number of terrestrial sites EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.A
+EM-EP-000.B
+EM-EP-000.C105
+246
+0
+0
+0
+094
+265
+0
+0
+0
+0Mbbl/day
+MMscf/day
+Mbbl/day
+MMscf/day
+Number
+NumberProcess Safety Event (PSE) rates for 
+Loss of Primary Containment (LOPC) of greater consequence (Tier 1)
+Description of management systems used to identify 
+and mitigate catastrophic and tail-end risksEM-EP-540a.1
+EM-EP-540a.20.34
+Page 7, 36--
+--Rate
+n/aCritical Incident Risk Management
+Activity Metrics*Revised from prior disclosure of 0.90.
+Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks
+SASB DISCLOSURES          TCFD DISCLOSURESCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 46CORE THEME TOPIC
+GovernanceDescribe the board’s oversight of climate-related risks 
+and opportunities.REFERENCE
+Page 9
+Page 10
+Page 10
+Page 10
+Page 10
+Page 10
+Page 16, 37
+Page 16Page 41Page 10-11
+Page 11Describe management’s role in assessing and managing 
+climate-related risks and opportunities.
+StrategyDescribe the climate-related risks and opportunities the 
+organization has identiﬁed over the short, medium, and long term.
+Describe the impact of climate-related risks and opportunities on 
+the organization’s businesses, strategy, and ﬁnancial planning.
+Describe the resilience of the organization’s strategy, taking 
+into consideration diﬀerent climate-related scenarios, 
+including a 2°C or lower scenario.
+Metrics & TargetsDisclose the metrics used by the organization to assess 
+climate-related risks and opportunities in line with its 
+strategy and risk management process.
+Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 
+greenhouse gas emissions and the related risks.
+Describe the targets used by the organization to manage 
+climate-related risks and opportunities and performance 
+against targets.Risk ManagementDescribe the organization’s processes for identifying 
+and assessing climate-related risks.
+Describe the organization’s processes for managing 
+climate-related risks.
+Describe how processes for identifying, assessing, and 
+managing climate-related risks are integrated into the 
+organization’s overall risk management.TCFD Index
+As described on page 8 and summarized below, Callon has enhanced our disclosures to align with the Task Force on Climate-related 
+Financial Disclosures. Foreword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks
+SASB DISCLOSURES          TCFD DISCLOSURESCALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT CALLON PETROLEUM    |   2020 SUSTAINABILITY REPORT 47This report, as well as related statements on our website, contains 
+forward-looking statements within the meaning of Section 27A 
+of the Securities Act of 1933 and Section 21E of the Securities 
+Exchange Act of 1934. Forward-looking statements include 
+all statements regarding projections, future estimates, plans, 
+expectations, and other forward-looking statements, including 
+information about sustainability, environmental, health and safety 
+goals, plans, policies, programs, and initiatives, anticipated returns 
+and financial position, and the implementation of the Company’s 
+business plans and strategy, as well as statements including 
+the words “believe,” “expect,” “may,” “will,” “forecast,” “outlook,” 
+“plans” and words of similar meaning. These statements reflect 
+the Company’s current views with respect to future events and 
+financial performance based on management’s experience and 
+perception of historical trends, current conditions, anticipated 
+future developments, and other factors believed to be appropriate. 
+No assurances can be given, however, as of this date, that these 
+events will occur or that these projections will be achieved, and 
+actual results could differ materially from those projected as a 
+result of certain factors. Any forward-looking statement speaks 
+only as of the date of which such statement is made, and the Company undertakes no obligation to correct or update any 
+forward-looking statement, whether as a result of new information, 
+future events, or otherwise, except as required by applicable law. 
+Some of the factors which could affect our future results and 
+could cause results to differ materially from those expressed in 
+our forward-looking statements include the volatility of oil, natural 
+gas, and natural gas liquids (“NGLs”) prices or a prolonged period 
+of low oil, natural gas, or NGLs prices and the effects of actions 
+by, or disputes among or between significant oil and natural gas 
+producing countries; general economic conditions, including the 
+availability of credit and access to existing lines of credit; changes 
+in the supply of and demand for oil and natural gas, including as a 
+result of the COVID-19 pandemic and the actions of certain oil and 
+natural gas producing countries; our ability to drill and complete 
+wells; operational, regulatory, and environment risks; cost and 
+availability of equipment and labor; our ability to finance our 
+activities; and other risks more fully discussed in our filings with 
+the Securities and Exchange Commission (the “SEC”), including 
+our most recent Annual Report on Form 10-K and Quarterly Report 
+on Form 10-Q and subsequent Quarterly Reports on Form 10-Q, 
+available on our website or the SEC’s website at www.sec.gov.Forward-Looking StatementsFORWARD LOOKING STATEMENTSForeword        TCFD Disclosure        Environmental        Social        Governance        Disclosure Frameworks

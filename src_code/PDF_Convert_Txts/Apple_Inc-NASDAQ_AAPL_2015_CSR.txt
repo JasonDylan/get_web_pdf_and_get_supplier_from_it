@@ -1,0 +1,1499 @@
+Environmental 
+Responsibility Report
+2015 Progress Report, Covering FY2014
+Our micro-hydro project uses the natural drops in elevation along the Deschutes River to help power our Prineville, Oregon, data center.2 Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Page 3  En vironmental Responsibility at Apple
+Page 4  C limate Change
+Page 1 1  R enewable Resources
+Page 18  F inite Resources
+Page 23  T oxins
+Page 25  A ppendix A  
+ Environmental Health and Safety Policy Statement
+Page 26  A ppendix B  
+ C arbon Assurance and Review Statements
+Page 34  A ppendix C  
+ F acilities Emissions: Scope 1, 2, and 3 Carbon Emissions Disclosure  
+ 
+ 
+ ContentsWe strive to leave the world better than we found it, and that means considering  
+everything we do—from the design of our products to the processes we use to make 
+and recycle them. Our passion for innovation is also reflected in how we think about 
+environmental responsibility. Our goal is to make not just the best products in the world, but the best products for the world.
+Apple’s 2015 Environmental Responsibility Report, covering fiscal year 2014, highlights the 
+progress we’ve made.  We have set three priorities where we believe Apple can make the most impact:  
+•  R educe our impact on climate change by using renewable energy sources and  
+driving energy efficiency in our products.
+•  C onserve precious resources so we all can thrive.
+•  P ioneer the use of greener materials in our products and processes.
+This report details how we are approaching each of these priorities and highlights some of our key accomplishments to date.
+For starters, every one of our data centers is powered entirely by clean sources such as 
+solar, wind, biogas fuel cells, micro-hydro power, and geothermal energy. So whenever  
+you download a song from iTunes, install an app from the Mac App Store, or ask Siri a 
+question, the energy Apple uses is provided by nature. 
+Of course, the cleanest energy is the energy you never use. That’s why, thanks to  
+innovations in energy efficiency, we’ve reduced the average total greenhouse gas  
+emissions during the use phase of our products by 61 percent since 2008—helping 
+reduce our customers’ carbon footprints and electricity bills. And each one of our  
+products far exceeds the strict energy efficiency guidelines set by ENERGY STAR.
+By working with The Conservation Fund, we’re permanently protecting more than 36,000 
+acres of working forest in the eastern United States. And we’re working to ensure that our product packaging has a net-zero impact on the world’s supply of sustainable virgin fiber.
+We’ve led the industry in removing many harmful toxins from our products, such as PVC, 
+brominated flame retardants, and phthalates. And we’ve designed iPhone  6,  iPad  A ir  2,  
+and MacBook to be beryllium-free. Many toxins are restricted not only in the products 
+themselves but also in the manufacturing process, because we are committed to providing 
+safe working conditions for the people who make, use, and recycle our products.
+We now offer recycling programs in 99 percent of the countries where we sell our products 
+and have diverted more than 508 million pounds of electronic waste from landfills since 
+2008. Every Apple Retail Store in the world will now take back Apple products for free and 
+recycle them responsibly. We believe we must be accountable for every Apple product at 
+every stage of its  use.
+We know we have a long way to go, and a lot of work ahead of us. We are committed to increasing openness in our work and welcome you to join us on our journey.
+Environmental 
+Responsibility at Apple
+Our work is led by Lisa Jackson, Apple’s  
+Vice President of Environmental Initiatives, 
+reporting directly to CEO Tim Cook. The  
+Office of Environmental Initiatives works with teams across Apple to set strategy, engage stakeholders, and communicate progress. Our integrated approach means that decisions about environmental issues are reviewed  
+at the highest levels of the company.
+Wastewater at our supplier facility in 
+Dongguan, China, is treated and tested for reuse under the guidance of our Clean Water Program.
+3
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Our solar plant in Yerington, Nevada, 
+generates up to 20 megawatts of 
+renewable energy for our Reno data center.
+4
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014We don’t want to debate climate change. We want to stop it. It takes an enormous 
+amount of energy to design, assemble, and ship hundreds of millions of products all 
+over the world. That energy makes up our carbon footprint and in turn, our share of 
+the climate change problem. We’ve made real progress in reducing the impact of the things we control directly—our offices, retail stores, and products. But there’s still a lot 
+of work to be done to reduce the carbon footprint of our supply chain. And it’s our 
+responsibility to lead that  eff ort.
+Why we measure our carbon footprint so rigorously.
+We take a thorough approach to measuring and taking responsibility for our environ -
+mental impact. In fact, we know of no other company in our industry that goes so far  
+in measuring, verifying, and disclosing its carbon emissions. Instead of reporting just the 
+carbon footprint of the facilities we own, we also include the carbon footprint of our supply chain. And we don’t use generalized industry-standard measurement models—
+we use a comprehensive product life cycle analysis that measures the carbon footprint 
+throughout the entire life of our products, so everything is  meticulously accounted for. 
+That means adding up emissions generated from the  manufacturing, transportation, 
+use, and recycling  of our products, as  well as emissions generated by all our facilities.   
+And while we’re constantly improving, we’re also constantly reporting—even when our 
+numbers aren’t as good as we’d like them to  be.
+34,200, 000
+metric tons of greenhouse
+gas emissions 0.4 M Facilities1
+ 7 .0 M Product usage
+ 1 .6 M Transportation
+ 0.5 M Recycling
+ 24.8 M Manufacturing
+ 
+Climate Change
+We’re proud to have signed the CERES  
+Climate Declaration, which recognizes the  
+business challenges and opportunities of  
+fighting climate change.
+www.ceres.org/declaration5
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014How our carbon footprint informs our thinking.
+We’re always trying to improve the way we conduct our greenhouse gas life cycle 
+analysis. And when our assessments reveal a material, process, or system that’s making 
+a significant negative impact on our carbon footprint, we reexamine how we design 
+that product, process, or  facilit y.
+A significant factor in the increase of our overall carbon footprint from 2013 to 2014 
+is simply that we sold more products than ever before—iPhone, MacBook  Pro, and 
+MacBook  Air in  particular. Even though the quantity of the products we make is 
+increasing, we are reducing the carbon intensity associated with making and using 
+them. The ratio of carbon emissions to the revenue we generate—Apple’s carbon  
+efficiency—has dropped steadily every year since  2 008.
+Apple’s Carbon Efficiency
+0.1 50.20.250.3
+2008 2009 2010 201 1 201 2 201 3 2014
+kg CO 2e per $ of revenue
+Looking at our overall carbon footprint, from 2013 to 2014, we saw a 7  percent decline 
+in emissions associated with product use thanks to improved energy efficiency of our 
+products. In the same  period, there was a 5  percent increase in manufacturing emissions 
+attributed to the production needs of increased memory and storage capacity of our 
+iOS devices and  notebooks.
+Our data shows that the carbon footprint of our manufacturing processes represents the largest portion of our impact on climate change. Every year we investigate more 
+deeply into our supply chain, constantly analyzing inefficiencies and developing ways 
+to help our suppliers make less of an impact on the planet. We’ve set an example with our own facilities around the world using clean, renewable energy. Our work in helping 
+our suppliers do the same is just beginning, but we’re making strides. And we’re  
+committed to reducing the environmental impact of our  manufacturing.6
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014An energy-efficient facility is good, but a 100 percent 
+renewable energy facility is better.
+As of 2014, 100  percent of our U.S. operations and 87  percent of our operations world -
+wide are powered by renewable energy—which results in fewer carbon emissions. 
+These worldwide operations include a lot of facilities—all our data centers; all our  
+corporate offices, which house nearly 50,000 employees; and over 450 Apple Retail 
+Stores around the world—but our goal is to power all of them with 100  percent 
+renewable energy. So we’re tapping into energy from solar, wind, micro -hydro, biogas 
+fuel cells, and geothermal sources. We’re designing new buildings and updating existing  
+ones to use as little electricity as possible. And we’re investing in our own Apple onsite  
+energy production as well as establishing relationships with third -party energy suppliers  
+to source renewable  energy. For more details, read the Renewable Resources section 
+of this report.
+Our environmental commitment starts in the places where we work—from our  
+corporate campuses to our data centers. Although our facilities now represent only 
+1 p ercent of our carbon footprint, they reflect our values, and we want them to act  
+as models for others to follow. This is why we are constantly making our facilities  more energy efficient and aggressively investing in renewable energy. In just three 
+years, we’ve reduced our effective Scope 1 and 2 CO
+2 equivalent (CO 2e) emissions  
+by 48 percent, even while our overall energy consumption greatly increased.
+Scope 1 and 2 Effective Carbon Emissions
+(metric tons CO 2e)
+050,000100,000150,000200,000250,000300,000350,000400,000450,000500,000
+FY 2011 FY 2012 FY 2013 FY 2014
+Default Emissions
+Total emissions if Appledid not use renewableenergy
+Effective EmissionsNet emissions afteraccounting for Apple’s use of renewable energy
+Scope 1 and Scope 2 CO 2e emissions capture the emissions from our natural gas use and  
+electricity use at our facilities—worldwide corporate offices, data centers, and retail—as well  
+as our fleet vehicle fuel use. Detailed Scope 1, 2, and 3 emissions data is provided in Appendix C.
+Our approach to renewable energy is based on three principles:
+Displacement. We seek to displace more polluting forms of energy in the same  
+electric grid region in which we operate—by putting into the grid an amount of 
+renewable energy equal to the amount of energy taken from the grid by our facilities.
+Additionality. We strive to create new clean energy that adds to the energy already 
+being supplied to the grid. This generally means participating in renewable energy 
+projects that would not have been built without Apple’s involvement. And we make sure that the energy we count toward our goals is not counted toward the goals that 
+utilities must already meet to comply with state standards, such as the Renewable 
+Portfolio Standard.7
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Accountability. We apply rigor in measuring and tracking our energy supply resources, 
+and use third-party registries such as WREGIS and NC-RETS, certification programs such 
+as Green-e Energy, and contractual provisions to ensure that all renewable energy 
+supplied to Apple is supplied only to Apple so there’s no double-counting. 
+Where it’s not feasible to create all our own energy, we fulfill the remaining needs with 
+grid-purchased renewable energy, preferably delivered to our facilities or to the same 
+electric grid in which our facilities are located. Here we have been exceptionally rigor -
+ous on two fronts: first, in ensuring that grid-purchased renewable energy be from 
+newer projects, with the objective of providing investment incentives to local provid -
+ers; and second, to secure renewable energy from the grid in the region in which we 
+use it. In cases where we aren’t able to purchase renewable energy in this way due to 
+local regulations, Apple will purchase renewable energy credits, which we register and 
+are careful to retire in certified tracking systems.2
+Our commitment starts at home.
+We’ve made energy efficiency and renewable power a priority in our current corporate campus in Cupertino. In 2012, we completed a major energy overhaul of our six Infinite 
+Loop buildings, achieving a combined electric and natural gas savings of more than 
+30 percent at a time when occupancy increased by more than 12 percent. By applying  
+similar equipment upgrades and control system improvements across the more than  
+100 buildings we occupy in Cupertino and the area, we have saved 34.4 million kilowatt-hours of electricity and 797 ,000 therms of natural gas over the past four years. Highlights of our energy efficiency program in California from 2014 include:
+• S tandardizing upon LED lighting for all Apple facilities undergoing new construction 
+or major renovations, and selecting the most efficient fixtures and controls for each application
+• S electing high-efficiency HVAC and plumbing equipment, such as chillers, boilers, 
+fans, pumps, water heaters, and packaged air conditioning units based on life cycle cost, and not first cost
+• Optimizing ne w HVAC and lighting controls with strategies such as duct static  
+pressure reset, supply air temperature reset, intelligent scheduling, and daylighting
+• F or existing buildings, troubleshooting outside air economizer operation, replacing 
+old inefficient HVAC equipment with new, more efficient equipment, and optimizing HVAC and lighting control sequences for both operational and energy efficiencies
+And in 2014, we began energy efficiency programs in our corporate and retail facilities throughout the rest of the United States, as well as in Europe and Asia.
+Our Cupertino buildings are supplied by 100 percent clean, renewable energy. An 
+onsite directed biogas fuel cell currently produces approximately 4 million kilowatt-
+hours of electricity annually, and rooftop solar systems on our Vallco Parkway, Homestead, and Alves cafeteria facilities collectively produce 1.3 million kilowatt-
+hours annually. To meet the balance of our load, we purchase clean power through 
+California’s Direct Access program and use the Green-e Energy program to certify that it’s truly renewable.8
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014We’re lessening our impact when we commute or hit  
+the road.
+Apple is working hard to minimize the environmental impact of employee commutes, 
+interoffice trips, and business travel. Apple’s Commute Alternatives Program provides 
+incentives and support for Apple employees to use alternative modes of transportation 
+to commute to work and between offices. In 2014, more than 10,000 employees across our U.S. corporate offices and retail stores participated in our transit subsidy program, 
+which offers up to $100 per month for use of public transit. We also encourage ride 
+sharing by providing a number of tools to connect employees, including commuter 
+maps, suggestions for finding a good match, and volunteer Commute Experts who help advise new employees. In the Bay Area, more than 2700 Apple employees use our 
+free, biodiesel-powered coach buses to commute to and from our corporate offices in Cupertino and Sunnyvale, California. Taking those cars off the road helped to avoid 
+8369 metric tons of CO
+2e emissions. To encourage electric vehicle use, we also offer our 
+employees over 330 electric vehicle charging ports, at no cost, and are adding more to 
+meet increased demand. 
+To get around while at work, our employees can use our Apple shared bike program, 
+car-share vehicles, and intercampus shuttles. In 2014, employees took more than 1 10,312 
+trips on shared bikes, a 55 percent increase over 2013. By providing incentives for biking,  
+using public transportation, and reducing the use of single-occupancy vehicles, our 
+Commute Alternatives Program provided over 2 million trips.
+To avoid employee travel when we can, we installed video teleconferencing equipment 
+at all our major facilities around the world. And when employees must travel for business,  
+we provide them with hybrid vehicle rentals where available. Apple employees drove 
+more than 550,000 miles in hybrid rentals in 2014, as much as 2012 and 2013 combined, 
+helping to avoid the use of 35,000 gallons of gasoline. 
+In 2014, Apple’s total carbon emissions from employee commute, Apple fleet vehicles, 
+and business travel were 275,000 metric tons of CO 2e—a 16 percent increase from 2013, 
+due primarily to increases in business travel and in the total number of employees working for Apple.  
+We can make better products with cleaner practices.
+Our dedication to an environmentally sustainable operation goes beyond our corporate 
+offices and retail stores. We look for every opportunity to develop cleaner manufacturing 
+processes that help us create not only great products, but also a better environment. 
+We may not own our suppliers’ facilities, but we do own their carbon footprint—  
+72 percent of our total. And we’d like to see the same progress in our suppliers’ use  
+of clean energy that we’ve seen in our  own.
+For example, we worked with our supplier Flextronics to identify energy savings in 
+the Austin, Texas, facility where they manufacture Mac  Pro. Flextronics then shifted its 
+entire Mac  Pro operations to 100  percent renewable wind energy, purchased from the 
+same local utility that provides our Austin campus with 100  percent renewable energy. 
+And we’re encouraging our other suppliers to follow Flextronics’ lead and move 
+toward clean  energy.
+We’re also helping our suppliers in China pave the way for renewable energy. Our 
+40-megawatt solar project near Chengdu, designed to power our corporate offices  
+and retail stores, is setting a precedent for large -scale renewable energy in China. By 
+showing that green energy is a viable option in China, we hope to set a clear path  
+for the companies there that manufacture our  products.Emissions from Employee Travel
+(metric tons CO 2e/employee)
+00.40.91 .351 .8
+2011 2012 2013 2014
+Fleet 
+VehiclesBusiness Travel Employee Commute
+Absolute values for Scope 1 and Scope 3  
+emissions associated with employee travel  
+are reported in Appendix C.9
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Energy efficiency is built in.
+The energy consumed by our products during everyday use represents 21 percent of our 
+carbon footprint. So we look at three ways to reduce a product’s energy consumption:  
+more efficient power supplies to bring electricity from the wall to the device, more efficient  
+hardware, and smarter power management  software.
+The cost to charge the battery 
+of an iPhone 6 once a day in the U.S. is 57¢ per year.
+3
+In idle mode, Mac Pro is 68 percent more power efficient than the  
+previous generation.
+Mac mini is the world’s most  
+energy-efficient desktop computer.
+4The M8 coprocessor measures  
+motion data more efficiently  
+for less recharging.
+Mac Pro delivers up to 7 teraflops—more 
+than twice the computing power of the  
+previous generation—while consuming  half as much energy at full power.
+Exceeds ENERGY STAR requirements 
+by up to 7 times.
+Power used in idle mode with the 
+iMac display at full brightness.Amount of energy used when idle.
+Power usage in sleep mode was reduced 
+97 percent compared with the first-generation 21.5-inch iMac.
+The 21.5-inch iMac uses less energy 
+than all other computers in its class.
+5
+M8
+2x
+7x
+6w
+38w
+97%
+10
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014As a company that designs both the hardware and the software for its products, 
+we’re able to use that technological collaboration for greater energy efficiency. OS  X,  
+the Mac operating system, never misses a power-saving opportunity, no matter how 
+small. It puts hard disks to sleep and runs processors in an ultralow power mode when 
+you’re not hard at work on your Mac. And when you are, OS  X uses less energy for 
+apps that are open but not visible, pauses animated website plug -ins until you give 
+the OK, and can even idle the processor between keystrokes as you type. These energy savings might seem tiny, but when multiplied by every Apple computer in the world, 
+they’re  huge.
+A lot of the things that used to be done on a computer are now being done on an iPad or iPhone. Since these smaller devices use a lot less material and energy, their carbon 
+footprint is much smaller than that of a computer. And as these devices become more 
+and more advanced, their performance improves right along with their energy efficiency.  
+For example, the A8  chip delivers up to 25  percent faster CPU performance and up to 
+50 p ercent faster graphics performance, yet it’s 50  p ercent more energy  efficien t.
+Thanks to improvements in energy efficiency, our products generate an average of 
+61 percent fewer greenhouse gas emissions during the use phase than in 2008. So 
+even as we continue to grow faster than the rest of the industry, we’re doing it with 
+products that are friendlier to the  environment.
+ENERGY STAR standards are just our starting point.
+Every Apple product not only meets but far exceeds the strict guidelines set by the U.S. Environmental Protection Agency for energy efficiency. No other company in our 
+industry can make that claim. In  fac t, we go beyond the ENERGY  ST AR specification, 
+offering notebooks that are up to five times as energy efficient as the ENERGY  ST AR 
+specification and desktop computers that are up to seven times as energy  efficien t.6
+The EPEAT gold standard.
+The Electronic Product Environmental Assessment Tool (EPEAT) allows consumers to see the effect a product has on the environment. Each product receives a Gold, Silver, 
+or Bronze rank depending on its efficiency and sustainability. Every Apple tablet, 
+notebook, desktop computer, and display that EPEAT ranks achieves a Gold rating, the 
+highest  possible.Apple and The Conservation Fund are 
+protecting more than 36,000 acres of working forests across the United States.
+11
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014
+Some of the best technologies for preserving the environment are already here—  
+sunlight, wind, and forests. These resources are naturally renewable and capable of  
+providing energy and materials for a long time. We’re committed to using forests 
+responsibly so they’re still here for future generations. And we’re making real progress 
+toward running all our facilities on 100  percent clean and renewable  energy.
+Forests give us so much. We need to return the favor.
+Forests clean the air we breathe, protect the habitats of animals and plant life, and filter drinking water. They also provide wood fiber for the paper we use in our packaging.  
+If protected and managed sustainably, forests can thrive, fulfilling their vital role in the ecosystem while still supplying the world’s paper needs. But forests around the world are under threat from poor management, illegal logging, and aggressive land development. 
+We need to protect this crucial resource and component of our ecosystem. Our goal is 
+to ensure that our packaging has a net -zero impact on the world’s supply of  
+sustainable virgin  fib er.
+We’re using paper more efficiently.
+The best way to preserve virgin paper is to use less of it. So we’re designing our pack -
+aging to be smaller and to use more recycled paper, and we’re developing technologies  
+that use paper more efficiently. The packaging for iPhone  6 takes up 34  p ercent less  
+volume than the first -generation iPhone packaging. And over two -thirds of the paper 
+used for iPhone, iPad, iPod, Mac, and Apple  T V packaging comes from recycled  content.
+We’re sourcing virgin paper responsibly.
+When we do use virgin paper in our product packaging, we’re continually working 
+to ensure that it comes only from sustainably managed forests and controlled wood 
+sources. Our sustainable fiber specification requires that when our suppliers use virgin 
+fibers, they source only from forests that are certified as sustainably and responsibly 
+managed or from controlled wood sources. In fiscal year 2014, over 80  p ercent of the 
+paper and corrugated cardboard used in our iPhone, iPad, iPod, Mac, and Apple  T V 
+packaging came from certified sustainably managed forests, controlled wood sources, 
+or recycled materials. We will not stop until 100  p ercent of the fibers we use meet 
+these  standards.
+We’re protecting sustainable forests.
+We are committed to protecting—and creating—as much sustainable working forest as is needed to produce the paper in our product packaging.
+7 Through our work with The 
+Conservation Fund, we’re permanently protecting more than 36,000  acres of working 
+forest in the eastern United States. The collective annual production from these forests  
+is equivalent to nearly half of the virgin fiber used for iPhone, iPad, iPod, Mac, and Apple  T V  
+packaging in fiscal year  2 014.8
+Renewable Resources
+Forests are essential to the future  
+of our environmental health and  economic vitality. It’s crucial that  we work together to protect them.
+ Evan Smith
+VP , Conservation Ventures, The Conservation  
+Fund in a Georgia forest protected by  
+The Conservation Fund.12
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Clean, renewable energy is our standard, everywhere.
+Our goal is to power all our corporate facilities around the world as we do all our data 
+centers—with 100  percent renewable energy. And  we’re not content with just purchasing 
+clean energy from existing sources. Whenever possible, we go even further by creating 
+new sources that add clean energy to the grid. For example, we’ve partnered with First 
+Solar to create a solar project in Monterey County, California. When it comes online in 
+2016, this 2900 -acre facility will generate 130  mega watts of clean energy—enough to 
+power Apple Campus 2, all our other California offices, all 52  r etail stores in California, 
+and our data center in Newark,  C alifornia.
+Our commitment to renewable energy also extends beyond our home in California. 
+In China, we’re undertaking a ground-breaking renewable energy partnership with 
+SunPower, Tianjin Zhonghuan Semiconductor, and other companies to build a renewable 
+solar energy project in Sichuan Province. It will generate up to 80 million kilowatt -hours 
+per year of clean energy—far more than the energy used by all our offices and retail 
+stores in China combined. This project is being developed to complement the natural 
+environment, paying special attention to preserving the grasses that feed the indigenous 
+yak population.
+Energy Eﬃciency
+An important ﬁrst step in managing electricity is toensure our facilities use as little as possible, whichis why we designed them for maximum energy eﬃciency.Energy Generation
+Where feasible, we’re producing our own renewable energy by building our own solar arrays, biogas fuel cells,and micro-hydro generation systems.Purchasing Renewable EnergyWhere we can't produce our own, we purchase renewable energy, investing in local, newer projects to ensure additional development that is sustainable. And we are careful to retire all renewable energy credits in veriﬁed tracking systems.How We’re Achieving Net Zero Energy
+ 
+ 
+100 percent of our data centers run on 100 percent  
+renewable energy.
+Since 2012, all our data centers have been powered by 100  percent renewable energy 
+sources. That means no matter how much data they handle, there is a zero greenhouse 
+gas impact on the environment from their energy use. These data centers use renewable 
+energy sources like solar, wind, biogas fuel cells, micro -hydro power, and geothermal 
+power from onsite and locally obtained resources. On any given day, our data centers will use renewable energy to serve tens of billions of messages, more than a billion 
+photos, and tens of millions of FaceTime video calls. They also run services like Siri, 
+the iTunes  Store, the App  Store, and Maps. So every time a song is downloaded from 
+iTunes, an app is installed from the Mac  App Store, or a book is downloaded from 
+iBooks, the energy Apple uses is provided by  nature.13
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Maiden, North Carolina
+Our Maiden, North  C arolina, data center has earned the  LEED  P latinum certification 
+from the U.S. Green Building Council—the first data center of its size to be so honored. 
+On any given day, between 60 and 100  percent of the energy it uses is generated 
+onsite through our biogas fuel cells and two 20 -megawatt solar arrays—the nation’s 
+largest privately owned renewable energy installation. It generates 167 million kilowatt-
+hours of renewable energy per year, enough to power the equivalent of 12,700 North 
+Carolina homes. And we’ll finish another 17 -megawatt solar array, capable of producing 
+39 million kilowatt-hours per year, later in 2015. We purchase any remaining power we 
+need from entirely clean sources located within North  C arolina.
+Maiden, North Carolina
+100% renewable since opening June 2010
+Duke Energy Carolinas 
+Default Grid MixApple Actual Renewable 
+Energy Use
+Nuclear 51% PV1 19%
+Coal 38% PV2 20%
+Other 11 % Fuel Cells 37%
+Renewable <1% NC GreenPower 24%
+2014 Emissions (metric tons CO 2e/year)
+Default Grid Emissions 92,306 Apple’s Effective Emissions 0
+Duke Energy Carolinas: 2014 Statistical Supplement generation data  
+Apple Energy: Actual fiscal 2014 energy data
+Prineville, Oregon
+At our data center in Prineville, Oregon, we built a micro -hydro system that harnesses  
+the power of water that’s been flowing through local irrigation canals for over 60  y ears.  
+Located about 25 miles west of our data center, these micro-hydro projects will generate  
+12 million kilowatt-hours of clean, renewable energy a year. To supplement this 
+micro -hydro generation, we’re able to directly access enough local wind energy to 
+power the entire data  center.
+Prineville, Oregon
+100% renewable since opening May 2012
+Pacific Power  
+Default Grid MixApple Actual Renewable 
+Energy Use
+Coal 65% Oregon Wind 99%
+Natural Gas 13% Utility Green 1%
+Other 13% Micro-Hydro (to come)
+Renewable 9%
+2014 Emissions (metric tons CO 2e/year)
+Default Grid Emissions 10,393 Apple’s Effective Emissions 0
+Pacific Power: www.oregon.gov/energy/pages/oregons_electric_power_mix.aspx
+Apple Energy: Actual fiscal 2014 energy data
+ Solar Arrays + Fuel Cell Farm
+Wind Power + Micro-Hydro Power14
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Reno, Nevada
+Our Reno, Nevada, data center follows in the footsteps of our 100  p ercent renewable 
+energy centers in Maiden and Prineville. We worked with the local utility to codevelop 
+a 20-megawatt solar array using C7 solar panels, a new kind of photovoltaic panel with 
+curved mirrors that concentrates sunlight. This type of solar panel is well-suited to the 
+region’s bright, sunny skies. The solar array has an annual production capacity of over 
+43 million kilowatt -hours of clean, renewable energy. When additional energy is needed,  
+we use local geothermal energy purchased from the  utility or other solar  resources.
+Reno, Nevada
+100% renewable since opening December 2012
+NV Energy—North   
+Default Grid MixApple Actual Renewable 
+Energy Use
+Natural Gas 48% Local Geothermal 100% 
+Coal 36% (PV Forthcoming)
+Other 5%
+Renewable 11 %
+2014 Emissions (metric tons CO 2e/year)
+Default Grid Emissions 7 ,344 Apple’s Effective Emissions 0
+NV Energy: www.nvenergy.com/bill_inserts/201 5/Power-Content-North_201 5-01_web.pdf
+Apple Energy: Actual fiscal 2014 energy data
+Newark, California
+Our data center in Newark, California, is powered by 100  p ercent renewable energy. 
+We hit this milestone in January 2013, when we began serving the data center with 
+energy sourced primarily from California wind power. We’re acquiring this energy 
+directly from the wholesale market through California’s Direct Access  program. Late next 
+year, when our 130-megawatt solar project in Monterey County, California, comes online, we’ll use Direct Access to supply power from that project directly to our data center.
+Newark, California
+100% renewable since January 2013
+Pacific Gas & Electric  
+Default Grid MixApple Actual Renewable 
+Energy Use
+Natural Gas 28% Bundled Grid  
+(mostly wind)61%
+Nuclear 22%
+Other 28% Grid (mostly wind) 39%
+Renewable 22%
+2014 Emissions (metric tons CO 2e/year)
+Default Grid Emissions 38,278 Apple’s Effective Emissions 0
+PG&E: www.pgecurrents.com/201 5/01/30/pge-cuts-carbon-emissions-with-clean-energy/
+Apple Energy: Actual fiscal 2014 energy dataGeothermal Power + Solar Arrays
+Wind Power15
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Mesa, Arizona
+Our Mesa data center will harness Arizona’s abundant sunlight to supply 100  percent 
+renewable energy to our new data and global command center. When the facility is 
+fully operational in 2016, it will harness up to 70  megawatts of solar power to provide 
+clean energy to the  center.
+Athenry, Ireland
+Our data center in County Galway, Ireland, will be built on recovered land that was 
+previously used for commercial lumber. When it opens in 2017 , the data center will 
+run on 100  percent clean, renewable energy, and it will provide an outdoor education 
+space for local schools and a walking trail for  the community.
+Viborg, Denmark
+In 2017 , we’ll open a new data center running on 100  p ercent renewable energy in 
+Denmark’s central Jutland region. Due to its proximity to one of Denmark’s largest electrical substations, the data center won’t require any additional generators. The 
+facility is also designed to capture excess heat from its equipment and then conduct  
+it into the district heating system to help warm homes in the  c ommunity.
+Our colocated facilities
+The vast majority of our online services are provided by our own data centers. We also 
+use third -party colocation facilities for additional data center capacity. While Apple 
+doesn’t own these shared facilities and uses only a portion of their total capacity, we 
+include them in our renewable energy goals. And we are working with these providers 
+to ensure that our share of the energy is provided in the cleanest way possible. Over 
+80 percent of our power for colocated facilities is matched with renewable energy generated within the same state for facilities in the United States, or within the same 
+country for those around the world. And we will keep working with the colocated 
+suppliers to get to 100  p ercent.Solar Arrays
+Wind Power
+Wind PowerThe Apple Store, Stanford, one of 265 U.S. 
+Apple Retail Stores powered by 100 percent renewable energy.
+16
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014We’re closer to powering 100 percent of our Apple Retail 
+Stores with 100 percent renewable energy.
+A key part of our fight against climate change is powering our facilities with renewable 
+energy. We already hit a major milestone in 2014: 100  percent of the energy used by 
+our U.S. operations—all corporate offices, retail stores, and data centers—was renewable 
+energy. Now we’ve turned our focus to our more than 450  A pple Retail Stores across 
+the world.
+Reaching our goal of 100  percent renewable energy -powered Apple Retail Stores 
+worldwide presents some unique challenges. In many cases, an Apple Retail Store’s 
+electric meter is in a landlord’s name, not ours. And many states and countries don’t 
+offer the ability to directly purchase renewable energy, especially for small electricity  
+loads like our retail stores. Despite these challenges, we’re already running more than 
+360 of our Apple Retail Stores worldwide on 100  percent renewable energy. This 
+includes all 265 of our Apple Retail Stores in the United States, all 38 in the United 
+Kingdom, all 14  in  G ermany, all 21  in  A ustralia, all 15  in  I taly, and all 1 1 in  Spain.
+For many of our retail stores, we purchase renewable energy from third -party providers.  
+Where local regulations don’t allow us to do so, we participate in utility green tariff programs, collaborate with landlords to purchase renewable energy on our behalf, or 
+procure renewable energy certificates that meet demanding verification standards.   
+And wherever possible, we source these renewables  locally.
+We won’t stop until every Apple Retail Store is powered by 100  percent renewable 
+energy. And with initiatives like our solar project that will support all our Apple Retail 
+Stores in China, we’re even closer to that  goal.17
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Our new home will be green from the ground up.
+Like everything we build, our new Apple campus in Cupertino pushes the boundaries 
+of technology—it will be the most energy -efficient building of its kind. Powered by 
+100 percent renewable energy, the campus goes beyond showing respect for the  
+environment to forming a partnership with it. Air flows freely between the inside 
+and outside of the building, providing natural ventilation for 75  percent of the year. 
+And sunlight powers one of the largest onsite corporate solar energy installations in 
+the world.
+The City of Cupertino requires that construction sites recycle or reuse a minimum of 
+75 percent of materials demolished from previous structures. For the construction of 
+Apple  Campus  2, we’re going above and beyond that requirement, recycling or reusing 
+over 95  p ercent of the demolition materials onsite. We’re finding ways to repurpose 
+virtually every wall, window, and pipe rather than hauling them off to  landfills .
+The building itself is only part of the story. Just under 80  percent of the site will be 
+open space, populated by more than 7000 trees, which  includes more than 6000 newly 
+planted shade and fruit trees. Drought -tolerant plants will be used throughout the 
+landscape to minimize water  use. 
+ 
+Getting to and from the new campus will be greener, too. We’re expanding our  
+commute alternatives program by 20  percent. This means that over a third of our  
+nearly 15,000  employees in Cupertino can commute to the new campus using our 
+biofuel buses, public transit, bicycles, carpools, and their own two feet.  And for drivers, 
+we’ll have over  300 electric vehicle charging  stations.
+The new campus is being built from the ground up to meet the highest environmental  
+standards set by LEED, an internationally recognized green building rating system. When  
+completed, Apple  Campus  2 will be an ever -present reminder of our commitment to 
+sustainability and an example of what every corporate campus can  be.We’re recycling over 95 percent of the 
+material from the existing buildings for use in our new headquarters.
+Apple Campus 2 will use 30 percent less 
+energy than a typical R&D office building.95%
+18
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014We’re conscious of how we use resources that may not be around forever. So we’re 
+designing products that use fewer materials than ever before. We’ve come up with 
+innovative ways to minimize the environmental impact of our raw materials by using 
+more recycled, recyclable, and sustainable plant -based materials. And  we’re striving 
+to reuse as much water as we can when manufacturing our products, and in the data 
+centers that help those products and services  work.
+Making the most of our materials.
+Over the past decade, Apple designers and engineers have continued to pioneer new 
+ways to build our products with less material. Manufacturing innovations such as 
+unibody construction have allowed products like iPad, MacBook, MacBook  Pro, and 
+MacBook  Air to become thinner while being even more resilient. Today’s Mac  Pro uses 
+74 percent less aluminum and steel than the previous design. The newest 21.5 -inch iMac 
+is made with 68  p ercent less material than the first  i Mac, and the new MacBook uses 
+32 p ercent less aluminum than the first-generation MacBook  A ir.
+Finite Resources
+74%
+Amount of aluminum and steel Mac Pro 
+saves compared with its predecessor.39%
+Amount of material iPad Air 2 saves, by weight, compared with the first iPad.32%
+Amount of material MacBook saves, by weight, compared with the original MacBook Air .
+30%
+Amount of post-consumer recycled plastic in iPad Air 2.30%
+Amount of post-consumer recycled plastic in Mac Pro speakers.67%
+Amount of bio-based content in the butterfly mechanism of the MacBook keyboard.Aluminum purification at one of our suppliers in Taiwan.19
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Designed for durability.
+Smaller and lighter products are easier on the environment, but sometimes the 
+environment isn’t easy on them. So we design everything from our largest displays 
+to our smallest cables to be durable and long-lasting. And we test them in our own 
+Reliability Testing  Lab .
+You don’t have to buy a new Apple product to have one that feels new. We make it 
+easy to update to new versions of apps, software, and  en tire operating systems—OS  X  
+Yosemite works on Mac computers made as far back as 2007—so you’ll have a new 
+experience without buying a new  device. Our built -in notebook batteries are designed 
+to last up to five years, which saves on buying new batteries, produces less waste, and 
+increases the lifespan of your  notebook.
+And when Apple product owners pass along their devices to friends or family, they’re 
+conserving resources, too. The mark of a great product isn’t just how many you sell, 
+but how much it’s  used.
+Our commitment to recycling.
+If not recycled properly, electronic waste can be a serious health and  environmental 
+issue. To make a quick profit, unethical recyclers sometimes dump e -waste or use  
+dangerous techniques that can  leak toxins and harm the environment. That’s why 
+we’re committed to helping people recycle responsibly. Every Apple Retail Store in the world accepts Apple products for responsible recycling. Our Reuse and Recycling 
+Program also allows customers in several countries to bring in their older devices in 
+exchange for credit toward a new model. We’ve set up recycling programs—such as providing free shipping on e-waste returns and organizing collection events and 
+ongoing take -b ack programs with governments and universities—in 99  p ercent of the 
+countries where we sell our products. Since 1994, we have diverted more than 508  million   
+pounds of equipment from  landfills .
+ We’ve set up recycling programs in  
+99 percent of the countries where we 
+sell our products.99%
+Apple employees conduct an audit at our partner recycling center in France, ensuring materials collected are handled properly.
+20
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Amount of material recovered for reuse in 2014 in metric tons
+ 
+In 2010, we set out to achieve a worldwide recycling collection rate of 70 percent 
+of the total weight of the products we sold seven years earlier. Since then, we have 
+consistently reached 85  p ercent. In 2014, we collected 40,396 metric tons of e - waste 
+through our  take-back programs. That’s more than 75  percent of the total weight of 
+the products we sold seven years earlier, and significantly more than others in the 
+industry typically  report. 
+We wanted to better understand the impact of these  programs throughout the entire 
+recycling chain, so we  worked with e -waste experts to calculate how our recycling 
+programs break down into raw materials: how much aluminum, steel, and other materials from the waste we collect was recovered for reuse instead of mining more 
+virgin  material. The remaining amount of waste was processed and managed to mini -
+mize environmental  impact.
+Materials like aluminum, steel, copper, gold, silver, and palladium need to be mined from the earth and processed, which requires extensive land use and generates 
+greenhouse gasses and other emissions. By recycling these materials, we can prevent 
+a significan t amount of these impacts. For example, we recovered enough steel in 2014 
+that the equivalent could be used to build over 100  miles of railroad track. And we 
+are continually investing in new ways to better reuse these materials and recover other 
+rare elements.1 1 ,800
+Steel
+1 851
+Aluminum5965
+Plastics
+5749
+Glass (CRT)494
+Glass (Other)3.3
+Silver
+2
+Tin
+77
+Cobalt
+12 97
+Copper.9
+Gold
+19
+Lead
+16
+Nickel.3
+Palladium
+54
+Zinc21
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Keep recycling local.
+All electronic waste we collect worldwide is processed in the region where it’s collected—
+nothing is shipped overseas for disposal. The vast majority of our recycling is handled 
+in-region, so we can make sure our recycled materials are not being dumped unsafely 
+in developing countries—a  common problem in our industry. This also helps us keep 
+our transportation -related greenhouse gas emissions low. We currently work with 140 
+partners around the globe whose facilities are rigorously evaluated annually on health 
+and safety, environmental compliance, material tracking, social responsibility, and  other 
+Apple  mandates.
+There are better things to do with waste than put it  
+in a landfill. 
+We’ve created robust recycling and composting programs to minimize the environ -
+mental impact of the waste we produce in our corporate facilities. Our rate of landfill 
+diversion at our corporate offices and retail stores remains high, despite a decrease 
+to 68 percent, from 74 percent in 2013. We are currently undertaking a detailed waste audit of our facilities to identify opportunities for improvement. 
+Our multiuse facility in Cork, Ireland, has set the standard for our supply chain by receiving  
+the first UL Zero Waste to Landfill validation outside North America. The location handles 
+both corporate and manufacturing operations, and none of its 13,400  metric tons of 
+annual waste is sent to landfills. The portion of waste the Cork facility sends  t o be  
+incinerated and used for energy is just 3  percent, which is far below the maximum 
+10 p ercent allowed for Zero Waste to Landfill  v alidation.
+The Cork facility achieved Zero Waste to Landfill validation through a number of efforts. 
+In the factory, the same packaging in which we receive iMac components is reused to 
+ship iMac to customers. And all cardboard, foam packaging, plastic trays, electrical  
+cables, and pallets are recycled. Even the cooking oil from the campus cafeteria is 
+recovered to produce biodiesel  fuel.
+Apple responsibly manages the small amount of hazardous waste that we produce (mostly from research and development). We ensure that any materials that may create 
+risks to the environment are treated and disposed of properly. In 2014, the total amount 
+of solid waste created by Apple facilities was 4200 metric tons, and the total amount of hazardous waste generated was 230 metric tons. 
+When we buy on behalf of Apple, we think green.
+Apple prioritizes the use of environmentally friendly products and services in our oper -
+ations. More than 98 percent of our U.S. office consumables contain post-consumer 
+recycled content. The standard office chair contains up to 51 percent recycled content 
+and is up to 95 percent recyclable, achieving a GreenGuard Gold Certification. The  
+janitorial supplies we procure include 100 percent recycled paper products. And the 
+majority of the food served in our Cupertino-area employee cafeterias comes from 
+sources within 100 miles.Office Waste Rate of Landfill Diversion (%)
+0255075100
+2012 2013 2014
+Waste, recycling, and compost data is for all 
+Apple facilities, including Apple Retail Stores.22
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Everyone should have water to use and reuse.
+Water is the world’s most precious resource. So  we continue to look for ways to reduce 
+water consumption during manufacturing, cooling, landscaping, and  sanitation.
+To meet the water needs of our offices, data centers, and retail stores across the world, 
+Apple used 494 million gallons of water in 2014, which represented a 15 percent 
+increase from 2013. This increase is driven primarily by cooling needs at our data centers,  
+and we are focusing our water usage reduction efforts on these facilities. Our Maiden, 
+North Carolina, data center employs an innovative cooling system that reuses water 
+35 times, resulting in a 20  percent reduction in overall water  consumption at the 
+data center. We are also building our newer data centers in locations that can rely  
+heavily on outdoor air for cooling.
+At our facilities that receive less dependable rainfall, we installed sophisticated irrigation 
+systems that monitor local weather conditions and soil moisture, which led to a 40  percent  
+reduction in landscape watering. At some facilities, we’ve achieved further reductions 
+thanks to drought -tolerant landscaping and drip  irrigation.
+In 2014, we made a number of water improvements at our Cupertino headquarters, 
+including a significant renovation of the landscaping on our Infinite Loop campus. 
+There, we completed our conversion from inefficient overhead spray irrigation to sub-
+surface drip irrigation and surface bubblers, which conserves much more water. Across 
+our Santa Clara Valley campuses, we planted more than 700 drought -tolerant  trees. We 
+also converted 2905 square feet of asphalt to permeable landscape, improving ground water recharge for natural aquifers in the area.  
+Overall, we converted over 130,000 square feet of landscaping to be better suited to 
+our climate and to use less water. These efforts translate to an estimated water savings 
+of 2.3  million gallons of water per  y ear—about 5 percent yearly.
+In 2014, a study of our facility water usage revealed that the industry-standard methods we were using over-estimated our water usage. Using our more accurate methodology, 
+we reran our 2013 numbers and found that our 2013 water usage was 430 million  
+gallons—much less than the 608 million gallons originally estimated. 
+To make sure our suppliers are also part of our water conservation efforts, we’ve  
+established the Clean Water Program. This initiative helps reduce water use, promote 
+water recycling and reuse, and prevent illegal water pollution within our supply  chain.
+The Clean Water Program has already proved successful at several of our supplier sites, 
+including Dongguan Meadville Circuits (DMC), located in China’s Guangdong Province. 
+In September 2013, DMC had a nearly 12  percent wastewater reuse rate. After enrolling 
+in the Clean Water Program and working with our experts, DMC’s wastewater reuse  
+rate climbed to approximately 61  percent by the end of  2014. Learn more about our 
+Clean Water Program in Apple’s 2014 Supplier Responsibility Report, available at  
+www.apple.com/supplier-responsibility.Water Use by Facility Type (million gallons)
+0300
+250
+200
+150
+100
+50
+2012 2013 2014
+Data
+CentersRetail CorporateEnvironmental Responsibility Report  |  2015 Progress Report, Covering FY2014Toxins
+We continue to lead the industry in reducing or eliminating harmful toxic substances  
+to keep both people and the environment healthy. We’ve removed many harmful  
+substances from our products, and we go to great lengths to make sure they stay that way. And our suppliers must adhere to our Regulated Substances Specification, which 
+goes beyond the minimum required by  law.
+No product should be hazardous to your health.  
+Or anyone else’s.
+Better for the environment.
+Good manufacturing processes and responsible recycling minimize toxins in our  
+supply chain. That helps keep our land, air, and water free from pollutants. And  
+our environmental standards for our suppliers are often higher than those required   
+by law.
+Better for the people who use them.
+No one spends more time with an Apple product than an Apple customer. By minimizing  
+or outright eliminating many harmful toxins, we ensure that each product is safe to use, 
+year after year. Our power cords are PVC- and phthalate -free.9 Our touchscreens are 
+arsenic-free. And our cases and enclosures are BFR -free.
+Better for the people who make them.
+Apple is committed to providing safe working conditions for the people who make  
+our products. Many toxins are restricted not only in the products themselves but also  
+in the manufacturing processes. And our suppliers know how seriously we take this.  
+Our Regulated Substances Specification requires them to demonstrate compliance  
+and subjects them to third -party  testing.
+These principles are captured in Apple’s Environmental Health and Safety Policy, included in Appendix A on page 25.
+ 
+23A worker in Shanghai, China, assembles 
+an iPhone 5c, which is free of BFRs, PVC, and other harmful toxins.24
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014The worst toxic offenders.
+ 
+We design our products with greener materials.
+We’re conscious of how glass, plastic, metal, and other materials affect our products 
+as well as the environment. We lead the industry in reducing or eliminating environ -
+mentally harmful substances, and we’re always striving to make our products more 
+environmentally  friendly.  
+Testing for toxins right from the start.
+We work closely with our suppliers to make sure our products are free from the harmful substances we specify, and we confirm it in our own Environmental Testing Lab. We 
+submit our products’ components to rigorous analysis including X -ray fluorescence 
+spectroscopy, laser -induced breakdown spectroscopy, and ion  chromatography.
+We can do a lot. But we can’t do it alone.
+We’ve formed our own Green Chemistry Advisory Board to stay in the forefront of identifying, minimizing, and eliminating toxins from our supply chain. We have also 
+established a roundtable on toxins to learn from top U.S. and international NGOs how 
+we can make our products and processes even safer. We’ll continue to seek out and take advantage of the best science, data, and solutions to keep both people and the 
+planet  healthy.Hg Be
+Pb As PVC
+BFRs Pht
+Brominated Flame Retardants (BFRs) 
+Toxic compounds added to 
+plastic enclosures, circuit boards, 
+and connectors. Eliminated 
+from our products in 2008.Phthalates
+Used to soften plastics in 
+cables and powercords. We finished 
+eliminating them from our cables 
+and power cords in 2013.9Mercury
+Present in the fluorescent
+lamps that once backlit Mac
+displays. Eliminated from our 
+displays since 2009.
+Lead
+Formerly used in display 
+glass and solder. Phased out 
+completely from our 
+products in 2006.Polyvinyl Chloride (PVC)
+Still widely used by other
+companies in computers, cables,
+and power cords. We began
+phasing out PVC in 1995.9Arsenic
+Traditionally used for clarity  
+in glass. Our display glass has 
+been arsenic-free since 2008.Beryllium
+Found in copper alloys used to make 
+connectors and springs. iPhone 6, 
+iPad Air 2, and MacBook were designed 
+without the use of beryllium.25
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Appendix A
+Environmental, Health, and Safety Policy Statement
+Mission Statement
+Apple Inc. is committed to protecting the environment, health, and safety of our 
+employees, customers and the global communities where we operate.
+We recognize that by integrating sound environmental, health, and safety management 
+practices into all aspects of our business, we can offer technologically innovative  
+products and services while conserving and enhancing resources for future generations.
+Apple strives for continuous improvement in our environmental, health and safety 
+management systems and in the environmental quality of our products, processes,  and services.
+Guiding Principles
+Meet or exceed all applicable environmental, health and safety requirements. We  
+will evaluate our EHS performance by monitoring ongoing performance results  
+and through periodic management reviews.
+Where laws and regulations do not provide adequate controls, we will adopt our  
+own standards to protect human health and the environment.
+Support and promote sound scientific principles and fiscally responsible public  
+policy that enhance environmental quality, health and safety.
+Advocate the adoption of prudent environmental, health and safety principles and 
+practices by our contractors, vendors, and suppliers.
+Communicate environmental, health, and safety policies and programs to Apple 
+employees and stakeholders.
+Design, manage and operate our facilities to maximize safety, promote energy  
+efficiency, and protect the environment.
+Strive to create products that are safe in their intended use, conserve energy and  
+materials, and prevent pollution throughout the product life cycle including design, 
+manufacture, use, and end-of-life management.
+Ensure that all employees are aware of their role and responsibility to fulfill and  
+sustain Apple’s environmental, health and safety management systems and policy.
+Luca Maestri  
+Senior Vice President and CFO  
+January 2015
+2526
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Appendix B
+Carbon Assurance and Review Statements
+Apple 2014 Assurance Statement (Pages 27–29)
+Corporate Carbon Footprint (CCF) FY14 Review Statement (Pages 30–33) 
+ 
+ 
+ 
+ 
+ 
+BUREAU VERITAS  NORTH AMERICA  
+INDEPENDENT ASSURANCE  STATEMENT  
+ 
+Introduction and objectives of work  
+Bureau Veritas  North America, Inc . (BVNA ) was e ngaged  by Apple, Inc . (Apple)  to conduct an 
+independent assurance  of select environmental data reporte d in its 2014 environmental report 
+(the Report) .  This Assurance  Statement applies to the related information included within the 
+scope of work described below .  The intended users of the assurance statement are the 
+stakeholders of Apple . The overall aim of t his process is to provide assurance  to Apple ’s 
+stakeholders on the accuracy, reliability and objectivity of select  information included in the 
+Report .   
+This information and its presentation in the Report  are the sole responsibility of the 
+management of Apple.  BVNA  was not involved in the collection of the information or the 
+drafting of the Report .  
+ 
+Scope of Work  
+Apple requested BVNA  to include in its independent review the following:   
+ Assurance of select environmental d ata and information included in  the Report for the 
+fiscal year 2014 reporting period  (September 29, 2013 through September 27 , 201 4), 
+specifically , in accordance with Apple’s definitions and • World Resources Institute 
+(WRI)/World Business Council for Sustainable Development (WBCSD) Greenh ouse 
+Gas Protocol :  
+o Energy : Direct (Therms) and Indirect  (Million k ilowatt hours ( mkWh)) 
+o Renewable Energy Certificates (mkWH)  
+o Water (Total withdrawal)  
+o Greenhouse Gas (GHG) Emissions : Direct Scope 1  emissions by weight , Indirect 
+Scope 2  emissions by weight , Indirect Scope 3  emissions by weight  (Employee 
+Commute and Air Travel ) 
+o Waste Quantities and Disposition  
+o Appropriateness and robustness of underlying reporting systems and processes, 
+used to collect, analyze , and review the environmental information report ed;  
+Excluded from the scope of our work  is any  assurance of information relating to:  
+ Text or other written statements associated with the Report  
+ Activities outside the defined  assurance  period  
+ 
+Methodology  
+BVNA  undertook the following activities:  
+1. Site visits to Apple facilities in Shanghai, China; Tokyo, Japan; and Prineville, 
+Oregon;  
+2. Visit to Apple corporate offices in Cupertino , California;  
+3. Interviews with relevant personnel  of Apple  (10 individuals including employees  and 
+external contractors at the corporate level );  
+4. Review of internal and external documentary evidence produced by  Apple ;   
+ 5. Audit of environmental performance data  presented in the Report , including a 
+detailed review of a sample of data  against source data ; and 
+6. Review of Apple  informatio n system s for  collection, aggregation, analysis  and 
+internal verification and review  of environmental data.   
+Our work was conducted against Bureau Veritas ’ standard procedures and guidelines for 
+external Verification of Sustainability Reports, based on cur rent best practice in independent 
+assurance.  Bureau Veritas procedures are based on principles and methods described in the  
+International Standard on Assurance Engagements (ISAE) 3000.  
+ 
+The work was planned and carried out to provide  reasonable assuran ce for all indicators, and 
+we believe it provides an appropriate basis for our conclusions.   
+ 
+Our Findings    
+BVNA verified the following indicators for Apple’s Fiscal Year 201 4 reporting period 
+(September 29, 2013 through September 27, 2014 ):  
+ 
+Parameter  Quan tity Units Boundary/ Protocol  
+Natural  Gas Consumption:   9,139,071   Therms  Worldwide  occupied 
+properties  / Apple Internal 
+Protocol  
+Biogas Purchases  5,403 ,276 Therms  Worldwide  occupied 
+properties  / Invoiced 
+Quantities  
+Electricity Consumption:  845  Million kilowatt 
+hours ( mkWh)  Worldwide  occupied 
+properties  / Apple Internal 
+Protocol  
+Total Renewa ble Energy 
+Certificates  987 Million kilowatt 
+hours ( mkWh)  Worldwide / Invoiced 
+quantities  & self -generated  
+Applied Renewable Energy 
+Certificates (excludes purchases 
+for Mesa, AZ facility)  692 Million kilowatt 
+hours ( mkWh)  Worldwide  occupied 
+properties  / Apple Internal 
+Protocol  
+Scope 1 GHG Emissions  56,722  metric tons of 
+carbon dioxide 
+equivalent 
+(tCO 2e) Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol  
+Effective Scope 1 GHG Emissions 
+(Scope 1 emissions – Biogas 
+purchases)  28,486  tCO 2e Worldwide  occupied 
+properties  / Apple Internal 
+Protocol  
+Gross Scope 2 GHG Emissions  306,675  tCO 2e Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol  
+Effective  Scope 2 GHG Emissions  
+(Electric Consumption – 
+Renewable Purchases)  63,213 tCO 2e Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol  
+Scope 3 GHG Emissions 
+(Employee Commu te & Air Travel)  266,965  tCO 2e Worldwide occupied 
+properties / WRI/WBCSD 
+GHG Protocol Value Chain 
+(Scope 3)  
+Water Withdrawal  1,839,812  cubic meters 
+(m3) Worldwide occupied 
+properties / Apple Internal 
+Protocol  
+Trash  disposed in Landfill  4,188  Metric tonn es Worldwide occupied 
+properties / Apple Internal 
+Protocol  
+Hazardous Waste ( Regulated 
+waste ) 230 Metric tonnes  Worldwide occupied 
+properties / Apple Internal 
+Protocol  
+Recycled Material ( Removal by 
+recycling contractor ) 8,707  Metric tonnes  Worldwide occup ied 
+properties / Apple Internal 
+Protocol   
+ 
+  
+Our Conclusion  
+Based on the assurance process and procedures conducted , we conclude that :  
+ The Energy, Water, Waste, and Scope 1 , 2 & 3 GHG Emissions assertions show n 
+above ar e materially correct and are a fair representati on of the data and information; 
+and 
+ Apple has established appropriate system s for the collection, aggregation and 
+analysis of relevant environmental information , and has implemented underlying 
+internal assurance practices that provide a reasona ble degree of confidence that 
+such information is complete and accurate .  
+ 
+Statement of independence, impartiality and competence  
+BVNA  is an independent professional  services company that specializ es in Quality, Health, 
+Safety, Social and Environmental man agement with over 180 years history in providing 
+independent assurance services, and an annual 201 4 revenue of $4.2 billion Euros.  
+No member of the assurance team has a business relationship with Apple , its Directors or 
+Managers beyond that of verification  and assurance of sustainability data and reporting. We 
+have conducted this verification independently  and we believe there to have been  no conflict 
+of interest .  
+ 
+BVNA  has implemented a Code of Ethics across the business to maintain  high ethical 
+standards  among staff in their day-to-day business activities.    
+The assurance team has extensive experience in conducting assurance  over environmental, 
+social, ethical and health and safety information, systems and processes , has over 20 years  
+combined experience in this field and an excellent understanding of BVNA  standard 
+methodology for the Assurance  of Sustainability Reports .  
+ 
+Bureau Veritas North America, Inc.      
+San Ramon, California  
+March 2015  
+  
+ 
+ 
+ 
+ 
+   
+ CCF Review and Verification
+Client: Apple Inc. 1Review and Verification Statement  
+Company Carbon Footprint – Scope 3: Product related Carbon Footprint 
+for Fiscal Year 2014 
+Fraunhofer IZM reviewed Apple’s scope 3 company carbon footprint (CCF) data related to 
+the products manufactured and sold by Apple Inc. in fiscal year 2014.  
+ 
+1 Summary 
+This review checks transparency of data and calculations, appropriateness of supporting 
+product related data and assumptions, and overall plausibility of the calculated corporate 
+annual carbon footprint comprised of emissions derived from the life cycle assessment 
+(LCA) of Apple products shipped in fiscal year 2014. This review and verification focuses on 
+Scope 3 emissions for products sold by Apple Inc. (as defined by WRI/WBCSD/Greenhouse 
+Gas Protocol – Scope 3 Accounting and Reporting Standard).  It is noted that emissions 
+relating to the facilities that are owned or leas ed by Apple (scope 1 and 2 emissions) as well 
+as business travel and employee commute were subject to a separate third party 
+verification and are therefore excluded from the scope of this statement. Confidential data relating to product sales and shipments were also excluded from the scope of this verification.  
+This review and verification covers Apple’s corporate annual greenhouse gas emissions and 
+does not replace reviews conducted for individual product LCAs for greenhouse gas emissions (GHGs). The life cycle emissions data produced by Apple for individual products has been calculated in accordance to the standard ISO 14040/14044: Environmental 
+management – Life cycle assessment – Principles and framework / Requirements and 
+guidelines. This review and verification furthermore complies with ISO 14064-3: 
+Greenhouse gases -- Part 3: Specification with guidance for the validation and verification 
+of greenhouse gas assertions.  
+The review of the corporate annual carbon footprint has considered the following criteria: 
+ The system, boundaries and functional unit are clearly defined 
+ Assumptions and estimations made are appropriate  
+ 
+ 
+ 
+ 
+   
+ CCF Review and Verification
+Client: Apple Inc. 2 Selection of primary and secondary data is appropriate and methodologies used 
+are adequately disclosed 
+These criteria are also fundamental to the revi ew of LCAs conducted for individual product 
+emissions. The reviewers note that the largest share (98%) of Apple Inc. annual corporate carbon footprint is comprised of scope 3 emissions from individual products. The aforementioned criteria have been regularly reviewed by Fraunhofer IZM since 2007 with a view to providing independent feedback that can facilitate continuous improvement and refinement in the LCA methodology applied by Apple Inc.  
+Data reported by Apple is as follows: 
+ Manufacturing Transportation Product Use Recycling 
+2014 24.763.237 1.611.744 7.031.009 451.775 
+[metric tons CO2e] [metric tons CO2e] [metric tons CO2e] [metric tons CO2e] 
+ 
+Based on the process and procedures conducted, there is no evidence that the Greenhouse 
+Gas (GHG) assertion with regards to scope 3 corporate carbon footprint 
+ is not materially correct and is not a fair representation of GHG data and information, and 
+ has not been prepared in accordance with the related International Standard on GHG quantification, monitoring and reporting. 
+All results and also changes to figures reviewed for fiscal year 2013 are plausible. 
+ 
+2 Reviewed Data and Plausibility Check 
+A verification and sampling plan as required by ISO 14046-3 has been established in the 
+course of this CCF review and verification, defining the level of assurance, objectives, 
+criteria, scope and materiality of the verification. 
+As part of this review and verification Apple disclosed following data to Fraunhofer IZM:  
+ Sales data for FY2014, excluding accessories 
+ Regional distribution of sold units and country specific allocation per product to 15 
+major sell-in countries  
+ 
+ 
+ 
+ 
+   
+ CCF Review and Verification
+Client: Apple Inc. 3 Product specific data on transportation including breakdown of air and sea 
+shipment 
+ Life cycle GHG emissions for all products, differentiating the actual product configurations (i.e. memory capacity) 
+ Calculation methodology for the company carbon footprint and methodological 
+changes implemented in 2014 
+ The total company carbon footprint – scope 3 for the fiscal year 2014 
+ Detailed analysis of the CCF including: 
+o The breakdown of the CCF into life cycle phases manufacturing, 
+transportation, product use and recycling 
+o Detailed product specific split into life cycle phases 
+o The contribution of individual products and product families to the overall 
+CCF 
+The data and information supporting the GH G assertion were projected (use phase and 
+recycling) and historical (i.e. fiscal year 2014 data regarding sales figures, manufacturing, 
+transportation). 
+This review comprises a check of selected da ta, which are most influential to the overall 
+company carbon footprint. The overall plausi bility check addressed the following questions: 
+ Are product LCAs referenced correctly? 
+ Are results for products, for which no full LCA review was undertaken, plausible? 
+ Are carbon emission data for individual products plausible in the light of 
+methodological changes as indicated by Apple?  
+This review was done remotely. 
+ 
+3 Findings 
+Prior to this CCF review and verification 7 recent product LCA studies have been reviewed successfully against ISO 14040/44. These latest LCA studies cover products which represent in total 43,2% of the total scope 3 company carbon footprint.   
+ 
+ 
+ 
+ 
+   
+ CCF Review and Verification
+Client: Apple Inc. 4The methodological changes implemented with the 2014 CCF data are confirmed to lead 
+to a significant improvement in terms of accuracy of the results. Inevitably this hampers the 
+comparability of 2014 results with earlier CCF data. 
+The increase in CCF scope 3 total values from 2013 to 2014 is largely due to increased 
+sales. Emissions per unit sold are decreasing on a year-to-year basis.   
+All questions raised in the course of the review were answered by Apple and related 
+evidence was provided where needed.   
+ 
+4 Conclusions 
+We observe from year to year an improvement of the assessment approach in terms of 
+granularity of the used calculation data. This year the transportation and use phase models 
+have been enhanced, modelling the sales markets more precisely on the level of individual 
+countries. The differentiation of memory configurations for Macs and iPods introduced 
+now provides an even more accurate result for the production carbon footprint. 
+For all product LCA calculations, where exact data was missing, the principle of a worst-
+case approach has been followed and results have been calculated with rather conservative 
+estimates regarding e.g. production yield losses and recycling.   
+The review has not found assumptions or calculation errors on the CCF data level that 
+indicate the scope 3 corporate carbon footprint has been materially misstated. The 
+excellent analysis meets the principles of good scientific practice.    
+ 
+Berlin, April 9, 2015 
+ 
+  
+- Karsten Schischke -  - Marina Proske - 
+Fraunhofer IZM  Fraunhofer IZM 
+Dept. Environmental and Dept. Environmental and  Reliability Engineering  Reliability Engineering 34Facilities Emissions: Scope 1, 2, and 3 Carbon Emissions DisclosureAppendix C
+Fiscal 201 1
+Scope 1 Scope 2 Scope 3
+Location Default EmissionsEffective Emissions 
+(incl. renewable energy)Electricity Use Default Grid Emissions*  Effective Emissions (incl. renewable energy) Emissions (travel)
+tons CO
+2e tons CO 2e million kWh tons CO 2e tons CO 2e tons CO 2e
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+ 
+Cork, Ireland
+Singapore
+China
+Other International14,425
+1 1,007
+556
+45564
+804
+–
+1,44912,656
+9,238
+556
+45564
+804
+–
+1,449235
+127
+26
+186
+10
+6
+1
+4182,18339,428
+7, 9 3 0
+10,1392,141 
+4,598
+3,243
+280
+14,42459,51639,428
+0
+02,141 
+0
+3,243
+280
+14,424–
+Data centers
+Maiden, NC
+Newark, CA0
+0
+00
+0
+0138
+44
+9351,651
+22,663
+28,98828,988
+0
+28,988–
+Retail stores
+Domestic (U.S.)
+International2,600
+746
+1,8542,600
+746
+1,854121
+–
+–65,769
+–
+–65,769
+–
+––
+Employee travel
+Fleet Vehicles
+Employee Commute
+Business Travel (air and vehicle)6,401
+6,401
+–
+–6,4016,401
+–
+–––
+–
+–––
+–
+–––
+–
+–155,025–
+63,856
+91,169
+Totals 23,426 21,657 493 199,603 154,273 155,025
+Emissions reduction from renewable energy 8% 23%
+Fiscal 2012
+CorporateCupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+ 
+Cork, Ireland
+Singapore
+China
+Other International13,16010,949
+560
+59237
+715
+32
+–
+6091 1,3439,132
+560
+59237
+715
+32
+–
+609232130
+22
+209
+10
+9
+2
+2984,61 139,457
+6,952
+10,6354,265
+4,801
+4,946
+1,049
+12,50548,21525,450
+0
+04,265
+0
+4,946
+1,049
+12,505–
+Data centersMaiden, NC
+Newark, CA
+Prineville, OR146
+146
+0
+0146146
+0
+0217104
+111
+287 ,73252,977
+33,492
+1,2637 ,6640
+7 ,664
+0–
+Retail storesDomestic (U.S.)
+International2,812
+787
+2,0252,812
+787
+2,025159
+–
+–83,285
+–
+–83,285
+–
+––
+Employee travel
+Fleet Vehicles
+Employee Commute
+Business Travel (air and vehicle)6,9246,924
+–
+–6,9246,924
+–
+–––
+–
+–––
+–
+–––
+–
+–207 ,447–
+90,473
+1 16,974
+Totals 23,042 21,225 608 255,628 139,164 207 ,447
+Emissions reduction from renewable energy 8% 46%
+Fiscal 2013
+CorporateCupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+ 
+Cork, Ireland
+Singapore
+China
+Other International15,21 112,231
+509
+83337
+743
+50
+390
+86813,72710,747
+509
+83337
+743
+50
+390
+868232144
+15
+235
+12
+12
+9
+1385,35443,1 16
+4,400
+12,1622,463
+5,320
+5,826
+7 ,490
+4,57817 ,5030
+0
+00
+0
+5,826
+7 ,490
+4,187–
+Data centers
+Maiden, NC
+Newark, CA
+Prineville, OR
+Reno, NV19,360 19,360 
+0
+002,2012,201
+0
+00305160
+123
+183123,85575,836
+36,959
+9,9651,09500
+0
+00–
+Retail storesDomestic (U.S.)
+International6,158
+3,548
+2,6106,158
+3,548
+2,610171
+98
+7277 ,425
+44,606
+32,81974,002
+44,606
+29,397–
+Employee travel
+Fleet Vehicles
+Employee Commute
+Business Travel (air and vehicle)7, 2147, 214
+–
+–7, 2147, 214
+–
+–––
+–
+–––
+–
+–––
+–
+–231,128–
+134,685
+96,443
+Totals 47 ,943 29,300 708 286,634 91,505 231,128
+Emissions reduction from renewable energy 39% 68%
+Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Fiscal 2014
+Scope 1 Scope 2 Scope 3
+Location Default EmissionsEffective Emissions 
+(incl. renewable energy)Electricity Use Default Grid Emissions*  Effective Emissions (incl. renewable energy) Emissions (travel)
+tons CO
+2e tons CO 2e million kWh tons CO 2e tons CO 2e tons CO 2e
+Corporate
+Cupertino, CA
+Elk Grove, CA
+Austin, TX
+Other U.S.
+ 
+Cork, Ireland
+Singapore
+China
+Other International16,716
+14,310
+411
+148115
+1,000
+51
+385
+29615,33512,929
+411
+148115
+1,000
+51
+385
+296284181
+13
+325
+13
+12
+11
+1786,84236,496
+2,516
+15,1492,270
+7 ,678
+6,852
+8,577
+7 ,30421,5550
+0
+00
+0
+6,852
+8,577
+6,126–
+Data centers
+Maiden, NC
+Newark, CA
+Prineville, OR
+Reno, NV26,85426,835
+0
+180180
+0
+180372188
+138
+2719148,32092,306
+38,278
+10,3927 ,34400
+0
+00–
+Retail storesDomestic (U.S.)
+International5,355
+2,812
+2,5435,355
+2,812
+2,543182
+98
+8482,770
+45,041
+37 ,72941,658
+1 1,036
+30,622–
+Employee travel
+Fleet Vehicles
+Employee Commute
+Business Travel (air & vehicle)7, 7 7 8
+7, 7 7 8
+–
+–7, 7 7 87, 7 7 8
+–
+–––
+–
+–––
+–
+–––
+–
+–268,01 1–
+148,187
+1 19,824
+Totals 56,702 28,486 839 317, 9 3 2 63,213 268,01 1
+Emissions reduction from renewable energy 50% 80%
+Notes
+Apple’s fiscal year begins approximately October 1 each year.
+Scope 1 emissions result from natural gas use for facilities, and gasoline use for fleet vehicles. As is typical, these emissions are tracked separately  
+from our 100% renewable energy claim.Scope 2 emissions result from electricity use for facilities. In addition, Apple owned a facility in Mesa, AZ, that was operated by a supplier, which had default 
+grid emissions of 1 5 1,279 tons CO
+2e and effective emissions of 0 tons CO 2e. 
+Scope 3 emissions reported in this table include only those emissions associated with employee commute and business travel, calculated by employee 
+miles traveled. Scope 3 emissions associated with product life-cycle emissions are disclosed separately. 
+*Based on utility-scale and regional default grid emission factors (using the most granular data set available).
+35 Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014Environmental Responsibility Report  |  2015 Progress Report, Covering FY2014 36© 2015 Apple Inc. All rights reserved. Apple, the Apple logo, iBooks, iMac, iMessage, iPad, iPhone, iPhoto, iTunes, Mac, 
+MacBook, MacBook Air, MacBook Pro, OS X, and Siri are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Store and iTunes Store are service marks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. ENERGY STAR is a U.S. registered mark. Other product and company names mentioned herein may be trademarks of their respective companies. May 20151For our facilities, we are now reporting effective emissions instead of gross emissions to better reflect the impact of our  
+renewable energy program. All category totals are rounded to the nearest decimal.
+2When Apple does acquire renewable energy certificates, we require that they are Green-e Energy certified and come from the 
+same NER C region—and preferably the same state—as the Apple facility they support.
+3Based on the average residential cost of electricity in the U.S. in 2014 to fully charge the battery once a day for one year; includes 
+power consumed by the power adapter when disconnected from the iPhone. 
+4Claim based on total energy consumption of desktops categories I1 and I3 in the EPA ENERGY STAR registry as of June 2014.
+5Claim based on total energy consumption of integrated desktops category D2 in the EPA ENERGY STAR registry as of June 2014.
+6Based on ENERGY STAR Program Requirements for Computers Version 6.0. 
+7Based on equivalent virgin fiber production from protected forests and virgin fiber used for our product packaging. 
+8Based on estimates of the volume of virgin fiber required to produce our packaging and the volume of virgin fiber produced by 
+those forests protected through our partnership with The Conservation Fund. 
+9With the exception of India and South Korea, where we continue to seek government approval for our PVC replacement.
+Updated May 2015 FY 2014 water use figures were corrected and the Bureau Veritas assurance letter was updated to include additional indicators.

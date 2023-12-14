@@ -1,0 +1,1400 @@
+2012 Corporate Responsibility ReportWelcome
+On the cover:  Sanchita Malakar received a solar panel to reduce energy costs with the help of a Chevron-sponsored livelihood 
+program, which is featured as a sidebar in the Bangladesh case study. Until recently, the Malakars were unable to afford more than the bare minimum of kerosene for the household, so their children were unable to study after sunset. Now, thanks to the solar panel on the back of their home, the children are able to study after dark and are performing well in school.
+2
+A Message 
+From Our CEO4
+Operational Excellence and Risk Management
+Our commitment 
+to operating safely and reliably
+Executive Interview
+ 67
+Process Safety
+The path to incident-
+free operations
+Case Study: 
+U.S. Gulf of Mexico  811
+Workforce Safety
+Creating and 
+maintaining a safety culture
+Case Study: 
+Bangladesh
+ 12
+1Working Together for a Brighter Future 
+At Chevron, our top priority is to deliver affordable energy safely and 
+reliably to support economic development and human aspirations for a rising quality of life. As a partner with governments, suppliers and communities, we contribute to health care, education and economic development for mutual benefit and progress.
+15
+Environmental 
+Stewardship
+Our approach to 
+minimizing environ-mental impacts
+Case Study: 
+Kazakhstan
+ 1619
+Biodiversity
+Protecting sensitive 
+habitats and ecosystems
+Case Study: 
+Angola  2023
+Economic 
+Development
+Creating jobs and 
+driving economic growth
+Case Study: 
+Australia
+ 2427
+Social Investment
+Contributing to 
+the social well-being of communities
+Case Study: 
+Health in Africa
+ 28
+Executive Interview  3132
+Additional Information
+Progress Update
+Performance DataGRI and API/IPIECA IndexAssurance Statement GlossaryAbout This Report
+How We Chose What to Include in Our Report
+In this report, we selected content that demonstrates our systematic approach to responsible energy development and 
+to the challenges we face as a multinational company.
+We recognize that our ability to operate and to be selected as a partner of choice is dependent on our maintaining a track 
+record of responsible operations and meeting the expectations of our stakeholders. This report highlights how our business engages and relies on our local workforce, community members, governments and nongovernmental organizations to seek solutions to existing and emerging challenges. 
+The report covers topics that reflect the diversity and complexity of environments and places where we operate. We included 
+case studies that highlight how we do business, with a focus on Operational Excellence, process safety, environmental stewardship, health, workforce safety and community dev elopment. These topics were  identified during engagements with 
+various stakeholder groups. The content also illustrates how partnerships, operations and social investment are enduring and interconnected aspects of our business model.
+Thank you for your interest in Chevron. We welcome your comments on this report and additional content on our website at  
+Chevron.com/CR . Feedback can be sent to us at Chevron.com/Contact/EmailChevron .2This report shares our progress toward world-class perform-
+ance in Operational Excellence, highlighting how we build a consistent safety culture, manage deepwater risk, eliminate flares, protect biodiversity in our global operations and improve the livelihoods of communities near our operations. These efforts are guided by our Operational Excellence Management System, which aligns with international stand-ards for safety and environmental performance and drives extensive use of tools — such as stop-work authority, by which every employee and contractor has the right and responsibility to stop work when noticing an unsafe act or condition; our Environmental, Social and Health Impact A ssessment, which is 
+used before we begin and throughout the life cycle of our major capital projects; and active engagement with our stakeholders. 
+Managing risk and executing with excellence are critical 
+to our company’s success. Equally critical are the stability and vitality of the countries and communities where we operate. Chevron operates in some of the most challenging, complex and dynamic places in the world. In many locations, communi-ties must confront critical social and economic issues, includ-ing access to health care, education and the resources needed for sustained prosperity. 
+We partner with local governments, our business partners and 
+our stakeholders to enhance communities by generating jobs, supporting local supply chains and strengthening local economies. We also expand health and education capacity, For more than 135 years, Chevron has been focused on 
+the same goal — safely developing the affordable energy vital to economic growth and development. 
+Fulfilling our goal involves managing the risks inherent in our 
+industry. We work tirelessly to mitigate those risks, even as the scale and complexity of our projects continue to increase. Fulfilling our goal also involves a commitment to responsible and ethical behavior, which is embedded in our system of values. And Chevron’s 58,000 employees around the world are committed to those values, which we call The Chevron Way. 
+The expectations of our stockholders, our partners and 
+communities have never been higher. They expect that we will live up to these values and that we will achieve our results the right way. Every single employee, including me, has the same expectations.
+Fundamental to everything we do is a constant focus on achiev-
+ing higher levels of operational, environmental and safety performance. We continue to be an industry leader in personal safety, as measured by injuries requiring time away from work. And in 2012, we delivered our lowest spill volumes ever.
+We are proud of our progress, but we are not at zero. We under-
+stand that the stakes are high and the tolerance is low for events that affect people and the environment. We are working to eliminate incidents. “ Managing risk and executing with excellence are 
+critical to our company’s success. Equally critical are the stability and vitality of the countries and communities where we operate.”A Message From Our CEO3John S. Watson
+Chairman of the Board and 
+Chief Executive OfficerMay 2013
+support small busin esses, train workers to industry 
+standards, and invest in the local workforce. For example, in Angola, Kazakhstan and Nigeria more than 85 percent of our employees are nationals. 
+In 2012, we purchased more than $60 billion in goods and 
+services around the globe, providing a meaningful stimulus for local economies. And in the past seven years, we’ve invested nearly $1.2 billion in partnerships worldwide to build stronger, healthier communities. Our approach to partnership is showcased in this year’s report — in how we are partnering with local government and other stakeholders to help develop the economic future of the Onslow community in Western Australia, and how we partner with governments, communities and health organizations in the fight against HIV/AIDS in sub-Saharan Africa. 
+We’re proud of the work we do, and we’re always striving 
+to be better. By being vigilant in maintaining a strong, healthy workforce; operating safely and responsibly; partnering to create value for our stakeholders; and providing energy the right way — The Chevron Way — we help meet the world’s energy needs and continue to foster economic development around the world. We hope you find the case studies and operational data in this report to be informative and useful.The Chevron Way
+The Chevron Way deﬁ  nes who we 
+are, what we do and what we believe. At the heart of The Chevron Way is our vision … to be the global energy 
+company most admired for its people, partnership and performance.
+We make this vision a reality by 
+consistently putting our values into practice. The Chevron Way values distinguish us and guide our actions so that we get results the right way. Our values are integrity, trust, diversity, ingenuity, partnership, protecting people and the environ-ment, and high performance.
+To read more about The Chevron Way, 
+please visit Chevron.com/ChevronWay.
+4Our Chevron Way values place the 
+highest priority on protecting people and the environment. Chevron has a rigorous management system that translates this priority into world-class performance; we call this our Operational Excellence Management System (OEMS).
+Chevron has built an Operational Excellence 
+(OE) culture on the belief that incidents are preventable. We have policies,  proc esses, 
+tools and behavioral expectations in place to assist us in achieving this goal. 
+OE is based on five objectives: 
+•  Achieve an incident- and injury-free 
+workplace. 
+•  Promote a healthy workforce 
+and mitigate significant workplace health risks.
+•  Identify and mitigate environmental 
+and process safety risks.
+•  Operate with industry-leading asset 
+integrity and reliability. 
+•  Efficiently use natural resources 
+and assets.Our company has made significant 
+progress in implementing our Operational Excellence Management System through focus, discipline and hard work. In 2012, we made great strides in our personal safety performance, and we placed even greater focus on process safety. We continued to reduce the number of personal injuries. From 2001 to 2012, our Total Recordable Incident Rate decreased by 71 percent.
+To accelerate progress on preventing process 
+safety incidents, we launched workshops in managing process safety for executive leaders, who then cascaded this training to their organizations. Our Corporate OE Audit group a ssessed the adoption of process 
+safety standards throughout the enterprise for asset integrity, operating procedures and technical codes. We also continued to build our companywide Compliance Assurance system and deployed new auditor training to improve the performance of the function.
+For more details, please visit 
+Chevron.com/OE.At Chevron, we’re focused on safely delivering 
+the energy the world needs to power human and economic progress. This requires constant attention to c ountless  details and processes. 
+As the Green Canyon 6A offshore platform 
+ends its producing life, Chevron safely removes the structure. The lower 485 feet (148 m) of the platform’s support legs remain in place under water as an artificial reef, a habitat that supports a rich diversity of marine life.Operational Excellence and 
+Risk Management5Protecting People and the Environment
+Richmond, California, refinery crude unit — 
+remind us that we must do better. These incidents do not reflect the expectations we have of ourselves or the expectations that the community has of us. 
+We investigated the incidents and engaged 
+closely with regulators, which facilitated our implementation of improvements in proc-esses and operations. The actions we are taking will strengthen management oversight 
+and add layers of process safety protection. 
+Chevron remains committed to zero inci-
+dents. We are confident that our continual improvements in the areas of process safety, environmental stewardship and operational discipline will significantly reduce the poten-tial for future incidents and will keep our workforce safe.We believe that every one of our employees 
+and contractors, whether in offices or in the field, plays an important role in maintaining safe and reliable operations. It’s not just good for business; it’s the right thing to do.
+Incidents in 2012 — the January fire aboard 
+the KS Endeavor drilling rig working offshore for Chevron Nigeria Ltd. and the August fire in the Chevron U.S.A. Inc. 6
+What is Chevron doing 
+to improve safety in operations?
+Operational discipline — completing 
+every task the right way, every time — is critical to the success of our business. 
+In 2012, we initiated WELLSAFE, 
+a certification program rooted in operational discipline that provides the maximum reasonable assurance that well control will be maintained at all times and further reduces the potential for an oil spill during drilling operations.
+We also intensified our focus on opera-
+tional discipline through the deploy-ment of coaches who verify workforce competency on safe-work practices, appropriate safeguards and controls for high-consequence activities. 
+We know that achieving zero incidents 
+is possible, having realized this goal in several areas of our company and with many contractors. In 2012, 50-plus groups achieved more than 1 million hours without a Days Away From Work incident. We also had our lowest-ever number and volume of spills.What is the role of 
+leaders in reinforcing safety?
+Our mandate is to make sure that 
+every member of our workforce goes home safe after his or her work shift. Leaders demonstrate their com-mitment to safety through personal engagement with the workforce. 
+Leaders at all levels make site visits 
+to identify potential hazards in our operations, check the existence and effectiveness of key safeguards, and reinforce the culture of personal and process safety in the daily work activities of employees and contractors.
+Leaders reinforce the workforce’s 
+knowledge and application of good stewardship practices through training, certifications, onsite coaching, mentor-ing and safe-work activity verification. 
+It takes all of us being vigilant 
+about maintaining our safeguards and equipment to systematically eliminate incidents.What are the greatest 
+challenges to operating safely and responsibly?
+There are a number of factors that 
+could increase our exposure to incidents if we don’t work consistently to manage risks properly. 
+Chevron has a growing global 
+workforce, with close to 260,000 employees and contractors through-out the world. 
+Our portfolio is increasing in size 
+and technical complexity. For example, today we use new technologies and equipment to find and produce natural resources in water depths that were unheard of 10 years ago. 
+At the same time, some of our existing 
+infrastructure is aging. Maintaining the integrity of these assets continues to be a focus area for us as we seek to improve resource recovery.
+We can manage these factors by being 
+relentless in our efforts to reduce operational risks and to protect people and the environment.Warner Williams
+Vice PresidentGulf of Mexico Business UnitExecutive Interview
+On Operational Excellence7
+Overview
+Process Safety
+Chevron strives to operate incident-free. 
+To achieve this goal, we must complete every task the right way, every time. 
+Process safety is a blend of engineering and management skills and practices focused 
+on preventing incidents, particularly explosions, fires and releases. Our Operational Excellence Management System requires that safeguards are in place and maintained to prevent process incidents. Safeguards include several types of protection, such as alarms, automatic shutdowns and equipment integrity procedures. Having multiple layers of protection helps to prevent a small mistake or failure from becoming a bigger incident. 
+We are providing process safety training and making safeguards more visible to the entire 
+workforce. In 2012, our senior leaders across the enterprise attended process safety workshops, and they continue the dialogue by incorporating a higher focus on process safety into routine business meetings. Process safety was a topic of focus at our annual companywide employee meeting and at our Operational Excellence Forum. 
+Our operating companies also continue to improve their ability to prevent process 
+safety incidents. In addition to implementing corporate process safety standards, each business segment is working to strengthen the layers of protection that prevent inci-dents. For example, through an improved process for alerts and bulletins, our Upstream operating companies have increased their ability to learn from incidents. Our Drilling group began a new program for drill-site managers, and Global Manufacturing expanded its Operational Excellence and Reliability Intelligence system to include additional leading indicators of process safety performance.
+To learn more, please visit Chevron.com/OE.
+Workers are transferred by personnel basket from a supply vessel and onto the Discoverer Clear 
+Leader  drillship in the U.S. Gulf of Mexico.8U.S. Gulf of Mexico
+Executing With Excellence
+Chevron is one of the largest producers of crude oil and natural gas in the U.S. Gulf of 
+Mexico. A continuing commitment to safety, leading Operational Excellence (OE) programs and new technology allow us to tap into needed energy supplies. At the same time, our work in the Gulf crea tes jobs and gr ows busin esses.
+Chevron’s Billy Varnado knows that 
+the time for easily finding oil is gone. Twelve years ago, he worked on our first discovery in the deepwater region of the Gulf of Mexico, the Genesis Field, located approximately 150 miles (241 km) south of New Orleans, Louisiana, where we tapped resources 12,000 feet (3,658 m) below sea level. Today, his work takes him another 130 miles (209 km) south of Genesis to the Chevron-operated discoveries Jack and St. Malo, where we will seek energy at depths of 27,000 feet (8,230 m) below the water’s surface.
+“ Jack and St. Malo are being devel-
+oped at extreme depths and amid Above:  Bob Miller is a ﬁ  eld Health, Environment 
+and Safety specialist in the Gulf of Mexico aboard the Paciﬁ  c Santa Ana , a deepwater drillship built 
+to Chevron’s speciﬁ  cations and the ﬁ  rst drillship 
+with dual-gradient drilling capabilities, which can enhance the safety of deepwater drilling. 
+$7.5 billion Jack/St. Malo project comes 
+on line in 2014, it is expected to supply energy resources for 30 to 40 years.
+“Our growth depends on our ability to 
+maintain the region’s confidence in our deepwater drilling projects and prac-tices. People expect that the energy the world needs will be produced safely and reliably,” said Warner Williams, vice president of the Gulf of Mexico business unit. “There is no room for complacency in our operations.”challenging temperatures, currents, 
+pressures and drilling complexity,” said Varnado, the Jack/St. Malo project director. “We implement processes to  help ensure the health 
+and safety of our people and the environment, from design to production and through the life of the field’s operation, which can last for decades.”
+Jack and St. Malo highlight the com-
+plexity of finding new energy sources. The project involves two fields 25 miles (40 km) apart. Each field will have separate clusters of wellheads on the seafloor that will be connected to a single floating production unit located between the two facilities. When the 9The Jack/St. Malo facilities and 
+their installation are massive undertak-ings. “The structures we’re building are the size of huge hotels, complete with living quarters, food services, vessel and helicopter transportation, advanced surveillance, and communi-cation and control capability,” said Mike Casey, general manager for the Gulf of Mexico operations.
+Process safety is incorporated into 
+the design of our production facilities. Our Big Foot facility, another field in the Gulf of Mexico 225 miles (362 km) south of New Orleans, is being designed to survive 1,000-year-storm conditions. It will include 16 tendons made of steel pipes, each up to 44 inches (112 cm) in diameter, to moor a nearly 400-foot-wide (122-m) floating platform to the ocean floor approximately 1 mile (1.6 km) below the surface.
+In 2012, we took delivery of the Pacific 
+Santa Ana , the first deepwater drillship 
+built to our specifications for dual-gradient drilling using a seabed pump located above the blowout preventer. This drillship will be the first in the indus-
+try to deploy the GE MaxLift 1800™ Safety in Design and Processes
+Our Operational Excellence Manage-ment System (OEMS) guides our com-mitment to incident-free operations. OEMS includes policies,  proc esses, 
+tools and behavioral expectations that focus our workforce on protecting the safety and health of people and the environment and on conducting our operations reliably and efficiently. 
+“We understand the impacts that 
+can result from an operational error,” said Stephen Thurston, vice president of Chevron Deepwater Exploration and Projects (DWEP) in the Gulf of Mexico. “Operational Excellence isn’t static, and it must be applied to every task every day. All operators and business partners must also be committed to improvements in OE, especially as new technology is developed.”
+Within OEMS, Chevron’s approach to 
+process safety management is based on the Center for Chemical Process Safety’s Guidelines for Risk Based 
+Process Safety , and we establish 
+stringent requirements for the design, construction, operation and mainte-nance of our facilities. 
+Turning Rigs Into Reefs
+When the last drop of new energy is 
+extracted by many of our offshore oil plat-forms, one job ends and another begins. Since 1983, we have donated 74 structures to programs in Louisiana, Mississippi and other U.S. states that create artificial reefs in the Gulf of Mexico. 
+Reusing the platforms creates a new 
+ecosystem with thousands of inverte-brates and fishes. “The platforms provide excellent habitat that is beneficial both to marine organisms that inhabit these reef systems and to commercial and recreational fishermen,” said Lew Dennis, U.S. offshore area manager for Chevron Environmental Management Co. (EMC). 
+“Something no one can argue about 
+is that there’s no better fishing anywhere in the Gulf than off the Louisiana coast, and that’s due in part to these artificial reef structures created from decommis-sioned oil platforms,” said Randy Pausina, assistant secretary at the Louisiana Department of Wildlife and Fisheries.
+Turning rigs into reefs presents unique 
+challenges. For example, EMC and our Gulf of Mexico operations worked together to decommission a platform that stood in 473 feet (144 m) of water near the mouth of the Mississippi River. The project required removing the platform “jacket,” or support legs. The jacket was removed as one 520-foot-tall (158-m) piece. Instead of having divers conduct the hazardous work of removing the soil and sand around the footings, large remote-controlled dredges safely extracted the material. The massive platform deck, or topsides, was removed by a special heavy -lift v essel 
+and brought to shore for disposal. Through the Louisiana Artificial Reef Program, the support legs were lifted, towed to a designated location and lowered to the seafloor to create an artificial reef.
+Left:  For more than 60 years, new technology 
+has enabled the oil and gas industry to drill at ever-greater depths. Chevron achieved industry water depth and drilling depth records in 2003, 2005 and 2009.Finding Oil Ever Deeper 
+The Oil and Gas Industry Increases Its Reach
+0 FT
+40,00030,00020,00010,000
+PRE-1950 ’50–’59 ’60–’69 ’70–’79 ’80–’89 ’90–’99 ’00–’09 ’10–’12Current 
+Drilling Depth Rig Capability: 40,000 ftWater Depth 
+Record (’03): 
+10,011 ft
+Drilling Depth 
+Record (’05): 
+34,189 ftDrilling Depth 
+Record (’09): 
+35,955 ftCurrent Water Depth Rig Capability: 12,000 ft
+1 foot = 0.3 meter
+Industry Water Depth
+Industry Drilling Depth
+Industry Record
+Achieved by Chevron
+SOURCE: AMERICAN ASSOCIATION 
+OF PETROLEUM GEOLOGISTS10
+pump, the core component of dual-
+gradient drilling. This technology allows wells to be drilled more effectively by managing two fluids in the wellbore: a seawater-density fluid from the seabed to the drilling rig, and a higher-density drilling fluid from the seabed to the bottom of the well. This combination of fluids is much more aligned with the natural pressures of the formations in the subsea well and offers the potential to dramatically simplify well designs and improve operational safety. The equipment developed for dual-gradient drilling also allows operators to more quickly detect and react to pressure 
+changes encountered while drilling. 
+Also in 2012, following benchmarking 
+with industries such as commercial aviation, commercial nuclear power and the U.S. Navy submarine force, we began developing our WELLSAFE certification program to bolster our efforts to prevent well-control incidents. The pr ogram addr esses 
+procedures from the design of wells through rig operations and includes extensive auditing requirements to provide significant assurances that well control can be maintained. Our WELLSAFE program is scheduled to be fully implemented by year-end 2014.
+A Culture of Safety
+“We have worked hard to build a culture of safety and environmental stewardship that strives to achieve high performance and prevent incidents,” said Warner Williams.
+In 2012 in the Gulf of Mexico, we safely 
+drilled 46 development and delineation wells, which establish the productive area of oil and gas accumulations. Above:  Construction is under way on the Jack/St. Malo project in the fabrication yard near Ingleside, 
+Texas. Approximately 1,000 workers are constructing the massive structures, which are scheduled to depart for the deepwater Gulf of Mexico in late 2013.We had no recordable fires in 2012, and 
+our Gulf workforce recorded more than 12 million work hours without a Days Away From Work injury. 
+Before employees or contractors 
+begin working in Gulf waters, they are rigorously trained in safety procedures. All drilling personnel must have current industry-recognized certifications that cover such procedures as well control and the management of abnormal conditions. Chevron requires its con-tractors to adhere to company safety standards and to comply with the company’s OE practices. This is critical because our contractors conduct 80 percent of the work in drilling and completions for DWEP. 
+“We can break every deep-drilling 
+record and make new discoveries, but we will have failed if one of our team members is injured,” said Marcel Robichaux, general manager for DWEP Drilling and Completions. 
+Worker and process safety are 
+enhanced by our longstanding commit-ment to practices such as stop-work authority, which allows any employee or contractor — from a cook to a drilling superintendent — to stop the work on a project to raise a safety concern, without repercussions. That thinking extends to project planning. Iain Haughie, Chevron’s DWEP Health, Environment and Safety manager, said that if an operating plan isn’t right or if something changes, it’s part of our safety culture to stop the work and revisit the plan.
+“We have five drillships right now in the 
+deep waters of the Gulf,” said Haughie, “and we’re drilling a series of wells over the next few years. You have to get it right every single time.” 
+ Hear employee Natalie Martin explain how 
+process safety enhances personal safety on an offshore rig at Chevron.com/CR2012/GOM.The Jack/St. Malo 
+project is creating more than 
+1,000  
+construction jobs in the region11
+Our commitment to the safety of our 
+58,000 employees and 200,000 contractors is reinforced at all levels of the corporation. 
+The rigor of our Operational Excellence Management System delivers continuous 
+improvement in our ability to protect the safety and health of our workforce as well as the environment everywhere we operate. We have shown significant improve-ment in workforce safety over the past 10 years as a result of ongoing, focused attention on preventing incidents in all Chevron operations. Chevron’s Days Away From Work Rate has decreased from 0.29 in 2001 to 0.03 in 2012 (a 90 percent reduction). Also, Chevron’s Total Recordable Incident Rate has decreased from an average of 0.82 in 2001 to 0.24 in 2012 (a 71 percent reduction).
+We took steps in 2012 to improve workforce safety across the company through 
+increased oversight of high-risk activities. As part of Chevron’s Managing Safe Work process, we implemented five additional safety standards for the following: hazard analysis; working in confined spaces; “hot work” locations where ignition of materials could occur; environments with “hazardous energy,” such as pressurized liquids, thermal energy and kinetic energy; and internal permitting for contractors so that proper consideration is given to the risk of a job before it begins. 
+By maintaining operational discipline — completing every task the right way, every 
+time — we will continue to sustain and improve our workforce safety culture.
+For more details, please visit Chevron.com/OEMS.Overview
+Workforce Safety
+The Bibiyana gas field is one of the most significant natural gas discoveries in Bangladesh. 
+Chevron acquired the field in 2005 and brought it into production in 2007. By 2014, field expansion is expected to increase gas plant capacity by 50 percent. 12Bangladesh
+Journey to Safety
+Chevron is the largest foreign investor in Bangladesh, providing employment 
+and supplying approximately 50 percent of the natural gas the country consumes. To bring our Bibiyana Field into production, we recruited 2,300 Bangladesh citizens to work on the project. For people living near our facilities, who were accustomed to working in agriculture, this new project marked the beginning of a dramatic transformation in safe-work practices and behaviors that extend into daily living.
+Above:  Workers at the Bibiyana gas plant receive 
+safety awareness training that extends from their jobs into their homes and communities.
+glasses  and fire-retardant clothing. 
+To operate the field in a safe and responsible manner, he said, “we had to foster a cultural paradigm shift both inside the plant and in the com-munities around it.” 
+Today in Bangladesh, Chevron has 
+amassed 40 million work hours since the last Days Away From Work injury in 2008, and we have had no Amid the lush rice paddies and 
+150-plus-year-old tea plantations typical of northeast Bangladesh lie Chevron’s Bibiyana, Jalalabad and Moulavi Bazar natural gas fields. Generations of farmers have worked the rice paddies and other crops between seasonal floods. Largely because of this agricultural tradition, many in the area had little experience with how a complex industrial facility works. As we began employing villagers in 2005 to build the Bibiyana Field, the nation’s largest-producing natural gas field, we introduced a culture of safety that was unfamiliar 
+to many local residents. We did so to make sure that people and the environment were protected.
+“In a predominantly agrarian economy 
+with no large-scale manufacturing or industry, it took time for our workforce to develop a culture in which safety is above all else,” recalled Kinnesh Dalal, Chevron Health, Environment and Safety manager in Bangladesh. Prospective workers were unaccus-tomed to wearing protective shoes and didn’t understand the need for safety 13
+significant environmental incidents, 
+fires or spills. “We invested heavily in our workforce to build capabilities, institutionalized glob al proc esses 
+focused on operational excellence and initiated training programs. It has been a many-year journey toward achieving zero incidents in Bangladesh,” said Dalal. 
+Chevron has been operating in 
+Bangladesh since 2005, following the acquisition of Unocal. We have approximately 700 employees and more than 2,400 contractors in the country. We are working with communi-ties and the government-owned Bangladesh Oil, Gas and Mineral Corp., known as Petrobangla, to reduce the nation’s reliance on imported energy. By 2014, expansion of the Bibiyana Field now under way is expected to increase gas plant capacity by 50 per-cent, with new pipelines also being constructed to safely deliver this added energy capacity.
+Driving a New Safety Ethic
+“Today’s safe operations are a result of creating an understanding of the importance of personal and process safety, and then providing tools and training under Chevron’s supervision,” said Geoffrey Strong, Chevron’s 
+Bangladesh country manager.
+We expanded our training capacity in 
+2012 with a new Health, Environment and Safety training center for contrac-tors and community-based workers. Since opening in April 2012, more than 2,000 people have been trained.
+“I was like a wide-eyed child at the 
+training center, learning things for the very first time,” said Abul Kalam, a labor team leader with five years of experience at Chevron. He said that Chevron “is essen tially a huge 
+classroom. I do not look at Chevron as just a place of work; for me personally, this is a place of learning.” Promoting Sustainable 
+Livelihoods
+In the rural villages near our natural 
+gas fields, our economic development programs foster sustainable livelihoods to help residents overcome socio-economic challenges.
+Our livelihood programs were initially 
+created to assist people who depended on 69 acres of land that the govern-ment acquired to develop the Bibiyana gas field in 2006. “Bibiyana was a predominantly agrarian economy with no industrial presence, low literacy rates and inadequate infrastructure,” said Naser Ahmed, Chevron Bangladesh’s External Affairs manager. “We’ve built relationships with local communities and nongovernmental organizations to implement programs that provide lasting socioeconomic opportunities.”
+With residents and partners, we helped 
+create alternative livelihood programs by establishing village development organizations (VDOs) comprising members selected by the community. These programs provide training in income-generating skills, such as tailoring, poultry farming, goat rearing, engine maintenance and business management. 
+As of 2012, programs launched in seven 
+villages near the Bibiyana and Moulavi Bazar gas fields provide solar panels and energy-efficient stoves to reduce home-lighting and fuel costs. The savings are invested in income-generating enterprises and a savings fund maintained by the VDO. Chevron contributes to a seed-fund, to which VDO members add their savings. Members draw upon the fund to build their small and medium-size enterprises. 
+Today more than 100 VDOs are benefiting 
+nearly 4,000 families living near our three major gas fields. Ojud Miah completed a Chevron-funded training course and received a microloan for his duck breeding enterprise. “I earned enough to build a concrete house for my family and pay for my younger sister’s wedding. I completed a paraveterinary training course through my VDO, and now earn a steady income. After taking care of household expenses and my children’s schooling, I am able to set aside 10 percent in savings every day. My journey has just begun.”40
+million
+work hours have been 
+logged since the last Days Away From Work injury
+Above:  Basir Miah, a member of the Chevron-supported economic development program in his 
+village, received training to grow his business. He now owns eight cows and earns a steady income raising cattle and selling them at a proﬁ  t.14Employees and contractors are 
+required to undergo our Fitness for Duty process, which identifies the circumstances under which workers are able to saf ely perform essen tial 
+physical, psychological and cognitive job requirements without risk to self, others or the environment. Trainers make sure new employees under-stand our Operational Excellence Management System, the framework Chevron uses to manage process safety, health and personal safety, the environment, reliability, and efficiency. Because the literacy rate in Bangladesh is approximately 56 percent, we adapted the way we teach to ensure understanding, using repetition, memorization, visual aids and addi-tional field-testing. Six-month-long mentoring programs were established for many positions. 
+Every morning, employees hold a “tool 
+box” meeting to review safety proce-dures for the tasks being performed that day. The type of work ranges from crane operation to leveling an access road. Employees are reminded of stop-work authority, which encourages any employee or contractor to stop work when an unsafe condition or act is recognized.
+In 2012, the Muchai compression 
+project, which added pipeline capacity to transport natural gas from our three fields, involved more than 2.6 million work hours and was completed with no recordable incidents.
+Improving Contractor Safety
+“We want to use a local workforce and are committed to working with local companies, some of which do not have 
+strong safety performance,” said Zulfikar Ahmed Chowdhury, Chevron field manager for community engage-ment. “We help contractor companies through extensive safety training so that they can be hired.” 
+Chevron enlisted 111 vendors and 
+suppliers directly from the local com-munity. These contractors supply labor and materials for minor civil, construc-tion and mechanical work. We work with our contractors to develop risk mitigation plans and administer safety management systems. Contractor safety performance has improved because of intense Chevron oversight and structured, continual training and mentoring. 
+“When we first started in 2005, things 
+were not very easy for us as we had no experience working for a company that had such high expectations for safety performance. We had to work very hard to reach the standard set by Chevron,” said Md. Boyet Ullah, proprietor of Zakaria Enterprise, which has been supplying laborers and materials. 
+Firuz Miah, a contractor working 
+with the facilities engineering team, said, “Even if I go elsewhere, whatever I have learned here will benefit me.”
+Extending Safety Into the Community
+When building our Bibiyana gas plant in 2007, we implemented our Environmental, Social and Health Impact A ssessmen t proc ess to identify 
+and minimize potential project impacts, and we conducted comprehensive community engagement programs. For example, after learning that the community extensively used a narrow, winding main supply road, we imple-mented a safety program along the route. In addition to installing extensive road signage, we implemented a road safety campaign for area resi-dents, including training 180 local drivers, distributing safety booklets and providing reflectors for nonmotor-ized vehicles.
+“Community engagement is an 
+essen tial part of our business  here,” said Strong. “Having an effective and 
+personal relationship with the commu-nity helps us to address critical socio-economic challenges that benefit both our operations and our neighbors.” 
+We extend concepts and benefits 
+of our safety culture into communities. For example, because motor vehicle safety is the single largest safety risk outside our facilities, with 85 deaths for every 10,000 registered motor vehicles in Bangladesh, we developed a comprehensive driver safety program, including initiatives to raise awareness in the community. We continue to engage the community on various initiatives, including earthquake pre-paredness and first-aid training for health care workers.
+Employees are transferring what they 
+learn from Chevron to their homes and into the community. “My friends say I’ve completely transformed and have influenced those around me,” Abul Kalam said. “On my way home from work every day, if I see something being done in an unsafe way, I point it out to people, and they stop and listen.”
+Now, after eight years with Chevron, 
+onsite Health, Environment and Safety representative Saleh Ahmed said he tells his children the safety stories he learns at work. “They listen to me because they want their father to return home to them safe and sound every day. And as their father, I tell these stories because I want them to grow up safe and protect themselves from life’s many mishaps.” 
+Safety, he added, ultimately is a system 
+of rules, processes and procedures 
+that only work “if you believe in them from the core of your being. Before working here, there was a time when I would get the odd minor injury here and there; but working for Chevron in the past five or six years, I have not had so much as a scratch.” 
+More than 
+2,000  
+people
+have been trained in 
+Chevron’s new Health, Environment and Safety training center15
+Overview
+Environmental Stewardship
+Near the Tengiz Field in western Kazakhstan, 
+David Connell, former Second Generation Plant site manager, visits the Sarkamys village and Keneral Farms, where some people still herd camels, goats and horses. Other residents have found technical and manufacturing jobs with Tengizchevroil.Our environmental stewardship efforts focus on 
+minimizing our environmental footprint, from initial exploration through the life of an asset. 
+Wherever we operate, our environmental stewardship process, part of our Operational 
+Excellence Management System (OEMS), helps us manage activities that have the potential to affect the environment. Consiste nt with ISO 14001, we defined seven types 
+of environmental activities, or “aspects,” that we address:
+Through the entire life cycle of a project — from planning and construction through 
+operation and decommissioning — we review and adapt our environmental stewardship efforts annually as we rea ssess potential environment al risks associated with 
+our activities.
+Our Upstream operations adopted uniform standards and operating practices, beyond 
+applicable legal requirements in some instances, to minimize environmental impacts from offshore drilling fluids and cuttings (minerals and other materials removed from a borehole), associated-gas flaring and venting, air emissions, produced water, and waste. 
+Based on the review of potential impacts and existing controls, operations are required 
+to identify improvement opportunities and incorporate those that are the highest priority into their business  plans. This ongoing review and identification of next steps is 
+the continual improvemen t that is a core component of our OEMS and helps drive 
+our business units to higher levels of environmental performance.
+For more about environmental stewardship, please visit Chevron.com/Environment.• Accidental Releases Management
+• Air Emissions Management
+• Natural Resources Management
+•  Energy Use and Greenhouse Gas Management• Legacy Sites Management
+• Waste Management
+• Wastewater Management16
+Kazakhstan
+Driving Environmental Progress
+Chevron is Kazakhstan’s largest private oil producer, holding important stakes 
+in the nation’s two biggest oil-producing projects — the Tengiz and Karachaganak fields. We are a 50 percent partner in the Tengizchevroil (TCO) joint venture, which operates the Tengiz Field. Through significant investments and environmental standards, TCO’s workforce is continually improving environmental performance.
+As Tengizchevroil employee Tatyana 
+Afanaseva flew by helicopter over the oil and gas fields that rise from the Caspian Sea’s northwest shore, she recalled how the panorama below has changed over the past two decades. 
+“In the early 1990s, you saw gas 
+released and burned from flare stacks during oil production. There were also many large, square yellow sulfur pads created as a byproduct of the oil production process,” said Afanaseva, chief technologist of TCO’s Process Engineering department. “Today, we observe a very different picture.”The TCO joint venture was established 
+in 1993 between Chevron, the newly independent Republic of Kazakhstan and other partners to produce oil in the western part of the country. TCO’s Tengiz Field is one of the world’s deepest developed oil fields and, along with the smaller Korolev Field, covers 970 square miles (2,500 sq km). Afanaseva is one of nearly 3,200 Kazakhstani citizens who make up 86 percent of TCO’s workforce.
+Working with the government and 
+community, the joint venture has invested $2.5 billion since 2000 on projects that resulted in a reduction of TCO’s environmental impacts, such 
+as projects to eliminate continuous flaring, reduce sulfur storage, and conserve and treat water.
+Extinguishing Continuous Flares
+When TCO assumed control of the Tengiz Field in 1993, the field’s ongoing operations included the continuous flaring of natural gas. 
+Above:  Khairliyev Alibek is a unit operator at the 
+Tengiz Field’s Second Generation Plant. The plant has allowed TCO to increase production and, through the use of advanced technology, improve environmental protection.17
+sulfur that was removed during oil and 
+gas production was accumulated on large, open concrete pads. The scale of the pads led to the public’s perception that there were environmental and health impacts associated with sulfur handling and removal.
+“Through educational programs and 
+independent health studies, TCO has been working for years with government entities and communities to correct misperceptions about the storage of sulfur on pads in the open air,” said Dastem Zhassanov, Regulatory Affairs coordinator for TCO. 
+In 2006, TCO, the Ministry of Oil and 
+Gas, and the Ministry of Environmental Protection created the Interdepart-mental Coordination Council (ICC) to study issues related to sulfur storage and identify methods to improve its management. The study was the first of its kind in Kazakhstan and included local government, the national oil and gas company, and independent research institutes from Russia and Canada. TCO has invested 
+$2.5
+billion 
+since 2000 on projects 
+that reduced its environmental impactsUnderstanding Flaring
+Flaring is the burning of natural gas in 
+an open flame into the air. When crude oil is brought to the surface in the produc-tion process, gas associated with the oil rises with it. In locations where there is no market for the gas, a common historical practice has been to flare the gas so that it does not pose a hazard to workers or residents near the operations. Gas travels up tall metal pipes called flare stacks to the nozzle or burner tip located at the top. A pilot light or electronic igniter then ignites the gas. 
+The World Bank reported a 9 percent 
+reduction in flaring globally in 2010 at a time of increasing oil and gas production. In 2011, the World Bank estimated that total emissions from gas flaring repre-sented approximately 1.2 percent of global CO
+2 emissions. Efforts such as the Global 
+Gas Flaring Reduction (GGFR) Partnership, a public-private partnership launched by the World Bank in 2002 and in which Chevron has been an active participant, are having a positive impact.
+Chevron has adopted a routine-flaring 
+reduction standard that aligns with the World Bank’s GGFR voluntary standard. This standard requires, where feasible, that the majority of existing routine flaring of associated gas be eliminated and that all new capital projects be designed and operated without continuous routine flaring. 
+We have invested billions of dollars in 
+infrastructure projects in Angola, Kazakhstan, Nigeria and elsewhere to eliminate routine flaring and direct the natural gas to productive economic use. Since 2003, we have reduced the volume of gas we flare and vent in Chevron’s Upstream operations by 41 per-cent, as defined by our flaring and venting environmental-performance standard. We have simultaneously reduced green-house gas emissions from flaring and venting by 20 percent, based on the equity share of all Chevron’s global interests.“Today, the only flaring remaining in 
+TCO’s operations is intermittent flaring related to maintenance and repairs, or when necessary for safety,” said Nurlan Kaliev, deputy director for major capital projects. As TCO began to increase its oil production, the joint venture initiated a series of major capital projects from 2000 to 2012 that ultimately eliminated continuous flaring and reduced its overall flaring volumes by 92 percent. 
+Recognizing the success of TCO’s 
+efforts to reduce flaring, the Global Gas Flaring Reduction Partnership, a public-private partnership launched by the World Bank in 2002, awarded TCO the Excellence in Flaring Reduc-tion Award at its 2012 conference in London. 
+“Flaring reduction minimizes 
+environmental impacts. Our process improvements also allow us to capture gas that would otherwise be flared and to commercialize it to meet the demand for affordable energy,” said Mike Jennings, TCO’s general manager for Operational Excellence and Health, Environment and Safety.
+Reducing Sulfur Inventory
+Tengiz crude oil contains some of the highest concentrations of sulfur in the world. As a result, managing the large amounts of sulfur generated during oil and gas processing is a key operational issue for TCO. Historically, 
+Left:  At a Tengiz Field processing unit, sour 
+gas is separated from crude oil. Approximately one-third of the gas produced is reinjected to maintain pressure in the reservoir and eventually help recover more oil.18
+“The study showed that sulfur pads in 
+Tengiz had no impact on the nearest community and no measurable impact on groundwater, air or soil,” said Rzabek Artygaliev, TCO’s general manager for Policy, Government and Public Affairs. The results were published and presented at a public hearing in 2007. 
+While this study showed no measurable 
+impacts related to TCO’s activity, the ICC is using the results to inform the development of technical regulations 
+and industry standards for better sulfur handling and storage. Upon comple-tion, these will be presented to the Republic of Kazakhstan for review and implementation as national standards.
+As part of its own sulfur management 
+program, TCO has reduced the volume of sulfur stored on open-air pads by more than two-thirds from peak quantities in 2005. To shrink its sulfur inventory, TCO pr ocesses  sulfur into 
+a number of marketable products. As a result of these efforts, by the end of 2012, TCO had reduced its sulfur inventory to approximately 2.9 million tons, down from a peak volume of 9 million tons. By 2015, TCO expects to have reduced its sulfur inventory by 95 percent.
+Conserving and Treating Water
+TCO, like similar operations throughout the world, requires access to viable quantities and qualities of water in order to operate. “The availability of fresh water is critical to many 
+industries, and the oil and gas industry is no exception. Global population growth and an increasing demand for fresh water are pressuring industry to achieve more sustainable operations and water use,” said Jan Slange of Witteveen+Bos Kazakhstan, an engineering firm that works with TCO on water conservation.
+Fresh water is supplied to TCO by pipe-
+lines from Kazakhstan’s Kigach River, which is a tributary of the Volga River. The water traverses more than 310 miles (500 km) of an industrialized region of western Kazakhstan before arriving at Tengiz. TCO’s reliance on a single source of water was identified as a potential supply risk several years ago. 
+TCO is addressing this risk by con-
+serving fresh water through reuse and recycling. This strategy is part of a water management plan that includes two facilities that are expected to reduce the volume of water required from the Kigach River by about 25 per-cent of the current volume. The first facility, to be completed in 2013, will treat an average of 1.6 million gallons per day of wastewater generated by TCO’s employee and contractor living facilities. The second facility will recycle water used for industrial purp oses at 
+TCO’s plants. When completed in 2014, the facility is expected to yield 950,000 gallons per day of recycled water for use at the Tengiz plant. 
+“Water treatment and recycling facil-
+ities are examples of the sustained progress to protect and conserve natu-ral resources,” said Nick Thomas, the treatment facility’s project manager. “TCO looked at its water use and made changes that are mutually beneficial to its business and the environment.” 
+ Listen to TCO’s Ulzhan Shonataeva describe 
+her development assignment at Chevron in California at Chevron.com/CR2012/TCO.TCO has achieved a 
+68% 
+reduction
+in its sulfur inventory 
+since 2005 Above:  In addition to crude oil, Tengizchevroil produces liqueﬁ  ed petroleum gas, dry gas and four 
+forms of sulfur (liquid, granulated, ﬂ  aked and blocked). A natural resource for Kazakhstan, sulfur is a 
+stable, nontoxic solid that is important to animal and plant life.19
+We believe that respecting the environment and 
+biodiversity can be compatible with providing energy. 
+The protective measures we take are based on our awareness of the value of 
+the natural world and the importance of conserving the rich variety of life on Earth, its ecosystems, species and the ecological pr ocesses  that support them. 
+Chevron’s Biodiversity Statement expresses  our commitment to incorporating 
+biodiversity considerations into the evaluations and decisions regarding our capital projects. Our employees work to protect habitats near our operations and share their best practices through the Chevron Biodiversity Network.
+Our Operational Excellence Management System includes our Environmental, 
+Social and Health Imp act A ssessmen t (ESHIA) proc ess, which requires all new major 
+capital projects to be evaluated in order for us to understand potential negative impacts and avoid, minimize and mitigate them where possible. The ESHIA process begins early in our planning and includes stakeholder engagement throughout the life of a project.
+Because we often operate near ecologically sensitive areas, under the ESHIA process, 
+we conduct a baseline asses sment of existing environmental conditions, such as the 
+presence of habitats or fishing grounds, near our capital projects.
+The asses sment results are incorporated in to project planning to make positive 
+contributions to biodiversity conservation and facilitate communication with regulatory agencies and our partners.
+For more details, please visit Chevron.com/Biodiversity.
+Chevron employees in Angola conduct annual sea turtle surveys, which include night monitoring, 
+shown here, to assess  population demographics and nesting frequency.Overview
+Biodiversity20
+For more than 75 years, Chevron has played a major role in Angola’s energy 
+sector. Whether operating during periods of stability or unrest,  we have 
+been contributing to the growth and prosperity of the country and its people. Cabinda Gulf Oil Co. Ltd., Chevron’s wholly owned subsidiary, is the country’s largest foreign oil-industry employer. Our offshore operations provide energy while conserving ecosystems and supporting the livelihoods of fishermen.Angola
+Conservation Through Collaboration
+Chevron environmental supervisor 
+Margarida Peliganga is part of a team that protects endangered turtles that come ashore to breed, dig sandy nests and lay their eggs on the beaches at Chevron’s Malongo oil production facilities near Cabinda, Angola.
+“It’s inspiring to witness nature at work, 
+starting with the adult turtles coming ashore and later seeing hundreds of hatchlings scamper toward the ocean for the first time,” said Peliganga. 
+The sea turtle conservation program 
+helps protect the endangered olive ridley sea turtle from poachers, 
+dogs, flooding and erosion that can disrupt the turtles’ habitat. Annual counts of nesting turtles contribute to international research databases and environmental impact a ssess-
+ments. Since the monitoring project began nine years ago, program partners have documented approxi-mately 1,400 nests and more than 48,900 hatchlings. Sea turtle monitors tagged 157 turtles for tracking.
+The program is one example of 
+Chevron’s environmental steward-ship efforts in Angola. Through conservation partnerships and collabo-
+ration, we implemented programs to manage our environmental footprint, such as locating facilities to safeguard sensitive habitats, protecting marine mammals through cooperative science and management, and reducing offshore flaring during the oil produc-tion process.
+Above:  Humpback whales are often seen off-
+shore Angola when the species visits western Africa for mating and calving.21Angola LNG Protects Habitats
+Chevron has a 36.4 percent interest in Angola LNG Ltd., a company that owns an onshore development to liquefy and export natural gas at the mouth of the Congo River Basin. When the location of the liquefied natural gas (LNG) facility was being determined, the Angola LNG joint venture used Chevron’s Environmental, Social and Health Impact Asses sment (ESHIA) 
+process to understand the area’s environmental and social conditions. 
+Sheryl Maruca, senior scientist and 
+former Health, Environment and Safety manager for the Angola LNG project, said the ESHIA results helped to identify a proposed site location that would minimize potential impacts to habitats, the local community and livelihoods. “The asses sment identified 
+mangrove areas and other sensitive habitats, culturally important sites, and areas used for farming,” she said. “This led to a proposed plant site on the north side of an existing service and supply base for offshore fields.” 
+After removing vegetation and 
+unexploded ordnance from past conflicts, we discovered olive ridley turtles nesting on the north side of the site. Through Chevron, Angola LNG partnered with the Wildlife Conserva-tion Society (WCS) to develop an areawide biodiversity action plan. This plan included a community-based monitoring and conservation effort to safeguard the turtles and their nests, as well as community education on the importance of preserving the marine turtle population. After two years, Angola LNG staff took responsi-bility for the program and today continue to manage more than 9 miles (14 km) of coastline.
+Monitoring Marine Mammals
+Marine animals, including coastal dolphins, West African manatees, offshore cetaceans and sea turtles, are increasingly under threat from activities such as overfishing and vess el traffic. 
+As we explore for energy resources 
+along Angola’s coast, we partner with local fishermen and biologists to monitor marine mammals during seismic operations and reduce potential disturbance from the sound waves used to detect oil and gas formations in the rock deep beneath the ocean floor. This monitoring involves continually watching for marine animals before and during seismic operations. The program also establishes an exclusion zone where operations are suspended when marine animals are spotted until they swim out of range. Chevron adheres to the Joint Nature Conservation Committee guidelines for minimizing the risk Malongo Laboratory 
+Gets Results
+At our Malongo laboratory, 63 Angolan 
+technicians test thousands of samples monthly to help protect water quality and ensure the integrity of our operations and the quality of our products.
+Each morning, samples of produced water 
+from our onshore and offshore facilities are analyzed to make sure they are within our specifications and regulatory limits. 
+Laboratory technicians test and certify 
+Chevron products that are sold in Angola, such as crude oil and liquefied petroleum gas, as well as products used in our operations, such as jet fuel, diesel and kerosene. 
+The lab also is equipped to identify the 
+source of crude oil spilled in water based on its “fingerprint.” Because each type of oil is unique, the fingerprinting tech-nique uses biomarkers to determine the oil’s characteristics. A database helps match the oil to its source. Results are shared with the Ministry of Environment and the Ministry of Petroleum and then become public.
+of injury and disturbance to marine 
+mammals from seismic surveys. 
+In 2008, Chevron partnered with 
+WCS to introduce passive acoustic monitoring in the south Atlantic Ocean to assess  humpback whale breeding 
+activity. This surveying technique resulted in the first complete documen-tation of the full migratory timing and seasonal presence of humpback whales that spend their winters off the Angolan coast. During this period, WCS was also able to document the presence of blue whales through recordings of their species-specific vocalizations. These recordings provided the first modern evidence of this endangered species off Angola since the 1970s. 
+Chevron is also collaborating with 
+WCS to develop a more comprehensive asses sment of marine mammals 
+48,900 
+hatchlings
+have been documented 
+since sea turtle monitoring began nine years ago
+Above:  Near Chevron operations, a sea turtle 
+awareness campaign was initiated within the workforce and local communities. Researchers and their assistants from local villages regularly patrol the beach and protect nests on the Atlantic coastline. Sea turtles are identiﬁ  ed 
+and tagged in order to study their migratory paths and biological cycles.22
+Above:  A team of employees and wildlife advisors from the Angola liqueﬁ  ed natural gas joint venture 
+free a beached humpback whale at the mouth of the Congo River. The whale swam off into the ocean safe and unharmed. The ongoing protection of wildlife is the result of our commitment to preserve the biodiversity of the areas in which we operate.
+farther north along the Atlantic coast-
+line, where data on marine mammals are limited. Through these and other related studies, Chevron is helping to make available new information on vulnerable species in poorly researched areas. 
+“Establishing baseline information 
+in this region will be valuable as Chevron looks to improve mitigation and monitoring based on scientific information. More broadly, the infor-mation on marine mammals will be helpful for improving our understand-ing of how important these areas are for whales and dolphins,” said Howard Rosenbaum, Ph.D., director of WCS’s Ocean Giants Program.
+Reducing and Eliminating Flaring 
+To minimize our environmental footprint, we have been eliminating routine flaring of natural gas at several offshore oil and gas production fields. The Cabinda gas plant became fully operational in 2010 and reduced onshore flaring by 7 million cubic feet per day (mmcf/d). At the Chevron-operated Block 0 concession offshore Cabinda, where we have a 39.2 percent interest,  a gas management project completed in 2011 reduced flaring by 
+70 mmcf/d of natural gas. The project made modifications to flare and relief systems on 14 platforms in both the Takula and Malongo fields. 
+With startup scheduled in 2013, the 
+$10 billion Angola LNG project will capture and market offshore gas that is currently flared from producing blocks in Angola north and south of the Congo River Canyon. The Angola LNG plant is expected to receive 1 billion cf/d of natural gas for export and domestic use from a new 264-mile (425-km) network of offshore and onshore pipe-lines connected to areas that include the Chevron-operated Blocks 0 and 14 offshore Angola. Through Chevron’s 
+ESHIA pr ocess, the local Soyo commu-
+nity was engaged to help identify nonintrusive pipeline routes.
+By 2015, a $2 billion investment 
+at our North and South Nemba fields off the Cabinda coast includes plans to inject gas for enhanced oil recovery and to eliminate routine flaring. 
+Supporting Livelihoods 
+Fishing is a primary means of subsist-ence in Cabinda. In 2009, we launched a program to strengthen the capa-
+bilities of small-scale fishermen to increase the amount of their catch. The program is conducted in partner-ship with the Angolan Ministry of Fisheries and World Vision Interna-tional, a global humanitarian organiza-tion working to alleviate poverty. More than 3,000 fishermen and fish traders from Cabinda Province received training, tools and equipment. Another program helps fishermen reduce operating costs through access to credit, equipment and supplies. So far, 113 fishermen and 474 fish traders received microloans.
+“We collaborated with Chevron and 
+its partners to help protect fishermen’s rights to sustainable livelihoods. We also worked to design and fund programs that allow fishermen to improve deep-sea fishing techniques and maintain equipment,” said Clemente de Oliveira Paulo of World Vision. “These projects will help Angolans now and in the future.”
+Historically, local fishermen have at 
+times raised concerns about water quality and reduced fish levels. 
+“We recognize that perceived negative 
+impacts to fish will translate to a high level of concern from communities and regulators,” said Daniel Joao, Health, Environment and Safety supervisor for Cabinda operations. 
+Since 2006, we ha ve been a ssessing 
+water quality and fish health in Cabinda to respond to community concerns. The program involves monitoring through the collection of water and sediment samples and the analysis of fish tissue. The analysis, conducted by an independent U.S. laboratory, assesses  whether trace contaminants 
+related to oil and gas operations pose a concern for human consumption or for the food chain. The analysis has found no such concern or link. 23
+Overview
+Economic Development
+Chevron Australia’s Mika Thuijs and Jim Rentschler 
+review plans at the Wheatstone Project site in Western Australia. The project is expected to deliver energy, jobs and economic benefits for decades.We believe that enhancing economic conditions 
+improves the quality of life for people in the communities near our operations. 
+Working with governments, development agencies, research institutions and other non-
+governmental organizations (NGOs), we establish programs that engage the local workforce, advance vocational training, and support local small busin esses and suppliers. 
+LOCAL WORKFORCE —  In Australia, the Gorgon and Wheatstone natural gas projects, 
+at peak construction, will generate as many as 16,500 jobs.
+ VOCATIONAL TRAINING —  In Indonesia, we built and sponsored two polytechnic 
+schools to train Indonesian students for jobs in the industrial sector. More than 1,100 students have graduated from Politeknik Caltex Riau, the province’s first polytechnic university. In 2012, the second class of students graduated from Politeknik Aceh, bringing the total number of graduates at that school to 314.
+SMALL BUSINESS AND SUPPLIER DEVELOPMENT —  In 2012, Chevron spent more 
+than $60 billion on goods and services around the globe. We are committed to supporting economic growth by providing contracts and purchase orders associated with our develop-ment projects to  local busin esses. 
+We also pursue thought leadership in this arena. In 2011, Chevron and the Center for Strategic 
+and International Studies (CSIS) launched the Project on U.S. Leadership in Development, which is designed to generate innovative thinking on how U.S. public and private sectors can partner with NGOs and foreign governments to advance international economic and commu-nity development. Our partnership with CSIS includes the Chevron Forum on Development, a public dialogue on pioneering ideas and approaches to economic development, with a special focus on the business sector.
+For more details, please visit Chevron.com/EconomicDevelopment.24
+Australia
+Contributing to Economic Growth
+Chevron’s $29 billion Wheatstone natural gas project is transforming the remote 
+coastal community of Onslow in Western Australia, bringing new residents and investment in the town’s infrastructure and services. Our partnerships with the community, various levels of government and local suppliers will help shape the town’s future as we develop vast natural gas resources offshore.
+Above:  Chevron is supporting the community’s 
+vision of Onslow being a thriving place in which to live and work.
+of stakeholders to promote responsible 
+development. “We recognize our responsibility to the Onslow commu-nity, and we are working with our partners to maintain safe and environ-mentally responsible operations,” said Eric Dunning, general manager of the Wheatstone Project.
+Continuing a History 
+of Responsible OperationsThe Wheatstone Project is emerging at Ashburton North, just 7.5 miles (12 km) The remote town of Onslow is located 
+in the Pilbara region on Australia’s northwestern coast, more than 800 miles (1,287 km) from Western Australia’s capital city of Perth. Onslow’s population usually peaks at approximately 900, when winter visitors come to escape the colder southern climates.
+“Onslow is off the beaten track,” said 
+Sean Clarke, a Chevron contractor who has lived and worked in the region for 15 years. “Amenities here are limited; and the area outside of town is barren, but beautiful.”It is here that Chevron has become 
+part of a fundamental transformation. The Wheatstone Project will extract natural gas to fuel growth and promote energy security in Australia and beyond. The project includes the country’s largest offshore gas processing platform and is expected to increase domestic gas supplies by 20 percent, providing an important new energy source for consumers in Western Australia. It will also add nearly 9 million tons of liquefied natural gas (LNG) annually to the rapidly developing Asian market. 
+Since the project began, Chevron 
+has been working with an array 25
+west of Onslow, and continues
+Chevron’s longstanding ties to Australia. 
+In 1941, we began marketing petroleum 
+products in the country and have been developing oil and gas there since the 1950s. Our nearly 50-year track record of producing oil on Barrow Island, 31 miles (50 km) offshore Western Australia, shows our commitment to responsible development. Barrow Island is a Class A nature reserve, the most highly protected type of public land in Western Australia.
+“Chevron has demonstrated that 
+with proper management, development and conservation can coexist,” said Roy Krzywosinski, managing director of Chevron Australia Pty. Ltd. 
+Just over three years ago, Chevron 
+began developing Gorgon, the world’s largest natural gas project. The vast natural gas resources lie 43.5 miles (70 km) northwest of Barrow Island. At peak construction, Gorgon will provide direct and indirect employ-ment for approximately 10,000 people.
+Offering Economic Opportunity 
+Similarly to Gorgon, the Wheatstone Project is expected to create as many as 6,500 direct and indirect jobs, according to independent estimates, 3,500 of which will be construction jobs. 
+“Wheatstone is creating enormous 
+employment and industry participation opportunities for the state and trans-forming Onslow, as well as cementing Western Australia’s status as a major global energy provider,” said Western Australian Premier and State Development Minister Colin Barnett.
+Thousands of jobs are being offered 
+through the project’s contractors, from carpenters and crane operators to scaffolders and riggers. Many of these opportunities include training and apprenticeship programs. “We will continue to work closely with 
+government and other stakeholders to enhance regional employment and training, indigenous employment, and opportunities for small business to participate in the project,” said Dunning.
+Since construction began, many local 
+companies have grown. Already, we’ve committed more than $8 billion in contracts and purchases to Australian busin esses. T he Onslow-based civil 
+engineering construction company NTC Contracting has grown from 40 to almost 70 employees, largely because of work for Wheatstone. 
+Another Pilbara company benefiting 
+from the project is Raw Hire, owned and operated by Sean and Lisa Clarke. The company supplies vehicles to meet Chevron’s specialized needs. 
+“We started the company in 1998 with 
+one vehicle. It’s been a process of doubling our fleet every year, and there are no signs we’ll be slowing down,” said Sean Clarke. Today, Raw Hire has a staff of 40 and more than 1,300 vehicles in its fleet of four-wheel-drive trucks, buses and water carts. The company provided 40 vehicles for Wheatstone, with more planned for delivery.
+Contributing to Onslow’s Growth
+Chevron began implementing its Environmental, Social and Health Impact A ssessmen t (ESHIA) process 
+Improving Hearing
+Chevron is partnering with Telethon 
+Speech and Hearing Centre for Children to offer a mobile “Earbus” clinic in the Pilbara region of Western Australia, a program that screens infants to 12-year-olds for middle-ear health and basic hearing. 
+Hearing impairment in Australia affects 
+one in six citizens. Aboriginal Australians experience ear disease and associated hearing loss at up to 10 times the rate of other Australians, according to a 2010 government study. Research conducted in 2012 in the western Pilbara region found that 60 percent of the 600 Aboriginal children given a hearing test were unable to pass. 
+“Early intervention in Aboriginal child 
+health — particularly when there is a threat of hearing damage — can assist with school retention, education and training, potentially helping create life-changing outcomes for children with middle-ear infections,” said Peter Fairclough, Chevron Australia general manager of Policy, Government and Public Affairs. 
+Today, the Pilbara program is screening 
+approximately 720 children annually, which represents about 48 percent of the indigenous child population in the area. Children with confirmed problems are referred to the Earbus general practitioner. 
+Telethon Speech and Hearing Centre 
+former CEO Paul Higginbotham added, “Chevron’s investment in the future of Aboriginal children has allowed us to deliver ear health services and support into the region with confidence.”Above:  Lara Shur, Telethon Speech and Hearing 
+Centre manager of Audiology Services, treats a young Pilbara patient.
+Chevron is providing 
+more than 
+$250 million
+toward community 
+infrastructure projects in Onslow26
+The Wheatstone 
+Project is expected to create as many as
+6,500
+direct and indirect jobsfor Wheatstone in 2009. The ESHIA 
+process is Chevron’s corporate require-ment for all new major capital projects. It is used to identify potentially significant negative impacts and to develop plans for avoiding, minimizing and mitigating them. Stakeholder engagement throughout the life of a project is central to the ESHIA process.
+From March 2009 through March 2010, 
+we consulted more than 340 stake-holders about aspects of the community and its needs. We continue to main-tain regular communication with Onslow residents.After this extensive engagement 
+process, Chevron’s Wheatstone Project and the Western Australian state government agreed that Chevron would provide more than $250 million toward community infrastructure projects, including upgrading Onslow’s roads, airport, power grid and water system as well as its health clinics, schools and recreational facilities. Additional plans include funding new emergency service facilities, a desalina-tion plant to improve the local water supply and a new gas-fired power plant.
+Chevron has also committed $20 million 
+to the Onslow Community Development Fund, which received an additional $10 million state government contribu-tion. The fund will be used to improve existing infrastructure and sporting and youth facilities, in support of the community’s vision for Onslow. 
+Minister for Regional Development 
+Brendan Grylls said the Onslow infrastructure improvements are vital to address the needs that will come from the projected population growth. “This doesn’t mean just water and power — the community needs recrea-tional facilities, services and amenities that make a place enjoyable to live in,” said Grylls. “We want the people who move to Onslow to have a fantastic lifestyle, and the Onslow Community Development Fund will play a big part in achieving this.”
+Longtime Onslow resident Peta Wilson 
+believes the changes to Onslow during the next five years will improve the community. “I see Onslow becoming a good place for families, better than it ever was before,” she said.
+Enhancing Community Partnerships 
+In 2010, Chevron reached an agree-ment with the Thalanyji, the traditional landowners who live in the Onslow area. The agreement is a road map for how Wheatstone can create educational, employment, contracting and business opportunities for 
+Aboriginal people. 
+A range of T halanyji busin esses, 
+from pipe laying to security and site services, have been awarded sub-contracts on the Wheatstone Project, which has generated further local job and training opportunities.
+“Our commitment to Aboriginal 
+employment and partnerships has resulted in tangible outcomes, such as additional health workers in the region, and Aboriginal trainees and apprentices joining our opera-tions,” said Krzywosinski. 
+In September 2011, six Onslow resi-
+dents, including five Aboriginal students, completed a work prepara-tion program at the local job training center and have since begun work on the Wheatstone Project. Student James Tittums said he became involved in the training program to further his work options in town. 
+“I wanted a good local job in Onslow,” 
+he said. “I’ve secured this concreting job now on the Wheatstone Project, so my skills will be put to good use. But, I also want to continue training while on the job.”
+Chevron is also supporting educational 
+programs in Onslow that improve student retention and increase literacy and math skills.
+“The Wheatstone Project has a life 
+span of more than 40 years, and we invest in partnerships with an aim of delivering lasting outcomes for the community,” Krzywosinski said. 
+ Meet one of our local suppliers in 
+Australia at Chevron.com/CR2012/Australia.Above:  Jamie Paterson works on the 
+Wheatstone LNG project’s desalinated-water pipeline. Seawater is used for construction activities and to supply the desalination plant, which provides potable water for the work-force. More than 1,200 workers are now onsite building the project’s basic infrastructure.27
+Chevron sponsors Workplace Wellness presentations 
+in Lagos, Nigeria. This peer education program includes HIV/AIDS, malaria and tuberculosis training for employees as well as members of the community.Overview
+Social Investment
+We have learned through decades of experience 
+that Chevron’s business success is deeply linked to society’s progress.
+To promote social progress, we cultivate partnerships focused on health, education and 
+economic development. All three are building blocks for improving the quality of life in communities. Since 2006, we have invested nearly $1.2 billion in more than 100 countries around the world to fund initiatives that invigorate and foster economic growth in local communities. In 2012, we invested more than $270 million in these programs.
+We work with local and national governments, nongovernmental organizations and com-
+munity partners to establish trusting and mutually beneficial relationships. Taking time to understand the needs of communities first and then developing solutions together is critical to achieving success.
+ 
+HEALTH  — Chevron operates in areas of the world that are at the epicenter 
+of HIV/AIDS, tuberculosis and malaria epidemics. To advance global health, we support employee, f amily and community programs to prevent and treat HIV/AIDS and 
+other diseases. We are a par tner in the United Nations’ global plan to eliminate new 
+HIV infections among children by 2015 and keep their mothers alive.
+EDUCATION  — Working with local communities and nonprofits, we seek to improve 
+education from kindergarten through high school, as well as career and vocational training, to help foster opportunities for people in a 21st-century economy. In 2012, we invested $45 million in education worldwide, which includes major funding for programs that emphasize science, technology, engineering and math education. 
+ 
+ECONOMIC DEVELOPMENT  — We partner with governments and community 
+organizations to create a strong environment for job creation and business investment. We invest  in programs that promote  self-suff iciency and we ment or busin esses that 
+become our suppliers.
+For more details, please visit Chevron.com/Community.28
+Health
+Partnering for an HIV/AIDS-Free Africa
+In Angola, Nigeria and South Africa, Chevron and its partners are combating 
+HIV/AIDS to improve the health of the company’s workforce and local communities. Our commitment to fighting the virus co ntinues with a focus on eliminating 
+mother-to-child transmission of HIV in these countries by 2015.
+Above:  To support economic development for 
+rural women in South Africa, Chevron partnered with USAID and the Small Enterprise Foundation to fund the Intervention With Microﬁ  nance for 
+AIDS and Gender Equity.
+In 2012, we announced an initiative 
+to aggressively combat crisis-level mother-to-child transmission of HIV in Nigeria, Angola and South Africa by partnering with nongovernmental organizations (NGOs), such as the Business Leadership Council; Pact; mothers2mothers; and the Global Fund to Fight AIDS, Tuberculosis and Malaria. These partnerships are part of our $20 million commitment made in June 2011 at the United Nations High-Level Meeting on AIDS to support Dr. Chinwe Okala, Chevron’s public 
+health physician in Nigeria, has colleagues and friends living with HIV/AIDS and has lost people close to her because of the disease. Each day she works to stem the impact of HIV/AIDS on employees and community members in a country where mother-to-child transmission of the disease is a stark reality.
+“In Nigeria, there are a disproportion-
+ate number of women living with HIV who are giving birth to HIV-positive babies. Chevron thinks that’s unaccept-able because it’s preventable, and we are fighting it with programs involving testing, treatment, education and support,” said Okala. Chevron partners with global, regional 
+and local organizations to combat HIV/AIDS and implement programs in communities where we operate. We have been part of the fight against HIV/AIDS since 1986, when we joined 13 other companies in our home state of California to promote education and reduce stigma in the workplace. 
+In the 1990s, we expanded our efforts 
+internationally, and in 2005, we became the first oil and gas company to implement a global HIV/AIDS policy for its employees. From 2008 to 2013, we will have invested more than $29 million in HIV/AIDS-related programs in Angola, Nigeria and South Africa.29“Chevron was one of the first companies 
+to understand that stopping babies from being born with HIV is the best return for investment,” said Michel Sidibé, executive director of UNAIDS and undersecretary-general of the United Nations. “They understood that we will be able to completely stop the epidemic if we come together.” 
+Expanding Care
+To address mother-to-child trans-mission of HIV at Chevron-owned and -operated clinics in African communities, we are expanding care facilities and providing doctors, nurses, midwives and psychologists.
+At our Angola clinics, 169 professionals 
+focus on the health and well-being of our employees and their dependents. From 2011 to 2012, the clinics treated more than 140,000 patients. And in four Nigerian states, we donate essen tial drugs to five hospitals, two 
+of which specialize in maternal and child care. We also built and donated a center at St. Kizito Clinic in Lekki, Lagos, to help fight infections in HIV/AIDS patients. 
+“Our employees and their families 
+are more knowledgeable about the disease and want to know their status. If needed, they can get immediate medical assistance,” said Dr. Judith the global plan to eliminate HIV infec-
+tions among newborns by 2015 and keep their mothers alive.
+“This is not a battle any of us can 
+win alone. But together, we stand a chance,” said Rhonda Zygocki, Chevron executive vice president for Policy and Planning.
+The risk of mother-to-child transmis-
+sion is an unfortunate reality in Nigeria, Angola and South Africa. Reports by UNAIDS, the Joint United Nations Programme on HIV/AIDS, reveal the challenges facing these countries. South Africa has the largest number of people living with HIV in the world, totaling 5.6 million HIV-positive people in 2009. South Africa’s 2012–2016 National Strategic Plan on HIV, STIs and TB reveals that one in five pregnant South African adolescents is HIV-positive. With approximately 3.4 million people living with HIV, Nigeria has the second-largest number of people living with HIV/AIDS in the world, and approximately 72,000 babies annually are born HIV-positive. In Angola, an estimated 7 percent of the country’s HIV cases are caused by mother-to-child transmission.
+Our company programs have made a 
+remarkable impact. For eight years in Angola and 12 years in Nigeria, we have had no reports of mother-to-child trans-mission of HIV among our employees or their qualified dependents.
+Our Workplace Wellness 
+HIV/AIDS program in Nigeria has reached approximately
+20,000
+employees and community members
+Above:  A Chevron physician counsels a mother 
+before her baby is tested for sickle cell anemia. Screening, testing, diagnosis and treatment for the disease start with parental education.Model Health Program to 
+Fight Sickle Cell Anemia
+Chevron partnered with the Republic of 
+Angola, Baylor College of Medicine and Texas Children’s Hospital in 2011 to create Angola’s first comprehensive program to screen and treat newborns for sickle cell anemia. Sickle cell disease is an inher-ited disorder that causes susceptibility to infection, hemolytic anemia, sporadic blockage of blood v essels and organ 
+damage. In Africa, no universal screening program for newborns exists. 
+“In many countries in sub-Saharan Africa, 
+sickle cell is a major contributor to child mortality, perhaps accounting for 20 or 25 percent of all deaths of children under five years of age,” said Dr. Mark Kline, physician in chief at Texas Children’s Hospital. “In the past, several programs without government support haven’t worked. In this case, the government, the Ministry of Health, and the First Lady of Angola were all behind the initiative. Chevron provided the catalytic funding, and without Chevron’s support, this program wouldn’t have gotten off the ground.” 
+Chevron is providing $4 million over 
+four years for the Angola Sickle Cell Initiative. The program began testing in July 2011 at two large maternity hospitals in Luanda, which each have 50 to 100 births per day. Over 18 months, the pilot program screened more than 33,000 babies, resulting in approximately 7,000 testing positive for the sickle cell trait. And 269 children have been referred for treatment of sickle cell disease. Angolans do the testing, laboratory work and clinical work.
+In addition to testing the babies, medical 
+staff educate families about sickle cell disease. Babies with the disease begin receiving simple, cost-effective lifesaving treatments involving immunizations and penicillin to protect them against lethal bacterial infections.
+The program is considered a model 
+that can be replicated throughout Africa and applied to diagnose other diseases. 
+“The pilot program shows that comprehen-
+sive care can save lives,” said Dr . P atrick 
+McGann, assistant professor of pediatrics 
+at Baylor College of Medicine.30Aguiar, Chevron clinic superintendent 
+in Malongo, Angola.
+Chevron supports the participation of 
+doctors in Baylor College of Medicine and Texas Children’s Hospital’s Global Health Corps who provide care for mothers and children and train hundreds of health professionals in Angola and Liberia. The doctors focus on prevention, treatment and research for HIV/AIDS, sickle cell anemia, malaria, cancer and other diseases.
+Education Is Critical
+We believe that employee awareness is critical to combating HIV/AIDS. In Angola and Nigeria, we train employees as peer educators to encourage their colleagues and qualified dependents to know the facts of the disease and get tested.
+“Special attention is being paid to 
+HIV-infected mothers who could transmit the disease through breast-feeding. In Angola, surveys found that because of cultural prejudice, mothers were afraid to not breastfeed their babies,” said Dr. Huma Abbasi, general manager of Chevron’s Health and Medical department.Chevron supplies baby formula 
+and provides psychologists to work with new mothers. We also encourage confidential, voluntary testing for employees and qualified dependents, and we emphasize that there are no negative repercussions for getting tested and seeking treatment.
+“In the past, in South Africa, many 
+people struggled to talk about HIV/AIDS,” said Miranda Anthony, social investment manager for Chevron South Africa. “Our partner-ships are helping communities face this struggle and create hope so they understand that the virus is not the end of the world.”
+Broadening Community Partnerships
+Chevron is advancing local-partnership models in South Africa, Nigeria and 
+Angola. We collaborated with the 
+Western Cape Department of Social Development, the nonprofit Heavenly Promise and community leaders to establish the Du Noon Community Home-Based Care Centre, which provides meals and services for homebound people with HIV/AIDS. We are also partnering with 
+mothers2mothers, a sub-Saharan African NGO, to establish a mentor program in Nigeria. According to Dr. Mitchell B esser, medical director 
+and co-founder of mothers2mothers, the staff is made up of former patients who found out they were HIV-positive and were fearful about their health and the health of their babies. 
+“When they become mentor mothers, 
+they’re employed, they have economic opportunities, and they become empowered in their households and their communities. They have opportu-nities that they may never have had before,” he said.
+We also approach community educa-
+tion by partnering with Nigeria’s National Agency for the Control of AIDS to mentor small and medium-size enterprises (SMEs) to complement national efforts in response to the HIV pandemic. We started with 10 SMEs in Lagos in 2010, and in 2012 extended the program to 20 new SMEs in the Federal Capital Territory, Kogi and Nasarawa states. Over 10 months, there has been a 64 percent increase of SME and community member participation in HIV counseling, testing and treatment referrals. 
+We are supporting efforts of the 
+Business Leadership Council, a private-sector initiative focused on ending transmission of HIV from mothers to children by 2015. Additionally, we are partnering with the nonprofit Pact to establish educa-tional programs in Nigeria’s Bayelsa State. “If a mother never knows she is living with HIV, she can do little to prevent infecting her baby,” said Mark Viso, Pact’s president and CEO. “That has to change, and Chevron is helping make that change possible.” 
+ Meet Dr. Huma Abbasi, general manager 
+of Chevron’s Health and Medical department at Chevron.com/CR2012/Health.
+Above:  To help ﬁ  ght tuberculosis and other infections common to HIV/AIDS patients, Chevron and its 
+Agbami Field partners built seven chest clinics across Nigeria.31
+How does Chevron address 
+these issues?
+Our approach is grounded in policy, 
+partnerships and perseverance. 
+This starts with a corporate policy 
+to support employees. Some of our largest operations are located where the grip of AIDS is the str ongest. 
+We educate our entire workforce about prevention and testing for HIV/AIDS, and we provide access to treatment and care. 
+We partner with global, national and 
+local organizations, as well as host governments, to promote the health and well-being of the communities near our operations. 
+Our clinics in Angola have treated 
+140,000 employees and community members in just the past two years. We partner with universities and hospitals to expand pediatric health care to medically underserved popula-tions in Liberia. Since 2008, we have invested more than $60 million in partnerships and programs related to HIV/AIDS, malaria and tuberculosis. 
+And we sustain our commitment. 
+We have been fighting AIDS for more than 25 years.What progress has 
+Chevron helped make in combating disease?
+Change is not only possible; it’s happen-
+ing. In our company clinics and with 
+our partners, we’ve produced remark-able results. 
+There have been no reports of mother-
+to-child transmission of HIV among our employees or their qualified dependents during the past eight years in Angola and 12 years in Nigeria. 
+To date, more than 11,000 employees 
+have taken advantage of tools in our cardiovascular health program. More than 1,500 participants have collectively decreased their risk of developing coronary heart disease in the next 10 years by an average of 10 percent. 
+Our sickle cell anemia partnerships in 
+Angola are saving lives — in the first 18 months of the program, 33,000 babies were screened and 269 treated. 
+This progress inspired our latest 
+partnership. In 2011, we joined the global fight to eliminate mother-to-child transmission of HIV by 2015. We hope our experience inspires others to do the same.What is the role of 
+multinational corporations in addressing public health issues?
+Multinational corporations such as 
+Chevron recognize that our success is tied to the health and prosperity of the countries where we operate. When public health issues put employee productivity and community well-being at risk, it is a business issue that demands action.
+We can play unique roles in address-
+ing public health issues because of our size, global experience and long-term presence in the developing world.
+First, we must be role models in 
+addressing workforce health issues. In 2005, Chevron was the first oil and gas company to institute a global HIV/AIDS policy for employees.
+Second, multinational corporations 
+can play a role in convening health-related partnerships with community organizations and offering approaches to address local health concerns that have proven su ccessful in other 
+areas of the world.Rhonda Zygocki
+Executive Vice PresidentPolicy and PlanningExecutive Interview
+On Addressing Health Issues32
+Colombia
+Chevron has a history of investing in 
+Colombian communities near our gas production facilities in La Guajira to help people create a better future. We continue to support the Laachon Mayapo Ethno-Educational Center, which provides education to more than 1,200 children of the region. 
+In 2012, we collaborated with the 
+national oil company, Ecopetrol, and other organizations to continue work-ing in identified areas of need in Wayúu communities. Through our partner-ships, we help find and maintain water sources, fund educational and health programs, provide training in sustain-able agriculture and fishing, encourage an emerging tourism industry, and support small busin esses. We have 
+maintained our support to more than 640 fishermen near the Manaure municipality through technical training and financial assistance. 
+Supporting and protecting the Wayúu 
+heritage was also a major priority for us in 2012. Chevron continued to provide training and marketing support to more than 600 Wayúu weavers, who produce colorful handmade bags, hammocks and blankets. Chevron endorsed the Wayúus exhibiting for the first time in the Círculo de la Moda de Bogotá, a major fashion event.Progress Update
+Our partnerships and programs 
+benefit our operations and local communities. Following are 2012 updates on regions covered in last year’s report. 
+Above: In the province of La Guajira, Colombia, Chevron initiated special training and marketing 
+programs and provided materials for these works of art produced by Wayúu women.
+33South Africa
+The Chevron Cape Town Refinery, 
+working with Northlink College, is addressing the skilled-labor shortage in South Africa by funding training in nationally accredited trade-skills programs. In 2012, 71 Western Cape residents were trained in skills ranging from welding to mechanical fitting. These talents are needed in the local community and help the refinery find and hire qualified workers during periodic refinery maintenance shutdowns. Thirty-two individuals have since been hired to work on shut-downs in 2012 and 2013, and eight graduates have been employed by one of Chevron’s main contractors. Three graduates received direct contracts with Chevron. 
+Indonesia
+In late 2011, Chevron Geothermal Salak, in collaboration with the Mount Halimun-Salak National Park Authority, local governments and the Indonesian Biodiversity Foundation, launched the Green Corridor Initiative. The initiative aims to empower local communities in restoring a critical ecological zone in the degraded forest — the “green corridor” — that connects Mount Salak and Mount Halimun ecosystems and serves as a wildlife crossing and water catchment area. The initiative plans to plant 250,000 trees over five years. In 2012, our employees and community members planted 20,000 trees, adding to the initial 5,000 trees planted in 2011. From January to March 2013, we planted 20,000 more trees in the forest corridor.
+Also in 2012, we facilitated local train-
+ing programs in integrated farming as an economic alternative to support conservation efforts for 40 farmers. We plan to broaden the program in 2013 by establishing an integrated farming and learning center to help ensure the sustainability of the farmers’ efforts. U.S. Northeast
+To share expertise and improve practices for developing natural gas from shale, our Appalachian/Michigan business unit (AMBU) in 2012 hosted more than 150 technical experts at an international forum in Pittsburgh, Pennsylvania. 
+In Fayette County, Pennsylvania, and 
+Marshall County, West Virginia, we formed advisory councils to inform citizens about our operations and listen to concerns. We gave drill site tours and presentations to community lead-ers, media and government officials. 
+AMBU reuses 100 percent of the flow-
+back water, 100 percent of drilling water, and 80 percent of brine gener-ated from producing wells. Overall, AMBU is reusing 96 percent of all its water and is on track to achieve its goal of 100 percent reuse.
+In March 2013, Chevron became a 
+founding member of the Center for Sustainable Shale Development, which seeks to certify compliance with more stringent operation standards in Appalachia. A coalition of energy companies, environmental organi-zations and philanthropies established the center, the first of its kind in the country. To learn more, please view Chevron.com/MarcellusBrochure.Nigeria
+Chevron provided seed-funding in 2010 for the Niger Delta Partnership Initiative (NDPI) Foundation, which was established to help alleviate poverty and promote peace in the region by building public-private partnerships in four focus areas: economic develop-ment, capacity building, peace building, and analysis and advocacy. 
+In 2012, NDPI opened the Economic 
+Development Center in Warri as a coordinating hub for development activity. Three pilot projects were launched to create jobs and increase income for Niger Delta residents within the aquaculture, cassava oil and palm oil sectors. Programs emphasize coordi-nation between farmers, producers, government agencies and banks. 
+NDPI’s first Niger Delta Development 
+Forum brought together over 180 par-ticipants from the government, private sector and development community to discuss measures to reduce poverty and promote economic development, capacity building and peace building.
+Chevron has endowed the NDPI 
+Foundation with $50 million over five years, 2010 to 2014. NDPI has also generated an additional $50 million in funding commitments from other donor partners.
+34Our people believe that success is 
+driven by operating with excellence in everything we do. We provide reliable and affordable energy with an unyielding commitment to personal safety, process safety and environmental stewardship — by doing every task the right way, every time.Performance Data
+At year-end 2012, Chevron’s worldwide employee staffing was 58,286 
+(excluding 3,653 service station employees). This represents an increase of 1.6 percent over the previous year. U.S. workers numbered 27,471 and approximately 10.4 percent were represented by unions.Global Geographic Breakdown of Employees 
+at Year-End 2012
+ North America 46.8%
+ Asia-Pacific 28.7%
+ Africa 13.8%
+ Europe/Middle East 6.6%
+ South America 4.2%35
+The Tengiz Field in Kazakhstan is among the top-
+producing fields in the world. In the reservoir, Tengiz oil is mixed with “sour gas,” hydrocarbon gas with high concentrations of hydrogen sulfide. Processing facilities, shown here, separate the oil and sour gas. For the 
+3rd year,
+Chevron received the 
+Diversity Leader Award from Profiles in 
+Diversity Journal , 
+most recently in 2012In 2012, Chevron again 
+ranked in the 
+top tier
+of the energy sector in the Carbon Disclosure Project’s questionnaireChevron’s 2012 spill 
+volume was the
+lowest 
+ever recorded36Performance Data
+Footnotes are on page 40.232
+274
+258
+331
+324 20082009201020112012Air Emissions by Sector 4, 5
+Metric tonsAir Emissions 4, 5
+Metric tons
+ Upstream   Downstream   Other
+VOCs
+SO X
+NO X221,734180,582
+125,036122,827
+134,785146,386274,146262,307
+151,861154,949
+121,914134,761275,963
+154,239
+132,17320082009201020112012
+20082009201020112012
+20082009201020112012  Upstream Downstream Other
+VOCs  2012 157,349 23,195 38
+ 2011 245,806 30,132 26 2010 229,113 33,174 21 2009 234,243 39,871 32 2008 201,209 18,648 1,878
+SOX 2012 114,606 8,193 28
+ 2011 140,355 13,849 35 2010 137,005 17,902 42 2009 135,393 16,339 130 2008 97,731 18,496 8,810
+NO X 2012 138,902 7,364 120
+ 2011 122,848 8,373 952 2010 121,627 12,155 979 2009 109,320 12,453 142 2008 95,717 12,282 26,785Average Oil Concentration in 
+Discharges to Water 6
+Parts per million
+ Upstream   Manufacturing and Chemicals
+Fines and Settlements 
+Number of environmental, health and safety 
+fines paid and settlements entered into
+YEAR  08 09 10 11 12
+Total number 564 460 524 185 229GHG Emissions by Sector 1
+Millions of metric tons of CO 2 equivalent
+ Upstream   Downstream   OtherTotal GHG Emissions by Type 1, 2
+Millions of metric tons of CO 2 equivalent
+Energy Performance 3
+Percentage improvement since 1992 baseline0.6
+0.8
+0.9
+1.1
+1.421.3
+22.9
+24.2
+24.0
+23.534.4
+36.1
+35.1
+31.8
+34.4 20082009201020112012
+34
+34
+33
+30
+28 20082009201020112012   Grid
+ Direct Indirect Credits Net
+2012 58.5 —2.2 0.0 56.3
+2011 61.6 —1.8 0.0 59.82010 63.1 —2.9 0.0 60.22009 60.3 —2.4 —0.9 57.02008 62.7 —2.4 —1.0 59.2  GHG Emissions by Source 1
+Millions of metric tons of CO 2 equivalent
+ Combustion   Flaring   Venting   Other
+7.3
+7.3
+5.7
+4.5
+4.82.2
+2.8
+3.5
+2.6
+2.48.8
+10.1
+9.7
+9.8
+10.938.0
+39.6
+41.1
+40.3
+41.3 20082009201020112012
+Petroleum Spills 8
+Number of spills
+ Spills to land   Secondary containment  
+ Spills to waterPetroleum Spills 7, 8
+Volume in barrels
+ Spills to land   Secondary containment
+ Spills to water   Volume recovered
+20082009201020112012
+12,396
+12,114
+9,342
+17,4713,092
+8,114
+10,388
+7,509
+14,3962,081201020112012
+3
+2
+2
+4
+410
+9
+13
+11
+132009
+200837year. Our emissions goal for 2013 is 57.5 million metric 
+tons of CO 2 equivalent.
+Combustion of our products resulted in emissions of approxi-
+mately 364 million metric tons of CO 2 equivalent in 2012, 
+approximately 8 percent less than the 396 million metric tons emitted in 2011. More details on flaring reduction and products combustion are provided in footnote 1 on page 40.
+GHG Emissions Intensity
+Our 2012 GHG emissions intensity was 34.2 metric tons of CO
+2 equivalent per 1,000 barrels of net oil-equivalent 
+production from Upstream operations, down from 34.9 metric tons in 2011. Our Downstream intensity was 36.4 metric tons of CO
+2 equivalent per 1,000 barrels of 
+crude oil refinery feed, down from 36.8 in 2011.
+Air Emissions
+Volatile organic compound (VOC) emissions decreased by 35 percent from 2011, largely due to the installation of abatement devices in Sumatra, Indonesia. 
+Sulfur oxide (SO
+X) emissions decreased by 20 percent 
+from 2011. This is largely due to Saudi Arabia/Partitioned Zone operations combusting less production gas than in past years.
+Nitrogen oxide (NO
+X) emissions increased by 11 percent 
+from 2011. This is partially due to improved NO X emissions 
+estimating methods for combustion sources associated with Thailand and Bangladesh operations.
+Oil Discharges to Water
+Chevron facilities make controlled wastewater discharges to surface water. In many cases, the discharges are treated, and in all cases they comply with regulatory limits on quality and oil content. Chevron reports the total cumulative amount of oil discharged to surface water, excluding spills, which are reported separately.
+In 2012, Chevron operations recorded a cumulative discharge 
+of 1,564 metric tons of oil to surface water, a comparable amount to 2011. The chart on page 36 shows that oil concen-tration in water discharges for Upstream and Gas and for Manufacturing and Chemicals were reported at similar levels in 2012 to those reported in 2011. The general trend over the past five years shows a reduction in oil discharged to surface water because of continuing improvements in Chevron’s overall wastewater management.Environmental Performance Data
+The charts and text on pages 36 through 38 describe Chevron’s environmental performance.
+Chevron acquired Appalachian/Michigan operations 
+(formerly, Atlas Energy, Inc.) in 2011, and we added these operations to our Upstream and Gas portfolio. At the time of the acquisition and in years prior, however, environ-mental performance measurement systems were not fully in place. Thus, our 2011 Corporate Responsibility Report, published in May 2012, could not report performance for these operations. In 2012, however, Chevron established environmental performance measurement systems for Appalachian/Michigan operations, and this 2012 Corporate Responsibility Report includes their environmental performance data. 
+Greenhouse Gas (GHG) Emissions
+At Chevron, we are taking significant steps to address greenhouse gases (GHGs). The use of fossil fuels to meet the world’s energy needs contributes to an increase in GHGs — mainly carbon dioxide (CO
+2) and methane — in Earth’s 
+atmosphere. We made a long-term commitment to improve energy efficiency in our day-to-day activities, which will help us manage our carbon emissions. We inventory our emissions and use innovative technologies to continually improve the efficiency of energy use in our operations. We also incorporate GHG considerations into our capital projects. For more details, visit Chevron.com/GHGManagement.
+In the Carbon Disclosure Project’s (CDP) 2012 questionnaire, 
+we ranked in the top tier of the energy sector. Our score of 88 was two points higher than the previous year’s, revealing that we continue to improve our data quality and the transparency of our GHG reporting. For additional details on Chevron’s climate change program and CDP reporting, visit Chevron.com/ClimateChange.
+In 2012, emissions were 56.3 million metric tons of CO
+2 
+equivalent, better than our goal of 60.5 million metric tons. Normal production levels and emissions are expected to resume in areas where disruptions and maintenance occurred in 2012, and emissions are expected from new facilities and facility expansions coming on line in 2013, such as the acquisition of assets in the Delaware Basin. We will seek emissions reductions through energy efficiency improve-ments and reduced flaring and venting.
+Adjusting for divestitures and acquisitions, Chevron’s chosen 
+base-year emissions in 2010 would have been 56.6 million metric tons. Therefore, Chevron’s 2012 emissions are a decrease of 0.3 million metric tons compared with the base 38Hazardous Waste
+In 2012, Chevron operations generated 931,000 metric tons 
+of hazardous waste, a decrease from the 1.01 million metric tons reported for 2011. Manufacturing hazardous-waste generation decreased in 2012 due to the divestment of the Pembroke Refinery and reduced tank-sludge disposal at the Pascagoula Refinery. Upstream and Gas hazardous-waste generation decreased due to fewer spills from Sumatra, Indonesia, operations. Fewer spills in Indonesia resulted in less contaminated soil, which is classified there as hazardous waste. The 2012 hazardous waste disposed of was 553, 000 metric tons. The 2012 amount that was 
+recycled, reused and recovered was 385,000 metric tons.
+Waste amounts are quantified using methods required or 
+recommended by regulatory agencies or authorities where applicable. In other instances, similar methods are used, including direct measurement onsite, direct measurement by transporters at the point of shipping or loading, direct measurement by waste-disposal contractors at the point of disposal, and engineering estimates or process knowledge.
+Chevron follows the regulatory definition of hazardous 
+waste and reports all amounts of hazardous waste as required. In some cases, applicable regulations may define a de minimis  quantity below which small waste streams 
+may not be deemed significant enough to be considered as hazardous waste. As Chevron follows the regulatory definition of hazardous waste where this applies, these same de minimis  quantities are used in reporting.
+Petroleum Spills 
+We continually review and improve systems to prevent spills. 
+These systems include design and maintenance of equipment to assure mechanical integrity and training of personnel on correct procedures for operating equipment.
+The number of petroleum spills and petroleum spill volume 
+in 2012 was the lowest ever recorded for Chevron. In 2012, 232 petroleum spills released 3,092 barrels, a significant decrease compared with 12,396 barrels released by 274 spills in 2011. Approximately 46 percent, or 1,408 barrels, of the total volume was spilled to secondary containment in 2012. There were seven spills greater than 100 barrels in 2012, totaling 1,200 barrels. 
+Chevron uses a tiered approach to emergency response 
+consistent with industry best practices. Chevron requires emergency response and business continuity plans that address all credible, significant risks identified by site-specific 
+risk and impact a ssessmen ts. Chevron also requires suffi-
+cient resources to execute these plans. Compliance with these requirements is tested through operating units’ annual 
+self-assessmen t and, in ca ses of higher risk, through corpo-
+rate audits. Response to smaller incidents is generally managed through operating unit plans and resources at the affected location.
+Response to major incidents may require the use of expertise 
+and resources beyond those of the affected facility. For this purpose, Chevron maintains a worldwide emergency response team. This team comprises approximately 200 employees who are trained in various aspects of emergency response and are available 24/7 to respond to a major incident at any of our operations. Team members represent a range of skill sets associated with spill and other incident response. They are medically cleared, trained in the incident command system and participate in regular exercises to maintain their skills. Three to four corporate-sponsored exercises are held annually at varying locations to test the ability of these teams and line organizations to respond to a major event. Response plans are updat ed to captur e less ons 
+learned from these exercises.
+Chevron also maintains active membership in international 
+oil spill cooperatives and access to expert external consul-tants and contractors. Chevron is a key member of the two largest global oil spill cooperatives — the Marine Spill Response Corp. and Oil Spill Response Ltd. Chevron is represented on the board of directors of these cooperatives.
+Chevron maintains contracts with a wide range of spill 
+response experts and organizations that can support us in areas that include incident management, wildlife manage-ment, oil spill and air dispersion modeling, toxicology, chemistry, firefighting, communications, shipping, and salvage. Some of these organizations also maintain stock-piles of spill response equipment.
+Additionally, Chevron participates in trade association 
+efforts to advance worldwide oil spill preparedness, including the Emergency Preparedness and Response Committee and the Spill Advisory Group of the American Petroleum Institute, and the Oil Spill Working Group within IPIECA, the global oil and gas industry association for environmental and social issues.
+Fines Paid and Settlements Entered Into
+Environmental expenditures were $2.8 billion ($1.1 billion capital expenditures, $1.7 billion noncapital expenditures). 2012 environmental fines and settlements were $91 million. This represents 3.1 percent of Chevron’s total 2012 environ-mental expenditures. Health and safety fines and settlements accounted for approximately 0.011 percent, representing $10,000, of the total fines and settlements.39Footnotes are on page 40.Performance Data
+Days Away From Work Rate 9
+Incidents per 200,000 work hours
+ YEAR  08 09 10 11 12
+ Workforce 0.05 0.05 0.03 0.04 0.03
+ Benchmark 0.12 0.09 0.09 0.08 N/A
+ Employees 0.07 0.07 0.03 0.06 0.02
+ Benchmark 0.11 0.10 0.08 0.08 N/A
+ Contractors 0.05 0.04 0.03 0.03 0.03
+ Benchmark 0.13 0.07 0.09 0.08 N/A YEAR  08 09 10 11 12
+ Workforce 0.36 0.27 0.24 0.24 0.24
+ Benchmark 0.55 0.40 0.41 0.39 N/A
+ Employees 0.31 0.32 0.22 0.22 0.20
+ Benchmark 0.47 0.42 0.33 0.33 N/A
+ Contractors 0.37 0.26 0.24 0.24 0.25
+ Benchmark 0.59 0.39 0.45 0.42 N/ATotal Recordable Incident Rate 9
+Incidents per 200,000 work hoursLost-Time Incident Frequency 9
+Days Away From Work incidents and 
+fatalities per million work hours
+ YEAR  08 09 10 11 12
+ Workforce 0.27 0.25 0.18 0.20 0.14
+ Benchmark 0.64 0.44 0.45 0.43 N/A
+ Employees 0.33 0.33 0.17 0.29 0.12
+ Benchmark 0.57 0.52 0.44 0.42 N/A
+ Contractors 0.25 0.23 0.19 0.12 0.15
+ Benchmark  0.67 0.39 0.46 0.43 N/A
+ YEAR  08 09 10 11 12
+ Workforce 5 9 5 5 8
+ Employees 0 0 0 1 1
+ Contractors 5 9 5 4 7Work-Related Fatalities
+Number of fatalities
+ YEAR  08 09 10 11 12
+ Workforce 1.01 1.85 1.03 0.99 1.48
+ Benchmark 3.70 3.20 3.10 2.70 N/A
+ Employees 0.00 0.00 0.00 0.79 0.76
+ Contractors 1.40 2.54 1.40 1.05 1.71Work-Related Fatal Accident Rate10
+Work-related employee or contractor 
+fatalities per 100 million work hoursMotor Vehicle Safety 11
+Company vehicle incidents per million miles driven
+0.05
+0.03
+0.01
+0.06
+0.06 20082009201020112012
+Global Diversity
+YEAR 11 12
+Women in total workforce 23.4 % 23.8%
+Women represented at mid-level and above 12.4 % 12.5%
+Women and non-Caucasian men represented at senior executive levels 27.5 % 26.9%
+U.S. Equal Employment Opportunity Commission Statistics
+YEAR  09 10 11 12
+Minorities among total employees 34.9 % 35.4 % 35.9 % 36.2 %
+Women among total employees 28.9 % 29.3 % 29.3 % 29.7 %
+Minorities among executives and senior managers 11.2 % 11.1 % 11.6 % 11.1 %
+Minorities among first- and mid-level managers 27.5 % 27.4 % 27.7 % 27.9 %
+Women among executives and senior managers 14.4 % 15.3 % 16.3 % 15.9 %
+Women among first- and mid-level managers 27.4 % 26.9 % 27.4 % 28.1 %
+Minorities among professionals 31.4 % 31.7 % 31.8 % 32.3 %
+Women among professionals 32.4 % 32.8 % 32.2 % 32.0 %40  Notes to pages 36 through 40
+ 1 Chevron continues to use the upgraded GHG 
+and energy reporting system (CGERS), improved by adding reporting mechanisms for electronic reporting to the U.S. Environ-mental Protection Agency. 
+  Overall, the decrease of 3.5 million metric tons 
+of GHG emissions from 2011 to 2012 was driven by the divestment of the Pembroke Refinery and Alaska operations (2.2 million) and the Richmond Refinery’s decreased production, which also had an impact on Shipping (0.6 million decrease). Decreases in production and related flaring in Angola also heavily contributed (0.5 million). Elsewhere, Indonesia converted venting to flaring, which decreased CO
+2 equivalent emis-
+sions. Increased emissions due to increases in pro duction generally offset the emissions 
+reductions. Energy efficiency improvements continue to help slow the growth of emissions.
+  Chevron calculates product emissions based on 
+total 2012 Upstream liquids, gas and coal produc-tion. The emissions factors used are from the American Petroleum Institute’s Compendium of 
+Greenhouse Gas Emissions Methodologies for the Oil and Natural Gas Industry  (2004, 2009). 
+Based on the 30.3 billion metric tons of CO
+2 
+emissions from worldwide fossil fuel combustion from the International Energy Agency’s (IEA’s) Key World Energy Statistics (2012), Chevron’s product emissions represent 1.2 percent of global CO
+2 emissions from combustion of fossil fuels.
+  The 2012 flaring and venting GHG emissions are 
+based on a flare gas volume of 794 million cubic feet per day and a venting volume of 54 million cubic feet per day. Reduced flaring in Angola and Nigeria contributed to the 11 percent reduction in flare gas volume. Reduced venting in Indonesia was the primary driver for the 74 percent reduc-tion in vented volume.
+  Chevron’s GHG emissions data are reported on 
+an equity basis for all busin esses in which 
+Chevron has an interest except as noted below. The following entities are not currently included in the Chevron corporate GHG inventory: Chevron Phillips Chemical Co., the Caspian Pipeline Consortium, the Chad/Cameroon pipe-line joint venture, Caltex Australia Ltd.’s Lytton and Kurnell refineries, and other refineries in which Chevron has an equity interest of 16 per-cent or less. These are entities over which Chevron does not have full operational control or which do not generally follow Chevron’s corporate GHG inventory protocol or a compatible protocol. Chevron continues to perform third-party verification of its GHG emissions to ensure the high quality of its reported data.
+  Chevron accounts for and reports its emissions 
+of all six Kyoto GHGs — that is, carbon dioxide (CO
+2), methane (CH 4), nitrous oxide (N 2O), sulfur hexafluoride, perfluorocarbons and hydro-
+fluorocarbons — from all direct sources of emissions. The company also accounts for and reports its indirect emissions of CO
+2, CH 4 and 
+N2O from the import or purchase of electricity 
+and steam, while also tracking for internal GHG performance management purp oses the emis-
+sions of these gases associated with the export or sale of electricity and steam. In addition to direct and indirect emissions, the company estimates and reports the CO
+2, CH 4 and N 2O 
+emissions that would result from the combustion of the solid, liquid and gas products for sale by the company.
+  Chevron facilities estimate GHG emissions 
+from all their sources and activities. A facility may exclude quantitatively insignificant, or de minimis , emissions from its sitewide GHG 
+inventory if allowed by applicable regulations. Where GHG reporting regulations do not apply, Chevron guidelines allow for exclusion of a de minimis  quantity of a site’s GHG emissions 
+from reported inventory when that facility demonstrates at least once every two years that the excluded amount remains below 3 percent of the sitewide amount.
+  Due to rounding, individual numbers may not 
+sum to the total number.
+ 2 Direct emissions come from sources within a 
+facility. Indirect emissions come from electricity and steam that Chevron imports, less the emissions credits from electricity and steam that Chevron exports. Grid credits account for electricity that Chevron exports and that is produced more efficiently than electricity from the regional or national grid. Per industry best practices, beginning in 2010, Chevron no longer accounts for grid credits in its power generation emissions.
+ 3 Chevron uses an energy index to measure 
+energy efficiency improvements across its global operations. As of 2012, that index has shown a 34 percent improvement since 1992. The Chevron Energy Index is a measure of the energy intensity of its operations, based on the estimated improvement of energy technologies and operational perform-ance. The total energy consumption of its operated assets in 2012 was 728 million gigajoules (or 690 trillion Btu), at a cost of $6.8 billion. 
+   Chevron is implementing new energy metrics 
+in 2013 that will provide sector-specific (for example, Upstream, Downstream) estimation of actual energy use. These performance data are being reviewed this year for inclusion in future Corporate Responsibility Reports. 
+ 4 Volatile organic compounds (VOCs) are derived 
+primarily from fugitive emissions from equipment (such as valves, pumps and compres-sors), flaring, venting and flashing gas. Nitrogen oxides (NO
+X) and sulfur oxides (SO X) are 
+combustion byproducts.
+ 5 2011 air emissions are restated in this report 
+using site-specific data and improved air emissions estimating methods in IndoAsia operations and Asia South operations. 
+  “Other” includes Chevron Mining Inc.  Due to rounding, individual numbers may not 
+sum to the total numbers.
+ 6 Segregated storm-water contribution is not 
+included. Oil concentration is determined by the sampling of effluent streams. Upstream data in the chart represent Upstream and Gas operations. 
+ 7 Secondary containment volume, which is not 
+released to the environment, is included in the total volume listed at the end of each bar. 
+ 8 Spills to land, water and secondary containment 
+that are greater than or equal to one barrel are included.
+ 9 American Petroleum Institute’s Benchmarking 
+Survey of Occup ational Injuries, Illn esses, and 
+Fatalities in the Petroleum Industry  data are used 
+as industry benchmarks. 2012 benchmark data on competitor-average performance were not available at the time of publication.
+ 10 The International Association of Oil & Gas 
+Producers’ (OGP) Safety Performance Indicators  
+(Report No. 2011s) data are used as industry benchmarks for Upstream operations. 2012 bench-mark data on competitor-average performance were not available at the time of publication. In 2012, the work-related fatal-incident rate, as measured by the number of work-related incidents that led to at least one fatality per 100 million work hours, for employees was 0.76. The 2012 work-related fatal-incident rate for contractors was 1.22. Benchmark data © OGP. 
+11  Data include catastrophic and major incidents only. 12  Loss-of-containment incidents are unplanned or 
+uncontrolled releases resulting in consequences equivalent to those specified by the American National Standards Institute/American Petroleum Institute (ANSI/API) Recommended Practice 754.
+  Process Safety  12
+In 2012, there were 74 loss-of-primary-containment incidents of significance 
+(ANSI/API Recommended Practice 754 Tier 1) across the company, compared with 92 incidents in 2011. Of the 74 incidents, 60 occurred in Upstream and 14 in Downstream, which includes Manufacturing and Chemicals.41
+Chevron achieved 
+a rating of 
+100%  
+on the Human Rights Campaign Corporate Equality Index for the eighth consecutive year
+Nearly 
+$1.2 billion
+has been invested in 
+health, education and economic development programs over the past seven years
+Under a Chevron-supported economic development 
+program, Bhanu Moti received a loan and training to expand her small duck farm. She now owns approximately 400 ducks and sells 70 to 80 eggs every day, earning enough to send three of her children to school.
+Chevron partners with
+more than 
+90 schools
+worldwide through 
+its University Partnership Program42GRI API/IPIECA Where Reported
+Proﬁ le Disclosures
+Strategy and Analysis 1.1  1.2 2–3
+Organizational Proﬁ  le 2.1  2.22  2.32  2.42  2.52  2.62  2.72  2.82  2.92  2.10 1, 11, 45
+Report Parameters Report Proﬁ  le  3.1  3.2  3.3  3.4  45
+Report Scope and Boundary   3.5  3.6  3.7  3.8   3.9  3.10  3.11 1, 40–45
+GRI Content Index   3.12 42
+Assurance   3.13 43
+Governance, Commitments 
+and EngagementGovernance   4.13  4.23  4.32  4.42  4.52  4.62  4.72  4.84  
+4.95  4.102SE1821–4, 19
+Commitments to External Initiatives   4.11  4.122  4.132  1–4, 17, 21
+Stakeholder  Engagement   4.141  4.151, 5 4.161   4.171, 51
+Economic Economic  Performance   EC13  EC23  EC33  EC43  EC53  SE135
+Market  Presence   EC66  EC76SE4  SE71, 623–26
+Indirect Economic Impacts   EC87, 8  EC91, 7, 823–31
+Environmental Materials   EN1  EN2
+Energy   EN3  EN4  EN59, 10  EN6 9, 10  EN72, 9E2  E31036, 41
+Water   EN8  EN9  EN1011E6 18
+Biodiversity   EN11   EN1212  EN1312  EN1412  EN1512E51219–22
+Emissions, Efﬂ  uents and Waste   EN16   EN17   EN1813  EN19  
+EN20   EN21   EN22  EN23   EN24   EN25E8  E9  E1  E413  E10  E7 15–18, 36, 37, 38
+Products and Services   EN2612  EN27   EN29 16–18
+Compliance   EN28 36
+Overall   EN30
+Social
+Labor Practices and 
+Decent WorkEmployment   LA1  LA2  LA3 SE6 23–26, 34, 40
+Employee Satisfaction   SE16
+Labor/Management Relations   LA45  LA5 34
+Occupational Health and Safety   LA6  LA7  LA814  LA9 HS1  HS214  HS3  HS5 6–14, 28–31, 40, 41
+Training and Education   LA10   LA11  LA12 SE17
+Diversity and Equal Opportunity   LA132, 6  LA14 34, 40
+Human Rights Investment and Procurement Practices   HR1  HR2  HR315SE815  SE915
+Nondiscrimination   HR4 SE156
+Freedom of Association and Collective Bargaining   HR5
+Child Labor   HR6
+Forced and Compulsory Labor   HR7
+Security Practices   HR815SE101531
+Indigenous Rights   HR9   HR10  HR11 SE21526
+Society Community   SO11, 7 SO9  SO10 SE11  SE315  SE41, 7  SE5115–18, 19–23, 24–26, 28–30
+Corruption   SO2  SO35  SO4 SE115  SE125
+Public Policy   SO516  SO65SE145, 16
+Compliance   SO7  SO8 36, 38
+Product Responsibility Customer Health and Safety   PR14  PR518HS44, 17
+Product and Service Labeling   PR317
+Marketing Communications   PR6
+Compliance   PR2  PR4  PR7  PR8  PR9
+Key to Indicators:
+Fully reported in 2012
+Partially reported in 2012Not covered in 2012
+  Information responsive to these indicators appears on our websites: 
+1  Throughout print and online report
+ 2 Chevron.com
+ 3 Chevron.com/AnnualReport
+ 4 Chevron.com/OE
+ 5 Chevron.com/BusinessEthics
+ 6 Chevron.com/Diversity
+ 7 Chevron.com/SocialInvestment 8 ChevronCalifornia.com
+ 9 Chevron.com/EnergyEfficiency
+ 10 Chevron.com/EmergingEnergy
+ 11 Chevron.com/Environment
+ 12 Chevron.com/Biodiversity
+ 13 Chevron.com/ClimateChange
+ 14 Chevron.com/HealthSafety 15 Chevron.com/HumanRights
+ 16 Chevron.com/EnergyPolicy
+ 17 Chevron.com/MSDS
+ 18 Chevron.com/BenefitsGRI and API/IPIECA Index
+This index refers to: • 2011 Sustainability Reporting Guidelines of the Global Reporting Initiative (GRI), Version 3.1
+• American Petroleum Institute (API) and IPIECA (the global oil and gas industry association for environmental 
+and social issues) Oil and Gas Industry Guidance on Voluntary Sustainability Reporting , 2nd edition, 2010 
+ For more information on GRI and API/IPIECA reporting guidelines, please visit globalreporting.org and ipieca.org.43Terms of Engagement
+This Assurance Statement has been prepared for Chevron U.S.A. Inc.
+Lloyd’s Register Quality Assurance, Inc. (LRQA) was commis-
+sioned by Chevron U.S.A. Inc., on behalf of Chevron Corporation (Chevron), to assure its pr ocesses  used in the creation of 
+the Corporate Responsibility Report (CRR) for the calendar year 2012. 
+Our terms of engagement were to  review the pr ocesses  for 
+reporting health, environmental and safety (HES) performance indicators. This did not include verifying the accuracy of data and information reported. 
+LRQA has reviewed Chevron’s reporting pr ocesses  since 2008 
+(for the 2007 CRR).
+Management Responsibility
+Chevron’s management was responsible for preparing the CRR and for maintaining effective internal controls over the data and information disclosed. LRQA’s responsibility was to carry out an assurance engagement on the CRR in accordance with our contract with Chevron.
+Ultimately, the CRR has been approved by, and remains the 
+responsibility of, Chevron.
+LRQA’s Approach
+Our verification has been conducted against the requirements of LRQA’s Report Verification procedure. The objectives of the assurance engagement were to verify the integrity of the proc-esses used for determining which material is sues to report, and 
+to evaluate consistency with the IPIECA/API/OGP Oil and Gas 
+Industry Guidance on Voluntary Sustainability Reporting (2010). 
+To form our conclusions, the assurance was undertaken as a 
+sampling exercise and covered the following activities:
+•  Visiting two Chevron Upstream and Gas operations in Australia 
+and the United States and two Chevron Downstream operations in Singapore and Canada to a ssess local understanding and 
+implementation of Chevron’s HES reporting requirements.
+•  Visiting Chevron Upstream and Gas headquarters in Houston, 
+Texas, and Chevron Downstream and Chemicals headquarters in San Ramon, California, to assess  busin ess-unit understanding 
+and implementation of Chevron’s HES reporting requirements.
+•  Visiting Chevron Corporation in San Ramon, California, to 
+review data collection and checking pr ocesses.•   Interviewing key personnel to identify and gain an understand-
+ing of Chevron’s reporting requirements.
+•  Reviewing the documented reporting requirements to validate 
+consistency of scope, definition and reporting for each of the HES performance indicators.
+Level of Assurance
+The opinion expr essed in this Assurance Statement has been 
+formed on the basis of a reasonable level of assurance.
+LRQA’s Opinion
+Based on LRQA’s approach, Chevron’s reporting process was effective in delivering HES indicators that are useful for asses sing corporate performance and reporting information 
+consistent with the IPIECA/API/OGP Oil and Gas Industry 
+Guidance on Voluntary Sustainability Reporting (2010). 
+ It should be noted that:•  Proc esses were  in place to ensure that sites contributing to 
+core HES metrics understood corporate reporting procedures and requirements.
+•  Methods used for calculating each HES performance metric 
+were clearly defined and communicated. 
+•  Chevron’s reporting requirements for HES metrics were 
+understood and carried out. Data collected at the site/local and business-unit levels were checked and aggregated into corporationwide metrics.
+•  Responsibility for annually reviewing and updating reporting 
+guidelines was clear, with improvement in methodology regularly undertaken.
+LRQA’s Recommendations
+  Observations and areas for potential improvement were 
+provided in a report to Chevron management. These recom-mendations do not affect our opinion.
+Andrea M. Bockrath
+On behalf of Lloyd’s Register Quality Assurance, Inc. 1330 Enclave Parkway, Suite 200, Houston, Texas 77077March 28, 2013
+LRQA Reference: UQA4000679
+This document is subject to the provisions below:  
+This Assurance Statement is only valid when published with the Report to which it refers. It may only be reproduced in its enti rety.
+Lloyd’s Register Quality Assurance Limited, its affiliates and subsidiaries and their respective officers, employees or agents are, individually and collectively, referred to 
+in this clause as the “Lloyd’s Register Group.” The Lloyd’s Register Group assumes no responsibility and shall not be liable to  any person for any loss, damage or expense 
+caused by reliance on the information or advice in this document or howsoever provided, unless that person has signed a contrac t with the relevant Lloyd’s Register 
+Group entity for the provision of this information or advice, and in that case, any responsibility or liability is exclusively on the terms and conditions set out in that contract.
+Due to the inherent limitations in any internal control, it is possible that fraud, error, or noncompliance with laws and regul ations may occur and not be detected. Further, 
+the verification was not designed to detect all weakness or errors in internal controls so far as they relate to the requiremen ts set out above, as the verification has not 
+been performed continuously throughout the period and the verification carried out on the relevant internal controls was on a t est basis. Any projection of the evaluation 
+of control to future periods is subject to the risk that the pr ocesses  may become inadequate because of changes in conditions, or that the degree of compliance with 
+them may deteriorate.
+The English version of this statement is the only valid version. The Lloyd’s Register Group assumes no responsibility for versi ons translated into other languages. Assurance Statement  44
+Glossary
+Ee
+ESHIA 
+Chevron’s Environmental, 
+Social and Health Impact A ssess-
+ment is a process designed to logically and consistently identify potentially significant project-related environmental, social and health impacts.
+Energy efficiency 
+Efficient energy use is one of the easiest and most economical sources of new energy today.
+Ff
+Flaring and venting 
+The burning or release of natural gas that is often pro-duced in association with crude oil, a process that typically occurs when there is no market or onsite use for the gas.
+Gg
+Geothermal energy 
+A renewable source of energy that uses the heat energy of the earth for heating or to create electricity.
+Greenhouse gases (GHGs) 
+Gases that trap heat in the atmos phere; such gases include 
+water vapor, ozone, carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluoro-carbons and sulfur hexafluoride.
+Ii
+IPIECA
+The global oil and gas industry association for environmental and social issues.
+ISO 14001:2004
+Environmental management  system standard developed 
+by the International Organization for Standardization.Aa
+API
+American Petroleum Institute
+Bb
+Biodiversity 
+Refers to the diversity of life on the planet. It encompa sses 
+genera, species, habitats and  ecosystems, and the pr ocesses 
+that support them.
+Cc
+Capacity building 
+A key area of focus for Chevron’s social investment efforts, which means targeting support toward programs that help individuals and institutions develop the skills, capabilities and expertise they need to succeed.
+The Chevron Way 
+Explains our values: who we are, what we do, what we believe and what we plan to accomplish.
+Corporate responsibility 
+Putting The Chevron Way values into action across environmental, social, and governance issues and priorities.
+Dd
+Downstream 
+The industry term for opera-tions related to refining crude oil into finished petroleum products, and for marketing crude oil and the many products derived from petroleum.Nn
+Nongovernmental organization (NGO) 
+An organization that is inde-pen dent from government, 
+generally a nonprofit organi-zation devoted to providing assistance to or advancing a particular cause or issue.
+Oo
+OGP
+International Association of Oil & Gas Producers
+OHSAS 18001:2007
+An international Occupational Health and Safety  Assessment 
+Series management system specification.
+Operational Excellence Management System (OEMS) 
+Chevron’s standard approach to systematic management of safety, health, the environ-ment, reliability and efficiency in order to achieve world-class performance.
+Pp
+Partner 
+In this report, partner is used in its broad sense to mean a person or organization associ-ated with another in a common activity or one that shares a mutual inter est. It does not imply 
+a member of a contractual part-nership in which the partners jointly own and carry on a busi-ness and proportionally share in liabilities, profit s or l osses of 
+the business.Rr
+Renewable energy 
+Energy resources that are not depleted when consumed or converted into other forms of energy (for example, solar, geothermal, ocean and tide, wind, hydroelectric, and biofuels).
+Ss
+Social investment 
+The resources Chevron provides with the objective of benefiting our external stakeholders, and building and maintaining relationships to support our business.
+Stakeholder 
+At Chevron, defined as those who affect, are affected by, or have a legitimate interest in our company’s performance.
+Uu
+Upstream 
+The industry term for opera-tions related to exploring for, developing and producing crude oil and natural gas; for marketing natural gas; and for transporting crude oil, natural gas and petroleum products by pipeline and marine v essel.
+Energy Efficiency
+LEDs (light-emitting diodes) are a key component 
+of Caltex’s efforts to achieve savings through energy efficiency and reduce the environmental impact of retail stations. LEDs in under-canopy lights, canopy fascia and signage are calculated to use 30 to 50 percent less energy. Numerous Caltex-branded stations have converted to LED ligh ting since 2010.About This Report
+This report covers 2012 data and activities. We also occasionally mention activities that took place before 2012 and in 
+early 2013 when they help provide a clearer picture of our performance. This report covers our owned or operated busin esses 
+and does not address the performance of our suppliers, contractors or partners unless otherwise noted. All financial information is presented in U.S. dollars unless otherwise noted. Our previous report was published in May 2012 and covers 2011 data and activities.
+We continue to be informed by reporting frameworks and guidelines that include the Global Reporting Initiative (GRI) and the 
+Oil and Gas Industry Guidance on Voluntary Sustainability Reporting , 2nd edition, published in 2010 by IPIECA (the global 
+oil and gas industry association for environmental and social issues) and the American Petroleum Institute (API). We included an index to help readers find information corresponding to the GRI and API/IPIECA indicators (see page 42).
+This report, previous editions of our report and additional information can be found at Chevron.com/CR. We welcome your 
+comments and feedback.
+Ms. Lauren Buggs
+Chevron Corporation6101 Bollinger Canyon Road, Room 3200San Ramon, CA 94583-2324
+Cautionary Statement Relevant to Forward-Looking Information
+This Corporate Responsibility Report by Chevron  Corporation contains forward-looking 
+statements relating to the manner in which Chevron intends to conduct certain of its activities, based on management’s current plans and expectations. These statements are not promises 
+or guarantees of future conduct or policy and are subject to a variety of uncertainties and other factors, many of which are beyond our control.
+Therefore, the actual conduct of our activities, including the development, implementation or 
+continuation of any program, policy or initiative discussed to forecast in this report, may differ materially in the future. The statements of intention in this report speak only as of the date of this report. Chevron undertakes no obligation to publicly update any statements in this report.
+As used in this report, the term “Chevron” and such terms as “the company,” “the corporation,” 
+“their,” “our,” “its,” “we,” and “us” may refer to one or more of Chevron’s consolidated subsidiaries or affiliates or to all of them taken as a whole. All these terms are used for con-venience only and are not intended as a precise description of any of the separate entities, each of which manages its own affairs.WRITER
+Peter Bartelme 
+COPY EDITOR
+Eileen Ostrow Feldman
+PRODUCTION TEAM
+Stirling Alexander
+Alexandra LakinSanti ManuhutuKarla McCormickBy operating responsibly, developing strong 
+partnerships and investing in communities, together we make a brighter future. To learn more, please visit Chevron.com/CorporateResponsibility.
+PHOTO CREDITS
+Cover & Pages 11, 13, 39 & 41: Munem Wasif
+Page 3: Eric MyerPages 4–5: Chevron U.S.A. Inc.Page 6: Jackson HillPage 7: Ken ChildressPage 8: Jan K. GlennPage 10: McNee ProductionsPage 12: Sheikh Rajibul IslamPages 15 & 17: Peter Cannon/GEOmediaPages 16 & 35: Vadim SoloviyovPage 18: Tengizchevroil LLPPages 19 & 21: Cabinda Gulf Oil Co. Ltd.Page 20: Steve ZalanPage 22: Sheryl MarucaPages 23 & 26: Jeremy AshtonPage 24: Tom Rovis HermannPage 25: Chevron Australia Pty. Ltd.Page 27: Ryan Polomski Page 28: Patrick KingPage 29: Divaldo GregorioPage 30: Chevron Nigeria Ltd.Page 31: Marilyn HulbertPages 32 & 44: Marc MarriottThis report is printed on Forest Stewardship Council®–
+certified Mohawk Options 100, made from 100 percent post-c onsumer waste. It is process ed elemental 
+chlorine-free and produced using wind energy.
+Printed by Lithographix, Inc., whose rooftop solar 
+panels are expected to offset the company’s energy demands by 30 percent.
+Design: Sequel, New York Learn More Online 
+The Annual Report, the Supplement to the Annual Report and the Corporate Responsibility Report are available on the Internet at Chevron.com/Publications.
+Chevron Corporation
+6001 Bollinger Canyon Road
+San Ramon, CA 94583-2324 USA
+www.chevron.com
+2012 Corporate Responsibility Report 2012 Supplement to the Annual Report 2012 Annual Report
+© 2013 Chevron Corporation. All rights reserved.
+913-0386J 5/13 (20M)Scan this QR code with your smart-
+phone to access Chevron’s 2012 Corporate Responsibility Report and related videos online.
+QR readers are available from your 
+phone’s app store.
+Chevron.com/CR2012

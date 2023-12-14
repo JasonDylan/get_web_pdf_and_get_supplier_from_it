@@ -1,0 +1,2116 @@
+Lam Research | Corporate Social Responsibility Report 20181
+Lam Research  
+Corporate Social  
+Responsibility  
+Report 2018Lam Research | Corporate Social Responsibility Report 20182
+Contents
+Letter from Our CEO    3
+About this Report    4
+Company Overview    7
+ 
+Workplace     11
+Community     17 
+Operations: Environment and Safety  21
+Performance Summary   27
+GRI Index     28Contents
+Lam Research | Corporate Social Responsibility Report 20183
+Letter from Our CEO
+This is Lam’s 5th annual corporate social responsibility 
+(CSR) report, and it features updates on our continued 
+progress against our 2020 environmental commitments, 
+investments in our employees’ career development and 
+wellbeing, and ongoing support for the communities 
+where Lam employees live and work. Lam’s contributions 
+to the growth of the semiconductor industry and the data 
+economy have never been greater, but we don’t stop 
+there. We strive to make a lasting, positive impact for 
+all our stakeholders and commit to be a proactive and 
+responsible corporate citizen. 
+This year, to further integrate CSR into the business, we 
+created a cross-functional CSR Team to develop and drive 
+CSR objectives and strategies. The team’s activities are 
+coordinated and driven by a dedicated CSR manager, a 
+new position created in 2018.   
+We have organized our CSR report into four main 
+chapters: Company Overview, Workplace, Community, 
+and Operations: Environment and Safety. We have 
+addressed the topics that are priorities for our 
+stakeholders and represent opportunities for Lam to make 
+a positive environmental or social impact. Here are some 
+highlights you’ll read more about in the pages to follow:
+ • Company Overview – We continued to increase   
+  our investments in research and development,  
+  dedicating over 60% of our operating 
+  expenses to providing our customers with best-in-
+  class and innovative products and services.   
+ • Workplace – We are increasing our focus on    
+  inclusion and diversity in the workplace and for the  
+  first time are publishing demographics of our 
+  workforce; this underscores our commitment to 
+  transparency as we address this important topic. 
+ • Community – The Lam Research Foundation    
+  increased its giving by 13% from 2017, with a 
+  record $3.7 million in grants, scholarships, and 
+  employee-matched donations to non-profits and 
+  scholarship programs. 
+ • Operations: Environment and Safety – We surpassed 
+  our 2020 goals for greenhouse gas intensity and 
+  renewable energy, and we maintained our strong 
+  track record for worker safety.  
+Lam is well-positioned to deliver on the CSR priorities 
+for our employees, customers, shareholders, and 
+communities. We are excited to be on this CSR journey 
+and we hope this report offers valuable insight into Lam’s 
+ongoing commitment to CSR.
+ 
+Tim Archer
+President and Chief Executive Officer
+Letter from Our CEO
+Lam Research | Corporate Social Responsibility Report 20184
+About This Report
+Lam Research Corporation has published this Corporate 
+Social Responsibility (CSR) Report to provide an overview 
+of our company’s products, services, and operations 
+related to environmental, social, and economic 
+performance. This report covers calendar year 2018, with 
+some exceptions noted, including financial data that is 
+Lam’s fiscal year 2018 (July 2017-June 2018). The report 
+encompasses all wholly-owned subsidiaries across the 
+globe, although some data may be limited to particular 
+geographies which we note throughout the report.  
+We self-declare that this report is in accordance with the 
+Global Reporting Initiative (GRI) Standard framework at 
+the Core level. As required, a GRI Index at the end of the 
+report shows our alignment with GRI reporting elements 
+and our material topics. We intend to continue to report 
+annually.  
+We have noted any significant changes in scope and 
+boundary throughout the report that may vary from 
+our 2017 report, which was published in 2018. External 
+assurance is limited to our financial data certified in our 
+2018 Annual Report on Form 10-K. This CSR report has 
+been reviewed by the Compensation and Nominating and 
+Governance Committees of our Board of Directors and 
+has been reviewed and approved by our President and 
+CEO. 
+Questions and comments about this report can be 
+addressed to CSR@lamresearch.com.  
+Lam’s Approach to CSR  
+Our Core Values help to guide the decisions we make in 
+every aspect of our business, informing what we do and 
+how we do it. They shape the way we define success in 
+the marketplace as we create solutions for our customers; 
+invest in our employees; incorporate environmental, 
+social, and economic responsibility across our business; 
+give back to our communities; conduct our business 
+ethically through good governance; and deliver value to 
+our shareholders.  
+In 2018, we created a corporate CSR Team, led by a CSR 
+Manager, to guide our corporate responsibility goals 
+and activities, benchmark our programs against the 
+expectations of our stakeholders and industry, establish 
+and drive future CSR objectives, and deliver plans and 
+progress updates to the CEO and Board of Directors. The CSR Team includes representatives from Global 
+Customer Operations, Global Workplace Solutions, 
+Environmental Health and Safety, Investor Relations, 
+Global Human Resources (HR), Legal, the Office of 
+the Chief Technology Officer (CTO), Global Supplier 
+Management, Corporate Communications, and 
+Community Relations.  
+  
+Materiality  
+We used the GRI materiality assessment process to 
+determine the content of the report and identify key 
+issues and topics to address. 
+In 2018, we conducted a new materiality assessment. 
+Using a third-party firm, we reviewed important topics 
+and risks published in our 2018 Proxy and Annual Report, 
+consulted with senior management, and catalogued 
+feedback from stakeholders, including investors. The 
+results of this materiality assessment will inform 2019 CSR 
+activities and the 2019 CSR Report. The CSR team also 
+benchmarked our CSR program in part based on scores 
+and rankings by third-party ratings organizations.About this Report
+United Nations Sustainable Development Goals
+In September 2015, 193 member States of the United Nations adopted 17 new Sustainable Development Goals 
+(SDGs) to make our world more prosperous, inclusive, sustainable and resilient. Lam recognizes the importance 
+of these goals and the role businesses play in achieving them. Lam is committed to aligning our programs and 
+initiatives and do our part towards achieving these global goals.
+Lam Research | Corporate Social Responsibility Report 20185
+The previous materiality assessment, conducted in 2013, 
+produced the list of material topics within this report, but 
+we have increased our coverage of inclusion and diversity 
+topics due to emerging interests in 2018.  
+For our 2013 assessment, feedback was solicited 
+from these stakeholder groups: customers, investors, 
+suppliers, policymakers, and communities. To collect this 
+information, we leveraged the use of a survey, interviews, 
+and technical reviews by management advisors. Based 
+on this feedback, more than 74 material topics were 
+identified, from which a list of 15 priority topics emerged.  
+For the purposes of this report, we define our material 
+topics below: 
+Business continuity – Through a formal risk management 
+process, we prepare for potential operational, 
+environmental, regulatory, and marketplace risks and 
+opportunities that might affect our ability to conduct 
+business. 
+Charitable giving – Our charitable giving is an extension 
+of our Core Values, and our practices include global 
+grant making, employee giving match, and employee 
+volunteerism.   Community engagement – We meet with local 
+government officials, regulators, and civic organizations to 
+build partnerships that result in positive contributions to 
+the local economy and community. 
+Customer data protection and privacy – Our customers, 
+employees, and business partners expect that our 
+information technology systems and data are secure, 
+and we are committed to protecting their information 
+and privacy.  
+Design for the environment – We provide product 
+features at our customers’ requests that improve energy 
+efficiency, lower waste and water use, reduce carbon 
+footprint, extend longevity, and use less packaging.  
+Emerging environmental regulations – We monitor, 
+prepare for, and comply with emerging regulations 
+regarding the environmental impact of our products. 
+This includes regulations regarding the environmental 
+impact of our manufacturing processes, research and 
+development operations, and workplace.  
+Employee wellness – We offer educational resources 
+and empower our employees to cultivate healthy lifestyle 
+choices, grow their careers, and prepare for retirement.  Energy efficiency – Energy is a significant contributor to 
+our greenhouse gas (GHG) profile, and we set goals and 
+implement projects to make significant improvements in 
+our energy performance.  
+Ethics – Our Global Standards of Business Conduct Policy 
+provides guidance for ethical behavior, rooted in our 
+Core Values. We provide global training on ethics and 
+compliance, and maintain a global Ethics and Compliance 
+Helpline for reporting issues or asking questions. 
+Greenhouse gas emissions – As a global company with 
+manufacturing operations, we recognize that our GHG 
+emissions contribute to climate change, and we strive to 
+reduce our GHG footprint.  
+New product pipeline – Through continued investments 
+in research and development (R&D), we remain a key 
+enabler of emerging technologies like the Internet of 
+Things (IoT), artificial intelligence, wearable devices, 
+virtual reality, ubiquitous technology connectivity, 
+augmented reality, autonomous vehicles, and machine 
+learning.  Occupational health and safety – We are committed to 
+providing our employees a safe and healthy workplace, 
+whether they work in an office, a manufacturing or R&D 
+facility, or in the field.  
+Product safety – Safety is built into our product design, 
+manufacturing, and workplace operational systems. 
+Product compliance – Safety, environmental, labor, and 
+regulatory compliance with local, national, international 
+and industry standards are incorporated in our products. 
+Regulatory compliance – We are diligent in our 
+compliance with relevant environmental regulations 
+around the world. We also require our suppliers to do the 
+same. About this Report
+Lam Research | Corporate Social Responsibility Report 20186
+Stakeholder engagement  
+We regularly engage with key stakeholders to gather 
+feedback that is incorporated into daily decision making 
+and long-term strategic planning. 
+ • Lam encourages employees to provide 
+  feedback and input through managers, HR,  
+  the Ethics & Compliance team, including an Ethics 
+  and Compliance Helpline, and formal surveys.  
+ • Lam collaborates closely with customers to   
+  identify emerging needs for their products and 
+  services. These needs guide Lam’s service delivery  
+  objectives, product research and development  
+  efforts, and manufacturing plans.  
+ • Lam works with suppliers to meet emerging 
+  customer needs and collaborate as we develop  
+  more stringent social and environmental   
+  requirements, including screening and auditing  
+  requirements regarding human trafficking, child  
+  and forced labor, human rights, and workplace 
+  safety. As a supplier, we participate in several 
+  work groups and organizations to review best  
+  practices regarding contractors/migrant workers,  
+  human rights, cyber security, supplier diversity,  
+  and workplace inclusion and diversity. 
+ • Lam regularly communicates with policy makers and 
+  community leaders. We interact to ensure a positive 
+  impact in the communities where we operate.  
+ • Lam proactively seeks out opportunities to engage,  
+  ask questions, and understand the views of our 
+  shareholders on environmental, social, and   
+  governance (ESG) topics. We initiate opportunities 
+  for direct investor input and mutual exchange of 
+  ideas via investor conferences, earnings calls, one-
+  on-one meetings, correspondence, and 
+  through their votes with respect to proposals 
+  presented at shareholder meetings. This   
+  engagement approach ensures we proactively  
+  review and address the ESG issues most relevant to 
+  our shareholders.  About this Report
+Lam Research | Corporate Social Responsibility Report 20187
+Company Overview
+Our Business
+We are a global supplier of innovative wafer fabrication 
+equipment and services to the semiconductor industry. 
+We have built a strong global presence with core 
+competencies in areas like nanoscale applications 
+enablement, chemistry, plasma and fluidics, advanced 
+systems engineering, and a broad range of operational 
+disciplines. Our products and services are designed 
+to help our customers build smaller, faster, and better 
+performing devices that are used in a variety of electronic 
+products, including mobile phones, personal computers, 
+servers, wearables, autonomous vehicles, and data 
+storage devices. Our customer support provides services, 
+spares and upgrades to enable best tool performance, 
+optimize productivity, and maximize value. We partner 
+with our customers to help them solve their most critical 
+manufacturing challenges in an era when the demands 
+on semiconductor device performance are pushing past 
+the boundaries of traditional 2D structures, and into more 
+advanced 3D architectures.  
+We believe Lam is uniquely positioned to address these 
+unprecedented industry challenges because of our 
+technology capabilities, values-based culture, disciplined and accomplished management team, experienced 
+and effective Board of Directors, and commitment to 
+our long-term growth objectives through our significant 
+investment in research and development (R&D). In 
+fiscal year 2018, we spent over $1.1 billion in R&D and 
+approximately $4.7 billion over the last five fiscal years. 
+Between fiscal years 2013 and 2018, on a quarterly basis, 
+Lam has grown R&D at a faster pace than its peers in the 
+U.S.
+Our R&D focus when combined with demand and 
+technology inflections in our industry, including 3D device 
+scaling, multiple patterning process flow, and advanced 
+packaging/chip integration will lead to an increase in our 
+served addressable market for our products and services 
+in deposition, etch, strip, and clean. Company Overview
+DepositionProduct Offerings
+Strip & CleanEtch
+Customer SupportLam Research | Corporate Social Responsibility Report 20188
+Commitment to Quality
+Lam is committed to embedding quality in our culture and 
+operations. We drive a holistic approach to development, 
+delivery, and continuous improvement of our products 
+and services that results in positive differentiation with our 
+customers. Lam maintains a certification for International 
+Standards Organization (ISO) 9001, a voluntary 
+international quality management standard that provides 
+a framework for effective quality management systems. 
+Our Customers
+Our customer base includes leading semiconductor 
+memory, foundry, and integrated device manufacturers 
+(IDMs) that make products such as non-volatile memory 
+(NVM), DRAM memory, and logic devices in wafer 
+fabrication plants (wafer fabs). 
+Our customers make semiconductors by fabricating 
+multiple dies or integrated circuits (ICs) on a wafer. 
+This involves the repetition of several core processes 
+and can require hundreds of individual steps. Making 
+semiconductors requires highly sophisticated process 
+technologies to integrate an increasing array of new 
+materials with precise control at the atomic scale. Along 
+with meeting technical requirements, our customers 
+expect Lam’s products and services to deliver high 
+productivity and be cost-effective.
+Our Customer Support Business Group (CSBG) provides 
+products and services to maximize installed equipment 
+performance, predictability, and operational efficiency. 
+As of the end of 2018, we have an installed base of 
+approximately 56,000 chambers with a dedicated team to 
+serve and maintain those tools for maximum productivity. 
+We offer a broad range of services to deliver value 
+throughout the lifecycle of our equipment, including 
+customer service, spares, upgrades, and refurbishment 
+of our products. Many of the technical advances that we 
+introduce in our newest products are also available as 
+upgrades, which provide customers with a cost-effective 
+strategy for extending the performance and capabilities 
+of their existing wafer fabrication lines. Additionally, 
+CSBG provides new and refurbished previous-generation 
+equipment for those applications that do not require the 
+most advanced wafer processing capability.Research and Development  
+The market for semiconductor capital 
+equipment is characterized by rapid 
+technological change and product innovation. 
+Our ability to achieve and maintain our 
+competitive advantage depends in part 
+on our continued and timely development 
+of new products and enhancements to 
+existing products. Accordingly, we devote 
+a significant portion of our personnel and 
+financial resources to R&D programs and 
+seek to maintain close and responsive 
+relationships with our customers and 
+suppliers.
+Our R&D expenses during fiscal years 2018, 
+2017, and 2016 were $1.2 billion, $1.0 billion, 
+and $914 million, respectively. Our R&D 
+spend was 61% of our operating expenses 
+in 2018, 61% in 2017, and 59% in 2016. The 
+majority of R&D spending over the past three years 
+has been targeted at deposition, etch, clean, and 
+other semiconductor manufacturing products.
+Company Overview
+2018 Fiscal Year Highlights
+Fiscal year 2018* was the strongest year in our history, with  
+revenue of over $11 billion, representing a five-year compound 
+annual growth rate, (CAGR) of 25%. Fully diluted earnings  
+per share was $13.17 on a GAAP basis, with a five-year
+CAGR of over 80% on a GAAP basis. Details of our financials  
+can be found at http://investor.lamresearch.com. 
+* The Lam Research fiscal year 2018 covers June 26, 2017 to June 24, 2018.0.0%20.0%40.0%60.0%80.0%100.0%
+ $- $500,000 $1,000,000 $1,500,000
+2016 2017 2018
+Percent Thousands of DollarsAnnual Investments in Research and 
+Development by Fiscal Year
+(in thousands)
+Research and Development as a percent of operating
+expenses
+Annual R&D Investment
+Revenue by Region
+Southeast Asia
+7%
+Korea
+35%Taiwan
+13%United States
+7%China
+16%
+Europe
+5%
+Japan
+17%Total of
+$11,076,998
+FY 2018FY 2017 FY 2018 % Change
+(in thousands, except per share data and percentages)
+Revenue $8,013,620 $11,076,998 38%
+Gross margin $3,603,359  $5,165,032 43%
+Gross margin as a percent of total 
+revenue45% 47%
+Total operating expenses $1,701,227  $1,951,733 15%
+Net income $1,697,763  $2,380,681 40%
+Net income per diluted share $9.24  $13.17 43%The Research and Development as a percentage of Operating Expenses is directly calculated from 
+data found in our 10-K. In 2018, Lam invested $1,189,514 in R&D and total operating expenses were 
+$1,951,733. In 2017, R&D spend was $1,033,742 and total operating expenses were $1,701,227. In 2016, 
+R&D spend was $913,712 and total operating expenses were $1,544,666.Lam Research | Corporate Social Responsibility Report 20189
+Commitment to Responsible Governance
+Lam governs our business to be responsible and 
+responsive to our stakeholders and strives to meet or 
+exceed current industry standards, legal, and regulatory 
+requirements, and to match our own stated values and 
+standards of business conduct. The company’s principles, 
+policies, and procedures are summarized in the 2018 
+Proxy Statement.
+We engage with our top shareholders regarding their 
+views on environmental, social, and governance topics. As 
+part of our shareholder engagement, shareholders have 
+shared their views on capital return, proxy access, director 
+tenure, board refreshment, director skills and experiences, 
+inclusion and diversity, and other environmental and social 
+governance matters. Consistent with their feedback, 
+we have adopted proxy access and have increased our 
+proxy statement disclosure about director tenure, board 
+refreshment, and directors’ skills and experiences. We are 
+responding to their input on inclusion and diversity by 
+providing additional resources and focus to our inclusion 
+and diversity programs. In the Workplace section of this 
+report, we are presenting a snapshot of our employee 
+diversity data.  
+Ethics and Compliance 
+Ethics and good governance practices are developed, 
+monitored and adhered to at every level of the 
+Company. Our Ethics and Compliance Helpline reporting, 
+investigations and trends are reported quarterly to the 
+Board of Directors. Elements of our ethics and compliance 
+policies and program include: 
+Code of Ethics. We maintain a Code of Ethics that applies 
+to all employees, officers, and members of the board.
+The Code of Ethics establishes standards reasonably 
+necessary to promote honest and ethical conduct, 
+including the ethical handling of actual or apparent 
+conflicts of interest between personal and professional 
+relationships; and full, fair, accurate, timely, and 
+understandable disclosure in the periodic reports we file 
+with the Securities and Exchange Commission and in 
+other public communications. We will promptly disclose 
+to the public any amendments to, or waivers from, any 
+provision of the Code of Ethics to the extent required by 
+applicable laws. A copy of the Code of Ethics is available 
+on the Investors section of our website.Global Standards of Business Conduct (GSBC) policy. 
+We maintain written standards of appropriate conduct for 
+a variety of business situations. Among other things, the 
+GSBC addresses employee relationships with one another 
+(including freedom from harassment and retaliation, 
+workplace safety, and privacy), employee relationships 
+within Lam (including conflicts of interest, financial 
+integrity safeguarding of Company assets, and protection 
+of confidential information), and relationships with other 
+companies and stakeholders (including anti-corruption 
+and fair competition). 
+Insider trading policy. Our insider trading policy prohibits 
+inappropriate trading of company stock by our directors, 
+officers, and employees, provides for insider blackout 
+periods and prohibits hedges and pledges of company 
+stock.
+Risk management. Lam strives to be attuned to both 
+internal and external risks that must be managed 
+to support responsible governance and ethics. We 
+are transparent about these risks and present them 
+extensively in our Annual Report on Form 10-K.
+Training and Communication. Ethics and compliance 
+(E&C) training ensures that employees and key suppliers 
+are informed about their ethical responsibilities and 
+are held accountable. In 2018, more than 99% of our 
+approximate 11,000 employees completed online ethics 
+and compliance training, which included topics such 
+as anti-harassment and insider trading. Additional in-
+person training sessions covering anti-corruption were 
+held in high-risk geographies, and quarterly bulletins 
+were published to all employees highlighting key areas 
+of focus. In 2019, we will augment our communications 
+with a series of short videos to increase employee 
+engagement on relevant compliance topics.  
+Helpline. We provide an Ethics and Compliance Helpline 
+for employees to report issues or ask questions, on an 
+anonymous basis if desired.Company Overview
+Achievement
+Honesty 
+and integrityInnovation and  
+continuous 
+improvement
+Mutual trust  
+and respectOpen 
+communication
+Ownership  
+and 
+accountabilityTeamwork
+Think:  
+customer, 
+company,  
+individual
+Our Values
+Our Core Values guide our business conduct. They inform our Code of Ethics and our Global 
+Standards of Business Conduct, which extend beyond employees into our supply chain. 
+Concerns about ethics violations can be reported through our Ethics and Compliance email 
+address or sent anonymously through our third-party managed EthicsPoint Helpline.
+These values are reinforced and held consistently throughout the company in all geographies 
+and at all employee levels. Lam Research | Corporate Social Responsibility Report 201810
+Supply Chain Responsibility and Governance   
+Lam is a strong proponent of maintaining an ethical 
+supply chain and adhering to industry standards, 
+including the guidelines published by the Institute for 
+Supply Management and the Responsible Business 
+Alliance Code of Conduct. These standards are designed 
+to ensure that working conditions in the supply chain are 
+safe, that workers are treated with respect and dignity, 
+and that manufacturing processes are environmentally 
+responsible. 
+Lam utilizes a reputable third party to certify our top tier 
+suppliers for adherence to our Global Supplier Code 
+of Conduct, which addresses conflict minerals, anti-
+slavery, and human trafficking requirements. For our 
+conflict minerals reporting survey, the response rate from 
+materials suppliers exceeded the industry average. Our 
+top spend suppliers are also subject to audits and facility 
+inspections by Lam. Auditing and mitigation processes 
+include verification, training, auditing of compliance, and 
+corrective action, if required. 
+Additionally, in 2018 Lam participated in a new customer 
+pilot program to ensure the human rights of contract, 
+migrant, and temporary workers of our suppliers that 
+are located in high risk geographies. This new program 
+requires a comprehensive policy that prohibits forced 
+and bonded labor; it includes such topics as freedom of 
+movement, fees, voluntary separation, and humane work 
+conditions. Oversight of this program also requires an 
+internal cross-functional team with representatives from 
+legal, audit, procurement, human resources, and risk 
+management. 
+Supply chain and purchasing teams also receive 
+specialized training. In 2018, Lam provided ethics training 
+certified by the Institute of Supply Management (ISM) 
+to more than 300 supply chain employees. The course 
+presents ethical principles and standards to guide 
+individual and group decisions and actions with modules 
+on personal behavior, laws and regulations, interactions 
+with others, and ethical leadership skills. 
+Web-based human trafficking and anti-slavery training is 
+also mandatory for all global operations and supply chain 
+management. 
+In 2018, we also joined a special interest group, managed 
+by SEMI™ (a global industry association serving the 
+manufacturing supply chain for the electronics industry) that promotes and shares best practices for diversity 
+and inclusion in the manufacturing workforce. The goal 
+of the group is to support the desired state that every 
+certified diversely-owned company in the industry has an 
+opportunity to compete and win business. In support of 
+this effort, we will add diversity metrics to our existing 
+supplier performance scorecard in 2019. 
+Protection of Customer Data, Individual Privacy, 
+and Cyber Security  
+The protection of information about our employees, 
+customers, and suppliers is of paramount importance. We 
+maintain and rely upon certain critical information systems 
+for the effective operation of our business and make use 
+of Software-As-A-Service (SAAS) products for certain 
+important business functions that are provided by third 
+parties and hosted on their own networks and servers. 
+In 2018, Physical Security, Cybersecurity, and Business 
+Continuity functions were consolidated under the Chief 
+Security Officer’s (CSO) organization to improve efficiency 
+and control of our security management processes. 
+During the year, we developed new processes to more 
+stringently identify at-risk suppliers for security audits 
+and our Chief Security Officer reports quarterly to the 
+Board of Directors Audit Committee. In 2018, we did not 
+experience any cyber incidents that resulted in a material 
+adverse impact.
+Lam enhanced current processes to manage risk and has 
+achieved ISO 27001 certification for information security 
+for selected sites. This ensures that our information 
+security management system and programs are in 
+compliance with global best practices.
+Lam collaborates with industry groups to address 
+preventative measures and standards for data breaches 
+in manufacturing lab facilities, especially as it relates to 
+malware that might affect manufacturing operations. We 
+also implemented clean room training to ensure that our 
+computers and equipment were secure and meeting their 
+standards. Lam selectively audits suppliers for information 
+security controls to protect Lam and our partners’ 
+information.Company Overview
+Lam Research | Corporate Social Responsibility Report 201811
+Workplace
+Management Approach  
+Lam strives to provide a work environment that ensures 
+every voice is heard and enables employees to achieve 
+their full potential. We provide our employees with 
+tools, information, and systems that are scalable, 
+consistent, and easily accessible. To ensure consistency 
+in our employment practices, policies and processes 
+are consolidated into a single global approach. This is 
+intended to provide Lam employees with a consistent 
+experience and equitable treatment anywhere in the 
+world. We embrace inclusion and diversity and proactively 
+create opportunities to attract, retain, and reward a 
+multidimensional workforce. Our Core Values, mission, 
+and vision objectives provide the common goals, 
+framework, and language to help employees interact 
+effectively and allow us to scale efficiently.
+Our People  
+Our innovative and talented people are at the heart 
+of our success as a company, fueling our progress and 
+the unique and powerful ways we serve our customers, 
+communities, and other stakeholders. Our employees 
+enable the innovation behind some of the world’s most 
+advanced consumer technology devices and computing 
+architectures. A global presence brings a diversity of 
+perspectives, culture, and expertise, which is leveraged to 
+provide high quality customer service and products. Inclusion and Diversity  
+Lam is committed to fostering inclusion and diversity 
+because we believe that the diverse backgrounds, 
+perspectives, talents, and expressions of our employees 
+promote creativity and innovation, accelerate 
+performance, and are critical to our long-term success. 
+Our vision is for every employee to feel valued, included, 
+and empowered to achieve their full potential. To that 
+end, we invest in initiatives and practices to attract, 
+engage, and retain employees with diverse viewpoints 
+and experiences that are important to unlocking new 
+innovations and achieving our mission of being a world-
+class provider of innovative technology and productivity 
+solutions to the semiconductor industry.   
+We also recognize that a commitment to inclusion and 
+diversity requires continual resources, focus, and efforts. 
+Therefore, we are investing in strategies and programs 
+built around four platforms: leadership, employee 
+engagement, talent development, and communications. 
+Under these platforms there are ongoing and planned 
+programs relating to recruiting, onboarding, mentoring, 
+training, and networking opportunities. For example, 
+the importance of inclusion and diversity is emphasized 
+in our employee onboarding sessions, in employee 
+and management training programs, and in our regular 
+communications across all company work groups and 
+geographies. We encourage employee-driven initiatives 
+where diverse communities can share, network, learn, 
+and support each other. Employee Resource Groups 
+(ERG) include Women in Leadership at Lam, Women in 
+Global Operations, the Community of Latino/African 
+Americans for Student Success (CLASS), the Lam Veterans 
+Community, and Women in Engineering. We also monitor 
+diversity metrics and conduct employee engagement 
+surveys. We have resources to support these important 
+initiatives and will expand those resources in 2019, by 
+hiring a dedicated manager to own our inclusion and 
+diversity programs. Workplace
+Company &
+Culture
+Total
+Package
+Base SalaryCareer
+OpportunityLong-Term
+Incentives
+Short-Term
+IncentivesBenefits &
+Wellness
+United States
+59%
+Headquarters
+Fremont, CA10,933 Total Employees in Offices World-Wide
+China
+5%
+Japan
+4%
+Taiwan
+7%Korea
+9%Europe
+8%Southeast Asia
+8%
+2018 Employee Hiring and Service
+New Hires
+in 2018
+1,551Average Years
+of Service
+7.2Workforce 
+make-up
+by years 
+of service
+Retention
+Rate
+93%More than
+10 Years
+29%10-20
+20%20+
+9%< 1
+13%
+1-3
+29%
+5-10
+16%3-5
+13%
+All employee data is as of December 2018.Lam Research | Corporate Social Responsibility Report 201812
+Our Tualatin Women in Engineering ERG is a very active 
+group. Their stated mission is “To share our experiences 
+as women working in engineering and science fields, 
+and provide resources to enhance not only our own 
+careers but those of future women engineers through 
+career enrichment events, workshops, outreach activities, 
+mentoring, and networking.” Monthly activities include 
+networking and career enrichment events, sessions on 
+mindfulness and financial health, community outreach 
+supporting Science, Technology, Engineering and Math 
+(STEM) education for girls, and social events. 
+Lam also seeks to increase diversity of our workforce 
+through partnerships with external programs. In 2018, 
+we became a member of the National Consortium for 
+Graduate Degrees for Minorities in Engineering and 
+Science (GEM Consortium). The GEM Consortium 
+is a network of leading corporations, government 
+laboratories, universities, and research institutions that 
+enables qualified students from under-represented 
+communities to pursue graduate education in applied 
+science and engineering. As part of the program, Lam 
+is funding 12 GEM fellowships for students starting 
+graduate school in 2019.
+A significant enhancement to our CSR report this year 
+is the inclusion of workforce demographics relating to 
+gender and ethnic diversity. Driven by our desire to 
+increase transparency and an understanding that our 
+key stakeholders care about diversity, we are including 
+demographic information about the U.S. ethnic and U.S. 
+and global gender diversity of our workforce. In addition, 
+we expanded the leadership disclosure on our website. Our 2018 demographic data reflects opportunities to 
+increase gender and ethnic diversity at Lam. In 2019, we 
+plan to utilize our data to develop longer-term strategies 
+that invest in inclusion and diversity within the company. 
+Employee Relations  
+As part of Lam’s commitment to maintaining a positive 
+work environment where all employees can achieve 
+their full potential, Global Human Resources launched 
+the Employee Relations group in October 2018. The 
+team supplements the Human Resource services already 
+available with specific responsibility for addressing and 
+bringing resolution to workplace challenges including 
+co-worker conflict, behaviors inconsistent with our 
+Core Values, working through medical accommodation 
+requests, and more. 
+Compensation and Benefits 
+We take pride in our ability to attract and retain top talent 
+with our strong values-based culture and opportunities 
+for professional growth for new graduates, outside 
+candidates, and those within our existing employee base.  
+An annual review of salaries and benefits packages 
+using third-party benchmarking surveys ensures that our 
+packages are aligned with the marketplace. In addition 
+to competitive salaries, we offer bonus incentives based 
+on both individual and company performance. In 2018, 
+99% percent of eligible employees received bonuses. In 
+addition to bonuses, we offer stock awards to senior and 
+other selected employees. Workplace
+Workforce Demographics
+0.4%
+33.0%
+2.1%
+2.1%
+6.8%0.4%55.2%U.S. Ethnicity
+Global gender data includes all regular 
+Lam employees. U.S. gender and ethnicity 
+data includes regular Lam and Silfex
+employees located in the United States.
+ 
+All demographic data is self-reported by 
+employees.81%19%
+U.S. Employee Gender83%17%
+Global Employee GenderAmerican Indian/Alaskan Native
+AsianAfrican American
+Two or More RacesHispanic
+Native Hawaiian or Pacfic IslanderWhite
+0%10%20%30%40%50%60%70%80%90%100%Employee Gender 
+Male Female
+Lam Research | Corporate Social Responsibility Report 201813
+We are very proud that many of our employees choose 
+to invest in Lam through our Employee Stock Purchase 
+Program (ESPP). Employees who work 20 hours or more 
+per week may contribute up to 15% of their earnings and 
+are eligible to purchase shares at a discount of at least 
+15%. Additionally, we offer a competitive 401k benefit 
+with a 3% match annually. 
+One way of measuring our success in being a company 
+where successful people want to work is in our ability to 
+recruit and retain talent. 29% of our workforce has been 
+with the company for more than 10 years, and 13% has 
+been here less than a year. Our average years of service 
+for full-time employees is 7.2 years, and our annual 
+retention rate in 2018 was 93%.  
+Training and Development  
+Lam’s Core Values of achievement, innovation, and 
+continuous improvement drive us to invest in training 
+and development opportunities for our workforce. In 
+2018, we offered 483,880 training sessions across 1,854 
+different courses, totaling more than 481,381 employee-
+training hours. We offer both on-site classroom learning 
+and online courses to improve access to professional 
+development and education. Our employees receive 
+training on core topics such as technical knowledge, 
+management, ethics and compliance, and situational 
+leadership. We also provide specialized training suited to 
+an employee’s role and function within the company. We 
+offer training for employees at all levels of their career. 
+For example, the New College Graduate program offers 
+training on emotional intelligence skills and mid-level 
+and senior leaders received tailored training for both 
+leadership and technical skill development.
+When employees seek professional development beyond 
+the scope of our internal programs, we reimburse their 
+education expenses up to $15,000 per year in the U.S. 
+In 2018, Lam reimbursed $1.4 million in educational 
+expenses to support employees’ professional growth, up 
+from $1.1 million in 2017. 
+Finally, we know that positive recognition can be a 
+powerful tool to promote employee engagement and 
+satisfaction. In 2018, we launched a new platform that 
+empowers employees and managers to easily recognize 
+contributions of their colleagues and share it with the 
+rest of the company. Awards are available through 
+four programs, all of which align with our Core Values: 
+the Above and Beyond Award recognizes employees 
+for going above and beyond their typical job duties; the Cash Spot Award recognizes individuals for an 
+outstanding achievement; the Vista Award recognizes 
+a team’s accomplishment; and the Milestone Award 
+recognizes employees’ key service milestones. The initial 
+participation on the platform was positive, with more than 
+10,500 awards given in 2018.
+Innovation Investments that Empower Employees  
+In response to our 2017 employee engagement survey, 
+Lam invested in the design and launch of programs and 
+training to drive more innovation. This includes targeted 
+training to encourage managers to be architects of 
+positive change through enhanced communication, 
+effective prioritization, and decision-making, as well as 
+programs and tools that allow prototyping of innovative 
+approaches.  Here are some programs that received additional 
+resources in 2018.  
+Leap: Technical Certification for Engineers  
+Leap provides 
+engineers with four 
+levels of technical 
+certification, across 
+11 disciplines. 
+The classes foster 
+knowledge transfer, 
+cross-functional collaboration, speed to solutions, and 
+personal development. In 2018, over 2,000 employees 
+were enrolled into the program, with 300 live sessions 
+offered, along with 117 web-based courses. A mid 
+program survey shows that a majority of respondents 
+agreed that Leap is effective in facilitating career and skills 
+development, builds consistency in technical capability, 
+and improves productivity. Edge: Senior Executive Leadership Development   
+Edge provides 
+executive training 
+for our most senior 
+leaders across all 
+business groups 
+and regions with 
+a world-class 
+curriculum designed in cooperation with faculty members 
+from the University of California at Berkeley Haas 
+School of Business. The curriculum is intended to equip 
+leaders with the skills needed to drive positive change. 
+Each participant has a 12-month journey through the 
+program that includes a mix of class sessions, professional 
+coaching, peer learning, and daily practices in targeted 
+development areas. The curriculum includes leading high-
+performance teams, strategic thinking, and executive 
+communications through continuous practice. Each 
+participant is challenged to collaborate on a large cross-
+functional team project selected to improve or increase 
+competitive differentiation. Edge graduates cascade their 
+learning through project sponsorships and leadership 
+presentations. During 2018, 141 leaders completed the 
+Edge program. 
+Workplace
+Gaining an Edge  
+Christopher Wong is a senior director of customer service in Singapore 
+and a 2018 graduate of the Edge leadership program. The program 
+expanded his internal network and allowed him to work on teams 
+addressing opportunities across the business. The curriculum provided 
+critical business insights and the tools and motivation to better articulate 
+Lam’s vision, mission, and objectives to employees in his organization. 
+According to Wong he learned “the importance of growing consistently.” 
+As a result of his participation, he has taken on additional responsibilities 
+supporting Lam’s Customer Support Business Group. 
+PMS 7462 C
+Cool Gray 9 CSkills & Career 
+DevelopmentCross 
+Functional 
+CollaborationSpeed to 
+SolutionKnowledge 
+TransferIncrease your technical knowledge 
+and advance your career.
+Leap is a four-level          
+certification program for 
+the technical community 
+focusing on:
+Leap
+94%of employees would stay 
+at a company longer if it 
+invested in their career*
+68%
+of employees prefer 
+to learn at work*
+56%
+of employees say that 
+they would spend more 
+time learning if their 
+manager suggested a 
+course to improve skills*
+*2018 LinkedIn Workplace Learning ReportLearn more about available programs and enroll today. Visit The Point > Resources > Leap Program >  
+Available Programs  
+Share your passion for technology. Email Leap@lamresearch.com to become a mentor, coach or instructor.
+Process Product
+ME/EE Systems
+SW & Controls Analytics
+Product MgmtTech Prog 
+MgmtCore DisciplinesLeap Program Worldwide Adoption Status  
+3000+
+as of  
+Q1 2019
+Lam is committed to fostering a culture of learning 
+and development for all our employees. The Leap 
+program not only offers courses to learn new skills 
+for your career development, but also enables you 
+to share your knowledge and expertise with peers.
+- Rick Gottscho, CTOTotal engineers enrolled 
+Training at Lam
+Number of training sessions  
+enrollments
+483,880
+43% increase over 2017
+Number of different courses
+1,854
+28% increase over 2017
+Dollars in reimbursement 
+for educational expenses
+$1,362,210
+19% increase over 2017Number of management 
+training participants
+976
+24% increase over 2017
+$Lam Research | Corporate Social Responsibility Report 201814
+Tech Vision: Realizing Opportunity with Innovation 
+and Collaboration  
+Tech Vision was launched in March 2018 to provide 
+shared purpose across the Lam global technical 
+community around areas of strategic relevance, customer 
+grand challenges, and critical enabling technologies. The 
+platform provides opportunities for our employees to 
+learn, connect, innovate, and inspire through “Accelerate 
+Innovation” and “Discover Together” initiatives. 
+Accelerate Innovation: We offer a unique lab 
+infrastructure that supports creativity and enables fast 
+cycles of learning. Our Leap program offers tailored 
+certification courses for the technical community to 
+help build skills that encompass both depth of expertise and broad knowledge across other disciplines to foster 
+career development and advancement. We support 
+open innovation programs that harness disruptive ideas 
+for co-development to drive speed to solution for our 
+customers.  
+Discover Together: We invest in a series of educational 
+opportunities and events that allow our engineers to 
+showcase their research with peers and management to 
+inspire one another, and encourage knowledge sharing 
+and collaboration. Customers, university faculty, and 
+students as well as leaders of innovation are frequently 
+invited to present and participate in these events 
+to provide exposure on the latest research and best 
+practices to encourage more innovation.Workplace
+My Tech  
+VisionLam Research | Corporate Social Responsibility Report 201815
+University Engagements  
+Lam collaborates with universities and academic 
+consortia around the globe by supporting leading-
+edge research and building strong relationships with 
+graduate and undergraduate students and professors. 
+These relationships support emerging technologies and 
+innovations, provide a pipeline of highly-skilled talent 
+and encourage thought leadership around disruptive 
+technologies that fuel innovation. In 2018, 64% of the 
+year’s new college graduate hires in the U.S. were from 
+schools where we have academic collaborations or 
+consortia memberships, and some of those candidates 
+were directly involved in Lam-funded projects or events.
+Lam’s university engagements include scholarships and 
+fellowships, research projects, thesis awards and scholarly 
+competitions, sponsored events, research consortia 
+and lab affiliations, and industry tours. In 2018, Lam 
+had research engagements with universities across 18 
+countries. Many of these programs and activities are 
+conducted jointly between the Lam Foundation and the 
+Office of the CTO. 
+Specific examples of Lam-sponsored activities include:  
+Unlock Ideas is a university grant program to support 
+feasibility testing of innovative ideas, funded jointly by 
+the Lam Foundation and the Office of the CTO. Winning 
+proposals received a seed donation to conduct research 
+collaborations with professors.   Tech Symposium is an annual event in collaboration with 
+our strategic university partners, Massachusetts Institute 
+of Technology (MIT), Stanford University, Tsinghua 
+University, and University of California, Berkeley. The 
+2018 event was co-sponsored by Tsinghua University in 
+Beijing, China. More than 150 students, professors, and 
+industry executives participated in keynote presentations, 
+plenary talks, discussion panels, a student poster session, 
+and networking opportunities to strengthen relationships 
+across academia and industry. The 2019 event will be held 
+at MIT in the fall. 
+Lam Days are annual events held at key university 
+campuses to promote networking and technical exchange 
+with students and faculty. The 2018 Lam Day at MIT 
+featured a Lam keynote, events with students from under-
+represented communities, including a breakfast with 
+graduate women at MIT, and engagement with three 
+research centers: MIT.nano, Microsystems Technology Lab 
+(MTL), and the Computer Science & AI Lab (CSAIL). 
+MEMS Design Contest is sponsored by Cadence Design 
+Systems, Coventor (a Lam subsidiary), and X-FAB in 
+conjunction with Reutlingen University. The contest 
+featured 10 qualifying and three finalist teams from 
+universities and research institutions located worldwide. 
+The goal of the contest was to test new micro-electro-
+mechanical systems (MEMS) design technologies and train 
+the next-generation of MEMS designers. The winner of 
+the 2018 Global MEMS Design Contest was announced 
+at CDNLive EMEA 2018, a Cadence® annual user 
+conference.  
+College Scholarships include thesis award competitions, 
+Innovation Design Center awards, and fellowships in 
+support of engineering and chemistry. Lam provided 
+scholarships to college students in the U.S. and Asia in 
+2018. 
+Textbook Donations are another way that Lam supports 
+university students. Lam donated over 350 textbooks 
+to Hanyang University, Yonsei University, Chung Ang 
+University, and Kwangwon University students in Korea. 
+The donation provided Solid State Electronic Devices and 
+Electronic Materials textbooks required for core classes.    
+Celebrating Achievement - Leaders in Technical 
+and Patented Innovation 
+Lam Research celebrates and recognizes the employees 
+who exemplify ground-breaking technical innovation and 
+expertise. We give two annual awards to recognize these 
+contributions:  Outstanding Technical Achievement Award   
+This award recognizes sustained technical contributions of 
+significant impact and exemplary leadership. It is awarded 
+to those employees who embody Lam’s mission, vision, 
+and Core Values. To be considered, an employee must: 
+ • Participate as a leader in our technical community 
+ • Consistently deliver technical contributions to our   
+  customers and the company 
+Patented Innovation Award  
+This award recognizes outstanding patented technology 
+issued in the U.S. in the last five years. Evaluation criteria 
+include: 
+ • Highly innovative technology 
+ • Competitive differentiation 
+ • Proven or anticipated (with high confidence)  
+  commercial successWorkplace
+2018 University 
+Engagement Locations
+United States Asia Europe South America20%20%2%
+58%Lam Research | Corporate Social Responsibility Report 201816
+Live Well Program  
+The health and well-being of employees is critical to 
+Lam’s sustainable success. The global Live Well program 
+is designed to support the physical and mental health of 
+employees in enriching ways at work, at home, and in the 
+community. The program is focused around four areas: 
+Eat, Move, Be Mindful, and Learn. The simplicity of these 
+areas helps make wellness relatable and achievable for all 
+employees. In 2018, we were honored with two awards 
+from the American Heart Association. 
+An online platform, launched in 2017, monitors 
+employee participation. In 2018, 5,000 employees partic              
+ated on that platform. Activities include both online 
+and in-person training, education, health screens, fairs, 
+speakers, and fitness programs.  
+Employee challenges have been a particularly popular 
+way to encourage employees to achieve positive 
+health outcomes. Examples include a Winter Olympics 
+Challenge, Blood Pressure Challenge, and Global Steps 
+Challenge. More than 1,200 employees signed up for 
+these competitions. 
+This year, we focused on three major health problems 
+in the U.S.: musculoskeletal, neoplasms (cancer), and 
+behavioral health (mental health/depression). We 
+offer a variety of programs to employees that directly 
+address these health problems, including: lifestyle 
+health coaching, personalized nutrition plans, biometric 
+screenings, genetic testing to identify potential health 
+issues, onsite blood pressure machines and 39 seminars 
+on topics such as heart health, financial well-being and 
+managing stress.Workplace
+5,000
+employees participating 
+in Live Well program
+67%
+increase in participation
+over 2017
+39
+wellness events 
+in 2018
+1,200
+participants in 
+Live Well challenges
+Stepping Up for Wellness
+Prateek Muchhal, software engineer in India 
+was one of 1,200 employees to participate 
+in the Global Steps Challenge in 2018. This 
+annual challenge motivates individuals to set 
+daily activity goals and motivate one another 
+to achieve their goals. Lam’s wellness activities 
+are designed to help employees build healthy, 
+long term habits.  
+Prateek tells us that he likes to have a balance 
+of work and fitness, participating in a variety 
+of activities such as cricket and marathons. 
+Participating in the Global Steps Challenge and 
+other Lam wellness activities ensures he stays 
+accountable and consistent with his exercise. 
+Prateek says, “I maintained a routine, even 
+after completion of the challenge, to get up 
+early and jog for at least five kilometers. I feel 
+fresh when I come to work, have better mind 
+control, and am more productive.”Lam Research | Corporate Social Responsibility Report 201817
+Community 
+ 
+Management Approach  
+Through our global philanthropy programs, Lam supports 
+organizations impacting issues that our employees care 
+about. It is through these programs that the company 
+extends its Core Values into the communities where our 
+employees live and work. Our charitable giving includes 
+grantmaking for education and quality of life initiatives, 
+employee gift matching, volunteer activities, and disaster 
+relief and recovery support. 
+Grants to non-profits are primarily distributed through 
+the Lam Research Foundation (“the foundation”) and are 
+administered through partnerships with the Silicon Valley 
+Community Foundation and the East Bay Community 
+Foundation. In addition, some international grants are 
+managed by Lam’s local offices. In 2018, foundation 
+giving totaled $3.7 million, up 13% from $3.3 million 
+in 2017. Altogether more than 1,154 unique charity 
+organizations were supported. This includes grants, 
+scholarships, and matching gifts.  
+Employee Engagement   
+Lam’s employee participation programs - matching dollars 
+for employee donations and volunteer time, volunteer 
+opportunities, and employee-sponsored grants to local 
+charities - seek to support employees as they give back 
+to their local communities around the globe and amplify 
+their impact. 
+In 2018, the foundation donated more than $800,000 in 
+matching gifts to charities around the world. This was 
+an expected reduction from 2017, when the total was a 
+record $1.7 million because of a one-time, double-match 
+campaign that contributed two dollars for every dollar 
+match and doubled the volunteer hour match to $20 for 
+every employee volunteer-hour.  
+Employees volunteered 11,321 hours, up from 9,770 
+hours in 2017. Activities ranged from helping families 
+with school supplies, delivering meals, restoring the 
+environment, mentoring and tutoring, supporting children 
+and seniors in need, and fund-raising for charities.In Villach, Austria, Lam employees purchased and 
+installed playground equipment for Hause Hernhilf youth 
+home that supports children in difficult situations. In Osan City, Korea, employees participated in a “Clean-
+up Campaign” of environmental conservation activities 
+in the local community in commemoration of World 
+Environment Day. During the 2018 annual holiday giving campaign, more 
+than 2,100 employees all over the world provided food, 
+toy, and clothing donations, and volunteered almost 
+1,300 hours. Community
+$100,000
+Dollars distributed in Core Values Scholarships2018 Giving by the Numbers
+$3.7M
+Total dollars in donations
+11,321
+Number of hours volunteered$400K
+Total dollars in scholarships$128K
+Dollars in 
+employee-sponsored 
+grants2,044
+Number of employee 
+donations
+LAM RESEARCH FOUNDATION
+AND EMPLOYEE MATCHING1001
+$PAY TO THE 
+ORDER OF
+DOLLARS
+MEMO
+| 001001 | 00009999 | 12345678 |2017
+~3.3 Million 
+Nearly three point three million 
+ Lam Research Community SupportCharitable Donations$811K
+Dollars in matching 
+donations1,154
+Number of charity 
+organizations supported
+2018 Giving by the Numbers
+$3.7M
+Total Dollars 
+in Donations
+$811K
+in Matching
+Donations$1.7M
+in Quality of 
+Life Grants$1.25M
+STEM and
+Education Grants;
+Scholarships
+2,044
+Number of employee donations
+11,321
+Number of hours volunteered
+1,154
+Number of charity organizations supported
+Lam Research | Corporate Social Responsibility Report 201818
+Charitable Grantmaking  
+Our charitable grantmaking is focused on two key areas: 
+Science, Technology, Engineering, and Math (STEM) 
+education/education support programs and “Quality 
+of Life” grants for social impact. The achievement 
+of students and young leaders in our communities is 
+important to us, and by meeting community educational 
+needs with sustainable programs, we expect to advance 
+the quality of education and support the cultivation 
+of a well-trained workforce. We are also committed to 
+supporting our local communities around the world by 
+investing in organizations that share our Core Values. 
+STEM Education. A highly-skilled workforce is essential 
+for the success of Lam today, and we believe that 
+advancing student achievement in math and science 
+education now will contribute to the future success of the 
+semiconductor manufacturing industry. 
+In addition to grants and volunteerism in support of K-12 
+and university STEM-related initiatives, we also invite 
+students to interact with our employees at our workplace 
+and in the community to share their passion for STEM 
+careers.
+Grants support elementary, middle, and high school 
+programs to address achievement gaps in underserved 
+communities. In 2018, we increased funding for STEM 
+and educational programs to more than $1.25 million, 
+representing 34% percent of our total foundation giving 
+in 2018.
+Some of the programs that received these additional 
+resources included: 
+For Inspiration and Recognition of Science and 
+Technology (FIRST) – a non-profit that engages youth 
+in research and robotics programs. Lam provided a new 
+$30,000 grant for a FIRST® Lego League program (for 
+grades 4-8) in Fremont/Silicon Valley, California and our 
+support of FIRST Robotics high school teams in Oregon 
+and New York increased to $75,000. 
+ 
+ Girls, Inc. – a non-profit aiming to inspire and empower 
+girls and young women in Oregon. Lam supports the 
+Eureka! program, a STEM-based approach to engaging 
+and empowering 8th to 12th grade girls. We increased 
+grant support from $15,000 to $25,000 to support the 
+demand for that popular and successful program. 
+As we expand our impact around the world, new 
+education program partnerships include:  
+Child Fund Korea – a non-profit that provides financial, 
+physical and emotional support for children. Lam sponsors 
+a program that teaches children how to code. 
+Vidya Poshak in India – a non-profit that supports 
+underprivileged students to pursue higher education.  
+Lam sponsors the educational expenses of 25 students.
+Community
+Lam Research | Corporate Social Responsibility Report 201819
+National Science and Technology Museum in Taiwan –  
+an organization that offers science and technology 
+education for kids. Lam supports the museum’s robotic- 
+related and coding programs. 
+Saturday Academy in Oregon – a non-profit that 
+connects students with community mentors and 
+educators with a focus on STEM. Lam provides funding 
+for their Girls Engage Technology (GET) program.
+In addition to grantmaking for STEM/education programs, 
+employees host manufacturing site visits so that, students 
+can learn about Lam’s high-skill, high-paying jobs and 
+its positive economic impact in the region. Visitors also 
+get hands-on exposure to an advanced manufacturing 
+environment to complement their STEM education. 
+One such student tour is sponsored by a Lam employee 
+group, “Community of Latinos and African Americans 
+for Student Success” (CLASS) based in Fremont. Tours 
+hosted by CLASS expose African American and Latino 
+students to STEM careers and bring students from the 
+Bay Area to Lam in Fremont to learn about the company’s 
+technology and gain exposure to engineers and other 
+professionals of similar ethnic backgrounds.  Quality of Life. Through the foundation, we contribute 
+to local, national, and international organizations that 
+help to improve people’s lives. This includes grantmaking 
+to charities that support underserved populations and 
+civic needs such as food and water security, support for 
+disadvantaged children and senior citizens, assistance 
+for economically disadvantaged communities, health 
+improvement, and environmental protection.
+In 2018, foundation giving for quality of life initiatives 
+totaled almost $1.7 million to organizations such as the 
+Singapore Children’s Society in support of their services 
+for vulnerable youth, the American Heart Association 
+for heart and stroke support programs, and numerous 
+community food banks providing meals for those in need. Community
+Lam Research | Corporate Social Responsibility Report 201820 Community
+Core Values Scholarship Alumni Share Their Achievements 
+Each year, Lam awards scholarships of $10,000 each to graduating high school seniors from local high schools in 
+California and Oregon. Students are chosen for exemplifying Lam’s Core Values. In 2018, we reached a significant 
+milestone – awarding more than $1 million to over 100 students since 2003. Two of our recent Core Value Scholarship 
+Alumni share their stories: 
+Adam Mitchell was a Core Values Scholarship winner in 
+2014 from Tualatin High School in Oregon. He graduated 
+from Pomona College in Claremont, CA as a physics and 
+astrophysics major. Currently he is at Georgetown University 
+Law School. His most recent job was as a research assistant 
+at NASA’s Jet Propulsion Laboratory in Pasadena, CA. Adam 
+is the first in his family to attend college and overcame 
+obstacles associated with an autism diagnosis at the age 
+of six. He sees himself as a role model for those with 
+overlapping or similar identities.
+Adam says, “I wish to pursue careers that I believe are noble, socially beneficial, and helpful to other people.” He thinks 
+that it is important for anyone considering a STEM degree to know that multiple career options are available and that 
+“STEM can be one of the most fulfilling and interesting subjects that you ever study.”  
+Maryann Gong received her Core Values scholarship in 
+2013 when she graduated from Granada High School 
+in Livermore, California. She graduated from the 
+Massachusetts Institute of Technology (MIT) and then 
+earned a Master of Engineering degree in January of 2018. 
+Currently she is a software engineer at Peloton Interactive in 
+New York, NY .
+Maryann shares how Lam’s Core Values influenced her in 
+school and work: “During school, the values of teamwork, 
+achievement, and honesty and integrity helped me keep 
+a healthy mindset. Today, at work, I practice the values 
+of open communication, which is key for working on a 
+successful project.”
+Maryann believes it is never too late to start a career in 
+a STEM field. When she got to college she hadn’t taken 
+any formal computer science courses. She initially felt very 
+behind her peers, but she quickly overcame any perceived 
+disadvantage. MIT was a formative place for Maryann. There 
+she met many entrepreneurial individuals. She says, “They 
+inspired me to do more and make an impact!” 
+Core Values Scholarships Milestones
+# of students 
+that received 
+Core Values Scholarships 
+since 2003
+118
+Dollars awarded 
+in Core Values 
+Scholarships 
+cumulative since 2003
+$1,002,341Lam Research | Corporate Social Responsibility Report 201821
+Operations: Environment  
+and Safety
+Environment   
+Management Approach
+Lam utilizes energy, water, and hazardous chemicals 
+and generates waste in our operations. Accordingly, we 
+carefully monitor and manage our environmental impact 
+across the business – in manufacturing, during research 
+and development and product design, and throughout 
+a product’s lifecycle. We commit to complying with 
+all applicable laws and regulations and protecting the 
+health and safety of our employees, contractors, and 
+customers. This commitment to environmental health and 
+safety is foundational to our overall operations and how 
+we manage our supply chain, risk, and compliance with 
+government regulations. It also influences our energy, 
+waste, and water management practices.
+Lam maintains corporate level certification for the 
+International Organization for Standardization (ISO) 
+14001, a voluntary international environmental 
+management standard that provides a framework for 
+effective environmental management systems. We have 
+maintained this certification since 2003. Responsibility 
+for the overall environmental program and related 
+sustainability initiatives are assigned to the global 
+Environmental Health and Safety (EHS) group at Lam. 
+Global EHS reports through Global Customer Operations 
+to the CEO. Additionally, the global workplace solutions 
+(GWS) group is responsible for energy efficiency and 
+renewable energy projects. GWS has key performance 
+indicators (KPI) on energy conservation and savings that 
+are tied to their annual performance monitoring process. 
+GWS reports through Global Operations (GOps) to the 
+CEO.
+Risk Management
+Risk management is an important part of the 
+management philosophy at Lam. The purpose of risk 
+management is to identify and evaluate the hazards 
+and risks faced by the organization, and to responsively 
+monitor and manage those risks. As part of our formal 
+risk management process, we monitor potential safety, 
+environmental, and regulatory issues. Our teams also 
+determine how environmental and climate change regulations impact our business operations and what 
+operational control methods we must apply to mitigate 
+the risks and ensure compliance.
+Global EHS has developed and implemented a global 
+EHS risk management program to standardize Lam’s EHS 
+risk assessment process. In 2018, the program included 
+EHS risk assessments at our factory sites at Osan, Villach, 
+Livermore, Tualatin, and Fremont campuses, Silfex 
+sites (both Eaton and Springfield) as well as Tualatin’s 
+warehouse operations. No unmitigated high-risk activities 
+or processes were identified during these assessments.
+Regulatory Compliance
+Lam is subject to a variety of governmental regulations 
+related to the management of hazardous materials 
+that we use in our business operations. In 2018, we 
+had no pending notices of violations, fines, lawsuits, or 
+investigations arising from environmental matters that 
+would have a material effect on our business.Operations: Environment and Safety
+Commitment to Addressing Climate Change  
+Lam recognizes that as a global business with manufacturing operations our greenhouse gas (GHG) emissions 
+contribute to climate change, and we strive to reduce those impacts. We also support climate initiatives asserted 
+by SEMATECH and transparently report on our environmental performance in this annual CSR report and the CDP 
+(formerly Carbon Disclosure Project) Questionnaire.
+In support of the American Business Act on Climate Pledge enacted in 2015, we identified and publicly committed 
+to achieve the following goals by 2020: 
+ • Reduce our GHG intensity by 20% from a 2012 baseline 
+ • Achieve an accumulated 14 million kilowatt hours (kWh) of energy savings through implementation  
+  of energy-efficiency projects among our global facilities compared to a 2012 baseline
+ • Build all new buildings to EPA ENERGY STAR standards
+ • Have our U.S. operations rely on 25% renewable energy sources by 2020
+ • Consistently expand the product and service offerings that enable customers to curb GHG emissions 
+  and chemical consumption within their operations 
+In 2018, we made significant progress towards our Climate Pledge goals to save energy and reduce emissions 
+through a variety of activities. We also made further investments in managing and measuring our environmental 
+impacts by adopting a new technology platform. This new platform will help ensure consistency and accuracy in our 
+data collection, streamline data analysis, and support future goal setting. Our operational and sustainability teams 
+are actively engaged to ensure we meet our energy goals, which we are currently on track to achieve. Lam Research | Corporate Social Responsibility Report 201822
+Responsible Business Alliance Evaluation
+Lam evaluates our corporate headquarters in Fremont and 
+our major manufacturing sites in Livermore, California; 
+Tualatin, Oregon; Villach, Austria; and Osan, Korea 
+annually using the Responsible Business Alliance (RBA) 
+self-assessment questionnaire. This assessment covers 
+a set of standards on labor, environmental, health and 
+safety, and ethical issues. We use this tool to gauge our 
+progress and continuously improve in these areas. In 
+2018, Lam was determined to be low-risk with overall 
+scores ranging from 87% to 90%.Greenhouse Gas Emissions
+Lam’s Scopes 1, 2, and 3 emissions increased over 2017. 
+The 4% increase in Scope 1 emissions in 2018 is mainly 
+due to the increased usage of process nitrous oxide for 
+research and development at the Tualatin campus. The 
+23% increase in Scope 2 emissions in 2018 is primarily due 
+to the addition of Korea and Silfex utility consumption. 
+Korea and Silfex data were previously not included in the 
+CSR report. Scope 1 & 2 Emissions 
+Lam pledged to decrease our Scope 1 and 2 emissions 
+by 20% using an intensity metric tons of carbon dioxide 
+equivalent (MTCO2e) per $1,000 of R&D spend. In 2018, 
+Lam’s GHG intensity metric was 30% below our 2012 
+baseline, surpassing our stated goal.
+Scope 3 Emissions 
+The calculated Scope 3 emissions are 34,565 MTCO2e, 
+which are attributed to our global business travel. The 
+emissions associated with business travel are for global 
+employees’ air travel, car rentals, and campus shuttle 
+buses. Lam offset 23,743 MTCO2e from business travel, 
+via carbon credits, representing 69% of our measured 
+Scope 3 emissions, see inset for further details. Lam’s 
+global site distribution creates difficulties in capturing 
+100% of our emissions associated with business travel. 
+The travel data Lam collects and currently offsets 
+represents approximately 80% of total travel for the 
+company.  Lam utilizes multiple suppliers to design, assemble, test, 
+and install semiconductor equipment. Calculating Scope 
+3 emissions from purchased goods and services and 
+upstream transportation is difficult to quantify due to the 
+number of suppliers, variability in our operations, and 
+various geographic locations. Operations: Environment and Safety
+0.0000.0200.0400.0600.0800.1000.120
+ - 10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000 90,000 100,000
+2012 2013 2014 2015 2016 2017 2018Metric Tons CO2e/$1,000R&D spend Metric Tons CO2e
+Calendar YearScope 1 & 2 GHG Emissions and Intensity
+Scope 1 total Scope 2 total  (Market-Based) Scope 1 and 2/$R&D spend2020 Goal
+Carbon Offsets Mitigate Scope 3 Emissions 
+In 2018, Lam purchased carbon credits offsetting 
+23,743 MTCO2e of our global employees’ air and 
+rental car travel and the employee shuttle. The 
+carbon credits fund the following sustainability 
+projects:
+Lam offsets a portion of air travel through the 
+Tonk Biomass Project. This Gold Standard project 
+generates clean energy from mustard crop residues in 
+Tonk, India. Since 2008, Kalpataru Power Transmission 
+Limited (KPTL) and Atmosfair cooperate in the Tonk 
+Biomass Project. Their goal is to produce renewable 
+energy at comparable prices to electricity from 
+coal power plants. To reach this goal they have 
+continuously improved the efficiency of the power 
+plant as well as streamlined operations in the biomass 
+storage and delivery system. In 2018, this resulted 
+in 44,596 MWh of renewable electricity fed into 
+the grid, which equals 43 MTCO2e mitigated by 
+the project. Until 
+2022, additional 
+funding generated 
+will ensure that 
+the power plant 
+generates clean 
+electricity along with 
+additional income 
+for local farmers 
+who sell their crop 
+residues to KPTL.
+Lam offsets a 
+portion of car 
+rentals and shuttles 
+with credits from Big Smile Wind Farm at Dempsey 
+Ridge, Oklahoma. This project delivers enough clean 
+energy to power more than 46,000 U.S. homes.
+Lam will continue to fund both projects in 2019. 
+Certificate
+for offsetting greenhouse gas emissions
+Lam Research has offset 5,824,000 kg 
+of CO 2 greenhouse gases from flights between Oct 01, 
+2017 and Dec 31, 2017.
+What does your climate protection contribution accomplish?
+With your climate protection contribution of 40,476.80 USD, you are supporting the 
+following project:
+India: electricity from crop residues 
+atmosfair supports thousands of small farmers to sell their previously worthless crop 
+waste to biomass plants. Thereby, fossil fuels are replaced by renewable energy sources.
+atmosfair operates its projects according to the Clean Development Mechanism
+(CDM) outlined in the Kyoto Protocol as well as the “Gold Standard” established by
+international environmental organisations. Independent organisations approved by
+the United Nations (e.g., TÜV) audit the projects’ actual CO2 reductions.
+See more at
+www.atmosfair.de/en
+GHG Emissions Scope12018 MTCO2e % change (Y/Y)  
+Scope 1 Emissions227,426 4% increase 
+Scope 2 Location Based 
+Emissions65,137 23% increase 
+Scope 2 Market Based 
+Emissions364,026 23% increase 
+Scope 3 Emissions 34,565 24% decrease 
+1 2018 data include Fremont, Livermore, Tualatin, Villach, Korea, and Silfex.  
+2 Scopes 1-2: We use the Austria National Emission Factors to calculate the Scope 1 and 2 emissions from 
+their operations. In 2018, our Scope 1 emission for U.S. facilities are calculated using Fourth Assessment 
+(AR4) Global Warming Potentials.   
+3 Our facility in Austria obtains 100% of its electricity from a renewable energy market-based instrument. 
+As per the market-based method of the Scope 2 Protocol, we are reporting 0 MTCO2e for Scope 2 
+market-based emission at this facility.  
+CDP  
+Lam discloses our carbon footprint, water data, and 
+climate-and-water-related risks and opportunities 
+through CDP .  In 2018, Lam received a “B” grade on 
+the Climate Change Survey and “B-“ on the Water 
+Survey.  These scores are higher than the general 
+sector average and North America regional average 
+and have shown improvement over 2017. 
+Lam Research | Corporate Social Responsibility Report 201823
+Energy Savings 
+Lam pledged to achieve an accumulated 14 million kWh 
+of energy savings through implementation of energy-
+efficiency projects among our global facilities compared 
+to a 2012 baseline. We are currently at 75% of our 2020 
+goal. To date, our accumulated energy savings are 10.4 
+million kWh, up from 4.4 million kWh in 2017. In 2018, we 
+invested in a variety of energy efficiency projects to make 
+significant progress toward our goal. 
+Energy efficiency projects in 2018 included:
+ • LED lighting. Upgrades installed in May of 2018 at 
+  our Fremont campus produced 1.8 million kWh 
+  savings. More than 7,000 lighting fixtures were  
+  replaced with energy-efficient LED lighting, and 
+  100% of old lamps were recycled. In addition,  
+  employees have expressed increased satisfaction  
+  with their workplace lighting. Lam estimates future  
+  savings of 2.2 million kWh annually from this project.
+ • Gas burner system upgrades. At our Tualatin site,
+   we installed a modulating burner system for   
+  building heating using natural gas that is more 
+  efficient and produces fewer GHGs than the original 
+  steam boiler. The new unit saved 31,000 kWh in 
+  2018 and will achieve savings of more than 
+  120,000 kWh annually. 
+In 2019, we plan to implement new energy efficiency 
+projects to meet our 2020 goals. Planned projects in 2019 
+include:
+ • Process cooling water system. Two process cooling 
+  water systems in our Osan, Korea plant will be 
+  consolidated in 2019. The system will store and 
+  recirculate water used in the manufacturing process.  
+  Lam estimates annual savings from this project of 
+  147,000 kWh. • Compressor consolidation. In our two 120,000 
+  ft2 manufacturing facilities in Livermore, California 
+  we will consolidate two compressors and dryers. 
+  These compressors support clean dry air in our clean 
+  room environments. Lam estimates annual savings  
+  from this project of 600,000 kWh. 
+Overall energy use from our facilities continues to 
+increase mainly due to increased production capacity. The 
+significant increase in our energy consumption in 2018 
+was primarily driven by including energy consumption at 
+our Silfex facilities for the first time. 
+ENERGY STAR Standards  
+Lam pledged to build all new buildings to Environmental 
+Protection Agency ENERGY STAR standards. Currently, 
+twelve Lam facilities incorporate ENERGY STAR certified 
+products and standards and one new building has been 
+built to ENERGY STAR standards. Renewable Energy  
+Lam pledged to have our U.S. operations rely on 25% 
+renewable energy sources by 2020.
+Our data indicates that renewable energy makes up 
+35% (or 68.7 million kWh) of our 2018 global energy use 
+and approximately 33% (or 60.2 million kWh) of our U.S. 
+energy use. In the base year 2012, the percentage of 
+renewable energy sources in the U.S. was 15%.
+In Villach, Austria, we completed our largest solar project 
+to date: the installation of 3,904 solar photovoltaic panels 
+(pictured above). In 2019, we estimate that 2.4 million 
+kWh will be produced. This will provide approximately 15-
+17% of our total energy consumption for that site.Lam provides onsite electric vehicle charging stations at 
+three facilities that contribute to reduction in emissions 
+associated with commuting. Lam currently has 34 
+charging stations in operation, a 42% increase over 2017. 
+In 2018, employee usage of the stations equaled over 
+23,000 gallons in gasoline savings and a reduction of 77 
+MTCO2e.
+Products and Services with Environmental Features  
+Lam pledged to design our products to use less energy, 
+water, and chemicals; extend the life of products to 
+ensure less waste; and adopt production techniques that 
+minimize energy use. To respond to customer demand, 
+we have a goal of 30% energy reduction per wafer by 
+2020 (from a 2015 baseline). We approach the reduction 
+of power usage of our products in two ways: productivity 
+improvements (reducing the amount of energy consumed 
+in making each wafer) and pure energy savings (building 
+our equipment with more energy-efficient heaters, radio 
+frequency power sources, and other components). Eco-
+mode is now offered as an optional feature that places 
+pumps and scrubbers in idle mode when not in use. 
+Our spare parts, systems upgrades, and refurbishment 
+programs help our customers increase productivity and 
+extend the longevity of their manufacturing equipment.
+We continue to invest in R&D to extend the life and 
+productivity of our products, which ultimately saves 
+materials and energy. One ongoing project is the energy 
+reduction features in our deposition products which 050,000,000100,000,000150,000,000200,000,000250,000,000
+2012 2013 2014 2015 2016 2017 2018Kilowatt Hours
+Calendar YearAnnual Energy Consumption05101520253035
+2012 2016 2017 2018Percent of Total 
+Calendar YearEnergy From Renewable Sources in U.S.
+2020 Goal
+25%Operations: Environment and Safety
+2020 Goal, 
+14,000,000
+02,000,0004,000,0006,000,0008,000,00010,000,00012,000,00014,000,00016,000,000
+2015 2016 2017 2018Kilowatt Hours
+Calendar YearAccumulated Energy SavingsLam Research | Corporate Social Responsibility Report 201824
+gained momentum in 2018. An estimated 11% energy 
+reduction related to process cooling water and exhaust 
+can be achieved in certain configurations.
+Lam’s Customer Support Business Group (CSBG) focuses 
+significant attention on delivering solutions that meet our 
+customers’ technical requirements as well as productivity 
+needs during the equipment lifecycle. This growing 
+business of Lam enables our customers’ success by 
+delivering world-class service and lifecycle solutions for 
+their most critical equipment and process challenges. 
+Through our product buy-back program, we’re able 
+to lessen the environmental impact and extend the 
+service life of our tools. Used products from customers 
+are refurbished, repurposed, reconfigured, and either 
+re-sold to other customers or re-used for research and 
+development in our labs.   
+Waste: Reduce, Reuse, Recycle
+Lam carefully monitors and manages hazardous and non-
+hazardous waste generation as a result of our operations. 
+We report our impact and have operational programs in 
+place to ensure that we comply with applicable laws and 
+regulations.
+Non-Hazardous Waste  
+Solid waste at Lam’s facilities is segregated with the 
+primary intention of diverting waste from landfills and 
+other disposal sites through recycling and reuse. In 
+2018, 57% of non-hazardous solid waste was recycled, 
+a decrease from 70% in 2017. The total mass of non-
+hazardous recycled waste was 3,986 Metric Tons (MT) 
+in 2018, an increase of 76% from 2,260 MT in 2017. The 
+total mass of non-hazardous waste generated was 6,939 
+MT in 2018, an increase of 114% from 3,236 MT in 2017. 
+These changes are primarily due to the addition of Silfex 
+data in 2018. Foam packaging is one of the major non-hazardous 
+waste streams at our Livermore location. Lam installed 
+a foam densifier in 2011 that grinds and melts the foam 
+packaging and forms it into ingots which are then sold 
+to manufacturers of polyethylene products. In 2018, we 
+recycled 89 metric tons of densified foam, a 13% increase 
+over 2017. 
+Use a Cup. Save the Earth
+Lam Korea employees launched a Save the Earth 
+Campaign to replace bottled water with personal mugs 
+and cups. Since the start of the campaign in August, the 
+operation has cut plastic water bottle consumption by 
+36%, from a base of more than 2,400 water bottles per 
+month. 
+Hazardous Waste  
+Lam is aware of environmental risks and legal obligations 
+related to hazardous materials and chemicals and takes 
+all appropriate measures to keep operations safe. 
+The majority of Lam’s hazardous wastes are corrosive 
+inorganic and heavy metal wastes, flammable solvent 
+wastes, and lab debris from semiconductor processes in 
+our R&D operations. The overall recycling diversion rate for our hazardous 
+waste in 2018 was 28% compared to the previous 
+year’s diversion rate of 23%. The total mass of recycled 
+hazardous waste was 505 MT in 2018, an increase of 78% 
+from 284 MT in 2017. The total mass of hazardous waste 
+generated was 1,788 MT in 2018, an increase of 47% from 
+1,219 MT in 2017. The significant increase is due to an 
+increase in concentrated mixed heavy metal wastewater 
+generated at the Tualatin site; the waste is sent to a 
+recycling facility for metal recovery.
+In 2018, as part of our due diligence and environmental 
+efforts, Lam initiated a risk assessment of our major 
+hazardous waste management vendors and their transportation, storage, and disposal facilities (TSDFs). 
+Lam partnered with CHWMEG, a non-profit trade 
+association, to conduct comprehensive reviews of 
+commercial TSDFs. In 2018, we audited six major TSDFs 
+in the U.S., which resulted in no major findings. In 2019, 
+we will continue our assessment of eight more TSDFs 
+used by our manufacturing sites. The main objective 
+is to identify and mitigate potential liability related to 
+hazardous waste generated by our manufacturing and 
+R&D activities.  Operations: Environment and Safety
+ - 20 40 60 80
+ - 2,000 4,000 6,000 8,000
+2015 2016 2017 2018Diversion RateMetric Tons
+Calendar YearNon-hazardous Waste Generation 
+and Diversion
+Total non-hazardous waste Non-hazardous waste diversion rate - 5 10 15 20 25 30
+ - 500 1,000 1,500 2,000
+2015 2016 2017 2018Diversion rateMetric Tons
+Calendar YearHazardous Waste Generation and Diversion
+Total hazardous waste Hazardous waste diversion rate
+Lam Research | Corporate Social Responsibility Report 201825
+Packaging  
+In 2018, Lam laid the foundation with several key 
+suppliers to implement new thermoformed packaging 
+technology. Initial volume was minimal, representing an 
+estimated reduction of 2.7 MTCO2e. With planned roll 
+outs of the new packaging in 2019, Lam is estimating a 
+packaging emissions reduction of 72.3 MTCO2e. 
+Chemical Management System
+In 2018, Lam began developing an integrated chemical 
+inventory management system. When fully implemented 
+in 2019, this system will connect physical real-time 
+inventory to procurement, usage conditions, and 
+regulatory reporting for chemical users, handlers, and 
+planners. The result will be improved chemical usage 
+efficiency, reduced waste, and greater transparency 
+across lab locations. 
+Water  
+In 2018, globally we used 191 million gallons of water. As 
+part of the permit requirements, we monitor and measure 
+total discharge to the sanitary sewer, and the data are 
+included in our semi-annual self-monitoring reports to the 
+regulatory agencies.
+Our Fremont facility received a Certificate of Merit from 
+its regional water management utility, the Union Sanitary 
+District, a distinction it has earned for eight consecutive 
+years. The District recognized the Fremont site for its 
+consistent compliance with pretreatment regulations, 
+implementation of pollution prevention measures, and 
+demonstration of its awareness and understanding of 
+environmental issues. 
+ Operations: Environment and Safety
+Tualatin Facility Leads in Reuse and Reclaimed Water Use
+Our Tualatin facility reclaims treated process wastewater and uses it as feed water to the house scrubbers 
+and point-of-use abatement units in the research and development labs. For the past three years, 87% 
+of total treated wastewater in Tualatin has been reclaimed. In 2018, we reclaimed 86 million gallons an 
+increase of 8% from 2017. The reclaimed water helps reduce our total global water withdrawals and the 
+volume of municipal water needed to support our facility infrastructure.   Lam Research | Corporate Social Responsibility Report 201826
+Health and Safety
+Management Approach
+At Lam, the safety of our employees is critical. We 
+aim to protect the health and safety of our personnel 
+throughout our entire operation, including in our 
+offices, manufacturing sites, R&D centers, and our field 
+teams working at customer sites. We recognize that 
+behavior and training are the most important factors 
+in preventing injuries and safety incidents. Therefore, 
+we have a rigorous health and safety program that 
+uses consultation, education, behavior monitoring, and 
+awareness to reinforce that safety is the responsibility 
+of every employee, contractor, customer, supplier, and 
+visitor. This culture forms the basis of our strong record of 
+safety performance.
+We believe that all workplace injuries and safety incidents 
+are preventable. With continued investment in injury 
+prevention and education programs, we strive to achieve 
+an incident-free workplace and ensure that our employees 
+return home safe every day. 
+Our EHS management system in Fremont is externally 
+certified to the internationally recognized Occupational 
+Health and Safety Assessment Series (OHSAS) 18001 
+standard. In 2019, Lam will begin preparation at our 
+Osan and Fremont sites to achieve third-party validation 
+to ISO 45001, the new international standard for safety 
+management systems, published in March 2018. The goal of ISO 45001 is to help organizations achieve further 
+reduction of occupational injuries and diseases, and it 
+is based on OHSAS 18001 conventions and guidelines 
+which will be replaced once 45001 certification is 
+achieved in 2020. 
+Injury Rates and Risk Management  
+Lam ended 2018 with a global recordable injury rate 
+of 0.29, less than half the semiconductor equipment 
+manufacturing industry average of 0.6. There were no 
+fatalities. The most common injuries, representing nearly 
+90% of all injuries in 2018 include: strains and sprains; 
+slips, trips and falls; struck by or against objects; and 
+pinched by or caught in objects.Much of our success in sustaining our low recordable 
+rate is due to our proactive prevention and awareness 
+programs. A key element of these programs is our 
+employee- and management-driven Risk Management 
+By Walking Around (RMBWA) inspection process. The 
+RMBWA inspections not only help us identify and track 
+corrective actions for potential health and safety risks, 
+they drive active engagement by our workforce. We use 
+the inspection findings to identify areas for additional 
+focus and training and to inform what topics we include 
+in our regular safety updates to employees. In 2018, we 
+logged 191,822 RMBWA inspections worldwide, up from 
+132,320 RMBWA inspections in 2017. 
+Another key EHS tool is the global Rapid Field Risk 
+Assessment (RFA), which is designed to help our field 
+personnel assess and mitigate risks associated with 
+non-standard tasks at customer sites. In addition, Lam’s 
+Safety Awareness for Everyone (SAFE) program engages 
+employees in safety training that is topical and relevant 
+and directly addresses issues identified in our RMBWA 
+process. We share safety messages monthly with our 
+employees who work in manufacturing, laboratories, 
+operations, and at customer sites. Other employees 
+receive SAFE messages quarterly, which are mandatory 
+for all employees.
+In 2018, our safety programs focused on four areas 
+to continue our move beyond regulatory compliance 
+and management systems to an even more proactive 
+approach of risk prevention: 
+ • Risk assessments and audits of critical sites, such as 
+  manufacturing facilities and field-service offices.  
+ • Risk audits of waste management service 
+  provider facilities  
+ • Developing the ability of contractor management  
+  to assess risks
+ • Increasing auditing processes and programs 
+Utilizing these tools and focusing on preventative action 
+contributed to Lam receiving seven awards from five 
+customers for safety performance. One customer named 
+Lam as an outstanding vendor for EHS Management. 
+This recognition is an appreciated reinforcement of our 
+commitment to safety. Operations: Environment and Safety
+0.81.1 1.1
+0.6
+0.42
+0.330.280.350.29
+0.000.250.500.751.001.25
+2014 2015 2016 2017 2018Rate per 100 Employees
+Calendar YearRecordable Injury Rate (Lam vs Indus try)1 
+Industry Avg Lam Rate
+1 2018 industry average for recordable injury rates data not available at time of publicationLam Research | Corporate Social Responsibility Report 201827
+Performance SummarySummary
+Performance Area 2016 2017 2018
+Company Overview
+Number of full-time employees ~8,200 ~10,200 ~10,950
+Revenue1$5.9B $8.0B $11.1B
+R&D spend (as percentage of 
+operating expenses)1~$914M (59%) ~$1.0B (61%) ~$1.2B (61%)
+Workplace
+Employee retention rate 94% 95% 93%
+Average service years 8.3 7.3 7.2
+Giving by the Lam Research 
+Foundation$2.1M $3.3M $3.7M
+EHS Management System
+RMBWA 77,256 132,320 191,822
+OSHA recordable incident rate 0.33 0.28 0.35
+GHG emissions Scopes 1 and 2 (MT 
+CO2e)73,082 78,370 92,563
+GHG emissions Scope 3 (MT CO2e) 33,275 241,032 34,565 
+Hazardous waste diversion 18% 23% 28%
+Recycling diversion 61% 70% 57%
+Water usage (cubic meters) 609,101 586,870 723,013
+Number of environmental fines 0 0 0
+_______________________________________________________ 
+1. All figures are for calendar year, with the exception of 
+revenue and R&D spend which are presented on a fiscal year 
+basis: 2016 is for the fiscal year ending June 26, 2016; 2017 is 
+for the fiscal year ending June 25, 2017; 2018 is for the fiscal 
+year ending June 24, 2018. M is defined as million  
+and B is defined as billion.Lam Research | Corporate Social Responsibility Report 201828
+GRI IndexGRI Index
+GRI 102 General Disclosures
+Disclosure 102-1 Name of the organization Company Overview, p.7 
+Disclosure 102-2 Activities, brands, products, and services Company Overview, p.7 
+Disclosure 102-3 Location of headquarters Fremont, Calif. USA 
+Disclosure 102-4 Location of operations Company Overview, p.8 
+Disclosure 102-5 Ownership and legal form Company Overview, p.8 -The company’s stock is publicly traded on the Nasdaq under the symbol LRCX.  
+Disclosure 102-6 Markets served Company Overview, p.8 
+Disclosure 102-7 Scale of the organization Company Overview, p.8 
+Disclosure 102-8 Information on employees and other workers Workplace, p.11 
+Disclosure 102-9 Supply chain Company Overview, p.10 
+Disclosure 102-10 Significant changes to the organization and its supply chain About This Report, p.10 
+Disclosure 102-11 Precautionary Principle or approach Yes 
+Disclosure 102-12 External initiatives Company overview, p.10. ; Community, p.17-20; Environment and Safety, p.21-22 
+**Confirm Disclosure 102-13 Membership of associations Institute of Supply Chain Management, p.11; SEMI,  p.11; GEM Consortium, p.13; University Engagements, p.15; East Bay and Silicon V alley Foundations, p.17; ISO, p. 21.27; RBA, p.21; SEMATECH, p 21; 
+CDP , p.22-23; CHWMEG, p.25.
+Disclosure 102-14 Statement from senior decision-maker CEO Letter, p.3 
+Disclosure 102-15 Key impacts, risks, and opportunities 2018 10-k, p.13  ; Letter to Stockholders 
+Disclosure 102-16 Values, principles, standards, and norms of behavior Company Overview, p.9 
+Disclosure 102-17 Mechanisms for advice and concerns about ethics Company Overview, p.9 
+Disclosure 102-18 Governance structure 2018 Proxy Statement, Governance Matters , p.7+ 
+Disclosure 102-19 Delegating authority About This Report, p.4 
+Disclosure 102-20 Executive-level responsibility for economic, environmental, and social topics Yes 
+Disclosure 102-21 Consulting stakeholders on economic, environmental, and social topics About this Report,  p.4 
+Disclosure 102-22 Composition of the highest governance body and its committees 2018 Proxy Statement, Governance Matters, p.10+ 
+Disclosure 102-23 Chair of the highest governance body Stephen G. Newberry 
+Disclosure 102-24 Nominating and selecting the highest governance body 2018 Proxy Statement, Governance Matters, p.7 
+Disclosure 102-25 Conflicts of interest 2018 Proxy Statement, Governance Matters, p.7 
+Disclosure 102-26 Role of highest governance body in setting purpose, values, and strategy About This Report, p. 4 
+Disclosure 102-27 Collective knowledge of highest governance body 2018 Proxy Statement, p.2 , p.46, p.52
+Disclosure 102-28 Evaluating the highest governance body’s performance 2018 Proxy Statement, Compensation Matters, p. 16+ 
+Disclosure 102-29 Identifying and managing economic, environmental, and social impacts About this Report, Lam’s Approach to CSR, p.4 
+Disclosure 102-30 Effectiveness of risk management processes 2018 10-k, p.12 , p.13+  
+Disclosure 102-31 Review of economic, environmental, and social topics About this Report, Lam’s Approach to CSR, p.4 
+Disclosure 102-32 Highest governance body’s role in sustainability reporting About This Report, p.4 
+Disclosure 102-33 Communicating critical concerns Critical concerns are elevated to the Board of Directors at the discretion of the Executive Committee 
+Disclosure 102-34 Nature and total number of critical concerns Not available.  
+Disclosure 102-35 Remuneration policies 2018 Proxy Statement, Exec. Compensation Highlights, p.16+ 
+Disclosure 102-36 Process for determining remuneration 2018 Proxy Statement, Exec Compensation Highlights, p.16+ 
+Disclosure 102-37 Stakeholders’ involvement in remuneration 2018 Proxy Statement, p.53+ 
+Disclosure 102-38 Annual total compensation ratio 2018 Proxy Statement, p.40 
+Not in 2017. Disclosure 102-39 Percentage increase in annual total compensation ratio 2018 was the first disclosure.  
+Disclosure 102-40 List of stakeholder groups About This Report, Stakeholder Engagement, p.5 
+Disclosure 102-41 Collective bargaining agreements None 
+Disclosure 102-42 Identifying and selecting stakeholders About this Report, p.5 
+Disclosure 102-43 Approach to stakeholder engagement About this Report, Stakeholder Engagement, p.6 
+Disclosure 102-44 Key topics and concerns raised About this Report, p.5 
+Disclosure 102-45 Entities included in the consolidated financial statements 2018 10-k, Exhibit 21 
+Disclosure 102-46 Defining report content and topic boundaries About This Report, p.4 
+Disclosure 102-47 List of material topics About This Report, p.5 Lam Research | Corporate Social Responsibility Report 201829
+GRI Index (continued)GRI Index
+Disclosure 102-48 Restatements of information None. 
+Disclosure 102-49 Changes in reporting Workplace, p.12 
+Disclosure 102-50 Reporting period Calendar Year 2018, Exceptions noted 
+Disclosure 102-51 Date of most recent report 2017 
+Disclosure 102-52 Reporting cycle Annual 
+Disclosure 102-53 Contact point for questions regarding the report CSR@lamresearch.com 
+Disclosure 102-54 Claims of reporting in accordance with the GRI Standards About This Report, p.4 
+Disclosure 102-55 GRI content index Yes 
+Disclosure 102-56 External assurance No 
+GRI 103 Management Approach   
+Disclosure 103-1 Explanation of the material topic and its boundary About This Report, p.4-5 
+Disclosure 103-2 The management approach and its components Workplace, p.11.; Environment, p.21; Safety, p. 26; Community, p. 17 
+Disclosure 103-3 Evaluation of the management approach Workplace, p.11.; Environment, p.21; Safety, p.26; Community, p.17 
+GRI 201 Economic Performance   
+Disclosure 201-1 Direct economic value generated and distributed investor.lamresearch.com, CSR Report, p.8 
+Disclosure 201-2 Financial implications and other risks and opportunities due to climate change CSR Report, p.21; 2018 CDP Report, section 5.1  
+Disclosure 201-3 Defined benefit plan obligations and other retirement plans 2018 10-k, p.47 
+Disclosure 201-4 Financial assistance received from government None 
+GRI 202 Market Presence  
+Disclosure 202-1 Ratios of standard entry level wage by gender compared to local minimum wage We consider this information confidential. 
+Disclosure 202-2 Proportion of senior management hired from the local community All executives leading international operations are local.  
+GRI 203 Economic Impacts   
+Disclosure 203-1 Infrastructure investments and services supported None 
+Disclosure 203-2 Significant indirect economic impacts Community, p.17 
+GRI 204 Procurement Practices   
+1. Management approach disclosures Company Overview, p.10 
+2. Topic-specific disclosures Company Overview, Global Supply Chain, p.10  
+GRI 205 Anti-corruption   
+Disclosure 205-1 Operations assessed for risks related to corruption 00% 
+Disclosure 205-2 Communication and training about anti-corruption policies and procedures Company Overview, p.10 
+Disclosure 205-3 Confirmed incidents of corruption and actions taken We consider this information confidential. 
+GRI 206 Anti-competitive Behavior   
+Disclosure 206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices None 
+Environment   
+GRI 301 Materials   
+   
+Disclosure 301-2 Recycled input materials used Environment and Safety, p.24 
+Disclosure 301-3 Reclaimed products and their packaging materials Environment and Safety, p.25 
+GRI 302 Energy   
+Disclosure 302-1 Energy consumption within the organization Environment and Safety, p.23  
+Disclosure 302-2 Energy consumption outside of the organization We do not track this information. 
+ c Environment and Safety,Scope 2 intensity metric , p.22 
+Disclosure 302-4 Reduction of energy consumption Environment and Safety, p.23 
+Disclosure 302-5 Reductions in energy requirements of products and services Environment and Safety, p.23 
+GRI 303 Water Environment and Safety, p.23-24
+GRI 304 Biodiversity   
+Disclosure 304-1 Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high 
+biodiversity value outside protected areasNone known 
+Disclosure 304-2 Significant impacts of activities, products, and services on biodiversity None knownLam Research | Corporate Social Responsibility Report 201830
+GRI Index (continued)GRI Index
+   
+Disclosure 304-4 IUCN Red List species and national conservation list species with habitats in areas affected by 
+operationsNone known
+GRI 305 Emissions   
+Disclosure 305-1 Direct (Scope 1) GHG emissions Environment and Safety, p.22 
+Disclosure 305-2 Energy indirect (Scope 2) GHG emissions Environment and Safety, p.22 
+Disclosure 305-3 Other indirect (Scope 3) GHG emissions Environment and Safety, p.22 
+Disclosure 305-4 GHG emissions intensity Environment and Safety, p.22 
+Disclosure 305-5 Reduction of GHG emissions Environment and Safety, p.22 
+   
+   
+GRI 306 Effluents and Waste   
+Disclosure 306-1 Water discharge by quality and destination Environment and Safety, p.25 
+Disclosure 306-2 Waste by type and disposal method Environment and Safety, p.24 
+Disclosure 306-3 Significant spills None 
+   
+Disclosure 306-5 Water bodies affected by water discharges and/or runoff Minimal impact to the Tualatin River in OR, Arroyo Las Positas Creek in CA,  Coyote Creek in CA, Mud Slough in CA, and the Greater Miami in OH.  
+GRI 307 Environmental Compliance    
+Disclosure 307-1 Non-compliance with environmental laws and regulations None 
+GRI 308 Supplier Environmental Assessment   
+Disclosure 308-1 New suppliers that were screened using environmental criteria None 
+Disclosure 308-2 Negative environmental impacts in the supply chain and actions taken None known
+Social   
+GRI 401 Employment   
+Disclosure 401-1 New employee hires and employee turnover Workplace, p.11 
+   
+   
+GRI 402 Labor/Management Relations   
+Disclosure 402-1 Minimum notice periods regarding operational changes Varies by Local Law. 
+GRI 403 Occupational Health and Safety  
+Disclosure 403-1 Workers representation in formal joint management–worker health and safety committees Employees of all levels are extensively involved in safety monitoring and initiatives. 
+Disclosure 403-2 Types of injury and rates of injury, occupational diseases, lost days, and absenteeism, and 
+number of work-related fatalitiesEnvironment and Safety, p.26 
+Disclosure 403-3 Workers with high incidence or high risk of diseases related to their occupation None 
+   
+GRI 404 Training and Education   
+Disclosure 404-1 Average hours of training per year per employee Workplace, p.13 
+Disclosure 404-2 Programs for upgrading employee skills and transition assistance programs Workplace, p.13-15 
+   
+GRI 405 Diversity and Equal Opportunity  
+Disclosure 405-1 Diversity of governance bodies and employees Workplace, p.12 
+Disclosure 405-2 Ratio of basic salary and remuneration of women to men Not reported
+GRI 406 Non-discrimination   
+   
+GRI 407 Freedom of Association and Collective Bargaining   
+Disclosure 407-1 Operations and suppliers in which the right to freedom of association and collective bargaining 
+may be at riskNone
+GRI 408 Child Labor   
+Disclosure 408-1 Operations and suppliers at significant risk for incidents of child labor About this Report, p.6 Lam Research | Corporate Social Responsibility Report 201831
+GRI Index (continued)GRI Index
+GRI 409 Forced or Compulsory Labor   
+Disclosure 409-1 Operations and suppliers at significant risk for incidents of forced or compulsory labor Company Overview, p.10 
+   
+   
+GRI 411 Rights of Indigenous Peoples   
+Disclosure 411-1 Incidents of violations involving rights of indigenous peoples None 
+GRI 412 Human Rights Assessment   
+Disclosure 412-1 Operations that have been subject to human rights reviews or impact assessments Company Overview, p.10 
+ Disclosure 412-2 Employee training on human rights policies or procedures Company Overview p.10 
+   
+GRI 413 Local Communities   
+Disclosure 413-1 Operations with local community engagement, impact assessments, and development 
+programsCommunity, p.17 
+   
+GRI 414 Supplier Social Assessment   
+Disclosure 414-1 New suppliers that were screened using social criteria Company Overview, p.10 
+   
+GRI 415 Public Policy   
+Disclosure 415-1 Political contributions None
+GRI 416 Customer Health and Safety   
+Disclosure 416-1 Assessment of the health and safety impacts of product and service categories Environment and Safety,  p.21 
+   
+GRI 417 Marketing and Labeling   
+   
+Disclosure 417-2 Incidents of non-compliance concerning product and service information and labeling None 
+   
+GRI 418 Customer Privacy   
+Disclosure 418-1 Substantiated complaints regarding concerning breaches of customer privacy and losses of 
+customer dataNone Lam Research | Corporate Social Responsibility Report 201832
+References
+Lam Research 
+Products  
+ 
+Annual Reports  
+ 
+Corporate Social Responsibility  
+ 
+Code of Ethics 
+Supply Chain Policies  
+ 
+Lam Research Global EHS Sustainability Commitment 
+Policy  
+ 
+CREDITS   
+Many employees supported the development of Lam’s 
+CSR program and this reporting effort. We would like 
+to thank them for their ongoing contributions as we 
+continue to integrate CSR into our corporate culture. 
+CONTACT INFORMATION   
+If you have questions regarding this report  
+or Lam’s CSR activities, please contact: 
+CSR@lamresearch.com. ReferencesLam Research | Corporate Social Responsibility Report 201833
+www.lamresearch.com
+Lam Research Corporation
+ 4650 Cushing Parkway
+Fremont, CA 94538
+510.572.0200
+Connect with us:

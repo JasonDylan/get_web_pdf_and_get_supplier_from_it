@@ -3,17 +3,17 @@ from openai import OpenAI
 import os
 import pandas as pd
 import numpy as np
-import timeout_decorator
+# import timeout_decorator
 import time
 import globals
 import re
 import ast
-
+import traceback
 COMPLETION_MODEL = globals.COMPLETION_MODEL
 API_KEY = globals.API_KEY
 
 
-@timeout_decorator.timeout(100)
+# @timeout_decorator.timeout(100)
 def chat_gpt_turbo(message_our,COMPLETION_MODEL,n=1,max_tokens=3000):
 
     client = OpenAI(api_key=API_KEY)
@@ -182,7 +182,7 @@ def split_text_into_parts(text, num_parts=10):
 
 
 
-folder_path = './OriginalReports_Convert_Txts'  # 替换为您的PDF文件所在的文件夹路径，由1_1_convert_pdf2txt.py从产生
+folder_path = './src_code/PDF_Convert_Txts'  # 替换为您的PDF文件所在的文件夹路径，由1_1_convert_pdf2txt.py从产生
 
 
 txt_path_list = os.listdir(f"{folder_path}")
@@ -269,16 +269,17 @@ for txt_path in txt_path_list:
                 output = chat_gpt_turbo(message_our, COMPLETION_MODEL).content
                 success = True
                 print("output", output)
-            except:
+            except Exception as ex:
+                traceback.print_exc()
                 print('no response from gpt')
                 time.sleep(5)
                 attempts += 1
                 if attempts == 3:
                     break
-
+            
 
         import re
-        if re.match(r'^\s*\{\s*\}\s*$', output) is None:
+        if output and re.match(r'^\s*\{\s*\}\s*$', output) is None:
             path = f"./Supply_After_GPT/{COMPLETION_MODEL}"
             extract_and_save_data(output, path, company_name,entity_extraction_func)
 

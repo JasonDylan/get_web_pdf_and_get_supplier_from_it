@@ -1,0 +1,1549 @@
+analog.com/sustainabilitySustainability
+Report 2012–2013analog.com/sustainability
+2012–2013 Sustainability Report 2A Message from Our CEO
+Thank you for your interest in  
+Analog Devices’ (ADI) Sustainability 
+Report for 2012–2013.
+While our Sustainability Report is, 
+by definition, merely a snapshot taken at a point in time, the stories presented express the integrity and determination that propels us over the long term.
+In ecology, a biological system, or biosphere, is said to be “sustainable” if it is able to remain diverse, productive, and long lived, meeting its present needs without hindering future generations from meeting their own needs.
+In business, sustainability refers to managing corporate strategy and execution 
+in an environmentally, socially, and financially responsible manner.
+In our company, sustainability encompasses all of these things.We are diverse, creating solutions for tens of thousands of customers 
+across thousands of applications in hundreds of industries. We have a diverse employee population who work all over the world. We develop core technologies that can be continuously adapted to sustain a competitive advantage for many generations. We emphasize long-term profitable growth, investing in people, systems, and processes that will enable us to operate efficiently and responsibly long into the future. 
+As far back as the 1970s when ADI’s code of business conduct and human 
+resources philosophy were first published, we have made attracting and retaining the best talent in all fields a strategic imperative. It has always been our belief that outstanding employees do outstanding work that attracts talent and loyal customers. Loyal customers generate growth and profit that generates solid returns for investors and financial strength for ADI. Financial strength attracts and retains top talent, continuing the cycle. This regenerating cycle has fueled our prosperity for nearly half a century.
+We approach sustainability as we do technology and business development. 
+Clear priorities set at the corporate level provide guidance for the grass-roots, self-directed initiative and ingenuity of our employees. Our corporate sustainability priorities are: economic prosperity; environmental, health, and safety stewardship; and social well-being. Economic prosperity—we believe superior innovation drives  
+superior financial performance. By creating high quality jobs and maintaining robust investment levels in areas such as manufacturing, engineering, and customer service, we can continue developing innovations that positively impact the world and profitably grow our company. Our employees share in this prosperity, in both monetary and humanitarian terms.
+Environmental, health, and safety stewardship— 
+we are committed to a safe and healthy workplace and to operating in a way that minimizes adverse impacts to the environment and conserves resources. We are committed to continually improving our environmental, health, and safety performance.
+Social well-being—we understand the impact our opera-
+tions have on people and the planet and we make every effort to ensure that we make a positive difference. We uphold the highest business and labor practices and we work alongside our employees to give back to our communities.
+In this sustainability report, we provide examples of the grass-roots initiatives 
+from 2012 and 2013 that exemplify and translate these corporate guidelines into actions, decisions, and choices employees make every day.
+Safer. Faster. Greener. Smarter. Better.We are working with customers all over the world to make safer, faster, 
+greener, and smarter products. Our healthcare customers are applying ADI’s technology to enable a future where surgical diagnostics can be replaced by noninvasive signals that can image tissue and blood flow. Our signal process-ing innovations are helping keep air and water clean and food supplies safe. Signals that control and monitor factory automation enable our customers to build smarter machines and ensure that the industrial revolution of the 21st century will not have to trade economic benefits for ecological liabilities. Using ADI technology, cars and trucks can significantly lower fuel consump-tion, affordably and reliably avoid collisions, and deploy life saving airbags. 
+Our employees and customers inspire us with their continuing commitment 
+to sustainability. We are dedicated to supporting their efforts to improve the world we all inhabit.
+Sincerely,
+v 
+Vincent T. Roche 
+President and Chief Executive Officer
+analog.com/sustainability
+2012–2013 Sustainability Report 3Scope
+The data in this report covers the two year period ending on November 2, 
+2013, unless stated otherwise.1 Between scheduled biennial reporting periods, 
+updates are provided on the ADI website, www.analog.com/sustainability. When available, the targeted results are included for four fiscal years.  
+This report is limited to our directly managed operations and wholly owned subsidiaries. ADI does not participate in any joint ventures.
+This report amalgamates the company’s sustainability efforts across the three 
+key areas of sustainability: economic prosperity; environment, health, and safety stewardship; and social well-being. It is not intended to be comprehen-sive. In the spirit of transparency, we provide more details about those and many other topics on our website at www.analog.com/en/index.html. 
+Additional information about ADI’s business operations and financial 
+performance can be found in our Annual Reports on Form 10-K and in our financial statements. 
+The ADI website also provides more detail about our environmental, health, and 
+safety activities. Our Corporate Governance Guidelines and other information on our management structure are also available on our website. 
+In addition, our Code of Business Conduct and Ethics, which applies to our 
+directors, officers, and employees, is provided on our website. We seek to disclose on our website any amendments to, or waivers from, our Code of Business Conduct and Ethics that are required to be publicly disclosed by law or stock exchange regulation. Analog Devices is traded on NASDAQ OMX, and our ticker symbol is ADI.Boundary
+This report contains updated information to the previous 2010–2011 CSR report along with additional information regarding ADI’s sustainability programs. ADI has used the GRI Boundary Protocol to establish the boundary of this report, which includes operational data and management performance for activities that have a significant impact (in which ADI has direct control or significant influence). For activities in which ADI does not have an influence over significant impacts, ADI has attempted to provide a narrative description of such impacts in this report. 
+Assurance
+Independent auditors review our environmental, health, and safety objectives, targets, and programs during the semiannual surveillance audits required to maintain certifications to ISO 14001 and OHSAS 18001. 
+Much of the financial data included in the Economic Impacts section is 
+from the financial statements included in our Form 10-K for 2012 and 2013. These financial statements were audited by Ernst & Young LLP .
+Our sustainability report was reviewed by outside consultants with expertise 
+in the area of sustainability. Additionally, our greenhouse gas emissions calculations have been independently verified and certified. We will continue to evaluate other forms of assurance for future reports as our sustainability program matures.
+Feedback
+We welcome stakeholder comments and feedback, which provide import-ant input for the continual improvement of our sustainability programs and performance. Please direct any general comments regarding this report to sustainability@analog.com. Preface
+ 1This report may contain forward-looking statements that include, among other things, statements about our sustainability efforts, economic impacts, environmental, health, 
+and safety performance, stakeholder engagement, product stewardship, and labor practices that are based on our current expectations, beliefs, assumptions, estimates, 
+forecasts, and projections, and which are subject to change. Those statements are not guarantees of future performance, but rather are inherently uncertain and involve certain risks and assumptions that are difficult to predict. Therefore, actual results and outcomes may differ materially from what is expressed in this report, and such forward-looking statements should not be relied upon as representing our expectations and beliefs as of any date after the date of this report.Analog Devices is a world leader in the design, manufacture, and marketing of high
+performance analog, mixed-signal, and digital signal processing integrated circuits. Oursolutions translate real-world phenomena such as light, sound, temperature, motion, andpressure into electrical signals in a wide array of electronic equipment. Since 1965, wehave focused on solving our customers’ most difﬁcult engineering challenges associatedwith signal processing. Today, the Analog Devices brand is synonymous with productsthat are safer, greener, smarter, and better across a variety of markets including industrialand instrumentation, automotive, healthcare, communications, aerospace, security,energy, and consumer electronics. 
+Analog Devices is a public company with shares listed on the NASDAQ OMX Exchange
+under the ticker symbol ADI. The size, structure, and ownership of our company arevirtually unchanged since our last sustainability report. Our shareholders are primarilyinstitutional investment ﬁrms, of which only three ﬁrms represented more than 5% ofcommon stock beneﬁcially owned as of January 2013. All directors and executive ofﬁcersas a group represented 2.2% of common stock beneﬁcially owned as of this time.Our
+CompanyOur Companyanalog.com/sustainability
+2012–2013 Sustainability Report 5Introduction
+Mission, vision, and values are important to every business, but even more 
+so to Analog Devices given our culture, which encourages employees’ grass-roots, self-directed initiatives in balance with clear priorities at the corporate level. 
+Mission, Vision, and Values
+Few companies in the semiconductor industry have proven to be sustainable 
+over the course of time, let alone thrive as Analog Devices has throughout our long history of providing cutting edge technology. We believe what has created stability and continuity for Analog Devices over many decades is the fact that, while the vision and mission of our business has evolved, the core qualities and behaviors that define ADI’s values, belief structure, and culture have remained constant and continue to guide our actions and decisions.
+From the company’s founding in 1965, the leaders of ADI have sought to 
+hire the best people and allow them the entrepreneurial freedom to create value through innovation. The quest for excellence and innovation pervades every facet of the organization, from engineering to sales to marketing to customer support to manufacturing. ADI’s employees feel empowered to work closely with customers, using their expertise and market insights to uncover valuable ideas and combine both core technology and whole-product solutions to deliver the most reliable and highest quality signal processing systems. 
+Employees at ADI are encouraged to pursue learning and likewise are 
+expected to take an educational approach to mentoring and managing, as well as how we sell and market products. The organization is imbued with a collaborative and supportive spirit that extends beyond our employees to include our customers, for whom we seek to pursue our mission to solve the most difficult engineering challenges. We enable our customers to create their own amazing products and achieve their own success, listening to them closely and working with them to deliver compelling technological solutions with the focus and speed that today’s markets require. 
+The leadership of the company is consistent, visionary, and disciplined. 
+ADI has long been managed to achieve profitable growth, focusing our efforts on those areas where we can achieve the most meaningful gains and where our innovations can be applied with purpose and ambition to create the greatest impact. Smart calculated risks, often taken despite the prevailing conventional wisdom, have played a key role in advancing ADI’s fortunes, as has the willingness to persevere in order to achieve long-term success and market leadership. We have no doubt that the future holds an array of new opportunities for ADI as we seek to lead the industry with rapid and relevant discoveries that will enable our evolving world. As we navigate our future, we will continue to rely on these enduring values that have served us so well over time. 
+Sustainability
+Sustainability at Analog Devices covers a broad range of topics. We have used a materiality determination to ascertain which are most relevant to address in our program and in this report. Each of the following factors was used to determine the content for this report:
+•
+ Resource utiliza
+tion (energy, water, and materials)
+•
+ W
+aste generation
+•
+ Our major sustainability-rela
+ted impacts and opportunities
+•
+ Informa
+tion covered in other semiconductor manufacturing companies’ 
+reports
+•
+ F
+eedback from stakeholders, including employees and investors
+•
+ GRI G3.1 reporting guidelines
+•
+ Comments from sustainability experts enga
+ged to review the information
+Sustainability is increasingly important to all of our stakeholders, and 
+we believe this trend will continue. ADI will work with its stakeholders, both within the company and external to our organization, to ensure that we remain successful in fulfilling the following three responsibilities of sustainability: economic prosperity; environmental, health, and safety stewardship; and social well-being. These responsibilities are specifically addressed in this report.Our Companyanalog.com/sustainability
+2012–2013 Sustainability Report 6Business Operations
+Analog Devices, Inc. is headquartered in Norwood, Massachusetts, USA, 
+near Boston, and has manufacturing facilities in Massachusetts, Ireland, and the Philippines.
+We employed approximately 9,000 individuals as of November 2, 2013.Our products are manufactured in our own wafer fabrication facilities 
+using proprietary processes and at third-party wafer fabrication facilities, primarily Taiwan Semiconductor Manufacturing Company. We operate wafer fabrication facilities in Wilmington, Massachusetts, and Limerick, Ireland. We also operate test facilities located in the Philippines and use third-party subcontractors for the assembly and testing of our products.
+We sell our products worldwide through a direct sales force, third-party 
+distributors, and independent sales representatives, as well as through our website. We have direct sales offices in 26 countries, including the United States. We also have sales representatives and/or distributors in over  
+40 countries outside the United States. Through subsidiaries and affiliates, we conduct business in numerous countries outside the United States. During fiscal 2013, we derived approximately 69% of our revenue from customers in international markets.
+Revenue by Geographic Region
+Region2013 Direct Sales 
+Offices (#)Revenue (%)
+2013 2012 2011 2010
+United States 11 31 30 29 29
+Rest of North/
+South America0 4 4 5 5
+Europe 10 32 32 32 29
+Japan 1 11 12 13 16
+China 4 13 13 12 12
+Rest of Asia 4 9 9 9 9
+Products Overview
+Our products are embedded inside many types of electronic equipment 
+including industrial process controls, factory automation systems, instru-mentation, energy management systems, portable medical equipment, defense electronics, automobiles, medical imaging equipment, portable wireless communications devices, cellular base stations, central office networking equipment, computers, digital cameras, and digital televi-sions, among other applications.
+Across the entire range of our product portfolio are both general-purpose products used by a broad range of customers and applications as well as application-specific products designed for clusters of customers in key target markets. Readily available, high performance, general-purpose products provide a cost-effective solution for many low to medium volume applications. In some industrial, automotive, communications, consumer, and computer products, we focus on working with leading customers to design application-specific solutions. We begin with our existing core technologies in data conversion, amplification, power management, radio frequency, microelectromechanical sensors (MEMS), high performance linear, isolation, and digital signal processing (DSP) and devise an integrated solution to more closely meet the needs of a specific customer or group of customers.
+Revenue (%) by End Market 
+Markets Served 2013 2012 2011 2010
+Industrial 46% 46% 47% 58%
+Communications 20% 20% 20% 19%
+Consumer 15% 17% 19% 23%
+Automotive 18% 17% 14% 12%
+Revenue (%) by Product Category
+Product Category 2013 2012 2011 2010
+Converters 45% 44% 45% 47%
+Amplifiers/RF 26% 26% 26% 25%
+Other Analog 14% 15% 14% 12%
+Power Management 
+and Reference7% 7% 7% 7%
+DSP 9% 9% 8% 9%Our Companyanalog.com/sustainability
+2012–2013 Sustainability Report 7Financial Overview
+Since fiscal year 2012, Analog Devices common stock has been listed 
+on the NASDAQ Global Select Market under the symbol ADI. Prior to then, Analog Devices common stock was listed on the New York Stock Exchange. For the period reported in this CSR report, Analog Devices common stock was included in the Standard & Poor’s 500 Index and on the NASDAQ 100 Index. On November 2, 2013, the company had a market value of approximately $15.5 billion. ADI’s 2013 revenue totaled approximately $3 billion. At the end of fiscal year 2013, ADI had approximately $4.7 billion in cash. 
+Financial Performance 2010–2013 (Million $U.S)
+Continuing Operations 2013 2012 2011 2010
+Product Revenue 2634 2701 2993 2762
+Net Income 673 651 867 712FY2013: Continued Focus on Sustainable and 
+Highly Valued Innovation
+ADI continues to be guided by our long-term strategy to 
+drive superior results through superior innovation. FY2013’s accomplishments include:
+•
+ Revenue increased by 6% in second half of FY2013 as 
+compared to first half of FY2013
+•
+ 71% of revenue from products where 
+ADI is the market leader
+•
+ 25.6% net income from continuing opera
+tions as percent of 
+revenue
+•
+ Opera
+ting margins of 28.6% 
+•
+ Gross margins of 64.3% 
+Source: Analog Devices, Inc., 2013 Annual Report
+See more detailed data about Analog Devices’ financial performance at investor.analog.com.
+Automotive
+18%
+Industrial
+46%
+Industrial Automation
+ Instrumentation
+ Defense/Aerospace
+ Security/Surveillance
+ Building Automation
+ Energy
+ Healthcare
+Consumer
+15%
+ Digital Cameras
+ Home Entertainment
+ Games/Portable Computer
+ Smart PhonesSource: Analog Devices, Inc., 2013 Annual Report
+Note: The sum of the individual percentages does not
+equal 100% due to rounding.Communications
+20%
+ Wireless Infrastructure
+ Wired InfrastructureFiscal Year 2013 Revenue By End MarketOur Companyanalog.com/sustainability
+2012–2013 Sustainability Report 8“Thomson Reuters Top 100 Global InnovatorsSM
+represent the vanguard of 21st century innovation.” 
+–Thomson Reuters Global Innovators Press Statement 
+Awards in 2012 and 2013 
+A sampling of the recognition ADI received as a supplier, an innovator, and a 
+well-managed company.
+The Americas
+Electronic Design Product of the Year (2012 and 2013): Awarded  
+for JESD204B-compatible products, the AD8232 analog front end,  
+and ADSP-CM40x control processors. Converter and microcontroller  
+selected based on significant advance in technology, design innovation,  
+or performance gain. 
+EDN Hot 100 Products of 2012 and 2013: Top 100 products in sectors of 
+sensors, medical, and amplifier. 2013 had three products awarded, two in the converter sector and one in the motor control sector.
+Top 100 Global Innovators: Awarded by Thomson Reuters based on patent 
+data and criteria such as patent success rate, globalization, and influence. 
+Newsweek Green Rankings 2012 and 2013: Top 100 Greenest Company, 
+based on corporate sustainability and environmental impact.
+Design News Golden Mousetrap 2012 and 2013: Winner in sectors of 
+Electronics and Test and Automation and Control. This award recognizes engineering innovation and creativity in product design. 
+Honeywell Electrical Supplier of the Year 2013: Collaboration on 
+solving long-term problems played a large role in ADI becoming the first semiconductor company to win this award. Honeywell is a diversified technology and manufacturing leader.
+Lockheed Martin Perfect Performer Award 2013: ADI won the Lockheed 
+Martin “100/100 Preferred Supplier Award” for excellent performance in technology, quality, responsiveness, delivery, and cost. In particular, the award acknowledges ADI’s achievement of 100% quality (no product rejections) and 100% on-time delivery for 12 continuous months. Lockheed Martin is a global security and aerospace company.EMEA
+e-Legacy Award 2012 and 2013: Electronic Product Design award 
+category winner for the ADI University Program. Awards companies that have demonstrated corporate responsibility, investment in the future, and an innovative approach to design.
+IET Innovation Award 2012: Awarded by the Institution of Engineering 
+and Technology (IET) in the sectors of Embedded and Critical Systems and Electronics. The award celebrates the products, technologies, and processes that lead the way in engineering innovation.
+2012 Elektra Award: Awarded by the European Electronics Industry for the 
+ADI University Program and for the ADP1046 power controller. In 2013, ADI was a finalist in two sectors.
+Ericsson Supplier of the Year 2013: Awarded by Ericsson for consistent, 
+excellent support visible at every level and for exemplifying what is means to be a collaborative supplier. Ericsson is a world leader in communications technology and service.
+Bosch Group Preferred Supplier 2013: Awarded for superior competence 
+and performance in the material group ASIC/ASSP Analog. The Bosch Group is a leading global supplier of technology and services.
+Siemens Top Preferred Supplier Status in 2013: Awarded status of 
+preferred supplier in seven sectors of materials. Siemens is a global powerhouse in electronics and electrical engineering.
+Continental Worldwide #1 Best Logistics Supplier in 2013: Continental 
+Worldwide is among the leading suppliers to the automotive industry. 
+Best Oversea Partner Award in 2013: Received by ADI from Sumitomo 
+Electric Device Innovation for global support, on-time delivery, low failure rate, and right product proposal. 
+Rockwell Automation Clarinda Young Partnership Award 2012:  
+ADI beat out more than 700 other electronics suppliers to win the “Clarinda Young Partnership Award” by successfully partnering with Rockwell through new product introduction support, annual pricing, and deep engagement with Rockwell’s engineering community. In addition, ADI has participated enthusiastically in the CollaboRAte program, a process to encourage suppliers to identify and jointly implement with Rockwell opportunities to deliver productivity improvements and cost savings. Rockwell Automation is the world’s largest company dedicated to industrial automation. Our Companyanalog.com/sustainability
+2012–2013 Sustainability Report 9APAC
+AET Award for Outstanding Products in 2012: Three Best in Product 
+Awards—two in the ADC/DAC sector, and one in the Embedded/Microcon-troller Systems sector. Application of Electronic Techniques (AET) China outstanding product voted by AET readers.
+Original Design Award 2012: Electronic Design China awarded ADI with 
+this award for Outstanding Field Applications Engineer Support and Best Reference Design in the RF Category for the ADI Circuits from the Lab
+® 
+Circuit Note 0134.
+Annual Creativity in Electronics Awards 2012 and 2013: Executive of 
+the Year awarded to Howard Cheng, ADI VP of Asia Sales. Three Product of the Year awards in the sectors of Converters, Power, and Analog awarded in 2012. Two Product of the Year awards in 2013 awarded in the sectors of Converters and Sensors.
+Best Application Award 2012: Winner of the TOP-10 Power Products Award.EEPW Editor’s Choice Award 2012 and 2013: Winner of Best Automotive 
+Solutions for Vision-Based Advanced Driver Assistance Systems (ADAS) by China’s Electronic Engineering and Product World Magazine. In 2012, “Best Test Platform” award for the “Gas Detector Solution Based on NDIR (nondispersive infrared sensor) and PID (proportional-integral-derivative),” and ADI also received the “Best Converter” EEPW award for the AD7691, an analog-to-digital converter. The EEPW winners were selected from outstanding electronic and semiconductor products released in the year. The products were rigorously reviewed by a panel of experts and the final winners were determined by online voting.
+People Management Association of the Philippines (PMAP) Employer 
+of the Year 2013: Awarded by the PMAP as being “worthy of being held up as an exemplar to the other Philippine business enterprises for recognizing the value of its employees in contributing to the success of the organization.”
+Pollution Control Association of the Philippines (PCAPI) Mother Nature 
+Award and Success Story Awards 2012 and 2013: ADI Philippines was awarded the Mother Nature Award (Grand Winner) by the PCAPI for the successful implementation of Environmental Management System (EMS), Environmental Programs (EMP), and for possessing a sterling track record of community-related undertakings. The company was also given a Success Story Award (first runner up) in recognition of the achievement and dedication in implementing exemplary Environmental Management Program worthy of emulation (ADGT Building 3: A Green Building Master-piece). In 2012, the company likewise received a Success Story Award in recognition for its energy efficiency and conservation program.
+EDN China Innovation Awards 2012 and 2013: Four products awarded in 
+sectors of Microprocessors, DSPs, Sensors, and Converters.
+Gold Supplier Award 2013: For the fifth consecutive year, ADI won the 
+“Golden Supplier Award” due to excellent performance in all aspects of technology, quality, responsiveness, delivery, and cost.
+Green Supplier 2013: In Asia, ADI’s efforts in environmental protection by 
+supplying the customer with green products through material application, manufacturing process, and quality control was recognized by this award. 
+ZTE Best Technical Support of 2013: Award given by ZTE for ADI’s 
+valuable project management, technical support, post sales problem solving and product delivery commitment and execution. ZTE is a global provider of telecommunications equipment, network solutions, and mobile devices.
+China South Railway Co. Best Support Vendor 2013: Recognizing ADI’s 
+contribution to CSR’s success in terms of solving the customer’s pain point through best solution, timely response to customer requirement, and flawless product supply by excellent supply chain management and distribution network. CSR is a leading rail transit equipment manufacturer. 
+2013 Don Emilio Abello Energy Efficiency Awards from the Department 
+of Energy (DOE): ADI Philippines was given the Outstanding Award and Outstanding Energy Manager Award in 2013 for attaining substantial energy use reduction through its energy efficiency and conservation programs.
+Certificate of Recognition from the Department of Labor and 
+Employment (DOLE): ADI Philippines was awarded by Department of Labor and Employment (DOLE) for attaining three million man hours with no lost time accidents for its construction projects. 
+2012 Safety Milestone Award from the Department of Labor and 
+Employment (DOLE): ADI Philippines received a Safety Milestone Award for its effective programs and activities on occupational safety and health resulting to zero lost time accidents for one year.“As far b ack as  the 1970s when ADI’s  code of busine ss co nduc t and h uman res ources 
+philosophy were ﬁrst published, we have made attracting and retaining the best talent in all 
+ﬁelds a s trategic imp erative. It has  always been our bel ief tha t outstandin g emplo yees do 
+outstanding work tha t attrac ts talen t and l oyal customers.  Loyal cu stomers  generate 
+grow th an d proﬁt tha t genera tes soli d return s for i nvestors  and ﬁ nancial strength for ADI. 
+Financial s trength attracts and  retains  top talent, c ontinu ing th e cycle. This regenerat ing 
+cycle has  fueled ou r prosp erity for nearly half a cen tury.” —Vincen t Roche, CEOOur
+ResponsibilitiesOur Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 11Introduction
+The following sections define who we are by describing our 
+responsibilities as an organization and our responsibilities to our valued stakeholders, including: 
+•
+ Corpora
+te Governance
+•
+ Business Ethics
+•
+ Stakeholder Enga
+gement•
+ Supply Chain
+•
+ Reporting
+Corporate Governance 
+Governance Structure
+Our board of directors’ primary responsibility is to serve the best interests 
+of ADI and its shareholders by overseeing the management of the company. The board reviews ADI’s overall performance, rather than our day-to-day operations, which are the responsibility of management. The board determines corporate objectives and strategies. It also evaluates and approves significant policies and proposed major commitments of corporate resources. Management keeps the board informed of company activity through regular reports and presentations at regular board and committee meetings. Issues related to risk management are addressed by the Audit Committee of the board of directors, while issues related to governance and to ethics are handled by the Nominating and Governance Committee.
+The board is comprised of a chairman, an independent presiding director, 
+our CEO, and eight other independent directors. The board has standing Audit, Compensation, and Nominating and Corporate Governance Committees, each comprised entirely of independent directors. The names, titles, and affiliations of our board members, as well as the structure and membership of committees are described in our proxy statements and on our website.
+Accountability and Transparency
+As part of our commitment to accountability and transparency, every mem-
+ber of our board is elected annually, giving our shareholders input into the membership of our entire board every year. The results of our elections are publicly announced within four business days of the election. In addition, we have a majority voting standard in the election of directors. If a nominee in an uncontested election does not receive more votes “for” his or her election than “against,” that director must offer his or her resignation to the board promptly after the election.The board will then determine whether to accept the resignation, after consideration of all relevant factors. We will then publicly disclose the board’s decision and an explanation of how the decision was reached.
+The Nominating and Corporate Governance Committee of the board 
+oversees an annual written evaluation of the board to determine whether it and its committees are functioning effectively. As part of this evaluation, individual board members are assessed by both themselves and the other board members. Information related to ADI director and executive compensation is contained in our annual proxy statement under the headers “Director Compensation” and “Information About Executive Compensation” The 2013 Annual Proxy statement was a featured report on our website. 
+To align the interests of our directors and executives with those of our 
+stockholders, we have in place stock ownership guidelines. Under the guidelines, target share ownership levels are two times the annual cash retainer for directors, two times annual base salary for the CEO, and one times annual base salary for other executives. Directors (including the CEO) have three years to achieve their target level. Executives (other than the CEO) have five years to achieve their target level. We prohibit all hedging transactions or “short sales” involving ADI securities by our directors and employees, including our executive officers.
+Independence
+We have 11 directors. Nine of the directors meet the NASDAQ independence 
+standards, which are reaffirmed by the board annually. Two of our directors (our chairman of the board, Ray Stata, and our CEO, Vincent Roche) are not “independent” because they are, or have been, employed by ADI within the past three years. Our independent directors meet regularly in executive session outside the presence of the two management directors. We have 
+Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 12an independent presiding director, James Champy, who presides at all 
+executive sessions of our independent directors. In addition, we separate the roles of CEO and chairman of the board in recognition of the differences between the two roles. The CEO is responsible for setting the strategic direction for the company and the day-to-day leadership and performance of the company, while the chairman of the board sets the agenda for board meetings and presides over meetings of the full board. Additional information on ADI’s board of directors can be found on our website.
+Integrity and Ethical Behavior
+We have a Code of Business Conduct and Ethics that applies to everyone 
+who works for ADI. This includes the CEO, the CFO, members of ADI’s board, other senior financial, business, and technical management, and every employee. We have established a toll-free business ethics hotline operated by an independent third party, where anyone can report any violations of the code, questionable accounting or auditing matters, or violations of any law or regulation. We have a no retaliation policy against any employee who in good faith makes a report or assists ADI in identifying or investigating suspected violations of the law or the code.
+The Nominating and Corporate Governance Committee coordinates the 
+board’s oversight of the code, and all employees are required to take a mandatory training course on the code. For additional information on our policies or to view a copy of the code, please visit our website.
+Respect for Stakeholder Interests
+Our board will give reasonable attention to written communications on 
+issues correctly submitted by shareholders or other interested parties and respond as appropriate. The chairman of the Nominating and Corporate Governance Committee, with the assistance of ADI’s internal legal counsel, (1) is primarily responsible for monitoring communications from shareholders and other interested parties and (2) provides copies or summaries of these communications to the other directors as appropriate. Communications are forwarded to all directors if they relate to substantive matters and include suggestions or comments that the chairman of the Nominating and Corporate Governance Committee considers to be important for the directors to review. 
+Shareholders may also recommend director candidates for inclusion in 
+the slate of nominees that the board recommends to our shareholders for election. The qualifications of recommended candidates will be reviewed by the Nominating and Corporate Governance Committee using substantially the same process and applying substantially the same criteria as it follows for director candidates submitted by board members. The criteria for nomination as a director are contained in our Corporate Governance Guidelines and include the candidate’s integrity, business acumen, experience, commitment, diligence, conflicts of interest, and the ability to act in the interests of all shareholders. 
+Shareholders and other interested parties who wish to send communications 
+on any topic to the board should address such communications to James Champy, Presiding Director, c/o General Counsel, Analog Devices, Inc., One Technology Way, P .O. Box 9106, Norwood, MA 02062, United States.
+Diversity 
+Supplier Diversity 
+In the United States, public laws and Federal Acquisition Regulations (FAR) govern the requirements for small business subcontracting programs and the procurement goals for each program. The small business goals for each business type are listed below in relation to percentage of procurement spend. ADI, along with other suppliers who sell to the U.S. government or to suppliers of the U.S. government, are required to report spending in these categories as a percentage of overall spending every six months.
+Supplier Diversity 
+Business TypeGoal in Relation to Percentage  
+of Procurement Spend ADI’s Accomplishments
+4/1/11–9/30/11 10/1/12–3/31/13 4/1/13–9/30/13
+Small Business (SB) 23% 40.64% 30.98% 34.68%
+Small Disadvantaged Business (SDB) 5% 0.7% 0.97% 1.44%
+Woman-Owned SB (WOSB) 5% 2.31% 2.46% 3.27%
+HUBZone SB 3% 0.07% 0.09% 0.07%
+Veteran-Owned SB (VOSB) Best Effort 1.19% 1.00% 1.72%
+Service-Disabled VOSB (SDVOSB) 3% 0.00% 0.00% 0.00%Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 13
+—Vincent Roche, CEO “We are diverse, creating solutions for tens of
+thousands of customers across thousands ofapplications in hundreds of industries. We have adiverse employee population who work all over theworld. We develop core technologies that can becontinuously adapted to sustain a competitiveadvantage for many generations. We emphasizelong-term proﬁtable growth, investing in people,
+systems, and processes that will enable us to operate
+efﬁciently and responsibly long into the future.”
+Code of Business Conduct and Ethics
+Our Code of Business Conduct and Ethics describes our expectations and 
+requirements for all company employees—including executive officers— as well as members of the board of directors, contractors, and business partners. We expect all directors, officers, and employees—as well as nonemployee sales representatives, consultants, vendors, suppliers, and customers engaged in business activities with ADI—to comply with the law in the course of their relationship with ADI, including all applicable statutes, rules, and regulations in all countries and regions where we do business. 
+The Code is posted on Signals,  ADI’s employee portal, and on our website.  
+It is provided to all new employees and distributed annually to all employ-
+ees. It is reviewed for necessary changes or amendments on an annual basis by the Nominating and Corporate Governance Committee of our board of directors. All employees are required to take a mandatory online course covering the code and to provide recertifications of their understanding of the code thereafter.Fair Competition and Pricing
+ADI and its employees do not discuss prices or customers with our 
+competitors except when necessary in connection with legitimate sales or purchase transactions. In addition, ADI and its personnel do not fix or dictate resale prices to our distributors or pressure resale price maintenance by reprimanding or threatening distributors who reduce their prices. We are fair in our dealings with our distributors and do not restrict our distributors’ rights to sell our products, nor do we seek to prevent our distributors from selling our competitors’ products. We do not discriminate among similar distributors when we offer price discounts.
+Insider Trading
+Our policy regarding the trading of securities is applicable to all ADI 
+personnel, as well as our board of directors. Appropriate employees are reminded quarterly via email of their obligation to refrain from trading in company stock until the third business day following the public announcement of ADI’s financial results for that quarter. All employees must participate in training regarding the laws of insider trading. All employees are required to take a 30 minute mandatory online course covering our insider trading rules. 
+Anticorruption
+We work to comply with all applicable anticorruption and antibribery 
+laws in all countries where we do business. Our Guidelines for Gifts and Business Entertainment, which prohibit the giving of anything of value to a government official with the purpose of influencing his or her decision or gaining an improper benefit, apply to all ADI personnel. Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 14
+ADI guidelines prohibit the direct or indirect payment or gift of corporate 
+funds or other assets to any political party or committee, to any candidate for public office, and to any official or employee of any government agency in the United States or any foreign country. That guideline applies to employees or persons acting on behalf of ADI, its divisions, and its subsidiaries. It also extends to any payment or gift granted to a third party in which there is an understanding or presumption that part or all of the payment or gift may ultimately be paid to any political party or committee, candidate for public office, governmental official, or employee. For example, our matching gifts program does not extend to organizations that are primarily political in purpose. Nevertheless, employees are free to get involved in politics as long as it is not in connection with ADI or ADI business and is conducted during personal time. We do pay dues for associations and membership organizations, such as the Semiconductor Industry Association (SIA), that may engage in lobbying to advocate for specific public policy outcomes relevant to the semiconductor industry.
+Export Controls
+ADI monitors and strives to comply with the export regulations of the 
+United States and of other countries in which ADI conducts business.  
+In 2013, we provided training on export laws, including the International Traffic in Arms Regulations and the Export Administration Regulations,  
+to all appropriate employees. 
+Reporting Violations
+We have several avenues through which employees and stakeholders 
+can report potential violations of laws, rules, regulations, and company policies. We have an open-door policy with regard to issues that may arise under the ADI Code or Guidelines and about violations of any law, rule, or regulation. Employees may bring these issues to their supervisors or contact the Human Resources Department or ADI’s general counsel.
+In addition, we have a toll-free number and an email box through which 
+employees may anonymously report any actual or suspected violation. Following each report, the ADI Legal Department conducts an investigation appropriate for the situation. Anonymous reports and the results of any investigation are reported to the Nominating and Corporate Governance Committee. For more information regarding reporting of violations please view our Code of Business Conduct and Ethics.
+No Retaliation
+We will not discipline, discriminate against, or retaliate against any employee 
+who reports a complaint or concern in good faith.Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 15Stakeholder Engagement 
+Approach
+We view stakeholder engagement as a collaborative process that is critical to the success of our company. From employees, to customers, to shareholders, to the 
+communities in which we operate and beyond, ensuring that we maintain a continuous dialogue and open lines of communication helps us foster a productive and innovative work environment, better serve the markets in which we operate, meet the needs of our shareholders, and be a better corporate citizen. Listed below, you will find the stakeholder groups most affected by ADI’s business and the forms of engagement we employ with these groups to inform, mobilize, and energize. We utilize the results of these engagements to develop and enhance policies and programs, including those related to sustainability.
+Stakeholder Engagement
+Stakeholder 
+GroupDescription Forms of Engagement Example Programs
+Employees ADI considers our 8,900 
+employees* our greatest competitive advantage.
+*Number of employees at the end of 
+  fiscal year 2013.• Collabora tion, technology, and resources 
+•
+  Signals
+ intranet portal
+•
+ Sur
+veys
+•
+ Meetings
+•
+ Open-door polic
+y
+•
+ Conferences
+•
+ Learning,
+ training, and development courses•  W e launched our fourth global employee survey in May 2013. 
+With 90% employee participation in the survey, we set an all-time 
+high. Overall, the survey results showed a continuation of high job satisfaction levels from the 2011 survey results. The majority of respondents continue to feel positively about working at ADI and would recommend ADI as a good place to work. 
+•
+ W
+e have a 25+ year tradition of hosting the ADI General Technical 
+Conference to foster collaboration and innovation among our employees. In 2013, over 1,600 employees from 29 locations around the world attended.
+•
+  
+ADITube is a video sharing platform we designed to facilitate contin-
+uous exchange of ideas.
+Customers ADI serves more than 60,000 
+customer organizations and more than 500,000 people working at these companies. We serve not only equipment makers in the global Fortune 1,000, but also small and emerging enterprises. •
+  analog.com
+•
+ W
+e count over 8 million site visits per month 
+•
+ Dedica
+ted resources in account management, 
+customer service, and applications engineering
+•
+ Newsletters
+•
+ W
+ebinars/webcasts
+•
+ Conferences/trade sho
+ws•
+ W
+e hosted a worldwide program called Design Conference 2013, 
+based on the theme “Discuss. Design. Deliver.” The conference brought together approximately 6,000 customers at locations across the U.S., Europe, and Asia.
+•
+ 
+EngineerZone,® ADI’s online technical support community, is a 
+public forum where Analog Devices’ product line experts engage directly with customers online to answer complex technical product and applications questions. In 2013, ADI’s EngineerZone
+ 
+technical support community received top honors from Forrester Research, Inc., a global research and advisory firm, for outstanding use of social media to engage customers.
+Communities ADI has approximately 64 offices 
+around the world.•
+ Fundraising and volunteerism
+ —
+ dona
+ting time, 
+money, and expertise•
+ W
+e make our facilities available to community groups for meetings 
+and functions. 
+•
+ W
+e established a Facebook page, Twitter feed, and YouTube channel 
+to make it easy for communities to engage with us.
+Governments As both a publicly traded and 
+an international company, we are subject to myriad regulatory obligations around the world.•
+ Meetings
+•
+ Regula
+tory filings (e.g., tax, SEC, EPA, EU)
+•
+ Membership in industr
+y groups•
+ 
+We are members of the Semiconductor Industry Association  
+(www.SIA-online.org ) and the Semiconductor and Electronics 
+Industry in the Philippines, Inc. (SEIPI), and as such we participated in meetings with U.S., foreign, and international government organizations, including the 2012 World Semiconductor Council meeting held in Saratoga Springs, New York.
+(continued next page)Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 16Stakeholder 
+GroupDescription Forms of Engagement Example Programs
+Suppliers ADI works with more than 2,000 
+suppliers worldwide. ADI expects suppliers to adhere to the same standards ADI has set for itself in terms of business ethics, human rights, and environmental compliance.•
+ Supplier mana
+gement process
+•
+ Supplier sur
+veys and ratings•
+ In 2012 and 2013,  Analog Devices recognized key suppliers for 
+support of World Wide Manufacturing Operations. Ten suppliers were recognized in 2012, and 13 in 2013. In addition, the three manu-facturing sites, Limerick, ADGT (Philippines), and Wilmington, also presented a local site award to a supplier who outperformed others in support of the local site operations. 
+Media The electronics trade press 
+regularly seeks ADI’s comment on trends and reports on ADI’s products and initiatives.•
+  analog.com
+•
+ Press releases
+•
+ Contributed artic
+les
+•
+ Inter
+views•
+ Press conferences/events
+•
+ News wire distribution ser
+vices
+•
+ Social media•
+ Our global media rela
+tions uses news wire distribution services, 
+email, social media, and personal contact to keep relevant media informed. In 2013, our global press operations worked with approximately 600 websites, 390 print and online publications,  530 trade press editors, 40 industry analysts, and 80 business  press reporters.
+Shareholders and Financial AnalystsOur stock is traded on the NASDAQ OMX Exchange. We are closely followed by financial analysts.•
+ F
+inancial reports
+•
+ Annual shareholders’ meeting
+•
+ Quarterly earnings press release,
+ 
+conference call, and webcast
+•
+ Conferences
+•
+ Meetings•
+ W
+e participated in nine investor conferences in 2013 and six in 
+2012. These conferences were webcast over the Internet and includ-ed discussions on strategy and performance, as well as question and answer periods with the live audience.
+•
+ 
+The annual Institutional Investor Rankings are recognized 
+as a key figure of merit in assessing the effectiveness of various investor relations programs. In 2013, we were ranked third in the category of Chief Financial Officer for the semiconductor sector ( www.institutionalinvestor.com ).
+Students and EducatorsADI provides support to thousands of students and educators. Support for science, technology, engi-neering, and mathematics is not only an investment in our future employees and customers, but also in our community and society.•
+ F
+ree and discounted 
+product samples and development tools
+•
+ University grants and sponsorships•
+ T
+uition reimbursement 
+for employees 
+•
+ V
+olunteerism: tutors, 
+mentors, guest speakers
+•
+ Guest lecturers a
+t 
+universities•
+ In 2013,
+ we launched a new active learning project to analog design 
+education. Developed in cooperation with MathWorks,® Diligent,® and 
+leading educational institutions from around the world, the Analog Devices’ University Program gives both educators and students the freedom and creativity afforded by hands-on experiments. 
+•
+ Ever
+y other year, we sponsor a design contest for aspiring engineering 
+students throughout Asia. In 2013, more than 17,000 students and 150 mentors representing 71 universities were involved.
+Technology CollaboratorsADI collaborates with third-party providers of software, hardware, semiconductor packaging, and process technology.•
+ Licensing a
+greements
+•
+ Joint developments•
+ Comarketing and promotion
+•
+ Consortia sponsorship and membership•
+ In 2013 we collabora
+ted with MathWorks to offer engineering stu-
+dents portable, hands-on, low cost learning in a platform combining MATLAB and the Analog Discovery software.
+•
+ W
+e are active members in a wide range of organizations dedicated 
+to establishing electronics industry standards. We are supporting members of an even wider range of organizations.Stakeholder Engagement (continued)Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 17Examples
+EngineerZone: Fast, Smart Support—No Travel Required
+EngineerZone is an award-winning customer support community for  
+customers designing with Analog Devices products. Customers have  
+direct access to ADI application engineers, where they can ask questions  
+and review the rich database of  
+content. Customers have told us that EngineerZone is a great resource that  helps to speed their time to market. 
+•
+ 2013 sur
+vey to membership: 
+•
+ 74% find content valuable or extremely valuable 
+•
+ 86% are likely to recommend EngineerZone to a collea
+gue 
+•
+ Respondents said they find their ans
+wer 50%-60% of time just 
+searching existing community content 
+•
+ 78% a
+gree “Using EngineerZone helps me speed my design process.” 
+•
+ 88% a
+gree “The information I obtain here is helpful to my design.”
+Electric Motor Control: Addressing One of the 
+Planet’s Biggest Electricity Users At the PCIM 2012 (Power Conversion and Intelligent Motion) exhibition and conference in Nuremberg, Germany, a major focus was on improving the efficiency and precision of electric motors. Analog Devices’ signal pro-cessing technology for motor and power control was on display at PCIM to demonstrate how ADI’s technology is addressing these design challenges. 
+With nearly 8,000 attendees, PCIM is Europe’s leading exhibition for power 
+electronics and its applications in intelligent motion, renewable energy, and energy management. At PCIM, a Motor and Power 
+Control Segment Marketing Manager met with customers on the show floor.
+In motor control and power control, better precision and accuracy of 
+electronic controls are required to deliver the highest system performance and efficiency of industrial motor drives and servos. ADI helps system engineers address these design challenges with a complete product portfolio including data converters, amplifiers, embedded processors, i Coupler
+® digital 
+isolators, MEMS sensors, and power management devices that support core signal chains. ADI’s technology makes it possible to precisely control the motion of electric motors and enhance communications capabilities.
+ADI’s focus is on core signal chains for application-specific motor control, 
+drives, servos and robotics, power supplies, and UPS (uninterruptible power supply). Through ADI’s partner network and a complete product portfolio, model-based motor control solutions are available to ease development and speed design time. ADI has all the hardware, software, and signal processing experience needed to help improve, simplify, and differentiate new motor control system designs.
+Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 18New Green Technology Harvests Natural Power
+Ambient energy harvesters (AEHs) are unleashing the potential to harvest energy from the environment and may hold the potential to replace batteries in the future if technology can keep up, according to technology experts, GBI Research.
+Harvesting can provide an emissions-free renewable power supply, 
+harnessing solar, wind, and thermal power to produce green energy.
+Ambient energy harvesting is primarily used when the installation and 
+maintenance of application systems is problematic, due to the potential cost or practical difficulty of providing power or communication through the use of cables. Energy harvesting can be used almost anywhere, as, unlike batteries, no space is required, and there are no accessibility issues related to maintenance.
+Demand for energy harvesters is expected to grow with the development 
+of low power electronics, motivated by the increasing need for various applications to run efficiently, independently, and remotely.
+A number of low power microcontrollers, digital signal processors,  
+RF transceivers, and sensors have already been developed, such as  Analog Devices’ ADXL345 ultralow power micro electromechanical 
+system (MEMS) sensor.
+However, further technological development is required to facilitate an 
+efficient means of energy storage. Currently, energy can be stored either by using batteries or ultracapacitors. Due to their efficiency and superior lifetime, capacitors are increasingly preferred over batteries, but concerns about gradual energy leakage limit their use over long periods. While a combination of batteries and capacitors can provide a safe and efficient harvesting system, the industry still lacks an innovative way to store harvested energy over prolonged lengths of time.
+Hybrid energy harvesters represent the next progression in the green 
+energy industry. While energy produced by AEHs is limited, hybrid energy harvesters utilize multiple sources, such as light, heat, and vibrations, to increase its energy generating potential. Demand for these can be expected to increase in the near future, but technology will still need to catch up. For its part, ADI is developing and researching advanced technologies such as ultralow power sensors and ambient energy circuits that have the potential to transform the future.
+Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 19ADI China Employees Help Students Stay in School
+Employees at Analog Devices’ Shenzhen, China, site wanted to help make sure students in their region continued to have access to quality primary education opportunities. The employees decided to take action, donating funds and supplies to two Chinese primary schools over the past two years. 
+“In China, many children are losing their primary education opportuni-
+ties due to low family income,” said Kemn Song, RF technical manager. “We often hear these types of stories on the radio and TV and we feel a responsibility to do as much as we can to help students, especially since education is crucial to one’s entire life. We had an internal discussion about this issue at our office, which was the origin of this charity effort.”
+The self-funded charity effort began last year when Shenzhen employees, with 
+the help of a charity organization, identified the Maka Primary School in the Sichuan Province. Employees decided to donate RMB6350 to fund two orphans at the Maka Primary School who were in danger of losing their education opportunities without external support. In addition, although the Maka Primary School is more than 1,000 kilometers (approximately 621 miles) away from ADI’s Shenzhen office, a group of employees nevertheless visited the school to meet the teachers and students and bring donations of stationery and dictionaries. This year, employees decided they would like to support a primary school that was closer to the Shenzhen office, which would allow for greater interaction between employees and the students they were aiding. 
+After consulting with a local charity organization, employees in the 
+Shenzhen office decided to support the Chengxi Primary School, which is located 350 kilometers (approximately 217 miles) from Shenzhen in the Guangdong Province and has 12 teachers and 150 students in grades one through six. The principal of the Chengxi Primary School told employees in ADI’s Shenzhen office that the local government has little money to invest in the school. The employees visited the Chengxi Primary School over a weekend, meeting students and teachers, talking to them about ADI and the company’s mission, and bringing donations of school supplies and sports equipment to the school. In addition, employees decided to again aid two disadvantaged students by funding their tuition, resident fees, books, and other expenses for one year. Furthermore, employees are building a long-term relationship with students and teachers at the Chengxi Primary School through regular communication.
+“Almost every employee in the Shenzhen office participated in the charitable effort for the Chengxi Primary School in some way,” said Flora Man, sales director, China RSG. “Some employees wrote the cards, some donated books, and almost half the employees in our office donated money to aid the Chengxi Primary School, which totaled RMB3050. Our main aim is to stimulate kids’ impetus to gain knowledge, expand their horizon, and set higher life goals for themselves. We feel good about our efforts and plan to keep this charitable work going in the future.”Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 20Supply Chain
+Introduction
+ADI designs, manufactures, and markets a broad line of high performance 
+integrated circuits (ICs) that incorporate analog, mixed-signal, and digital signal processing technologies. We produce and market several thousand products. Information on our products can be found in our latest Form 10-K report filed with the SEC and posted on our website. 
+Products
+Our products provide opportunities for customers to reduce their 
+environmental impacts. We help technology customers save money and energy by developing low power usage electronic devices for a multitude of products. Our focus on innovation has resulted in products that use less power than our competitors’ products while meeting the increased performance requirements of customers’ next generation systems. Auto manufacturers in particular rely on Analog Devices’ technology to bring differentiated features to market and to meet government mandates for safety, emissions, and energy consumption. 
+Additionally, Analog Devices has been developing innovative energy solutions 
+for over a decade. Our wide range of high performance data acquisition and signal processing technologies are used in renewable energy systems around the world, such as solar inverters, wind turbines, and energy storage. We have also partnered with a customer in a research project that would focus initially on advanced safety systems and systems that will decrease emissions and increase fuel efficiency over the next three years. 
+Our experience and market success with specific signal processing and analog front-end chipsets in these two application areas are in line with our customers’ efforts to encourage the development and use of clean and fuel efficient vehicles (which, in turn, would help sustain continued growth of their country’s clean automobile industry). Our technologies are used to address the most challenging signal chain requirements in today’s most advanced electric, hybrid, and fossil fuel powered vehicles worldwide.
+Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 21
+As another part of this emerging trend in wearable personal performance and 
+medical products, we have released a new series of photosensor devices that can be built into the back of a watch or other wearable device. These sensors can measure heart rate, oxygen concentration, and other physio-logical parameters without penetrating the skin surface. We also digitize the information to make it easy to transmit over a wireless connection.  
+Energy harvesting is a new area of development at ADI, and we have 
+projects in multiple aspects of this technology, including energy capture, nanopower energy management, and energy storage. Energy harvesting is particularly useful for powering remote sensors to eliminate all wiring and allow better placement. The ADP5090 boost regulator can efficiently extract power from very small sources and convert it for use or storage while using very little internal power. Analog IC technology has been the foundation of ADI’s business for nearly 
+five decades. The principal advantages of these products have included lower cost per function, smaller size, lower power consumption, and fewer components—resulting in improved reliability. These attributes fit common needs for customers seeking to sell more sustainable products. 
+Our data converters remain our largest and most diverse product family, 
+representing close to 50% of our revenue. We sell over 2,000 different converters to thousands of customers. One of the newest products in this area is the ADuCM350, which we term the “meter on a chip.” It allows a medical instrument designer to build a glucose meter with only a few parts and with improved performance. The ADuCM350 is also being designed into several personal care consumer/fitness wearable devices.Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 22
+The software-defined radio concept is rapidly changing the way radio 
+systems are designed, from radios in simple remote sensor systems to radios in high end communications infrastructure. Through the use of software commands, a radio platform can be reconfigured for a number of operating channels, power, or beam steering to provide multiple functions with one set of components. This minimizes power as well as package size while allowing custom tuning of radio performance.
+The continuing drive for lower power in all systems, portability, and the 
+emerging use of energy harvesting means that all new devices must run on as little power as possible. Our newest 3-axis accelerometer, the ADXL362, uses only 450 nW in motion activated mode, and 4 µ W in full 
+measurement mode. Our nano DAC
+® series of digital-to-analog converters 
+have operating currents as low as 400 nA. Many of our latest products also have “sleep” modes for periods of inactivity during which they operate on nanowatts of power, but will turn on and be fully functional in less than a second on command. 
+ ADI collaborates with automotive manufacturers to improve the safety, 
+emissions, and energy consumption of cars and trucks. Our latest products are employed in advanced driver assistance systems—vision-based systems offer features such as lane departure warning, traffic sign recognition, intelligent head lamp control, and pedestrian detection. Radar-based systems offer similar features with the addition of front/rear park assist, forward collision warning, lane change assist, blind spot detection, collision mitigation braking systems, and full speed range adaptive cruise control.
+To support new product designs, in conjunction with TSMC, we embarked 
+on a project to develop a 65 nm process specifically for analog IC products. That process gives us small geometries, which provides much higher speed operation at lower power. The process also has high voltage options so that we can design industrial grade products with higher accuracy, but again at lower power. The third capability is a digital option providing high density logic to incorporate analog and digital functions onto a more compact chip, simplifying end user designs. Products based on this process are now in initial production.  
+In support of our research and development activities, ADI employs 
+thousands of engineers involved in product and manufacturing process development at design centers and manufacturing sites located through-out the world.
+Our product lines and research are summarized in our Form 10-K and 
+our Annual Report. Both of these documents are filed with the SEC and available on our website. You can also find information on our markets (industrial, automotive, communications, and consumer) on our website.Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 23Suppliers
+Our goal is to develop a meaningful and lasting relationship with ADI 
+suppliers. Our products require a wide variety of components, raw mate-rials, and external foundry, assembly, and test services, much of which ADI purchases from third party suppliers. We have multiple sources for many of the components and materials that are purchased and incorpo-rated into our products. However, a large portion of our external wafer purchases and foundry services are from a limited number of suppliers, primarily Taiwan Semiconductor Manufacturing Company.
+The ADI Purchasing Council has a procedure for purchasing materials from 
+its suppliers. Approximately 40 of the material suppliers are considered to be key suppliers. Where appropriate, raw materials and critical indirect materials are either dual sourced or have an identified second source.
+The ADI Purchasing Council, in conjunction with the Subcontractor 
+Management Organization, oversees the work of Taiwan Semiconductor Manufacturing Company and the test and assembly subcontractors in Asia. ADI has developed a series of specifications to define the ADI Supplier Management Policy for materials and services.
+ADI suppliers must demonstrate proven quality, effective process controls, 
+financial stability, competitive pricing, on-time delivery, and commitment to continual improvement in all aspects of their business.
+Suppliers are audited for conformance with ADI requirements and other 
+purchasing conditions. This audit schedule is determined based on a risk management process. All new suppliers are audited prior to their acceptance. 
+Conflict Minerals
+The Dodd-Frank Wall Street Reform and Consumer Protection Act of 
+2010 requires companies to publicly disclose their use of minerals that originated in the Democratic Republic of the Congo (DRC) or an adjoining country, termed “conflict minerals.” The regulatory reform law directed the U.S. Securities and Exchange Commission (U.S. SEC) to issue rules requiring certain companies to disclose their use of conflict minerals that include tantalum, tin, gold, or tungsten if those minerals are “necessary to the functionality or production of a product” manufactured by those companies. Congress enacted Section 1502 of the Act because of con-cerns that the exploitation and trade of conflict minerals by armed groups is helping to finance conflict in the DRC region and is contributing to an emergency humanitarian crisis. 
+Companies are required to provide this disclosure on a new form to be 
+filed with the SEC called Form SD (Specialized Disclosure Report); the very first of which were required to be filed with the SEC on or before June 2, 2014 for calendar year 2013. ADI submitted its Form SD to the SEC last May 30, 2014; a copy of our filing is available in the Investor Relations page of our website. ADI adopted the framework of the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas to facilitate responsible sourcing, and fulfill the reporting obligations related to DRC conflict minerals. 
+Our Conflict Minerals Policy, available on our website at www.analog.com/static/imported-files/corporate/Analog_Devices_Conflict_
+Minerals_Policy_Statement.pdf
+is a key component of our management system: •
+ it reflects 
+ADI’s commitment to ethical practices and compliance with 
+applicable laws and regulations,
+•
+ it inc
+ludes ADI’s actions on collaborating with other concerned electron-
+ics companies, under the EICC-GeSI Conflict-Free Sourcing Initiative 
+(CFSI), in developing methods to track the origin of tantalum, tungsten, tin, and gold (3TG) used in the manufacture of electronic products, 
+•
+ it reflects 
+ADI’s support of the Conflict-Free Smelter Program (CFSP) in 
+assessing activities, processes, and systems used by the Smelter or Refiner (SOR) facility to conduct upstream supply chain due diligence of minerals for conflict-affected and high-risk areas, and
+•
+ it is communica
+ted to ADI’s supply chain with the expectation of com-
+pliance with this conflict minerals policy, and for the suppliers to provide sourcing information using the EICC-GeSI Conflict Minerals Reporting Template as standard. 
+Supplier Awards Program
+Each year, ADI holds a Supplier Awards Program event in Hong Kong. The 
+Purchasing Department conducts quarterly ratings of delivery and quality of their respective suppliers. ADI has a specification document to standardize a method of providing suppliers with positive feedback and the motivation to constantly strive towards continual improvement. We publicly recognize those suppliers whose excellence has a made a significant contribution toward ADI achieving our corporate goals and objectives.
+The categories for the awards are: raw materials, critical indirect materials, 
+contracted production, maintenance/service of front-end capital equipment, maintenance/service of back-end capital equipment, and special achievement. 
+The award recipients are announced publicly and displayed on ADI’s website. Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 24Customers
+ADI has some 60,000 customers worldwide. We maintain a network of 
+thousands of sales professionals, comprised of ADI employees, sales representatives, and distributors. Our largest customers are covered directly by our sales engineers and field applications engineers (FAEs). The entire organization receives training several times a year to stay current with the latest new products and market trends. Our sales team is often rated as the most knowledgeable in the industry. 
+In order to strengthen the company’s focus on delivering world-class signal 
+processing products and support to customers, we are primarily organized by market segment and technology areas. Business teams focus on devel-oping insight into strategic markets including, automotive, communications, industrial, and consumer. Healthcare is included in industrial. Product and technology teams advance ADI’s technical innovation, primarily by focusing in areas of high speed signal processing, precision signal processing, power, sensors, and digital signal processors. A worldwide sales team is the primary interface to customers. 
+This structure aligns with what is most relevant to ADI’s long-term strategic 
+priorities—technology to enable the continuous product innovation that defines ADI and applications insight to enable the system-level innovation that helps customers to win.
+ADI manages a strategic planning process around both the product 
+and market dimensions. As such, ADI is able to gain clear alignment of strategies across the organization in order to leverage the full breadth of ADI’s offerings—both core products and application-specific products—across our customer base. ADI is also able to improve the strategic clarity around investment priorities, ensuring we focus our valuable R&D dollars on the most promising opportunities where we can achieve and sustain growth and profits.
+Transportation
+ADI has adopted a strategy of storing most finished product in warehouse 
+operations that are either adjacent to, or in regional proximity to the facilities where the parts finish the manufacturing process, allowing us to ship from these operations directly to our customers and distributors. This eliminates extra transportation journeys that would be associated with having regional inventory holding points. Exceptions to this occur only when service level requirements necessitate local stocking. In addition, we actively pursue efficiencies by consolidating all customer shipments to a given region to the extent possible. For the transportation managed by ADI, the company partners with a limited and select number of transportation service providers. We rely on these companies making the investments required to develop sustainability best practices, and we believe that they have active, robust programs in place. 
+Packaging
+Properly packaging our products to adequately protect them against 
+damage during transit is critical. While safeguarding our product is key, we strive to achieve this without adding unnecessary extra packaging, or fill content. Packaging procedures are reviewed as appropriate with this in mind. It is our aim wherever possible to use materials that can be fully recycled by the recipient. Packing and shipping operations are also reviewed to reduce paper generation, printing only those forms that are essential to the process. For inbound shipments, ADI utilizes approved partners for recycling of packaging materials.
+Reporting
+Global Reporting Initiative
+We considered the Global Reporting Initiative (GRI) Sustainability Reporting 
+Guidelines (G3.1) when preparing this report. A GRI content index is provided via a separate link at www.analog.com/sustainability. This index is provided to assist readers in locating information that may be found elsewhere on our website, including our Securities and Exchange Commission Form 10-K Our Responsibilitiesanalog.com/sustainability
+2012–2013 Sustainability Report 25and the Annual Report, available at investor.analog.com. Detailed supporting 
+information for our environmental, health, and safety activity is available at www.analog.com/EHS.
+CDP—Carbon 
+ADI believes that integrating climate change considerations into our business 
+strategy allows us to maintain a strategic advantage over our competitors in terms of transparency and sustainability. We demonstrate those attributes to customers, consumers, and the public by providing information regarding our greenhouse gas emissions and efforts to the Carbon Disclosure Program, the Carbon Reporting System of the Electronics Industry Citizenship Coalition (EICC), the Semiconductor Industry Association (SIA), and our public Sustainability Report. Our strategy reinforces our commitment to exemplary environmental performance of our products and operations. Overall, our climate change strategy and implementation helps Analog Devices maintain its good reputation with its stakeholders.
+One way that climate change has influenced our long-term strategy is in 
+the design of our buildings. In the Philippines, one of our new buildings is certified to LEED (Leadership in Energy and Environmental Design) Gold standards. We are also constructing new buildings that are designed in accordance with LEED standards. Long term, we would like to sustain our strategy in designing our buildings and operations in accordance with LEED or other green building standards.
+CDP—Water 
+Water is essential to the operation of ADI facilities. We have set a 5% 
+reduction in our normalized water use for all manufacturing sites. In support of our goal, we implement and are continuously exploring new recycling and conservation activities. We work to maintain operations that comply with existing legal requirements, and we try to stay abreast of changes that affect those requirements or our operations. We participate in industry consortia to stay up to date and proactively provide feedback on emerging and new regulations, including those affecting water supply and tariffs.
+We manage potential risks associated with our operations through various 
+methods. We monitor the occurrence of extreme weather events and natural disasters and evaluate their potential impact to our operations. We have instituted business continuity plans and alternative sourcing arrangements to reduce impacts to the company should these events occur. We have also utilized the results of risk assessments performed by our insurance companies to develop mitigation strategies to address those risks.
+Our Sustainability
+PrioritiesOur Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 27Economic Prosperity Social Well-BeingEnvironmental, Health,
+and Safety Stewardship
+Protecting the environment and ensuring the health and safety of our employees and contractors working at our sites is paramount to ADI’s sustainability efforts.Our environmental, health, and safety (EH&S) programs are designed to minimize the impacts of our operations and reduce risks posed to our employees and contrac-tors working onsite. Our sustainability goals in these areas demonstrate our commitment to improvement and allow stakeholders to assess our progress. We also focus on product environmental performance, in particular by designing products to comply  
+with the European Union’s Waste Electrical and Electronic Equipment (WEEE) directive, Restriction of Hazardous Substances (RoHS) directive, and Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) regulation. Those programs are addressed in this report.ADI knows that our economic responsibility is not limited to our ﬁnancial performance.  
+In addition to generating returns for investors, we create and support jobs in the communities in which we operate. We also contribute to those communities through the ongoing operation of our business, taxes, donations, and voluntary employee activities. In addition, although difﬁcult to measure precisely, our products create economic beneﬁts by enhancing the productivity of those who use them.We strive to build positive relationships with the communities in which we operate, maintain a safe and enjoyable workplace for our employees, and with good beneﬁts and compensation. We welcome our employees’ grass-roots, self-directed initiativesin support of the charities, community programs, and social issues most important to them. In addition, ADI promotes education by supplying research grants and donating ADI components to students and faculty at colleges and universities worldwide. Employ-ees contribute to our social responsibility efforts by volunteering their time to worthy causes worldwide. 
+Overview
+Sustainability at ADI covers a broad range of topics. We have used a materiality determination to ascertain which are most relevant to address in our 
+program and in this report. Each of the following factors was used to determine the content for this report: 
+•
+ Resource utiliza
+tion (energy, water, and materials)
+•
+ W
+aste generation
+•
+ Our major sustainability-rela
+ted impacts and opportunities
+•
+ Informa
+tion covered in other semiconductor manufacturing  
+companies’ reports•
+ F
+eedback from stakeholders, including employees and investors
+•
+ GRI G3.1 Reporting Guidelines
+•
+ Comments from sustainability experts enga
+ged to review the information
+Sustainability is increasingly important to all of our stakeholders, and we believe this trend will continue. ADI will work with its stakeholders, both within the 
+company and external to our organization, to ensure that we remain successful in fulfilling the following three responsibilities of sustainability: economic prosperity, environmental, health, and safety stewardship, and social responsibility. These responsibilities are specifically addressed in this report.
+As demonstrated throughout these sections, ADI standards and values consistently coincide with the Electronic Industry Citizenship Coalition (EICC) Code of Conduct.Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 28
+Management Systems at ADI
+ADI makes sustainability part of the way we operate our business and part 
+of what every employee does every day. 
+We manage our sustainability program projects using the principles of ISO 
+management systems. We use similar systems to manage the social and economic aspects of our sustainability program. In the future, we plan to integrate additional elements into our sustainability management system. 
+ADI was an early adopter of the ISO 14001 environmental management 
+system standard; its first facility became certified under that standard in May 1997. Today, all of ADI’s major manufacturing sites are ISO 14001 and OHSAS 18001 (health and safety management system) certified. ADI is in a position to include sustainability into an integrated management system that is already a key part of the way our business is operated. 
+During the time frame covered by this report, environmental, health,  
+and safety objectives and targets were reviewed and prioritized using  
+a risk management process. Action plans were established within the  
+management system and were reviewed with management at each  
+ADI manufacturing site. The status of those action plans is reported  
+to senior management on a quarterly basis. In addition, independent  
+auditors reviewed the management system during semiannual audits.  
+The results of those action plans are covered in this report.Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 29Economic Prosperity 
+Introduction
+The economic prosperity dimension of our sustainability program concerns 
+our impacts on the economic conditions of our stakeholders, including our employees, their families and communities, the communities where we operate, and the world we all live in. While our financial performance data can be found in detail in both the ADI Annual Report and Form 10-K filings with the U.S. Securities and Exchange Commission, we provide insight regarding our direct and indirect economic impacts in the following sections. ADI engages investors and stakeholders on material sustainability risks and opportunities through participation in the Carbon Disclosure Project (CDP) and Form 10-K filings. Please visit our investor webpage for more information regarding how Analog Devices engages investors on material sustainability risks and impacts.
+Business
+ADI’s direct economic value is a function of the investments we make to sustain and grow our business. These largely relate to the people we hire, train, and rely upon to operate our business, and also include investment in property, equipment, and resources. The profits that result are shared with employees and shareholders.ADI’s enduring stability stems from a diverse business and a strong technology foundation 
+grounded by exceptionally talented employees who thrive on creating innovative solutions to our customers’ toughest challenges. Technical innovation is deeply rooted in our culture and is our primary strategy for not only maintaining leading market share in converters  
+and high performance amplifiers, which together represented 71% of revenue in fiscal year 2013, but also advancing our portfolio of complementary technologies. Importantly, we are also increasingly extending our culture of innovation beyond circuit design and analog manufacturing process technology into architecting signal processing systems to meet our customers’ need for more complete solutions. These newest areas of innovation are creating higher barriers to entry for competitors and strengthening the ADI brand  
+among customers, partners, and industry experts.
+Converters Ampliﬁers/RF
+Power DSPOther
+Analog and
+MEMS Combined 71% of FY2013 Revenue
+Source: ADI FY2013 ﬁnancial reports; industry analyst market share report May 2013.71% of Revenue from Products 
+Where ADI Is the Market Leader
+Leader in 
+Converters
+Leader in
+High Performance
+Amp liﬁers
+Analog Devices Summary of Direct Economic Impacts 2010–2013 (except where noted, units are million $U.S.)
+2010 2011 2012 2013
+Summary
+Product Revenue 2,762 2,993 2,701 2,634
+Operating Costs11,861 1,922 1,877 1,881
+Net Income from Continuing Operations 711 861 651 673
+Employees
+Equity Compensation (* quantity in thousands):
+ Stock Options Granted 1,866
+* 1,990* 2,456* 2,407*
+ Restricted Stock Units 1,171
+* 898* 1,122* 810*
+Defined Contribution Plan Expenses (U.S. employees) 21 22 23 23
+Defined Benefit Pension and Other Retirement Plans (non-U.S. employees) 12 21 19 27
+Suppliers
+Supplier Spending (approximate) 512 497 476 437
+Reinvested within ADIResearch and Development 492 506 512 513
+Capital Equipment Spending 112 123 132 123
+Payments to Monetary Capital ProvidersDividend Payments to Shareholders 250 282 345 406
+Common Stock Repurchased 40 331 161 61
+Interest 10 19 26 27
+Payments to GovernmentsProvision for Income Taxes 190 201 162 142
+1Operating costs may include sales tax to governments.Economic ProsperityOur Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 30Employees 
+ADI’s direct economic business impacts are felt by its employees through 
+salaries, benefits, and bonuses. In addition, there is an indirect economic impact that employees realize through career growth, on-the-job training, tuition reimbursement, and professional development. Although these sorts of indirect economic impacts are difficult to measure, we are providing some examples of the indirect economic impact on our employees in this section. 
+Training Type 2013 Contributions 2012 Contributions
+Tuition Reimbursement $608,431 $586,968
+Seminars $929,374 $884,491
+Training $5,041,270 $3,906,229
+Total $6,579,975 $5,377,688
+Over the two years of this reporting period, ADI has invested over $10 million in training. In fiscal 2012, we spent nearly $5.4 million worldwide on training, including classes, seminars, and tuition reimbursement. In fiscal 2013, we spent nearly $6.6 million, representing over a 20% increase in spending. 
+Investments in employee growth have resulted in ADI being recognized as 
+an outstanding employer and a great place to work.
+ADI’s indirect economic impacts that go beyond the information provided 
+above, fall into two main categories: 
+•
+ Secondar
+y impacts from direct spending: these include taxes paid by 
+employees, money that employees spend in their communities, and income 
+earned by employees of our local suppliers. According to U.S. government estimates, our industry enables 4.01 jobs with every job we create. 
+•
+ Impacts from products:
+ ADI products are used in a variety of applications 
+that increase individual and enterprise productivity, thereby creating economic value. 
+Analog Devices Philippines Named 2013 Employer of the Year 
+October 21, 2013
+Analog Devices Philippines was recently named the 2013 Employer of the Year by the People Management Association of the Philippines (PMAP), a nonprofit 
+organization of over 1,800 companies and executives connected to Human Resources or Industrial Relations. In a letter announcing the award, PMAP stated that Analog Devices Philippines was “worthy of being held up as an exemplar to the other Philippine business enterprises for recognizing the value of its employees in contributing to the success of the organization.”
+The Employer of the Year award aims to give recognition to a company that satisfactorily fulfills its people management responsibilities, as demonstrated by 
+its leadership, dynamism, professionalism, strategic thinking and implementation, continuous improvement in Human Resources processes and programs, linkage of Human Resources to business objectives, and employee focus. PMAP has honored 35 different companies from various industries with the Employer of the Year Award since 1977, but Analog Devices Philippines is the first recipient from the semiconductor industry. Past winners include Citibank, GlaxoSmithKline, IBM, Nestle, Pfizer, Procter & Gamble, and Toyota. 
+Criteria for the award were anchored in the Malcolm Baldrige criteria for performance excellence and 
+included leadership, strategic Human Resources focus, continuous improvement, business results, and corporate social responsibility. After Analog Devices Philippines was nominated for the award by SEIPI (Semiconductor and Electronic Industries in the Philippines), a cross-functional team led by Analog Devices Philippines HR provided information on each criterion. Following the data submission, a screening committee from PMAP conducted a site visit at Analog Devices Philippines, met with ADI senior management, and interviewed randomly selected employees at all levels of the organization. 
+Analog Devices Philippines Human Resources Director Emil Armas said Analog Devices Philippines 
+employees were thrilled by the news that their organization had been named 2013 Employer of the Year. “There was jubilation and excitement among our employees,” said Armas. “Many employees expressed their great pride in being ADI employees.”Economic Prosperity
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 31Community 
+ADI strives to be an asset to the communities in and around where we 
+operate. Much of the company’s volunteer, philanthropic, and community investment activities are managed at the site level and many are initiated and maintained by employees who have passion for their causes. This approach not only ensures that our very active employee base is able to remain involved, but also allows them to determine how best to leverage ADI resources given the needs of the specific communities in which they live and work, and the specific organizations to which they volunteer their time and donate funds. We are continually impressed with the energy and dedication that our employees exhibit in giving back to society, protecting the environment, and providing for those in need, and we support them, both individually and collectively, in their efforts. One way we do so is through the company’s Matching Gifts Program, which provides employees a voice in how ADI distributes a portion of its charitable donations. This program is managed regionally and allows employees to submit requests for matching donations to most charities of their choice. 
+The Corporate Contributions Program
+Each year, Analog Devices donates a percentage of its profits to human 
+services, art and cultural organizations, community organizations, and environmental organizations through its Community Contributions Program. Like many other companies, we receive several hundred requests for fund-ing each year. Through the Community Contributions Program, we target our support to the organizations that benefit the communities where our employees live and work. 
+Matching Grants to Education
+This program was created as part of Analog Devices’ overall  
+Education Support Strategy. ADI has made an ongoing 
+commitment to the support of education in the belief that a  
+well-educated population is critical to success in a global  economy. All accredited secondary schools, colleges, and  
+universities are eligible to receive matching grants under  this program.
+Matching Community Gifts Program
+One of our corporate objectives is to be an asset to the communities where we work and live. One way we try to meet this goal is through the Matching Community Gifts Program. The goal of this program is to give ADI employees a say in how the company distributes a portion of its charitable donations. Certified nonprofit organizations are eligible to receive matching gifts if they are not primarily religious or political in purpose, and if their services are available to all individuals on an equal basis. Services sponsored by religious organizations are eligible if they meet these criteria as well. 
+Organizations that do not specifically serve these areas are beyond the 
+scope of our program. In addition, we support the museums and other arts and cultural organizations in greater Boston where we operate our corporate headquarters and employ several thousand people. 
+Sampling of Recipients
+Boston Children’s Museum 
+The Boston Children’s Museum engages children and families in joyful 
+discovery experiences that instill an appreciation of our world, develop foundational skills, and spark a lifelong love of learning.
+Career Collaborative 
+Career Collaborative helps motivated, low income adults set and reach the 
+challenging but attainable goal of getting and succeeding at a good job with career potential.
+Cradles to Crayons 
+Cradles to Crayons provides children from birth to age 12, living in low- 
+income and homeless situations, with the essential items they need to thrive—at home, at school, and at play. 
+Economic ProsperityOur Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 32Dana-Farber Cancer Institute
+Dana-Farber Cancer Institute in Boston, Massachusetts has been committed to 
+providing adults and children afflicted with cancer with the best treatment avail-able today while developing tomorrow’s cures through cutting-edge research.
+FIRST Robotics 
+FIRST Robotics designs accessible, innovative programs that motivate 
+young people to pursue education and career opportunities in science, technology, engineering, and math, while building self-confidence, knowledge, and life skills.
+Habitat for Humanity 
+Habitat for Humanity builds and repairs houses all over the world using 
+volunteer labor and donations so that every person can have a safe and affordable place to live.
+Massachusetts State Science and Engineering Fair 
+The MSSEF advances science literacy and inspires new generations of 
+science and engineering leaders while increasing science literacy. We work to develop students’ workplace skills including communication, teamwork, and a strong work ethic.Museum of Fine Arts 
+The Museum of Fine Arts is a cultural, educational, and community 
+resource where more than one million visitors are welcomed each year, approximately 200,000 of whom are Boston residents. The museum serves the people of Boston, New England, and around the world by making the MFA’s great works of art accessible to all.
+Museum of Science 
+The Museum of Science is committed to deepening the public’s relationship 
+with science and technology by leading efforts throughout the United States and abroad, in both formal and informal educational arenas, to redefine the roles that science centers can play.
+Neponset River Watershed 
+The Neponset River Watershed Association is a grass-roots, member-
+supported conservation group working to clean up and protect the Neponset River, its tributaries, and surrounding watershed lands. Their goal is a clean, healthy, accessible river and watershed, from the smallest headwater stream to the wide-open brackish water of the estuary.
+ New England Aquarium 
+The New England Aquarium is a global leader in ocean 
+exploration and marine conservation. The Aquarium is one of the premier visitor attractions in Boston, with over 1.3 million visitors a year, and a major public education resource. 
+Norwood Food Pantry
+The Norwood Food Pantry serves individuals and 
+families in Norwood and the surrounding communities with food.
+Economic ProsperityOur Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 33Promoting Education in Engineering and Science
+About FIRST
+FIRST (For Inspiration and Recognition of Science and 
+Technology) was founded in 1989 to inspire young people’s interest and participation in science and technology. Based in Manchester, NH, the 501(c)(3)  
+not-for-profit public charity designs accessible, innovative programs that motivate young people to pursue education and career opportunities in science, technology, engineering, and math, while building self-confidence, knowledge, and life skills.
+ADI Employee Mentors Students in Robotics Competition
+Every year, hundreds of thousands of students compete in FIRST 
+competitions. The FIRST Robotics Competition (FRC) offers high school students the opportunity to work directly with professional engineers to gain hands-on experience by building and programming a task-oriented robot. FIRST Robotics teams can progress from local competitions to the championship round held in St. Louis, Missouri. ADI and its employees support FIRST teams as volunteer mentors, judges, and fundraisers at FIRST events throughout North America. As one of our community partnerships FIRST aligns with our goals of supporting STEM (Science, Technology, Engineering, and Math) programs in the communities where we work and live. In addition, Analog Devices is a proud supporter of FIRST as a gold supplier sponsor. We supply MEMS (micro electromechan-ical systems) and controllers for the kit of parts, which are used by teams throughout the world. 
+Analog Devices has been involved with FIRST for the past 11 years, and we continue to expand our involvement with both financial support and encouraging our talented workforce to participate as volunteers. The teams we support have won several awards and have gone on to compete in the St. Louis championship rounds. ADI is proud to be partnering with FIRST in their mission to encourage young people to pursue educational opportunities in engineering and math.
+ADI University Program
+Analog Devices’ Engineering University Program provides engineering students and professors with an affordable portable analog design kit that will enhance engineering students’ educational experience by allowing them to experiment quickly and easily with advanced technologies and build and test real-world, functional analog design circuits anytime and anywhere. This “hands-on learning” design approach gives students and professors the freedom and creativity to expand the scope of course materials and explore real-time design scenarios right in the classroom. Easy access to online and downloadable software and teaching materials, online support, textbook, reference designs, and lab projects to design and implement analog circuits as a supplement to their core engineering curriculum is also provided. 
+Analog Devices supports colleges and universities around the world  
+with grants for engineering research.
+During the 2012–2013 school year we committed over $2M to engineering 
+students, faculty and research programs. In addition we also donate substantial amounts of our products and development tools. Some of the institutions that received support are listed below.
+• Amrita University , India 
+•
+ Ben Gurion University
+•
+ Bro
+wn University
+•
+ Case W
+estern Reserve
+•
+ Columbia University
+•
+ IIT Madras,
+ India
+•
+ IISc Bana
+galore, India
+•
+ Massachusetts 
+Institute Technology
+•
+ Morgan Sta
+te University
+•
+ Northeastern University
+•
+ Oregon Sta
+te University
+•
+ University of the Philippines (UP)
+•
+ Rochester Institute of 
+Technology
+•
+ Stanford University •  University of Calgar y
+•
+ University of California,
+ Berkeley
+•
+ University of California,
+ Davis
+•
+ University of California,
+ Los Angeles
+•
+ University of California,
+ San Diego
+•
+ University of Central Florida
+•
+ University of Illinois
+•
+ University of Maine
+•
+ UMASS Lo
+well
+•
+ University of Michigan 
+•
+ University W
+aterloo
+•
+ W
+ashington State University 
+•
+ University of Mar
+yland
+•
+ W
+orcester Polytechnic Institute
+Economic Prosperity
+The 2655 Flying PlatyPi team pose with their robot. The team, which advanced 
+the championship round of the FIRST Robotics Competition, advertised ADI as a primary sponsor on their team banner and also placed the ADI logo on their robot.Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 34Community Investment
+Throughout ADI there are many examples of how our company, our 
+people, and our technology are making the world a better place. We also 
+participate in philanthropic activities that are event-driven. In these types 
+of instances, needs are not only great, but also immediate. For example, 
+during the timeframe of this report, Analog Devices and its employees 
+provided support in response to crises such as:
+•
+ Hurricane Sand
+y and related relief efforts in the North American 
+coastal region.
+•
+ The Boston Mara
+thon bombings and related effects on runners and 
+spectators from around the world.
+•
+ T
+yphoon Haiyan’s damaging effects in the Philippines.
+ADI Responds to Hurricane Sandy Disaster with 
+Employee, Company Donations Totaling $48,000
+January 29, 2013
+The generosity of Analog Devices employees—coupled with a company 
+matching gift—resulted in a donation of $48,000 to support the relief effort 
+for victims of the Hurricane Sandy disaster that devastated portions of the 
+Caribbean, the Mid-Atlantic, and northeastern United States during late October 2012.
+Employees from ADI offices in the United States participated, contributing 
+$24,000 to the cause. The company matched every dollar donated, bring-
+ing the total amount donated to $48,000. The charitable contribution was 
+given to the American Red Cross Disaster Relief Fund.
+Employee Donations Help Victims 
+of Boston Marathon Attack
+June 4, 2013
+Analog Devices employees worldwide 
+answered the call to help those most affected 
+by the bombings that took place at the 2013 
+Boston Marathon. In total, ADI employees donated $17,000 to The One Fund Boston, a charitable organization set up by Massachusetts Governor 
+Deval Patrick and Boston Mayor Thomas Menino to aid victims of the 
+Boston Marathon attack. In addition, ADI matched all employee donations to 
+The One Fund Boston dollar for dollar, bringing the total donation from ADI 
+and its employees to $34,000.“Once again, ADI employees have responded generously to those who 
+needed assistance,” said Vice President of Human Resources Bill Matson. 
+“The donations from both our company and our employees will help 
+provide relief to families whose lives were forever changed at the 2013 
+Boston Marathon.”
+ADI Supports Typhoon Relief Efforts Through Employee 
+Donations, Company Match
+Analog Devices employees worldwide 
+once again demonstrated extraordinary 
+generosity and answered the call to 
+help support Typhoon Haiyan relief  
+efforts in the Philippines. Employees donated an astounding $60,000, 
+and Analog Devices matched these gifts, bringing the cumulative  
+donations from ADI and its employees to $120,000.
+Typhoon Haiyan, which hit the Philippines on November 8, 2013, was 
+reported to be the strongest recorded storm ever to make landfall. With 
+winds of up to 170 miles per hour, the storm affected over nine million 
+people and damaged over one million homes. While ADI’s employees and 
+facilities in the Philippines were not directly impacted by the typhoon, many 
+of our colleagues’ friends and families suffered losses as a result of the 
+significant devastation caused by the storm.
+In order to support immediate relief efforts in the most affected areas 
+of the country, ADI partnered with Habitat for Humanity, an organization 
+that has had a large presence in the Philippines since 1988. Habitat for 
+Humanity has been focused on providing repair kits and helping to rebuild 
+homes in the hardest hit areas. Employee donations, as well as ADI’s 
+match, will be contributed to these efforts. 
+ADI colleagues in the Philippines have been holding local fundraisers to 
+supplement the corporate-wide efforts. These local fundraisers in the 
+Philippines, combined with a second ADI match, have resulted in an 
+additional $40,000 donation to Habitat for Humanity. Employees in the 
+Philippines will also volunteer for Habitat for Humanity, helping to rebuild 
+and repair shelters for victims in the communities of Visayas. 
+Commenting on his organization’s efforts, Habitat for Humanity Vice Presi-
+dent of Asia Pacific Rick Hathaway said, “Things have progressed since the disaster and we are now distributing shelter repair kits containing plywood, 
+lumber, galvanized iron sheets, hammers, saws, and nails, so that families 
+can begin to return to their homes by replacing roofs and repairing walls. 
+Habitat is committed to supporting long-term recovery, and rebuilding lives 
+and communities affected by the disaster.”
+Economic ProsperityOur Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 35ADI addresses its environment, health, and safety (EH&S) respon-
+sibilities through an integrated EH&S management system. All of our manufacturing sites worldwide are certified to ISO 14001 and OHSAS 18001. ADI sets EH&S objectives and targets and implements programs to meet those goals. As stated in our Corporate EH&S Policy, available on our website, we are committed to continually improving our environmental, health, and safety performance.
+Environmental, Health, and Safety 
+Stewardship 
+Introduction
+We are committed to protecting our employees’ health and safety in our fa-
+cilities. Having a safe and healthy work environment is a major component of our sustainability program. ADI establishes health and safety perfor-mance objectives and implements them on an annual basis. Our program is designed to promote worksite health and employee well-being, as well as to reduce the number of injuries, lost work days, and absenteeism. 
+We are also committed to operating in a way that minimizes adverse 
+impacts to the environment and conserves the resources that we use in our operations. We monitor the use of resources (energy, water, and materials) in our production operations and work to reduce the loss of these resources via discharges and emissions. Maintaining a preventive approach to resource utilization is a key element of our program. 
+We establish environmental performance objectives using a five-year plan-
+ning horizon, and make annual updates to our objectives, targets, and pro-grams. Progress is reviewed quarterly at the corporate level and monthly at the site level, and senior management allocates resources appropriately to help keep programs on plan.
+Organizational Structure
+The Environmental, Health, and Safety (EH&S) Director, who oversees the global EH&S organization and reports to the Vice President (VP) of Worldwide Manufacturing, has overall responsibility for ADI’s compliance with applicable environmental standards and regulatory requirements. The VP of Worldwide Manufacturing is a member of the CEO’s Staff, which is comprised of our most senior executives. Environmental issues, such as greenhouse gas emissions reduction, energy efficiency, water consump-tion, and other related matters are monitored through our EH&S system. Information about the relevant EH&S programs is reported to the board of directors. 
+The EH&S management meets regularly with our in-house counsel, and as 
+needed with our external counsel and financial personnel, to discuss poten-tial environmental issues (including climate change) and related impacts.
+Our Compliance Review Board (CRB), which meets at least quarterly, 
+routinely reviews regulations and industry standards and drives actions to address potential impacts. The CRB consists of global membership from various departments including EH&S, manufacturing, engineering, quality, sales, and legal.
+Review Process
+We regularly review the aspects and impacts of our operations as part of our environmental management systems certification. This review is in the form of quarterly internal assessments and annual surveillance/recer-tification audits. Our management systems are certified to ISO 14001, in addition to OHSAS 18001, ISO 9001, and TS 16949. Where opportunities for continual improvement exist, they are evaluated and considered for implementation.
+We track and review our EH&S performance against goals on a regular ba-
+sis. Results of our review are reported to management on a quarterly basis, and responsive actions are implemented where appropriate. 
+We have also engaged a third party auditor to conduct compliance audits of 
+our facilities once every three years. The most recent corporate EHS audit was conducted in 2013 for all manufacturing sites. Any risk areas identified by those audits are evaluated and steps are initiated to manage and reduce them. Any opportunities for improvement resulting from those assessments are evaluated and considered for implementation. 
+We maintain records and documentation relating to government inspections 
+and share that information on a quarterly basis across sites to continually improve our EH&S management system. 
+During this reporting period, we have received a number of awards related 
+to our environmental, health, and safety performance. This has inspired our employees to further excel in these areas. We will share a few of their experiences with you in this report. EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 36ADI participates in the annual Semiconductor Industry Association (SIA) 
+EH&S performance metrics survey. We use the survey results to identify opportunities for improvement and benchmark performance with other industry leaders. 
+Business 
+This sustainability report examines the progress we have made toward our five-year goals in the following areas:
+•
+ Energ
+y
+•
+ W
+ater
+•
+ Ma
+terials
+In addition to absolute values, we calculate our emissions relative to our 
+manufacturing production output (surface area of silicon processed) and report those calculations as “normalized” emissions. Even as manufacturing volumes rise, we have been able to improve our efficiencies and thereby continue to reduce normalized emissions.
+We routinely review measures of our performance relative to planned 
+activities; those metrics indicate that we continue to make progress toward our objectives and remain on target to achieve our 2015 goals to reduce air emissions, water use, energy consumption, and waste generation. 
+Scope
+We manage our environmental responsibility using a basic footprint approach. We consider both the resources we use and the byproducts that may result. 
+Our health and safety program is designed to ensure the well-being of our 
+employees and the people in and around the properties we operate.
+•
+ The environmental da
+ta presented in this report relates to ADI’s manu-
+facturing facilities, including wafer fabrication and nonwafer fabrication 
+operations. Environmental data from our sales offices and design centers are not included.
+•
+ The occupa
+tional health and safety data provided in this report 
+encompasses both manufacturing and nonmanufacturing locations.
+•
+ Our environmental metrics are presented on a calendar year basis,
+ while 
+our health and safety metrics are on a fiscal year format to correspond with how we track this information for regulatory purposes.•
+ Land Use and Biodiversity
+•
+ Regula
+tory Compliance
+•
+ Occupa
+tional Safety and Health
+Environmental, Health, and Safety  
+Performance Goals
+Our EH&S management system provides for a quarterly senior management review of our activities. In addition, we conduct a monthly management review at the site level. Those reviews are instrumental in driving continual improvement and progress toward our goals. 
+Our current environmental goals remain at 5% reduction of normalized 
+figures by 2015 from 2010 baseline.
+As of 2013, we have made progress toward these goals and anticipate that 
+we will meet our projected targets. 
+2015 Environmental Goals for Continual Improvement
+Impact Normalized Goals Progress 
+Air Emissions (CO2 + CO2e)* 5% reduction from 2010 baseline On Target
+Water Consumption 5% reduction from 2010 baseline On Target
+Waste Generation 5% reduction from 2010 baseline On Target
+Energy Use 5% reduction from 2010 baseline On Target
+*Goal includes Scope 1 emissions.
+ADI internally reports and tracks the following metrics on a quarterly basis. 
+The graphs and charts below are derived from tracking software. The data show both normalized and absolute trends. EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 37Air Emissions 
+Greenhouse gas (GHG) emissions that are generated directly and indirectly 
+are categorized into “scopes” based on the source of the emissions. The Greenhouse Gas Protocol defines Scope 1 emissions as direct from sources owned or controlled by the entity, including emissions from fossil fuels burned on site, for example. Scope 2 emissions are indirect emissions that result from generating electricity, heating, and cooling offsite but purchased by the entity. Scope 3 emissions are considered indirect and not owned or directly controlled by the entity, but that are related to activities. Examples of Scope 3 emissions include employee travel and contracted solid waste disposal.  
+The primary source of our GHG emissions are chamber cleans in plasma 
+etch tools used in manufacturing. We require all newly purchased manu-facturing tools and equipment to have low greenhouse gas emissions or feature abatement systems. Our EH&S and Process personnel continue to monitor and evaluate industry developments for continuous improvement. 
+We emit perflourocarbons (PFCs) from our wafer fabrication processes and 
+carbon dioxide (CO
+2) from fuel combustion associated with power and heat 
+generation. We report our GHG information from our manufacturing sites to the Carbon Disclosure Project (CDP).
+We also track our indirect GHG emissions. We have set a target for electric-
+ity use, which is the primary source of our indirect emissions. We have not set a target reduction for overall Scope 3 emissions.
+Greenhouse Gas Protocol (2012),  FAQ,  www.ghgprotocol.org/calculation-tools/faq 
+Scope 1 CO2 Emissions: ADI Manufacturing Activities
+Parameter 2006 2007 2008 2009 2010 2011 2012* 2013*
+Direct GHG 
+Emissions (Tons)62,122 58,234 60,338 48,250 34,933 38,151 31,380 30,112
+Normalized CO2 
+Emissions63.24 50.77 52.65 63.07 38.01 37.70 33.14 34.75
+Scope 2 CO2 Emissions: ADI Manufacturing Activities
+Parameter 2006 2007 2008 2009 2010 2011 2012* 2013*
+Indirect GHG Emissions (Tons)118,719 111,427 113,453 105,831 96,687 95,712 95,103 95,155 Scope 1 CO2 Emissions
+70k
+0CO2, TONS
+GRAMS OF CO2/cm 2 OF SILICON 
+WAFER FABRICATED
+YEAR60k
+50k40k30k20k10k70
+060
+5040302010
+2006
+2007 2008 2009 2010 2011 2012 2013
+SCOPE 1 CO2 EMISSIONS, TONS
+NORMALIZED EMISSIONS, GRAMS/cm 2
+2011 REDUCTION GOAL
+2015 REDUCTION GOAL
+ 
+ Scope 2 CO2 Emissions
+140k
+0CO2, TONS
+YEAR120k
+100k
+80k60k40k20k
+INDIRECT CO2 EMISSIONS2006 2007 2008 2009 2010 2011 2012 2013
+*Absolute data has been verified by a third party.  EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 38Scope 3 CO2 Emissions: ADI Business Travel
+Parameter 2011 2012 2013*
+CO2e 6373 6983 7889
+ Scope 3 CO2 Emissions
+0CO2, TONS
+YEAR10k
+8k
+6k
+4k
+2k
+CO2e2011 2012 2013*
+*Absolute data has been verified by a third party.
+Water Use 
+ADI uses water from public sources. A significant portion of our water use 
+is treated to produce the high purity deionized (DI) water necessary for our manufacturing operations. Our water consumption is carefully monitored at each of our operating facilities. We also track water by normalizing it to our production processes. ADI set a reduction target of 5% normalized water use by 2015 from our 
+2010 baseline. ADI implements extensive water reuse and conservation programs across all of its manufacturing sites to achieve greater product output with reduced need for natural resources. A substantial portion of water used in manufacturing operations is reclaimed and recycled for reuse. Our project that reclaims wastewater from the fabrication process to feed back to production processes, scrubbers, and cooling towers, is just an example of our activities aimed at reducing our impact to the environment. In fact, in 2013, 25% of our withdrawn water was reused to support the company’s operations. Despite the upward trend in our normalized figures, we anticipate meeting our 2015 target for water use.
+ W
+ater ConsumptionMILLION m 3
+LITERS PER cm 2 OF SILICON
+WAFER FABRICATED
+YEAR1.6
+01.4
+1.21.00.80.60.40.21.2
+01.0
+0.80.60.40.2
+WATER CONSUMED, MILLION m 3
+NORMALIZED DATA, L/cm 2 
+OF SILICON WAFER FABRICATED
+2010 REDUCTION GOAL2015 REDUCTION GOAL2006 2005 2007 2008 2009 2010 2011 2012 2013
+Water Consumption: ADI Manufacturing Activities
+Parameter 2005 2006 2007 2008 2009 2010 2011 2012 2013
+Absolute: Million Cubic Meters 1.36 1.35 1.16 1.16 1.05 0.98 1.07 1.04 1.1
+Normalized: Liters per Sq.Cm. 
+Silicon Wafer Fabrication1.03 0.85 0.76 0.77 1.02 0.74 0.71 0.75 0.8EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 39Waste Generation 
+ADI has a program to recycle materials and avoid landfills or incinerators. 
+We educate our employees on reducing solid waste generation both at home and in the workplace. For example, awareness campaign materials 
+ RCRA W
+aste Generation RCRA WASTE GENERATED, TONS (ABSOLUTE)
+GRAMS PER cm 2 OF SILICON
+WAFER FABRICATED
+YEAR0.6
+00.70.8
+0.5
+0.40.3
+0.2
+0.1700
+0600
+500400300200100
+RCRA WASTE GENERATED, TONS (ABSOLUTE)
+GRAMS OF RCRA WASTE PER cm
+2 OF SILICON
+WAFER FABRICATED (NORMALIZED)2006 2005 2007 2008 2009 2010 2011 2012 2013 Non-RCRA W aste Generation NON-RCRA WASTE GENERATED, TONS (ABSOLUTE)
+GRAMS PER cm 2 OF SILICON
+WAFER FABRICATED
+YEAR2500
+2000
+1500
+1000
+500
+01.8
+01.6
+1.41.21.00.80.60.40.2
+NON-RCRA WASTE GENERATED 
+(RECYCLED + NONRECYCLED), TONS (ABSOLUTE)
+GRAMS OF NON-RCRA WASTE PER cm
+2 OF 
+SILICON WAFER FABRICATED (NORMALIZED)2006 2005 2007 2008 2009 2010 2011 2012 2013Waste Generation 
+Parameter 2006 2007 2008 2009 2010 2011 2012 2013
+Absolute: RCRA* Waste: Metric Tons 539 509 455 420 441 579 615 638
+Normalized RCRA Waste:  
+Grams per cm2 Silicon Wafer Fabrication0.43 0.43 0.39 0.53 0.46 0.56 0.63 0.73
+Absolute: Non-RCRA Waste: Metric Tons 2221 1295 1367 903 861 1336 1399 1313
+Normalized Non-RCRA Waste:  
+Grams per Unit Production1.43 1.02 1.07 1.04 0.77 1.06 1.19 1.16
+*Resource Conservation and Recovery Act.posted on our bulletin boards and TV screens encourage waste reduction. 
+In addition, we are raising environmental awareness of local community residents by conducting waste management seminars. EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 40Energy
+At ADI, the direct sources (that is, Scope 1) of energy we use to support our 
+operations are diesel fuel and natural gas. We also have indirect energy consumption (that is, Scope 2) through our use of local public utility supply. 
+We have a number of programs to manage and conserve the use of energy 
+at our facilities. These programs include our efforts to save energy with conservation and efficiency improvements in our operations, transportation, and office buildings.
+The largest use of energy is through the use of our manufacturing tools. 
+We require all newly purchased manufacturing tools and equipment to meet minimum criteria for utilities consumption efficiency. In addition, our EH&S and Facilities Departments continue to monitor and evaluate industry developments for continuous improvement to efficiency of energy utilization. Our process equipment upgrades have resulted in more efficient use of energy even with continued growth of production. These improvements are expected to continue.
+ADI has set a 5% reduction target of its normalized electricity consump-
+tion by 2015 from our 2010 baseline. We have energy conservation and efficiency programs in place to support our goal. Despite the upward trend in our normalized energy use, we anticipate meeting our 2015 target.
+In the Philippines, we have embarked on a project that uses a renewable 
+energy source. We used solar panels to provide lighting for a new parking lot constructed to address the need of the growing population and site expansion. This project served as an opportunity for us to minimize emis-sions associated with use of electricity from traditional sources. We embark on projects such as these to highlight our commitment to the protection and conservation of the environment.
+Electrical Consumption: ADI Manufacturing Activities 
+Parameter 2006 2007 2008 2009 2010 2011 2012 2013
+Absolute: kWh Used 246,020,296 227,604,558 230,857,648 216,184,473 210,365,958 215,274,871 211,730,265 220,360,703
+Normalized: kWh per cm2 Production 0.15 0.14 0.14 0.20 0.16 0.15 0.16 0.18
+ Electrical Consumption
+250M
+190MkWh
+kWh PER cm2 OF SILICON WAFER FABRICATED
+YEAR240M
+230M
+220M210M
+200M0.21
+00.18
+0.150.120.090.060.03TOTAL ELECTRICITY USED, kWh
+NORMALIZED DATA, kWh/cm
+2
+OF SILICON WAFER FABRICATED2010 REDUCTION GOAL2015 REDUCTION GOAL
+2006 2005 2007 2008 2009 2010 2011 2012 2013EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 41Materials
+ADI has eliminated Class I and Class II ozone-depleting chemicals (ODCs) in 
+all of its incoming raw materials to minimize the release of ozone depleting substances with reference to the “Montreal Protocol on Substances that Deplete the Ozone Layer.” We also source materials that do not contain substances that are restricted in countries where our products are used—for example, by the European Union’s Restriction of Hazardous Substances (RoHS), China RoHS, Registration Evaluation Authorization and Restriction of Chemical Substances (REACH), or End of Life (ELV) Directive. ADI lead-free products are RoHS-compliant. The status of ADI lead-free and RoHS-compliant products is posted on the external ADI website. 
+ADI designs products that make efficient use of raw materials to minimize 
+material use. Additionally, design for environment concepts are incorporated to use alternative chemical constituents in our products. We also minimize quantities of incoming packaging materials to reduce waste.
+We have a Product Life Cycle Program with the aim of extending the life 
+cycle of our products. We believe obsolescence should be avoided as long as technology and customer demand exist for a product. Lastly, a program is in place for the return of evaluation boards from customers for recycling.
+Pollution Prevention
+A key component of ADI’s approach to environmental management is pollution prevention. Pollution prevention practices are incorporated into manufacturing operations.
+•
+ Stormwa
+ter Prevention Plan: Locations of materials and industrial 
+activities that are potentially exposed to rainwater and snow melt are 
+included in our stormwater prevention plan to ensure that appropriate pollution prevention and best management practices are in place and consistently being improved. We have built enclosures to protect transportation-associated loading and unloading activities, waste roll-off containers, and solid waste/recycling compactors. Our inspection program includes visual monitoring and sampling to promote effec-tiveness of the prevention plan.
+•
+ Hazardous Ma
+terials Contingency Plan: This plan is designed to 
+prevent and minimize hazards to public health, safety, or welfare of the environment (fires, explosions, spills, or any other unplanned sudden or nonsudden release of hazardous wastes, hazardous waste constituents, or hazardous materials to the air, soil, surface water, or ground water). This plan is incorporated in the emergency preparedness and response requirements in the ADI ISO 14001/OHSAS 18001 environmental, health, and safety management system.
+•
+ Oil Spill Prevention Control and Countermeasures (SPCC) Plan:
+ This plan 
+features prevention and control technology to reduce the likelihood of a discharge of oil from the involved site or facility.
+Regulatory Compliance 
+ADI is committed to the exemplary environmental performance of our products and operations. To that end, ADI maintains a regulatory register at each of its operating facilities and has a program to monitor and evaluate our EH&S compliance status. Our regulatory compliance management system is both internally audited and externally certified by an independent third party. Government agencies also inspect our facilities for compliance with regulatory requirements. Employees receive EH&S training and partici-pate in prevention and risk control activities associated with their work and formalized within the EH&S management system.EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 42Employees
+Occupational Safety and Health
+In our health and safety compliance program, ADI uses two industry standard metrics to assess injury performance and trends worldwide.
+•
+ Incident ra
+te—number of reportable incidents per 100 employees working a full year
+•
+ Lost workday case ra
+te—number of incidents requiring time away from work per 100 employees working a full year 
+Our results are significantly below industry averages due to our ongoing commitment to employee health and safety in our facilities.
+OSHA Incident Rate 
+Parameter 2006 2007 2008 2009 2010 2011 2012 2013
+Analog Devices 
+Worldwide0.65 0.48 0.48 0.31 0.48 0.43 0.46 0.39
+U.S. Semiconductor Industry 1.4 1.5 1.3 1 1.2 1.1 1.2 1.2
+U.S. Manufacturing Industry 6.0 5.6 5.0 4.3 4.4 4.3 4.2 4.0
+Note: Benchmark figures were taken from the U.S. Department of Labor Bureau of Labor Statistics (BLS) Annual Report (U.S. Semiconductor Industry). 
+These tables have been updated using comprehensive corrected benchmark data for 2011 and 
+2012 as advised by the BLS in November 2014.OSHA Lost Workday Case Rate 
+Parameter 2006 2007 2008 2009 2010 2011 2012 2013
+Analog Devices Worldwide0.26 0.14 0.19 0.08 0.09 0.12 0.20 0.11
+U.S. Semiconductor Industry 0.3 0.4 0.4 0.2 0.3 0.4 0.3 0.3
+U.S. Manufacturing Industry 1.4 1.3 1.2 1 1.1 1.1 1.1 1.0
+Note: Benchmark figures were taken from the U.S. Department of Labor Bureau of Labor Statistics (BLS) Annual Report (U.S. Semiconductor Industry). 
+ OSHA Incident Rate
+7
+0INCIDENTS PER 100 EMPLOYEES
+YEAR6
+54321
+ANALOG DEVICES WORLDWIDE
+U.S. SEMICONDUCTOR INDUSTRYU.S. MANUFACTURING INDUSTRY
+2006 2007 2008 2009 2010 2011 2012 2013 OSHA Lost W orkday Case Rate
+YEARINCIDENTS PER 100 EMPLOYEES1.6
+01.4
+1.21.00.80.60.40.2
+ANALOG DEVICES WORLDWIDE
+U.S. SEMICONDUCTOR INDUSTRYU.S. MANUFACTURING INDUSTRY
+2006 2007 2008 2009 2010 2011 2012 2013EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 43
+Community and Planet
+Land/Biodiversity 
+ADI does not have a significant amount of land associated with its facilities, and our operations generally do not pose a 
+significant risk to the terrestrial biodiversity in the areas surrounding our facilities. ADI’s manufacturing facilities discharge pretreated wastewater to publicly owned wastewater treatment facilities that are permitted for operation in each of their jurisdictions. Those treatment facilities help mitigate water quality impacts and associated water biodiversity risks.
+One of the green building design elements is the conservation of existing landscaped areas and restoration of habitat to 
+promote biodiversity. At our LEED Gold certified facility in the Philippines, that objective was achieved as more than 50% of the land at the facility was restored using native and adaptive planting. In the communities where we operate, we have also embarked on projects aimed at conserving and protecting existing habitat. In the Philippines, we launched the 1Km Streambank Stabilization Project to prevent erosion of the river banks that may lead to the eventual shallowing of the river bed due to sedimentation of eroded soil. 
+Analog Devices continues to sponsor the Ipswich River Watershed Association (IRWA), a group whose mission is to be  “the voice of the Ipswich River,” which is located near Analog Devices’ facility in Wilmington, Massachusetts. The Ipswich River provides drinking water for more than 330,000 people in 14 communities. Unfortunately, it has become stressed due to increased demands on its small size. With ADI’s support, IRWA has continued to defend the health of the river, which has shown significant improvement over time.
+In support of our EHS Community Programs on Environmental Conservation, we launched the Adopt Halang River 
+Program in the Philippines. Halang River is of great importance to Analog Devices Philippines as it receives the treated wastewaters from the Gateway Business Park central wastewater treatment plant, into which the company’s wastewaters also drain.
+Halang River is a source of recreation and livelihood for residents in surrounding areas, and a source of food for wild animals and birds that have made the surrounding wooded area their habitat. Analog Devices launched this program through the 1Km Streambank Stabilization Project by growing trees and allowing their roots to provide adequate reinforcement of the river bank. Constant exposure to typhoons, strong winds, and variations in water flows can all cause erosion of river banks.
+A total of 515 trees were planted in the area, the equivalent to a kilometer of river adopted. The tree planting event was clearly a demonstration of the community of in action. Analog Devices  
+employees together with the community leaders and representatives from the Municipal Environment  
+and Natural Resources Office (MENRO), Barangay Biclatan, Gen. Trias Bantay Kalikasan, and the local  
+firefighters all made this activity a success.
+EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 44Energy
+In line with our commitment to the environment, in 2013 we completed LEED 
+(Leadership in Energy and Environmental Design) Gold certification for one building and registration of two additional buildings. LEED certifies that a building has been built using strategies aimed at achieving high performance in key areas of human and environmental health—sustainable site devel-opment, water efficiency, energy efficiency, materials selection, and indoor environmental quality. The first ADI LEED certified building is ADI Philippines Building 3; some of its notable environment friendly features include: 
+•
+ The building was constructed from an old facility with much of the old 
+structures reused—60% of walls,
+ 35% of floors, 88% of metal roof, 
+100% of roof deck. Structural steel used in the building contains 25% recycled steel.
+•
+ 75% of existing road and hardsca
+pe are reused, minimizing the use of 
+natural resources.
+•
+ 15% of the building shell is made up of insula
+ted glass panels with 29% 
+shading coefficient. Glass panels enable the site to maximize the use of natural lighting.
+•
+ The building shell uses CENTRIA panels with 49% rec
+ycled content.
+•
+ The building envelope uses fiber glass insula
+tion.
+•
+ LED and po
+wer saving lamps (T5) are used for the entire building.
+•
+ Optimized energ
+y performance of the facility is 27%.
+•
+ Lo
+w VOC emitting materials were used during construction (adhesives, 
+sealant, and paints).
+•
+ 40% of the total land area is landsca
+ped.
+•
+ The building uses 100% non-CFC based refrigerants in all refrigera
+tion 
+equipment to protect our environment and the ozone layer.
+One of the highlights of our LEED certified building is its capability for rainwater harvesting. Rainwater collected through roof and sealed pipe-lines, recycled water from the reject water treatment system (RODI), and air handling unit condensates are used for all nonpotable applications such as landscape irrigation and toilets/urinals flushing. This strategy accounted for 100% use of nonpotable water, which eliminated the use of domestic water. Further, that capability increases water efficiency, helps protect our aquifers and the supply of renewable fresh water, and reduces the burden on the municipal water supply and wastewater system.Fuel Efficiency
+ADI is enabling tremendous innovations in automobile fuel efficiency. ADI continues to rollout our third generation of automotive qualified battery mon-itoring ICs, which allows us to deliver improvements in overall fuel economy and emissions reductions through a “start/stop” engine system. In Europe, start stop technology is already found in nearly 50% of the latest vehicle models. A leading North American brand announced plans to offer start/stop technology on 70% of models by 2017.
+In 2013, ADI estimates we are helping save consumers from burning over 
+600 million gallons of fuel—that is equivalent to 12,000 tons of CO
+2 saved 
+from the atmosphere annually. We enable these savings through our latest battery monitoring ICs, which integrate numerous high precision ADCs, microprocessor, memory, and vehicle bus interfaces all in one package that is smaller than a dime and monitors the health of the battery to an accuracy of one-millionth of its original state. It is this level of precision and integration that enables the maximum savings possible when implementing start stop systems in the car.
+One example of Analog Devices’ work in the fuel efficiency field is its 
+relationship with Hella, an innovator in automotive systems that is based in Lippstadt, Germany.
+Management from ADI and Hella.EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 45Analog Devices signed a long-term contract through 2018 with Hella 
+for three generations of intelligent battery sensor (IBS) solutions, which are utilized to monitor the status of battery voltage, current, and temperature. Effective battery monitoring has become a priority as car manufacturers strive to provide efficient engine management features that reduce fuel consumption, such as automatic start/stop, and as car batteries provide power for more and more essential functions in automotive systems. 
+ADI Is Enabling Innovation in Automobile Safety 
+ADI’s MEMS accelerometers measure deceleration in automobile safety systems. This measurement helps determine whether to fire the airbags in a crash situation. Last year, through the modules created by our direct customers, ADI estimates our MEMS safety products were involved in saving nearly 3,000 lives. Every day we helped someone return home safely to their families.
+   Accident free driving is the goal we are working toward and our strategy is built on three      
+        pillars—Predict. Prevent. And Protect. MEMS technology, as well as ADI’s RF, microwave,  
+              and converter technology will be critical to realizing this goal. 
+EH&S Stewardship
+Our Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 46Social Well-Being
+Introduction
+At ADI, we have become the world leader in high performance signal 
+processing solutions by ensuring we not only have the best products in the industry, but also are a good corporate citizen. We understand and appreciate the impact our operations have on economic prosperity, the planet, and people; and we make every effort to ensure that we make a difference, in a very positive way. As such, we work in conjunction with our employees to support social well-being and human rights by giving back to our communities and upholding the highest business and labor practices.
+Employees
+Workplace Compliance
+ADI endeavors to conduct its business in compliance with all applicable laws, 
+regulations, and standards regarding workplace safety and the preservation of our natural resources. ADI’s EH&S Department is responsible for ensuring that ADI policies, procedures, and guidelines regarding workplace safety and the preservation of our natural resources are implemented and observed. ADI will not tolerate unsafe conditions in the workplace or conditions that endanger our employees, other parties, or the quality of our air, water, or land. Additionally ADI is a member of the EICC and adheres to the EICC Code of Conduct. An internal CSR website was released to employees and includes policy statements as it relates to all elements of the EICC Code.Working Hours
+Work weeks at ADI cannot exceed the maximum set by local law. A work 
+week should not be more than 60 hours, including overtime, except in emergency or unusual situations. Workers at ADI are allowed at least one day off per seven day week.
+Appropriate Wages and Benefits
+Compensation paid to workers at ADI must comply with all applicable 
+wage laws, including those relating to minimum wage, overtime hours, and legally mandated benefits. In compliance with local laws, ADI workers are compensated for overtime at pay rates greater than regular hourly rates. Deductions from wages as a disciplinary measure are not permitted within ADI. The basis on which workers are being paid is to be provided in a timely manner via pay stub or similar documentation.
+Humane Treatment
+ADI’s disciplinary policies and procedures are clearly defined and 
+communicated to our workers. We do not tolerate sexual harassment, sexual abuse, corporal punishment, mental or physical coercion, or verbal abuse of workers, or the threat of any such treatment at ADI. ADI adheres to the EICC Code of Conduct as it relates to Human Rights and Labor. A statement on our commitment to human rights is included in our internal CSR website and in our Code of Business Conduct and Ethics Policy. Our employees and suppliers receive training in the EICC Code and Code of Business Conduct and Ethics requirements.
+Nondiscrimination
+ADI is committed to a work environment where employees are treated with 
+respect and fairness. ADI will not discriminate in hiring, promotion, employ-ee compensation, and employment practices on grounds of race, color, religion, age, nationality, social or ethnic origin, sexual orientation, gender, gender identity or expression, marital status, pregnancy, disability, military status, or other categories protected by applicable law.
+In addition, workers or potential workers at ADI will not be subjected to 
+medical tests that could be used in a discriminatory way.
+Forced Labor
+ADI does not use forced, bonded, or indentured labor or involuntary prison 
+labor. All work must be voluntary and workers are always free to leave upon reasonable notice. Our workers are not required to hand over gov-ernment issued identification, passports, or work permits to our facility representatives as a condition of employment.Social Well-BeingOur Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 47Child Labor Avoidance
+ADI does not use child labor at any stage of manufacturing. We use the 
+EICC Code of Conduct definition of “child”: any person under the age of 15 (or 14 where the law of the country permits), or under the age for completing compulsory education, or under the minimum age for employment in the country, whichever is greatest. The use of legitimate workplace apprenticeship programs, which comply with all laws and regulations, is supported by ADI. Workers cannot perform work that is likely to jeopardize their health or safety.
+Freedom of Association
+ADI regards open communication and direct engagement between 
+workers and management to be the most effective ways to resolve workplace and compensation issues. ADI respects the rights of workers to associate freely and seek to communicate openly with management regarding working conditions without fear of reprisal, intimidation, or harassment. Globally, approximately 2% of our employees belong to unions.
+Benefits
+ADI offers a comprehensive benefits program that reflects our commitment 
+to helping employees achieve their physical and financial goals.
+Our programs are designed to provide employees and their families 
+benefits that they value, that are affordable, and that meet their individual needs. Our benefits programs around the world are competitive with local market practices, often exceed industry standards, and are in compliance with regulatory and legal requirements. 
+ADI offers programs that can help employees and their families achieve 
+the goals of physical and financial well-being. 
+Training and Development
+ADI offers employees a variety of resources to gain the knowledge and 
+skills they need to enhance their performance and help us meet our busi-ness objectives. Our commitment to learning and development enables our employees’ personal and professional development.
+Our training and development resources include the following:•
+ T
+uition reimbursement for all full-time employees, up to $5,250 for 
+undergraduate education and $7,500 for graduate education annually 
+in the United States (amounts vary outside the U.S.).
+•
+ A formal,
+ instructor-led leadership development curriculum for first 
+level, middle, and senior managers.
+•
+ An online e-learning system with more than 20 courses targeted to
+ 
+managers available globally 24 hours a day, seven days a week.
+•
+ Computer business simula
+tion programs targeted to select high 
+potential leaders to improve business and financial acumen.
+•
+ Internal and external executive coaches for targeted development.
+•
+ A New College Gradua
+te Orientation Program that exposes recent 
+graduates to ADI’s history, products, people, and technology.Social Well-BeingOur Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 48
+Intern/Co-op Program 
+ADI offers full-time paid internships and co-ops to qualified candidates. 
+In 2012, ADI hired nearly 100 interns and 100 in 2013. During their assignments, ADI interns and co-ops have the opportunity to work on challenging and meaningful projects with top engineering talent. 
+Co-Op/Intern Sample Work Assignments 
+•
+ Design Engineering:
+ Analysis, design, simulation, and evaluation of 
+analog signal processing cells and mixed-signal circuits. 
+•
+ A
+pplications Engineering: Develop customer product evaluation 
+software and hardware for IC products. •
+ Product/T
+est Engineering: Perform characterization and test development 
+activities for the successful development and release of new products. 
+Perform characterization/yield analysis data collection and complete analysis reports for use by Product/Test Engineering staff in support of device evaluations and qualification. 
+•
+ Advanced Development:
+ Develop next-generation analog integrated 
+circuit processes and devices in silicon and silicon germanium. 
+Networking and Professional Development 
+Interns have the opportunity to network with managers, engineers, and other 
+interns. Social outings and professional development seminars are among the many events planned to complement their regular assignments. In addition, at the end of each assignment all students have an opportunity to showcase their project work during “Intern Showcase Day.”Social Well-BeingOur Sustainability Prioritiesanalog.com/sustainability
+2012–2013 Sustainability Report 49Community
+ADI employees are the source of the innovation that sets us apart. Their willingness to go the extra mile not only helps ADI be more successful, but also helps our 
+customers gain a competitive advantage. And their unselfish contributions to their communities and peers are a constant source of inspiration.
+Back to School
+In August of 2013, employees at Analog Devices’ Wilmington, Massachusetts site 
+filled 102 backpacks with school supplies to donate to elementary school students. The backpacks were filled with a variety of supplies including pens, paper, and markers, and were donated to children at the House of Hope and Girls Inc., both in Lowell, Massachusetts, and the Ingalls School in Lynn, Massachusetts. The backpack drive has been an annual event at the Wilmington site for the past 12 years and was coordinated by Analog in Action (AIA), an employee volunteer program. 
+In pursuit of our commitment to provide EHS Education for the Community, Analog Devices Philippines initiated the Proper Solid Waste Management Program in Gen. Aloña Memorial Elementary School (GAMES), located just a few minutes away from the company. We donated trash bins and essential materials for the construction of a materials recovery facility (MRF). We also conducted a Go Green for Kids workshop attended by approximately 200 students. Working with the Municipal Environment and Natural Resources Office, we trained the students on the proper segregation of waste and the value of recycling, preventing pollution, and saving our natural resources. The newly passed ordinance on the ban on the use of plastic bags in the municipality was also presented. The students are now able to demonstrate proper solid waste management by manually sorting the schools’ recyclable wastes into plastics, papers, bottles, and tin cans. This also served as an opportunity for the Parent-Teacher Association to earn extra income by selling the bulk segregated wastes to local recyclers. The income generated through this program will then be used by the school for their environmental projects.On June 2012, we launched an Adopt a Tree Program at Analog Devices Philippines. Saplings of fruit bearing trees were given to employees who volunteered to adopt and nurture these into full-grown trees. Since the project’s inception, a total of 1,470 have been adopted.
+Social Well-Beinganalog.com/sustainabilityAnalog Devices, Inc.
+Worldwide Headquarters
+Analog Devices, Inc.  
+One Technology Way P .O. Box 9106 Norwood, MA 02062-9106 U.S.A. Tel: 781.329.4700 (800.262.5643, U.S.A. only)  Fax: 781.461.3113
+Analog Devices, Inc.  
+Europe Headquarters
+Analog Devices, Inc.  
+Wilhelm-Wagenfeld-Str. 6 80807 Munich Germany Tel: 49.89.76903.0    Fax: 49.89.76903.157
+Analog Devices, Inc.  
+Japan Headquarters
+Analog Devices, KK New Pier Takeshiba South Tower Building 1-16-1 Kaigan, Minato-ku,  
+Tokyo, 105-6891 Japan Tel: 813.5402.8200 Fax: 813.5402.1064
+Analog Devices, Inc.  
+Asia Pacific Headquarters
+Analog Devices 5F, Sandhill Plaza 2290 Zuchongzhi Road Zhangjiang Hi-Tech Park Pudong New District Shanghai, China 201203 Tel: 86.21.2320.8000 Fax: 86.21.2320.8222
+The Toshiba ultrasound machine image on cover 
+is used with permission from Toshiba America Medical Systems,  Inc.
+©2015 Analog Devices,  Inc. All rights reserved. 
+Trademarks and registered trademarks are the property of their respective owners.
+BR07940-0-2/15(E)

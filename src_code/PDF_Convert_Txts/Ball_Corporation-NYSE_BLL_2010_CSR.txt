@@ -1,0 +1,811 @@
+Ball Corporation
+Sustainability Report
+2010
+Balancing Our Activities
+Creating Shared Value
+The FSC trademark identifies paper made from forests that have been certified in accordance with  
+the rules of the Forest Stewardship Council. FSC trademark © 1996 Forest Stewardship Council 
+Copyright © Ball Corporation 2010About Our Reporting
+This is Ball Corporation’s second biennial sustainability report. It covers calendar years 2008 and 2009 and 
+complements our financial reporting.
+This report reflects our focus on Ball’s five sustainability priorities – packaging, energy, water and waste, safety 
+and talent management. These priorities were identified based on a sustainability materiality analysis and feedback from customers, employees, investors and suppliers who are the primary audiences for our sustainability reporting.
+Our reporting is based on the Reporting Framework of the Global Reporting Initiative (GRI). We have assessed 
+our application of the framework to be at Level B. A detailed GRI Content Index is available online.
+ 
+Unless otherwise stated, we are reporting on data gathered globally from Ball majority-owned production 
+operations which account for more than 99 percent of the company’s worldwide production volume. For economic and social data as well as for data on energy and water, we also include our main administrative offices in the U.S. and in Germany in our reporting. Fourth quarter 2009 data from the four North American metal beverage packaging plants acquired in October 2009 is included.
+We welcome your questions and comments on our sustainability efforts. Please direct them to:
+Americas  Europe
+Gerri Walsh  Björn Kulmann
+Director, Packaging Industry Affairs  Manager, Sustainability
+gwalsh@ball.com  bjoern_kulmann@ball-europe.com
+Asia Aerospace
+Major Deng  Laura Davis
+Director, Environment & Recycling  Director of Environmental, Health and 
+mdeng@ball.com  Safety & System Safety Engineering
+ldavis@ball.comT able of Contents
+1 Senior Management Perspective
+2 Ball in Profile
+3 Accomplishments and Challenges 2008-2009
+4 Our Approach to Sustainability
+6 Engaging Stakeholders
+8 Packaging
+12 Energy
+16 Water & Waste
+18 Safety
+20 Talent Management
+Online Reporting
+More detailed information on our sustainability progress, as well as additional information about Ball Corporation, is available at www.ball.com. 
+This symbol through  out the 
+report indicates that 
+additional information is available  online.1
+  How does this sustainability report build on 
+Ball’s  2007  report?
+Hoover: The 2007 report was our first, and we needed 
+to provide detailed background information about Ball Corporation and our approach to sustainability. We’re a 130-year-old company, so we had a lot of ground to cover. This time we are emphasizing our progress. This report is about what we have achieved since 2007 and our  goals 
+going forward.
+Hayes: We also focus on more specific priorities. While 
+we continue to concentrate on important issues such as 
+recycling and energy efficiency, with more experience under our belt we have zeroed in on more measurable and actionable goals and objectives – including what we call our “Big 6” (page 4). Also, we are putting a greater portion of information online as we shorten the hard copy report.
+  What does sustainability mean to Ball?
+Hoover: Sustainability has become a more significant 
+part of our operations, just like quality and efficiency. Sustainable practices were part of the way Ball operated for decades – we just didn’t call them that. Today, those practices are more recognized and even expected by stakeholders. We created a formal sustainability initiative to better focus on what we already do and to identify new actions we need to take to reach our goals. We and our customers, suppliers and investors, know that sustainability offers opportunities, and it has become a differentiator for our company.
+Hayes: The meaning of “sustainability” is also better 
+understood now. It isn’t only environmental impact. 
+For Ball, it is as much about economic and social benefit as it is environmental benefit – the triple bottom line.  
+It’s a broader perspective, and it is more inclusive of our various stakeholder groups and of the expectations of Ball as a public company.
+  What have you found to be the biggest challenge in Ball’s sustainability journey?
+Hayes: Two things stand out. The first is that Ball, by 
+itself, can only effect so much change. We are one part of a much larger supply chain for our products, and it is vital that we work together with suppliers, customers and others to make real improvements. The second thing is you must begin a major, formal sustainability initiative the right way, creating systems to monitor and gather data. Because what gets measured – correctly – gets done. That’s how you know when you are making progress.
+  Has the global economic downturn slowed Ball’s  sustainability efforts?
+Hoover: It has actually made our sustainability efforts 
+more important. Many of them are tied to improving efficiency through reducing energy and resource  use. That 
+helps manage costs.
+Hayes: The downturn has helped Ball and our employees 
+focus even more on controlling what we can control – and 
+that focus certainly includes many of our sustainability initiatives. Our employees know that our sustainability efforts empower us and are continuing to drive progress to help us achieve our goals.Senior Management Perspective
+John A. Hayes
+President and chief 
+operating officer     R. David Hoover
+Chairman and chief executive officer     
+2Ball in Profile
+Ball Corporation, founded in 1880, is one of the largest 
+packaging companies in the world. We produce recycla -
+ble metal and plastic packaging for beverages, foods and household products. About 91 percent of our total sales come from packaging. In 2009, Ball Corporation manu -
+factured more than 62 billion containers. Approximately 85 percent of those containers were made of aluminum or steel. The rest were manufactured from polyethylene terephthalate (PET), high density polyethylene (HDPE) or polypropylene. 
+The remainder of our sales come from Ball Aerospace 
+& Technologies Corp. Our aerospace business provides technologies and services to commercial and governmental customers. Among its achievements are high-resolution imaging satellites that have helped map the planet and science instruments that provide data on environmental changes on Earth.
+Ball Corporation employed approximately 14,000 
+people in 11 countries at the end of 2009. A quarter of our workforce is based in  Europe, China, Canada and 
+South America.
+Ball Corporation reported full-year 2009 net earnings 
+of $387.9 million, or $4.08 per diluted share, on sales of $7.35  billion. 
+At Fiscal Year-End  12/99 12/00 12/01 12/02 12/03 12/04 12/05 12/06 12/07 12/08 12/0999 00 01 02 03 04 05 06 07 09 08$50$100$150$200$250$300$350$400$450$500$550$600Ball
+S&P 500
+DJ ContainersComparison of Year-End Value of $100 Invested 
+December 31, 1999
+Ball Corporation  100.00 119.19 185.12 270.23 317.38 473.14 431.58 478.47 497.85 464.30  582.45
+S&P 500  100.00 90.89 80.09 62.39 80.29 89.02 93.40 108.15 114.09 71.88 90.90
+Dow Jones US   100.00 64.92 81.57 87.77 104.51 125.03 124.25 139.27 148.63 93.19 130.88050100150200250300350400450500550600650Ball Stock Performance vs.  
+Standard & Poor’s 500 Composite Index vs. 
+Dow Jones Containers &  Packaging Index
+Comparison of Year-End Value of $100 Invested December 31, 1999
+© 2010 Standard & Poor’s, a division of The McGraw-Hill Companies, Inc.
+All rights reserved.2009 Net Sales by Reporting SegmentMap Legend
+Plastic packaging Aerospace Research facility Joint venture
+(50% or greater owned)Headquarters Metal beverage packaging Metal food & household 
+products packaging
+Metal Beverage 
+Packaging,  
+Americas & AsiaAerospace &
+Technologies
+Metal Food &  
+Household Products  
+Packaging, Americas Plastic Packaging, AmericasMetal Beverage  
+Packaging, Europe39%
+19%9%9%
+24%3Accomplishments & Challenges 2008-2009
+FTSE4Good 
+Membership
+Ball was selected for the 
+FTSE4Good Index Series on the London Stock 
+Exchange in May 2009. The FTSE4Good criteria are designed to reflect a broad consensus on what constitutes 
+Reduced Demand 
+Leads to Plant Closures, 
+Staff Reductions
+Due to softer sales in parts of the metal can and PET markets, Ball ceased operations in eight manufacturing facilities and announced staff reductions, reducing our workforce by approximately 8percent. These actions, while 
+unfortunate, were necessary toalign supply with demand.
+Bisphenol-A
+Scientific evidence evaluated byregulatory agencies 
+worldwide has consistently shown that human exposure to Bisphenol-A (BPA) from epoxy can coatings is well below safe exposure limits. However, a debate continues over BPA. We are working with coating suppliers and others to find non-epoxy coatings that can consistently meet 
+the needs ofour customers 
+andconsumers.
+Diversity
+Our diversity statistics remain flat despite a commitment Strong Financial 
+Performance During  Difficult 
+Economic Times
+During a time when the world 
+economy experienced extreme volatility, Ball’s overall finan  cial performance was a 
+record for the company. Net 
+earnings increased 21.4 percent over 2008. In 2009, the company’s total return to shareholders, including the reinvestment of  dividends 
+paid, was 25.5 percent.  
+Sustainability Steering 
+Committee Formed
+To ensure sustainability is 
+aligned and integrated with Ball’s long-term business strategy, Ball created an executive level sustainability steering committee in 2009 (page 4).
+Sustainable Packaging 
+Leadership Awards
+Ball received Canadian 
+Packaging Magazine’s 2008 Best-of-Show Eco-Choice Award for PET Plasmax-coated wine bottles. Judges cited the reduction in greenhouse gases related to transportation of wine in the lighter-weight plastic bottles compared to glass bottles.Sustainability Software 
+Implementation
+To ensure timeliness and accu -
+racy in reporting sustainability 
+metrics and progress against goals, Ball began implement -
+ing a global information management system.
+Global Environ mental 
+Health & Safety 
+Conference
+Seventy Ball environmental 
+health and safety employees from 40  facilities met for a 
+three-day program in February 2009 to learn, share best prac -
+tices and  collaborate on ways 
+to improve performance.
+Ceres-ACCA 
+Award  for Best First-
+Time Reporter
+Ball’s first sustainability report 
+was awarded co-Best First-Time Reporter in the 2009 Ceres-ACCA North American Sustainability Awards. Our report was recognized for its comprehensive approach to sustainability and demon -
+strated commitment to stake -
+holder engagement.
+Supplier Guiding 
+Principles
+Ball began implementing 
+Supplier Guiding Principles (SGP) in 2009 with new requests for proposals. The SGP outlines minimum expected sustainability guidelines for Ball’s suppliers and contractors.  good corporate responsibility practice globally.  
+and focus on improvement. We initiated more training and awareness programs and launched a senior level 
+diversity steering committee to improve  our performance 
+(page 20).
+Full Conversion to 
+Lighter-Weight CDL Can Lid  Delayed
+The planned full conversion to 
+our can end using less alumi -
+num (CDL) was delayed for two years in certain facilities due to the need to meet higher requirements in some of our customers’ operations and a slowdown in capital spending. We plan to complete this proj -
+ect by the end of 2011 (page 9).Accomplishments
+Challenges
+Additional and up-to-date accomplishments and challenges  
+can be found at www.ball.com.   Our Approach to Sustainability
+4By balancing economic, environmental and social 
+impacts in our decision making and activities, we 
+will create long-term shared value for our stakeholders and for Ball Corporation. This is our sustainability vision. It reflects our triple bottom line approach to sustainability and underlines our conviction that creating shared value for our stakeholders and for ourselves contributes to Ball becoming a more successful and sustainable enterprise, as stated in our company’s core  purpose.  
+Ball has embraced sustainable practices for decades. 
+We reduced the amount of materials used in our products; 
+reduced energy consumption, emissions, water and waste; improved employee safety; supported recycling collection programs and created value for our shareholders. Our company culture has always been based on the highest level of ethical conduct. One of Ball’s core values and most important cultural assets is integrity. To ensure we act with integrity at all times, all employees are required to understand and follow, among other policies, Ball’s corporate compliance policies and the policies in the Ball business ethics booklet.  
+We began a more formal approach to sustainability 
+in 2006. Since then we have broadened and deepened 
+our efforts by working to embed sustainability within 
+our operations.
+Strategic Focus
+During our strategic planning process in 2008, sustainability was identified as one of the company’s five critical issues to make Ball Corporation fit for the future. This decision instilled sustainability into our planning process and institutionalized our objective to  drive 
+measureable environmental and social progress inside our operations, while still focusing on  our economic  goals.
+Ball named a sustainability steering committee (SSC) 
+comprised of corporate and operations executives to ensure that sustainability is fully aligned and integrated with our strategies, as well as balanced with our stakeholders’ expectations. The SSC crafted our sustainability vision and long-term objectives (page 5), which provide a directional guide to our efforts. The SSC approves our  sustainability 
+reporting and reviews progress toward our goals. The chairman of the SSC reports our sustainability progress to the Nominating/Corporate Governance Committee of our Board of Directors. 
+Ball’s five sustainability priorities are based on a sustain -
+ability materiality survey we performed in 2009 to gather insight from various stakeholders’ perspectives (page 7). T ying Sustainability to Operations
+To more clearly link Ball’s sustainability goals from our first report to our employees so they can be engaged and take action every day, we created the concept “Big 6” in 2008. These are major environmental and social impact areas that we can control inside our operations: electricity, natural gas, water, waste, volatile organic compounds (VOC) and safety. Reduction of greenhouse gas emissions is also a major priority and is achieved through energy efficiency improvements. The “Big 6” is integrated into our sustainability priorities (page 5) with the exception of VOC, which are addressed on our website. To drive measureable progress within our operations and to hold ourselves accountable, each Ball division commits to two-year sustainability goals. The divisional goals are aggregated to a corporate goal (page 5). Progress on goals is reviewed quarterly with management and the SSC.
+Accurate data collection is integral to our sustainability 
+management process. We began the implementation of a global sustainability information management system that will be fully operational in 2010. This system will provide consistent and timely reporting of global sustainability metrics. It will improve reporting capabilities at the facility level and aggregate corporate data to track progress toward our goals.
+To further engage worldwide employees to drive 
+results, we produced sustainability videos targeted to our packaging employees. This visually highlighted improvements to facilitate sharing best practices and generating ideas in our plants, as well as explaining our company’s sustainability goals. The videos were produced  in six languages.
+ 
+Managing Risk
+In an increasingly volatile and uncertain global economy, Ball works to manage risk effectively. We use a systematic approach to identify, assess and develop risk management plans in each of our businesses. This approach is based on a comprehensive risk management map process that encompasses our major risk themes (supply chain, commodity and currency volatility, human capital, financial risk and legislative action). Sustainability issues are addressed within this framework such as risks related to natural resources or the potential for government regulations relating to packaging types. Risk maps are reviewed regularly with board of director committees and updated throughout the year.Packaging Energy Water & Waste Safety T alent Management
+We will develop the 
+lightest weight, most 
+recycled, consumer 
+preferred packaging 
+for the markets in 
+which we compete.We will significantly 
+and cost effectively 
+reduce our energy 
+consumption.We will reduce our 
+water usage and send 
+zero waste to landfill.We will have 
+zero accidents in 
+our facilities.We will recruit, develop 
+and retain talented, 
+diverse employees 
+who share our core 
+values and reflect our 
+communities.Our Sustainability Priorities and Long-Term DirectionsOur Sustainability Vision
+Complete conversion 
+to lighter-weight CDL end in U.S. and expand capacity in Europe. 
+Use 25 percent recycled HDPE in plastic pails or achieve  10 percent 
+source reduction.*
+Collaborate on collec -
+tion and recycling 
+projects in the markets 
+where we operate. 
+Work with metals industry to complete  Life Cycle 
+Assessments. 
+Reduce a 20-oz. PETbottle weight 
+22 percent, saving 6.5 million pounds ofresin annually.
+Complete CDL end project in U.S. and Europe, saving 10,646 tons of 
+aluminum annually.
+Active engagement and 
+support of our joint worldwide recycling collection programs.Reduce greenhouse gas emissions globally by 16 percent by  2012 
+(2002  baseline).  
+Complete implemen -
+tation of an energy management system in our European plants. 
+Reduce energy con -
+sumed per 1,000 units produced globally by 7.3 percent.
+Reduce greenhouse gas emissions globally by 16 percent by 2012 
+(2002  baseline).Analyze water usage in our packaging facilities to determine inefficiencies. 
+Reduce hazardous waste by 150,000 pounds in food and household products packaging plants in 2008. 
+Determine types and quantities of waste generated in North American packag -
+ing plants and divert waste  to recycling. 
+Evaluate potential use of isopropyl alcohol from our aerospace business as a product in the printing industry instead of disposing of it. 
+Reduce water con -
+sumed per 1,000 units produced globally by 4.8 percent.
+Reduce waste to land -
+fill in North America by 10 percent.
+Align waste reporting globally according to Ball’s standard definitions (page 17).Reduce total record -
+able incident rate by a minimum of 15  percent 
+globally in  2008. 
+Implement formalized health and safety man -
+agement systems. 
+Implement behavior-based safety programs  at new 
+plants in  Europe.**
+Reduce total record -
+able incident rate by 15 percent each year.
+Complete implemen -
+tation of formalized health and safety man -
+agement systems.Increase diversity in the applicant pool 
+by 20 percent in 
+the U.S. by  2012. 
+Reduce turnover of female and minority employees by 20 percent in the U.S. by 2012. 
+Enhance employee development so that 75 percent of new positions can be filled internally.
+Increase diver -
+sity in the applicant 
+pool by 20 percent 
+in the U.S. by 2012.
+Reduce turnover of female and minority employees by 20 percent in  
+the U.S. by 2012.Progress On Goals Stated in 2007 Report 
+2010-2011 GoalsAchieved
+Behind planOn plan5
+* Ball’s plastic pail business was sold in 2009.
+** Plants did not become operational.
+Progress on all goals published in our 2007 sustainability report can be found at www.ball.com.  
+By balancing economic, environmental and social impacts in our decision making and activities,  
+we will create long-term, shared value for our stakeholders and for Ball Corporation.Customers   Packaging Solutions Forum /  
+packaging  schools  
+ Face-to-face meetings from executive 
+to managerial levels
+ Sustainability events of customers
+ International projects on packaging 
+and sustainability
+ Customer technical service  
+ Customer satisfaction surveys
+Suppliers    Collaboration on collection and  
+recycling projects 
+  Development of new materials
+	   Supplier Guiding Principles 
+  Life Cycle Assessments
+Employees   Internal communications such as 
+videos,  intranet, employee magazine, 
+town hall events
+Shareholders/Investors
+ Investor and shareholder meetings 
+and presentations  
+ Conference calls
+ Plant tours
+Nongovernmental Organizations
+ Questionnaires and discussions
+Governmental Representatives and
+Regulatory Authorities
+ Meetings and plant tours
+Communities  
+ Local community engagement initiatives           Examples of Our Stakeholder  
+Engagements in 2008/2009
+Case Study:  Collaboration on Life Cycle Assessments
+Ball and industry partners collaborated on two Life Cycle Assessments 
+(LCA) on beverage cans beginning in 2007. Both studies were commissioned by can manufacturers and the metal industries and conducted by external LCA professionals. Through the involvement of suppliers and professionals, we were able to get up-to-date and accurate data on the environmental impacts of beverage cans (page 15). 
+We shared and discussed LCA insights with customers, retailers and 
+regulatory authorities. Based on the LCA results, we identified the processes  that result in the highest impacts and the most effective options 
+to reduce those impacts. Those results will make it easier to initiate new projects with our supply chain partners to further optimize the environmental impact of beverage cans.Engaging Stakeholders
+6Engaging our stakeholders is an essential part of how 
+we do business. By listening to their ideas and needs, 
+we better understand their expectations and can identify emerging opportunities and challenges in our markets. They, in turn, learn more about Ball and how we can work together to create shared value.
+ We regularly engage various stakeholders such as cus -
+tomers, employees, investors, suppliers, trade associations, governmental representatives and regulatory authorities and nongovernmental organizations. Dialog with stakeholders along the packaging value chain, from material suppliers to recycling organizations, is particularly important to Ball. It provides the opportunity to discuss how to maximize the contribution of our packaging to sustainable development. As stated in Ball’s Five Keys to Success, we aim to be “close to customers.” It is our goal to be the supplier of choice by offering high-quality products, responding to customers’ needs and doing our part in contributing to their sustain -
+ability goals. Packaging schools and forums, plant visits and face-to-face meetings from executive to managerial levels are just some examples of how we engage with our customers.
+Ball participates in projects that seek to reach consensus 
+on packaging and its role in the movement toward sustainability. For example, together with retailers, consumer goods companies, material suppliers and other manufacturers, Ball developed a guide for corporate decision makers, Packaging in the Sustainability Agenda, (available at www.europen.be) in 2009. We also participate in the Global Packaging Project, led by the Consumer Goods Forum, to develop common, globally accepted definitions and principles of metrics for  packaging in the 
+Current or Potential Impact on BallSignificance for Ball from an External Stakeholder’s View
+Less Significant Significant Very SignificantVery
+Significant
+Significant
+Less
+Significant Results of the 2009 Sustainability Materiality Process
+Collection and recycling
+Material use / lightweightingInnovationsEnergy efficiencyGreenhouse gas emissionsSafety
+Bisphenol-A
+Talent managementHuman rightsBusiness ethicsLegal complianceCustomer relationship managementWater and wastewaterWasteRenewable energyPollutant emissionsCommunity engagementBribery and corruptionChild laborForced laborFreedom of association
+Environmental management systemsVolatile organic compoundsEconomic contributionsDiversityRecycled content
+Product carbon footprintsHazardous substancesDiscrimination and harassmentLife Cycle Assessment
+Chemical use
+Spills and other incidentsSupply chain managementWellnessEmployee volunteeringCharitable donationsPublic policy Support of small and  
+minority businesses7context of sustainability. The results will be presented in 
+2010 (www.ciesnet.com).
+Ball has been a member of the Sustainable Packaging 
+Coalition (SPC) since 2006. The SPC is an industry working group dedicated to transforming packaging into a system that encourages economic prosperity and a sustainable flow of materials. We participate in various results-oriented projects that provide an opportunity for SPC members to collaboratively share best practices.
+In some countries, the packaging we produce is 
+regulated. Therefore, we monitor and participate in public policy discussions when appropriate to protect and enhance our business.
+We are also involved with a range of professional 
+organizations and trade associations to promote a healthy business climate and to stay informed on developments that may influence our businesses. Ball is a member of multiple national and  international organizations.
+  
+In addition, our businesses and facilities are  expected to be 
+members of the appropriate local chambers of commerce, manufacturers’ associations and other interest groups to promote discussions with local decision makers on a variety of business matters that could  affect our facilities.
+Our Sustainability Priorities
+Sustainability encompasses a broad range of issues. We are focusing our efforts where we can have the greatest impact. The sustainability materiality process we initiated in 2009 was helpful in fine-tuning our approach to sustainability and reporting.
+The results of that analysis, shown in the box below, 
+reflect the outcome of an online survey we conducted in 2009, insights from stakeholder meetings and internal assessments. Senior management and internal subject experts assessed the current or potential impact on Ball (horizontal axis) and external stakeholders provided insights into how significant they consider certain sustainability issues to be for Ball (vertical axis). While all issues are important to Ball, in the upper right corner of the table are the issues that this analysis identified as most significant, or “material,” to Ball.
+We grouped these issues into five sustainability priorities: 
+Packaging 
+Energy 
+Water & Waste 
+Safety  
+Talent Management 
+The packaging, energy and safety priorities came 
+directly from this analysis. We added water and waste 
+and talent management because our senior management 
+considered them very significant for Ball. We will continue this process in the future  to verify that we are focusing our 
+efforts on the right issues.
+This report covers information on the five priorities. 
+Additional information on issues that were identified as less significant but still important to Ball and our stakeholders are covered in our online reporting.  
+ Packaging
+8Packaging Innovation & Sustainability
+Because innovation is critical to maintaining our competi -
+tive edge and helping our customers maintain theirs, we 
+work with customers and suppliers to identify and develop ideas to improve our products and grow profit.
+Metal and plastic resin costs are significant factors in 
+the production of cans and bottles. The transformation of bauxite and ore – to primary aluminum or steel – is energy intensive. Plastic resins are derived from petroleum and natural gas derivative. We save a great deal of costs, energy  and reduce emissions by using less metal or plastic 
+in our containers.
+Lightweighting – making the lightest container possible 
+while still meeting the performance requirements of our customers and consumers – has always been a cornerstone of our approach to sustainable product innovations. Lightweighting saves significant amounts of aluminum, steel or resin taking into account the billions of containers Ball produces every year. We continue to develop new ways to further reduce the weight of our containers while maintaining their integrity. In 2009, for example, Ball began a project to lightweight a 20-oz. sports drink PET bottle by reducing the gram weight and neck finish. This single project, when completed in 2010, will save approximately 6.5  million pounds of PET resin annually . Our long-term direction is to develop the lightest weight, most recycled, consumer 
+preferred packaging for the markets in which we compete.
+Case Study: Colorado Recycling Forums
+In Colorado, where our corporate headquarters is located, we are a main 
+sponsor of the Colorado Association for Recycling (CAFR). Recognizing a need to educate the many communities in Colorado that are not involved in influencing collections, we awarded a $10,000 grant to CAFR to provide an educational forum on the various collection programs and benefits of recycling. 
+We hosted two workshops titled “Implementing Recycling in the Green 
+Economy” in 2009 that were attended by more than 100 people – most of them municipal employees. The workshops included presentations by national and state experts on strategies, options and benefits for increasing recycling in local  communities. Another workshop is planned for southern 
+Colorado in  2010.
+Although progress was delayed on our lighter-weight 
+CDL can end project in the U.S., we are on track to complete this conversion by the end of 2011. The delay was due to the need for an enhanced design for the end to meet certain additional requirements in some of our customers’ operations and a slowdown in capital spending. We are also converting lines in our newly acquired end plant in Gainesville, Fla., in 2010. When complete, this entire project will save 10,076 tons of aluminum annually in the U.S., equivalent to 138,546 metric tons of CO
+2 
+(or removing approximately 26,500 cars from  the road). 
+Our packaging innovation teams implemented a global, 
+web-based innovation management software in 2009. (pounds per can)Average Weight of  U.S.12-oz. Aluminum Can
+1970 1980 1990 2000 2010.048
+.041
+.035
+.030 .0299Ideas are entered and assessed, and innovation projects are 
+developed and tracked. We evaluate innovations through multiple lenses including resource requirements, cost and the impact of product innovations on the recycling process. This approach allows us to invest wisely, invite our customers to join our innovation process at any key phase, and ensure overall project quality and product viability.
+Life cycle thinking considers an entire process from 
+extraction of materials, manufacturing, and use to  recycling 
+of a product and evaluates the impact of each of these processes and the resulting consequences throughout the supply chain. By understanding where in the life cycle the significant environmental impacts occur (page 15), we can better understand where to focus improvements. For the production of metal cans, we collaborated with metal sup -
+pliers on life cycle analyses in Europe and the U.S. These studies show that the extraction and processing of raw materials create the major environmental impacts related to the environmental footprint of beverage cans, and that there is a clear correla  tion between can collection rates and 
+environmental performance. This drives our involvement in 
+supporting recycling collection  activities.
+The Value of Recycling
+Recycling programs depend on reliable markets for the recycled materials and sufficient revenues to offset costs for collection and processing. The price paid for recycled met -
+als and plastics generates revenue that helps offset the costs of recycling programs. The benefits of recycling are effec -
+tively reusing the embedded energy and natural resources needed to manufacture packaging, rather than wasting them in a landfill. Increasing recycling of materials is also an often overlooked way to significantly reduce greenhouse gas (GHG) emissions.Using feedstock from recycled sources uses less energy 
+and reduces GHG emissions compared to virgin feedstock. Recycled aluminum saves 95 percent of the energy and GHG emissions required to produce aluminum from virgin materials.   The energy savings related to recycling 
+of steel is 74 percent. The average total recycled content 
+in aluminum beverage and steel food cans is 68 percent and 33 percent, respectively, in the U.S. according to the most recent industry statistics. Using recycled PET can save up to half the energy compared to using virgin PET. Use of recycled material in our packaging continues to be a high priority due to environmental benefits and growing customer requests. Ball increased the average post-consumer recycled content (PCR) in our PET bottles to 6.5 percent in 2009. Recycled material can be much higher 
+in PET bottles depending on  customer requirements. 
+For example, Ball developed a hot-fill bottle containing 
+40 percent PCR for a beverage customer.
+Metal can recycling has had a long history of 
+success because it is economically and environmentally 
+Case Study: Launch of Lighter-Weight CDL End in Europe
+Our CDL end debuted on the European market in March 2009. We will 
+more than double the output of the CDL end manufactured at the Deeside, U.K., plant to approximately 1.8 billion ends during 2010.
+Ball, in collaboration with others, developed the lighter-weight end in 
+2005. After a successful market introduction in the U.S., a global Ball team worked together to introduce this end to the European market.
+This end saves significant resources. It weighs approximately 10 percent 
+less than its predecessor while maintaining its integrity. When all 1.8 billion ends in Deeside are made this way, we will save more than 570 tons of aluminum every year. Due to additional coating savings and more efficient transport, this project will result in annual CO
+2 emissions savings of more 
+than 6,400 tons through the life cycle of the ends.
+RecyclersMaterial Suppliers
+Raw
+Materials
+LandfillEnergy 
+RecoveryBall Corporation
+Brand Owners
+Distribution/
+Warehousing
+Retailers
+Consumers
+adapted from Sustainable Packaging Coalition's Design GuidelinesLife Cycle of Ball’s Packaging10Packaging  continued
+advantageous. Metal beverage and food cans are 
+100 percent  infinitely recyclable, without loss of 
+quality in  a material-to-material process (aluminum-
+to-aluminum,  steel-to-steel). In terms of the containers 
+that we manufacture:
+The global aluminum can recycling rate was 69 percent  
+in 2007 – the highest recycling rate for any beverage 
+container – providing feedstock for cans and other high-quality aluminum products.The global steel can recycling rate was 68 percent  
+in 2007, providing feedstock for cans and other high-
+quality steel products. More than 7 million metric tons of steel cans were recycled in 2007. In the U.S., 
+steel food cans have the highest recycling rate of any food container.
+The U.S. PET recycling rate was 27 percent in 2008,  
+providing feedstock for a wide variety of manufacturing applications, including fiber for carpet and apparel; strapping; sheet; food, beverage and nonfood bottles and containers.
+The U.S. HDPE recycling rate was 29 percent in 2008,  
+providing feedstock for a variety of manufacturing ap -
+plications including nonfood bottles, plastic lumber and garden products. The U.S. polypropylene recycling rate was 11 percent in  
+2008, providing feedstock for nonfood containers. 
+Ball’s Support of Collection Systems
+Recycling depends on the collection of materials from the consumer to divert the materials from the waste stream to the recycling stream. Hundreds of millions of consumers worldwide use our packaging. Influencing these consumers to collect and recycle those materials is challenging. Because we are part of a vast packaging supply chain across several continents, we focus on a collaborative approach in support of various packaging collection systems.  
+The metal and plastic containers we manufacture are 
+collected in recycling programs, such as curbside, drop-off and deposit. Curbside recycling is the most convenient – all common household recyclables can be recycled at the curb, requiring only the separation of recyclables into recycling bins. In the U.S., the most effective curbside programs provide financial incentives to recycle, such as recycling at no cost combined with weight-based cost for trash services.
+In some countries, metal packaging recycling rates are 
+close to or even greater than 90 percent. However, many collection systems in other countries are not performing as well. There is a tremendous amount of variation in collection systems because they are primarily managed at the local level. Many programs have failed to keep pace with changes in material markets, collection and sorting techniques and consumer awareness. The specific collection system weaknesses in each location can only be addressed in that location.
+Ball, together with others in our industry, is actively 
+engaged in the major regions where we operate to help meet these challenges. In the U.S., we support the Curbside Value Partnership (CVP) along with others in the industry. The CVP is a comprehensive program that helps  to increase the recycling of all household recyclables. 
+CVP provides free education tools and resources for 
+Case Study: Every Can Counts in the U.K.
+Ball and industry partners launched the “Every Can Counts” (ECC) program 
+in the U.K. in 2008. About 8.5 billion beverage cans are sold in the U.K. every year and more than 50 percent are recycled.
+People in the U.K. are well aware of the benefits of recycling and are in 
+the habit at home. However, they may not be used to recycling in other areas of their lives. One of the first steps in the program was to better understand the drivers and barriers to establishing collection programs for beverage cans consumed away from home. Based on these insights, programs were  established to encourage consumers to recycle more 
+“on the go” (www.everycancounts.co.uk).
+The ECC model will be utilized in France in 2010, building on the 
+experiences in the U.K. and starting the roll-out in the Dunkerque region, where Ball operates a beverage can plant.
+What do you think are 
+the central challenges for Ball Corporation and SABMiller with respect to collection and recycling of our packages?
+Packaging is an important part 
+of SABMiller’s environmental footprint, particularly in terms of carbon. Therefore, efficient design, ability to reuse and recycling of consumer packaging are important priorities for us. We are keen to work with suppliers who are prepared to openly share their environmental data and work in partnership tointegrate sustainability issues into the design of 
+theirproducts, while protecting product quality.
+It is also important that there are robust systems 
+in place in our respective markets to ensure that collection and recycling can be facilitated. We encourage our suppliers to explore partnerships with our local businesses, local government bodies and civic organizations to promote recycling.
+Andy Wales
+Group Head of Sustainable 
+Development, SABMillercommunities to design, implement and measure a 
+communication campaign. Additionally, visitors to  
+www.RecycleCurbside.org can view and download best practices from communities across the country. In 2008 and 2009, nine communities plus the state of Georgia partnered with CVP, reaching approximately 5 million households. CVP partners have experienced an average 23 percent increase in recycling volume and an 18  percent 
+increase in participation.
+When Ball opened beverage can plants in two European 
+countries, recycling programs were established for each country – “recal” in Poland and “recan” in Serbia. The purpose was to increase recycling rates by educating consumers – especially young people – on the advantages of recycling, and to increase environmental awareness and instill recycling as a daily habit.
+In Serbia we are also a founding member of SEKOPAK, 
+the new packaging recovery scheme that started its operations in 2009. SEKOPAK, supported by fillers and other packaging companies, is responsible for setting up curbside collection for packaging in Serbia.
+In France, as in many countries, away-from-home 
+recycling is a major weakness of the recycling system. We are working with our customers, retailers and packaging companies on improvements by broadening collection in offices and public places. 
+In China, we are replicating the success of our European 
+“recan” program. Environmental education activities in the schools of Ezhou city, near our Hubei plant, were initiated in October 2009. A can recycling competition enhances student awareness of the benefits of recycling. Ball will continue to broaden our reach by expanding this initiative to more cities in China. Our corporate headquarters and North American 
+beverage packaging plants participate in the annual America Recycles Day Aluminum Can Challenge, a grassroots effort to demonstrate the importance of recycling in our communities. In 2009, Ball facilities recycled almost 32 tons of aluminum,  raising nearly 
+$40,000 for a variety of charities and schools.11
+Case Study: Partnerships Improve China’s Recycling Rates
+Although the recycling rate in China is greater than 90 percent, the 
+efficiency and standards in the collection and separation of materials needs improvement. These issues reduce recovery yield. To improve the yield, Ball Asia Pacific, Ltd., is focused on providing environmental education in schools and improving community recycling programs.
+Coinciding with the 2008 Beijing Olympics, Ball partnered with local 
+governmental and provincial agencies in Tsingtao on an educational and collection event. Approximately 100,000 school children in 130 schools were educated on the energy savings and environmental benefits of recycling aluminum cans and learned how to properly recycle cans.
+In Shenzhen, we partnered with a major retailer on a collection campaign. 
+Through 2009, a total of more than 10 tons of aluminum cans and PET bottles were collected.
+Stakeholder Perspective: CustomerIncreasing Energy Efficiency
+Ball used 11 million gigajoules of energy in 2009, an 
+11 percent decrease from 2007. Our energy efficiency, 
+which we measure as per 1,000 units produced, improved by 9 percent in the same time period. Ball’s goal is to further improve energy efficiency by 7.3 percent by 2011. We implemented projects in all of our global operations to increase energy efficiency and decrease costs and greenhouse gas (GHG) emissions. These efforts included educational measures, improving operations and major capital investment projects such as replacing older existing equipment with more energy efficient units. Another contributing factor was ceasing operations at eight plants, allowing for consolidated production volumes in other plants, making them more efficient.
+Technology and Equipment
+Ball invested more than $36 million in energy savings projects in 2008 and 2009. These investments will save approximately 390,000 gigajoules annually. This corresponds to the annual energy consumption of more than 2,000 average U.S. households.
+We are using comprehensive energy information 
+systems (EIS) in 13 plants, which enable us to better understand and manage the energy consuming processes in our operations and improve total system performance (case study on page 14). Other plants are realizing significant energy savings using smaller scope energy monitoring. EIS increases awareness of energy consumption and potential savings and ultimately contributes to improved energy efficiency.
+Compressed air use in our plants consumes the most 
+energy in our operations. Production motors, ovens, HVAC (heating, ventilation, air conditioning), vacuum pumps and chillers are other high energy consuming equipment. Our major focus is on optimizing the performance of compressed air systems. We reduced system pressure, minimized wasteful air uses and leaks, regulated volume and pressure and reduced demand by manufacturing equipment. Fourteen of our metal beverage packaging plants now have dual air systems supplying equipment with either high or low pressure air to reduce energy use and costs.
+A regenerative thermal oxidizer (RTO) is a pollution 
+control system that uses high temperature to destroy volatile organic compounds (VOC) emitted during the can coating processes.
+  They normally operate using natural 
+gas. We replaced certain inefficient incineration devices with more energy efficient units in 2009. A new RTO in Weirton, W.Va., has a thermal efficiency rate of 93 percent, saving approximately 69,000 gigajoules of natural gas and 3,479  tons of CO
+2 per year. By installing VOC 
+concentrators in the RTOs in our Bierne, France, and Hermsdorf, Germany, plants, we reduced annual energy consumption by 37,200 gigajoules, saving approximately 2,000 tons of CO
+2 emissions every year.
+We also upgraded lighting to improve energy efficiency 
+across all of our divisions. More than 80 percent of lighting in Ball’s North American packaging facilities has been upgraded. In China, we replaced more than 
+850 lights in three plants with energy efficient lights.
+We conducted a vacuum conservation project in our 
+Fairfield, Calif., plant in 2009 and identified two projects with a payback of less than a year that will significantly reduce our vacuum supply and demand, resulting in annual savings of approximately 4,680 gigajoules of electricity or 1,110 tons of CO
+2.Energy
+Our long-term direction is to significantly and cost effectively reduce our 
+energy consumption.
+12
+Electricity95%92% 93%
+5.145.435.85 5.81 5.94
+2005 2006 2007 2008 20096.50 6.62 6.726.416.0112.441 2.42 12.56
+11.8311.15100%
+86%
+Natural Gas, Propane, DieselPer 1,000 units producedGlobal Energy Consumption
+(million gigajoules*)
+*columns may not add up due to roundingAwareness and Employee Involvement
+The ideas and the creativity of our employees often result in process innovations that improve energy efficiency. Employees can direct their ideas to plant management or through an online suggestion board on our global internal portal. Suggestions are reviewed to determine feasibility and we follow up by sharing success stories.
+Visibility and education are other important factors 
+for energy awareness. Our facilities in North America observed Energy Awareness Month in October 2009. We provided a variety of communications on our portal and in our facilities about how to use less energy at our plants, in our offices and at home, as well as some success stories from our businesses.
+In many Ball plants, employees are working diligently 
+to increase energy efficiency. By doing so, they attract the interest of others, raise awareness and motivate them to contribute. For example, our Milwaukee, Wis., plant, participated in the state’s Focus on Energy initiative and installed three large energy efficiency projects. The plant’s projects included a heat recovery system that captures waste heat from the RTO and uses it to supply heated water to the can washing system; energy management controls for HVAC; and replacement of nearly 600 light fixtures with high efficiency models. Together the proj -
+ects save an estimated 11,952 gigajoules and more than $700,000 in energy costs annually. As a result of these efforts, the plant received the Governor’s Award of Excel -
+lence in Energy Efficiency. This is one of many examples ofsignificant progress our employees are achieving. 
+Benchmarking and Best Practice SharingAs a global company we benefit greatly from exchanging best practices among our sites and divisions. By learn -
+ing from each other, we make available consistent global 13
+Case Study:  Smart Use of Compressed Air in Delran
+In our plastic packaging plants, high pressure compressed air is used for 
+blowing preforms (uninflated bottles) into finished form. In Delran, N.J., compressed air recycling and compressor control systems were installed. The air recycling system captures some of the high pressure compressed air used to make the bottles and reuses the air for low pressure compressed air requirements. The compressor control system monitors the demand and manages the operation of 15 high pressure compressors (a combined 7,000hp). To closely match air supply to process demand, the system shuts down or starts compressors as process demand changes. By shutting down the idle compressors, the plant has reduced its energy usage by 18,700 gigajoules per year, saving approximately 4,442 tons of CO
+2 emissions.Stakeholder Perspective: Suppliers
+What do you think are the central challenges 
+for Ball Corporation with respect to the overall 
+carbon footprint of aluminum cans?
+Ball and Alcoa partner in a 
+supply chain that delivers, recycles and returns the can to the consumer in 60 days. Carbon reduction and the results of the aluminum can life cycle analysis dictates we raise recycling rates. Alcoa and Ball have collaborated with others in the industry on various initiatives such as the Curbside Value Partnership.  We need to accelerate these efforts to reduce the carbon footprint of the aluminum can. We believe we need a strong partnership with Ball and others across the supply chain to continue to make substantial improvements in the carbon footprint of the aluminum can.  We can make the best improvement byincreasing collection and recycling. This is why working together in supporting the Curbside Value Partnership and other ways to build consumer awareness on the importance of recycling is critically important.  
+Jean Marc Germain
+President, Novelis North 
+America for Novelis Inc.
+Kevin Anton
+Alcoa Vice President & Chair, Sustainability Committee 
+14Energy  continued
+efficient processes across our operations. Energy champions 
+from our metal beverage packaging plants met in Septem -
+ber 2009 at our Saratoga Springs, N.Y., plant. The focus of the meeting was to learn about EIS, how to optimize energy use and share individual experiences. The exchange of knowledge and team spirit are the cornerstones for the continued success of our energy saving  improvements. 
+ We utilize our internal portal to share comprehensive 
+information on energy use and best practices for each packaging division. Efficiency opportunities by process and equipment type, assessments, goals and historical usage information are provided in detail to drive results. Membership in programs, such as U.S. Environmental Protection Agency’s (EPA) Energy Star, provides further tools and training to enhance our efforts and learn about successes in other businesses. 
+Comprehensive and complete data enables us to develop 
+appropriate solutions across our operations. The new software solution for collecting sustainability metrics of every Ball plant (page 4) contributes to increased transparency and better benchmarking of our plants.
+Reducing Greenhouse Gas Emissions
+Accurate accounting of GHG emissions is essential to im -
+plementing effective reduction strategies. Ball introduced a global reporting framework in 2009 that allows tracking of our energy efficiency and GHG emissions and consis -
+tent reporting to the sustainability steering committee. We have participated in the EPA Climate Leaders’ program since 2002 and the Carbon Disclosure Project (CDP) since 2006, where we disclose our GHG emissions.
+Case Study: Energy Information System in Europe
+Ball implemented an energy information system (EIS) in 2008 and 2009 
+in all 12 European plants. Electricity, gas and water measurement devices were installed on the most energy intensive equipment. Through advanced metering systems and software, real-time energy information and consolidated data for all machines is provided online.
+The EIS enables us to continuously measure energy efficiency and to better 
+understand energy consumption in our complex manufacturing process. Performance of energy consuming equipment can be managed effectively and we are able to identify and quickly react to anomalies. By constantly monitoring and tracking energy consumption, we are increasing awareness on energy efficiency and related costs. We estimate that the annual energy savings realized by the EIS will be approximately 2 percent of our energy costs in Europe, which corresponds to more than $1 million per year.In 2008, Ball Corporation committed to reduce direct and 
+indirect GHG emissions by 16 percent by 2012, using 2002 
+as a baseline. This commitment originated from our mem -
+bership in the Climate Leaders’ program. The Climate Lead -
+ers’ goal was committed to in 2004 for our North American operations and expanded to a corporate goal in 2008. The scope of the original Climate Leaders’ goal included the facil -
+ities where we have operational control, whereas our sustain -
+ability reporting scope includes facilities under our financial control. In addition, the calculations of CO
+2 intensity are 
+slightly  different between the two scopes. We use “per 1,000 
+units produced” normalization for sustainability reporting 
+purposes, while Climate Leaders’ Carbon Intensity Index is based on a more complex formula. Until our Climate Leaders’ goal ends in 2012, we will collect GHG emissions data for both scopes, but report against the  Climate  Leaders’ 
+CO2 Emissions from ElectricityCarbon Intensity Index CO2 Emissions from  
+Natural Gas, Propane, Diesel 98%95%92%.34.34. 34.32.301.44 1.54 1.541.30
+1.23
+1.11.2 1.2.98.93100%
+87%
+2005 2006 2007 2008 2009Global CO2 Emissions
+(million metric tons)Can manufacturing – 24.3%
+15scope (chart on page 14). The Climate Leaders’ GHG 
+emissions data is reviewed each year by the EPA.
+Compared with the 2002 baseline, at the end of 2009 
+we achieved a 13 percent GHG emissions reduction. Although we are making progress, some developments in our business had a negative impact on energy efficiency. The unexpected softening of demand as a result of the global economic downturn negated some of our progress: the fewer containers we produce in a certain time frame, the lower the energy efficiency. For example, if we halve the production on an average beverage can line, energy efficiency decreases by more than 25 percent. Also, new energy-intensive equipment was installed for environmen -
+tal protection purposes and for manufacturing some new products that resulted in higher energy  consumption.
+Our primary effort is directed toward increasing energy 
+efficiency, which is where we can have the greatest impact on reducing GHG emissions. However, Ball continues to explore cost-effective ways to use renewable energy. For ex -
+ample, we plan to install solar panels on the 34,000-square-meter roof of our La Ciotat, France, plant. The annual power output will be approximately 4,900 gigajoules, thus avoiding 120  tons of CO
+2 emissions per year. We expect the 
+first power to be delivered in the first half of 2011.
+Determining the Carbon Footprint 
+of Our Products
+Ball Corporation has evaluated the environmental impacts 
+of our products for more than 20 years and has used this information to better understand the overall environmen -
+tal footprint of our containers. Life Cycle Assessments (LCA) and product related CO
+2 emissions are important 
+to our business. Packaging is often classified in European legislation based on its environmental credentials, for example, and some countries impose CO
+2 related taxes.Ball is a member of Beverage Can Makers Europe 
+(BCME), a trade association that conducted an extensive LCA for beverage cans in 2009. The study showed that the manufacturing stage of the beverage can accounts for approx  imately 24 percent to the overall carbon footprint of 
+the beverage can throughout its life cycle (without consider -
+ing the impacts of the beverage). More than two-thirds of the 
+carbon footprint is derived from the production of the metal.
+Regardless of where in the packaging value chain 
+environmental impacts occur, all potential improvements along the chain need to be considered. Ball continues to work to further reduce our impact during can manufactur -
+ing. Upstream, metal suppliers are continuously working to reduce environmental impacts related to metal production. Our customers, our suppliers and Ball are focused on 
+increasing recycling rates to save resources (pages 8-11). With every can collected and recycled, the carbon footprint of the next can  is substantially reduced.* PE International, BCME (2009) together with the European Aluminium 
+Association (EAA) and the Association of European Producers of  Steel 
+for Packaging (APEAL): Life Cycle Inventory and Impact Analysis for 
+Beverage  Cans
+Case Study:  Small Steps, Big Differences  
+at Ball Aerospace
+Ball Aerospace accounts for only 2 percent of Ball’s energy consumption, but 
+continuous optimization of energy use is still a high priority for the division. Lighting and HVAC (heating, ventilation, air conditioning) are the main focus areas for reduction. More than 100 high intensity discharge light fixtures were replaced with efficient, high output fluorescent lights in 2009. Annual energy consumption will be reduced by 650 gigajoules, reducing approximately 154 tons of CO
+2 emissions.
+An energy analysis of the HVAC motors in clean rooms revealed significant 
+energy losses due to belt slippage on larger motors. The V-belts on these motors were replaced with synchronous belt systems in 2009. Depending on the size of the motor, the new belts reduce energy use by up to 15 percent. The estimated reduction in electricity consumption is 620  gigajoules per year.Metals production – 71.2%  
+(incl. credits for recycling) 
+Distribution & chilling – 0.4%
+Remelting – 4.1%
+Carbon Footprint of a  
+50cl Aluminum Can (16.9 oz)*
+(average Western European aluminum can recycling rate of 61.8%)Water & Waste
+16Ball is focused on the continuous improvement of our 
+manufacturing processes to increase efficiencies. We 
+have successfully introduced innovative production tech -
+niques and, supported by our environmental management systems, reduced water consumption and diverted more waste to beneficial reuse.
+Water
+Ball used 5.27 million cubic meters of water in 2009, an 8.6 percent decrease from 2007. Water consumption per 
+1,000 units produced also decreased 5.5 percent in the same timeframe. Our goal is to further reduce water consumption by 4.8  percent per  1,000 units produced by the end of 2011.Ball’s various North American packaging facilities have 
+been conducting annual water surveys since 2008. Data is collected centrally and best practices are identified and shared. These plants began implementing more than  50 
+water efficiency projects in 2009 that are expected  to save 
+approximately 365,000 cubic meters of water every year.
+We modified our cascade washing process and are now 
+reusing water in La Ciotat, France. We save approximately 15,000 cubic meters of municipal water per year and reduce the amount of wastewater released to treatment systems. We plan to implement this measure in five more European plants in 2010, resulting in annual water savings of more than 75,000 cubic meters.
+Ball Aerospace completed three projects in 2009 that 
+eliminated single pass domestic water systems. Through the installation of closed chilled water loops and non-water cooled pumps, annual water usage was reduced by approximately 5,000 cubic meters.
+Waste
+Material use and waste volumes are important yardsticks used to evaluate the efficiency of our processes. Ball employs a number of strategies to minimize raw material use such as recycling all process scrap within our facilities and making process improvements to reduce spoilage.
+Case Study: Biological Wastewater Treatment in China
+Biological wastewater treatment removes organic substances in the 
+wastewater generated during our manufacturing processes so that treated effluent can be in compliance and safely released.
+Since 1996, Ball’s Beijing, China, plant has successfully applied biological 
+wastewater treatment. The plant further upgraded its facilities in 2009. Based on the experience from Beijing, our Shenzhen facility added the process in 2008. Our Hubei plant started the wastewater treatment plant upgrade project in late 2009 and can build upon the experience from the other two plants.
+By adopting this proven technology and achieving safe effluent discharge 
+qualities, the biological treatment process enables each of our plants in China  to go beyond compliance and below legal limits.
+Our long-term direction is to reduce our water usage and send zero waste 
+to landfill.
+2007* 2008 2009100%94.5% 5.775.595.27Global Water Consumption
+(million cubic meters)
+Per 1,000 units produced  
+ * 2007 water consumption restated from previous report.What do you think are the 
+central challenges for Ball Corporation with respect to resource efficiency?
+Sustainability is emerging as 
+a major investment theme. Over half of the cost of producing a can is in mater-ials. If this can be reduced, everyone throughout the supply chain wins. Ball has been focused on sustainability and this has resulted in lowering the cost to produce a can by using less resources and energy. This allows Ball to provide cans at a lower cost to their cus-tomers and it could increase profits for Ball and its shareholders. As an investor, I am looking to Ball to find new ways to further lightweight its containers, as well as reduce energy and water consumption.
+Scott Stutzman
+Research Analyst, 
+Janus Capital GroupStakeholder Perspective: Investor
+17Waste reduction, reuse and recycling minimize disposal 
+costs and provide environmental benefits such as resource 
+conservation. We generate additional revenue when we recycle valuable materials such as plastic strapping. By emphasizing the importance of recycling, we are cultivating a conservation mindset.
+A number of locally driven, innovative plant recycling 
+initiatives were introduced at our facilities. For example, our manufacturing plant in Chestnut Hill, Tenn., began recy -
+cling oil  absorbent materials. The materials are processed to 
+remove the oil fluids, which then are fuel blended for reuse. 
+After cleaning, the processed absorbent fiber is recycled. These  efforts, along with a comprehensive waste sorting and 
+educational effort, have increased the plant’s recycling rate to 
+85 percent and saved approximately $52,000 in annual costs.
+Approximately 87 percent of the total waste generated 
+by Ball is metal and resin manufacturing scrap, which we recycle for environmental and economic benefit. We are focusing our efforts on reducing the remaining waste streams which totaled 33,483 metric tons globally in 2009. One of the main challenges for us is to report on different 
+Case Study: Waste Management in North America
+Ball engaged a by-products solutions provider in 2008 to identify, track and 
+effectively manage all waste streams in our North American facilities. As a result, we found numerous ways to reduce our environmental footprint and turn waste into an economic advantage.
+One example was a filter cake composting project in our Golden, Colo., 
+plant in 2009. Filter cake, which accumulates in the course of wastewater filtration, is the largest waste stream by weight in our metal beverage packaging plants. This project will result in the avoidance of an estimated 576 tons of filter cake being landfilled. Instead, the filter cake will be 
+shipped to a commercial composting facility near our plant. This program represents a 75  percent decrease in total landfill waste at this plant. We 
+plan to divert these by-products in other plants beginning in 2010. 
+waste categories in a timely, reliable and consistent way 
+throughout our global operations. Waste classifications and disposal methods vary from country to country. For example, a certain waste might be recycled in one region, but has to be landfilled in another region. Together with our waste management contractors across the globe, we started to address this challenge and can now collect and consolidate waste data against the categories shown in the chart to the left. We are reporting this data for our North American and European  facilities for 2009. Our South 
+American and Asian  locations start  reporting against 
+these  metrics in 2010.2009 Waste Generated by Waste Treatment 
+Method in North America and Europe
+(metric tons)
+Energy Recovery – 4,758
+Other Waste  
+Treatment – 3,753Recycling/Reuse – 13,944
+Landfill – 10,080Safety
+Case Study: Corporate OHSAS Certificate in Europe 
+Ball Packaging Europe committed to become a world-class safe workplace 
+in 2005 and four years later was certified under Occupational Health and Safety Assessment Series (OHSAS) 18001. Ball’s European business is one of the first to be granted certification according to the internationally recognized safety standard. Companies are normally granted certification on a plant-by-plant basis, and not as an entire entity.
+The best measurement of safety success is our total recordable 
+incident  rate, which declined by more than 50 percent for Ball Packaging 
+Europe from 2005 to 2009 to 1.27 recordable incidents per 200,000 hours worked.E mployee safety is part of Ball’s culture and requires 
+the active commitment of every employee and of the 
+company. We provide safety standards, tools and training for all employees. Ball has had a successful track record related to safety performance, with consistently lower incident rates (injuries that require treatment beyond first aid per 200,000 hours worked) than in our industries as reported by the U.S. Bureau of Labor Statistics. In 2008, the rate for the metal can manufacturing industry was 5.9 and for plastic packaging manufacturing was 5.6, compared to Ball’s overall rate of 2.4.
+Safety leadership in each of our businesses completed 
+a comprehensive analysis of occupational health and 
+safety  management systems (OHSMS) to define a 
+minimum set of global criteria for Ball Corporation’s global OHSMS standard. While each division within Ball has a successful safety program, developing a global standard with specific minimum requirements will work to further enhance our safety culture. Ball’s new global OHSMS standard is a compilation of the two leading OHSMS standards – Occupational Health and Safety Assessment Series (OHSAS) 18001 and ANSI Z-10. All Ball manufacturing facilities will be held to the new safety  management standard. Health and Safety Performance
+Continuous improvement, accountability and active involvement of employees are the most important factors in consistent safety performance. Safety 
+performance is reviewed with Ball’s management on a monthly basis to ensure progress is being made toward our long-term goal of zero accidents.
+The key performance indicator of our safety record is 
+our total recordable incident rate. It will take incremental progress to reach our long-term safety goal. We set a goal to reduce our incident rate by 15 percent in 2008 Our long-term direction is to have zero accidents in our facilities. 
+18
+2005 2006 2007 2008 20094.34.9
+3.9
+3.2
+2.4Global T otal Recordable Incident Rate
+(recordable incidents per 200,000 hours worked)Stakeholder Perspective: New Ball Employee
+What do you think are 
+the central challenges in merging AB InBev plant safety management systems/procedures with Ball’s approach?
+The biggest challenge is 
+learning and adapting to the new systems and procedures while simultaneously main -
+taining current safety pro-
+grams. Becoming part of Ball Corporation in 2009 provid -
+ed additional opportunities to share best practices and improve our safety systems in the plant. This will ultimately make us a safer facil-ity by adding the Ball programs that complement and strengthen our previous programs.
+Tracie Sorvillo
+Manager, Environmental 
+Health & Safety, Columbus, Ohio, Metal Beverage Packaging Plant19compared to 2007, and we exceeded that goal by reducing 
+our total incident rate by 24 percent. We further reduced our rate by 27 percent in 2009 versus 2008 (chart on page 18). Our goal in 2010 and 2011 is to further reduce 
+our total incident rate by 15 percent each year.
+Components of Ball’s Health 
+and Safety Program 
+The following 10 elements are the main components 
+of Ball’s safety program:
+Management commitment 
+Ownership and trust 
+Employee engagement 
+Communication and awareness 
+Behavior change 
+Education and training 
+Adherence to standard 
+Measurement and analysis 
+Medical case management 
+Continuous improvement 
+Continuous improvement pertains to our entire 
+program. One important aspect to improving safety is to change unsafe behaviors by proactively and nonconfrontationally focusing on behaviors that may lead to incidents. Ball utilizes the behavior-based safety approach, which targets specific worker behaviors, and enlists employees at all levels to monitor behaviors and take appropriate actions as needed as well as documenting those actions. By documenting unsafe behaviors, we can  follow 
+up to address the underlying issue.
+Safety risk management, a fundamental aspect of Ball’s 
+health and safety program, is practiced at all our plants. Through risk assessments, we determine which areas have the highest health and safety hazards. We share this information throughout our operations to improve our safety performance. For example, high noise levels exist inside Ball’s can plants due to the use of high-speed heavy equipment. This can lead to hearing loss without proper use of hearing protection. Ball requires hearing protection for all employees, as well as acoustic guarding and other measures. In Europe, Ball continuously works to reduce noise at the source and will share these practices globally. We also require annual audiometric testing.
+Another fundamental aspect of how Ball operates is 
+maintaining our facilities to a high standard of cleanliness. This practice helps to foster pride in our workplaces and promote safe practices. 
+Case Study: Changing Safety Culture in Argentina
+When Ball acquired plants in Garin and San Luis, Argentina, in 2006, the 
+plants had a total recordable incident rate of 14.6. The existing safety program had minimal structure and little management support. In 2009, these two plants improved their combined incident rate to 8.0 – a 55 percent improvement from 2006. This improvement was the result of 
+a safety culture change through management commitment to making safety a priority.
+Elements that helped change the culture included starting every meeting 
+with a safety review, implementing behavior-based safety, safety training for managers and supervisors, ensuring employees used the proper safety equipment, installing additional machine guarding and segregating the storage of hazardous materials. These efforts demonstrated to employees that management was committed to making health and safety a priority.
+Talent management is one of Ball Corporation’s critical 
+issues. We have a six-step, global “people strategy” 
+to ensure that our 14,000-plus employees continue to be our greatest asset. Human resource leaders in each of our businesses worked together on this strategy, building on the best aspects already in place within Ball. 
+Ensuring Core Competencies 
+Our competency modeling tool identifies the knowledge, experience, skill and behaviors required for successful performance in each job. We incorporated these competencies into recruiting, performance, development and succession planning. Our goal is to ensure 100 percent adoption of this system by 2012. One of our five Keys to Success is to behave like owners of the company and we believe this tool will help instill that sense of ownership in our employees. 
+Finding the Right People 
+To ensure that our candidate pool is qualified and diverse, we use a variety of recruitment practices. We attended 47 professional and diversity career fairs and 49 college and military recruiting venues in North America in 2008 and 2009, which helped us identify more than 600 potential new employees. We post job openings internally, giving employees the first chance to advance within the company. More than 75 percent of open positions were filled inter -
+nally during 2008 and 2009. We have a summer internship program and hired more than 75 interns in the past two years, eight of whom became full-time Ball  employees. Our diversity initiative is designed to engage current 
+employees as we continue to attract new talent. We conducted diversity awareness training for 62 senior managers in the past two years and developed a program, “respect in the workplace,” which has been attended by 377 employees. We also established five specific employee resource groups for veterans, women, African Americans, Hispanic and Asian Americans. The intent is to identify and give recommendations for creating a more inclusive workplace. We developed partnerships for recruiting from diverse student populations like the one highlighted in the Thurgood Marshall case study on page 21.
+To further our progress, Ball organized a diversity 
+steering committee made up of senior leaders that oversees and emphasizes our diversity initiatives; increasing the number of women and minorities in management positions; increasing diversity in the applicant pool; increasing hiring T alent Management
+Our long-term direction is to recruit, develop and retain talented, diverse employees 
+who share our core values and reflect our communities.      
+20
+Case Study: Leadership Training
+Ball offers a five day Fundamentals of Leadership class which has been designed 
+to develop the skills and effectiveness of supervisors and managers across the company. It is held three times a year at our corporate offices for employees in the U.S. A similar class was developed for employees in Europe and  Asia.
+ Through the class, employees gain greater understanding of our business 
+and culture, clarity on their management roles and responsibilities, building relationships and getting results, leading people and what resources can support  them in their jobs. 
+Specific modules are based on topics including understanding 
+communication styles, change management, listening skills, sustainability, environmental and safety performance, understanding diversity, coaching for performance, employment laws and labor relations. In the 11 years we have conducted this  class, 1,270 employees have participated. 
+Diversity Statistics
+Ball Corporation 05 06 07 08 09
+Total women in workforce 15% 16% 16% 18% 18%
+Women in senior management 17% 18% 18% 17%18%
+Ball’s North American Operations
+Total minorities* in workforce 15% 19% 19% 20% 21%
+Minorities* in senior management 8% 8% 8% 8% 7%
+*includes womenStakeholder Perspective: Ball Employee
+What do you think are the 
+central challenges for Ball with respect to developing a diverse workforce?
+Diversity and inclusion 
+are key elements of talent management at Ball. Our objective is to attract a diverse mix of employees to support our strong belief in the value of diversity. Our challenge is to recruit a diverse candidate pool for job openings. In our hiring practices, we have processes in place to cast a wider net for a qualified diverse candidate pool to fill open positions. We also have programs in place to inform employees of the value of diversity. 
+Annelle Paschall
+Manager, Employment 
+Practices and Diversityof women and minorities; reducing turnover of women and 
+minorities; and improving diversity awareness throughout the company.
+Diversity awareness is included in Ball’s Fundamentals of 
+Leadership training program for new and emerging leaders (case study page 20).
+Ensuring Employee Continuity 
+Our succession planning process helps to ensure that we are developing our employees with the appropriate skills they need to advance, and our recruiting efforts are designed to fill the gaps. We began a formal talent review process in 2008 with each operating division to discuss critical positions and emerging talent. We completed at least one review for each division since then and scheduled two for each division in 2010, concluding with a global rollup. 
+Developing the Right Skills 
+We offer comprehensive learning opportunities to employees to develop their skills and advance their careers which helps foster employee engagement and improves retention. Our internal training program includes courses on leadership and management. In 2008 and 2009, 381 employees attended these classes from across our global operations. Ball also offers more than 300 free courses online. We have provided more than $2.2 million to 599 North America employees in the past two years to assist in their pursuit of college degrees. 
+Managing Performance Setting clear expectations and assessing employees against those expectations by providing useful feedback are essen -
+tial. We redesigned our performance management review process in 2008 to increase participation. Currently, 92 percent of employees participate in an annual review process and we expect to be at 100 percent in 2010. Our standard performance review now also includes a section on how 21
+Case Study:  Thurgood Marshall College Fund 
+Leadership Institute
+Ball was a sponsor of the Thurgood Marshall College Fund Leadership 
+Institute, Recruitment Conference and Career Fair in 2008 and 2009. Our involvement supports their mission: “To develop and prepare a new generation of leaders by providing leadership development, scholarships, resources, opportunities and advocacy to Public Historically Black Colleges & Universities, students and  alumni.”
+The conference draws students from 47 historically black public colleges. 
+Workshops are available during the conference for students to gain additional skills; Developing Teamwork and Project Management Skills and Resume Writing and Interview Skills are two in which Ball participated. In 2008, two interns recruited from the institute worked at Ball the following summer; at the 2009 conference, Ball recruited nine interns for 2010.employees contribute to Ball’s sustainability – including 
+diversity – and workplace safety initiatives.
+Increasing Employee Engagement
+Competitive wages and benefits, quarterly employee meetings, open houses and volunteer and social events are examples of how we increase employee engagement. Our voluntary turnover rate is world class – less than 6 percent of our workforce turns over in a year. In 2008 and 2009, our turnover rate was 5.5 percent and 2.8 percent, respectively, more than half due to retirements. More than 42 percent of our global operations are organized in labor unions and we have not experienced any work stoppages in our operations since 1998. Our low turnover rate and good relationship with unions helps to improve productivity and morale. 
+Ball Corporation
+10 Longs Peak DriveBroomfield, CO 80021(303) 469-3131www.ball.comThis report is printed on paper 
+made from 30% post-consumer 
+waste. Please recycle.

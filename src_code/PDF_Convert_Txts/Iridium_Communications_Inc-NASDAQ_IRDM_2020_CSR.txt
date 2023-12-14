@@ -1,0 +1,1028 @@
+2020 
+Environmental, 
+Social and Governance Report
+T able of Contents
+CEO Letter  2
+About Us  4
+Our Approach to ESG  8
+ Sustainable De velopment Goals  9
+ S takeholder Engagement  9
+ ES G Governance and Leadership  10
+ Boar d Independence and Diversity  10
+Environmental Impact  11
+ Our Oper ations  12
+ Our P roducts and Services  13
+ Our Sat ellites  15
+Human Capital  17
+ Emplo yee Development Programs and Policies  18
+ Div ersity, Equity and Inclusion  20
+ Emplo yee Health and Safety  22
+ Philanthr opy and Volunteerism  24
+Social Impact  26
+ D ata Security  27
+ Cust omer Privacy  28
+ Supply Chain R esponsibility  29
+ Human Rights and R esponsible Sourcing  30
+Governance  31
+ Business Ethics  32
+ Int ellectual Property and Competitive Behavior  32
+ Managing S ystemic Risks  33
+SASB Index  35
+Methodology  38
+1CEO Letter
+We are pleased to deliver our first Environmental, Social and 
+Governance (ESG) report to our stakeholders. Iridium has a long 
+track record on ESG matters. Since inception, our core mission and 
+purpose has been to provide communication and connectivity to places and people where it’s been impossible before, expanding social progress and safety as a responsible global corporate 
+citizen. In recognition of the increasing importance of ESG to us, to 
+our success, and to our stakeholders, our Board of Directors also amended the charter of its Nominating and Corporate Governance Committee to place express responsibility with that committee for 
+ESG matters.
+This is a unique time for our first report, given the ongoing 
+impact of COVID-19. I am proud that we put the safety of our 
+employees first and successfully transitioned to a work-from-home environment while still meeting our corporate objectives and growing our business. We’ve learned to operate successfully in 
+this new environment and plan to support a more carbon-friendly, 
+hybrid work program for our team once infection rates allow. 
+This past year was also defined by the increased prominence 
+of the social justice and the Black Lives Matter movements in 
+the wake of the senseless killing of George Floyd. While Iridium has always enjoyed high marks on employee satisfaction and 
+engagement, we felt it important to redouble our commitment 
+to diversity and inclusion this year. There is always room for improvement and space for more involvement and action. Iridium’s work environment, whether it be physical or virtual, must be safe, 
+equitable and inclusive for all who drive our important mission, as 
+well as those who aspire to join our team. I personally co-chair our Diversity & Inclusion Council and am proud of our early efforts and active employee engagement.
+Iridium has always had a small footprint on Earth, as our solar-
+powered satellites fly about 500 miles above sea level in Low-Earth 
+Orbit (LEO). The network they form covers every part of the earth, 
+allowing life-saving connections for people, scientific instruments, ships, planes and other important assets — all with very little ground infrastructure. We’ve created an ecosystem of hundreds of 
+technology and distribution partners who have created thousands 
+of innovative ways to harness our global network for social and economic good.
+Our worldwide communications network provides connectivity 
+everywhere, including the 80% of the planet that lacks cell phone service, protecting explorers, campers, scientists and others while 
+off the grid. Our name and services are well known in the safety 
+Iridium has 
+always had a small 
+footprint on Earth, 
+as our solar-powered 
+satellites fly about 500 
+miles above sea level 
+in Low-Earth Orbit. 
+23industry for reliable service in the face of natural disasters — like hurricanes 
+and earthquakes — often providing first responders with a dependable 
+network to organize humanitarian relief and minimize tragedy when 
+terrestrial-based networks are offline.
+While Iridium’s corporate footprint on the earth is small, our company is 
+committed to continuous improvement and social responsibility. Given the 
+potential hazard that space debris can create, we have shown ourselves to be leaders in space sustainability not just in intent, but in quickly and safely removing first-generation Iridium® satellites from space as they were 
+replaced with our new $3 billion second-generation satellite system. 
+We are also engaged in our local communities, and given our corporate mission and unique technology, 
+focused on supporting science, technology, engineering and mathematics (STEM) education. We continue to 
+leverage our employee base and network resources to inspire young students and drive the next generation of space innovators.
+This year’s inaugural report is an important first step for Iridium, and I hope it helps investors and others 
+interested in our ESG efforts. Our Board of Directors, management team, and employees are committed to being leaders in ESG in the same way we’ve become leaders in providing what is still the only truly global communications service in the world. 
+Matt Desch
+CEO
+Disclosure Statement: Iridium’s ESG Report provides an overview of long-term company goals and efforts in support of those goals. 
+Some material is derived from other company documents, and links are provided to those documents where appropriate. Portions of this report contain aspirational or otherwise forward-looking statements. Actual results may differ, possibly materially, from the 
+company’s expectations or predictions expressed herein. See last page of this ESG Report for additional important information about 
+these forward-looking statements.Our worldwide 
+communications 
+network provides 
+connectivity 
+everywhere, including 
+the 80% of the planet 
+that lacks cell phone 
+service.
+34
+About Us
+Iridium at a Glance 
+In a world where global communications are increasingly essential, Iridium 
+is the only company that connects the things that matter most, anywhere 
+in the world. Offering voice and data connectivity through a constellation 
+of 66 crosslinked LEO satellites, Iridium keeps people — and things — connected on the land, in the air and at sea. With communications 
+solutions ranging from satellite phones to broadband services, Iridium is 
+trusted by humanitarians, first responders, governments, mariners, pilots and more around the world. Iridium continues to innovate and enable the 
+technology of the future.
+411  
+FACILITIES
+31  
+PATENTS450+  
+INDUSTRY 
+PARTNERS81 
+NEW  
+SATELLITES1.47  
+MILLION 
+SUBSCRIBERS
+$583  
+MILLION 
+TOTAL 
+REVENUE
+520  
+EMPLOYEESIRIDIUM AT A GLANCE* 
+Our History
+In 1987 a few bold thinkers envisioned a revolutionary system of 
+communications. Bary Bertiger, Ray Leopold and Ken Peterson 
+began working on a satellite-based communications system 
+designed to connect people on a global scale, and in 1988 the original Iridium was born.
+Initially a project in a Motorola research lab in Arizona, Iridium was 
+built on technology initially developed for U.S. President Ronald Reagan’s Star Wars program. The constellation was originally thought to need 77 satellites to provide global coverage, making 
+the name Iridium (the element with an atomic number of 77) the 
+perfect fit, as the architecture of the network resembled that of electrons orbiting the nucleus of an atom. Later, engineers 
+discovered that only 66 satellites were necessary to cover the 
+earth, but the clever name stuck.*Data as of year-end 2020
+1998
+Original 
+Motorola Voice 
+Handset
+2004
+Iridium 
+9505A
+PRODUCT AND  
+SERVICE TIMELINE
+2005
+Iridium 9601
+5Iridium was designed to use satellite technology as an alternative 
+to cellular devices, which at the time were bulky and expensive. 
+Over the next decade, more than 90 satellites were built and 
+launched to create the first global satellite network. On November 1,1998, Iridium launched commercial service, with a ceremonial first call made by then U.S. Vice President Al Gore to Gilbert 
+Grosvenor, the great-grandson of Alexander Graham Bell and 
+chairman of the National Geographic Society.
+However, in the 10 years it had taken to build, finance and launch 
+the Iridium network, cell phone technology had greatly expanded, 
+making it much less expensive and much more convenient for consumers. This change in technology and consumer attitudes 
+made it difficult for Iridium to continue under its previous business 
+model, and in 1999 Iridium LLC declared bankruptcy.
+In August 2000, Motorola announced its plan to deorbit all 
+satellites and permanently shut down the Iridium network. 
+Fortunately, just days before the scheduled deorbiting of the constellation, Iridium was saved by a small group of investors who signed a service contract with the United States government 
+allowing them to finance the purchase of Iridium. The new Iridium 
+(our current company), or “Iridium 2.0” as some called it at the time, rapidly expanded to other markets as well.
+With the original constellation intact, Iridium delivered 
+groundbreaking technology in search of a viable business model. In the aftermath of the legacy company’s bankruptcy, a contract with 
+the U.S. government provided a path forward: developing a partner 
+ecosystem. This ecosystem — still in place today — empowers our partners to develop products and technologies that rely on Iridium’s constellation as a secure, global communications platform.
+By the mid-2000s, the first-generation satellites, originally 
+launched in the 1990s, had surpassed their expected five- to 
+seven-year lifespan. In 2007 Iridium announced plans for Iridium 
+NEXT, a mission that would completely replace the original satellite constellation.2008
+Iridium 
+9555
+PRODUCT AND  
+SERVICE TIMELINE
+2009
+Iridium 
+OpenPort®
+2011
+Iridium Extreme®
+Iridium 
+AxcessPoint
+Iridium Core 
+95232012
+Iridium Pilot®
+2010
+Iridium 9602
+Iridium 
+9603
+Original Iridium Control Room, circa 1999
+Iridium 9522B
+6Iridium took a gamble and 
+partnered with then-newcomer 
+SpaceX, and in 2010 it became an 
+early commercial customer of the now wildly successful company. Between 2017 and 2019, SpaceX 
+launched 75 next-generation 
+Iridium satellites into LEO on Falcon 9 rockets over eight launches. The last launch took place on January 
+11, 2019, and the new constellation 
+became fully functional on February 5, 2019. The upgraded Iridium constellation is made up of 
+66 active satellites with additional in-orbit spares and is expected 
+to serve Iridium users around the globe for years to come.
+T oday, our mission is to deliver truly global, innovative and unique 
+communications services with the highest reliability and value — 
+providing safety and security; improving efficiency; and solving challenging connectivity requirements for individuals, enterprises and governments all over the world. We pride ourselves on a 
+legacy of innovation, quality and community engagement and look 
+forward to building on this legacy in the future.2015
+Iridium 
+Extreme®PTT
+2018
+Iridium Certus™ 9810
+2019
+Iridium Certus® 350 Service
+Iridium 
+Certus 700 Service
+Iridium 
+Edge Pro
+2021
+Iridium Edge Solar
+2020
+Iridium GMDSS Service
+First generation satellite constructionT oday our 
+mission is to 
+deliver truly global, 
+innovative, and unique 
+communications 
+services with the 
+highest reliability 
+and value.PRODUCT AND  
+SERVICE TIMELINE
+Iridium 
+Edge®
+2014
+Iridium GO!®
+7Our Approach to ESG
+While we are seeing unprecedented technological innovation across 
+industries, we understand that the world is confronting serious societal 
+challenges, from climate change to persistent inequalities. We believe 
+that companies have critically important roles to play in solving these problems — not simply because doing so is the right thing to do, but also 
+because it is a business imperative. 
+8Sustainable Development Goals 
+Our products and services have always been designed with purpose. We strive to set an example of 
+high standards of corporate citizenship through our mission-driven technology, support for disaster 
+preparedness and relief, environmental responsibility, STEM education efforts, and philanthropy.
+At Iridium, we recognize our global impact and extend our responsibility to the environments and 
+communities in which we work and operate.  Our ESG reporting and disclosure align with the ESG topics 
+most relevant to the financial performance of our industry, as set forth by the Sustainability Accounting 
+Standards Board (SASB). We also reference the Global Reporting Initiative (GRI) to provide comprehensive disclosure of additional ESG areas and have begun to align our ESG strategy to United Nations (U.N.) Sustainable Development Goals (SDGs).                                            
+Stakeholder Engagement
+The success of our sustainability strategy relies on collaboration with, and input from, key stakeholders, including stockholders, employees, suppliers, customers, industry bodies, nongovernmental organizations 
+(NGOs), sector experts and others. Through regular, ongoing, close contact with our stakeholders, we are 
+better able to anticipate emerging trends and challenges and innovate solutions. 
+Iridium and its partners offer a range of Internet of Things (IoT) solutions that support research and 
+environmental monitoring. We understand the importance of this work in protecting our people and our 
+planet, so we are proud to support various independent research groups and individuals with donated equipment and airtime that allows them to conduct this critical work through scientific explorations, especially in remote areas. 
+SPOTLIGHT:  
+Connectivity and Discovering New Species  
+We have witnessed firsthand how Iridium satellite devices  enable scientists and explorers to perform their jobs effectively.  
+Dr. Madriz, a Fulbright Fellow and National Geographic Explorer, 
+travels to some of the most remote areas in Patagonia. Using an Iridium GO! device, which can connect his iPhone or iPad to the internet anywhere on the planet, Dr. Madriz can update his status 
+and location, obtain vital weather and safety information, and 
+share news of his findings in real time with colleagues around the world. During his scientific expeditions, he can travel without worry because he knows he can communicate using the Iridium GO! 
+device no matter where his research takes him. 
+“My success in searching for new species is  
+directly proportional to the standards of  
+communication I use.” 
+— Dr. Madriz
+9
+ESG Governance and Leadership 
+Sustainability governance starts at the top with our Board. Specifically, our Nominating and Corporate 
+Governance Committee has the oversight responsibility to review our ESG policies and initiatives that may 
+have relevance to our financial performance, business activities or reputation. 
+The responsibility for implementing Iridium’s ESG strategy and day-to-day management has been delegated 
+by the Board to an ESG working group, a cross-functional team that meets quarterly and reports as-needed 
+to the Board annually. The working group is made up of investor relations, finance, IT, legal, marketing and 
+communications.
+Board Independence and Diversity
+We believe that our Board should represent diversity of thought, background, skill, and expertise. Our 13-person Board is represented by a variety of experience and tenure. 
+For more information about our Board, please see our proxy statement .50s 60s 70s 80sDIRECTOR AGE
+Male FemaleDIRECTOR GENDER
+<5 Y ears 5-10 Y ears >10 Y earsDIRECTOR TENURE DIRECTOR DIVERSITY
+Ethnically/Racially Diverse23%8%
+23%
+46%46%
+39%
+85%15% 15%8%IRIDIUM ESG GOVERNANCE STRUCTURE
+Nominating and Corporate 
+Governance Committee
+Executive Leadership ESG Working GroupBoard of Directors
+10Environmental Impact
+Climate change is one of the most significant and urgent issues facing 
+business and society today. T echnology enables progress, and with the 
+rapid acceleration of climate change in recent years, we strive to reduce 
+our operational footprint and develop solutions that can help other organizations achieve their business and sustainability goals, alleviate 
+the global strain on scarce natural resources, and move toward a circular 
+business model. 
+11Our Operations 
+We acknowledge the need for a fundamental shift toward a more low-carbon model and plan to measure and 
+reduce electricity usage throughout our business operations. In line with this commitment, we performed an 
+external environmental assessment of our operations to gather baseline data and understand our footprint. 
+We consider this a key step in our ESG journey. 
+We collected available data from our U.S. facilities to calculate our energy consumption, greenhouse gas 
+(GHG) emissions, water consumption and waste diversion rate. Data collected included available electricity 
+and gas usage, water usage and solid waste data from our six U.S. facilities. As our office needs can change year-to-year, our environmental impact and carbon footprint can similarly change. For example, due to COVID-19, a large percentage of our employees worked remotely in 2020 from mid-March through the end of the year.  
+We collected data from the following locations for the 2019 and 2020 calendar years.
+Greenhouse Gas Emissions
+Scope 1 and Scope 2 emissions are considered “direct” and “indirect” emissions, such as stationary 
+combustion (natural gas used for building heating) and electricity usage in leased offices and data centers. 
+Iridium’s 2019 and 2020 calendar year greenhouse gas emissions from our offices were calculated using the U.S. EPA’s Simplified GHG Emissions Calculator Version 5 that uses the GHG Protocol’s GHG calculation 
+methodology. U.S. Emissions factors are updated using the EPA’s eGRID GHG Emissions Factors (issued 
+March 2020). Corporate travel emissions are Scope 3, or value chain emmissions, and include employee air and ground transportation emissions and hotel stays for the calendar year. 
+ Iridium ’s U.S. Facilities  2019  2020  
+ Sc ope 1 Emissions (Stationary Combustion)  231 mtCO2e  224 mtCO2e  
+ T otal Scope 1 & Location-Based Scope 2 Emissions  8,762 mtCO2e  7,550 mtCO2e  
+ T otal Scope 1 & Market-Based Scope 2 Emissions  8,762 mtCO2e  7,550 mtCO2e   L ocation-Based Scope 2 Emissions  8,531 mtCO2e  7,326 mtCO2e  
+ Mark et-Based Scope 2 Emissions  8,531 mtCO2e  7,326 mtCO2e  
+ W ater Consumption*  12,935,963 gal  10,558,814 gal  
+ L andfill  33.3 t ons  26.0 t ons  
+ R ecycling  21.6 t ons  17.6 t ons  
+ T otal Waste and Recycling*  54.9 t ons  43.6 t ons  
+ W aste Diversion Rate (%)  39.3%  40.4%  
+ Corpor ate Travel Emissions (Scope 3)  2.5M CO2 lbs  726.8K CO2 lbs Electricit y Consumption*  22,068 MWh  18,669 MWh  
+ Natur al Gas Consumption  41,852 CCF  40,582 CCF  ENVIRONMENTAL ASSESSMENT OF ENERGY , WATER AND WASTE
+* D ata is preliminary, unaudited, and subject to revision. Due to limitations in data availability, usage and waste diversion estimates 
+ w ere applied to selected locations for selected facilities.• Chandler , Arizona (T echnical Support Center)
+• F airbanks, Alaska (Satellite T eleport Network  
+ Facilty)
+• L eesburg, Virginia (Satellite Network Operations
+ Center)• McL ean, Virginia (Corporate Headquarters)
+• T empe, Arizona (Gateway Facility)
+• T empe, Arizona  (Office Space)
+12Our Products and Services 
+We are proud that our technology enables research, monitoring and communications for 
+organizations tackling some of the most challenging environmental issues. From climate 
+monitoring to carbon footprint reduction and wildlife protection, Iridium Connected® 
+solutions are designed to help make the world a safer, cleaner place. 
+We are continuously innovating to make our products more flexible, efficient and user 
+friendly. Our handheld devices, IoT terminals and other products have greater power and 
+battery life, decreased material use and increased energy efficiency than ever before. 
+In 2021, we launched the Iridium Edge Solar, a standalone and programmable, solar-
+powered Short Burst Data® (SBD®) device that offers real-time GPS tracking and local 
+wireless sensor and communication capabilities over Bluetooth. This self-charging, low-maintenance product with long field-life and over-the-air configuration allows our value-added resellers to create complex 
+solutions with reduced environmental impact. 
+We also support disaster preparedness and relief efforts across the country and internationally, on a broad 
+scale. Our satellite phones and Iridium GO! devices are critical for communication in areas undergoing crisis 
+or natural disaster. Iridium Connected devices work to gather ocean pressure data to predict the onset of 
+tsunamis. This real-time information is transmitted to a tsunami warning center, where it can then be used to issue warning guidance, provide hazard assessment and coordinate emergency response. Iridium is also used onboard remotely piloted unmanned aerial vehicles (UAVs) to collect offshore weather data at altitudes 
+that are unsafe for piloted aircraft. This data is used to analyze the atmosphere and improve weather 
+modeling systems to better predict cyclones.  Following a natural disaster, first responders and ground personnel can depend on Iridium’s reliable network for rescue coordination and aid logistics, regardless of 
+local network infrastructure or lingering weather conditions.
+LAND 
+On land, we are committed to providing unparalleled, reliable pole-to-pole coverage. Our truly global 
+service enables researchers around the world to engage in crucial activities including those that help in the understanding and survival of wildlife populations. From monitoring Adélie penguins to helping tackle rhino poaching in Kenya’s Tsavo West National Park, our technology helps conservationists preserve biodiversity 
+and enables researchers to discover new species in remote areas. We have also partnered with various 
+research groups and individuals to support this work with donated equipment and airtime on our network. 
+SPOTLIGHT:  
+Wildlife Conservation and Tracking
+The Zoological Society of London (ZSL) is transforming the study and protection of endangered species around the globe through 
+its innovative Instant Wild program, enabled by the Iridium global 
+network. Using Iridium technology, they developed the Instant Detect system, which can capture data remotely and transmit it in near real time from any part of the world to monitor rare species 
+and help prevent poaching.
+13SPOTLIGHT:  
+Supporting The Ocean Cleanup
+The Ocean Cleanup is an ambitious project seeking to rid the 
+world’s oceans of plastic garbage by conducting the largest ocean 
+cleanup in history. T o do so, the team has created a system of 
+600-meter-long floating plastic collectors that include a three-meter-deep skirt designed to gather plastic pollution. Iridium has joined the project as their preferred satellite communications 
+partner, allowing connectivity and monitoring where not otherwise 
+possible, and at a reduced cost from being procured commercially.  Each Ocean Cleanup system is equipped with two Iridium Pilot terminals providing the Iridium OpenPort broadband service, which 
+allows the autonomous system to relay critical systems data back 
+to the team, including compartment flood detection, position and location information, pictures, 360-degree video and system 
+performance information. 
+WATER  
+In the maritime industry, Iridium’s technology is used to prevent overfishing, support deep-ocean science 
+on ocean gliders, monitor and control the systems cleaning plastic debris from the Great Pacific Garbage Patch, provide real-time warnings of impending tsunamis, and protect sailors from piracy, among many other valuable applications. 
+Scientists are able to conduct important oceanic research all over the world, including in the polar regions, 
+using Iridium Connected IoT solutions to collect and transmit data. This research includes ozone level measurement, polar ocean profiling, weather forecasting, wave movement measurement, iceberg tracking 
+and characterization, ice mass balance measurement and Arctic Ocean mapping. 
+Photo Credit: The Ocean Cleanup
+14SPOTLIGHT:  
+Reducing Carbon Emissions with Aireon
+According to the International Civil Aviation Organization, 
+commercial flights contribute about 2% of manmade CO2 
+emissions annually. Aireon uses space-based Automatic 
+Dependent Surveillance-Broadcast (ADS-B) receivers specially built into each Iridium second-generation satellite to track aircraft, enabling the first truly global air traffic surveillance system. This 
+technology has the potential to enable the aviation industry to limit 
+fuel emissions by improving operations in remote and oceanic airspace through more precise locating capabilities and optimal altitudes, speeds and routes. According to a 2016 study at the 
+Purdue University School of Aeronautics, “From 2020 to 2030, 
+space-based ADS-B can make it possible to prevent approximately 14.3 million metric tons of CO2 from entering the atmosphere. This 
+is equivalent to removing more than 300,000 cars from U.S. roads 
+each of those years.”
+Our Satellites 
+Near-Earth orbits are increasingly congested, raising the risk of collisions that can destroy satellites. Iridium is committed to keeping space clean and serves as a leader for other organizations when it comes to being 
+a responsible steward. With more than 20 years of experience as a satellite operator, we continue to improve 
+our systems and processes to minimize our impact on space. Additionally, we consistently and purposefully share our learnings with regulatory bodies to help develop and maintain industry standards for satellite management and space debris mitigation. 
+Iridium is keenly aware of the importance of minimizing the risks associated with orbital debris. On 
+February 10, 2009, an abandoned, uncontrolled Russian satellite crashed into Iridium-33, one of our active communication satellites, in an unprecedented 
+space collision. Immediately following the 
+collision, Iridium engineers began working with the U.S. government, the U.S. Air Force and NASA 
+to build best practices for space operations 
+and satellite end-of-life disposal. T oday we have integrated conjunction awareness and maneuverability capabilities into our operational DNA. 
+In addition, we work with other industry participants 
+to promote better monitoring of all objects in space and transparency.AIR  
+In aviation, our satellite network, through payloads on each of our satellites, enables Aireon LLC to track 
+the real-time location of aircraft and allows air traffic controllers to provide safer and more efficient flight 
+paths. We formed Aireon in a joint venture in 2011, with subsequent investments from air navigation service providers. With Aireon®, aircraft in distress can be found more quickly. Additionally, optimized flight routes use fewer fossil fuels, significantly reducing carbon emissions.
+15Iridium maintains close, regular communication with the 
+primary knowledge leader in the field of space debris, the 
+U.S. Air Force Combined Space Operations Center (CSpOC). 
+Through this partnership, we help to develop content 
+and data for the space catalog, a public resource used to track all space debris. Additionally, our space operations team partners closely with CSpOC, the Joint Functional 
+Component Command for Space (JFCC Space), the Space 
+Safety Coalition, the Conjunction Assessment T echnical Advisory Council (CA TAC), and other working groups to monitor and share our space traffic data and to help educate 
+and influence other organizations on the importance of 
+space situational awareness.
+In 2019, Iridium was recognized as the readers’ choice winner of the SpaceNews Space Stewardship Award 
+for the successful deorbiting of its first-generation Iridium constellation, removing each satellite after use in a median time to re-entry of 19 days. This is far lower than the one year duration committed to the government and industry. The SpaceNews Readers’ Choice Awards were selected by more than 40,000 
+votes in October on the SpaceNews website. 
+Through ongoing media, public appearances and government lobbying, we seek to move national and 
+international regulators to implement concrete requirements for a space traffic management policy that 
+stresses a stable and orderly space environment and to ensure there remains enough “space” for us all. As of 2020, we have removed over 36,000 kilograms of space debris by removing our end-of-life 
+satellites, equivalent to the weight of five African elephants. 
+1617
+Human Capital
+Our people make up the fabric of our company and are the reason for 
+our success. We are committed to creating an innovative and inclusive 
+environment where our employees are proud to work, feel safe, and can 
+bring their full selves to their efforts. We are honored to be a company made up of diverse and creative teams, unafraid to push the limits of what 
+is possible in the satellite industry. We foster this sentiment by focusing 
+on development, employee wellness and social responsibility. 
+17TPN
+Fairbanks, Alaska
+TPN
+Punta Arenas, ChileTPN
+Svalbard, Norway
+Headquarters
+McLean, VirginiaSNOC
+Leesburg, VirginiaGateway
+T empe, Arizona
+T echnical Support Center
+T empe, ArizonaTPN
+T empe, Arizona & 
+Chandler, ArizonaGateway
+Izhevsk, Russia
+  Gateway
+  T eleport Network (TPN)  T echnical Support Center  Headquarters  Satellite Network
+Operations Center (SNOC)IRIDIUM OPERATIONAL LOCATIONSOUR WORKFORCE AT A GLANCE*
+Employee Development Programs and Policies
+We believe that learning and development are essential for our people to achieve their goals and potential. 
+From the outset, we offer robust benefits, educational incentives and engagement opportunities. 
+ONBOARDING
+We want our people to be proud of what they do and to feel inspired to be the best they can be. T o set our 
+employees up for success, we have an important onboarding process that introduces Iridium’s core mission 
+and values, policies and procedures, performance review process, and company background. Within 90 3-4 Y ears <3 Y ears 5-9 Y ears
+10-19 Y ears >20 Y earsYEARS OF SERVICE
+2%
+13%
+19%31%
+35%TOTAL WORLDWIDE EMPLOYEES  520
+AVERAGE TENURE (YEARS U.S.) 5.3
+% WOMEN (TOTAL)  24%
+% RACIAL/ETHNIC MINORITIES (TOTAL U.S.)  26%
+% VETERANS (TOTAL U.S.)  12%
+*As of 12/31/20
+18days of starting, we ask that employees set SMART (specific, measurable, achievable, relevant, timely) 
+goals alongside their managers to build clear expectations, foster open dialogue, help in mentoring and 
+development, and provide ownership and accountability. 
+PROFESSIONAL DEVELOPMENT
+We support our employees in their career development by providing on-the-job training and education 
+reimbursement to help everyone maintain and enhance skills in their current position and acquire new skills to prepare for future opportunities.
+We are committed to supporting employees in their career growth and development through:
+We are also focused on improving the knowledge and capability of the Iridium team through individual and 
+group development opportunities. T o this end, monthly lunch-and-learn sessions are hosted by various 
+representatives from across the organization to showcase Iridium and Iridium Connected products and 
+services, as well as spotlight the markets served. The goal of these sessions is to expand our team’s cross-functional knowledge and support individual growth along their career paths within the company.
+ENGAGEMENT
+T o measure employee engagement, we conduct an annual survey to assess and track employee satisfaction. 
+We take responses from our employees seriously and utilize them annually to inform specific strategies that 
+are tailored to the entire company as well as to specific teams. In 2020, 91% of our employees participated in this survey. Our engagement score was 81/100, which is higher than the average for technology, science and research companies, according to the survey provider. 
+We consistently receive high 
+scores on questions related to 
+our company’s culture, mission 
+and ethics. In 2020, 95% of our employees indicated that they are proud to work here and feel 
+that management frequently and 
+transparently communicates relevant information. We also identified opportunities 
+for improvement, which we 
+incorporated in a three-pronged strategy of action, innovation 
+and communication to address 
+employees’ concerns and requests. 
+Education 
+tuition and 
+professional 
+certification 
+reimbursementDetailed 
+performance 
+reviews and 
+managementFully funded 
+job-related 
+training, lectures, 
+seminars and 
+conferencesCareer 
+development and 
+training 
+assistance
+19DEIWe continue to take a close look at our process and methodology every 
+year to best capture employee feedback and create action plans that 
+are responsive and meaningful. For example, we recently developed and 
+introduced a Paid Parental Leave Policy based on feedback from the 2019 
+survey.
+In 2020, our CEO instituted regular, bi-monthly video recordings called 
+“T eamsT alks,” available to all employees to keep our team informed and 
+engaged while most of us were working remotely. T opics have ranged from the need for racial justice to new product introduction. We also rolled out more frequent pulse surveys to collect insightful information about people’s 
+transition to remote working, productivity and comfort level as a result of the 
+pandemic. 
+Our employees stay engaged in several additional ways, including participation in employee resource groups 
+(ERGs) and other community outreach efforts that cover a range of topics and interests. Active ERGs created by employees include Iridium Women Connect and the Diversity and Inclusion Council. Our outreach efforts include STEM education, space sustainability, disaster preparedness and relief, and environmental and 
+wildlife sustainability. Our ERGs and outreach efforts offer activities, training and social gatherings that are 
+both informative and fun for employees across departments. 
+Diversity, Equity and Inclusion
+We recognize that diversity of thought, culture and perspective is not only essential to creating a successful global communications system but is also imperative to creating an inclusive, collaborative and productive 
+work environment in which our team can thrive. We aim to employ, maintain and advance employees with 
+backgrounds that represent the global reach of our system. 
+We are an equal opportunity employer. We consider all applicants for employment without regard to race, 
+color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, 
+status as a protected veteran or any other classification protected by applicable federal, state or local laws. We maintain policies and procedures designed to enable us to comply with applicable federal, state and local laws prohibiting discrimination in employment and provide reasonable accommodation to qualified 
+individuals with disabilities in accordance with the Americans with Disabilities Act (ADA) and applicable state 
+and local laws.
+SPOTLIGHT:  
+Launching company-wide Diversity and Inclusion Council  
+In 2020, we launched our Diversity and Inclusion Council with a 
+mission to inspire those we work with, for and around to make our 
+workplace, community and the world a more diverse and inclusive place. This commitment starts at the top. Our CEO is the co-chair of the Council and oversees our diversity, equity and inclusion (DEI) 
+standards and expectations. Other members include employees 
+from various backgrounds, departments and levels across the organization. We are also held accountable to our Board of Directors, which has responsibility regarding our ESG policies 
+and initiatives. Most importantly, our employees are fostering an 
+inclusive culture that will help us innovate, collaborate and create more effectively and equitably.In 2020, we 
+launched our 
+Diversity and 
+Inclusion Council to 
+foster a more diverse 
+and inclusive 
+workplace.
+20We currently have four working groups to put these intentions into practice. Each working group has its 
+own goals, stakeholder relationships, strategy and executive sponsorship. Additionally, the Council delivers 
+a monthly communication called “Embracing Our Differences” which serves as a resource for the entire 
+workforce on key DEI topics, provides recommended reading and highlights their ongoing efforts.
+RECRUITMENT 
+Every summer we recruit and employ college interns who bring valuable new insight to our company. The 
+Iridium internship program is an opportunity for students to be part of the Iridium teams shaping the future of satellite communications. It is designed as a paid learning opportunity for students and to give interns an 
+opportunity to gain valuable hands-on work experience. Our internship program sometimes also serves as 
+a path to employment following graduation. This year we modified our intern program guidelines to better recruit minorities studying in STEM fields. 
+We also have an intentional presence at Historically Black Colleges and Universities (HBCUs) and majority-
+women institutions. Our growing relationships with universities and research institutions lay the foundation for a diverse pipeline of great talent. 
+TRAINING
+We provide annual training opportunities and requirements for our employees.  
+In addition to our Code of Conduct and Business Ethics certification and 
+anti-discrimination and anti-harassment training that is mandated and required training for 100% of our employees, we are rolling out a deliberate 
+“Diversity, Bias and Cultural Intelligence” training across the company. Our 
+executive leadership team has completed this course, and all management is required to participate as well.  Each year, we also provide training in one or two compliance-focused areas to all employees. Recent examples 
+include avoiding insider trading,  cybersecurity and respectful workforce.  
+In 2020, we implemented a suite of new management training programs to help our manager-level employees be more effective leaders and better communicators.
+We also have monthly communication on DEI topics posted on our internal intranet and a series of lunch-
+and-learn sessions on various topics with guest speakers open to all employees. Our Iridium Women 
+Connect group was formed by employees to connect women across different parts of the company, and has 100% 
+of employees 
+complete 
+anti-discrimination 
+and 
+anti-harrassment 
+trainingTHE DIVERSITY AND INCLUSION COUNCIL WORKS TO: 
+Help to recruit 
+and retain 
+team members 
+with diverse backgrounds and experiencesFoster participation 
+in activities 
+supporting diversity and inclusion within 
+our workplace 
+and communityTrain, educate and communicate with 
+the organization 
+on the importance of diversity and inclusion to 
+Iridium’s culture 
+and viabilityPeriodically assess Iridium’s 
+continual growth 
+toward greater diversity and inclusion
+21been focusing in particular on encouraging and supporting mentorship opportunities for anyone – women or 
+men – to support personal and career growth.  
+COMMUNITY OUTREACH
+Increasing Representation in Space Exploration 
+Black students and professionals are underrepresented in the space 
+community and across STEM career fields, and we are committed to help create opportunities to change this. We have a relationship with Higher Orbits, a non-profit organization seeking to inspire high school students through space 
+programs. Higher Orbits’ Go for Launch! is a program that uses spaceflight and 
+space exploration as the launchpad for students to develop and strengthen their 21st century skills, including STEM, teamwork, communication and leadership. 
+Alongside NASA, we are sponsoring 20 African American students to enroll in the Higher Orbits Go for Launch! program.  These students will design their own space experiment that could be tested by astronauts at the International Space Station. Students are exposed to professionals in our field and will visit a launch  
+facility to learn about the ins and outs of being an astronaut—they are encouraged to “reach for the stars.” 
+“I can’t think of a better way to show students the power of a STEM-based education than to expose 
+them to the amazing accomplishments in the realm of space exploration and let them work with people 
+who have been a part of our nation’s space program.” 
+— Wendy Lawrence, retired astronaut
+Fostering Women in STEM 
+In the summer of 2020, Iridium partnered with the Leading Ladies Initiative, an organization connecting 
+underrepresented young women with business and educational opportunities to develop their leadership 
+skills and help them reach their potential in the STEM fields. We hosted three-week internships over the summer and other educational opportunities to introduce our work at Iridium. We enjoyed exchanging information even in a virtual environment but hope to host these bright young women in-person soon. 
+Employee Health and Safety
+We are committed to the health, safety and well-being of all our employees. 2020  presented unprecedented challenges in these areas with employees, suppliers, customers and partners affected by the COVID-19 
+pandemic. COVID-19 has pushed us to work creatively and support each other like never before.
+OUR RESPONSE TO COVID-19
+As was the case for most companies and individuals 
+around the world, the COVID-19 pandemic dramatically changed the way we live and work. From the earliest reports of this coronavirus, we closely 
+monitored its spread to understand the potential 
+impact on the health and safety of our workers and our partners. Our COVID-19 task force continues 
+to monitor U.S. Centers for Disease Control and 
+Prevention (CDC) guidelines and communicates regularly with employees about recent developments and actions. 
+22We developed a health and safety policy specific to COVID-19 that outlines protocols consistent with CDC 
+guidelines. We quickly transitioned the substantial majority of our workforce to work from home, except for 
+employees needing in-person access to laboratories or resources on site, while still meeting our corporate 
+objectives and growing our business. We’ve learned to operate successfully in this new environment and hope to support a more carbon-friendly, hybrid work program for our team once infection rates allow. 
+For our employees deemed essential (less than 20% of our workforce), we increased cleaning and sanitation 
+at all locations, implemented health screening questionnaires, required mask-wearing, installed hand sanitizer stations, and had a third-party inspector check for air quality improvements and required changes in our facilities. We developed processes and procedures to guide our employees and aim to support them 
+as needed to ensure their safety in these challenging circumstances. 
+EMPLOYEE WELLNESS
+Our commitment to employee wellness extends to physical, financial and emotional health. Iridium 
+employees enjoy access to:
+• P aid parental leave  — 100% base pay for up to four weeks to new mothers and fathers to care for a 
+ ne w child in the family, including via a surrogate, adoption and foster care. 
+• E mployee Assistance Program (EAP)  — available to all employees and their dependents and provides 
+ pr ofessional and confidential assistance for personal issues, such as depression, marital stress, drug 
+ and alc ohol abuse, family conflict and eating disorders.
+• O ngoing employee satisfaction surveys  — help inform benefits expansion tailored to our 
+ emplo yees’ needs. 
+• Hea lth care provider discounts  — discounts related to gym memberships, personal training, home 
+ e xercise equipment and more.
+• Headspace  — We provide all employees with a free annual membership to Headspace, an app 
+ f or stress, anxiety, sleep, focus, and fitness; in 2020, nearly 40 percent of our employees enrolled, 
+ signific antly higher than their average 25 percent utilization rate. 
+• W ellness Programs  — Free programs made available through our healthcare provider to help
+ emplo yees, focusing on a variety of topics.   
+For more information on benefits and wellness programs, please visit our careers website . 
+SPOTLIGHT:  
+Wellness Incentive Program 
+In lieu of in-person team activities during the pandemic, we hosted a voluntary competition to incentivize activity and wellness to 
+break up the long hours spent on a computer. Participants logged 
+physical activities into an app that aggregated equivalent “miles” with team members to identify team and individual location in a virtual race through Europe. The event lasted for six weeks and led 
+staff virtually through Madrid, Paris, Berlin, Vienna and Moscow 
+— they’ve got the miles to prove it! During the event, 169 of our colleagues worked together as 12 teams to complete over 35,819 miles of heart-healthy activities. Nearly 10,000 individual activities 
+were logged.
+23PHYSICAL SAFETY
+The safety of each employee is a matter of concern to our leadership. Equipment, facilities and procedures 
+have been designed, installed and developed for the safety and health of each employee. All employees are expected to conduct themselves in such a way as to provide for the maximum safety to themselves and other employees. 
+Annual training is required for all employees as referenced in the employee handbook, which outlines 
+specific health and safety protocols. In addition, we periodically conduct fire drill tests at all locations and provide active shooter scenarios and emergency response team (ERT) training. There is also easy access to 
+a panic button in each of our offices. 
+Philanthropy and Volunteerism
+At Iridium, we embrace our role in creating positive, lasting change in the communities where we live, work 
+and do business. We contribute skills, technology and investments to strengthen the resilience and vitality of 
+our local communities. All employees are encouraged to give back to the causes and organizations they care 
+about through several Iridium programs including:
+We have multiple initiatives and partnerships at local, regional and international levels to spread our love of 
+space and technology. We do this in multiple ways, routinely designing and leading science experiments at our local schools, hosting tours of our Satellite Network Operations Center (SNOC), and inspiring high school 
+and college graduates to pursue careers in space and engineering. We feel immense pride in our work and 
+we love to inspire others to unlock their passion for science. 
+SPOTLIGHT:  
+STEM Volunteering at Loudoun County, Virginia 
+Public Schools
+Since 2018, more than 20 Iridium employees at our satellite 
+operations center in Virginia volunteer at a local public elementary 
+school to promote STEM education. Through this partnership, 
+volunteers coordinate with the school to augment their STEM education efforts both school-wide and at specific grade levels. Volunteers routinely participate in one to two activities per month 
+including career days, running a mobile planetarium, helping 
+students conduct hands-on science experiments and hosting a monthly makerspace activity in the library. 
+24Corporate 
+matching gift 
+programOffice 
+collection 
+drivesAnnual 
+corporate 
+donations 
+to 501(c)(3) 
+organizationsCorporate 
+volunteering 
+eventsAs an example, volunteers have partnered successfully with 
+teachers to create special hands-on activities to reinforce the 
+science curriculum. Past activities have included building a 
+scaled solar system model, building an Iridium satellite model and learning how satellites work, building and demonstrating weather instruments, conducting a film canister rocket experiment, and 
+using chemistry principles to make “elephant toothpaste.” 
+While these activities have been done in person in the past, in 2020 
+volunteers continued to support the program virtually during the 
+COVID-19 pandemic using tools to create video demonstrations 
+and teach online. We love to see the impact our volunteers have on children and plan to continue to offer our expertise and support to 
+further their STEM curriculum. 
+Supporting Disaster Response with the United Nations 
+As part of our ongoing commitment to supporting disaster 
+preparation and response, Iridium donated 70 Iridium phones 
+with unlimited free service to the United Nations International T elecommunications Union (ITU). After disasters strike, the ITU assists and coordinates with other U.N. agencies to provide 
+telecommunications service and equipment to disaster relief 
+teams and organizations around the world. Our donated phones and service are a critical piece of these efforts.
+GLOBAL DISASTER RELIEF  
+EFFORTS OVER THE  YEARS AIDED BY IRIDIUM  
+CONNECTIVITY
+2008
+2008
+2009
+2009
+2010
+2010
+2011
+2011
+2013
+2014
+2015
+2016
+2016
+2017
+2018
+2019
+2019Uganda
+Kyrgyz 
+Republic
+Indonesia
+T onga
+Haiti
+Pakistan
+Cape Verde
+Malawi
+Philippines
+Sierra Leone
+Nepal
+Ecuador
+Haiti
+Caribbean Islands
+Papua New Guinea
+Mozambique
+The BahamasFloods
+Earthquake
+Earthquake
+Sinking of ship Princess Ashika
+Earthquake
+Floods
+Volcano activity
+Floods
+Cyclone Haiyan
+Ebola Virus outbreak
+Earthquake
+Earthquake
+Cyclone Matthew
+Hurricane Harvey, Maria and Rita 
+Earthquake
+Zimbabwe Cyclone Idai
+Hurricane Dorian
+25Social Impact
+Iridium acknowledges the pervasive human rights risks in our industry 
+around privacy, data security and ethical practices in our value chain. 
+Our strong policies and management systems in each of these areas 
+are structured with a view to making us resilient in a volatile world of accelerated innovation, global data proliferation and fast-changing 
+regulatory frameworks. We build privacy and data protection into the 
+design and development of our products, services and operations. We also have strong relationships with our business partners to ensure 
+our expectations and compliance requirements are followed.  
+26Data Security 
+Security is a top priority at the highest levels at Iridium. Our Security Council incudes our entire executive 
+leadership, IT leadership on cybersecurity matters, legal and operations VPs. Members are regularly briefed 
+on security measures and report issues as appropriate to our Board. 
+We follow industry standards and best practices along with general computer controls (GCC) to manage 
+cybersecurity risks. Our Cybersecurity Incident Response Plan (CIRP) helps us in identifying, managing, 
+investigating and remediating various types of incidents. It describes the processes for initiating a response 
+and establishing the structure needed to ensure response execution. We reinforce ongoing monitoring with regular internal tests of our system and procedures as well as third-party audits to ensure we can properly respond to incidents that may affect the function and security of IT assets, information resources and 
+business operations. 
+We continuously look for ways to reduce risk  and strengthen our security, particularly around mission 
+security. The latest security technology guards against intrusion and denial-of-service attacks include: 
+• Gat eway infrastructure investments to help manage incoming traffic 
+• Ongoing e xternal security audits
+• Encr yption of critical network commands under appropriate standards
+With respect to enterprise security, we ensure employees undergo regular, robust training and that proper safeguards are in place to protect company and proprietary product information. Employees are trained 
+every calendar quarter to guard against the latest security threats and risks.
+WE VIEW DATA SECURITY RISKS UNDER THREE PRIMARY CATEGORIES:
+1| 2| 3| Mission S ecurity:  
+ our sat ellite network Ent erprise Security: 
+ our c ompany data Commer cial Security:
+ pr oduct information,
+ including par tner 
+ pr oduct and service 
+ information 
+27Iridium’s employees, contractors and consultants also undergo security training and must comply with the 
+policies and procedures that govern our personnel and facilities. T opics include access control, operations 
+security, facility clearance, and controlled information and reporting. 
+Customer Privacy
+Our privacy policy explains how we handle and protect personal information about users of Iridium’s website 
+and apps, as well as customers of Iridium’s services. Specifically, it lays out how we may collect, use, share 
+and otherwise process personal information. 
+We have implemented measures designed to secure personal information from accidental loss and 
+unauthorized access, use, alteration and disclosure. We also take reasonable steps to ensure that data is 
+treated securely and subject to appropriate safeguards in accordance with our privacy policy and applicable 
+laws and regulations. 
+Iridium operates a wholesale business model with partners who develop and sell products and services 
+on our network. We do not have a direct-to-consumer business model, and many of our end users are 
+businesses, governments and organizations. As a result, Iridium has virtually no access to individual subscriber information. Our customers come to us through our distributors and commercial partners; 
+therefore we do not possess end-user information like other consumer-oriented terrestrial and space-based 
+telecommunications providers.
+As a network owner, Iridium receives and responds to hundreds of legal requests annually from law 
+enforcement officials around the world. These demands can include subpoenas; court orders; warrants; 
+and emergency requests for records, content and other data related to Iridium’s users. We carefully review government demands to ensure that they comply with applicable laws and do not release information in response to requests from government authorities unless authorized by law, such as under a valid law 
+enforcement demand or in response to an appropriate request in an emergency involving the danger 
+of death or serious physical injury. As a result, Iridium does not produce information in response to all government demands it receives, and we may reject demands for a number of reasons. In the last year, 
+Iridium did not produce customer data in response to many of the demands received that did not meet our 
+strict requirements for legal due process and applicable laws. 
+28Supply Chain Responsibility 
+We recognize the importance of ensuring that our supply chain is robust and 
+operates ethically, sustainably, and in line with legislation and our standards. 
+We rely on a handful of highly specialized contract manufacturers to bring our 
+traditional satellite products to life. We work with these suppliers from the outset of the business relationship to ensure their business practices meet industry standards and have long-standing relationships with them to bring high-quality 
+engineering to life. 
+Most of our manufacturing spending is with one primary manufacturer 
+headquartered in the United States. All high-risk suppliers are certified to ISO 
+14000 standards. We audit and analyze our suppliers on a multitude of factors 
+throughout the business relationship. Many of our suppliers have ESG initiatives in place, and we work with them to ensure they are meeting appropriate 
+standards of quality, cost and sustainability. Our suppliers are our partners, and 
+we collaborate hand in hand with them to address supply chain risks and identify areas of improvement and innovation. 
+We expect our suppliers to set their own policies and expectations that are 
+passed down to any entity involved in supplying goods for Iridium. We require suppliers to be transparent with Iridium on their challenges and opportunities regarding sustainability policies and practices.  
+Major 
+suppliers are 
+certified to 
+ISO 14000 
+standards.
+29Human Rights and Responsible Sourcing
+Iridium recognizes the impact we have on the world and believes in having a positive impact in the 
+communities in which we live and work. We are committed to responsible and ethical business practices in 
+our operations and with our partners and vendors around the world. We know that managing risk is not only 
+the right thing to do but also good for the financial longevity of our business.  
+COMBATING HUMAN TRAFFICKING AND FORCED LABOR
+Iridium strives to be a good corporate citizen that protects and advances human dignity and respect in our 
+global practices. We expect our employees and business partners to maintain a workplace and supply chain that is free of child, indentured and slave labor. This policy for combating human trafficking applies to all 
+Iridium personnel — including directors, officers and employees — and applies equally to Iridium’s agents, 
+subcontractors, independent contractors, product suppliers, distributors, vendors, and other firms that furnish supplies or services to or for Iridium for performance of a federal contract. For more details, please 
+see our complete policy for combating human trafficking .
+RESPONSIBLE SOURCING
+In recognizing that the trade of tin, tantalum, tungsten and gold (3TG or conflict minerals) has been a primary 
+source of funding for the Democratic Republic of Congo (DRC) government’s armed conflict and human rights violations in the region surrounding the DRC, the United States Congress enacted Section 1502 of the Dodd-Frank Act to promote peace and security in the region. Iridium is fully committed to complying with 
+U.S. Securities and Exchange Commission regulations regarding the reporting of the use of 3TG minerals and 
+to minimizing the use of 3TG minerals mined or processed in the DRC and surrounding countries other than those from certified conflict-free smelters and refiners. Additional information about our conflict minerals 
+compliance program is available here in our Conflict Minerals Report .
+30Governance
+Sustainability is intrinsic in our culture, and we strive to be a leader for 
+other organizations when it comes to space stewardship and using 
+technology for good. This commitment extends from the top and 
+throughout the organization as we see employees at all levels taking ownership of ESG practices. We know we are early in our journey, and we 
+are continuously reflecting on how we can do better and be better. 
+31Business Ethics
+We are committed to maintaining the highest standards of business conduct and ethics. Employees are 
+required to review and abide by our Code of Business Conduct and Ethics in order to foster a positive and 
+safe working environment. We expect employees, managers, contractors, temporary workers and other 
+representatives of Iridium to adhere to all company polices, practice honesty and integrity in fulfilling their daily duties and responsibilities, and comply with all applicable laws and regulations. All employees are also required to complete annual trainings on business conduct and ethics. 
+We have also established a procedure in our Code of Business Conduct and Ethics under which complaints 
+may be reported anonymously either by phone to a compliance hotline or via email, website or U.S. mail. The complaint procedure is specifically designed so that employees have a mechanism that allows them to 
+bypass a supervisor they believe is engaged in prohibited conduct under our policy.  
+Intellectual Property and Competitive Behavior
+The mobile satellite services industry is highly competitive but has significant barriers to entry, including 
+the cost and difficulty associated with obtaining spectrum licenses and successfully designing, building, 
+launching and operating a satellite network. In addition to cost, there is significant lead time associated with 
+obtaining the required licenses, building and launching the satellite constellation, and deploying the ground network technology. 
+The completion of the Iridium NEXT constellation upgrade was one of the most successful events in 
+commercial space in recent years. While we expect to have many years to leverage our new network and celebrate its execution, we also know that we have inspired many new companies to explore LEO. We believe that other companies’ projects are targeting very different markets and applications than Iridium, such as 
+planning to introduce commodity high-speed broadband services using Ku- or Ka-band frequencies, which 
+we view as complementary to Iridium’s L-band services. 
+Iridium files patent applications to protect innovations that arise from our research and development efforts. 
+As of December 31, 2020, we held 31 U.S. patents. These patents include both utility and design patents and cover several aspects of our satellite system, our global network, our communications services and our devices. 
+32Managing Systemic Risks
+Our success is highly dependent on our efforts 
+to foresee risk and have proper policies and 
+procedures in place to safeguard us from 
+technological, financial, social and environmental risk factors. Our business and our products and services are subject to the risks inherent in a large-scale, 
+complex telecommunications system employing 
+advanced technology and are heavily regulated by, among others, the U.S. Federal Communications Commission (FCC) and similar authorities 
+internationally.
+Our network design of 66 operational satellites relies on an interlinked mesh architecture to transmit 
+signals from satellite to satellite, which reduces the need for multiple local ground stations around the world 
+and facilitates the global reach of our services. All satellites are designed for some failure tolerance, with numerous redundancies built in. In the event of the failure of a single satellite, traffic will be automatically rerouted to nearby satellites. We also maintain in-orbit spares that can be used to quickly replace a failed 
+satellite. Finally, we also have a group of ground spares that can be launched as needed.
+Our constellation is unique among commercial constellations in the usage of radio frequency crosslinks 
+between our satellites, which eliminates the need for local ground infrastructure. These crosslinks enable 
+each satellite to communicate with up to four other satellites in space — two in the same orbital plane and 
+two in adjacent planes. Our traffic is routed between satellites to the satellite that is currently in contact with one of the Iridium teleport network (TPN) locations. The use of TPNs allows flexible traffic management at 
+multiple locations within our network infrastructure. This and other design elements provide flexibility and 
+resilience that allow for rapid reconfiguration in the event of a space, antenna or ground routing anomaly and result in the high reliability of our network. 
+33The design of our space and ground control system also facilitates the real-
+time monitoring and management of the satellite constellation and enables 
+service upgrades via software enhancements. As part of the Iridium NEXT 
+program, we also upgraded our ground infrastructure, including gateway and 
+teleport technology and satellite control systems.
+By relying on our distributors to manage end-user sales, we believe that 
+we reduce some of the risks and costs related to our business, such as 
+consumer relationship risks and sales and marketing costs, while providing a broad and expanding distribution network for our products and services with access to diverse and geographically dispersed niche markets. We also 
+benefit from the specialized expertise of our distributors, who continue to 
+develop innovative solutions and applications integrating our product and service offerings, providing us with an attractive platform to support our growth.
+Our robust product portfolio, global coverage, security safeguards, and extensive channel of hundreds of 
+distribution partners in diversified segments are designed to protect us from excessive risk in any one area or industry. Upper management across all facets of our business continuously track emerging risks and 
+regularly update our business continuity plans and strategy. Our network 
+is designed to be 
+flexible and resilient 
+in the face of an 
+anomaly
+A flare from Iridium’s first-generation network
+34SASB Index
+According to the SASB Industry Level Materiality Map, the following categories are the most important 
+sustainability issues for companies in the telecommunications industry. The table below references 
+accounting metrics within this report and other sources. 
+T elecommunication Services
+ T opic    A ccounting Metric   Alignment t o Iridium  S ection in ESG Report
+Environmental Footprint 
+of Operations
+Data Privacy(1) T otal energy consumed, (2) 
+percentage grid electricity, (3) 
+percentage renewable  
+Description of policies and practices relating to behavioral advertising and customer 
+privacy  
+Number of customers whose information is used for 
+secondary purposes  
+T otal amount of monetary losses as a result of legal proceedings associated with 
+customer privacy  
+(1) Number of law enforcement requests for customer information, (2) number of 
+customers whose information 
+was requested, (3) percentage resulting in disclosureWe have included energy usage information for our major U.S. sites for the last two years.
+We do not have a direct-to-
+consumer business model. End users come to us through our distributors and commercial partners; therefore we do not 
+possess end-user information 
+like other consumer-oriented terrestrial and space-based telecommunications providers.  This 
+makes behavioral advertising less 
+relevant to our marketing strategy.  Nonetheless, Iridium conforms its advertising practices to law and regulation.
+No consumer end-user 
+communications information is used for marketing or purposes 
+unrelated to the provision of service, 
+management of the network and systems, or protection of Iridium, its service providers and users, or compliance with laws.
+There were no monetary losses 
+as a result of legal proceedings associated with customer privacy.
+As a network owner, Iridium 
+receives and responds to hundreds of requests annually from law 
+enforcement officials around the 
+world. These demands include subpoenas; court orders; warrants; and emergency requests for 
+records, content and other data 
+related to Iridium’s users. However, as a wholesale operator, Iridium does not normally possess information identifying end users. In 
+the last year, Iridium did not produce 
+customer data in response to many of the demands received.Environmental Impact
+Data Security and 
+Customer Privacy
+ 
+ 
+Data Security and 
+Customer Privacy
+35 T opic    A ccounting Metric   Alignment t o Iridium  S ection in ESG Report
+Data Security  
+Product End-of-Life 
+Management
+Competitive Behavior 
+and Open Internet(1) Number of data breaches, 
+(2) percentage involving personally identifiable 
+information (PII), (3) number of 
+customers affected
+Description of approach to 
+identifying and addressing data 
+security risks, including use of third-party cybersecurity 
+standards  
+(1) Materials recovered through take back programs, percentage of recovered materials that 
+were (2) reused, (3) recycled, 
+and (4) landfilled
+T otal amount of monetary 
+losses as a result of legal proceedings associated with anti-competitive behavior 
+regulations  
+Average actual sustained download speed of(1) owned and commercially-
+associated content and 
+(2) non-associated content
+Description of risks and 
+opportunities associated with 
+net neutrality, paid peering,zero rating, and related practicesThere were no data breaches in 
+2020.
+We follow industry standards and 
+best practices to manage data security risks.
+Iridium does not have a contractual 
+relationship with end-user 
+customers due to our wholesale 
+business model. This means we rely on our partners to provide services for product take back, recycling and recovery. We are accountable, 
+however, for responsibly managing 
+and monitoring all of our satellites in space and mitigation of space debris. We are an acknowledged 
+leader in these efforts and 
+share best practices and embed sustainability into our satellite design to ensure proper end-of-life disposal.
+There were no monetary losses 
+as a result of legal proceedings associated with anti-competitive behavior in 2020.
+Iridium does not measure download 
+speeds on the bases specified in the SASB standard.  
+As a provider of satellite 
+communications services, Iridium 
+faces risks and opportunities associated with government regulation. Iridium complies with all applicable laws and regulations, 
+including those adopted by 
+the Federal Communications Commission (FCC) that may pertain to net neutrality, paid peering, zero 
+rating, and related practices.  The 
+company engages in reasonable network management.  Should statutes or FCC regulations change, Iridium will comply with obligations 
+that may result from these regulatory 
+frameworks to the extent that they are applicable to Iridium.  Data Security and Customer Privacy
+Data Security and 
+Customer Privacy
+Our Products and 
+Services 
+Our Satellites 
+Business Ethics
+36 T opic    A ccounting Metric   Alignment t o Iridium  S ection in ESG Report
+Systemic Risks from 
+T echnology Disruptions(1) System average interruption 
+frequency, (2) customer average 
+interruption duration
+Discussion of systems to 
+provide unimpeded service during service interruptionsIridium does not currently calculate and report metrics relating to the frequency and duration of system 
+interruptions in the manner specified 
+by the SASB standard. Iridium offers reliable and resilient communications services.
+All satellites are designed for some 
+failure tolerance, with numerous redundancies. In the event of the failure of a single satellite, traffic will 
+be automatically rerouted to nearby 
+satellites. We also maintain in-orbit spares that can be used to quickly replace a failed satellite. Finally, we 
+also have a group of ground spares 
+that can be launched as needed.Managing Systemic Risks
+Managing Systemic Risks
+37Methodology
+T o help inform our decision-making regarding the content to include in this, our first sustainability report, 
+we performed a benchmarking analysis to help us understand what other firms in our sector were reporting. 
+We relied upon the SASB framework to help us understand the areas that may be most important to our 
+U.S.-based investors, and we referred broadly to the GRI standards to help us identify areas that we may have missed. We drew upon the subject matter expertise of our colleagues throughout Iridium to collect and organize the content relative to the areas we identified in our benchmarking. Lastly, we compared our 
+activities to the SDGs to assess how we may be contributing to these important goals. Inquiries about our 
+ESG practices and policies can be directed through our online contact form.  
+Forward Looking Statements
+This Environmental, Social and Governance Report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. For this purpose, any statements contained herein 
+that are not statements of historical fact may be deemed to be forward-looking statements. Such forward-
+looking statements include those that express plans, anticipation, intent, contingencies, goals, targets or future developments or otherwise are not statements of historical fact. Without limiting the foregoing, the words “believes,” “anticipates,” “plans,” “expects,” “intends” and similar expressions are intended to identify 
+forward-looking statements. These forward-looking statements are based on our current expectations 
+and projections about future events, and they are subject to risks and uncertainties, known and unknown, that could cause actual results and developments to differ materially from those expressed or implied in such statements. The important factors discussed under the caption “Risk Factors” in the Company’s 
+Form 10-K for the year ended December 31, 2020, filed with the Securities and Exchange Commission on 
+February 11, 2021 (as well as other filings Iridium makes with the SEC from time to time), could cause actual results to differ materially from those indicated by forward-looking statements made herein. We undertake 
+no obligation to publicly update or revise any forward-looking statements, whether as a result of new 
+information, future events or otherwise.  
+38

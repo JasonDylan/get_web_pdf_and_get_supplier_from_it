@@ -1,0 +1,2349 @@
+  
+Corporate Responsibility Report
+Powering a Smarter, More Sustainable Future2019FEBRUARYFebruary 2019 Report   | 2
+TABLE OF CONTENTS
+At Maxim, we’re committed to providing greater  
+transparency on the most relevant environmental, social,  
+and governance topics for our business. The report you’re now 
+reading reflects this commitment. Looking ahead, we plan to 
+issue regular updates to share how we’re improving in areas of 
+corporate responsibility. This report has been prepared in accordance with the principles and 
+disclosures of the GRI Standards: Core Option. This report covers topics for 
+all entities in our financial statements. The highlights and metrics shared in 
+this report cover calendar years 2017 and 2018, and we provide multi-year 
+trend data where applicable.
+If you have any feedback on this report or our corporate responsibility 
+initiatives, we’d love to hear it. Please email corporate.responsibility@
+maximintegrated.com  to engage with us.
+Learn more about our corporate responsibility policies and programs here. Governance  
+& Ethics  
+CORPORATE GOVERNANCE
+RISK MANAGEMENT
+CORPORATE RESPONSIBILITY  
+GOVERNANCEProduct  
+Performance 
+BUILDING SOLUTIONS  
+FOR TOMORROW
+DEVELOPING MORE  
+SUSTAINABLE PRODUCTSEnvironmental 
+Performance
+MANAGING 
+ENVIRONMENTAL 
+PERFORMANCE
+EMISSIONS & ENERGY
+INVESTING IN EFFICIENCY  
+CONSERVING WATER
+WASTE MANAGEMENTSocial  
+Performance
+EARNING A REPUTATION AS 
+A GREAT PLACE TO WORK
+INVESTING IN OUR PEOPLE
+FOSTERING A DIVERSE & 
+INCLUSIVE WORKPLACE
+OUR WORKFORCE
+HEALTH, SAFETY & 
+WELLNESS
+GIVING BACK TO 
+COMMUNITIESGRI Content  
+Index12 3 4
+ 5
+Welcome to our first Corporate Responsibility Report!Message from  
+our CEO
+About Maxim6February 2019 Report   | 31Message from Our CEO
+Tunç Doluca 
+Maxim was founded on time-tested values and principles that have defined who we are 
+for over 35 years. They’re rooted in our desire to challenge the status quo and make a 
+difference, and they fuel our passion to create innovative products that enable new and 
+exciting inventions. For us, the path forward is obvious. It entails designing “green” products, 
+conserving resources, and fostering healthy work environments for our employees. And 
+doing it all responsibly.
+Designing environmentally friendly products is 
+nothing new to us. In fact, we’ve been doing it since 
+1983, with high-efficiency DC-DC power converters, 
+battery-management integrated circuits (ICs), and 
+low-power products such as amplifiers. We’ve 
+worked hard to make these and other products 
+responsibly, through ethical sourcing, and by 
+reducing the amount of materials we use, including 
+hazardous materials.  
+Today, the world is challenged by the impact of 
+climate change and the increased demand for more 
+green products. At the same time, we’re now seeing 
+ways we can help the world become more energy 
+efficient, through smaller power supplies, greater 
+board densities, improved battery life, reduced heat, 
+and higher reliability.  While the technical challenges 
+of designing green solutions are numerous, our 
+proven track record of solving these difficult 
+engineering problems gives me confidence that we 
+can succeed.
+We’ve also worked diligently to make Maxim 
+buildings greener. We have Leadership in Energy 
+and Environmental Design (LEED)-certified facilities worldwide, which have a smaller environmental 
+footprint and facilitate a healthier, more enjoyable 
+work environment. Additionally, we’ve made 
+reductions in energy, waste, and emissions, 
+especially in the last three years.  
+Finally, we’ve evolved our culture to become 
+more transparent, diverse, and inclusive. We have 
+adopted a Pledge of Respect and Fairness, publicly 
+disclosing our commitment towards diversity and 
+inclusion, pay equity, preventing harassment and 
+protecting individuals from retaliation. We’ve 
+updated and publicized our corporate strategy. 
+We are focusing on helping managers recognize 
+unconscious bias and apply new thinking to 
+developing and expanding our workforce. We  
+also encourage and support employees in their  
+quests to help those in need.
+We’ve come a long way.  And we’ll continue  
+to make and report our progress.  I hope  
+you enjoy reading our first Corporate  
+Responsibility Report.Maxim is committed 
+to building a smarter, 
+more sustainable future 
+through the products and 
+technologies we innovate, 
+design and manufacture,  
+as well as through how  
+we treat and respect  
+one another. 
+maximintegrated.com  |  2
+ maximintegrated.com  |  2
+“
+1
+February 2019 Report   | 
+3
+ February 2019 Report   | 
+3
+ February 2019 Report   | 
+3February 2019 Report   | 41
+About Maxim 
+ About Maxim
+Maxim Integrated Products, Inc. is  
+a publicly traded company (NASDAQ: 
+MXIM) that develops and builds 
+innovative analog and mixed-signal 
+products and technologies to make 
+systems smaller and smarter, with 
+enhanced security and increased  
+energy efficiency. We are empowering design innovation for 
+our automotive, industrial, healthcare, mobile 
+consumer, and cloud data center customers 
+to deliver industry-leading solutions that help 
+change the world. We are a global company 
+with just over 7,000 employees in operations in 
+the Americas, Asia and Europe.
+We help our customers:
+ •Make cars safer and smarter
+ • Build efficient data centers for a  
+connected world
+ • Automate factories that maximize productivity • Deliver wearable solutions for a  
+healthier world
+ • Enhance mobile devices with  
+high-quality audio, efficient power and 
+sophisticated sensors
+ • Secure challenging embedded  
+applications, while lowering power and 
+enabling greater integration
+ • Deliver analog solutions to bridge the real and 
+digital world
+You can learn more about our ownership 
+structure in our Annual Report .
+ 
+MAJOR END MARKETS & APPLICATIONS
+Industrial
+ • FACTORY  
+AUTOMATION
+ •MEDICAL
+ • ELECTRICAL  
+INSTRUMENTATION
+ • AUTOMATIC TEST  
+EQUIPMENT
+ •FINANCIAL TERMINALS
+ •SECURITY
+ •USB EXTENSIONComputing
+ •DESKTOP COMPUTERS
+ •NOTEBOOK COMPUTERS
+ • PERIPHERALS 
+AutomotiveCommunication
+ComputingConsumer
+AutomotiveCommunication
+ComputingConsumer AutomotiveCommunication
+ComputingConsumer
+AutomotiveCommunication
+ComputingConsumerAutomotiveCommunication
+ComputingConsumerConsumer
+ •SMARTPHONES
+ •DIGITAL CAMERAS
+ •HANDHELD COMPUTERS
+ • HOME ENTERTAINMENT  
+& APPLIANCES
+ • MOBILITY & FITNESS  
+WEARABLESAutomotive
+ • ADVANCED DRIVER-  
+ASSISTANCE SYSTEMS
+ • BATTERY MANAGEMENT  
+SYSTEMS
+ •BODY ELECTRONICS
+ •INFOTAINMENTCommunications  
+& Data Center
+ •BASE STATIONS
+ •DATA CENTER
+ •DATA STOR AGE
+ •NETWORK & DATACOM
+ •SERVERS
+ •TELECOMBeaverton
+T owerJazz T exas (TJT) Seiko-Epson, Fujitsu
+TSMCPowerchip
+UMCJapan
+China
+T aiwanKoreaMunichDublin
+San Jose
+Dallas
+PhilippinesThailandASE
+UTACKYEC
+Flexible Manufacturing 
+Capacity
+WATER FABRICATION FACILITIES
+PARTNER FOUNDRIES 
+MERCHANT PARTNERS ASSEMBLY AND TEST FACILITIES
+PARTNER ASSEMBLY 
+AND TEST HOUSES Assembly and 
+T est FacilitiesQuality and 
+Support
+February 2019 Report   | 5
+Our global operations
+Flexible Wafer  
+Manufacturing  Capacity
+MAXIM OWNED WAFER FABS
+PARTNER FOUNDRIES
+MERCHANT PARTNERS
+Assembly and   
+Test Facilities
+ASSEMBLY AND TEST FACILITIES
+PARTNER ASSEMBLY  AND TEST HOUSES
+Quality and   
+Support
+We utilize wafer foundry partners and third-
+party packaging houses as well as our own wafer 
+fabrication and test facilities in the manufacture 
+of our products. Historically, our internal wafer 
+production occurred at one of our three wafer 
+fabrication facilities at Beaverton, Oregon, San 
+Jose, California and San Antonio, Texas. During 
+fiscal year 2016, we completed the closure of 
+our San Jose facility, as well as the sale of our 
+San Antonio facility to TowerJazz Texas, Inc. 
+Production from these sites was transferred to 
+our remaining Beaverton location and to our 
+foundry partners. Learn more about our supply 
+chain management activities here .1About Maxim February 2019 Report   | 6
+88% INDEPENDENT DIRECTORSComposition* 
+Compensation 
+CEO'S EQUITY GRANTS
+AS A MULTIPLE OF SALARY 7.03  
+Ownership & Business Practice 
+100%
+OF BOARD SUBJECT 
+TO RE-ELECTIONBOARD ELECTION 
+FREQUENCY
+ANNUAL
+SIGNATORY TO RESPONSIBLE TAX PRINCIPLES 
+YES, WE ARE COMMITTED TO A SIMILAR SET OF RESPONSIBLE 
+TAX PRINCIPLES THAT IS REQUIRED BY UK LAW.TOTAL 
+BOARD 
+SIZE 75%
+ MALE 25% FEMALE 
+EXECUTIVES' CLAW-BACK OR MALUS PROVISIONS  
+BOARD CAN TAKE ANY APPROPRIATE ACTION (INCLUDING, E.G., SEEKING REIMBURSEMENT 
+ON BONUSES) FOR ANY MISCONDUCT OR FRAUD BY ANY EXECUTIVE OFFICER.
+EXECUTIVES' LONG-TERM INCENTIVES AND MECHANISMS  
+COMPENSATION BASED ON "IMPACT POINTS," PERCENTAGE OF PERFORMANCE GOAL 
+AND THE PERFORMANCE OF THE COMPANY RELATIVE TO SEMICONDUCTOR PEER STOCKS 
+AS OUTLINED IN OUR LATEST SHAREHOLDER PROXY.Governance & Ethics2
+Corporate governance 
+We set high expectations for the ethical conduct of our leadership, employees, and 
+suppliers and believe that maintaining high standards of accountability and transparency 
+are fundamental for the long-term success of our business.
+Since our founding in 1983, we have attracted and 
+built a strong, qualified board of directors who 
+have expertise relevant to our business, are diverse 
+in background and have strong ethics and integrity. 
+All of the members of our Board of Directors  
+are independent directors, with the exception  
+of Tunç Doluca, our Chief Executive Officer.  
+We recruit Board members who understand our 
+end markets to help us with emerging regulations 
+and issues, navigate changing market needs and 
+stay in front of technological advancements. Key 
+corporate governance policies and practices are 
+available on our Governance website .Our Nominating and Governance Committee 
+recognizes the great value in diversity of 
+experience and perspective. Currently we have two 
+female board members, both of whom joined  
+us in 2016. 
+Our Board is committed to providing oversight of 
+the Company’s strategy and performance in an 
+effective and constructive manner with the goal of 
+representing the best interests of our stockholders.  
+CORPORATE GOVERNANCE HIGHLIGHTSGovernance & Ethics2
+Tunç Doluca  Joesph Bronson  
+William D. Watkins  
+ Robert Grady  
+James Bergman  
+William P. Sullivan  
+ MaryAnn Wright  
+ Tracy C. Accardi  EXECUTIVES' LONG-TERM INCENTIVES AND MECHANISMS   
+LONG TERM COMPENSATION BASED ON MAXIM STOCK PERFORMANCE  
+AND ON TOTAL SHAREHOLDER RETURN RANKING OVER 4 YEARS, RELATIVE  
+TO PEER COMPANIES.
+ 88% INDEPENDENT DIRECTORSComposition 
+Compensation YEARS COMBINED EXPERIENCE 
+SERVING BOARD COMMITTEES
+EXECUTIVES' EQUITY GRANTS
+AS A MULTIPLE OF SALARY 7.03  
+Ownership & Business Practice 
+100%
+OF BOARD SUBJECT 
+TO RE-ELECTIONBOARD ELECTION 
+FREQUENCY
+ANNUAL
+SIGNATORY TO RESPONSIBLE TAX PRINCIPLES 
+YES, WE ARE COMMITTED TO A SIMILAR SET OF RESPONSIBLE 
+TAX PRINCIPLES THAT IS REQUIRED BY UK LAW.50% DIRECTORS CONSIDERED FINANCIAL/INDUSTRY/RISK EXPERTSTOTAL 
+BOARD 
+SIZE 75%
+ MALE 25% FEMALE XXX
+EXECUTIVES' CLAW-BACK OR MALUS PROVISIONS  
+BOARD CAN TAKE ANY APPROPRIATE ACTION (INCLUDING, E.G., SEEKING REIMBURSEMENT 
+ON BONUSES) FOR ANY MISCONDUCT OR FRAUD BY ANY EXECUTIVE OFFICER.
+EXECUTIVES' LONG-TERM INCENTIVES AND MECHANISMS  
+COMPENSATION BASED ON "IMPACT POINTS," PERCENTAGE OF PERFORMANCE GOAL 
+AND THE PERFORMANCE OF THE COMPANY RELATIVE TO SEMICONDUCTOR PEER STOCKS 
+AS OUTLINED IN OUR LATEST SHAREHOLDER PROXY.DESCRIPTION OF EXECUTIVES' CLAW-BACK OR MALUS PROVISIONS   
+BOARD MAY TAKE APPROPRIATE ACTION FOR MISCONDUCT BY  
+EXECUTIVE OFFICERS.
+ 88% INDEPENDENT DIRECTORSComposition* 
+Compensation 
+CEO'S EQUITY GRANTS
+AS A MULTIPLE OF SALARY 7.03  
+Ownership & Business Practice 
+100%
+OF BOARD SUBJECT 
+TO RE-ELECTIONBOARD ELECTION 
+FREQUENCY
+ANNUAL
+SIGNATORY TO RESPONSIBLE TAX PRINCIPLES 
+YES, WE ARE COMMITTED TO A SIMILAR SET OF RESPONSIBLE 
+TAX PRINCIPLES THAT IS REQUIRED BY UK LAW.TOTAL 
+BOARD 
+SIZE 75%
+ MALE 25% FEMALE 
+EXECUTIVES' CLAW-BACK OR MALUS PROVISIONS  
+BOARD CAN TAKE ANY APPROPRIATE ACTION (INCLUDING, E.G., SEEKING REIMBURSEMENT 
+ON BONUSES) FOR ANY MISCONDUCT OR FRAUD BY ANY EXECUTIVE OFFICER.
+EXECUTIVES' LONG-TERM INCENTIVES AND MECHANISMS  
+COMPENSATION BASED ON "IMPACT POINTS," PERCENTAGE OF PERFORMANCE GOAL 
+AND THE PERFORMANCE OF THE COMPANY RELATIVE TO SEMICONDUCTOR PEER STOCKS 
+AS OUTLINED IN OUR LATEST SHAREHOLDER PROXY.88% INDEPENDENT DIRECTORSComposition* 
+Compensation 
+CEO'S EQUITY GRANTS
+AS A MULTIPLE OF SALARY 7.03  
+Ownership & Business Practice 
+100%
+OF BOARD SUBJECT 
+TO RE-ELECTIONBOARD ELECTION 
+FREQUENCY
+ANNUAL
+SIGNATORY TO RESPONSIBLE TAX PRINCIPLES 
+YES, WE ARE COMMITTED TO A SIMILAR SET OF RESPONSIBLE 
+TAX PRINCIPLES THAT IS REQUIRED BY UK LAW.TOTAL 
+BOARD 
+SIZE 75%
+ MALE 25% FEMALE 
+EXECUTIVES' CLAW-BACK OR MALUS PROVISIONS  
+BOARD CAN TAKE ANY APPROPRIATE ACTION (INCLUDING, E.G., SEEKING REIMBURSEMENT 
+ON BONUSES) FOR ANY MISCONDUCT OR FRAUD BY ANY EXECUTIVE OFFICER.
+EXECUTIVES' LONG-TERM INCENTIVES AND MECHANISMS  
+COMPENSATION BASED ON "IMPACT POINTS," PERCENTAGE OF PERFORMANCE GOAL 
+AND THE PERFORMANCE OF THE COMPANY RELATIVE TO SEMICONDUCTOR PEER STOCKS 
+AS OUTLINED IN OUR LATEST SHAREHOLDER PROXY.
+*Data as of February 26, 2019.
+February 2019 Report   | 6Governance & Ethics2
+February 2019 Report   | 7Risk  
+management 
+Our Enterprise Risk Management framework 
+outlines the framework and process for 
+identifying and managing risks related to 
+the achievement of our strategic, financial, 
+compliance and operational objectives.
+Our Chief Corporate Compliance Officer is directly 
+responsible for risk management. He meets regularly with 
+the Audit Committee, Governance Committee and the full 
+Board of Directors on the topic of risk. He also oversees  
+the Corporate Compliance and Ethics Team, as well as 
+internal investigations. 
+Our Audit Committee reviews and discusses with 
+management, the head of internal audit and the independent 
+auditor any significant risks or exposures as well as the 
+Company’s policies and process with respect to risk 
+assessment and risk management. It is the responsibility of 
+the Audit Committee to assess the steps management has 
+taken to mitigate such risks, except those risks for which 
+oversight has been assigned to other committees of the 
+Board of Directors. 
+The full Board of Directors also reviews all enterprise and 
+operational risks, including cyber security and privacy.
+Please see our 2018 Annual Report  for 
+additional information on key risks and 
+associated factors.Corporate responsibility  
+governance
+Maxim’s CEO and Executive Leadership Team, reporting to the Board of Directors, are 
+responsible for the day-to-day conduct of the Company’s business, including economic, 
+social, environmental and governance aspects.
+Additionally, the Governance Committee of  
+our Board of Directors oversees certain 
+environmental and social objectives of the 
+Company. Our Corporate Responsibility (CR) 
+Steering Team is responsible for creating the 
+Corporate Responsibility Report and measuring 
+performance, and works to implement specific 
+programs and initiatives. The Executive Team is 
+accountable for performance outcomes. 
+Our Codes of Business Conduct and Ethics  and 
+Corporate Social Responsibility  are our credo and 
+outline our ethical, environmental and social 
+commitments to our employees. We request our 
+suppliers and foundry partners to meet the same high standards. The Codes, managed through  
+our Legal Department, are guided by international 
+standards which include the Universal 
+Declaration of Human Rights, ILO International 
+Labor Standards and OECD Guidelines for 
+Multinational Enterprises. 
+We support the Responsible Business Alliance  
+(RBA) Code of Conduct objectives by undergoing 
+on-site audits and completing the RBA corporate 
+and facility Self-Assessment Questionnaires. 
+We make our data available via the RBA-Online 
+tool, making it easy for our customers to find the 
+information they need.
+Governance & Ethics2
+February 2019 Report   | 8Assessing emerging issues 
+In 2018, we evaluated environmental, social 
+and governance topics that are most critical to 
+our business. We reviewed feedback from key 
+stakeholders and reviewed inputs from the business, 
+when evaluating whether a topic was a priority for 
+us (Maxim Materiality Assessment Process figure). 
+We assess significance of each topic in two ways: 
+if it impacts our business in terms of growth, cost, 
+risk or trust, and if it significantly influences the 
+assessments and decisions of our key stakeholders.
+Through analysis of our priority topics, eleven 
+broad themes emerged:
+ •Anti-Corruption & Ethics
+ •Diversity & Inclusion
+ • Employee Attraction & Retention
+ • Employee Safety & Wellbeing
+ • Energy Efficiency & Climate Change
+ • Human Rights & Labor Issues
+ • Intellectual Property Protection &  
+Competitive Behavior
+ • Product Life Cycle Management
+ •Regulatory Compliance
+ • Sustainable Economic Growth
+ • Waste & Water ManagementPrioritizing topics of focus has helped us to  
+refine our strategic efforts and resource allocation, 
+update our strategy, and communicate effectively 
+with key stakeholders. Maxim also identifies 
+emerging issues through its membership and active 
+participation in industry associations such as the 
+Semiconductor Industry Association (SIA).
+For more detail on what is included in the scope of 
+each topic area, as well as topic boundary, please 
+see page 35 .CORPORATE RESPONSIBILITY GOVERNANCE cont.
+4 Review 3 Validation 2 Prioritization 
+MAXIM MATERIALITY ASSESSMENT PROCESS 
+ •  RESEARCH & 
+BENCHMARKING
+ • IMPACT MAPPING
+ •  INPUTS •  STAKEHOLDER 
+MAPPING
+ •   INTERNAL & EXTERNAL 
+ENGAGEMENT
+ • ANALYSIS •   SENIOR MANAGEMENT 
+ENGAGEMENT •  RE-ASSESS AND ALIGN WITH 
+EMERGING STAKEHOLDER  
+REQUEST FOR INFORMATION1 Identification
+Business Inputs
+ •  Our values
+ •  Our strategic business priorities
+ • Customer requirements
+ • Investor interest
+ • Risk management
+ • Relevance to our products
+ • Direct financial impactStakeholder Inputs 
+ •  A review of stakeholder engagement 
+data, including feedback from 
+employees and investors 
+ •  Research on the prominence  
+of issues across external inputs  
+(e.g. media scans, reporting  
+best practice)  
+  •   Interviews with key representatives 
+across a selection of external 
+stakeholder groups that included 
+investors and external consultanciesFebruary 2019 Report   | 9Governance & Ethics2
+Operating ethically 
+Business integrity, ethics and compliance have 
+been part of the foundation of Maxim’s success 
+and ongoing growth. We strive to conduct our 
+operations in accordance with applicable laws 
+and regulations of the relevant jurisdictions. We 
+promote ethical behavior and maintain an open-
+door approach that encourages employees to talk 
+to supervisors, managers, their human resources 
+business partner, the anonymous hotline, or the 
+Chief Compliance Officer, when in doubt about the 
+best course of action in any situation. 
+Our Codes of Business Conduct and Ethics  and 
+Corporate Social Responsibility  reinforce our values 
+and define our expectations for ethical behavior 
+of our employees, officers, and nonemployee 
+directors. The Codes apply globally. Maxim 
+requires that employees certify they have read 
+and agree to adhere to the Maxim Integrity Guide, 
+the foundation of which is built on the Company's 
+Code of Business Conduct and Ethics. Employees 
+must also take training courses related to the 
+Codes, including topics related to discrimination, 
+harassment, retaliation, and conflicts of interest.  
+In 2018 we expanded anti-harassment training  
+to include all employees globally. Maxim reached  
+over 99% training completion rates in 2018  
+for all employees assigned training, related to  
+Maxim's Code of Business Conduct and 
+Ethics, Global Anti-Bribery and Corruption, and 
+Harassment Prevention.Employees have a responsibility to report 
+suspected violations of the Codes—to their 
+immediate supervisor or the Chief Compliance 
+Officer. We provide a toll-free hotline and a  
+third-party website via EthicsPoint as a means  
+for anonymously reporting concerns. Maxim  
+is committed to ensuring that anyone who  
+raises a good-faith concern will be protected  
+from retaliation. 
+We support the objectives of the RBA Code  
+of Conduct which promote trust and underpin  
+our “direct” supply chain relationships. Learn  
+more about our supplier engagement process . 
+OUR CORE VALUES
+Since our founding in 1983, we’ve built a rich history and 
+culture of innovation that rewards bold thinking, teamwork, 
+personal growth, and community involvement.
+Be Bold
+WE KNOW THAT THE BIGGEST RISK IS NOT TAKING ONE. NEVER 
+SATISFIED WITH THE STATUS QUO, WE SEEK CHALLENGES AND FIND 
+A BETTER WAY.
+One Maxim
+UNITED, WE'RE A STRONGER COMPANY. WE KNOW THAT SO MUCH 
+MORE IS POSSIBLE WHEN WE WORK TOGETHER.
+Reach Higher
+WE INVEST IN OUR PERSONAL GROWTH BECAUSE WE KNOW THAT 
+GREAT ACHIEVEMENTS LIE WITHIN OUR GRASP. WE JUST NEED TO 
+BE WILLING TO CHALLENGE OURSELVES AND EACH OTHER.
+Be The Difference
+WE TAKE OWNERSHIP. WE BELIEVE THAT ONE PERSON, EACH OF 
+US, CAN MAKE A POSITIVE IMPACT ON OUR COLLEAGUES, OUR 
+CUSTOMERS, AND OUR COMMUNITIES.
+86%
+ 
+ 
+OF EMPLOYEES  
+SAID THEY SUPPORT  
+THE VALUES FOR  
+WHICH MAXIM STANDS OF EMPLOYEES BELIEVE  
+THAT THE CEO AND HIS  
+STAFF'S DECISIONS ARE 
+CONSISTENT WITH  
+MAXIM’S CORE VALUES.IN OUR 2018 EMPLOYEE ENGAGEMENT SURVEY,  
+95%
+CORPORATE RESPONSIBILITY GOVERNANCE cont.
+February 2019 Report   | 9February 2019 Report   | 10Product Performance3
+Building solutions for tomorrow 
+In 2018, Maxim celebrated 35 years of empowering design innovation for our customers 
+who then develop products that provide society with environmental and social benefits, 
+such as reducing energy consumption, reducing the carbon footprint of operations, and 
+improving people’s quality of life.
+Over the years, we have built a resilient and 
+long-lasting business through our expertise in 
+high-performance analog, particularly in power 
+management products. Our customers tell us that 
+the performance and power efficiency of Maxim 
+products sets us apart from our competitors and 
+gives us lasting differentiation in each of our end 
+markets: automotive, industrial, healthcare, data 
+center and mobility. Our customers also appreciate 
+that we design and manufacture our products in 
+a responsible manner, always looking for ways 
+to improve the environmental footprint of our 
+products through using less hazardous substances 
+and ensuring that our value chain meets high 
+ethical, human rights, health and safety, and 
+environmental standards.Maxim’s core strength is in facilitating more 
+efficient power management in the end market 
+applications that use our products.  This energy 
+efficiency lens is comprehensively applied along 
+our entire portfolio, along with other design 
+attributes such as reliability, smaller footprints, 
+accuracy, and cost providing key differentiators. 
+While energy efficiency has been a long time focus 
+for Maxim, our products are also used in end use 
+applications with significant social benefits. We’re 
+proud of the environmental and social benefits  
+our products facilitate for our customers and the 
+end consumer. Read on for examples of our  
+recent innovations.
+February 2019 Report   | 10 February 2019 Report   | 10Product Performance3
+February 2019 Report   | 11
+Design innovations
+AUTOMATING FACTORIES THAT ARE SAFER  
+AND MORE ENERGY EFFICIENT
+Maxim’s analog ICs are contributing to the 
+revolution in factory automation. Sensors, 
+actuators and programmable logic controllers 
+in ‘smart factories’ require efficient power 
+management that is robust for harsh industrial 
+environments, minimizes heat generation, and 
+fits into small footprints. These requirements 
+play to our strengths, while our robust IO-Link 
+products enable network access to sensors and 
+actuators using existing wiring, an easy upgrade 
+for factory owners. These improvements not only 
+enable more energy efficient industrial systems, 
+but automation also often has a safety benefit, 
+removing workers from potentially unsafe working 
+conditions, and enabling process control from a  
+remote location.POWERING MORE EFFICIENT VEHICLES
+Industry experts predict that by 2025, 25% of 
+vehicles on the road will be electric vehicles (EVs). 
+Maxim is developing products that optimize the 
+efficiency of EVs. We have solutions that improve 
+the efficiency of lithium ion cells, used in EVs, 
+which must operate in harsh environments and 
+be able to withstand long periods of inactivity. 
+The hundreds of battery cells in EVs must be 
+precisely managed, and the voltages between 
+these batteries must be carefully monitored and 
+balanced. This is where fast and accurate battery 
+management systems (BMS) come into play. Our 
+BMS systems extend battery life, vehicle driving 
+range and enable higher reliability and safety of 
+the battery cells required for electric vehicles.Industrial equipment's control power 
+supply inputs must meet 60V input and low 
+thermal dissipation for reliable operation 
+and standards compliance. With Maxim's 
+Himalaya DC-DC converters, we can 
+consistently meet our requirements  
+for the SINAMICS Drives Family.
+ Andreas Kuhn  
+Head of Hardware Development,  
+Drives Chemnitz, Siemens AG
+“BUILDING SOLUTIONS FOR TOMORROW cont.Product Performance3February 2019 Report   | 12
+  FY 2019 CR Report   |  12
+IMPROVING PATIENT DIAGNOSIS  
+AND TREATMENT
+Maxim’s innovative solutions have been  
+enhancing the capabilities of healthcare products 
+since the launch of the company. Nowadays,  
+many human-body signals traditionally monitored 
+in a clinical environment (i.e., heart rate, blood 
+oxygen, EKG/ECG, ultrasound) may now be 
+collected through a wearable product or device.  
+Our products enable these applications and  
+provide a reliable, precise, low power, accurate  
+and cost-conscious option that facilitates the 
+capture of patient data for improved diagnosis  
+and treatment.ENABLING MORE EFFICIENT DATA CENTERS
+According to third-party market research, over 
+90% of data traffic stays within the data center, 
+including data traffic local to each server rack and 
+from server rack to server rack. As the volume 
+of data traffic continues to increase, high-speed 
+optical connectivity within the data center becomes 
+paramount. Maxim’s optical connectivity products 
+are best-in-class for high-speed data transport. 
+The cost of ownership is also extremely important 
+for cloud customers because they are the ones 
+paying the energy bill. Our power management 
+products for servers are efficient and easy to 
+incorporate in designs. These products have already 
+been recognized by our key cloud customers as 
+they help reduce energy use, which drives down the 
+cost of data center ownership.
+The name of the game is 
+miniaturization and low power, and 
+Maxim has the best solution for both.
+Arvind Thiagarajan  
+CEO, Founder, Chief Inventor, HD Medical
+Product Performance3
+“
+More information about our evolving product solutions can be 
+found on our webpage .BUILDING SOLUTIONS FOR TOMORROW cont.
+February 2019 Report   | 12 February 2019 Report   | 12February 2019 Report   | 13
+Product Performance3
+Developing more  
+sustainable products
+Strong environmental, health  
+and safety standards
+While Maxim’s Environmental Policy  is at the heart of our 
+environmental sustainability efforts, our Environmental 
+Management System  ensures that the design, manufacturing, 
+testing, marketing and sales of analog/mixed-signal 
+semiconductor products meets and exceeds our compliance 
+obligations. Additionally, our Product Sustainability Program  
+assesses the health, safety and environmental impacts of our 
+analog devices for continual improvement. This program ensures 
+our compliance with relevant regulations around substances 
+of concern (REACH, RoHS, ELV, Battery Directive) and protects 
+people in contact with our products at any point in the value 
+chain from exposure to hazardous substances. Maxim's Policy 
+on Restricted and Hazardous Substances  holds us accountable to 
+providing the market with end products that are compliant with all 
+applicable environmental product regulations and requirements.
+We continuously monitor developments in the global regulatory 
+landscape, and provide our customers with regular updates online  
+to facilitate transparency on the materials and environmental 
+substances found in our end products. 
+February 2019 Report   | 13
+ February 2019 Report   | 
+13February 2019 Report   | 14
+Product Performance3
+Extending high standards into our  
+supply chain
+At Maxim, we believe that the social, 
+environmental and ethical aspects of suppliers’  
+and subcontractors' performance are critical 
+elements of our long-term business success. 
+Supply chain responsibility is embedded in 
+our policies and practices through our Codes of 
+Corporate Social Responsibility  and Business Conduct 
+and Ethics . We also support the objectives of the 
+Responsible Business Association (RBA) Code  
+of Conduct. 
+Our procurement process promotes sustainable 
+sourcing and develops long-term social and 
+environmental standards and practices.
+Our Code of Corporate Social Responsibility 
+covers the following scope of our supplier 
+practices:
+ • Labor and Human Rights – including prevention 
+of child and forced labor and discrimination, and 
+promoting fair labor practices
+ • Health and Safety  – including occupational safety, 
+emergency preparedness and industrial hygiene
+ • Environmental – including obtaining appropriate 
+environmental permits, compliance with 
+applicable laws and regulations prohibiting 
+or restricting specific hazardous substances, 
+and monitoring and control of air emissions, 
+wastewater and solid waste discharges • Ethics  – including prohibition of bribery, 
+corruption, extortion, embezzlement, and 
+retaliation against whistleblowers, and  
+promoting fair business standards and 
+community engagement
+ • Management systems  – requiring suppliers  
+to have an ongoing process to obtain feedback 
+from their workers on practices related to the 
+Codes and foster continuous improvement
+We require adherence by all vendors and suppliers 
+to the United States Foreign Corrupt Practices Act. 
+If suppliers suspect violations within Maxim, 
+they are encouraged to report them through our 
+Compliance Officer at +1 (408) 601-5866, by 
+email at compliance.officer@maximintegrated.com ,  
+or anonymously through a third-party hotline .
+Maxim has worked to reduce conflict minerals 
+in our supply chain. Conflict minerals are those 
+that fuel human rights abuses in the Democratic 
+Republic of Congo. We released a public policy 
+statement  describing our approach to conflict 
+minerals, required our suppliers to comply with our 
+Conflict Minerals Policy, and became a member of 
+the Conflict Free Sourcing Initiative in 2011. As of 
+2017, 100% of our new suppliers comply with the 
+Conflict-Free Smelter Program.DEVELOPING MORE SUSTAINABLE PRODUCTS cont.
+February 2019 Report   | 14
+ February 2019 Report   | 
+14 February 2019 Report   | 14
+ February 2019 Report   | 
+14Environmental Performance4
+February 2019 Report   | 15
+Managing environmental  
+performance 
+As a leading member of the global semiconductor industry, Maxim has acted to reduce our 
+impacts and strengthen our environmental performance. 
+Our Environmental Policy  demonstrates our 
+commitment to:
+ •  Prevent or reduce pollution through programs 
+that reduce environmental impacts and conserve 
+natural resources
+ • Understand and commit to comply with legal and  
+other requirements
+ • Review environmental objectives and  
+targets and set guidelines for reduction of 
+environmental impacts
+ • Evaluate the effectiveness of and continually 
+improve our Environmental Management  
+Systems (EMS)
+We pursue these commitments primarily through 
+our ISO 14001 Environmental Management 
+System (EMS), which addresses both customer 
+and regulatory concerns via natural resource and 
+risk and opportunity management. Identifying and 
+assessing water and climate-related risks is part 
+of the EMS, where all new or modified processes 
+are evaluated using a change control process 
+that measures risk, the environmental impact 
+and the amount of resource consumption and 
+waste generated. Since 2004, we’ve implemented these ISO standards at key facilities, including 
+our semiconductor fabs, testing facilities and our 
+headquarters campus location, representing 72% 
+of our total real estate footprint. Through our EMS, 
+we’re continually assessing potential impacts 
+associated with our activities and setting targets 
+to ensure we are adopting industry best practices 
+and continuous improvement programs. We verify 
+conformance with the ISO Standards during regular 
+environmental audits. In 2017 and 2018, there were 
+no negative comments from outside auditors and  
+zero major non-conformities.
+To ensure we are going beyond compliance, we 
+pursue LEED certification for our facilities. As of 
+2018, 620 thousand square feet of our facilities 
+are LEED certified. Our Bangalore, India office is 
+a Platinum LEED facility, our San Jose, California 
+headquarters is a Gold LEED facility and our 
+Oregon and Arizona offices are Silver LEED facilities. 
+We are currently pursuing future LEED certification 
+for our Operations Center in the Philippines and in 
+other locations.For more information on 
+Maxim’s commitment to 
+continuous environmental 
+impact monitoring and 
+improvement, please 
+visit our Environmental 
+Management & Product 
+Sustainability  page. 
+February 2019 Report   | 15 February 2019 Report   | 15Environmental Performance4
+February 2019 Report   | 16Emissions & energy
+Maxim is proud to have reduced our greenhouse gas (GHG) intensity over the last 3 years.
+An intensity of 98 metric tons CO2e (carbon 
+dioxide equivalent) per $1 million in revenue in 
+2015 decreased to 58 metric tons in 2016 and 
+42 metric tons in 2017—an overall reduction of 
+57%. Concurrently, our energy intensity—GWh 
+consumed per $1 billion in revenue—dropped 
+by 48% from 2015 to 2017. These reductions 
+reflect achievement of our previous five-year goals 
+established in 2012 to pursue normalized reductions 
+of 10% for both emissions and energy by 2017;  
+once this expired, we established new rolling targets 
+of annual 3% normalized reductions based on 
+annual revenue. 
+Maxim continuously looks for efficiency 
+improvement opportunities that result in GHG 
+emissions and energy reductions as well as cost savings. Over the years, we’ve implemented 
+projects ranging from process improvements, 
+facility installations, to power generation.
+We’ve also strategically procured cleaner electricity 
+for our larger manufacturing and test locations. 
+Maxim entered into a power purchasing agreement 
+for our Cavite, Philippines test operations whereby 
+the site consumed 100% geothermal energy in  
+2017 and 2018. Additionally, in 2017 we procured 
+35% of the electricity for both the Beaverton fab 
+and the San Jose headquarters campus from 
+renewable sources. In total, 48% of the electricity 
+consumed by Maxim in 2017 was generated from 
+renewable sources. 
+Our VOC emissions increased modestly by 
+approximately 5% in 2017 from 2016, due to a 
+higher level of semiconductor IC production in 2017.
+48%
+OF THE ELECTRICITY 
+CONSUMED BY MAXIM IN 
+2017 WAS  GENERATED FROM 
+RENEWABLE SOURCES.Greenhouse gas inventory calculations were performed using the U.S. 
+EPA reporting guidance. Emission factors for fuels were sourced from 
+the US EPA’s GHG Database. Electricity emission factors were sourced 
+from the 2014 IPCC Report for 35% of the electricity consumed 
+from identified renewable sources and the US EPA Power Profile for 
+65% of the electricity consumed from unspecified sources; factors 
+for the Cavite and Chonburi facilities were sourced directly from the 
+electricity provider. Maxim’s GHG inventories have not been verified 
+by an independent third party and are estimates. Data reflects 
+Maxim's global operations footprint as shown on page 5.2015 2016 2017
+TOTAL SCOPE 1 (MTCO2e) 85,171 43,218 48,143
+     CARBON DIOXIDE (CO2) 18,806 10,496 8,723
+     METHANE (CH4) 9 5 4
+     NITROUS OXIDE (N2O) 6,427 2,728 2,931
+     HYDROFLUOROCARBONS (HFC s) 8,092 5,166 6,872
+     PERFLUOROCARBONS (PFC s) 28,885 13,429 14,858
+     SULFUR HEXAFLUORIDE (SF6) 17,414 10,358 14,050
+    NITROGEN TRIFLUORIDE (NF3) 886 82 76
+    HEAT TRANSFER FLUIDS (HTF s) 4,649 954 629
+TOTAL SCOPE 2 MARKET-BASED 
+(MTCO2e)134,713 85,638 50,606
+% REDUCTION IN TOTAL SCOPE 1 AND 
+2 GHG EMISSIONS — 41% 23%
+SCOPE 1 AND 2 EMISSIONS INTENSITY 
+(MTCO2e PER $1MM OF REVENUE) 98 58 42
+VOLATILE ORGANIC COMPOUND 
+(VOC) EMISSIONS  (U.S. ONLY) 41 44 46
+NITROGEN OXIDE (NOX)  
+EMISSIONS (U.S. ONLY) 23 11 6GREENHOUSE GAS EMISSIONS 2015 – 2017
+ENERGY CONSUMPTION 2015 – 2017
+050100150200250300350
+Indirect Energy Usage 
+Direct Energy Usage 
+Energy intensity (GWh  per $1bn of revenue)2015193
+94336
+2016116
+56202
+2017100
+47191GWh
+GWhFebruary 2019 Report   | 17
+Investing in efficiency 
+Several initiatives at key locations helped us achieve our 
+previous emissions goal and continue to provide ongoing 
+energy and cost savings. These include:
+ Beaverton fab:
+ •  In 2017, efficiency process projects reduced the usage of  
+several greenhouse gases, preventing over 5,000 metric tons  
+of CO2e from being emitted annually.
+ • Our upgraded glycol chiller piping saves an estimated 50,000 
+kWh annually.
+ • An LED lighting upgrade of approximately 10,000 lamps,  
+targeted for completion in 2019, is projected to save over 
+1,757,000 kWh annually, or nearly 2% of the facility’s electricity 
+consumption in 2017.
+ San Jose headquarters:
+ • A Bloom Energy fuel cell system activated in August 2014 has 
+avoided 770 metric tons of CO2 emissions annually.
+ • During 2016 and 2017, we invested in a roofing program which 
+resulted in annual energy savings of 600,000 kWh, the equivalent 
+of 286 metric tons of CO2.
+ • Our electric vehicle charging stations at San Jose headquarters  
+are calculated to have reduced emissions by approximately  
+4 metric tons annually since 2016.
+For more information about our efforts to reduce GHG 
+emissions and energy use, please see our recent CDP 
+reports available on our Corporate Responsibility  page. Environmental Performance4
+February 2019 Report   | 17 February 2019 Report   | 17Environmental Performance4
+February 2019 Report   | 18Conserving water
+The Environmental, Health, and Safety and 
+Sustainability (EHS&S) group is responsible for 
+monitoring and tracking our water usage across 
+our manufacturing processes. To ensure we 
+understand and minimize potential risks, Maxim 
+completed a water stress analysis of our global 
+operations using the World Resources Institute 
+Aqueduct tool to determine if our facilities are in 
+stressed water basins. The analysis determined 
+that 72% of Maxim’s calendar 2017 water usage 
+volume was drawn from low-stress water basin 
+areas while only 8% of water usage was drawn 
+from high-stress water basin areas (Total Water 
+Usage by Water Basin Stress Level). Maxim is consistently undertaking new initiatives 
+to reduce the water used at our sites, which 
+led to us exceed our five-year goal of reducing 
+water usage by 5% by 2017. Since 2015, we’re 
+proud to have achieved a reduction in our water 
+intensity—the water consumed per employee 
+in cubic meters—by 50% (Operational Water 
+Impacts). Under the guidance of our Technology 
+and Manufacturing Group, we have committed 
+to a new target of reducing our water usage by a 
+normalized 3% rate per year (based on annual 
+revenue) in our fabrication and testing processes.Where possible, we strive to recycle or reuse 
+the water from our operations to mitigate the 
+risk of depleting local water supplies. At our San 
+Jose headquarters, which uses 3% of our total 
+water volume, we’ve implemented several water 
+reduction projects, from low-water landscapes 
+to modern kitchen equipment and restroom 
+facilities that consume less water. Meanwhile, 
+our Beaverton fab uses 72% of our total water 
+withdrawals based on volume. Approximately 14% 
+of the initial water used is reused in our abatement 
+scrubbers or for gray water purposes, such as 
+restroom toilets. Overall, Maxim is currently 
+recycling 10% of the total water volume used.
+Water discharges are also an important focus area, 
+particularly for our wafer fab, where chemicals 
+and other pollutants may be present in the 
+effluent. Our close attention to wastewater system 
+management was recognized at our Beaverton fab, 
+which received a Certificate of Excellence from the 
+Oregon Department of Environmental Quality.
+Environmental Performance4
+05001,0001,5002,0002,5003,000
+2015 2016 2017341
+201
+170 200300400
+100
+T otal Water Use (thousands of cubic meters)
+Water Volume Consumed per Employee
+(cubic meters)2,814 1,561 1,342OPERATIONAL WATER IMPACTS  
+2015 – 2017  
+Water data presented for our primary 
+facilities and represents over 90% of Maxim’s 
+total company-wide water usage.  
+Data reflects Maxim's global operations 
+footprint as shown on page 5.
+ 50%
+SINCE 2015, WE’RE PROUD TO  
+HAVE ACHIEVED A REDUCTION IN 
+OUR WATER INTENSITY —THE  
+WATER CONSUMED PER EMPLOYEE  
+IN CUBIC METERS—BYTOTAL WATER USAGE  
+BY WATER BASIN STRESS LEVEL
+High/Moderate/Low amount of basin or territory 
+affected by oversubscription to water resources.  
+Data reflects Maxim's global operations footprint as 
+shown on page 5.% of 
+overall water 
+consumption
+(by volume)   
+ High Stress
+Thailand (Chao Phraya Basin), 
+USA (San Joaquin Basin)  
+Moderate Stress
+Asia, other countries, 
+Philippines, USA 
+(Trinity Basin)
+USA (Columbia Basin)Low Stress72%
+ 8% 20% February 2019 Report   | 1905001,0001,5002,0002,500
+326533903679
+867
+431Metric T ons 
+2016 2017
+T otal Hazardous Waste GeneratedT otal Non-hazardous Waste GeneratedT otal Waste Recycled
+Environmental Performance4
+Waste management
+Responsible waste management at our operations is vital due to the nature of the 
+materials used during the manufacturing process. If not handled appropriately, these 
+inputs could be released into the environment via the air, water, or as solid waste. 
+We surpassed our five-year goal of a 10% 
+reduction in hazardous waste by 2017, pursuing 
+initiatives big and small to reduce our impacts. 
+From 2016 – 2017, we achieved a 24% decrease  
+in hazardous waste and a 39% decrease in  
+non-hazardous waste. In fact, our Beaverton fab 
+removed 5.8 tons of waste simply by reducing paper cups. Our new rolling targets are annual 3% 
+normalized reductions based on annual revenue.
+Safety is also a key component of these efforts.  
+We’ve avoided on-site hazardous spills over the 
+last seven years, helping manage for both airborne 
+and water pollutants.
+24%
+FROM 2016 – 2017 WE  
+ACHIEVED A DECREASE   
+IN HAZARDOUS WASTE  
+OF APPROXIMATELYOPERATIONAL WASTE GENERATION  
+AND RECYCLING, 2016 AND 2017  
+Data reflects Maxim's global operations 
+footprint as shown on page 5.Metric  
+Tons  February 2019 Report   | 20
+Social Performance5
+FY 2019 CSR Report   |  20Earning a reputation as a great 
+place to work
+Our people are fundamental to the ongoing success of our business. We are committed to 
+building a culture and working environment where our employees can do their best work 
+and feel valued for their contributions.
+To ensure we are meeting their needs and earning 
+a reputation as a great place to work, we actively 
+listen and respond with leading programs to 
+develop, recognize and empower our employee 
+base and to foster their health and wellness. 
+We are also continually working to build an  
+inclusive culture where our collective efforts 
+leverage diverse points of view and enable us  
+to realize superior solutions. We are enhancing 
+our commitment to building an inclusive work 
+environment, and in early 2019, initiated Maxim's 
+Pledge of Respect and Fairness, shown in its full 
+text on  pg 25 . We see recruiting and developing a 
+diverse workforce as both a company imperative 
+and a competitive advantage. Our job swap 
+initiative, Maxim University, and intern programs 
+help empower employees to grow. We also look 
+to increase inclusion and diversity of thought 
+within our organization. In fact, senior executives 
+are expected to promote Employee Training and 
+Development initiatives.We formalize employee feedback via our employee 
+engagement survey, issued on a periodic basis.  
+We also provide an avenue for employee feedback 
+on individual performance through our performance 
+management process. This input is vital as we 
+evaluate and adjust our initiatives to meet the 
+changing needs of our employee base. Maxim 
+has an internal relations function that provides 
+a mechanism for employees to raise feedback 
+regarding the company and management. 
+The feedback is conveyed anonymously and 
+confidentially to upper management to analyze  
+and implement changes and improvements,  
+as appropriate. In addition to the above  
+programs, we hold All-Hands meetings  
+at the company-wide level and within our  
+business groups.
+February 2019 Report   | 20
+ February 2019 Report   | 
+20 February 2019 Report   | 20
+ February 2019 Report   | 
+20February 2019 Report   | 21
+Investing in our people
+Throughout 2017 and 2018, we utilized our Development Planning Process  to help 
+employees realize career growth and success. All employees are encouraged by 
+management to set career goals that are meaningful for them, and develop Individual 
+Development Plans that outline the steps to achieve those goals.
+We continued to encourage employees to broaden 
+their knowledge, skills and abilities through Maxim 
+University, or MaximU . In 2018 we provided over 
+5,000 salaried employees continual training via an 
+online portal that is accessible globally, 24 hours 
+a day. Maxim also offers a tuition reimbursement  
+program to encourage employees to broaden their 
+on-the-job knowledge, skills, and abilities as we 
+strongly believe that educational advancement 
+will enhance our growth potential through the 
+individual growth of our employees. 
+The Developing Professionals of Maxim (DPoM)  
+offers a community of welcoming peers and 
+helping hands to employees seeking to find their 
+place within the company. DPoM‘s mission is 
+to provide a platform for professional growth, 
+personal development, local outreach, and social 
+networking. In 2018, the DPoM Workshop Series 
+was launched to allow peer-to-peer training on 
+skills such as Microsoft Excel, Personal Finance, 
+and Tableau. The group also hosted small-group lunches between members and Executives to 
+facilitate an open line of communication between 
+management and employees. DPoM has also 
+served as a means for Maxim employees to 
+give back to the local community, organizing 
+events such as food sorts at the Second Harvest 
+Food Bank and group donations to the Ronald 
+McDonald House. 
+In 2016, Maxim launched a novel approach to 
+hiring talent for the Automotive Business Unit 
+(ABU), which experienced tremendous growth in 
+a short period of time. Recognizing the need for 
+more layout designers to meet industry demands, 
+Randall Wollschlager, VP of the ABU, pitched the 
+Junior Layout Design Program to the executive 
+staff, where individuals with little to no layout 
+experience or education could receive training 
+as an opportunity to engage local community 
+members to develop career skills. 
+Connie Phillips, Senior Layout Designer, and Anthony Valliere, 
+Layout Designer, prepared the six-month curriculum to train 
+program participants to be qualified for a Junior Layout Designer 
+position with Maxim. At the end of the program, consisting 
+of lectures, labs, a midterm, and a final exam, all students 
+successfully graduated the course and transitioned to be  
+full-time members of the layout team. The team launched a 
+second class in 2017 with graduates from the 2016 program 
+acting as mentors for the new students. The next class of 
+trainees began in late April 2018.
+“Social Performance5
+I am so thankful to everyone who made this program 
+happen. It has changed my life and given me a career 
+better than what I had imagined for myself.
+Katie Bonse  
+ Associate Layout Designer, 2017 program graduate
+ 
+LAUNCHING THE JUNIOR LAYOUT DESIGN PROGRAM
+“
+Experienced designers often request to work with 
+the students who have come through this program. 
+We are confident the chips they work on will be 
+successful because they have a great foundation.
+ Connie Phillips   
+Senior Layout Designer
+February 2019 Report   | 21February 2019 Report   | 22
+ Another way we invest in our people is by having a well-developed summer 
+internship program, hiring interns from universities around the world to help build  
+a robust pipeline of future Maxim teammates. The program provides the 
+opportunity to gain hands-on professional experience within an innovative and 
+global company. Over the last 3 years, Maxim has had approximately 480 interns 
+throughout 11 countries.
+A great differentiator of our program is a high level of interaction with executive 
+leadership, as well as exposure to cutting edge technology through project-
+based work. In fact, in our San Jose headquarters, summer interns receive regular 
+interaction with our CEO, Tunç Doluca, where they may ask questions on their 
+minds during "Walks with Tunç." They are also invited to test themselves against 
+our CEO's table tennis skills during an end-of-summer tournament. Participants are 
+also afforded several networking opportunities with peers and local leadership and 
+are assigned a mentor and peer ‘buddy’ to facilitate ongoing support. The program 
+culminates with the interns presenting to their group’s leadership about their 
+experience at the summer intern symposium. These myriad experiences contribute 
+to a robust program that fosters technical, professional, and social development. 5
+In March 2018, Maxim and Beijing Jiaotong University (BJTU) 
+initiated a long-term strategic partnership that will help build our 
+visibility and recruiting efforts with Chinese universities. To kick off 
+the partnership, Maxim hosted an on-campus event at BJTU where 
+students were invited to learn about Maxim, our recruiting process, 
+and benefits and development opportunities for employees. Many 
+students from the Electronic and Information Engineering College 
+attended and several interviewed for internship positions. Maxim 
+entered into a similar partnership with one of the top schools in 
+Dublin, Ireland (UCD). After just two years, Maxim has moved 
+from being unknown to students, to a well-known semiconductor 
+company in the area. 
+MAXIM PARTNERS WITH UNIVERSITIES  
+IN CHINA AND IRELAND
+ On March 12, 2018, Botao Han, the 
+Secretary of Youth League  
+Committee from Beijing Jiaotong 
+University (BJTU), visited Maxim 
+to initiate a long-term partnership 
+between Maxim and BJTU which 
+will enable Maxim to expand our 
+awareness and recruiting efforts with 
+Chinese universities.INVESTING IN OUR PEOPLE cont.
+Maxim’s robust intern  
+program includes quality  
+time with the CEO. During  
+the summer, Tunç goes on  
+a “walk & talk” with interns, 
+answering questions and 
+giving career advice. Social PerformanceFebruary 2019 Report   | 23
+Social Performance5
+Recognizing our people
+We want our people to share in our mutual success. 
+We provide compensation, benefits, and long-term 
+savings packages that are market competitive and 
+that our employees value.
+Maxim's U.S. 401(k) Plan helps employees save  
+for their futures through a Company match, 
+dollar-for-dollar for the first 3 percent of salary 
+deferred and 50 percent match for the subsequent 
+2 percentage points deferred. Employees can 
+also choose to make pre-tax and after-tax Roth 
+401(k) contributions. Maxim provides competitive 
+retirement savings plans in nearly all of the countries 
+in which we operate.
+Recognizing the contributions our employees 
+make to our company is a top priority. Managers 
+can utilize several awards programs to recognize 
+employees, including awards for exceptional 
+performance, awards for successfully publishing technical papers or securing patents for new 
+products, referral bonuses, and awards that 
+recognize long term service to the company. 
+We also launched our Peer-to-Peer recognition 
+program, or “Maxim Inspire”  program in 2012 
+because it is equally important to provide a 
+mechanism for employees to recognize the 
+outstanding achievements of their peers and 
+to thank them for a job well done. Managers 
+can award Maxim Inspire Points which may be 
+redeemed for gift cards and other awards. Our 
+employees can send e-cards to recognize their 
+peers for going “above and beyond.” Feedback has 
+been tremendously positive, and we’ve seen a high 
+level of engagement with thousands of employees 
+acknowledging the efforts of their global peers each 
+year. The program may now also be accessed as a 
+smartphone app, for employee nominations “on  
+the go.”
+Additional benefits
+Maxim recognizes that, sometimes, our  
+employees need flexibility to balance work and 
+family obligations.
+As of March 1, 2019, Maxim is implementing Paid 
+Parental Leave  to allow eligible U.S. employees with 
+up to 8 weeks of full or partial paid time off to bond 
+with their child due to birth, adoption, or foster care 
+event. This leave program is in addition to pregnancy 
+and other unpaid leaves that have been previously 
+available to Maxim’s employees.
+2,278
+EMPLOYEES WERE  
+RECOGNIZED BY  
+THEIR PEERS THROUGH  
+THE PEER-TO-PEER  
+RECOGNITION PROGRAM  
+IN 2018. Receptions were held in both San 
+Jose, California and Dallas, Texas 
+in September 2018 to recognize 
+29 Maxim employees and their 
+contributions to the company over 
+the past 30+ years. Each employee 
+honoree was called on stage and 
+presented with a 30-year service 
+award, a special 30-year lanyard, 
+and a thank you letter from our 
+CEO, Tunç Doluca. During the 
+presentation, awardees’ families 
+were also recognized for supporting 
+family members throughout 
+their Maxim journey. In a special 
+moment for the Doluca family, 
+Tunç’s wife and daughter then 
+presented Tunç with his service 
+award for 34 years of dedication  
+to Maxim.
+ 
+29 EMPLOYEES CELEBRATE  
+30+ YEARS OF SERVICE
+INVESTING IN OUR PEOPLE cont.
+February 2019 Report   | 23February 2019 Report   | 24
+Social Performance5
+Fostering a diverse and  
+inclusive workplace
+At Maxim, empowering design innovation means empowering diverse perspectives and 
+ideas. As a company with customers around the world, it is beneficial for our business 
+to foster a workforce that reflects the diversity of the markets we serve and embraces 
+different backgrounds, viewpoints, skills and talents.
+Maxim is committed to providing equality  
+of opportunity for all, protecting the dignity  
+of employees, and promoting respect for  
+others at work. Our non-discrimination  
+policy states that workers should not be 
+discriminated against based on race, color, age, 
+gender, sexual orientation, ethnicity, disability, 
+religion, political affiliation, union membership, 
+national origin, or marital status in hiring and 
+employment practices. All employees are 
+required to comply with these policies and not to 
+participate in any acts of harassment based on 
+these protected classes, retaliation for engaging 
+in protected activity, or otherwise engage in 
+inappropriate conduct. Employees are encouraged 
+to report any incidents of discrimination, 
+harassment, or retaliation for internal review  
+and corrective action. Maxim is committed to 
+responding and reviewing concerns that  
+are received and taking corrective action,  
+as appropriate.We are partnering with Stanford University's 
+Clayman Institute for Gender Research to initiate 
+certain pilot programs within Maxim, focusing on 
+areas such as our talent search practice and our 
+employee engagement programs. Maxim's Pledge 
+for Respect and Fairness can be found on page 25 .
+Given that 42% of our global workforce is 
+female, Maxim is committed to encouraging and 
+empowering the next generation of Maxim’s 
+female leaders. 
+February 2019 Report   | 24February 2019 Report   | 25
+Maxim Pledge of Respect and Fairness
+In matters of culture and our employees, we view 
+laws prohibiting harassment and discrimination 
+as minimum standards. At Maxim, we are 
+not satisfied with minimum performance 
+standards. We believe that respect for individuals 
+is paramount, and we publicly declare our 
+commitment to respect in our workplaces:
+Diversity and Inclusion: We believe in the 
+power of diverse perspectives and ideas at work. 
+We know that having the very best employee 
+population means actively seeking out people with 
+different genders, races, cultures, religions and 
+other backgrounds, experiences, and perspectives 
+and then providing them opportunities for growth 
+and advancement. We will take real steps to build 
+a workplace where everyone feels welcome and all 
+voices are heard. We will welcome feedback from 
+employees about their workplace experience. We 
+will not be satisfied with merely complying with 
+laws prohibiting discrimination or harassment. 
+Equal Pay: We are committed to the concept that 
+all employees will be paid fairly and equitably. Not 
+only in those jurisdictions where laws mandate 
+fair pay, but globally, for all our employees, in all 
+locations. We will do this by examining market pay 
+and internal pay equity for all jobs and employees. 
+This does not mean everyone in the same job 
+receives the same pay. Differences in skills and 
+abilities will often result in different pay. This does 
+mean that we will perform annual reviews of our 
+pay practices and, when necessary, adjust compensation levels to ensure our employees are 
+paid fairly and equitably.
+Harassment: We believe that respect for 
+individuals is paramount. We believe that 
+harassment and respect cannot co-exist. We are 
+committed to promptly investigating harassment 
+claims and, where it occurs, to taking corrective 
+action to stop it. When we investigate a claim, we 
+will treat all individuals with fairness and respect. 
+Some forms of unprofessional conduct in the 
+workplace may be remediated through additional 
+training or coaching. Other forms of conduct, such 
+as, harassment through sexual gestures, unwanted 
+touching, or intimidation are not consistent 
+with our values and will not be tolerated. When 
+harassment is found, we will take immediate action 
+to stop the conduct. We will not cover it up or seek 
+confidentiality, but we will try to learn from it, to 
+prevent recurrence, and to improve our workplace. 
+We will not pay discretionary “settlement” 
+compensation to individuals who engage in 
+harassment upon their termination of employment 
+by Maxim. 
+Retaliation: We are committed to ensuring 
+that anyone who raises a good faith concern 
+will be protected from retaliation for doing 
+so. We will affirmatively assess performance 
+ratings and reviews for all individuals involved in 
+investigations and reporting claims to make sure 
+that all employment actions are objective and are 
+independent of retaliatory action for the good  
+faith reporting of concerns.FOSTERING A DIVERSE AND INCLUSIVE WORKPLACE cont.
+Social Performance5
+February 2019 Report   | 25February 2019 Report   | 26
+Social Performance5
+We prioritize fostering an inclusive community that 
+respects individuals to live out our foundational 
+values and guiding principles. To this end, we hired 
+Executive Director Dino Anderson in September 
+2017 to lead our first corporate-wide Diversity 
+and Inclusion Strategy. In collaboration with 
+Stanford University's Clayman Institute for Gender 
+Research we are launching manager development 
+workshops on “Blocking Unconscious Bias”  to 
+improve the company’s hiring, retention and 
+promotion operations. In conjunction with formal 
+manager development, an ongoing Speaker 
+Series Program  has been launched to increase 
+general employee awareness on inclusivity topics 
+regarding diversity in innovation. Dr. Caroline 
+Simard, Managing Director of the Stanford 
+VMware Women's Leadership Innovation Lab, 
+led one of the most popular talks this year on 
+Womens’ Leadership in Technology and Science.
+We also focus on promoting diversity at all levels 
+of the Company. We currently have two female 
+Board members. While we will always seek out 
+the best available candidates, we will concentrate 
+on nominating and retaining Board members 
+who collectively reflect the best mix of skills, 
+experience, knowledge and independence for 
+effective decision-making and risk oversight, with 
+an emphasis on identifying diverse candidates. 
+Additionally, we are implementing a policy in 2019 requiring that for each executive hire (director and 
+above), the applicant slate of qualified candidates 
+must include at least one diverse candidate in 
+race and/or gender. This builds upon our existing 
+efforts to track and encourage gender diversity in 
+candidate pools for new career hires and interns.
+We are committed to gender pay equity and 
+conduct regular pay equity reviews across our 
+global operations to assess any potential pay 
+equity issues. We are also committed to correcting 
+pay equity issues, if identified. 
+Maxim has created guidelines for the formation 
+of Employee Resource Groups to foster inclusion 
+and provide a platform for employees to connect, 
+explore their unique passions and talents, innovate, 
+and excel. One such example is our newly formed 
+Women@Maxim  group. The mission of the 
+Women@Maxim group is to enable employees to 
+engage in personal development, peer mentoring, 
+cross-functional collaboration, networking 
+and social opportunities. Events include 
+career development workshops, networking 
+opportunities and a speaker series. 
+We are proud of the progress we’ve made in this 
+area but know we can do more. We continue to 
+take practical steps to ensure we are living up to 
+the commitments we’ve set for ourselves.
+Another notable example of Maxim’s rich culture is our annual 
+Diwali Event. The Hindu “festival of lights” is celebrated by 
+millions across the world, regardless of faith, to rejoice in new 
+beginnings and the victory of light over darkness, and good 
+over evil. Employees at Maxim come together every year to 
+celebrate Diwali in a grand style with food, cultural dancing 
+and singing performances, and decorations. The 2018 Diwali 
+celebration theme of “Many Lights, One Maxim” referenced 
+one of our core values of “One Maxim,” representing oneness 
+in employee community and highlighting Maxim’s diverse 
+employee culture.
+“One of the many wonderful things on which Maxim prides itself is creating a supportive and 
+collaborative corporate culture where any individual contributing to this well-being is respected.  
+Our value of One Maxim is the North Star for our peoples’ human and humane development.
+Dino Anderson,  Executive Director of Learning, Development, Diversity & Inclusion
+ 
+ANNUAL DIWALI EVENTFOSTERING A DIVERSE AND INCLUSIVE WORKPLACE cont.
+February 2019 Report   | 26February 2019 Report   | 27Social Performance5
+48%
+ 40% 
+BLACK OR 
+AFRICAN AMERICAN
+NATIVE 
+AMERICAN
+NOT CLASSIFIED 
+OR NO DATAASIAN
+WHITEHISPANIC5% 
+1% 
+1%  
+5% Our workforce
+Diversity of  
+U.S. Workforce,  
+2018
+Diversity of  
+U.S. Workforce  
+New Hires,  
+2018 
+U. S .  
+HEADCOUNT 
+2018
+by minority group  
+(% of total)
+44% ASIAN 
+39% BLACK OR 
+AFRICAN AMERICAN
+NATIVE 
+AMERICAN
+NOT CLASSIFIED 
+OR NO DATAHISPANIC7% 
+2% 
+<1%  
+8% WHITE 
+U. S .  
+HEADCOUNT 
+2018
+by minority group  
+(% of total)
+February 2019 Report   | 27February 2019 Report   | 28
+Social Performance5
+Global Workforce, 2018
+New Hire Employees, 2018FISCAL YEAR 2016 2017
+WORLDWIDE TOTAL 100% 100%
+FEMALE 42% 42%
+MALE 58% 58%
+AMERICAS TOTAL 100% 100%
+FEMALE 24% 24%
+MALE 76% 76%
+ASIA TOTAL 100% 100%
+FEMALE 55% 54%
+MALE 45% 46%
+EUROPE TOTAL 100% 100%
+FEMALE 21% 20%
+MALE 79% 80%PAST YEARS
+FISCAL YEAR 2016 2017
+WORLDWIDE TOTAL 100% 100%
+FEMALE 40% 44%
+MALE 60% 56%
+AMERICAS TOTAL 100% 100%
+FEMALE 25% 28%
+MALE 75% 72%
+ASIA TOTAL 100% 100%
+FEMALE 49% 50%
+MALE 51% 50%
+EUROPE TOTAL 100% 100%
+FEMALE 27% 20%
+MALE 73% 80%PAST YEARS
+T otal Number of 
+Employees
+432T otal Number of 
+Employees
+4,294T otal Number of 
+Employees
+2,547
+T otal Number 
+of Employees
+7, 27376% 24%
+ 19% 
+60%
+ MALE 40% FEMALE 
+48%52%
+ 
+81% 19%
+ 
+WORLDWIDE  
+TOTAL  
+2018AMERICAS  
+TOTAL  
+2018ASIA  
+TOTAL  
+2018EUROPE  
+TOTAL  
+2018
+71% 29%
+ 
+58%
+ MALE 42% FEMALE 
+48%52%
+ 
+91% 8% 
+WORLDWIDE  
+TOTAL  
+2018AMERICAS  
+TOTAL  
+2018ASIA  
+TOTAL  
+2018EUROPE  
+TOTAL  
+2018OUR WORKFORCE cont.
+February 2019 Report   | 28February 2019 Report   | 29Social Performance5
+Health, safety & wellness
+Maxim is committed to protecting our employees, contractors, and the public by 
+integrating health and safety into all aspects of our business.
+Our safety-minded culture is led by senior 
+leadership, but all employees and contractors are 
+empowered and expected to take responsibility  
+for their own safety, the safety of those around 
+them and to constantly promote a safe and healthy 
+work environment.
+We conduct frequent training and monitoring, 
+covering applicable topics. Our employees receive 
+Environmental Health and Safety New Hire 
+Training and we maintain Emergency Response 
+Teams at all our manufacturing and test centers.
+We focus on prevention and strive for continuous 
+improvement on all health and safety indicators 
+as measured by standard industry metrics and 
+established goals. In 2017, our OSHA Recordable Injury Rate was 0.18 while our Lost-Time Injury 
+Rate was 0.04, making Maxim a leader in the 
+semiconductor industry in terms of safety. Our 
+average injury rates have been consistently lower 
+than the U.S. manufacturing industry overall.  
+We also know there’s a strong connection 
+between an employee’s physical and mental 
+well-being and his or her ability to work effectively. 
+That is why we provide comprehensive healthcare 
+benefits, free onsite wellness screenings for each 
+employee and their spouse, and an employee 
+assistance program. Learn more  about the health 
+and wellness benefits we offer our employees.
+In 2018, 24 Maxim locations participated in Global Walking 
+Day, with approximately 2,012 individual employees joining the 
+walk, double the participation rate in 2017. Employees walked 
+4,500 miles that day and more than 400 of those employees 
+signed on for the month-long Global Walking Challenge to 
+improve their health. For four weeks, 426 Maxim employees 
+attempted to hit their daily step goals and walk the distance of 
+one lap around the globe. Not only did participants collectively 
+walk the distance around the globe, but they circled it more 
+than twice for a total of 51,702 miles, or 103,405,243 steps. 
+This event not only inspires healthy habits, but it brings 
+colleagues together around a shared, common goal.Global Walking Day
+Global Walking Day
+Global Walking Day
+Global Walking Day
+Global Walking DayGlobal Walking Day
+ Global Walking Day
+ Global Walking Day
+Global Walking Day
+Global Walking Day
+ 
+GLOBAL WALKING DAY & GLOBAL WALKING CHALLENGE
+February 2019 Report   | 29February 2019 Report   | 30
+Social Performance5
+People performance highlights (2016 – 2018)
+PAY & BENEFITS TRAINING AND DEVELOPMENT
+020,00040,00060,00080,000100,000120,000
+53,38183,660100,770T otal Hours of Learning Completed 
+2016 2017 2018
+HEALTH, SAFETY & WELLNESS
+1REGULATORY  
+ FINES FOR  
+U.S. OSHA  
+VIOLATIONS  
+BETWEEN  
+2016 – 2018100%
+EMPLOYEES PAID  
+LIVING WAGE  
+(Only calculated in  
+ the U.S.)
+WE ARE COMMITTED  
+TO PROMOTING GENDER  
+PAY EQUITY
+ YES,IN FISCAL 2018, OUR CEO’S  
+TOTAL ANNUAL COMPENSATION  
+WAS APPROXIMATELY
+ 
+TIMES THAT OF OUR  
+MEDIAN EMPLOYEE.366
+OSHA  
+Recordable  
+Injuries  
+Lost-Time  
+Injuries  
+00.20.40.81.0
+0.04 0.040.16
+2016 2017 20180.6
+U.S. average (semiconductor manufacturing) 
+COMPETITIVE BENEFITS
+Examples of competitive benefits we offer our 
+employees include:
+ Educational  
+Assistance Program
+ Post-Retirement  
+Equity Vesting
+Life & Disability Insurance
+Wellness Perks
+ Medical/Dental/  
+Vision Coverage
+Paid time off Policy
+Paid Parental Leave Policy 
+401(k) Program 
+Learn more about our 
+commitments to our  
+employees here  on  
+our website.  U.S. average  
+(semiconductor manufacturing) 
+Per 100 full-time-equivalent  
+(FTE) employeesHours  of 
+Learning 
+ Completed  
+U.S. average OSHA-recordable injury 
+rate (semiconductor manufacturing) 
+Per 100 full-time-equivalent  
+(FTE) employees
+00.51.01.52.0
+0.14 0.18 0.29
+2016 2017 20181.2
+February 2019 Report   | 30February 2019 Report   | 31
+Social Performance5
+Giving back to communities
+At Maxim, giving back to our communities is ingrained in the culture and values of our 
+business. It is a common thread that unites and inspires us.
+All Maxim operations have community 
+engagement programs in place. Our established 
+review processes help us efficiently select and 
+fund charitable causes that align with the issues 
+we are passionate about. Additionally, our 
+internal Give.Care.Do. platform for employee-
+specific or company-wide campaigns is an 
+important communication tool to facilitate 
+active engagement and support our employees 
+in their efforts to identify volunteer or donation 
+opportunities. Maxim frequently matches 
+employee-based donations as well, in some cases 
+as much as $100,000. 
+The causes we support are myriad, but they all 
+share a connection to our employees and the 
+communities that surround us. They range 
+from providing tutoring and mentorship to 
+students through local elementary schools 
+in the communities where we operate, or 
+through science, technology, engineering, 
+and math (STEM) education initiatives , from 
+combating hunger through support of our local Food Banks, to supporting natural disaster 
+relief efforts including the recent California 
+wildfires, and many more.
+In 2018 and 2017, we gave a total of $302,000 
+and $317,000, respectively, to our community 
+partners, a significant increase over the level 
+of giving in 2016. This was due in part to the 
+generosity of our employees who significantly 
+increased their personal contributions as well.
+Our company values making a 
+difference for the betterment of the 
+communities in which we operate.COMMUNITY ENGAGEMENT  
+& INVESTMENT HIGHLIGHTS   
+2016 – 2018
+050,000100,000150,000200,000250,000300,000350,000
+2016 2017 2018$241,000$317,000$302,000T otal Charitable Donations
+60%
+OF OUR TOTAL CHARITABLE 
+DONATIONS WERE FROM 
+EMPLOYEES  IN 2018
+Total 
+Charitable 
+Donations  Social Performance5
+February 2019 Report   | 32
+Maxim goes    “into orbit” for  
+FIRST LEGO‰ League robotics tournament
+A topic close to our hearts is that of inspiring students to 
+pursue STEM (science, technology, engineering, and math) 
+education. We are proud to have supported robotics teams and 
+competitions since 2012 through cash donations, volunteerism 
+and in-kind donations.
+In November 2018, Maxim hosted one of the FIRST LEGO 
+League (FLL) Qualifying Tournaments in California where 
+16 youth teams competed in multiple categories in hopes of 
+advancing to the Regional Tournament, and eventually the World 
+Championship. More than half of the event’s 50 volunteers were 
+Maxim employees.
+The FLL is an exciting, mentor-based STEM competition that 
+helps kids ages 9 – 14 become innovative problem solvers for 
+real-world issues. This year’s theme, “Into Orbit,” focused on 
+space exploration. In the Robot Games—an action-packed 
+segment of the tournament where teams complete as  
+many “mission” challenges within a two-and-a-half-minute 
+time limit—FLL teams designed, built, and programmed an 
+autonomous robot using LEGO MINDSTORMS® technology. 
+Seven teams were recognized for their outstanding tournament 
+performance and received the following awards: Champions, 
+Core Values, Project, Robot Design, Robot Performance, Judges’, 
+and Global Innovation.
+GIVING BACK TO COMMUNITIES cont.February 2019 Report   | 33
+Social Performance5
+Combating hunger
+For decades, our employees have given  
+generously of their time and resources to Second 
+Harvest. In 2017, more than 70 employees 
+volunteered at the Second Harvest warehouse to 
+sort and prepare food for distribution. Employees 
+also competed in a 48-hour Virtual Race against 
+other local companies to raise funds. We finished 
+in the top three for all three competition categories 
+(Total Giving, Giving Per Capita, and Participation), 
+coming in a close second for Participation with 
+38% of our employees giving to the cause.  
+The Race to End Hunger in November 2018 was 
+our best showing yet. Maxim came in at over 
+$100K in employee donations, and more than 
+50% of our local employees participated in a  
+5K/1 Mile Race to End Hunger on the Maxim 
+campus, race, up from 38% in 2017. This earned 
+Maxim 1st place in Second Harvest’s Participation  
+category—thus our logo will appear on the side of 
+a food distribution truck for a full year.
+For our efforts, Maxim was recognized by Second 
+Harvest at their Make Hunger History Awards in 
+three different categories in 2018—Brass Ring, 
+Blue Diamond and Hunger Hero which specifically recognized the individual dedication of our CEO, 
+Tunç Doluca, to hunger relief. We were honored to 
+be recognized as allies in the fight against hunger 
+in Silicon Valley.
+Maxim has supported the Second Harvest Food Bank for over 25 years, 
+whose mission is to ensure that anyone who needs a healthy meal can get 
+one. In those 25 years we have donated over $1 million, an equivalent of  
+2 million meals for families in need.
+MAXIM’S CONTRIBUTION FOR RACE  
+TO END HUNGER 2017 – 2018
+50,000100,000150,000200,000250,000
+0
+2017 2018
+Employee Donations
+Maxim’s Match
+Tu nç’s Match105,322
+60,000
+50,00085,326
+60,000
+50,000$195,326$215,322 
+390,652
+MEALS PROVIDED  IN 2017
+430,644
+MEALS PROVIDED  IN 2018
+GIVING BACK TO COMMUNITIES cont.
+50,000100,000150,000200,000250,000
+0
+2017 2018
+Employee Donations
+Maxim’s Match
+Tu nç’s Match105,322
+60,000
+50,00085,326
+60,000
+50,000$195,326$215,322 Social Performance5
+February 2019 Report   | 34
+The real winners are the 
+kids. These backpacks are 
+distributed to K-12 grade 
+students, providing them with 
+the tools they need to succeed 
+in school. Now these students 
+can walk onto campus for the 
+new school year with brand 
+new backpacks and supplies!
+Bruce Kiddoo  
+Senior Vice President and CFO
+“
+Beaverton
+EMPLOYEES DONATED 2,441 LBS OF FOOD  AND  
+135 VOLUNTEER HOURS  THROUGH THE FOOD 
+BANK’S 2017 HOLIDAY FOOD DRIVE. IN ADDITION, 
+EMPLOYEES RAISED $27,300, INCLUDING A MATCH 
+FROM MAXIM, WHICH EQUATES TO 83,934 MEALS 
+FOR THOSE IN NEED.
+Dallas
+EMPLOYEES PARTICIPATED IN SALVATION 
+ARMY’S ANGEL TREE PROGRAM,ADOPTING 
+AROUND 35 ANGELS  AND PROVIDING 
+CHRISTMAS GIFTS FOR THOSE INDIVIDUALS.San Jose
+DURING THE FAMILY GIVING TREE 
+BACKPACK DRIVE AT HQ IN AUGUST 
+2017, MAXIM COLLECTED A TOTAL 
+OF 444 FULLY-SUPPLIED BACKPACKS  
+FOR LOCAL CHILDREN IN NEED.Thailand
+MAXIM DONATED 120,000 THAI BAHT  TO  
+MAKE A DIFFERENCE IN A LOCAL SCHOOL IN  
+2018 BY BUYING MUCH NEEDED DINING TABLES, 
+FOOD, FOOD TRAYS FOR THE CAFETERIA,  
+SPORTS EQUIPMENT , AND AIR CONDITIONERS.  
+39 MAXIM EMPLOYEES  VOLUNTEERED THEIR TIME  
+TO HELP WITH INSTALLATION.Philippines
+IN 2018, 45 MAXIM EMPLOYEES VOLUNTEERED 675 
+HOURS  OF THEIR TIME THROUGH BIG BROTHER 
+TUTORIAL SESSIONS AT JAVALERA ELEMENTARY 
+SCHOOL AND TUTORED 60 GRADE 5 AND 6 
+STUDENTS IN ENGLISH AND MATHEMATICS.
+Other highlights (2017 – 2018)
+GIVING BACK TO COMMUNITIES cont.
+February 2019 Report   | 34GRI Content Index6
+February 2019 Report   | 35GRI Content Index
+This table includes a summary of the Global Reporting Initiative’s Sustainability Reporting Standards and Disclosures found in  
+Maxim’s Corporate Responsibility Report, 2018 Annual Report and company websites.
+PRIORITY TOPIC AREAS FOR MAXIM SCOPE TOPIC BOUNDARY
+INSIDE  
+MAXIMOUTSIDE 
+MAXIM
+ANTI-CORRUPTION & ETHICS •  Ethics Code outlining expected behaviors, practices and training (includes anti-corruption)
+EMPLOYEE ATTRACTION & RETENTION • Competition for Talent
+• Employee Engagement & Retention
+• Training & Development
+• Volunteering 
+• Work life Balance
+EMPLOYEE SAFETY & WELLBEING •  Employee Health & Safety
+ENERGY EFFICIENCY & CLIMATE CHANGE • GHG Emissions reduction
+• Energy consumption – renewable and non-renewable
+HUMAN RIGHTS & LABOR ISSUES • Human rights in the Supply Chain
+• Responsible Materials Sourcing
+• Restricted Substances
+• Conflict Minerals
+DIVERSITY & INCLUSION •  Diverse workforce and leadership team
+INTELLECTUAL PROPERTY PROTECTION &  
+COMPETITIVE BEHAVIOR• IP Protection 
+• Anti-competitive behavior
+• Patent Litigation
+PRODUCT LIFE CYCLE MANAGEMENT • Sustainable Product Design/ LCA
+• Product Energy Efficiency
+• Hazardous or harmful materials in products (toxics)
+REGULATORY COMPLIANCE •  Compliance with environmental and social regulations
+SUSTAINABLE ECONOMIC GROWTH • Increasing shareholder value while maximizing other stakeholder benefits
+WASTE & WATER MANAGEMENT • Operational recycling and reuse 
+• Hazardous & non-hazardous solid waste 
+• Toxic emissions
+• E-waste
+• Wastewater effluents
+• Reducing/reusing and recycling water
+• Wastewater complies with regulatory limitsThis report has been 
+prepared in accordance 
+with the GRI Standards: 
+Core Option. We have 
+focused our topic-
+specific standard 
+disclosures on the 
+priority sustainability 
+topics identified 
+through our materiality 
+assessment. 
+These priority topics 
+are outlined in the  
+table along with the 
+scope of each topic 
+(what is relevant  
+about that topic for  
+our business) and the 
+topic boundary.GRI Content Index6
+February 2019 Report   | 36GRI DISCLOSURE 
+NUMBERGRI DISCLOSURE  
+TITLE LOCATION & NOTES ADDITIONAL REFERENCE
+GRI General Disclosures
+ORGANIZATIONAL PROFILE
+GRI 102-1 Name of the organization Maxim Integrated Products, Inc.  
+(NASDAQ: MXIM)SEC Form 10-K
+GRI 102-2 Activities, brands, products,  
+and servicesABOUT MAXIM
+GRI 102-3 Location of headquarters 160 Rio Robles San Jose, California 95134
+GRI 102-4 Location of operations ABOUT MAXIM: OUR GLOBAL OPERATIONS https:/ /www.maximintegrated.com/en/aboutus/worldwide-locations.html
+GRI 102-5 Ownership and legal form See our Annual Report: Part I, Item 1 and Part 2
+GRI 102-6 Markets served See our Annual Report: Part I, Item 1
+GRI 102-7 Scale of the organization ABOUT MAXIM   
+As of June 30, 2018, Maxim had 7,149 employees at over 20 fabrication, manufacturing, 
+engineering, and sales operations worldwide. We reported $2.48 billion in net revenue, generated 
+from sales of over 20,000 products.SEC Form 10-K
+GRI 102-8 Information on employees and other 
+workersSOCIAL PERFORMANCE: OUR GLOBAL WORKFORCE
+GRI 102-9 Supply chain PRODUCTS: EXTENDING HIGH STANDARDS INTO OUR SUPPLY CHAIN  
+Maxim requires a variety of raw materials to manufacture its products and sources from 
+approximately 50 suppliers located in North America, Europe and Asia.
+GRI 102-10 Significant changes to the organization 
+and its supply chainIn fiscal year 2018, Maxim Integrated made no significant changes to the organization’s size, 
+structure, ownership and supply chain.
+GRI 102-11 Precautionary Principle or approach Our precautionary approach is reflected in our Code of Corporate Social Responsibility , our 
+Environmental Policy  and our Enterprise Risk Management approach.Code of Corporate Social Responsibility
+GRI 102-12 External initiatives Maxim Integrated endorses the following voluntary environmental and social charters/ 
+standards/sets of guiding principles:
+• ISO 14001 EMS Standard
+• Responsible Business Alliance (RBA) Code of Conduct                                                                   
+• GRI Sustainability Reporting Standards                                                                                                                                        
+• CDP https:/ /investor.maximintegrated.com/corporate-responsibility/default.aspx
+GRI 102-13 Membership of associations GOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES   
+Maxim Integrated belongs to several industry associations to advance various policy objectives 
+in support of the semiconductor industry. Examples include participating in the Semiconductor 
+Industry Association (SIA) to strengthen U.S. leadership in semiconductor manufacturing, 
+design, and research by working with the U.S. government to encourage policies and regulations 
+that fuel innovation, propel business, and drive international competition. Additionally, we are 
+a member of the World Semiconductor Trade Statistics (WSTS) association, which publishes 
+industry market data on a monthly cadence.  We also collaborate with outside groups such as 
+the Responsible Business Alliance (RBA) which promote trust and underpin our “direct” supply 
+chain relationships.GRI Content Index6
+February 2019 Report   | 37STRATEGY
+GRI 102-14 Statement from senior decision-maker MESSAGE FROM OUR CEO
+ETHICS & INTEGRITY
+GRI 102-16 Values, principles, standards, and 
+norms of behaviorGOVERNANCE & ETHICS: OPERATING ETHICALLY  
+Code of Business Conduct and Ethics  outlines our policy, which applies to the company's 
+employees, officers, and nonemployee directors, including the company's CEO, CFO, and 
+principal accounting officer or controller. Code of Corporate Social Responsibility  is our credo 
+and outlines our ethical, environmental and social commitments to our employees.Learn more about our Corporate Governance policies and practices, 
+and our Board of Directors and committees here: 
+https:/ /investor.maximintegrated.com/corporate-governance/default.aspx
+GRI 102-17 Mechanisms for advice and concerns 
+about ethicsGOVERNANCE & ETHICS: OPERATING ETHICALLY  
+Our Code of Business Conduct and Ethics  outlines the internal and external mechanisms for 
+employees to seek advice about ethical and lawful behavior, and organizational integrity, and to 
+report concerns about unethical or unlawful behavior, and organizational integrity.
+GOVERNANCE
+GRI 102-18 Governance structure GOVERNANCE & ETHICS: CORPORATE GOVERNANCE Learn more about our Corporate Governance policies and practices, 
+and our Board of Directors and committees here: 
+https:/ /investor.maximintegrated.com/corporate-governance/default.aspx
+STAKEHOLDER ENGAGEMENT
+GRI 102-40 List of stakeholder groups Our key stakeholder groups include but are not limited to: current and former Maxim employees 
+and contractors; customers; suppliers and vendors; societies and communities in which we 
+operate; trade associations; and government and regulatory agencies and investors.
+GRI 102-41 Collective bargaining agreements Employees are generally not covered by collective bargaining agreements, only as required by 
+certain local European Country laws (such as France).
+GRI 102-42 Identifying and selecting stakeholders GOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES
+GRI 102-43 Approach to stakeholder engagement GOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES
+GRI 102-44 Key topics and concerns raised Maxim stakeholders have raised several key issues that include but are not limited to: supplier 
+management, conflict minerals, human rights, workers rights, ethics and compliance, waste/
+water/energy use, chemical/gas emissions, climate change, and diversity/inclusion.
+REPORTING PRACTICE
+GRI 102-45 Entities included in the consolidated 
+financial statementsThe Company currently has one operating segment. Enterprise-wide information is provided 
+in accordance with ASC No. 280, Segment Reporting. (SEC Form 10-K, Note 11: Segment 
+Information). Maxim's corporate responsibility report covers topics for all entities included in 
+our financial statements.SEC Form 10-K, Note 11: Segment Information
+GRI 102-46 Defining report content and topic 
+BoundariesGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES   
+We determined the focus of this report through a materiality assessment conducted in 2018, 
+and through ongoing engagement and consultation with our Corporate Responsibility Steering 
+Team, our employees and key external stakeholders such as our customers and investors.GRI DISCLOSURE 
+NUMBERGRI DISCLOSURE  
+TITLE LOCATION & NOTES ADDITIONAL REFERENCEGRI Content Index6
+February 2019 Report   | 38GRI DISCLOSURE 
+NUMBERGRI DISCLOSURE  
+TITLE LOCATION & NOTES ADDITIONAL REFERENCE
+GRI 102-47 List of material topics GOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+Maxim's priority ESG topics include:
+• Anti-Corruption & Ethics
+• Diversity & Inclusion
+• Employee Attraction & Retention
+• Employee Safety & Wellbeing
+• Energy Efficiency & Climate Change
+• Human Rights & Labor Issues
+• Intellectual Property Protection & Competitive Behaviour
+• Product Life Cycle Management/Materials Use
+• Regulatory Compliance
+• Sustainable Economic Growth
+• Waste Management
+• Water Management
+GRI 102-48 Restatements of information Since this is our first Corporate Responsibility Report, this is our first disclosure of baseline ESG 
+data and information.
+GRI 102-49 Changes in reporting Not applicable since this is our first Corporate Responsibility Report.
+GRI 102-50 Reporting period The highlights and metrics shared in this report cover calendar 2017 and 2018, and we provide 
+multi-year trend data where feasible.
+GRI 102-51 Date of most recent report This is our first Corporate Responsibility Report.
+GRI 102-52 Reporting cycle Maxim plans to release an annual Corporate Responsibility Report.
+GRI 102-53 Contact point for questions regarding 
+the reportMaxim's contact point for questions regarding the report is 
+corporate.responsibility@maximintegrated.com .
+GRI 102-54 Claims of reporting in accordance with 
+the GRI StandardsWe self-declare that this report has been prepared in accordance with the GRI Standards: Core 
+Option.
+GRI 102-55 GRI content index This GRI Content Index Table.
+GRI 102-56 External assurance We do not currently have a policy regarding external assurance for our
+CR reporting, and as such, the data and information in our report are not
+externally assured.
+GRI Specific Standard Disclosures – Economic
+TOPIC: ECONOMIC PERFORMANCE
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES SEC Form 10-K
+GRI 201-1 Direct economic value generated  
+and distributedSOCIAL PERFORMANCE: OUR WORKFORCE
+SOCIAL PERFORMANCE: GIVING BACK TO COMMUNITIESSEC Form 10-KGRI Content Index6
+February 2019 Report   | 39GRI DISCLOSURE 
+NUMBERGRI DISCLOSURE  
+TITLE LOCATION & NOTES ADDITIONAL REFERENCE
+GRI 201-3 Defined benefit plan obligations and 
+other retirement plansU.S. employees are automatically enrolled in the Maxim Integrated 401(k) plan when they meet 
+eligibility requirements, unless they decline participation. Maxim also provides defined-benefit 
+pension plans in certain countries. Maxim provides medical benefits to certain former and 
+current employees pursuant to certain retirement agreements. These benefits to individuals are 
+accounted for pursuant to a documented plan under ASC No. 715, Compensation-Retirement 
+Benefits (“ASC 715”). SEC Form 10-K, Note 18: Benefits.SEC Form 10-K, Note 18: Benefits
+GRI 201-4 Financial assistance received from 
+governmentMaxim received tax-benefit incentives from federal, state and local governments around the 
+world. These incentives are commonly available to manufacturing companies with investments 
+in equipment and facilities, employment and R&D.SEC Form 10-K, Note 16: Income Taxes
+TOPIC: ANTI CORRUPTION
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+GOVERNANCE & ETHICS: CORPORATE GOVERNANCE  
+GOVERNANCE & ETHICS: OPERATING ETHICALLY
+GRI 205-1 Operations assessed for risks related 
+to corruptionGOVERNANCE & ETHICS: CORPORATE GOVERNANCE  
+GOVERNANCE & ETHICS: OPERATING ETHICALLY  
+Corruption, extortion, and embezzlement, in any form, are strictly prohibited within any Maxim 
+operations or external suppliers. Evidence of corruption may result in immediate termination as a 
+Maxim supplier and in legal action.Code of Corporate Social Responsibility
+GRI 205-2 Communication and training  
+about anti-corruption policies  
+and proceduresGOVERNANCE & ETHICS: OPERATING ETHICALLY  
+Maxim Integrated enables and requires all employees to receive training regarding ethics and 
+anti-corruption practices on an annual basis. We achieved a 99% completion rate for assigned 
+employees on this training in 2018.
+GRI 205-3 Confirmed incidents of corruption  
+and actions takenIf allegations of corruption are brought to our attention, we work to investigate and resolve 
+them appropriately and disclose material, substantiated incidents as appropriate.
+TOPIC: ANTI COMPETITIVE BEHAVIOR
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES Code of Corporate Social Responsibility
+Code of Business Ethics and Conduct
+GRI 206-1 Legal actions for anti-competitive 
+behavior, anti-trust, and  
+monopoly practicesFor material legal proceedings involving Maxim, SEC Form 10-K, Item 3: Legal Proceedings. SEC Form 10-K, Item 3: Legal Proceedings.
+Specific Standard Disclosures – Environment
+TOPIC: MATERIALS
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES
+GRI 301-2 Recycled input materials used The majority of the purchase materials required to manufacture our products are  
+chemicals. Where feasible, we also collect waste from our processes for reuse and for fuel 
+purposes. During construction projects, we give preference to materials containing recycled 
+products, although we do not currently track the total amount of recycled material purchased 
+for these projects.GRI Content Index6
+February 2019 Report   | 40GRI DISCLOSURE 
+NUMBERGRI DISCLOSURE  
+TITLE LOCATION & NOTES ADDITIONAL REFERENCE
+GRI 301-3 Reclaimed products and their 
+packaging materialsCurrently, we are unable to determine the percentage of products reclaimed by customers or 
+end users. Although we cannot control how customers handle the semiconductors they place 
+in their products, nor their product’s end-of-life issues, we provide information about the 
+substances used in our components so that customers can make informed decisions about  
+end-of-life disposal.
+TOPIC: ENERGY
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES   
+ENVIRONMENTAL PERFORMANCE: MANAGING ENVIRONMENTAL PERFORMANCE
+GRI 302-1 Energy consumption within  
+the organizationENVIRONMENTAL PERFORMANCE: MANAGING ENVIRONMENTAL PERFORMANCE   
+For data on our Energy consumption reduction, please see our 2017 Climate Disclosure Report. https:/ /s21.q4cdn.com/176677460/files/doc_downloads/corp-responsibility/
+CY2017_Carbon-Disclosure-Report.pdf
+GRI 302-3 Energy intensity ENVIRONMENTAL PERFORMANCE: EMISSIONS & ENERGY  
+GRI 302-4 Reduction of energy consumption ENVIRONMENTAL PERFORMANCE: EMISSIONS & ENERGY  
+For data on our Energy consumption reduction, please see our 2017 Climate Disclosure Report.https:/ /s21.q4cdn.com/176677460/files/doc_downloads/corp-responsibility/
+CY2017_Carbon-Disclosure-Report.pdf
+TOPIC: WATER 
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES   
+ENVIRONMENTAL PERFORMANCE: MANAGING ENVIRONMENTAL PERFORMANCE
+GRI 303-3 Water recycled and reused ENVIRONMENTAL PERFORMANCE: CONSERVING WATER
+TOPIC: EMISSIONS
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES   
+ENVIRONMENTAL PERFORMANCE: MANAGING ENVIRONMENTAL PERFORMANCE
+GRI 305-1 Direct (Scope 1) GHG emissions ENVIRONMENTAL PERFORMANCE: EMISSIONS & ENERGY
+GRI 305-2 Energy indirect (Scope 2)  
+GHG emissionsENVIRONMENTAL PERFORMANCE: EMISSIONS & ENERGY
+GRI 305-4 GHG emissions intensity ENVIRONMENTAL PERFORMANCE: EMISSIONS & ENERGY
+GRI 305-5 Reduction of GHG emissions ENVIRONMENTAL PERFORMANCE: EMISSIONS & ENERGY
+TOPIC: EFFLUENTS & WASTE
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+ENVIRONMENTAL PERFORMANCE: MANAGING ENVIRONMENTAL PERFORMANCEhttps:/ /www.maximintegrated.com/en/support/emmi.html
+GRI 306-2 Waste by type and disposal method ENVIRONMENTAL PERFORMANCE: WASTE MANAGEMENT
+GRI 306-3 Significant spills ENVIRONMENTAL PERFORMANCE: WASTE MANAGEMENT  
+No significant spills were recorded during this reporting period.
+TOPIC: ENVIRONMENTAL COMPLIANCE
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+ENVIRONMENTAL PERFORMANCE: MANAGING ENVIRONMENTAL PERFORMANCE  
+Our environmental management system ensures we are in compliance with relevant 
+environmental regulations in all of the regions where we operate.https:/ /www.maximintegrated.com/en/support/emmi.html
+https:/ /s21.q4cdn.com/176677460/files/doc_downloads/corp-responsibility/
+Maxim-Integrated-EMS-Scope.pdf
+GRI 307-1 Non-compliance with environmental 
+laws and regulationsNo significant fines or non-monetary sanctions for non-compliance occurred during this 
+reporting periodGRI Content Index6
+February 2019 Report   | 41GRI DISCLOSURE 
+NUMBERGRI DISCLOSURE  
+TITLE LOCATION & NOTES ADDITIONAL REFERENCE
+TOPIC: SUPPLIER ENVIRONMENTAL ASSESSMENT
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+PRODUCT PERFORMANCE: EXTENDING HIGH STANDARDS INTO OUR SUPPLY CHAINCode of Corporate Social Responsibility
+GRI 308-1 New suppliers that were screened 
+using environmental criteriaAll new suppliers are screened for their adherence to our environmental policies as described in 
+our Code of Corporate Social Responsibility.
+Specific Standard Disclosures – Social
+TOPIC: EMPLOYMENT
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+SOCIAL PERFORMANCE: RECOGNIZING OUR PEOPLE  
+SOCIAL PERFORMANCE: HEALTH, SAFETY & WELLNESShttps:/ /investor.maximintegrated.com/corporate-responsibility/default.
+aspx?section=employees
+GRI 401-1 New employee hires and employee 
+turnoverSOCIAL PERFORMANCE: OUR WORKFORCE  
+We report on our new hires by gender and by region, but turnover is very competitive 
+information in our industry. We manage it closely internally, but it is not something we will 
+disclose at this time. 
+GRI 401-2 Benefits provided to full-time 
+employees that are not provided to 
+temporary or part-time employeesThe following benefits are provided for full-time employees that are not provided to  
+part-time employees:  
+• Healthcare plans for employees and eligible family members  
+• Life and disability insurance  
+• Retirement benefits  
+• Paid time off  
+• Employee discounts  
+• Wellness perks
+TOPIC: OCCUPATIONAL HEALTH AND SAFETY
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+SOCIAL PERFORMANCE: HEALTH, SAFETY & WELLNESShttps:/ /investor.maximintegrated.com/corporate-responsibility/default.
+aspx?section=employees
+GRI 403-2 Types of injury and rates of injury, 
+occupational diseases, lost days, and 
+absenteeism, and number of work-
+related fatalitiesSOCIAL PERFORMANCE: HEALTH, SAFETY & WELLNESS  
+Note that we don’t report on our total incident rate by gender as we don't manage to this 
+metric. Our H&S policies, programs, and training are targeted at all of our employees to ensure 
+we meet our established goals of a 0.40 OSHA-recordable injury rate, 0.20 lost-time injury rate 
+and 4.0 days-away injury rate.
+TOPIC: TRAINING AND EDUCATION
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+SOCIAL PERFORMANCE: INVESTING IN OUR PEOPLEhttps:/ /investor.maximintegrated.com/corporate-responsibility/default.
+aspx?section=employees
+GRI 404-1 Average hours of training per year  
+per employeeSOCIAL PERFORMANCE: INVESTING IN OUR PEOPLE  
+Note we are not able to report on average training hours broken down by gender or by employee 
+category as our systems to not currently track this additional level of detail.
+GRI 404-2 Programs for upgrading employee 
+skills and transition assistance 
+programsSOCIAL PERFORMANCE: INVESTING IN OUR PEOPLE  
+Note that we report on the type and scope of programs Maxim provides to help employees 
+upgrade their skills.  We don't currently offer any programs to facilitate continued employability 
+of employees who leave either through retirement or termination.GRI Content Index6
+February 2019 Report   | 42GRI DISCLOSURE 
+NUMBERGRI DISCLOSURE  
+TITLE LOCATION & NOTES ADDITIONAL REFERENCE
+GRI 404-3 Percentage of employees receiving 
+regular performance and career 
+development reviews100% of our managers are required to conduct annual performance reviews for the employees 
+on their teams and set Individual Development Plans for each employee.
+TOPIC: DIVERSITY AND EQUAL OPPORTUNITY
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES   
+SOCIAL PERFORMANCE: FOSTERING A DIVERSE AND INCLUSIVE WORKPLACEhttps:/ /investor.maximintegrated.com/corporate-responsibility/default.
+aspx?section=employees
+GRI 405-1 Diversity of governance bodies  
+and employeesSOCIAL PERFORMANCE: FOSTERING A DIVERSE AND INCLUSIVE WORKPLACE  
+GOVERNANCE & ETHICS: CORPORATE GOVERNANCE  
+Note that Maxim reports on percentage of individuals within the organization’s governance 
+bodies from a gender perspective, and on our total global workforce by gender and by other 
+indicators of diversity that are relevant to us (such as minority groups).  We do not report on 
+diversity by age group.https:/ /investor.maximintegrated.com/corporate-governance/default.aspx
+GRI 405-2 Ratio of basic salary and remuneration 
+of women to menWe are committed to gender pay equity and conduct pay equity analyses to assess any 
+potential inequalities.
+TOPIC: HUMAN RIGHTS ASSESSMENT
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES   
+GOVERNANCE & ETHICS: OPERATING ETHICALLY  
+PRODUCT PERFORMANCE: EXTENDING HIGH STANDARDS INTO OUR SUPPLY CHAINhttps:/ /investor.maximintegrated.com/corporate-responsibility/default.aspx
+GRI 412-2 Employee training on human rights 
+policies or procedures99% of assigned employees completed Harassment Prevention training in 2018
+TOPIC: LOCAL COMMUNITIES
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+SOCIAL PERFORMANCE: GIVING BACK TO COMMUNITIEShttps:/ /investor.maximintegrated.com/corporate-responsibility/default.aspx
+GRI 413-1 Operations with local community 
+engagement, impact assessments, and 
+development programsSOCIAL PERFORMANCE: GIVING BACK TO COMMUNITIE S 
+All of our operations have community engagement and investment programs in place.
+TOPIC: SUPPLIER SOCIAL ASSESSMENT
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES   
+GOVERNANCE & ETHICS: CORPORATE RESPONSIBILITY GOVERNANCE  
+PRODUCT PERFORMANCE: EXTENDING HIGH STANDARDS INTO OUR SUPPLY CHAINCode of Corporate Social Responsibility
+GRI 414-1 New suppliers that were screened 
+using social criteriaAll new suppliers are screened for their adherence to our human rights, slavery, and human 
+trafficking policies as described in our Code of Business Conduct and Ethics and Code of 
+Corporate Social Responsibility.https:/ /investor.maximintegrated.com/corporate-responsibility/default.aspx
+TOPIC: PUBLIC POLICY
+GRI 415-1 Political contributions Maxim does not participate in political contribution activity, whether directly or indirectly.
+TOPIC: CUSTOMER HEALTH & SAFETYGRI Content Index6
+February 2019 Report   | 43GRI DISCLOSURE 
+NUMBERGRI DISCLOSURE  
+TITLE LOCATION & NOTES ADDITIONAL REFERENCE
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES  
+PRODUCT PERFORMANCE: DEVELOPING MORE SUSTAINABLE PRODUCTS  
+Our Environmental Management System  ensures that our design, manufacturing, testing, 
+marketing and sales of analog/mixed-signal semiconductor products meet compliance 
+obligations and our Product Sustainability Program  is dedicated to support and ensure 
+regulatory compliance for Maxim products.Learn more about our Statements and Notices on Environmental 
+Product Regulations and Topics here: 
+https:/ /www.maximintegrated.com/en/support/emmi.html/tb_tab5
+https:/ /www.maximintegrated.com/content/dam/files/design/emmi/
+environmental-substances-policy.pdf
+GRI 416-1 Assessment of the health and  
+safety impacts of product and  
+service categories100% of our products go through our Product Sustainability Program  for which health and 
+safety impacts are assessed for improvement.   This process ensures we are in compliance with 
+relevant regulations around substances of concern (REACH, RoHS, ELV, Battery Directive). 
+Maxim's Policy on Restricted and Hazardous Substances defines the policy and procedures 
+of Maxim Integrated with respect to banned and restricted substances to provide a product 
+compliant with applicable environmental product regulations and requirements.https:/ /www.maximintegrated.com/en/support/emmi.html/tb_tab5
+https:/ /www.maximintegrated.com/content/dam/files/design/emmi/
+environmental-substances-policy.pdf
+GRI 416-2 Incidents of non-compliance 
+concerning the health and safety 
+impacts of products and servicesNo incidents of non-compliance with regulations and/or voluntary codes were identified during 
+this reporting period.
+TOPIC: SOCIOECONOMIC COMPLIANCE
+GRI 103-1 to 103-3 Explanation of the material topic and 
+its BoundaryGOVERNANCE & ETHICS: ASSESSING EMERGING ISSUES                                                                            
+Our management system for ensuring we are in compliance with relevant social and  
+economic regulations in all regions where we operate is outlined in our Code of Corporate  
+Social ResponsibilityCode of Corporate Social Responsibility
+GRI 419-1 Non-compliance with laws and 
+regulations in the social and  
+economic areaNo significant fines or non-monetary sanctions for non-compliance occurred during this 
+reporting period
+The information contained in this report is 
+accurate as of approximately February 26, 
+2019, unless a different date is used in this 
+report. The information is subject to change, 
+and Maxim may update, amend, supplement, 
+or otherwise alter such information in 
+subsequent reports or filings.ABOUT THIS REPORT
+This report contains forward-looking statements 
+based on our current expectations, estimates, 
+and projections about our industry, and our 
+management’s beliefs and assumptions. We caution 
+readers that these statements are merely predictions 
+and are not guarantees of future results. Actual 
+events may differ materially, perhaps adversely. 
+Our Annual Report on Form 10-K, subsequent 
+Quarterly Reports on Form 10-Q, Current Reports 
+on Form 8-K, and other filings made with the U.S. Securities and Exchange Commission discuss some 
+of the important risk factors that could contribute 
+to differences between projections and outcomes, 
+which could affect our business, operational results, 
+and financial condition. Maxim undertakes no 
+obligation to update forward-looking statements and 
+disclaims any obligation to do so except as required 
+by applicable laws.
+Copyright © February 26, 2019 Maxim Integrated Products, Inc.
