@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 from urllib.parse import urlparse
 import pandas as pd
-
+import re
 from util.my_request import make_request
 # Read company names from txt file and process each line
 company_list = []
@@ -12,13 +12,11 @@ for _, row in df.iterrows():
     tic, conm, cik = row['tic'], row['conm'], row['cik']
     # Remove leading and trailing spaces, quotes, and commas
     company_name = conm.strip().strip(',').strip('\"\'')
-    if company_name:
-        company_list.append(company_name)
-
-for company_to_search in company_list:
+    print( tic, conm, cik)
+    company_to_search = company_name
     
     # URL for company page
-    company_url = f"https://www.responsibilityreports.com/Companies?search={company_to_search}"
+    company_url = f"https://www.responsibilityreports.com/Companies?search={tic}"
 
     # Request company list page
     # response = requests.get(company_url)
@@ -29,19 +27,11 @@ for company_to_search in company_list:
 
     # Find all company links
     company_links = soup.select(".apparel_stores_company_list .companyName a")
-    if_continue = False
+    # if_continue = False
     # Iterate over each company link
     for link in company_links:
         company_name = link.text.strip()
         print(f"{company_name=} read start")
-
-        
-        if company_name == 'ERM Group' and not if_continue:
-            if_continue = True
-        elif if_continue:
-            pass
-        else:
-            continue
             
         company_url = "https://www.responsibilityreports.com" + link["href"]
         
@@ -56,7 +46,7 @@ for company_to_search in company_list:
         pdf_links = pdf_list_soup.select(".archived_report_content_block .btn_archived.view_annual_report a")
         
         # Create a directory to store the PDF files
-        directory = "./data/report_pdf/" + company_name
+        directory = "./data/report_pdf"
         print(f"{directory=}")
         os.makedirs(directory, exist_ok=True)
         
@@ -68,7 +58,19 @@ for company_to_search in company_list:
             parsed_url = urlparse(pdf_url)
             pdf_file_name = os.path.basename(parsed_url.path)
             pdf_file_name = pdf_file_name.replace("\\", "-").replace("/","-")
+            match = re.search(r"_(\d{4})", pdf_file_name)
+            year = ""
+            if match:
+                year = match.group(1)
+                print(year)  # 输出: 2021
+            else:
+                print("未找到匹配的部分")
+
+            the_name = f"{str(tic)}_{str(year)}_csr"
+            print(f"{the_name=}")
+
             if pdf_file_name:
+                pdf_file_name = the_name + "__" + pdf_file_name
                 print(f"{parsed_url=} {pdf_url=} {pdf_file_name=}")
                 pdf_file_path = os.path.join(directory, pdf_file_name)
                 # Download the PDF file

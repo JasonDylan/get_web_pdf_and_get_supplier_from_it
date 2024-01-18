@@ -42,69 +42,82 @@ df = pd.read_csv('input/sp500cik.csv')
 # Create empty DataFrame to store the extracted data
 data = pd.DataFrame(columns=['tic', 'conm', 'cik', 'form_url', 'text'])
 
-for _, row in df.iterrows():
-    tic, conm, cik = row['tic'], row['conm'], row['cik']
-
+# for _, row in df.iterrows():
+#     tic, conm, cik = row['tic'], row['conm'], row['cik']
+for tic,cik in zip(["BG", "KVUE",], ["1996862", "1944048", ]):
     # Create directory for saving files
-    save_dir = f"./data/EDGAR/ORG/{tic}_{cik}"
+    save_dir = f"./data/10k_rest_2"
     os.makedirs(save_dir, exist_ok=True)
 
     cik_10 = str(cik).zfill(10)
-    company_info_json_url = f"https://data.sec.gov/submissions/CIK{cik_10}.json"
+    start_submision_num = 1
+    while True:
+        filename = f"CIK{cik_10}-submissions-{str(start_submision_num).zfill(3)}.json"
+        company_info_json_url = f"https://data.sec.gov/submissions/{filename}"
 
-    # Retrieve company info JSON
-    response = make_request(company_info_json_url, "GET", headers=headers, data=payload)
-    company_info_json = json.loads(response.text)
+        # Retrieve company info JSON
+        response = make_request(company_info_json_url, "GET", headers=headers, data=payload)
+        if response:
+            print(f"{response.status_code=}")
+        else:
+            break
+        if response.status_code==200:
+            company_info_json = json.loads(response.text)
 
-    # Save company info JSON to file
-    filename = f"CIK{cik_10}.json"
-    with open(f"./data/EDGAR/JSON/{filename}", 'w') as file:
-        json.dump(company_info_json, file)
-        print(f"JSON data saved to {filename}")
+            # Save company info JSON to file
+            with open(f"./data/EDGAR/JSON/{filename}", 'w') as file:
+                json.dump(company_info_json, file)
+                print(f"JSON data saved to {filename}")
 
-    filings = company_info_json['filings']
-    if 'recent' in filings:
-        recent_filing = filings['recent']
-        accessionNumber = recent_filing['accessionNumber']
-        reportDate = recent_filing['reportDate']
-        form = recent_filing['form']
-        primaryDocument = recent_filing['primaryDocument']
+            filings = company_info_json
+            if 'accessionNumber' in filings:
+                recent_filing = company_info_json
+                accessionNumber = recent_filing['accessionNumber']
+                reportDate = recent_filing['reportDate']
+                form = recent_filing['form']
+                primaryDocument = recent_filing['primaryDocument']
 
-        for a_accessionNumber, a_reportDate, a_form_type, a_primaryDocument in zip(accessionNumber, reportDate, form, primaryDocument):
-            if a_form_type in need_form_types:
-                form_url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{a_accessionNumber.replace('-', '')}/{a_primaryDocument}"
-                file_name = str(tic.replace(" ", "_")) +"_"+ str(conm.replace(" ", "_"))+"_"+str(a_reportDate.replace("-","_"))+"_"+ a_primaryDocument.split(".")[0]
-                
-                if file_name == "CLX_CLOROX_CO/DE_2023_06_30_clx-20230630.html":
-                    print(f"{file_name=}")
-                file_name = file_name.replace("\\", "-").replace("/","-")
-                # Retrieve form HTML
-                response_form = make_request(form_url, "GET", headers=headers, data=payload)
-                html = response_form.text
-                
-                # Save HTML file
-                html_file_path = os.path.join(save_dir, f"{file_name}.html")
-                with open(html_file_path, 'w', encoding='utf-8') as file:
-                    file.write(html)
-                    print(f"HTML file saved to {html_file_path}")
+                for a_accessionNumber, a_reportDate, a_form_type, a_primaryDocument in zip(accessionNumber, reportDate, form, primaryDocument):
+                    if a_form_type in need_form_types:
+                        form_url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{a_accessionNumber.replace('-', '')}/{a_primaryDocument}"
+                        if a_reportDate:
+                            year = str(a_reportDate.replace("-",""))
+                        else:
+                            year = "00000000"
+                        file_name =  f"{str(tic)}_{str(year)}_10k"
+                        
+                        # Retrieve form HTML
+                        response_form = make_request(form_url, "GET", headers=headers, data=payload)
+                        if response_form:
+                            html = response_form.text
+                            
+                            # Save HTML file
+                            # html_file_path = os.path.join(save_dir, f"{file_name}.html")
+                            # with open(html_file_path, 'w', encoding='utf-8') as file:
+                            #     file.write(html)
+                            #     print(f"HTML file saved to {html_file_path}")
 
-                # Extract text from HTML
-                text = extract_text_from_html(html)
-                if text:
-                    # Save text to file
-                    text_file_path = os.path.join(save_dir, f"{file_name}.txt")
-                    with open(text_file_path, 'w', encoding='utf-8') as file:
-                        file.write(text)
-                        print(f"Text file saved to {text_file_path}")
-                else:
-                    print("Failed to extract text from HTML.")
-                    text = ""
+                            # Extract text from HTML
+                            text = extract_text_from_html(html)
+                            if text:
+                                # Save text to file
+                                text_file_path = os.path.join(save_dir, f"{file_name}.txt")
+                                with open(text_file_path, 'w', encoding='utf-8') as file:
+                                    file.write(text)
+                                    print(f"Text file saved to {text_file_path}")
+                            else:
+                                print("Failed to extract text from HTML.")
+                                text = ""
 
-                # Append data to DataFrame
-                data = data.append({'tic': tic, 'conm': conm, 'cik': cik, 'form_url': form_url, 'text': text}, ignore_index=True)
-    else:
-        print("No recent filings found for the company.")
+                            # Append data to DataFrame
+                            data = data.append({'tic': tic, 'conm': conm, 'cik': cik, 'form_url': form_url, 'text': text}, ignore_index=True)
+            else:
+                print("No recent filings found for the company.")
+            start_submision_num+=1
+        else:
+            print("No recent filings found for the company.")
+            break
 
 # Save data to Excel and CSV files
-data.to_excel('output/data.xlsx', index=False)
-data.to_csv('output/data.csv', index=False)
+data.to_excel('output/data_rest.xlsx', index=False)
+data.to_csv('output/data_rest.csv', index=False)
