@@ -8,26 +8,6 @@ import subprocess
 # 本文件与ChopDocuments.py 功能重复了
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# @timeout_decorator.timeout(100)
-# def pdf_to_text(pdf_path, output_folder):
-#     try:
-#         base_name = os.path.basename(pdf_path)
-#         file_name, _ = os.path.splitext(base_name)
-#         output_path = os.path.join(output_folder, f"{file_name}_CSR.txt")
-
-#         # 打开输出文件并准备写入
-#         with open(output_path, 'w', encoding='utf-8') as f:
-#             with pdfplumber.open(pdf_path) as pdf:
-#                 # 逐页处理PDF
-#                 for page in pdf.pages:
-#                     text = page.extract_text() + '\\n'
-#                     f.write(text)  # 将每页的文本写入文件
-
-#         logging.info(f"Text saved to {output_path}")
-#     except Exception as e:
-#         logging.error(f"Error converting PDF to text: {e}")
-
-
 def pdf_to_text(pdf_path, output_folder):
     try:
         base_name = os.path.basename(pdf_path)
@@ -76,7 +56,7 @@ def convert_files_in_batches(folder_path, output_folder, batch_size=10):
         time.sleep(1)  # 防止过快处理导致的内存问题
 
 # 使用示例
-folder_path = 'data\\report_pdf\\PDF'  # 替换为您的PDF和HTML文件所在的文件夹路径
+folder_path = r'D:\Users\sjc\get_web_pdf_and_get_supplier_from_it\data\report_pdf_test'  # 替换为您的PDF和HTML文件所在的文件夹路径
 output_folder = folder_path + "_Convert_Txts"
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)

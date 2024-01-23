@@ -7,12 +7,15 @@ import re
 from util.my_request import make_request
 # Read company names from txt file and process each line
 company_list = []
+
 df = pd.read_csv('input/sp500cik.csv')
-for _, row in df.iterrows():
+for idx, row in df.iterrows():
+    if idx < 51:
+        continue
     tic, conm, cik = row['tic'], row['conm'], row['cik']
     # Remove leading and trailing spaces, quotes, and commas
     company_name = conm.strip().strip(',').strip('\"\'')
-    print( tic, conm, cik)
+    print( f"{idx=} {tic=}, {conm=}, {cik=}")
     company_to_search = company_name
     
     # URL for company page
@@ -46,7 +49,7 @@ for _, row in df.iterrows():
         pdf_links = pdf_list_soup.select(".archived_report_content_block .btn_archived.view_annual_report a")
         
         # Create a directory to store the PDF files
-        directory = "./data/report_pdf"
+        directory = "./data/report_pdf_test"
         print(f"{directory=}")
         os.makedirs(directory, exist_ok=True)
         
@@ -58,24 +61,25 @@ for _, row in df.iterrows():
             parsed_url = urlparse(pdf_url)
             pdf_file_name = os.path.basename(parsed_url.path)
             pdf_file_name = pdf_file_name.replace("\\", "-").replace("/","-")
-            match = re.search(r"_(\d{4})", pdf_file_name)
-            year = ""
-            if match:
-                year = match.group(1)
-                print(year)  # 输出: 2021
-            else:
-                print("未找到匹配的部分")
+            # match = re.search(r"_(\d{4})", pdf_file_name)
+            # year = ""
+            # if match:
+            #     year = match.group(1)
+            #     print(year)  # 输出: 2021
+            # else:
+            #     print("未找到匹配的部分")
 
-            the_name = f"{str(tic)}_{str(year)}_csr"
-            print(f"{the_name=}")
+            # the_name = f"{str(tic)}_{str(year)}_csr"
+            # print(f"{the_name=}")
 
             if pdf_file_name:
-                pdf_file_name = the_name + "__" + pdf_file_name
-                print(f"{parsed_url=} {pdf_url=} {pdf_file_name=}")
+                # pdf_file_name = the_name + "__" + pdf_file_name
+                print(f"{pdf_url=} {pdf_file_name=}")
                 pdf_file_path = os.path.join(directory, pdf_file_name)
                 # Download the PDF file
                 # pdf_response = requests.get(pdf_url)
                 pdf_response = make_request(pdf_url, "GET", headers={}, data={})
-                with open(pdf_file_path, "wb") as pdf_file:
-                    pdf_file.write(pdf_response.content)
+                if pdf_response and pdf_response.content:
+                    with open(pdf_file_path, "wb") as pdf_file:
+                        pdf_file.write(pdf_response.content)
         print(f"{company_name=} read done")
