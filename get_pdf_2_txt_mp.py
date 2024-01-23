@@ -7,6 +7,25 @@ from urllib.parse import urlparse
 import pdfplumber
 import multiprocessing
 
+def output_folder_has_no_pdf(output_folder, pdf_file_name):
+  """检查输出文件夹中是否没有指定名称的 PDF 文件。
+
+  Args:
+    output_folder: 输出文件夹的路径。
+    pdf_file_name: PDF 文件的名称。
+
+  Returns:
+    如果输出文件夹中没有指定名称的 PDF 文件，则返回 True，否则返回 False。
+  """
+
+  # 获取输出文件夹中所有 PDF 文件的名称。
+  pdf_file_names = os.listdir(output_folder)
+
+  # 检查输出文件夹中是否有指定名称的 PDF 文件。
+  if pdf_file_name in pdf_file_names:
+    return False
+  else:
+    return True
 
 def process_company(df, process_id):
     completed_tasks = 0
@@ -54,13 +73,18 @@ def process_company(df, process_id):
             # Iterate over each PDF link and convert to text
             for pdf_link in pdf_links:
                 pdf_url = "https://www.responsibilityreports.com" + pdf_link["href"]
-
+                
+                output_folder = "./data/pdf_files"
+                parsed_url = urlparse(pdf_url)
+                pdf_file_name = os.path.basename(parsed_url.path)
+                pdf_file_name = pdf_file_name.replace("\\", "-").replace("/", "-")
                 # Save PDF to file
-                save_pdf_to_file(pdf_url)
+                if output_folder_has_no_pdf(output_folder, pdf_file_name):
+                    save_pdf_to_file(pdf_url)
 
                 # Convert PDF to text
-                pdf_file_path = get_pdf_file_path(pdf_url)
-                pdf_to_text(pdf_file_path)
+                # pdf_file_path = get_pdf_file_path(pdf_url)
+                # pdf_to_text(pdf_file_path)
             print(f"Process {process_id}:----------{tic=}  {company_name=} read done")
         completed_tasks += 1
         print(f"Process {process_id}:---------------------{tic=} Completed {completed_tasks}/{total_tasks}  tasks")
