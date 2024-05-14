@@ -44,7 +44,7 @@ data = pd.DataFrame(columns=['tic', 'conm', 'cik', 'form_url', 'text'])
 
 # for _, row in df.iterrows():
 #     tic, conm, cik = row['tic'], row['conm'], row['cik']
-for tic,cik in zip(["BG", "KVUE",], ["1996862", "1944048", ]):
+for tic,cik in zip(["BG", "KVUE", "VLTO"], ["1996862", "1944048", "1967680"]):
     # Create directory for saving files
     save_dir = f"./data/10k_rest_2"
     os.makedirs(save_dir, exist_ok=True)
@@ -52,7 +52,8 @@ for tic,cik in zip(["BG", "KVUE",], ["1996862", "1944048", ]):
     cik_10 = str(cik).zfill(10)
     start_submision_num = 1
     while True:
-        filename = f"CIK{cik_10}-submissions-{str(start_submision_num).zfill(3)}.json"
+        # filename = f"CIK{cik_10}-submissions-{str(start_submision_num).zfill(3)}.json"
+        filename = f"CIK{cik_10}.json"
         company_info_json_url = f"https://data.sec.gov/submissions/{filename}"
 
         # Retrieve company info JSON
@@ -110,7 +111,7 @@ for tic,cik in zip(["BG", "KVUE",], ["1996862", "1944048", ]):
                                 text = ""
 
                             # Append data to DataFrame
-                            data = data.append({'tic': tic, 'conm': conm, 'cik': cik, 'form_url': form_url, 'text': text}, ignore_index=True)
+                            # data = data.append({'tic': tic, 'conm': conm, 'cik': cik, 'form_url': form_url, 'text': text}, ignore_index=True)
             else:
                 print("No recent filings found for the company.")
             start_submision_num+=1
@@ -119,5 +120,5 @@ for tic,cik in zip(["BG", "KVUE",], ["1996862", "1944048", ]):
             break
 
 # Save data to Excel and CSV files
-data.to_excel('output/data_rest.xlsx', index=False)
-data.to_csv('output/data_rest.csv', index=False)
+# data.to_excel('output/data_rest.xlsx', index=False)
+# data.to_csv('output/data_rest.csv', index=False)
