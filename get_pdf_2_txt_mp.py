@@ -56,10 +56,10 @@ def process_company(df, process_id):
         company_links = soup.select(".apparel_stores_company_list .companyName a")
 
         # Iterate over each company link
-        print(f"---Process {process_id}: {tic=} {len(company_links)=}")
+        # print(f"---Process {process_id}: {tic=} {len(company_links)=}")
         for link in company_links:
             company_name = link.text.strip()
-            print(f"Process {process_id}: {tic=} {company_name=} read start")
+            # print(f"Process {process_id}: {tic=} {company_name=} read start")
 
             company_url = "https://www.responsibilityreports.com" + link["href"]
 
@@ -85,11 +85,13 @@ def process_company(df, process_id):
                 # Save PDF to file
                 if output_folder_has_no_pdf(output_folder, pdf_file_name):
                     save_pdf_to_file(pdf_url)
+                else:
+                    print(f"{pdf_file_name=} already have")
 
                 # Convert PDF to text
                 # pdf_file_path = get_pdf_file_path(pdf_url)
                 # pdf_to_text(pdf_file_path)
-            print(f"Process {process_id}:----------{tic=}  {company_name=} read done")
+            # print(f"Process {process_id}:----------{tic=}  {company_name=} read done")
         completed_tasks += 1
         print(
             f"Process {process_id}:---------------------{tic=} Completed {completed_tasks}/{total_tasks}  tasks"
