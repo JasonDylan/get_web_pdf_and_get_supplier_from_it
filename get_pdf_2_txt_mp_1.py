@@ -12,22 +12,22 @@ from tqdm.contrib.concurrent import process_map, thread_map
 from util.my_request import make_request
 
 
-def output_folder_has_no_pdf(output_folder, pdf_file_name):
+def output_folder_has_no_file(output_folder, file_name):
     """检查输出文件夹中是否没有指定名称的 PDF 文件。
 
     Args:
       output_folder: 输出文件夹的路径。
-      pdf_file_name: PDF 文件的名称。
+      file_name: PDF 文件的名称。
 
     Returns:
       如果输出文件夹中没有指定名称的 PDF 文件，则返回 True，否则返回 False。
     """
 
     # 获取输出文件夹中所有 PDF 文件的名称。
-    pdf_file_names = os.listdir(output_folder)
+    file_names = os.listdir(output_folder)
 
     # 检查输出文件夹中是否有指定名称的 PDF 文件。
-    if pdf_file_name in pdf_file_names:
+    if file_name in file_names:
         return False
     else:
         return True
@@ -95,45 +95,45 @@ def process_company(df, process_id):
                             )
 
                             parsed_url = urlparse(pdf_url)
-                            pdf_file_name = os.path.basename(parsed_url.path)
-                            pdf_file_name = pdf_file_name.replace("\\", "-").replace(
-                                "/", "-"
-                            )
-                            # Save PDF to file
-                            if output_folder_has_no_pdf(
-                                output_folder="./data/pdf_files",
-                                pdf_file_name=pdf_file_name,
-                            ):
-                                response, pdf_file_name = (
-                                    make_request_and_get_file_name(pdf_url)
-                                )
-                                save_pdf_to_file(
-                                    response,
-                                    pdf_file_name,
-                                    output_folder="./data/pdf_files",
-                                )
-                                save_pdf_to_file(
-                                    response,
-                                    pdf_file_name,
-                                    output_folder="./data/pdf_new_files",
-                                )
-                            else:
-                                print(f"input {pdf_file_name=} already have")
-                                if output_folder_has_no_pdf(
-                                    output_folder="./data/pdf_new_files",
-                                    pdf_file_name=pdf_file_name,
-                                ):
-                                    copy_pdf_to_new_dir(
-                                        pdf_file_name,
-                                        output_folder="./data/pdf_new_files",
-                                        input_folder="./data/pdf_files",
-                                    )
-                                else:
-                                    print(f"output {pdf_file_name=} already have")
+                            file_name = os.path.basename(parsed_url.path)
+                            file_name = file_name.replace("\\", "-").replace("/", "-")
+                            # # Save PDF to file
+                            # if output_folder_has_no_file(
+                            #     output_folder="./data/pdf_files",
+                            #     file_name=file_name,
+                            # ):
+                            #     response, file_name = (
+                            #         make_request_and_get_file_name(pdf_url)
+                            #     )
+                            #     save_pdf_to_file(
+                            #         response,
+                            #         file_name,
+                            #         output_folder="./data/pdf_files",
+                            #     )
+                            #     save_pdf_to_file(
+                            #         response,
+                            #         file_name,
+                            #         output_folder="./data/pdf_new_files",
+                            #     )
+                            # else:
+                            #     print(f"input {file_name=} already have")
+                            #     if output_folder_has_no_file(
+                            #         output_folder="./data/pdf_new_files",
+                            #         file_name=file_name,
+                            #     ):
+                            #         copy_file_to_new_dir(
+                            #             file_name,
+                            #             output_folder="./data/pdf_new_files",
+                            #             input_folder="./data/pdf_files",
+                            #         )
+                            #     else:
+                            #         print(f"output {file_name=} already have")
 
-                        # Convert PDF to text
-                        # pdf_file_path = get_pdf_file_path(pdf_url, folder_name="./data/pdf_files")
-                        # pdf_to_text(pdf_file_path)
+                            # Convert PDF to text
+                            pdf_file_path = get_file_path(
+                                pdf_url, folder_name="./data/pdf_new_files"
+                            )
+                            pdf_to_text(pdf_file_path)
                     # print(f"Process {process_id}:----------{tic=}  {company_name=} read done")
                     else:
                         print(f"no pdf {company_url=}")
@@ -151,84 +151,104 @@ def process_company(df, process_id):
         print(f"{process_id} is Done")
 
 
-def copy_pdf_to_new_dir(pdf_file_name, output_folder, input_folder):
+def copy_file_to_new_dir(file_name, output_folder, input_folder):
     """将PDF文件从输入文件夹复制到输出文件夹。
 
     Args:
-        pdf_file_name: PDF 文件的名称。
+        file_name: PDF 文件的名称。
         output_folder: 输出文件夹的路径。
         input_folder: 输入文件夹的路径。
     """
     try:
-        if pdf_file_name:
+        if file_name:
             # 构建输入文件路径
-            input_path = os.path.join(input_folder, pdf_file_name)
+            input_path = os.path.join(input_folder, file_name)
             # 构建输出文件路径
-            output_path = os.path.join(output_folder, pdf_file_name)
+            output_path = os.path.join(output_folder, file_name)
             # 确保输出文件夹存在
             os.makedirs(output_folder, exist_ok=True)
             # 复制文件
             shutil.copyfile(input_path, output_path)
-            print(f"PDF copied to: {output_path}")
+            print(f"file copied to: {output_path}")
     except Exception as e:
-        print(f"Error copying PDF: {e}")
+        print(f"Error copying file: {e}")
 
 
 def make_request_and_get_file_name(pdf_url):
 
     # Send request to download PDF
-    pdf_file_name = None
+    file_name = None
     response = make_request(pdf_url, "GET", headers={}, data={})
     if response and response.content:
         # Extract file name from URL
         parsed_url = urlparse(pdf_url)
-        pdf_file_name = os.path.basename(parsed_url.path)
-        pdf_file_name = pdf_file_name.replace("\\", "-").replace("/", "-")
+        file_name = os.path.basename(parsed_url.path)
+        file_name = file_name.replace("\\", "-").replace("/", "-")
 
-    return response, pdf_file_name
+    return response, file_name
 
 
-def save_pdf_to_file(response, pdf_file_name, output_folder):
+def save_pdf_to_file(response, file_name, output_folder):
     try:
-        if pdf_file_name:
+        if file_name:
             # Save PDF to file
             os.makedirs(output_folder, exist_ok=True)
-            output_path = os.path.join(output_folder, pdf_file_name)
+            output_path = os.path.join(output_folder, file_name)
             with open(output_path, "wb") as file:
                 file.write(response.content)
-                print(f"PDF saved: {pdf_file_name}")
+                print(f"PDF saved: {file_name}")
     except Exception as e:
         print(f"Error saving PDF: {e}")
 
 
-def get_pdf_file_path(pdf_url, folder_name="./data/pdf_files"):
+def get_file_path(pdf_url, folder_name="./data/pdf_files"):
     parsed_url = urlparse(pdf_url)
-    pdf_file_name = os.path.basename(parsed_url.path)
-    pdf_file_name = pdf_file_name.replace("\\", "-").replace("/", "-")
-    pdf_file_path = os.path.join(folder_name, pdf_file_name)
+    file_name = os.path.basename(parsed_url.path)
+    file_name = file_name.replace("\\", "-").replace("/", "-")
+    pdf_file_path = os.path.join(folder_name, file_name)
     return pdf_file_path
 
 
 def pdf_to_text(pdf_file_path):
 
     # Save text to TXT file
-    os.makedirs("./data/text_files", exist_ok=True)
+    os.makedirs("./data/text_new_files", exist_ok=True)
     try:
-        with pdfplumber.open(pdf_file_path) as pdf:
-            pages_text = []
-            for page in pdf.pages:
-                text = page.extract_text()
-                pages_text.append(text)
-            extracted_text = "\n".join(pages_text)
+        output_folder = "./data/text_new_files"
+        file_name = os.path.splitext(os.path.basename(pdf_file_path))[0]
+        output_path = os.path.join(output_folder, f"{file_name}.txt")
 
-            if extracted_text:
-                file_name = os.path.splitext(os.path.basename(pdf_file_path))[0]
-                output_path = os.path.join(output_folder, f"{file_name}.txt")
-                with open(output_path, "w", encoding="utf-8") as file:
-                    file.write(extracted_text)
-                    print(f"----------Text saved for {pdf_file_path}")
+        if output_folder_has_no_file(
+            output_folder="./data/text_files",
+            file_name=f"{file_name}.txt",
+        ):
+            with pdfplumber.open(pdf_file_path) as pdf:
+                pages_text = []
+                for page in pdf.pages:
+                    text = page.extract_text()
+                    pages_text.append(text)
+                extracted_text = "\n".join(pages_text)
+
+                if extracted_text:
+                    with open(output_path, "w", encoding="utf-8") as file:
+                        file.write(extracted_text)
+                    print(f"----------Text  {output_path} saved for {pdf_file_path}")
+                else:
+                    print(f"Failed to extract text from {pdf_file_path}")
+        else:
+            print(f"input {file_name=} already have")
+            if output_folder_has_no_file(
+                output_folder="./data/pdf_new_files",
+                file_name=f"{file_name}.txt",
+            ):
+                copy_file_to_new_dir(
+                    file_name=f"{file_name}.txt",
+                    output_folder="./data/text_new_files",
+                    input_folder="./data/text_files",
+                )
             else:
-                print(f"Failed to extract text from {pdf_file_path}")
+                print(f"output {file_name=} already have")
+
     except Exception as e:
         print(f"Error extracting text from PDF: {e}")
 
@@ -247,10 +267,10 @@ def process_company_batch(args):
 
 
 if __name__ == "__main__":
-    # df = pd.read_csv("uscik.csv")
-    # print("uscik.csv")
-    df = pd.read_csv("missing_tic_1.csv")
-    print("missing_tic.csv_1")
+    df = pd.read_csv("uscik.csv")
+    print("uscik.csv")
+    # df = pd.read_csv("missing_tic_1.csv")
+    # print("missing_tic.csv_1")
     num_processes = 32
 
     # Exclude completed rows

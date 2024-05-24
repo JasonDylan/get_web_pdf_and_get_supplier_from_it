@@ -2,6 +2,7 @@ import json
 
 import requests
 from bs4 import BeautifulSoup
+
 from util.my_request import make_request
 
 
@@ -43,9 +44,7 @@ headers = {
 need_form_types = ["10-K"]
 
 # Read data from CSV
-df = pd.read_csv(
-    "/home/junchengshen/code/get_web_pdf_and_get_supplier_from_it/input/sp500cik.csv"
-)
+df = pd.read_csv("./input/sp500cik.csv")
 
 # Create empty DataFrame to store the extracted data
 data = pd.DataFrame(columns=["tic", "conm", "cik", "form_url", "text"])
@@ -58,23 +57,28 @@ def create_folder_if_not_exists(folder_path):
     else:
         print(f"Folder '{folder_path}' already exists.")
 
+    # 指定文件夹路径 如果需要重新全跑，取消下面的两行注释，把后三行给注释 #TODO
 
-# 指定文件夹路径 如果需要重新全跑，取消下面的两行注释，把后三行给注释 #TODO
-# for _, row in df.iterrows():
-#     tic, conm, cik = row['tic'], row['conm'], row['cik']
-for tic, cik in zip(
-    ["BG", "KVUE", "VLTO"], ["1996862", "1944048", "1967680"]
-):  # 修改为指定内容
-    # Create directory for saving files
-    save_dir = f"./data/10k_rest_2"  # 保存到未完成的部分
-    create_folder_if_not_exists(save_dir)
 
-    create_folder_if_not_exists("./data/EDGAR/JSON/")
+save_dir = f"./data/10k_rest_2"  # 保存到未完成的部分
+create_folder_if_not_exists(save_dir)
+
+create_folder_if_not_exists("./data/EDGAR/JSON/")
+
+
+for _, row in df.iterrows():
+    tic, conm, cik = row["tic"], row["conm"], row["cik"]
     cik_10 = str(cik).zfill(10)
     start_submision_num = 1
     while True:
-        # filename = f"CIK{cik_10}-submissions-{str(start_submision_num).zfill(3)}.json"
-        filename = f"CIK{cik_10}.json"
+
+        if start_submision_num > 0:
+            filename = f"CIK{cik_10}.json"
+        else:
+            filename = (
+                f"CIK{cik_10}-submissions-{str(start_submision_num).zfill(3)}.json"
+            )
+        start_submision_num += 1
         company_info_json_url = f"https://data.sec.gov/submissions/{filename}"
 
         # Retrieve company info JSON
@@ -109,6 +113,7 @@ for tic, cik in zip(
                 ) in zip(accessionNumber, reportDate, form, primaryDocument):
                     if a_form_type in need_form_types:
                         form_url = f"https://www.sec.gov/Archives/edgar/data/{cik}/{a_accessionNumber.replace('-', '')}/{a_primaryDocument}"
+                        print(f"{form_url=}")
                         if a_reportDate:
                             year = str(a_reportDate.replace("-", ""))
                         else:
@@ -121,14 +126,6 @@ for tic, cik in zip(
                         )
                         if response_form:
                             html = response_form.text
-
-                            # Save HTML file
-                            # html_file_path = os.path.join(save_dir, f"{file_name}.html")
-                            # with open(html_file_path, 'w', encoding='utf-8') as file:
-                            #     file.write(html)
-                            #     print(f"HTML file saved to {html_file_path}")
-
-                            # Extract text from HTML
                             text = extract_text_from_html(html)
                             if text:
                                 # Save text to file
@@ -144,15 +141,8 @@ for tic, cik in zip(
                                 print("Failed to extract text from HTML.")
                                 text = ""
 
-                            # Append data to DataFrame
-                            # data = data.append({'tic': tic, 'conm': conm, 'cik': cik, 'form_url': form_url, 'text': text}, ignore_index=True)
             else:
                 print("No recent filings found for the company.")
-            start_submision_num += 1
         else:
             print("No recent filings found for the company.")
             break
-
-# Save data to Excel and CSV files
-# data.to_excel('output/data_rest.xlsx', index=False)
-# data.to_csv('output/data_rest.csv', index=False)
